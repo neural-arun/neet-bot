@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard | GPT Biology Bot</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/style.css">
+    <style>
+        .admin-page {
+            padding: 40px 0 80px;
+        }
+        .admin-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 32px;
+            flex-wrap: wrap;
+            gap: 16px;
+        }
+        .admin-title-box {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+        .admin-title-box h1 {
+            font-size: 2.2rem;
+            color: var(--text-on-light);
+        }
+        .live-badge {
+            background: rgba(16, 185, 129, 0.15);
+            color: #10b981;
+            border: 1px solid rgba(16, 185, 129, 0.4);
+            padding: 4px 14px;
+            border-radius: 20px;
+            font-size: 0.82rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .pulse-dot {
+            width: 8px;
+            height: 8px;
+            background: #10b981;
+            border-radius: 50%;
+            box-shadow: 0 0 8px #10b981;
+            animation: pulse 1.5s infinite;
+        }
+        @keyframes pulse {
+            0% { opacity: 0.4; }
+            50% { opacity: 1; }
+            100% { opacity: 0.4; }
+        }
+        
+        /* Stat Cards Grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+            gap: 20px;
+            margin-bottom: 36px;
+        }
+        .stat-card {
+            padding: 24px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .stat-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            color: var(--text-muted-dark);
+            font-size: 0.88rem;
+        }
+        .stat-icon {
+            font-size: 1.8rem;
+        }
+        .stat-num {
+            font-family: var(--font-heading);
+            font-size: 2.4rem;
+            font-weight: 800;
+            color: #ffffff;
+        }
+        .stat-sub {
+            font-size: 0.8rem;
+            color: #6ee7b7;
+        }
+
+        /* Activity Tables */
+        .tables-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(460px, 1fr));
+            gap: 24px;
+            margin-bottom: 40px;
+        }
+        .table-card {
+            padding: 24px;
+        }
+        .table-card-title {
+            font-size: 1.2rem;
+            color: #ffffff;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        .data-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 0.88rem;
+            text-align: left;
+        }
+        .data-table th {
+            color: var(--text-muted-dark);
+            font-weight: 600;
+            padding: 10px 12px;
+            border-bottom: 1px solid var(--ui-dark-border);
+        }
+        .data-table td {
+            padding: 12px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            color: var(--text-on-dark);
+        }
+        .data-table tr:hover td {
+            background: rgba(255, 255, 255, 0.03);
+        }
+        .badge-tag {
+            padding: 2px 8px;
+            border-radius: 6px;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+        .tag-telegram { background: rgba(0, 136, 204, 0.2); color: #38bdf8; }
+        .tag-web { background: rgba(16, 185, 129, 0.2); color: #34d399; }
+
+        /* Login Modal Overlay */
+        .login-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100vw;
+            height: 100vh;
+            background: rgba(19, 41, 36, 0.85);
+            backdrop-filter: blur(20px);
+            z-index: 1000;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .login-card {
+            background: var(--ui-dark);
+            border: 1px solid var(--ui-dark-border);
+            padding: 40px 32px;
+            border-radius: 24px;
+            max-width: 420px;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 25px 60px -15px rgba(0,0,0,0.6);
+        }
+        .login-icon {
+            font-size: 3rem;
+            margin-bottom: 12px;
+        }
+        .login-card h2 {
+            color: #ffffff;
+            font-size: 1.6rem;
+            margin-bottom: 8px;
+        }
+        .login-card p {
+            color: var(--text-muted-dark);
+            font-size: 0.9rem;
+            margin-bottom: 24px;
+        }
+        .login-input-box input {
+            width: 100%;
+            padding: 14px 18px;
+            background: var(--ui-dark-card);
+            border: 1px solid var(--ui-dark-border);
+            border-radius: 12px;
+            color: #ffffff;
+            font-size: 1rem;
+            outline: none;
+            margin-bottom: 16px;
+            text-align: center;
+        }
+        .login-input-box input:focus {
+            border-color: var(--leaf-green-bright);
+        }
+        .login-error {
+            color: #fca5a5;
+            font-size: 0.85rem;
+            margin-bottom: 12px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Ambient Background -->
+    <div class="mesh-bg">
+        <div class="color-orb orb-forest"></div>
+        <div class="color-orb orb-leaf"></div>
+        <div class="color-orb orb-cream"></div>
+    </div>
+
+    <!-- Password Protection Modal -->
+    <div class="login-overlay" id="login-overlay">
+        <div class="login-card forest-ui-card">
+            <div class="login-icon">🔒</div>
+            <h2>Admin Authentication</h2>
+            <p>Enter your secret Admin Password to access user analytics & bot statistics.</p>
+            
+            <div class="login-input-box">
+                <input type="password" id="admin-pass-input" placeholder="Enter Admin Password" onkeydown="if(event.key==='Enter') verifyPassword()">
+            </div>
+            <div class="login-error" id="login-error">Incorrect password. Please try again.</div>
+            
+            <button class="btn btn-primary btn-touch" style="width: 100%;" onclick="verifyPassword()">🔓 Unlock Dashboard</button>
+        </div>
+    </div>
+
+    <!-- Protected Header -->
+    <header class="navbar" id="protected-navbar" style="display: none;">
+        <div class="container nav-container">
+            <a href="/" class="brand">
+                <img src="/logo.png" alt="GPT Biology Bot Logo" class="brand-logo-img">
+                <span class="brand-text">GPT <span class="brand-highlight">Biology</span> Analytics</span>
+            </a>
+            <div class="nav-right">
+                <a href="/" class="btn btn-outline btn-sm">← Main App</a>
+                <button class="btn btn-primary btn-sm" onclick="loadAnalytics()">🔄 Refresh</button>
+                <button class="btn btn-secondary btn-sm" onclick="logoutAdmin()">🔒 Lock</button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Protected Main Content -->
+    <main class="container admin-page" id="protected-content" style="display: none;">
+        <div class="admin-header">
+            <div class="admin-title-box">
+                <h1>User Tracking & Analytics</h1>
+                <span class="live-badge"><span class="pulse-dot"></span> Real-time Sync</span>
+            </div>
+            <div>
+                <small style="color: var(--text-muted-light);">Auto-refreshes every 15s • <span id="last-updated">Updating...</span></small>
+            </div>
+        </div>
+
+        <!-- 4 Primary Stat Cards -->
+        <div class="stats-grid">
+            <div class="forest-ui-card stat-card">
+                <div class="stat-header">
+                    <span>Registered Bot Users</span>
+                    <span class="stat-icon">👥</span>
+                </div>
+                <div class="stat-num" id="stat-telegram-users">0</div>
+                <div class="stat-sub">Telegram Bot Registered Users</div>
+            </div>
+
+            <div class="forest-ui-card stat-card">
+                <div class="stat-header">
+                    <span>Web Site Visitors</span>
+                    <span class="stat-icon">🌐</span>
+                </div>
+                <div class="stat-num" id="stat-site-visits">0</div>
+                <div class="stat-sub">Total Page Views Tracked</div>
+            </div>
+
+            <div class="forest-ui-card stat-card">
+                <div class="stat-header">
+                    <span>Telegram Link Clicks</span>
+                    <span class="stat-icon">✈️</span>
+                </div>
+                <div class="stat-num" id="stat-telegram-clicks">0</div>
+                <div class="stat-sub">Web Visitors Sent to Telegram</div>
+            </div>
+
+            <div class="forest-ui-card stat-card">
+                <div class="stat-header">
+                    <span>Mock Tests Completed</span>
+                    <span class="stat-icon">📝</span>
+                </div>
+                <div class="stat-num" id="stat-total-tests">0</div>
+                <div class="stat-sub">Web (<span id="stat-web-tests">0</span>) + Telegram (<span id="stat-bot-tests">0</span>)</div>
+            </div>
+        </div>
+
+        <!-- Detailed Tables -->
+        <div class="tables-grid">
+            
+            <!-- Table 1: Recent Telegram Registered Users -->
+            <div class="forest-ui-card table-card">
+                <div class="table-card-title">
+                    <span>📱 Registered Telegram Users</span>
+                    <small style="color:var(--text-muted-dark); font-size:0.8rem;" id="user-count-tag">0 Users</small>
+                </div>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>User ID</th>
+                            <th>Name / Username</th>
+                            <th>Joined Date</th>
+                            <th>Tests Taken</th>
+                        </tr>
+                    </thead>
+                    <tbody id="users-table-body">
+                        <tr><td colspan="4" style="text-align:center;">Loading users...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <!-- Table 2: Recent Test Activity Sessions -->
+            <div class="forest-ui-card table-card">
+                <div class="table-card-title">
+                    <span>⚡ Recent Mock Test Sessions</span>
+                    <small style="color:var(--text-muted-dark); font-size:0.8rem;" id="session-count-tag">0 Sessions</small>
+                </div>
+                <table class="data-table">
+                    <thead>
+                        <tr>
+                            <th>User</th>
+                            <th>Chapter</th>
+                            <th>Score</th>
+                            <th>Date</th>
+                        </tr>
+                    </thead>
+                    <tbody id="sessions-table-body">
+                        <tr><td colspan="4" style="text-align:center;">Loading sessions...</td></tr>
+                    </tbody>
+                </table>
+            </div>
+
+        </div>
+    </main>
+
+    <script>
+        let storedPass = localStorage.getItem('admin_pass') || '';
+
+        async function verifyPassword() {
+            const inputVal = document.getElementById('admin-pass-input').value.trim();
+            const passToTry = inputVal || storedPass;
+
+            if (!passToTry) {
+                showError('Please enter the Admin password.');
+                return;
+            }
+
+            const success = await loadAnalytics(passToTry);
+            if (success) {
+                localStorage.setItem('admin_pass', passToTry);
+                storedPass = passToTry;
+                document.getElementById('login-overlay').style.display = 'none';
+                document.getElementById('protected-navbar').style.display = 'block';
+                document.getElementById('protected-content').style.display = 'block';
+            } else {
+                showError('Incorrect password. Please try again.');
+            }
+        }
+
+        function showError(msg) {
+            const errBox = document.getElementById('login-error');
+            errBox.innerText = msg;
+            errBox.style.display = 'block';
+        }
+
+        function logoutAdmin() {
+            localStorage.removeItem('admin_pass');
+            storedPass = '';
+            location.reload();
+        }
+
+        async function loadAnalytics(passOverride) {
+            const pass = passOverride || storedPass;
+            if (!pass) return false;
+
+            try {
+                const res = await fetch(`/api/analytics?pass=${encodeURIComponent(pass)}`);
+                if (res.status === 401) {
+                    return false;
+                }
+                const data = await res.json();
+                
+                // Stat Numbers
+                document.getElementById('stat-telegram-users').innerText = data.telegram_users_count || 0;
+                document.getElementById('stat-site-visits').innerText = data.site_visits || 0;
+                document.getElementById('stat-telegram-clicks').innerText = data.telegram_clicks || 0;
+                
+                const totalTests = (data.telegram_sessions_count || 0) + (data.web_tests_completed || 0);
+                document.getElementById('stat-total-tests').innerText = totalTests;
+                document.getElementById('stat-web-tests').innerText = data.web_tests_completed || 0;
+                document.getElementById('stat-bot-tests').innerText = data.telegram_sessions_count || 0;
+                
+                document.getElementById('user-count-tag').innerText = `${data.telegram_users_count || 0} Total`;
+                document.getElementById('session-count-tag').innerText = `${data.telegram_sessions_count || 0} Total`;
+
+                // Render Users Table
+                const usersBody = document.getElementById('users-table-body');
+                if (!data.recent_users || data.recent_users.length === 0) {
+                    usersBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:#a0aec0;">No users registered yet.</td></tr>';
+                } else {
+                    usersBody.innerHTML = data.recent_users.map(u => `
+                        <tr>
+                            <td><code>${u.user_id}</code></td>
+                            <td><strong>${escapeHtml(u.username || 'Student')}</strong></td>
+                            <td>${formatDate(u.created_at)}</td>
+                            <td><span class="badge-tag tag-telegram">${u.session_count || 0} Tests</span></td>
+                        </tr>
+                    `).join('');
+                }
+
+                // Render Sessions Table
+                const sessionsBody = document.getElementById('sessions-table-body');
+                if (!data.recent_sessions || data.recent_sessions.length === 0) {
+                    sessionsBody.innerHTML = '<tr><td colspan="4" style="text-align:center; color:#a0aec0;">No test sessions yet.</td></tr>';
+                } else {
+                    sessionsBody.innerHTML = data.recent_sessions.map(s => `
+                        <tr>
+                            <td><span class="badge-tag tag-telegram">${escapeHtml(s.username || 'User')}</span></td>
+                            <td>${escapeHtml(s.chapter || 'NEET Biology')}</td>
+                            <td><strong>${s.correct_q || 0}/${s.total_q || 0}</strong></td>
+                            <td>${formatDate(s.created_at)}</td>
+                        </tr>
+                    `).join('');
+                }
+
+                document.getElementById('last-updated').innerText = new Date().toLocaleTimeString();
+                return true;
+            } catch (err) {
+                console.error('Failed loading analytics:', err);
+                return false;
+            }
+        }
+
+        function formatDate(str) {
+            if (!str) return '-';
+            try {
+                const d = new Date(str);
+                return d.toLocaleDateString('en-IN', { day: '2-digit', month: 'short', hour: '2-digit', minute: '2-digit' });
+            } catch (e) {
+                return str;
+            }
+        }
+
+        function escapeHtml(str) {
+            if (!str) return '';
+            return String(str).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            if (storedPass) {
+                verifyPassword();
+            }
+            setInterval(() => {
+                if (storedPass) loadAnalytics();
+            }, 15000);
+        });
+    </script>
+</body>
+</html>

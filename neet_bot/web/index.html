@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>NEET Exam Prep Hub | Biology, Physics & Chemistry Telegram Bots</title>
+    <meta name="description" content="Master NEET 2027 with 17,735+ NCERT line-by-line MCQs across Biology (@gptbiologybot), Physics (@gptphysicsbot), and Chemistry (@gptchemistrybot). Instant PDF report cards & AI diagnostics!">
+    
+    <!-- Google Fonts & KaTeX Engine -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.js"></script>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <!-- Organic Light Warm Background Orbs -->
+    <div class="mesh-bg">
+        <div class="color-orb orb-forest"></div>
+        <div class="color-orb orb-leaf"></div>
+        <div class="color-orb orb-cream"></div>
+    </div>
+
+    <!-- Mobile-Responsive Header -->
+    <header class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="brand">
+                <img src="/logo.png" alt="NEET Master Hub Logo" class="brand-logo-img">
+                <span class="brand-text">NEET <span class="brand-highlight">Prep</span> Hub</span>
+            </a>
+            
+            <div class="nav-right">
+                <nav class="nav-links" id="nav-menu">
+                    <a href="#bots-section" onclick="closeMobileMenu()">Telegram Bots</a>
+                    <a href="#outcomes-section" onclick="closeMobileMenu()">Why Choose Us</a>
+                    <a href="#simulator" onclick="closeMobileMenu()">Web Practice</a>
+                    <a href="#creator-section" onclick="closeMobileMenu()">Connect with Creator</a>
+                </nav>
+                <button class="mobile-toggle-btn" id="mobile-toggle" onclick="toggleMobileMenu()" aria-label="Toggle menu">
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                    <span class="hamburger-line"></span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container hero-container">
+            <div class="hero-logo-center">
+                <img src="/logo.png" alt="NEET Master Hub" class="hero-logo-badge">
+            </div>
+            
+            <div class="hero-badge">
+                <span class="badge-dot"></span>
+                <span>NEET 2027 COMPLETE PREPARATION ECOSYSTEM</span>
+            </div>
+            
+            <h1 class="hero-title">
+                Crush NEET 2027 with <span class="gradient-text">AI-Powered Practice</span> on Telegram
+            </h1>
+            <p class="hero-subtitle">
+                Master 17,735+ NCERT line-by-line MCQs across Biology, Physics, and Chemistry. Get instant PDF report cards with personalized AI weak area diagnostics after every test!
+            </p>
+
+            <!-- Equal 3-Column Telegram Bot Hero Cards -->
+            <div class="hero-telegram-equal-grid" id="bots-section">
+                
+                <!-- Biology Card -->
+                <div class="tg-equal-card card-bio-theme">
+                    <div class="tg-card-badge">BIOLOGY BOT</div>
+                    <div class="tg-card-icon">🧬</div>
+                    <h3>GPT Biology Bot</h3>
+                    <p class="bot-handle">@gptbiologybot</p>
+                    <p class="bot-stats">32 Chapters • 7,735 NCERT MCQs</p>
+                    <p class="bot-outcome">Target 360/360 in Biology with line-by-line NCERT practice.</p>
+                    <a href="https://t.me/gptbiologybot" target="_blank" class="btn btn-tg-bio">
+                        💬 Open Biology Bot ➔
+                    </a>
+                </div>
+
+                <!-- Physics Card -->
+                <div class="tg-equal-card card-phys-theme">
+                    <div class="tg-card-badge">PHYSICS BOT</div>
+                    <div class="tg-card-icon">⚡</div>
+                    <h3>GPT Physics Bot</h3>
+                    <p class="bot-handle">@gptphysicsbot</p>
+                    <p class="bot-stats">20 Chapters • 5,000 Numerical MCQs</p>
+                    <p class="bot-outcome">Conquer Physics formulas, units, and PYQs with zero confusion.</p>
+                    <a href="https://t.me/gptphysicsbot" target="_blank" class="btn btn-tg-phys">
+                        💬 Open Physics Bot ➔
+                    </a>
+                </div>
+
+                <!-- Chemistry Card -->
+                <div class="tg-equal-card card-chem-theme">
+                    <div class="tg-card-badge">CHEMISTRY BOT</div>
+                    <div class="tg-card-icon">🧪</div>
+                    <h3>GPT Chemistry Bot</h3>
+                    <p class="bot-handle">@gptchemistrybot</p>
+                    <p class="bot-stats">20 Chapters • 5,000 Reaction MCQs</p>
+                    <p class="bot-outcome">Master Organic, Inorganic & Physical Chemistry with clean notation.</p>
+                    <a href="https://t.me/gptchemistrybot" target="_blank" class="btn btn-tg-chem">
+                        💬 Open Chemistry Bot ➔
+                    </a>
+                </div>
+
+            </div>
+
+            <!-- Value Metric Pills -->
+            <div class="hero-stats-ribbon">
+                <div class="stat-pill">
+                    <span class="stat-val">17,735+</span>
+                    <span class="stat-lbl">NCERT MCQs</span>
+                </div>
+                <div class="stat-pill">
+                    <span class="stat-val">Instant AI</span>
+                    <span class="stat-lbl">Diagnostic Reports</span>
+                </div>
+                <div class="stat-pill">
+                    <span class="stat-val">CBT Mode</span>
+                    <span class="stat-lbl">Exam Speed Timer</span>
+                </div>
+                <div class="stat-pill">
+                    <span class="stat-val">100% Free</span>
+                    <span class="stat-lbl">Telegram Practice</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Student Outcomes & Value Section -->
+    <section id="outcomes-section" class="outcomes-section">
+        <div class="container">
+            <div class="section-header text-center">
+                <span class="section-tag">Student Success Engine</span>
+                <h2 class="section-title">How This Platform Transforms Your NEET Rank</h2>
+                <p class="section-desc">Designed specifically for NEET aspirants to turn weak concepts into 700+ score confidence.</p>
+            </div>
+
+            <div class="outcomes-grid">
+                
+                <div class="outcome-card glass-panel">
+                    <div class="outcome-icon">🎯</div>
+                    <h3>100% NCERT Line-by-Line Alignment</h3>
+                    <p>Every single question is curated directly from NCERT Class 11 & 12 textbooks. Eliminate surprises on exam day by mastering every diagram, table, and line.</p>
+                </div>
+
+                <div class="outcome-card glass-panel">
+                    <div class="outcome-icon">📊</div>
+                    <h3>Instant AI Weak Area Diagnostics</h3>
+                    <p>Stop guessing what to revise! After every test, receive a detailed PDF report card analyzing your exact weak NCERT subtopics with a tailored action plan.</p>
+                </div>
+
+                <div class="outcome-card glass-panel">
+                    <div class="outcome-icon">⏱️</div>
+                    <h3>Build 1-Minute Exam Speed</h3>
+                    <p>Practice with automatic timer countdowns to build bulletproof speed and accuracy under pressure, eliminating CBT exam hall anxiety.</p>
+                </div>
+
+                <div class="outcome-card glass-panel">
+                    <div class="outcome-icon">📱</div>
+                    <h3>Zero Distraction Telegram Learning</h3>
+                    <p>No heavy app downloads or ad distractions! Practice seamlessly on Telegram anytime, anywhere — even during short study breaks.</p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Practice Center (Secondary Web Option) -->
+    <section id="simulator" class="simulator-section">
+        <div class="container">
+            <div class="section-header text-center">
+                <span class="section-tag">Web Test Simulator</span>
+                <h2 class="section-title">Try Web Practice Mode</h2>
+                <p class="section-desc">Prefer testing on your browser? Select a subject below to launch practice online.</p>
+            </div>
+
+            <!-- Subject Selector Tabs -->
+            <div class="subject-selector-tabs">
+                <button class="subj-tab active" id="subj-tab-biology" onclick="selectSubject('biology')">🧬 Biology (32 Ch)</button>
+                <button class="subj-tab" id="subj-tab-physics" onclick="selectSubject('physics')">⚡ Physics (20 Ch)</button>
+                <button class="subj-tab" id="subj-tab-chemistry" onclick="selectSubject('chemistry')">🧪 Chemistry (20 Ch)</button>
+            </div>
+
+            <!-- Prominent Subject Telegram Banner -->
+            <div class="subject-tg-highlight-box" id="subj-tg-box">
+                <div class="tg-box-info">
+                    <span class="tg-box-icon" id="tg-box-icon">🧬</span>
+                    <div>
+                        <h3 id="tg-box-title">Practice Biology on Telegram (@gptbiologybot)</h3>
+                        <p id="tg-box-desc">32 Chapters • 7,735 NCERT MCQs • PDF Report Cards & AI Diagnostics</p>
+                    </div>
+                </div>
+                <a href="https://t.me/gptbiologybot" target="_blank" class="btn btn-tg-banner" id="tg-box-btn">
+                    💬 Open Telegram Bot ➔
+                </a>
+            </div>
+
+            <!-- Web Simulator Card -->
+            <div class="forest-ui-card glass-panel simulator-card-dull" id="simulator-app">
+                
+                <!-- STEP 1: Practice Mode Selection -->
+                <div id="sim-step-mode" class="sim-step active">
+                    <div class="step-header">
+                        <span class="step-num-badge dull-badge">Step 1</span>
+                        <h3 class="sim-step-title" id="mode-step-title">Select Web Practice Mode (Biology)</h3>
+                    </div>
+
+                    <div class="mode-grid">
+                        <div class="mode-card active" id="mode-single-card" onclick="selectMode('single')">
+                            <div class="mode-header">
+                                <span class="mode-icon">📖</span>
+                                <span class="mode-chip">Single Chapter</span>
+                            </div>
+                            <h4>Single Chapter Test</h4>
+                            <p>Focus on a single specific chapter on web.</p>
+                        </div>
+                        <div class="mode-card" id="mode-multi-card" onclick="selectMode('multi')">
+                            <div class="mode-header">
+                                <span class="mode-icon">🔀</span>
+                                <span class="mode-chip">Custom Mock</span>
+                            </div>
+                            <h4>Custom Multi-Chapter Test</h4>
+                            <p>Pick multiple chapters for a custom web test.</p>
+                        </div>
+                    </div>
+
+                    <div class="sim-footer">
+                        <div></div>
+                        <button class="btn btn-secondary btn-touch" onclick="goToStep('chapters')">Select Chapter(s) →</button>
+                    </div>
+                </div>
+
+                <!-- STEP 2: Chapter Selector -->
+                <div id="sim-step-chapters" class="sim-step">
+                    <div class="step-header">
+                        <span class="step-num-badge dull-badge">Step 2</span>
+                        <h3 class="sim-step-title" id="chapter-step-title">Choose Chapter(s)</h3>
+                    </div>
+
+                    <div class="toolbar-box">
+                        <div class="search-box">
+                            <input type="text" id="chapter-search" placeholder="🔍 Search chapter..." oninput="filterChapters()">
+                        </div>
+                    </div>
+
+                    <div class="multi-controls" id="multi-controls" style="display: none;">
+                        <button class="btn btn-sm btn-outline" onclick="selectAllChapters()">Select All</button>
+                        <button class="btn btn-sm btn-outline" onclick="clearAllChapters()">Clear All</button>
+                        <span class="selected-badge" id="selected-count-badge">0 Selected</span>
+                    </div>
+
+                    <div class="chapters-grid" id="chapters-container">
+                        <div class="loading-state">Loading chapters...</div>
+                    </div>
+
+                    <div class="sim-footer">
+                        <button class="btn btn-secondary btn-touch" onclick="goToStep('mode')">← Back</button>
+                        <button class="btn btn-secondary btn-touch" id="btn-to-count" onclick="goToStep('count')">Question Count →</button>
+                    </div>
+                </div>
+
+                <!-- STEP 3: Question Count & Duration -->
+                <div id="sim-step-count" class="sim-step">
+                    <div class="step-header">
+                        <span class="step-num-badge dull-badge">Step 3</span>
+                        <h3 class="sim-step-title">Test Duration & Question Count</h3>
+                    </div>
+
+                    <div class="summary-box" id="selected-summary-text"></div>
+
+                    <div class="count-grid">
+                        <div class="count-card" onclick="selectCount(10)">
+                            <span class="count-num">10</span>
+                            <span class="count-lbl">Questions</span>
+                        </div>
+                        <div class="count-card active" onclick="selectCount(15)">
+                            <span class="count-num">15</span>
+                            <span class="count-lbl">Questions</span>
+                        </div>
+                        <div class="count-card" onclick="selectCount(25)">
+                            <span class="count-num">25</span>
+                            <span class="count-lbl">Questions</span>
+                        </div>
+                        <div class="count-card" onclick="selectCount(45)">
+                            <span class="count-num">45</span>
+                            <span class="count-lbl">Questions</span>
+                        </div>
+                    </div>
+
+                    <div class="sim-footer">
+                        <button class="btn btn-secondary btn-touch" onclick="goToStep('chapters')">← Back</button>
+                        <button class="btn btn-secondary btn-lg btn-touch" onclick="startQuiz()">Start Web Test</button>
+                    </div>
+                </div>
+
+                <!-- STEP 4: Live Quiz Interface -->
+                <div id="sim-step-quiz" class="sim-step">
+                    <div class="quiz-sticky-header">
+                        <div class="quiz-info-group">
+                            <span id="quiz-q-num" class="q-pill">Q. 1/15</span>
+                            <span id="quiz-chapter-tag" class="ch-pill">Cell: The Unit of Life</span>
+                        </div>
+                        <div class="quiz-timer-pill" id="quiz-timer">⏱ 15:00</div>
+                    </div>
+
+                    <div class="progress-track">
+                        <div class="progress-bar-fill" id="quiz-progress-bar" style="width: 0%;"></div>
+                    </div>
+
+                    <div class="quiz-question-box" id="quiz-question-box">
+                        <div class="q-text" id="q-text-display">Loading question...</div>
+                        <div class="options-container" id="q-options-container"></div>
+                    </div>
+
+                    <div class="quiz-controls-row">
+                        <button class="btn btn-secondary btn-touch" id="btn-prev-q" onclick="navigateQuestion(-1)">◀ Prev</button>
+                        <button class="btn btn-warning btn-touch" onclick="confirmSubmitQuiz()">Submit</button>
+                        <button class="btn btn-secondary btn-touch" id="btn-next-q" onclick="navigateQuestion(1)">Next ▶</button>
+                    </div>
+                </div>
+
+                <!-- STEP 5: Scorecard & AI Evaluation -->
+                <div id="sim-step-result" class="sim-step">
+                    <div class="result-header text-center">
+                        <div class="score-ring-box">
+                            <svg class="ring-svg" viewBox="0 0 100 100">
+                                <circle class="ring-bg" cx="50" cy="50" r="40"></circle>
+                                <circle class="ring-fill" id="score-circle-fill" cx="50" cy="50" r="40" stroke-dasharray="251.2" stroke-dashoffset="251.2"></circle>
+                            </svg>
+                            <div class="ring-content">
+                                <span id="score-marks" class="marks-text">0/0</span>
+                                <span id="score-pct" class="pct-text">0%</span>
+                            </div>
+                        </div>
+
+                        <h3 id="result-status-title" class="result-title">Test Completed!</h3>
+                        <p id="result-ch-summary" class="result-sub">Biological Classification</p>
+                    </div>
+
+                    <div class="result-metrics-grid">
+                        <div class="metric-card metric-correct">
+                            <span class="m-icon">✅</span>
+                            <span class="m-val" id="res-correct">0</span>
+                            <span class="m-lbl">Correct (+4)</span>
+                        </div>
+                        <div class="metric-card metric-wrong">
+                            <span class="m-icon">❌</span>
+                            <span class="m-val" id="res-wrong">0</span>
+                            <span class="m-lbl">Wrong (-1)</span>
+                        </div>
+                        <div class="metric-card metric-unanswered">
+                            <span class="m-icon">⭕</span>
+                            <span class="m-val" id="res-unanswered">0</span>
+                            <span class="m-lbl">Unattempted</span>
+                        </div>
+                    </div>
+
+                    <div class="ai-report-box">
+                        <div class="ai-box-title">
+                            <span class="ai-sparkle">✨</span>
+                            <h4>AI Weak Area Evaluation</h4>
+                        </div>
+                        <div class="ai-box-body markdown-rendered" id="ai-analysis-content">
+                            <div class="ai-pulse-loading">
+                                <div class="pulse-ring"></div>
+                                <p>Generating AI diagnostic & NCERT revision suggestions...</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="result-actions">
+                        <a href="https://t.me/gptbiologybot" target="_blank" class="btn btn-tg-bio btn-touch" id="result-bot-btn">💬 Get PDF Report on Telegram ➔</a>
+                        <button class="btn btn-secondary btn-touch" onclick="resetSimulator()">🔄 Practice Another Test</button>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Creator & Social Connect Section -->
+    <section id="creator-section" class="creator-section">
+        <div class="container text-center">
+            <div class="creator-card glass-panel">
+                <span class="creator-tag">Built for NEET Aspirants</span>
+                <h2>Crafted with ❤️ by <span class="gradient-text">Arun Yadav</span></h2>
+                <p class="creator-desc">
+                    Dedicated to helping NEET students master NCERT line-by-line and eliminate exam anxiety with AI-powered practice.
+                </p>
+                <div class="creator-social-row">
+                    <a href="https://www.instagram.com/neural.arun/" target="_blank" class="social-btn btn-insta">
+                        <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
+                        </svg>
+                        <span>Follow on Instagram</span>
+                    </a>
+                    <a href="https://www.linkedin.com/in/neuralarun/" target="_blank" class="social-btn btn-linkedin">
+                        <svg class="social-icon" viewBox="0 0 24 24" fill="currentColor">
+                            <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/>
+                        </svg>
+                        <span>Connect on LinkedIn</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-brand">
+                <div class="footer-brand-title">
+                    <img src="/logo.png" alt="NEET Master Hub" class="footer-logo-img">
+                    <span>NEET Prep Telegram Hub</span>
+                </div>
+                <p>BIOLOGY • PHYSICS • CHEMISTRY — COMPLETE NEET ECOSYSTEM</p>
+            </div>
+            <div class="footer-links">
+                <a href="https://t.me/gptbiologybot" target="_blank">🧬 Biology Bot (@gptbiologybot)</a>
+                <a href="https://t.me/gptphysicsbot" target="_blank">⚡ Physics Bot (@gptphysicsbot)</a>
+                <a href="https://t.me/gptchemistrybot" target="_blank">🧪 Chemistry Bot (@gptchemistrybot)</a>
+            </div>
+        </div>
+        <div class="footer-bottom text-center">
+            <p>© 2026 NEET Prep Hub — Crafted with ❤️ by <a href="https://www.linkedin.com/in/neuralarun/" target="_blank" style="color: var(--accent-gold); text-decoration: none;">Arun Yadav</a>. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="/app.js"></script>
+</body>
+</html>
