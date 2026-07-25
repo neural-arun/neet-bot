@@ -106,7 +106,7 @@ def _build_question_table(i, q, user_ans, correct_letter, opts, styles):
         badge = '⭕ Unattempted'
         badge_color = ACCENT_ORANGE
 
-    q_style, opt_style, badg_style, score_style = styles
+    q_style, opt_style, badg_style, score_style, sol_style = styles
 
     q_text = _sanitize_text(q['question'])
     q_ch = _sanitize_text(q.get('chapter', ''))
@@ -144,9 +144,20 @@ def _build_question_table(i, q, user_ans, correct_letter, opts, styles):
     ]
     rows.append(score_row)
 
+    sol_text = q.get('solution') or q.get('explanation') or ''
+    if sol_text:
+        sol_san = _sanitize_text(sol_text)
+        sol_san = re.sub(r'\*\*(.*?)\*\*', r'<b>\1</b>', sol_san)
+        sol_san = sol_san.replace('\n', '<br/>')
+        sol_row = [
+            Paragraph(f"<b>💡 Detailed Solution:</b><br/>{sol_san}", sol_style),
+            Paragraph('', badg_style),
+        ]
+        rows.append(sol_row)
+
     col_w = [140*mm, 24*mm]
     t = Table(rows, colWidths=col_w)
-    t.setStyle(TableStyle([
+    t_style = [
         ('BACKGROUND', (0, 0), (-1, 0), LIGHT_BLUE),
         ('TOPPADDING', (0, 0), (-1, 0), 6),
         ('BOTTOMPADDING', (0, 0), (-1, 0), 6),
@@ -156,9 +167,13 @@ def _build_question_table(i, q, user_ans, correct_letter, opts, styles):
         ('RIGHTPADDING', (0, 0), (-1, -1), 8),
         ('BOX', (0, 0), (-1, -1), 0.5, MED_GRAY),
         ('LINEBELOW', (0, 0), (-1, 0), 0.5, MED_GRAY),
-        ('LINEABOVE', (0, -1), (-1, -1), 0.5, MED_GRAY),
-        ('BACKGROUND', (0, -1), (-1, -1), LIGHT_GRAY),
-    ]))
+        ('BACKGROUND', (0, -2 if sol_text else -1), (-1, -2 if sol_text else -1), LIGHT_GRAY),
+    ]
+    if sol_text:
+        t_style.append(('BACKGROUND', (0, -1), (-1, -1), LIGHT_BLUE))
+        t_style.append(('LINEABOVE', (0, -1), (-1, -1), 0.5, MED_GRAY))
+
+    t.setStyle(TableStyle(t_style))
     return t
 
 def generate_report(chapter, correct, total, questions, answers, ai_analysis, wrong=0, unanswered=0, title="GPT BIOLOGY BOT"):
@@ -203,10 +218,13 @@ def generate_report(chapter, correct, total, questions, answers, ai_analysis, wr
     opt_styles = {'normal': opt_normal, 'green': opt_green, 'red': opt_red}
     score_style = ParagraphStyle('Sc', fontSize=9, leading=13,
                                   textColor=TEXT_DARK, fontName='Helvetica-Bold')
+    sol_style = ParagraphStyle('Sol', fontSize=9, leading=13,
+                                 textColor=TEXT_DARK, fontName='Helvetica',
+                                 spaceBefore=2, spaceAfter=2)
     footer_style = ParagraphStyle('Ft', fontSize=8, alignment=TA_CENTER,
                                    textColor=colors.HexColor('#aaaaaa'))
 
-    q_styles = (q_style, opt_styles, badg_style, score_style)
+    q_styles = (q_style, opt_styles, badg_style, score_style, sol_style)
     elements = []
 
     # ── 1. Header ──
