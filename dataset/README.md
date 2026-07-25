@@ -10,12 +10,12 @@ Every question includes complete multiple-choice options, correct answer keys, d
 
 ## 📊 Master Dataset Overview & Statistics (Active NTA Syllabus)
 
-| Subject | Total Questions | NEET PYQs | JEE Mains PYQs / Popular NCERT Qs | NTA Chapters | Formats |
+| Subject | Total Questions | NEET PYQs | Practice / NCERT Question Banks | NTA Chapters | Formats |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Biology** | **9,768** | 1,836 | 7,932 | **32** | JSON, JSONL |
+| **Biology** | **11,279** | 1,836 | 9,443 | **32** | JSON, JSONL |
 | **Chemistry** | **4,392** | 2,419 | 1,973 | **18** | JSON, JSONL |
 | **Physics** | **4,524** | 2,254 | 2,270 | **20** | JSON, JSONL |
-| **GRAND TOTAL** | **18,684** | **6,509** | **12,175** | **70** | **JSON, JSONL** |
+| **GRAND TOTAL** | **20,195** | **6,509** | **13,686** | **70** | **JSON, JSONL** |
 
 ---
 
@@ -38,36 +38,4 @@ dataset/
     ├── physics_pyqs.jsonl              # JSONL stream (1 line per question)
     ├── neet_pyqs_10yr.json             # 10-Year NEET Physics PYQs
     └── jee_mains_pyqs_10yr.json        # 10-Year JEE Mains Physics PYQs (2015-2025)
-```
-
----
-
-## ❌ Deleted Chapters Removed
-
-### Deleted Biology Chapters (Removed 659 Questions):
-* ❌ Transport in Plants
-* ❌ Mineral Nutrition
-* ❌ Digestion and Absorption
-* ❌ Reproduction in Organisms
-* ❌ Strategies for Enhancement in Food Production
-* ❌ Environmental Issues
-
-### Deleted Chemistry Chapters (Removed 168 Questions):
-* ❌ Surface Chemistry and Extraction
-* ❌ Polymers and Everyday Chemistry
-
----
-
-## 💻 Usage Code Examples
-
-### Python (JSON Loading)
-```python
-import json
-
-# Load Active NTA Biology Dataset
-with open('dataset/biology/biology_pyqs_dataset.json') as f:
-    bio_data = json.load(f)
-
-print(f"Active NTA Biology Chapters: {bio_data['total_chapters']}")
-print(f"Active Biology Questions: {bio_data['total_questions']}")
 ```
