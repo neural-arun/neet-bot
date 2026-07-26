@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "Organic Chemistry: Basic Principles",
-  "total_questions": 28,
+  "total_questions": 26,
   "questions": [
     {
       "question": "Examine the Organic Chemistry GOC reaction intermediate scheme below (Figure 20). What is the relative stability order of the carbocation intermediate formed during this transformation?",
@@ -29,7 +29,7 @@
         "D": "Nitrate anion (NO\u2083\u207b)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, $H_2SO_4$ acts as a stronger acid and protonates $HNO_3$ to form the nitronium ion electrophile: $HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-$. The nitronium ion $NO_2^+$ attacks the aromatic ring.",
+      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, H_2SO_4 acts as a stronger acid and protonates HNO_3 to form the nitronium ion electrophile: HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic ring.",
       "exam": "NEET Organic Chemistry Diagram PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -45,7 +45,7 @@
         "D": "Hydronium ion (H\u2083O\u207a)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, sulfuric acid acts as a proton donor to nitric acid, generating the powerful nitronium electrophile: $HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-$. The nitronium ion $NO_2^+$ attacks the aromatic benzene ring.",
+      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, sulfuric acid acts as a proton donor to nitric acid, generating the powerful nitronium electrophile: HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic benzene ring.",
       "exam": "NEET Organic Chemistry Diagram PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -55,9 +55,9 @@
       "question": "In sulphur estimation, 0.157 g of an organic compound gave 0.4813 g of barium sulphate. What is the percentage of sulphur in the compound?",
       "options": {
         "A": "Percentage of sulphur= 7",
-        "B": "36% B Percentage of sulphur=",
-        "C": "18% C Percentage of sulphur= 6",
-        "D": "10% D Percentage of sulphur="
+        "B": "36%",
+        "C": "18%",
+        "D": "10%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Percentage of sulphur= 42.10% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -100,9 +100,9 @@
       "question": "In Carius method of estimation of halogen, 0.15 g of an organic compound gave 0.12 g of AgBr. Find out the percentage of bromine in the compound.",
       "options": {
         "A": "Percentage of bromine=3",
-        "B": "04% B Percentage of bromine=1",
-        "C": "25% C Percentage of bromine=4",
-        "D": "89% D Percentage of bromine=5"
+        "B": "04%",
+        "C": "25%",
+        "D": "89%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) Percentage of bromine=34.04% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -157,21 +157,6 @@
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "On complete combustion, 0.3 g of an organic compound gave 0.2 g of $CO_2$ and 0.1 g of $H_2 O$. The percentage composition of carbon and hydrogen in the compound, respectively is:",
-      "options": {
-        "A": "$",
-        "B": "07 \\%$ and $1",
-        "C": "02 \\%$ B $1",
-        "D": "18 \\%$ and $"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Percentage of carbon $=\\frac\u2081\u2082 \\times m_2 \\times 10044 \\times m$ $m=$ mass of organic compound $=0.3 ~g$ $m_2=$ mass of carbon dioxilde $=0.2 ~g$ $\\therefore \\% C=\\frac\u2081\u2082 \\times 0.2 \\times 10044 \\times 0.3=18.18 \\%$ Percentage of hydrogen $=\\frac\u2082 \\times m_1 \\times 10018 \\times m$ $m_1=$ mass of water $=0.1 ~g$ $\\therefore \\% H=\\frac\u2082 \\times 0.1 \\times 10018 \\times 0.3=3.70 \\%$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Organic Chemistry: Basic Principles"
-    },
-    {
       "question": "[NEET 2023 | Chemistry] Which carbocation is most stable?",
       "options": {
         "A": "CH\\u\u2082\u2080\u2088\u2083\\u\u2082\u2080\u2087a",
@@ -202,22 +187,7 @@
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "On complete combustion, 0.246 g of an organic compound gave 0.198g of carbon dioxide and 0.1014g of water. Determine the percentage composition of carbon and hydrogen in the compound.",
-      "options": {
-        "A": "Percentage of Carbon=3",
-        "B": "78% and Percentage of Hydrogen=",
-        "C": "89% B Percentage of Carbon=3",
-        "D": "78% and Percentage of Hydrogen="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Percentage of Carbon=21.95% and Percentage of Hydrogen=4.58% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Organic Chemistry: Basic Principles"
-    },
-    {
-      "question": "Given below are two statements :<br/><br/>Statement I : Hyperconjugation is a permanent effect.<br/><br/>Statement II : Hyperconjugation in ethyl cation $$\\left( CH_3 - \\mathop C\\limits^ + H_2 \\right)$$ involves the overlapping of $$C_sp^2 - H_1s$$ bond with empty 2p orbital of other carbon.<br/><br/>Choose the correct option :",
+      "question": "Given below are two statements :<br/><br/>Statement I : Hyperconjugation is a permanent effect.<br/><br/>Statement II : Hyperconjugation in ethyl cation \\left( CH_3 - \\mathop C\\limits^ + H_2 \\right) involves the overlapping of C_sp^2 - H_1s bond with empty 2p orbital of other carbon.<br/><br/>Choose the correct option :",
       "options": {
         "A": "Both statement I and statement II are false",
         "B": "Statement I is incorrect but statement II is true",
@@ -225,7 +195,7 @@
         "D": "Both statement I and statement II are true."
       },
       "answer": "C",
-      "solution": "Statement I : It is correct statement<br><br>Statement II : $$CH_3 - \\mathop CH_2\\limits^ \\oplus $$ involve $$C_sp^3 - H_1s$$ bond with empty 2p orbital hence given statement is false.",
+      "solution": "Statement I : It is correct statement<br><br>Statement II : CH_3 - \\mathop CH_2\\limits^ \\oplus involve C_sp^3 - H_1s bond with empty 2p orbital hence given statement is false.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -234,20 +204,20 @@
     {
       "question": "The functional group that shows negative resonance effect is :",
       "options": {
-        "A": "$-OH$",
-        "B": "$-OR$",
-        "C": "$-COOH$",
-        "D": "$-NH_2$"
+        "A": "-OH",
+        "B": "-OR",
+        "C": "-COOH",
+        "D": "-NH_2"
       },
       "answer": "C",
-      "solution": "<p>The negative resonance effect, also called the -I effect, refers to the ability of a functional group to withdraw electron density through the p-orbitals via resonance. It is often the characteristic of groups that have atoms with high electronegativity or multiple bonds that allow for electron delocalization away from the conjugated system.</p> <p>To determine which functional group shows a negative resonance effect from the options provided, let's review them one by one:</p> <ul> <li><strong>Option A - $-OH$</strong>: The hydroxyl group (-OH) is capable of donating electrons via resonance due to the lone pair of electrons on oxygen. Therefore, it has a positive resonance effect, not a negative one.</li> <br/><li><strong>Option B - $-OR$</strong>: Similar to the hydroxyl group, alkoxides (-OR) can also donate electron density through resonance because of the lone pairs on the oxygen atom. This makes them electron-donating groups, showing a positive resonance effect.</li> <br/><li><strong>Option C - $-COOH$</strong>: The carboxylic acid group (-COOH) contains a carbonyl group (C=O) which is highly electronegative and can withdraw electron density via resonance. The double bond between carbon and oxygen can participate in resonance, spreading the electron density away from other parts of the molecule. Thus, the carboxylic acid group shows a negative resonance effect.</li> <br/><li><strong>Option D - $-NH_2$</strong>: The amino group (-NH<sub>2</sub>) is an electron-donating group due to the lone pair of electrons on the nitrogen atom. It shows a positive resonance effect, similar to hydroxyl and alkoxy groups.</li> </ul> <p>Given the choices, <strong>Option C - $-COOH$</strong> is the functional group that shows a negative resonance effect because of its ability to withdraw electron density through resonance with its carbonyl group which is highly electronegative and capable of delocalizing electrons.</p>",
+      "solution": "The negative resonance effect, also called the -I effect, refers to the ability of a functional group to withdraw electron density through the p-orbitals via resonance. It is often the characteristic of groups that have atoms with high electronegativity or multiple bonds that allow for electron delocalization away from the conjugated system. To determine which functional group shows a negative resonance effect from the options provided, let's review them one by one: <ul> <li><strong>Option A - -OH</strong>: The hydroxyl group (-OH) is capable of donating electrons via resonance due to the lone pair of electrons on oxygen. Therefore, it has a positive resonance effect, not a negative one.</li> <br/><li><strong>Option B - -OR</strong>: Similar to the hydroxyl group, alkoxides (-OR) can also donate electron density through resonance because of the lone pairs on the oxygen atom. This makes them electron-donating groups, showing a positive resonance effect.</li> <br/><li><strong>Option C - -COOH</strong>: The carboxylic acid group (-COOH) contains a carbonyl group (C=O) which is highly electronegative and can withdraw electron density via resonance. The double bond between carbon and oxygen can participate in resonance, spreading the electron density away from other parts of the molecule. Thus, the carboxylic acid group shows a negative resonance effect.</li> <br/><li><strong>Option D - -NH_2</strong>: The amino group (-NH<sub>2</sub>) is an electron-donating group due to the lone pair of electrons on the nitrogen atom. It shows a positive resonance effect, similar to hydroxyl and alkoxy groups.</li> </ul> Given the choices, <strong>Option C - -COOH</strong> is the functional group that shows a negative resonance effect because of its ability to withdraw electron density through resonance with its carbonyl group which is highly electronegative and capable of delocalizing electrons.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The IUPAC name of ethylidene chloride is :</p>",
+      "question": "The IUPAC name of ethylidene chloride is :",
       "options": {
         "A": "1-Chloroethene",
         "B": "1-Chloroethyne",
@@ -255,14 +225,14 @@
         "D": "1,1-Dichloroethane"
       },
       "answer": "D",
-      "solution": "<p>Ethylidene chloride is CH<sub>3</sub>\\\u2013 CHCl<sub>2</sub>, its IUPAC name is 1,1-Dichloromethane.</p>",
+      "solution": "Ethylidene chloride is CH<sub>3</sub>\\\u2013 CHCl<sub>2</sub>, its IUPAC name is 1,1-Dichloromethane.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>Given below are two statements:</p> <p>Statement I: IUPAC name of $$HO-CH_2-\\left(CH_2\\right)_3-CH_2-COCH_3$$ is 7-hydroxyheptan-2-one.</p> <p>Statement II: 2-oxoheptan-7-ol is the correct IUPAC name for above compound. In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "question": "Given below are two statements: Statement I: IUPAC name of HO-CH_2-\\left(CH_2\\right)_3-CH_2-COCH_3 is 7-hydroxyheptan-2-one. Statement II: 2-oxoheptan-7-ol is the correct IUPAC name for above compound. In the light of the above statements, choose the most appropriate answer from the options given below:",
       "options": {
         "A": "Statement I is incorrect but Statement II is correct.",
         "B": "Statement I is correct but Statement II is incorrect.",
@@ -270,14 +240,14 @@
         "D": "Both Statement I and Statement II are incorrect."
       },
       "answer": "B",
-      "solution": "<p>7-Hydroxyheptan-2-one is correct IUPAC name</p>",
+      "solution": "7-Hydroxyheptan-2-one is correct IUPAC name",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>A species having carbon with sextet of electrons and can act as electrophile is called</p>",
+      "question": "A species having carbon with sextet of electrons and can act as electrophile is called",
       "options": {
         "A": "pentavalent carbon",
         "B": "carbon free radical",
@@ -285,14 +255,14 @@
         "D": "carbocation"
       },
       "answer": "D",
-      "solution": "<p>The species described as having a carbon atom with a sextet of electrons\\\u2014that is, six electrons in its valence shell\\\u2014capable of acting as an electrophile (an electron-pair acceptor) is called a carbocation. Therefore, the correct answer is:</p> Option D carbocation <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 31st January Morning Shift Chemistry - Basics of Organic Chemistry Question 40 English Explanation\"> <p>Here's a brief explanation of each option:</p> <p>Option A: Pentavalent carbon - This term is not commonly used in organic chemistry, and it refers incorrectly to a carbon with five bonds, which contradicts the tetravalency of carbon.</p> <p>Option B: Carbon free radical - This species has a carbon atom with an unpaired electron (a septet, or seven valence electrons). It is highly reactive but is not typically classified as an electrophile because it seeks to pair its single unpaired electron rather than accepting a pair of electrons.</p> <p>Option C: Carbanion - This anion has a carbon atom with three bonds and a pair of electrons, which in total gives eight valence electrons. It is nucleophilic (electron-pair donor) rather than electrophilic.</p> <p>Option D: Carbocation - A carbocation is indeed a carbon species with only six valence electrons and thus has an empty p-orbital that can accept a pair of electrons, making it electrophilic. Carbocations are usually trigonal planar in structure and carry a positive charge.</p>",
+      "solution": "The species described as having a carbon atom with a sextet of electrons\\\u2014that is, six electrons in its valence shell\\\u2014capable of acting as an electrophile (an electron-pair acceptor) is called a carbocation. Therefore, the correct answer is: Option D carbocation <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 31st January Morning Shift Chemistry - Basics of Organic Chemistry Question 40 English Explanation\"> Here's a brief explanation of each option: Option A: Pentavalent carbon - This term is not commonly used in organic chemistry, and it refers incorrectly to a carbon with five bonds, which contradicts the tetravalency of carbon. Option B: Carbon free radical - This species has a carbon atom with an unpaired electron (a septet, or seven valence electrons). It is highly reactive but is not typically classified as an electrophile because it seeks to pair its single unpaired electron rather than accepting a pair of electrons. Option C: Carbanion - This anion has a carbon atom with three bonds and a pair of electrons, which in total gives eight valence electrons. It is nucleophilic (electron-pair donor) rather than electrophilic. Option D: Carbocation - A carbocation is indeed a carbon species with only six valence electrons and thus has an empty p-orbital that can accept a pair of electrons, making it electrophilic. Carbocations are usually trigonal planar in structure and carry a positive charge.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The shape of carbocation is :</p>",
+      "question": "The shape of carbocation is :",
       "options": {
         "A": "tetrahedral",
         "B": "diagonal pyramidal",
@@ -300,22 +270,22 @@
         "D": "trigonal planar"
       },
       "answer": "D",
-      "solution": "<p>Carbocation is $$s p^2$$ hybridised hence it's shape is trigonal planar</p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 8th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 14 English Explanation\"></p>",
+      "solution": "Carbocation is s p^2 hybridised hence it's shape is trigonal planar <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 8th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 14 English Explanation\">",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is</p>",
+      "question": "The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is",
       "options": {
-        "A": "electromeric energy",
+        "A": "electromeri",
         "B": "resonance energy",
         "C": "ionization energy",
         "D": "hyperconjugation energy"
       },
       "answer": "B",
-      "solution": "<p>The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is known as resonance energy.</p>",
+      "solution": "The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is known as resonance energy.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -330,7 +300,7 @@
         "D": "ichloridotetraaqua chromium (IV) chloride dihydrate"
       },
       "answer": "C",
-      "solution": "Given complex Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub> <br><br>As the magnetic mement is 3.83 BM then <br><br>Spin only magnetic moment = $$\\sqrt n\\left( n + 2 \\right) $$ BM = 3.83 <br><br>$$ \\Rightarrow $$ n = 3 <br><br>Chromium in +3 oxidation state so molecular formula is Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub>. <br><br>$$ \\therefore $$ This formula have following isomers <br><br>(a) [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub> : react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(b) [Cr(H<sub>2</sub>O)<sub>5</sub>Cl]Cl<sub>2</sub>.H<sub>2</sub>O react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(c) [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl.2H<sub>2</sub>O react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>(d) [Cr(H<sub>2</sub>O)<sub>3</sub>Cl<sub>3</sub>].3H<sub>2</sub>O does not react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>Compound will be [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>] Cl.2H<sub>2</sub>O <br><br>IUPAC NAME : Tetraaquadichlorido chromium(III) chloride dihydrate",
+      "solution": "Given complex Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub> <br><br>As the magnetic mement is 3.83 BM then <br><br>Spin only magnetic moment = \\sqrt n\\left( n + 2 \\right) BM = 3.83 <br><br> \\Rightarrow n = 3 <br><br>Chromium in +3 oxidation state so molecular formula is Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub>. <br><br> \\therefore This formula have following isomers <br><br>(a) [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub> : react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(b) [Cr(H<sub>2</sub>O)<sub>5</sub>Cl]Cl<sub>2</sub>.H<sub>2</sub>O react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(c) [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl.2H<sub>2</sub>O react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>(d) [Cr(H<sub>2</sub>O)<sub>3</sub>Cl<sub>3</sub>].3H<sub>2</sub>O does not react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>Compound will be [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>] Cl.2H<sub>2</sub>O <br><br>IUPAC NAME : Tetraaquadichlorido chromium(III) chloride dihydrate",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -345,14 +315,14 @@
         "D": "iammine (methanamine) chlorido platinum(II)Chloride."
       },
       "answer": "A",
-      "solution": "[Pt(NH<sub>3</sub>)<sub>2</sub>Cl(NH<sub>2</sub>CH<sub>3</sub>)]Cl <br><br>x + 0 \\\u2013 1 + 0 = +1 <br><br>x = +2 <br><br>So Pt present in Pt<sup>+2</sup> form. <br><br>$$ \\therefore $$ Correct IUPAC form <br><br>Diamminechlorido (methanamine) platinum(II)chloride.",
+      "solution": "[Pt(NH<sub>3</sub>)<sub>2</sub>Cl(NH<sub>2</sub>CH<sub>3</sub>)]Cl <br><br>x + 0 \\\u2013 1 + 0 = +1 <br><br>x = +2 <br><br>So Pt present in Pt<sup>+2</sup> form. <br><br> \\therefore Correct IUPAC form <br><br>Diamminechlorido (methanamine) platinum(II)chloride.",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The IUPAC name of $$K_3\\left[Co\\left(C_2 O_4\\right)_3\\right]$$ is:-</p>",
+      "question": "The IUPAC name of K_3\\left[Co\\left(C_2 O_4\\right)_3\\right] is:-",
       "options": {
         "A": "Potassium tris(oxalato)cobalt(III)",
         "B": "Potassium tris(oxalato)cobaltate(III)",
@@ -360,14 +330,14 @@
         "D": "Potassium trioxalatocobalt(III)"
       },
       "answer": "C",
-      "solution": "<p>To determine the IUPAC name of the compound K\u2083[Co(C\u2082O\u2084)\u2083], let's follow the nomenclature rules for coordination compounds:</p> <p><p><strong>Identify the Cation and Anion</strong>: The compound consists of potassium ions (K\u207a) and a complex anion [Co(C\u2082O\u2084)\u2083]\u00b3\u207b.</p></p> <p><p><strong>Name the Cation First</strong>: The cation is named first. So, we start with \"Potassium.\"</p></p> <p><p><strong>Determine the Ligand Name</strong>: The ligand C\u2082O\u2084\u00b2\u207b is called \"oxalato.\"</p></p> <p><p><strong>Count the Number of Ligands</strong>: There are three oxalato ligands. Since \"oxalato\" does not contain any numerical prefixes (like di-, tri-), we use the prefixes \"di-\", \"tri-\", etc., for simple ligands. So, we use \"trioxalato.\"</p></p> <p><p><strong>Name the Central Metal Atom</strong>: Since the complex ion is an anion, the metal name ends with the suffix \"-ate.\" Therefore, \"cobalt\" becomes \"cobaltate.\"</p></p> <p><p><strong>Specify the Oxidation State</strong>: The oxidation state of cobalt in this complex can be calculated:</p></p> <p><p>Let the oxidation state of Co be x.</p></p> <p><p>Each oxalato ligand has a charge of -2.</p></p> <p><p>The overall charge of the complex ion is -3.</p> <p>So, x + 3(-2) = -3 \u21d2 x -6 = -3 \u21d2 x = +3.</p> <p>Therefore, we indicate the oxidation state as (III).</p></p> <p>Combining all these, the IUPAC name is <strong>Potassium trioxalatocobaltate(III)</strong>.</p> <p><strong>Answer:</strong> Option C</p> <p>Potassium trioxalatocobaltate(III)</p>",
+      "solution": "To determine the IUPAC name of the compound K\u2083[Co(C\u2082O\u2084)\u2083], let's follow the nomenclature rules for coordination compounds: <strong>Identify the Cation and Anion</strong>: The compound consists of potassium ions (K\u207a) and a complex anion [Co(C\u2082O\u2084)\u2083]\u00b3\u207b. <strong>Name the Cation First</strong>: The cation is named first. So, we start with \"Potassium.\" <strong>Determine the Ligand Name</strong>: The ligand C\u2082O\u2084\u00b2\u207b is called \"oxalato.\" <strong>Count the Number of Ligands</strong>: There are three oxalato ligands. Since \"oxalato\" does not contain any numerical prefixes (like di-, tri-), we use the prefixes \"di-\", \"tri-\", etc., for simple ligands. So, we use \"trioxalato.\" <strong>Name the Central Metal Atom</strong>: Since the complex ion is an anion, the metal name ends with the suffix \"-ate.\" Therefore, \"cobalt\" becomes \"cobaltate.\" <strong>Specify the Oxidation State</strong>: The oxidation state of cobalt in this complex can be calculated: Let the oxidation state of Co be x. Each oxalato ligand has a charge of -2. The overall charge of the complex ion is -3. So, x + 3(-2) = -3 \u21d2 x -6 = -3 \u21d2 x = +3. Therefore, we indicate the oxidation state as (III). Combining all these, the IUPAC name is <strong>Potassium trioxalatocobaltate(III)</strong>. <strong>Answer:</strong> Option C Potassium trioxalatocobaltate(III)",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The correct IUPAC name of $$[PtBr_2(PMe_3)_2]$$ is :</p>",
+      "question": "The correct IUPAC name of [PtBr_2(PMe_3)_2] is :",
       "options": {
         "A": "bis(trimethylphosphine)dibromoplatinum(II)",
         "B": "dibromodi(trimethylphosphine)platinum(II)",
@@ -375,14 +345,14 @@
         "D": "bis[bromo(trimethylphosphine)]platinum(II)"
       },
       "answer": "C",
-      "solution": "<p>The correct IUPAC name of $$[PtBr_2(PMe_3)_2]$$ is dibromobis(trimethylphosphine)platinum(II).</p>",
+      "solution": "The correct IUPAC name of [PtBr_2(PMe_3)_2] is dibromobis(trimethylphosphine)platinum(II).",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The correct IUPAC name of $$K_2 MnO_4$$ is</p>",
+      "question": "The correct IUPAC name of K_2 MnO_4 is",
       "options": {
         "A": "Potassium tetraoxidomanganate (VI)",
         "B": "Dipotassium tetraoxidomanganate (VII)",
@@ -390,7 +360,7 @@
         "D": "Potassium tetraoxidomanganese (VI)"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginaligned & K_2 MnO_4 \\\\ & 2+x-8=0 \\\\ & \\Rightarrow x=+6 \\endaligned$$</p> <p>$$O.S.$$ of $$Mn=+6$$ <p>IUPAC Name $$=$$</p> <p>Potassium tetraoxidomanganate(VI)</p>",
+      "solution": "\\beginaligned & K_2 MnO_4 \\\\ & 2+x-8=0 \\\\ & \\Rightarrow x=+6 \\endaligned O.S. of Mn=+6 IUPAC Name = Potassium tetraoxidomanganate(VI)",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -405,14 +375,14 @@
         "D": "unh"
       },
       "answer": "C",
-      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2081\u2089/exam_images/cldq\u2089i\u2083yigvqhbjuaeqn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2088\u2081/exam_images/efbfk\u2088nfrct\u2084lg\u2085vtw\u2082j.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Periodic Table & Periodicity Question 97 English Explanation\"></picture>",
+      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2081\u2089/exam_images/cldq\u2089i\u2083yigvqhbjuaeqn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2088\u2081/exam_images/efbfk\u2088nfrct\u2084lg\u2085vtw\u2082j.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Periodic Table & Periodicity Question 97 English Explanation\">",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "<p>The IUPAC nomenclature of an element with electronic configuration [Rn] $$5 f^146 d^17 s^2$$ is :</p>",
+      "question": "The IUPAC nomenclature of an element with electronic configuration [Rn] 5 f^146 d^17 s^2 is :",
       "options": {
         "A": "Unnilbium",
         "B": "Unnilunium",
@@ -420,7 +390,7 @@
         "D": "Unniltrium"
       },
       "answer": "D",
-      "solution": "The element with electronic configuration [Rn] $$5 f^146 ~d^17 ~s^2$$ has atomic number $\\rightarrow 103$ <br/><br/> $$\\therefore$$ Its IUPAC name is: Unniltrium",
+      "solution": "The element with electronic configuration [Rn] 5 f^146 d^17 s^2 has atomic number \\rightarrow 103 <br/><br/> \\therefore Its IUPAC name is: Unniltrium",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",

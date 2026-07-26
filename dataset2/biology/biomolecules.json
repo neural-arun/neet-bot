@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Biomolecules",
-  "total_questions": 158,
+  "total_questions": 154,
   "questions": [
     {
       "question": "[NEET 2019 | Biology] Restriction enzymes cut DNA at specific sequences called:",
@@ -37,8 +37,8 @@
       "question": "[NEET 2019 | Biology] The active site of an enzyme is:",
       "options": {
         "A": "The entire surface of the enzyme",
-        "B": "A small region where substrate binds and reaction occurs",
-        "C": "A cofactor that activates the enzyme",
+        "B": "small region where substrate binds and reaction occurs",
+        "C": "cofactor that activates the enzyme",
         "D": "The C-terminus of the enzyme"
       },
       "answer": "B",
@@ -57,7 +57,7 @@
         "D": "RNA Polymerase"
       },
       "answer": "C",
-      "solution": "# **Correct Answer: (C) Taq Polymerase** --- ## Step-by-Step Reasoning: ### Why Taq Polymerase is used in PCR: **1. Thermostability** - Taq Polymerase comes from *Thermus aquaticus* (a thermophilic bacterium) - Can withstand repeated heating cycles (94-95\u00b0C) without denaturing - Essential since PCR requires 25-35 thermal cycles **2. Function** - Synthesizes DNA by extending primers along the template strand - Adds nucleotides in the 5' \u2192 3' direction - Works efficiently at the extension temperature (~72\u00b0C) **3. Processivity** - Can add ~1000 nucleotides per minute - Remains stable during the rapid temperature changes --- ## Why Other Options Are Wrong: | Option | Why it's Wrong | |--------|---| | **(A) DNA Pol I** | Denatures at PCR temperatures; not thermostable; degrades during cycling | | **(B) Reverse Transcriptase** | Synthesizes DNA from RNA template; not meant for standard PCR | | **(D) RNA Polymerase** | Synthesizes RNA, not DNA; wrong function entirely | --- ## Key Fact to Remember: **\"Taq\" = Thermus aquaticus polymerase** - The enzyme is named after its source organism - Thermostability is the KEY requirement for PCR - This revolutionary discovery by Kary Mullis (1983) made PCR possible and earned him a Nobel Prize",
+      "solution": "# **Correct Answer: (C) Taq Polymerase** --- ## Step-by-Step Reasoning: ### Why Taq Polymerase is used in PCR: **1. Thermostability** - Taq Polymerase comes from *Thermus aquaticus* (a thermophilic bacterium) - Can withstand repeated heating cycles (94-95\u00b0C) without denaturing - Essential since PCR requires 25-35 thermal cycles **2. Function** - Synthesizes DNA by extending primers along the template strand - Adds nucleotides in the 5' \u2192 3' direction - Works efficiently at the extension temperature ( 72\u00b0C) **3. Processivity** - Can add 1000 nucleotides per minute - Remains stable during the rapid temperature changes --- ## Why Other Options Are Wrong: | Option | Why it's Wrong | |--------|---| | **(A) DNA Pol I** | Denatures at PCR temperatures; not thermostable; degrades during cycling | | **(B) Reverse Transcriptase** | Synthesizes DNA from RNA template; not meant for standard PCR | | **(D) RNA Polymerase** | Synthesizes RNA, not DNA; wrong function entirely | --- ## Key Fact to Remember: **\"Taq\" = Thermus aquaticus polymerase** - The enzyme is named after its source organism - Thermostability is the KEY requirement for PCR - This revolutionary discovery by Kary Mullis (1983) made PCR possible and earned him a Nobel Prize",
       "exam": "NEET 2017",
       "year": 2017,
       "subject": "Biology",
@@ -72,7 +72,7 @@
         "D": "H\\u\u2082\u2080\u2088\u2082O, CH\\u\u2082\u2080\u2088\u2084, O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082"
       },
       "answer": "A",
-      "solution": "# Miller-Urey Experiment - Correct Answer ## **Answer: (B) CH\\u\u2082\u2080\u2088\u2084, NH\\u\u2082\u2080\u2088\u2083, H\\u\u2082\u2080\u2088\u2082O, H\\u\u2082\u2080\u2088\u2082** --- ## Step-by-Step Explanation ### The Experimental Setup (1952) Miller and Urey created a closed apparatus containing: - **CH\\u\u2082\u2080\u2088\u2084** (Methane) - **NH\\u\u2082\u2080\u2088\u2083** (Ammonia) - **H\\u\u2082\u2080\u2088\u2082O** (Water vapor) - **H\\u\u2082\u2080\u2088\u2082** (Hydrogen gas) Plus an **electric discharge** (simulating lightning) as an energy source. ### Why These Gases? These gases were chosen because scientists believed the **early Earth's atmosphere was reducing (anaerobic)**, not oxidizing. This meant: - No free oxygen (O\\u\u2082\u2080\u2088\u2082) - Rich in simple organic molecules - Abundant in hydrogen ### What They Discovered After one week of continuous electric discharge, they found: - **5 amino acids** initially (later analysis found ~20) - Other organic compounds - This proved abiotic synthesis of organic molecules was possible --- ## Why Other Options Are Wrong | Option | Problem | |--------|---------| | **(A)** O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082O, CO\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082 (oxidizing atmosphere) - incorrect for early Earth | | **(C)** CO\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, HCN | Doesn't match the actual experimental setup | | **(D)** H\\u\u2082\u2080\u2088\u2082O, CH\\u\u2082\u2080\u2088\u2084, O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082, which inhibits amino acid formation | --- ## Key Concept to Remember **The Miller-Urey experiment = CH\\u\u2082\u2080\u2088\u2084 + NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O + H\\u\u2082\u2080\u2088\u2082 + Energy (electric discharge) \\u\u2082\u2081\u2089\u2082 Amino acids** This experiment supported the **Oparin-Haldane hypothesis** about the origin of life on Earth.",
+      "solution": "# Miller-Urey Experiment - Correct Answer ## **Answer: (B) CH\\u\u2082\u2080\u2088\u2084, NH\\u\u2082\u2080\u2088\u2083, H\\u\u2082\u2080\u2088\u2082O, H\\u\u2082\u2080\u2088\u2082** --- ## Step-by-Step Explanation ### The Experimental Setup (1952) Miller and Urey created a closed apparatus containing: - **CH\\u\u2082\u2080\u2088\u2084** (Methane) - **NH\\u\u2082\u2080\u2088\u2083** (Ammonia) - **H\\u\u2082\u2080\u2088\u2082O** (Water vapor) - **H\\u\u2082\u2080\u2088\u2082** (Hydrogen gas) Plus an **electric discharge** (simulating lightning) as an energy source. ### Why These Gases? These gases were chosen because scientists believed the **early Earth's atmosphere was reducing (anaerobic)**, not oxidizing. This meant: - No free oxygen (O\\u\u2082\u2080\u2088\u2082) - Rich in simple organic molecules - Abundant in hydrogen ### What They Discovered After one week of continuous electric discharge, they found: - **5 amino acids** initially (later analysis found 20) - Other organic compounds - This proved abiotic synthesis of organic molecules was possible --- ## Why Other Options Are Wrong | Option | Problem | |--------|---------| | **(A)** O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082O, CO\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082 (oxidizing atmosphere) - incorrect for early Earth | | **(C)** CO\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, HCN | Doesn't match the actual experimental setup | | **(D)** H\\u\u2082\u2080\u2088\u2082O, CH\\u\u2082\u2080\u2088\u2084, O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082, which inhibits amino acid formation | --- ## Key Concept to Remember **The Miller-Urey experiment = CH\\u\u2082\u2080\u2088\u2084 + NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O + H\\u\u2082\u2080\u2088\u2082 + Energy (electric discharge) \\u\u2082\u2081\u2089\u2082 Amino acids** This experiment supported the **Oparin-Haldane hypothesis** about the origin of life on Earth.",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Biology",
@@ -171,10 +171,10 @@
     {
       "question": "Which of the following enzyme(s) are NOT essential for gene cloning? A. Restriction enzymes B. DNA ligase C. DNA mutase D. DNA recombinase E. DNA polymerase Choose the correct answer from the options given below :",
       "options": {
-        "A": "D and E only",
+        "A": "and E only",
         "B": "and C only",
         "C": "and D only",
-        "D": "A and B only"
+        "D": "and B only"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) D and E only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -199,7 +199,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "A particular mRNA, in a hypothetical case, codes for a protein with 333 amino acids, and the base at position 901 is deleted such that the length of the RNA becomes 998 bases, how many codons will be altered?",
+      "question": "particular mRNA, in a hypothetical case, codes for a protein with 333 amino acids, and the base at position 901 is deleted such that the length of the RNA becomes 998 bases, how many codons will be altered?",
       "options": {
         "A": "1",
         "B": "11",
@@ -649,7 +649,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "A single strand of nucleic acid tagged with a radioactive molecule is called",
+      "question": "single strand of nucleic acid tagged with a radioactive molecule is called",
       "options": {
         "A": "Plasmid",
         "B": "Vector",
@@ -943,21 +943,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Thermus aquaticus** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "Following enzymes/chemical/technique are used in the process of gel electrophoresis",
-      "options": {
-        "A": "I, II, III, VI, V and IV",
-        "B": "I, II, III, VI, V and IV",
-        "C": "IV, V, VI, I, II and III",
-        "D": "I, II, IV, V, VI and III"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) I, II, III, VI, V and IV** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1444,7 +1429,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "A phytohormone, which increases the production of starch hydrolyzing enzymes during the germination",
+      "question": "phytohormone, which increases the production of starch hydrolyzing enzymes during the germination",
       "options": {
         "A": "Increasing the vase-life period of flowers",
         "B": "Induction of seedless fruits in grapes",
@@ -1658,7 +1643,7 @@
       "options": {
         "A": "Substrate binds with enzyme at its active site.",
         "B": "Additon of lot of succinate does not reverse the inhibition of succinic dehydrogenase by malonate",
-        "C": "A non-competitive inhibitor binds the enzyme at a site distinct from that which binds the substrate",
+        "C": "non-competitive inhibitor binds the enzyme at a site distinct from that which binds the substrate",
         "D": "Malonate is a competitive inhibitor of succinic dehydrogenase."
       },
       "answer": "B",
@@ -1714,7 +1699,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "In sugarcane plant $ ^14 CO_2$ is fixed in malic acid, in which the enzyme that fixes $CO_2$ is:",
+      "question": "In sugarcane plant ^14 CO_2 is fixed in malic acid, in which the enzyme that fixes CO_2 is:",
       "options": {
         "A": "ribulose biphosphate carboxylase",
         "B": "phosphoenol pyruvic acid carboxylase",
@@ -1798,21 +1783,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Hydrogen bonds** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "1 \u00b7 NEET 2016 Phase 2 Amino acids/proteins Which one of the following statements is wrong?",
-      "options": {
-        "A": "Sucrose is a disaccharide",
-        "B": "Cellulose is a polysaccharide",
-        "C": "Uracil is a pyrimidine",
-        "D": "Glycine is a sulphur containing amino acid Two ways to go deeper on this chapter Choose your next step \\U\u2080\u2080\u2080\u2081f\u2084d\u2086 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u\u2082\u2081\u2089\u2082 \\u\u2082\u2086a\u2081 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u\u2082\u2082\u2081\u2082\u2081 marking, countdown timer. Free in the app. Generate \\u\u2082\u2081\u2089\u2082"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) Sucrose is a disaccharide** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -2194,21 +2164,6 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "NEET 2026 (1) Amino acids/proteins Which of the following statements are correct regarding amino acids? A. They are substituted methanes. B. Serine is an aromatic amino acid. C. Valine is a neutral amino acid. D. Lysine is an acidic amino acid. Choose the correct answer from the options given below:",
-      "options": {
-        "A": "C and",
-        "B": "only",
-        "C": "only",
-        "D": "A and"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) C and** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
       "question": "NEET 2026 (1) Amino acids/proteins Alpha-helix is found in which level of protein structure?",
       "options": {
         "A": "Secondary structure",
@@ -2323,21 +2278,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Jacque Monod** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "NEET 2026 (1) Which of the following statements are correct with reference to packaging of DNA helix ? A. Histones are organized to form a unit of eight molecules called histone octamer. B. Histones are negatively charged basic proteins. C. Histones are rich in the basic amino acid residues - lysine and arginine. D. The positively charged DNA is wrapped around the histone octamer to form nucleosome. E. The packaging of chromatin at higher levels requires an additional set of proteins called non-histone chromosomal proteins. Choose the correct answer from the options given below :",
-      "options": {
-        "A": ",",
-        "B": "and",
-        "C": ",",
-        "D": "only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A,** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",

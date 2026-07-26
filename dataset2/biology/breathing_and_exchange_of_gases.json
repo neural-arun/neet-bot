@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Breathing and Exchange of Gases",
-  "total_questions": 88,
+  "total_questions": 84,
   "questions": [
     {
       "question": "What are the values of a, b, c, d and e in mm Hg?",
@@ -27,24 +27,9 @@
         "D": "Parabolic"
       },
       "answer": "A",
-      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u\u2082\u2080\u2088\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u\u2082\u2080\u2088\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u\u2082\u2080\u2088\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u\u2082\u2081\u2089\u2082 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u\u2082\u2080\u2088\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: $$\\textY = \\frac[\\textO_2]^nK + [\\textO_2]^n$$ Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
+      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u\u2082\u2080\u2088\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u\u2082\u2080\u2088\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u\u2082\u2080\u2088\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u\u2082\u2081\u2089\u2082 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u\u2082\u2080\u2088\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: \\textY = \\frac[\\textO_2]^nK + [\\textO_2]^n Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
       "exam": "NEET 2023",
       "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "Assertion (A): A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below.",
-      "options": {
-        "A": "Both (",
-        "B": "and (R) are true and (R) is the correct explanation of (",
-        "C": "B Both (",
-        "D": "and (R) are true but (R) is not the correct explanation of ("
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Altitude sickness (AMS) is experienced by a person at a high altitude where the body does not get enough oxygen due to low atmospheric pressure and causes nausea, fatigue and heart palpitations. Under these conditions, the body increases RBC production, decreases the binding capacity of haemoglobin and increases breathing rate. These physiological adaptations allow organisms to respond quickly to stressful conditions. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Breathing and Exchange of Gases"
     },
@@ -229,21 +214,6 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Consider the following statements about biomedical technologies A. During open heart surgery blood is circulated in the heart-lung machine. B. Blockage in coronary arteries is removed by angiography. C. Computerised Axial Tomography (CAT) shows detailed internal structure as seen in a section of body. D. X-ray provides clear and detailed images of organs like prostate glands and lungs. Which two of the above statements are correct?",
-      "options": {
-        "A": "B and",
-        "B": "C and",
-        "C": "A and",
-        "D": "A and"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) A and C** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
       "question": "Our lungs releas",
       "options": {
         "A": "18 L of O\u2082 every day",
@@ -319,7 +289,7 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Match List-I with List-II: $\\beginarray|l|l|r|l|\\hline & \\textList-I & & \\textList-II \\\\ \\hline A. & \\textResidual Volume & I. & \\beginarrayl \\textMaximum volume of air that can be breathed in after forced \\\\ \\textexpiration \\endarray \\\\ \\hline B. & \\textVital Capacity & II. & \\textVolume of air inspired or expired during normal respiration \\\\ \\hline C. & \\textExpiratory Capacity & III. & \\textVolume of air remaining in lungs after forcible expiration \\\\ \\hline D. & \\textTidal Volume & IV. & \\textTotal volume of air expired after normal inspiration \\\\ \\hline \\endarray$ Choose the correct answer from the options given below:",
+      "question": "Match List-I with List-II: \\beginarray|l|l|r|l|\\hline & \\textList-I & & \\textList-II \\\\ \\hline A. & \\textResidual Volume & I. & \\beginarrayl \\textMaximum volume of air that can be breathed in after forced \\\\ \\textexpiration \\endarray \\\\ \\hline B. & \\textVital Capacity & II. & \\textVolume of air inspired or expired during normal respiration \\\\ \\hline C. & \\textExpiratory Capacity & III. & \\textVolume of air remaining in lungs after forcible expiration \\\\ \\hline D. & \\textTidal Volume & IV. & \\textTotal volume of air expired after normal inspiration \\\\ \\hline \\endarray Choose the correct answer from the options given below:",
       "options": {
         "A": "-IV, B-III, C-II, D-I",
         "B": "A-II, B-IV, C-I, D-III",
@@ -388,36 +358,6 @@
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Pons** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "The Total Lung Capacity(TLC) is the total volume of air accomodated in the lungs at the end of a forced inspiration. This includes:",
-      "options": {
-        "A": "<p><math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>IC</mi></math> (Inspiratory Capacity); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>EC</mi></math> (Expiratory Capacity); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math></p>",
-        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mi>ERV</mi><mo>;</mo><mi>IC</mi></math> and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>EC</mi></math>",
-        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>ERV</mi><mo>;</mo><mo> </mo><mi>VC</mi></math> (Vital Capacity) and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>FRC</mi></math> (Functional Residual Capacity)",
-        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)"
-      },
-      "answer": "D",
-      "solution": "**Correct Answer: (D) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "Match the following columns and select the correct option:- Column-I Column-II (a) Pneumotaxic centre (i) Alveoli (b) O\u2082 Dissociation curve (ii) Pons region of brain (c) Carbonic anhydrase (iii) Haemoglobin (d) Primary site of exchange of gases (iv) R.B.C.",
-      "options": {
-        "A": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>",
-        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
-        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
-        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -654,7 +594,7 @@
         "A": "Cigarette smoking may lead to inflammation of bronchi",
         "B": "Neural signals from pneumotoxic centre in pons region of brain can increase the duration of inspiration",
         "C": "Workers in grinding and stone breaking industries may suffer, from lung fibrosis",
-        "D": "About $90 \\%$ of carbon dioxide $\\left(CO_2\\right)$ is carried by haemoglobin as carbamino haemoglobin"
+        "D": "About 90 \\% of carbon dioxide \\left(CO_2\\right) is carried by haemoglobin as carbamino haemoglobin"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Workers in grinding and stone breaking industries may suffer, from lung fibrosis** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
@@ -682,9 +622,9 @@
       "question": "The figure given below shows a small part of human lung where exchange of gas takes place. In which one of the options given below, the one part A, BC or D is correctly identified along with its function. [Image: https://cdn-question-pool.getmarks.app/pyq/neet/BVCe_naqegGjwwXuLAx\u2080-YZOcQhKSwoKKLZ\u2080\u2085eBuaRs.original.fullsize.png]",
       "options": {
         "A": "- Alveolar cavity - main site of exchange of respiratory gases",
-        "B": "D - Capillary wall - exchange of and takes place here",
-        "C": "B - Red blood cell - transport of mainly",
-        "D": "C - Arterial capillary - passes oxygen to tissues"
+        "B": "- Capillary wall - exchange of and takes place here",
+        "C": "- Red blood cell - transport of mainly",
+        "D": "- Arterial capillary - passes oxygen to tissues"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A - Alveolar cavity - main site of exchange of respiratory gases** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (A) is the accurate scientific choice.",
@@ -769,7 +709,7 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "When $CO_2$ concentration in blood increases breathing becomes:",
+      "question": "When CO_2 concentration in blood increases breathing becomes:",
       "options": {
         "A": "shallower and slow",
         "B": "there is no effect on breathing",

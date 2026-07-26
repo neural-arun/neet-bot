@@ -1,23 +1,8 @@
 {
   "subject": "Chemistry",
   "chapter": "Structure of Atom",
-  "total_questions": 46,
+  "total_questions": 38,
   "questions": [
-    {
-      "question": "When electromagnetic radiation of wavelength $300 ~nm$ falls on the surface of a metal, electrons are emitted with the kinetic energy of $1.68 \\times 10^5$ $J mol^-1$. What is the minimum energy needed to remove an electron from the metal? $\\beginaligned & \\left(h=6.626 \\times 10^-34 Js, c=3 \\times 10^8 ~ms^-1,\\right. \\\\ & N_A=6.022 \\times 10^23 ~mol^-1 \\endaligned$",
-      "options": {
-        "A": "$",
-        "B": "31 \\times 10^6 ~J ~mol^-1$",
-        "C": "84 \\times 10^4 ~J ~mol^-1$",
-        "D": "84 \\times 10^-19 ~J ~mol^-1$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Since, the striking photon has energy equal to $h v v$ and the minimum energy required to eject the electron is $h v_0$ (work function $W_0$), the difference in energy $\\left(h v-h v_0\\right)$ is transferred as the kinetic energy of the photoelectron. $h v=h v_0+KE$ $h v_0=$ minimum energy required to remove electron) Energy of a $300 ~nm$ photon is given by $\\beginaligned & \\Rightarrow E=\\frach c\\lambda \\\\ & =\\frac\u2086.626 \\times 10^-34 Js \\times 3 \\times 10^8 ~ms^-1300 \\times 10^-9 ~m \\\\ & =6.626 \\times 10^-19 ~J \\endaligned$ Energy of one mole of photons $\\beginaligned & =6.626 \\times 10^-19 ~J \\times 6.022 \\times 10^23 ~mol^-1 \\\\ & =3.99 \\times 10^5 ~J ~mol^-1 \\endaligned$ The minimum energy needed to remove one mole of electrons $=(3.99-1.68) \\times 10^5 ~J ~mol^-1$ $=2.31 \\times 10^5 ~J ~mol^-1$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
     {
       "question": "The ionisation energy of H-atoms is 13.6 ev. What will be the ionisation energy of H e + and L i 2 + ions?",
       "options": {
@@ -38,26 +23,11 @@
       "options": {
         "A": "Energy associated is \u2212",
         "B": "46\u00d710 -18 J and Radius of this orbit is",
-        "C": "06322 nm B Energy associated is \u2212",
+        "C": "06322 nm",
         "D": "72\u00d710 -18 J and Radius of this orbit is"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) Energy associated is \u22128.72\u00d710 -18 J and Radius of this orbit is 0.02645 nm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
-      "question": "Calculate (i) wavenumber and (ii) frequency of yellow radiation having wavelength 5800 \u00c3 .",
-      "options": {
-        "A": "(i)",
-        "B": "724\u00c3\u0097104 cm -1 and (ii)",
-        "C": "172\u00c3\u00971014 s -1 B (i)",
-        "D": "465\u00c3\u0097104 cm -1 and (ii)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) (i) 1.724\u00c3\u0097104 cm -1 and (ii) 5.172\u00c3\u00971014 s -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -79,36 +49,6 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Find (i) the total number and (ii) the total mass of neutrons in 7 mg of 14 C. (Assume that mass of a neutron = 1.675 \u00d7 10 \u201327 kg).",
-      "options": {
-        "A": "(i)",
-        "B": "4088 \u00d7 1021 neutrons and (ii)",
-        "C": "0347 \u00d7 10 \u20136 kg B (i)",
-        "D": "6587 \u00d7 1021 neutrons and (ii)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) (i) 2.4088 \u00d7 1021 neutrons and (ii) 4.0347 \u00d7 10 \u20136 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
-      "question": "The energy absorbed by each molecule $\\left(A_2\\right)$ of a substance is $4.4 \\times 10^-19 ~J$ and bond energy per molecule is $4.0 \\times 10^-19 ~J$. The kinetic energy of the molecule per atom will be",
-      "options": {
-        "A": "$",
-        "B": "0 \\times 10^-20 ~J$",
-        "C": "2 \\times 10^-19 ~J$",
-        "D": "0 \\times 10^-19 ~J$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $KE$ of molecule $=$ energy absorbed by molecule - BE per molecule $$ \\beginaligned & =\\left[\\left(4.4 \\times 10^-19\\right)-\\left(4.0 \\times 10^-19\\right) J\\right. \\\\ & =0.4 \\times 10^-19 ~J \\\\ & \\text KE per atom =\\frac\u2080.4 \\times 10^-192 ~J=2.0 \\times 10^-20 ~J \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
       "question": "What is the formula for the frequency of radiation absorbed or emitted when a transition occurs between two stationary states in Bohr's model?",
       "options": {
         "A": "\u03bd = (E\u2082 - E",
@@ -124,45 +64,15 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Find (i) the total number and (ii) the total mass of protons in 34 mg of NH 3 at STP. Will the answer change if the temperature and pressure are changed?",
-      "options": {
-        "A": "(i)",
-        "B": "204 \u00d7 1022 protons (ii)",
-        "C": "425 \u00d7 10 \u20135 kg B (i)",
-        "D": "204 \u00d7 1022 protons (ii)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 1.204 \u00d7 1022 protons (ii) 2.015 \u00d7 10 \u20135 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
       "question": "Which has the highest threshold frequency from the following ?",
       "options": {
         "A": "Li (work function =",
         "B": "4",
-        "C": "B Na(work function =",
-        "D": "C k (work function ="
+        "C": "Na(work function =",
+        "D": "k (work function ="
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 4 Mg (work function = 3.7) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
-      "question": "A $0.66 ~kg$ ball is moving with a speed of $100 ~m / s$. The associated wavelength will be (h $\\left.=6.6 \\times 10^-34 Js\\right)$",
-      "options": {
-        "A": "$",
-        "B": "6 \\times 10^-32 ~m$",
-        "C": "6 \\times 10^-34 ~m$",
-        "D": "0 \\times 10^-35 ~m$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** From de-Broglie equation, $$ \\lambda=\\frachmv=\\frac\u2086.6 \\times 10^-340.66 \\times 100=10^-35 ~m $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -184,21 +94,6 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Calculate the (i)wavelength, (ii)frequency and (iii)wavenumber of a light wave whose period is 2.0 \u00d7 10 \u201310 s.",
-      "options": {
-        "A": "(i)",
-        "B": "0 \u00d7 10 \u20132 m, (ii)",
-        "C": "0 \u00d7 109 s \u20131 and (iii)",
-        "D": "66 m \u20131 B (i)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 6.0 \u00d7 10 \u20132 m, (ii) 5.0 \u00d7 109 s \u20131 and (iii) 16.66 m \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
       "question": "Similar to electron diffraction, neutron diffraction microscope is also used for the determination of the structure of molecules. If the wavelength used here is 800 pm, calculate the characteristic velocity associated with the neutron.",
       "options": {
         "A": "49",
@@ -214,27 +109,12 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "[NEET 2016 | Chemistry] Number of angular nodes and radial nodes in 3s orbital are:",
-      "options": {
-        "A": "0 and",
-        "B": "1 and 0",
-        "C": "3 and 0",
-        "D": "0 and"
-      },
-      "answer": "A",
-      "solution": "## Answer: **(A) 0 and 2** --- ## Step-by-Step Explanation ### Understanding Nodes Nodes are regions where the probability of finding an electron is **zero**. There are two types: **1) Angular Nodes (Planar Nodes)** - Arise from the angular part of the wave function - **Formula:** Number of angular nodes = **l** (azimuthal quantum number) - These are nodal planes passing through the nucleus **2) Radial Nodes (Spherical Nodes)** - Arise from the radial part of the wave function - **Formula:** Number of radial nodes = **n - l - 1** - These are spherical surfaces concentric with the nucleus --- ## For 3s Orbital Given: 3s orbital means **n = 3** and **l = 0** (s orbitals have l = 0) **Angular nodes** = l = **0** \\u\u2082\u2087\u2081\u2083 - s orbitals have no angular dependence, so no planar nodes **Radial nodes** = n - l - 1 = 3 - 0 - 1 = **2** \\u\u2082\u2087\u2081\u2083 --- ## Why Other Options Are Wrong | Option | Error | |--------|-------| | (B) 1 and 0 | Confuses l and n; radial nodes formula is wrong | | (C) 3 and 0 | Angular nodes = n is incorrect; should equal l | | (D) 0 and 3 | Angular nodes correct, but radial = 3 is wrong | --- ## Key Facts to Remember - **s orbitals** (l = 0): 0 angular nodes, (n-1) radial nodes - 1s: 0 radial nodes - 2s: 1 radial node - 3s: 2 radial nodes \\u\u2082\u2081\u2089\u2080 **This problem** - **p orbitals** (l = 1): 1 angular node, (n-2) radial nodes - **d orbitals** (l = 2): 2 angular nodes, (n-3) radial nodes",
-      "exam": "NEET 2016",
-      "year": 2016,
-      "subject": "Chemistry",
-      "chapter": "Structure of Atom"
-    },
-    {
       "question": "Which has the highest threshold wavelength from the following ?",
       "options": {
         "A": "Li (work function =",
         "B": "4",
-        "C": "B Na(work function =",
-        "D": "C k (work function ="
+        "C": "Na(work function =",
+        "D": "k (work function ="
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 3 k (work function = 2.25) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -291,13 +171,13 @@
     {
       "question": "The de-Broglie's wavelength of electron present in first Bohr orbit of 'H' atom is :",
       "options": {
-        "A": "0.529 $$\\mathop \\rm A\\limits^ \\circ $$",
-        "B": "2$$\\pi $$ $$ \\times $$ 0.529 $$\\mathop \\rm A\\limits^ \\circ $$",
-        "C": "$$0.529 \\over 2\\pi $$ $$\\mathop \\rm A\\limits^ \\circ $$",
-        "D": "4 $$ \\times $$ 0.529 $$\\mathop \\rm A\\limits^ \\circ $$"
+        "A": "0.529 \\mathop \\rm A\\limits^ \\circ",
+        "B": "2\\pi \u00d7 0.529 \\mathop \\rm A\\limits^ \\circ",
+        "C": "0.529 \\over 2\\pi \\mathop \\rm A\\limits^ \\circ",
+        "D": "4 \u00d7 0.529 \\mathop \\rm A\\limits^ \\circ"
       },
       "answer": "B",
-      "solution": "Radius r = 0.529 $$ \\times $$ $$n^2 \\over z$$ <br><br>In first Bohr orbit of hydrogen atom radius, <br><br>r = 0.529 $$ \\times $$ $$1^2 \\over 1$$ = 0.529 $$\\mathop A\\limits^ \\circ $$ <br><br>Angular momentum, <br><br>mvr = $$nh \\over 2\\pi $$ <br><br>$$\\therefore\\,\\,\\,$$ for n = 1, <br><br> mvr = $$h \\over 2\\pi $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 2$$\\pi $$r = $$h \\over mv$$ = $$\\lambda $$ [ as $$\\lambda $$ = $$h \\over mv$$] <br><br>$$\\therefore\\,\\,\\,$$ $$\\lambda $$ = 2$$\\pi $$r = 2 $$\\pi $$ $$ \\times $$ 0.529",
+      "solution": "Radius r = 0.529 \u00d7 n^2 \\over z <br><br>In first Bohr orbit of hydrogen atom radius, <br><br>r = 0.529 \u00d7 1^2 \\over 1 = 0.529 \\mathop A\\limits^ \\circ <br><br>Angular momentum, <br><br>mvr = nh \\over 2\\pi <br><br>\\therefore\\,\\,\\, for n = 1, <br><br> mvr = h \\over 2\\pi <br><br> \\Rightarrow \\,\\,\\, 2\\pi r = h \\over mv = \\lambda [ as \\lambda = h \\over mv] <br><br>\\therefore\\,\\,\\, \\lambda = 2\\pi r = 2 \\pi \u00d7 0.529",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -306,13 +186,13 @@
     {
       "question": "The radius of the second Bohr orbit, in terms of the Bohr radius, a<sub>0</sub>, in Li<sup>2+</sup> is :",
       "options": {
-        "A": "$$2a_0 \\over 9$$",
-        "B": "$$2a_0 \\over 3$$",
-        "C": "$$4a_0 \\over 9$$",
-        "D": "$$4a_0 \\over 3$$"
+        "A": "2a_0 \\over 9",
+        "B": "2a_0 \\over 3",
+        "C": "4a_0 \\over 9",
+        "D": "4a_0 \\over 3"
       },
       "answer": "D",
-      "solution": "$$r_n = n^2a_0 \\over Z$$ <br><br>For 2<sup>nd</sup> Bohr orbit of Li<sup>+2</sup> <br><br>n = 2 <br><br>and Z = 3 <br><br>r = $$2^2a_0 \\over 3$$ = $$4a_0 \\over 3$$",
+      "solution": "r_n = n^2a_0 \\over Z <br><br>For 2<sup>nd</sup> Bohr orbit of Li<sup>+2</sup> <br><br>n = 2 <br><br>and Z = 3 <br><br>r = 2^2a_0 \\over 3 = 4a_0 \\over 3",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -321,20 +201,20 @@
     {
       "question": "The de Broglie wavelength of an electron in the 4th Bohr orbit is :",
       "options": {
-        "A": "2$$\\pi $$a<sub>0</sub>",
-        "B": "6$$\\pi $$a<sub>0</sub>",
-        "C": "8$$\\pi $$a<sub>0</sub>",
-        "D": "4$$\\pi $$a<sub>0</sub>"
+        "A": "2\\pi a<sub>0</sub>",
+        "B": "6\\pi a<sub>0</sub>",
+        "C": "8\\pi a<sub>0</sub>",
+        "D": "4\\pi a<sub>0</sub>"
       },
       "answer": "C",
-      "solution": "According to Bohr\\u\u2082\u2080\u2081\u2089s model <br><br>$$r_n = n^2 \\over Z \\times a_0$$ <br><br>Also 2$$\\pi $$$$r_n$$ = n$$\\lambda $$ <br><br>$$ \\Rightarrow $$ 2$$\\pi $$$$n^2 \\over Z \\times a_0$$ = n$$\\lambda $$ <br><br>$$ \\Rightarrow $$ $$\\lambda $$ = $$2\\pi \\times n \\over Z \\times a_0$$ <br><br>For n = 4 and Z = 1 <br><br>$$ \\Rightarrow $$ $$\\lambda $$ = 8$$\\pi $$$$a_0$$",
+      "solution": "According to Bohr\\u\u2082\u2080\u2081\u2089s model <br><br>r_n = n^2 \\over Z \u00d7 a_0 <br><br>Also 2\\pi r_n = n\\lambda <br><br> \\Rightarrow 2\\pi n^2 \\over Z \u00d7 a_0 = n\\lambda <br><br> \\Rightarrow \\lambda = 2\\pi \u00d7 n \\over Z \u00d7 a_0 <br><br>For n = 4 and Z = 1 <br><br> \\Rightarrow \\lambda = 8\\pi a_0",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "According to Bohr's atomic theory :<br/><br/>(A) Kinetic energy of electron is $$ \\propto Z^2 \\over n^2$$.<br/><br/>(B) The product of velocity (v) of electron and principal quantum number (n), $$'vn' \\propto Z^2$$.<br/><br/>(C) Frequency of revolution of electron in an orbit is $$ \\propto Z^3 \\over n^3$$.<br/><br/>(D) Coulombic force of attraction on the electron is $$ \\propto Z^3 \\over n^4$$.<br/><br/>Choose the most appropriate answer from the options given below :",
+      "question": "According to Bohr's atomic theory :<br/><br/>(A) Kinetic energy of electron is \\propto Z^2 \\over n^2.<br/><br/>(B) The product of velocity (v) of electron and principal quantum number (n), 'vn' \\propto Z^2.<br/><br/>(C) Frequency of revolution of electron in an orbit is \\propto Z^3 \\over n^3.<br/><br/>(D) Coulombic force of attraction on the electron is \\propto Z^3 \\over n^4.<br/><br/>Choose the most appropriate answer from the options given below :",
       "options": {
         "A": "(A), (C) and (D) only",
         "B": "(A) only",
@@ -342,7 +222,7 @@
         "D": "(A) and (D) only"
       },
       "answer": "D",
-      "solution": "According to Bohr's theory,<br/><br/>I. $$KE \\propto Z^2 \\over n^2$$ or $$13.6 \\propto Z^2 \\over n^2(eV) \\over (atom)'$$<br/><br/> ($$\\therefore$$ Correct)<br/><br/>II. Speed of electron $$ \\propto Z \\over n$$<br/><br/>(Here, Z = atomic number, n = number of shells)<br/><br/>$$\\therefore$$ $$v \\times n \\propto Z$$ ($$\\therefore$$ Incorrect)<br/><br/>III. Frequency of revolution of electron $$ = v \\over 2\\pi r$$<br/><br/>Frequency $$ \\propto Z^2 \\over n^3$$ ($$\\because$$ $$v \\propto z \\over n,r \\propto n^2 \\over z$$) ($$\\therefore$$ Incorrect)",
+      "solution": "According to Bohr's theory,<br/><br/>I. KE \\propto Z^2 \\over n^2 or 13.6 \\propto Z^2 \\over n^2(eV) \\over (atom)'<br/><br/> (\\therefore Correct)<br/><br/>II. Speed of electron \\propto Z \\over n<br/><br/>(Here, Z = atomic number, n = number of shells)<br/><br/>\\therefore v \u00d7 n \\propto Z (\\therefore Incorrect)<br/><br/>III. Frequency of revolution of electron = v \\over 2\\pi r<br/><br/>Frequency \\propto Z^2 \\over n^3 (\\because v \\propto z \\over n,r \\propto n^2 \\over z) (\\therefore Incorrect)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -372,7 +252,7 @@
         "D": "Statement I is true but Statement II is false"
       },
       "answer": "C",
-      "solution": "Velocity of electron in Bohr's atom is given by <br><br>$$V \\propto Z \\over n$$<br><br>Z = atomic number of atom, corresponds to +ve charge so as Z increase velocity increases so statement I is wrong and as 'n' decreases velocity increases so statement II is correct.",
+      "solution": "Velocity of electron in Bohr's atom is given by <br><br>V \\propto Z \\over n<br><br>Z = atomic number of atom, corresponds to +ve charge so as Z increase velocity increases so statement I is wrong and as 'n' decreases velocity increases so statement II is correct.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -394,7 +274,7 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "A certain orbital has no angular nodes and two radial nodes. The orbital is :",
+      "question": "certain orbital has no angular nodes and two radial nodes. The orbital is :",
       "options": {
         "A": "2s",
         "B": "3s",
@@ -402,14 +282,14 @@
         "D": "2p"
       },
       "answer": "B",
-      "solution": "Angular nodes = $$\\ell $$ = 0<br><br> Radial nodes $$ \\Rightarrow $$ (n \\\u2013 $$\\ell $$ \\\u2013 1) = 2<br> $$ \\Rightarrow $$ n \\\u2013 0 \\\u2013 1 = 2<br> $$ \\Rightarrow $$ n = 3<br><br> So orbital is 3s.",
+      "solution": "Angular nodes = \\ell = 0<br><br> Radial nodes \\Rightarrow (n \\\u2013 \\ell \\\u2013 1) = 2<br> \\Rightarrow n \\\u2013 0 \\\u2013 1 = 2<br> \\Rightarrow n = 3<br><br> So orbital is 3s.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>The number of radial and angular nodes in 4d orbital are, respectively</p>",
+      "question": "The number of radial and angular nodes in 4d orbital are, respectively",
       "options": {
         "A": "1 and 2",
         "B": "3 and 2",
@@ -417,14 +297,14 @@
         "D": "2 and 1"
       },
       "answer": "A",
-      "solution": "<p>We know,</p> <p>Radial nodes = n $$-$$ l $$-$$ 1</p> <p>and Angular nodes = l</p> <p>For 4d orbital,</p> <p>n = 4</p> <p>l = 2</p> <p>$$\\therefore$$ Radial nodes = 4 $$-$$ 2 $$-$$ 1 = 1</p> <p>Angular nodes = 2</p>",
+      "solution": "We know, Radial nodes = n - l - 1 and Angular nodes = l For 4d orbital, n = 4 l = 2 \\therefore Radial nodes = 4 - 2 - 1 = 1 Angular nodes = 2",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "The number of radial node/s for $3 p$ orbital is :",
+      "question": "The number of radial node/s for 3 p orbital is :",
       "options": {
         "A": "3",
         "B": "2",
@@ -432,7 +312,7 @@
         "D": "4"
       },
       "answer": "C",
-      "solution": "<p>The number of radial nodes in an orbital is given by the formula:</p> <p>$$ \\textNumber of radial nodes = n - l - 1 $$</p> <p>where $$n$$ is the principal quantum number, $$l$$ is the azimuthal quantum number also known as the angular momentum quantum number.</p> <p>For a $$3p$$ orbital, <br/><br/>$$n = 3$$ (since it is the 3rd energy level), <br/><br/>$$l = 1$$ (since $$p$$ orbitals correspond to $$l = 1$$).</p> <p>Let's use the formula to determine the number of radial nodes:</p> <p>$$ \\textNumber of radial nodes = 3 - 1 - 1 = 1 $$</p> <p>So, the correct answer is: Option C : 1</p>",
+      "solution": "The number of radial nodes in an orbital is given by the formula: \\textNumber of radial nodes = n - l - 1 where n is the principal quantum number, l is the azimuthal quantum number also known as the angular momentum quantum number. For a 3p orbital, <br/><br/>n = 3 (since it is the 3rd energy level), <br/><br/>l = 1 (since p orbitals correspond to l = 1). Let's use the formula to determine the number of radial nodes: \\textNumber of radial nodes = 3 - 1 - 1 = 1 So, the correct answer is: Option C : 1",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -447,14 +327,14 @@
         "D": "25"
       },
       "answer": "D",
-      "solution": "<p>Total number of orbitals associated with principal quantum number n is = n<sup>2</sup>.</p> <p>Here, n = 5. <br/><br/>$$ \\therefore $$ The total number of orbitals associated with the principal quantum number 5 is = 5<sup>2</sup> = 25</p>",
+      "solution": "Total number of orbitals associated with principal quantum number n is = n<sup>2</sup>. Here, n = 5. <br/><br/> \\therefore The total number of orbitals associated with the principal quantum number 5 is = 5<sup>2</sup> = 25",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Which of the following combination of statements is true regarding the interpretation of the atomic orbitals ? <br/><br/> (a) An electron in an orbital of high angular momentum stays away from the nucleus than an electron in the orbital of lower angular momentum. <br/><br/> (b) For a given value of the principal quantum number, the size of the orbit is inversely proportional to the azimuthal quantum number. <br/><br/> (c) According to wave mechanics, the ground state angular momentum is equal to $$h \\over 2\\pi $$.<br/><br/> (d) The plot of $$\\psi $$ vs r for various azimuthal quantum numbers, shows peak shifting towards higher r value.",
+      "question": "Which of the following combination of statements is true regarding the interpretation of the atomic orbitals ? <br/><br/> (a) An electron in an orbital of high angular momentum stays away from the nucleus than an electron in the orbital of lower angular momentum. <br/><br/> (b) For a given value of the principal quantum number, the size of the orbit is inversely proportional to the azimuthal quantum number. <br/><br/> (c) According to wave mechanics, the ground state angular momentum is equal to h \\over 2\\pi .<br/><br/> (d) The plot of \\psi vs r for various azimuthal quantum numbers, shows peak shifting towards higher r value.",
       "options": {
         "A": "(a), (b)",
         "B": "(a), (d)",
@@ -462,7 +342,7 @@
         "D": "(a), (c)"
       },
       "answer": "B",
-      "solution": "<p>(a) Angular momentum, $$mvr = nh \\over 2\\pi $$</p> <p>$$ \\Rightarrow mvr \\propto n$$ $$\\propto$$ distance from the nucleus</p> <p>(b) This statement is incorrect as size of an orbit $$\\propto$$ Azimuthal quantum number (l) ($$\\because$$ n = constant)</p> <p>(c) This statement is incorrect as at ground state,</p> <p>n = 1, l = 0</p> <p>$$\\Rightarrow$$ Orbital angular momentum (wave mechanics)</p> <p>$$ = \\sqrt l(l + 1) h \\over 2\\pi = 0$$ [$$\\because$$ $$l = 0$$]</p> <p></p><p>(d) The plot of $$\\psi $$ vs $$ r $$ for various azimuthal quantum numbers, shows peak shifting towards higher $$ r $$ value.<br> This statement is typically true. The radial distribution functions of atomic orbitals (which can be related to $$ |\\psi|^2 $$ vs $$ r $$) for higher azimuthal quantum numbers generally have their peaks at larger values of the radial distance $$ r $$ from the nucleus. This is because with higher $$ l $$ values, the electrons are more likely to be found at greater distances due to the higher angular momentum.</p>The given plot is<p></p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083ofg\u2082sv/8310697b-4c\u2080d-473c-8a\u2080e-02f\u2082c\u2081\u2089\u2087bb\u2086\u2081/7bba\u2087bf\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofg\u2082sw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083ofg\u2082sv/8310697b-4c\u2080d-473c-8a\u2080e-02f\u2082c\u2081\u2089\u2087bb\u2086\u2081/7bba\u2087bf\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofg\u2082sw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Structure of Atom Question 135 English Explanation\"></p>",
+      "solution": "(a) Angular momentum, mvr = nh \\over 2\\pi \\Rightarrow mvr \\propto n \\propto distance from the nucleus (b) This statement is incorrect as size of an orbit \\propto Azimuthal quantum number (l) (\\because n = constant) (c) This statement is incorrect as at ground state, n = 1, l = 0 \\Rightarrow Orbital angular momentum (wave mechanics) = \\sqrt l(l + 1) h \\over 2\\pi = 0 [\\because l = 0] (d) The plot of \\psi vs r for various azimuthal quantum numbers, shows peak shifting towards higher r value.<br> This statement is typically true. The radial distribution functions of atomic orbitals (which can be related to |\\psi|^2 vs r ) for higher azimuthal quantum numbers generally have their peaks at larger values of the radial distance r from the nucleus. This is because with higher l values, the electrons are more likely to be found at greater distances due to the higher angular momentum. The given plot is <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083ofg\u2082sv/8310697b-4c\u2080d-473c-8a\u2080e-02f\u2082c\u2081\u2089\u2087bb\u2086\u2081/7bba\u2087bf\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofg\u2082sw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083ofg\u2082sv/8310697b-4c\u2080d-473c-8a\u2080e-02f\u2082c\u2081\u2089\u2087bb\u2086\u2081/7bba\u2087bf\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofg\u2082sw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Structure of Atom Question 135 English Explanation\">",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -477,14 +357,14 @@
         "D": "I < II < III < IV"
       },
       "answer": "A",
-      "solution": "n = 4, l = 2, 4d orbital, n + l = 6 <br><br> n = 3, l = 2, 3d orbital, n + l = 5<br><br> n = 4, l = 1, 4p orbital, n + l = 5<br><br> n = 3, l = 1, 3p orbital, n + l = 4<br> <br>more is n + l value, more is energy <br><br>$$ \\therefore $$ 3p < 3d < 4p < 4d",
+      "solution": "n = 4, l = 2, 4d orbital, n + l = 6 <br><br> n = 3, l = 2, 3d orbital, n + l = 5<br><br> n = 4, l = 1, 4p orbital, n + l = 5<br><br> n = 3, l = 1, 3p orbital, n + l = 4<br> <br>more is n + l value, more is energy <br><br> \\therefore 3p < 3d < 4p < 4d",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "The number of orbitals associated with quantum number n = 5, m<sub>s</sub> = +$$1 \\over 2$$ is :",
+      "question": "The number of orbitals associated with quantum number n = 5, m<sub>s</sub> = +1 \\over 2 is :",
       "options": {
         "A": "11",
         "B": "25",
@@ -499,7 +379,7 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Consider the hypothetical situation where the azimuthal quantum number, $$l$$, takes values 0, 1, 2, ....., n + 1, where n is the principal quantum number. Then, the element with atomic number :",
+      "question": "Consider the hypothetical situation where the azimuthal quantum number, l, takes values 0, 1, 2, ....., n + 1, where n is the principal quantum number. Then, the element with atomic number :",
       "options": {
         "A": "13 has a half-filled valence subshell",
         "B": "9 is the first alkali metal",
@@ -522,14 +402,14 @@
         "D": "4"
       },
       "answer": "B",
-      "solution": "For n = 4 possible value of l = 0, 1, 2, 3. <br><br>Only l = 2 and l = 3 can have m = -2 <br><br>$$ \\therefore $$ 4d & 4f subshell associated with n = 4, m = \\\u20132.",
+      "solution": "For n = 4 possible value of l = 0, 1, 2, 3. <br><br>Only l = 2 and l = 3 can have m = -2 <br><br> \\therefore 4d & 4f subshell associated with n = 4, m = \\\u20132.",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Which of the following statements are correct?</p> <p>(A) The electronic configuration of Cr is [Ar] 3d<sup>5</sup> 4s<sup>1</sup>.</p> <p>(B) The magnetic quantum number may have a negative value.</p> <p>(C) In the ground state of an atom, the orbitals are filled in order of their increasing energies.</p> <p>(D) The total number of nodes are given by n $$-$$ 2.</p> <p>Choose the most appropriate answer from the options given below :</p>",
+      "question": "Which of the following statements are correct? (A) The electronic configuration of Cr is [Ar] 3d<sup>5</sup> 4s<sup>1</sup>. (B) The magnetic quantum number may have a negative value. (C) In the ground state of an atom, the orbitals are filled in order of their increasing energies. (D) The total number of nodes are given by n - 2. Choose the most appropriate answer from the options given below :",
       "options": {
         "A": "(A), (C) and (D) only",
         "B": "(A) and (B) only",
@@ -537,14 +417,14 @@
         "D": "(A), (B) and (C) only"
       },
       "answer": "D",
-      "solution": "<p>(A) Cr (24) = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup></p> <p>= [Ar] 3d<sup>5</sup> 4s<sup>1</sup></p> <p>(B) Magnetic quantum number (m) values ranging from $$-$$ l to + l including zero.</p> <p>$$\\therefore$$ It can have negative value.</p> <p>(C) According to Aufbau rule, electrons are filled first in these orbitals which have low energy.</p> <p>$$\\therefore$$ Statement C is correct.</p> <p>(D) We know,</p> <p>Number of Radial nodes = n $$-$$ l $$-$$ 1</p> <p>and number of Angular nodes = l</p> <p>$$\\therefore$$ Total nodes = n $$-$$ l $$-$$ 1 + 1 = n $$-$$ 1</p>",
+      "solution": "(A) Cr (24) = 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup> = [Ar] 3d<sup>5</sup> 4s<sup>1</sup> (B) Magnetic quantum number (m) values ranging from - l to + l including zero. \\therefore It can have negative value. (C) According to Aufbau rule, electrons are filled first in these orbitals which have low energy. \\therefore Statement C is correct. (D) We know, Number of Radial nodes = n - l - 1 and number of Angular nodes = l \\therefore Total nodes = n - l - 1 + 1 = n - 1",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Consider the following statements :</p> <p>(A) The principal quantum number 'n' is a positive integer with values of 'n' = 1, 2, 3, ...</p> <p>(B) The azimuthal quantum number 'l' for a given 'n' (principal quantum number) can have values as 'l' = 0, 1, 2, ...... n</p> <p>(C) Magnetic orbital quantum number 'm<sub>l</sub>' for a particular 'l' (azimuthal quantum number) has (2l + 1) values.</p> <p>(D) $$\\pm$$ 1/2 are the two possible orientations of electron spin.</p> <p>(E) For l = 5, there will be a total of 9 orbital</p> <p>Which of the above statements are correct?</p>",
+      "question": "Consider the following statements : (A) The principal quantum number 'n' is a positive integer with values of 'n' = 1, 2, 3, ... (B) The azimuthal quantum number 'l' for a given 'n' (principal quantum number) can have values as 'l' = 0, 1, 2, ...... n (C) Magnetic orbital quantum number 'm<sub>l</sub>' for a particular 'l' (azimuthal quantum number) has (2l + 1) values. (D) \\pm 1/2 are the two possible orientations of electron spin. (E) For l = 5, there will be a total of 9 orbital Which of the above statements are correct?",
       "options": {
         "A": "(A), (B) and (C)",
         "B": "(A), (C), (D) and (E)",
@@ -552,14 +432,14 @@
         "D": "(A), (B), (C) and (D)"
       },
       "answer": "C",
-      "solution": "<p>(A) Principle quantum number n is a positive integer and it's possible values are n = 1, 2, 3 ........</p> <p>$$\\therefore$$ A is correct.</p> <p>(B) Azimuthal quantum number 'l' for a given 'n' can have values as l = 0, 1, 2 ....... (n $$-$$ 1)</p> <p>$$\\therefore$$ Statement B is wrong.</p> <p>(C) Magnetic orbital quantum number m<sub>l</sub> for particular l has values from $$-$$ l to + 1 including zero means 2l + 1 values.</p> <p>$$\\therefore$$ Statement C is correct.</p> <p>(D) $$ \\pm \\,\\,1 \\over 2$$ are the two possible orientation of electron spin.</p> <p>$$\\therefore$$ Statement D is correct.</p> <p>(E) For l = 5, there will be a total of 11 orbitals.</p> <p>$$l$$ = 0 $$\\Rightarrow$$ 5 subshell</p> <p>$$l$$ = 1 $$\\Rightarrow$$ p subshell</p> <p>$$l$$ = 2 $$\\Rightarrow$$ d subshell</p> <p>$$l$$ = 3 $$\\Rightarrow$$ f subshell</p> <p>$$l$$ = 4 $$\\Rightarrow$$ g subshell</p> <p>$$l$$ = 5 $$\\Rightarrow$$ h subshell</p> <p>We know,</p> <p>Number of orbital in any subshell = 2$$l$$ + 1.</p> <p>$$\\therefore$$ For h subshell, number of orbitals = 2 $$\\times$$ 5 + 1 = 11</p>",
+      "solution": "(A) Principle quantum number n is a positive integer and it's possible values are n = 1, 2, 3 ........ \\therefore A is correct. (B) Azimuthal quantum number 'l' for a given 'n' can have values as l = 0, 1, 2 ....... (n - 1) \\therefore Statement B is wrong. (C) Magnetic orbital quantum number m<sub>l</sub> for particular l has values from - l to + 1 including zero means 2l + 1 values. \\therefore Statement C is correct. (D) \\pm \\,\\,1 \\over 2 are the two possible orientation of electron spin. \\therefore Statement D is correct. (E) For l = 5, there will be a total of 11 orbitals. l = 0 \\Rightarrow 5 subshell l = 1 \\Rightarrow p subshell l = 2 \\Rightarrow d subshell l = 3 \\Rightarrow f subshell l = 4 \\Rightarrow g subshell l = 5 \\Rightarrow h subshell We know, Number of orbital in any subshell = 2l + 1. \\therefore For h subshell, number of orbitals = 2 \u00d7 5 + 1 = 11",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Consider the following pairs of electrons</p> <p>(A) (a) n = 3, $$l$$ = 1, m<sub>1</sub> = 1, m<sub>s</sub> = + $$1 \\over 2$$</p> <p> (b) n = 3, 1 = 2, m<sub>1</sub> = 1, m<sub>s</sub> = + $$1 \\over 2$$</p> <p>(B) (a) n = 3, $$l$$ = 2, m<sub>1</sub> = $$-$$2, m<sub>s</sub> = $$-$$$$1 \\over 2$$</p> <p> (b) n = 3, $$l$$ = 2, m<sub>1</sub> = $$-$$1, m<sub>s</sub> = $$-$$$$1 \\over 2$$</p> <p>(C) (a) n = 4, $$l$$ = 2, m<sub>1</sub> = 2, m<sub>s</sub> = + $$1 \\over 2$$</p> <p> (b) n = 3, $$l$$ = 2, m<sub>1</sub> = 2, m<sub>s</sub> = + $$1 \\over 2$$</p> <p>The pairs of electrons present in degenerate orbitals is/are :</p>",
+      "question": "Consider the following pairs of electrons (A) (a) n = 3, l = 1, m<sub>1</sub> = 1, m<sub>s</sub> = + 1 \\over 2 (b) n = 3, 1 = 2, m<sub>1</sub> = 1, m<sub>s</sub> = + 1 \\over 2 (B) (a) n = 3, l = 2, m<sub>1</sub> = -2, m<sub>s</sub> = -1 \\over 2 (b) n = 3, l = 2, m<sub>1</sub> = -1, m<sub>s</sub> = -1 \\over 2 (C) (a) n = 4, l = 2, m<sub>1</sub> = 2, m<sub>s</sub> = + 1 \\over 2 (b) n = 3, l = 2, m<sub>1</sub> = 2, m<sub>s</sub> = + 1 \\over 2 The pairs of electrons present in degenerate orbitals is/are :",
       "options": {
         "A": "Only (A)",
         "B": "Only (B)",
@@ -567,14 +447,14 @@
         "D": "(B) and (C)"
       },
       "answer": "B",
-      "solution": "<p>For degenerate orbitals, only the value of m must be different. The value of (n + l) must be the same.</p> <p>Hence, the pair of electrons with quantum numbers given in (B) are degenerate. </p>",
+      "solution": "For degenerate orbitals, only the value of m must be different. The value of (n + l) must be the same. Hence, the pair of electrons with quantum numbers given in (B) are degenerate.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>The number of radial nodes and total number of nodes in 4p orbital respectively are :</p>",
+      "question": "The number of radial nodes and total number of nodes in 4p orbital respectively are :",
       "options": {
         "A": "2 and 3",
         "B": "2 and 2",
@@ -582,29 +462,29 @@
         "D": "4 and 4"
       },
       "answer": "A",
-      "solution": "For $4 p$ <br/><br/> $$ n=4, l=1 $$ <br/><br/> Total number of nodes $=n-1=4-1=3$ <br/><br/> Total radial nodes $=n-l-1=4-1-1=2$",
+      "solution": "For 4 p <br/><br/> n=4, l=1 <br/><br/> Total number of nodes =n-1=4-1=3 <br/><br/> Total radial nodes =n-l-1=4-1-1=2",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Which of the following sets of quantum numbers is not allowed?</p>",
+      "question": "Which of the following sets of quantum numbers is not allowed?",
       "options": {
-        "A": "$$ n=3,1=2, ~m_l=0, ~s=+\\frac\u2081\u2082 $$",
-        "B": "$$ n=3, l=2, ~m_l=-2, ~s=+\\frac\u2081\u2082 $$",
-        "C": "$$ n=3, l=3, ~m_l=-3, ~s=-\\frac\u2081\u2082 $$",
-        "D": "$$ n=3, l=0, ~m_1=0, ~s=-\\frac\u2081\u2082 $$"
+        "A": "n=3,1=2, m_l=0, s=+\\frac\u2081\u2082",
+        "B": "n=3, l=2, m_l=-2, s=+\\frac\u2081\u2082",
+        "C": "n=3, l=3, m_l=-3, s=-\\frac\u2081\u2082",
+        "D": "n=3, l=0, m_1=0, s=-\\frac\u2081\u2082"
       },
       "answer": "C",
-      "solution": "If $$n=3$$, then possible values of $$l=0,1,2$$ <br/><br/> But in option (C), the value of $$l$$ is given ' 3 ', this is not possible.",
+      "solution": "If n=3, then possible values of l=0,1,2 <br/><br/> But in option (C), the value of l is given ' 3 ', this is not possible.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>The correct decreasing order of energy for the orbitals having, following set of quantum numbers :</p> <p>(A) n = 3, l = 0, m = 0</p> <p>(B) n = 4, l = 0, m = 0</p> <p>(C) n = 3, l = 1, m = 0</p> <p>(D) n = 3, l = 2, m = 1</p> <p>is :</p>",
+      "question": "The correct decreasing order of energy for the orbitals having, following set of quantum numbers : (A) n = 3, l = 0, m = 0 (B) n = 4, l = 0, m = 0 (C) n = 3, l = 1, m = 0 (D) n = 3, l = 2, m = 1 is :",
       "options": {
         "A": "(D) > (B) > (C) > (A)",
         "B": "(B) > (D) > (C) > (A)",
@@ -612,34 +492,34 @@
         "D": "(B) > (C) > (D) > (A)"
       },
       "answer": "A",
-      "solution": "(A) $n+\\ell=3+0=3$<br/><br/> (B) $n+\\ell=4+0=4$<br/><br/> (C) $n+\\ell=3+1=4$<br/><br/> (D) $n+\\ell=3+2=5$<br/><br/> Higher $n+\\ell$ valuc, higher the encrgy & if same $n+\\ell$ value, then higher $n$ value, higher the energy.<br/><br/> Thus : $D>B>C>A$.",
+      "solution": "(A) n+\\ell=3+0=3<br/><br/> (B) n+\\ell=4+0=4<br/><br/> (C) n+\\ell=3+1=4<br/><br/> (D) n+\\ell=3+2=5<br/><br/> Higher n+\\ell valuc, higher the encrgy & if same n+\\ell value, then higher n value, higher the energy.<br/><br/> Thus : D>B>C>A.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Given below are the quantum numbers for 4 electrons.</p> <p>A. $$n=3,l=2, ~m_1=1, ~m_s=+1 / 2$$</p> <p>B. $$n=4,l=1, ~m_1=0, ~m_s=+1 / 2$$</p> <p>C. $$n=4,l=2, ~m_1=-2, ~m_s=-1 / 2$$</p> <p>D. $$n=3,l=1, ~m_1=-1, ~m_s=+1 / 2$$</p> <p>The correct order of increasing energy is</p>",
+      "question": "Given below are the quantum numbers for 4 electrons. A. n=3,l=2, m_1=1, m_s=+1 / 2 B. n=4,l=1, m_1=0, m_s=+1 / 2 C. n=4,l=2, m_1=-2, m_s=-1 / 2 D. n=3,l=1, m_1=-1, m_s=+1 / 2 The correct order of increasing energy is",
       "options": {
-        "A": "D < B < A <",
-        "B": "D < A < B <",
-        "C": "B < D < A <",
-        "D": "B < D < C <"
+        "A": "< B < A <",
+        "B": "< A < B <",
+        "C": "< D < A <",
+        "D": "< D < C <"
       },
       "answer": "B",
-      "solution": "Energy of the sub-shell is given by, $(n+l)$ rule. <br/><br/>$A \\Rightarrow 3 ~d \\Rightarrow n+1=5$ <br/><br/>$~B \\Rightarrow 4 p \\Rightarrow n+\\lambda=5$ <br/><br/>$C \\Rightarrow 4 ~d \\Rightarrow n+\\ell \\Rightarrow 6$ <br/><br/>$D \\Rightarrow 3 ~s \\Rightarrow(n+\\ell)=4$ <br/><br/>$D<A<B<C$",
+      "solution": "Energy of the sub-shell is given by, (n+l) rule. <br/><br/>A \\Rightarrow 3 d \\Rightarrow n+1=5 <br/><br/> B \\Rightarrow 4 p \\Rightarrow n+\\lambda=5 <br/><br/>C \\Rightarrow 4 d \\Rightarrow n+\\ell \\Rightarrow 6 <br/><br/>D \\Rightarrow 3 s \\Rightarrow(n+\\ell)=4 <br/><br/>D<A<B<C",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "Arrange the following orbitals in decreasing order of energy.<br/><br/> A. $n=3, l=0, ~m=0$<br/><br/> B. $n=4, l=0, ~m=0$<br/><br/> C. $n=3, l=1, ~m=0$<br/><br/> D. $n=3, l=2, ~m=1$ <br/><br/> The correct option for the order is :",
+      "question": "Arrange the following orbitals in decreasing order of energy.<br/><br/> A. n=3, l=0, m=0<br/><br/> B. n=4, l=0, m=0<br/><br/> C. n=3, l=1, m=0<br/><br/> D. n=3, l=2, m=1 <br/><br/> The correct option for the order is :",
       "options": {
-        "A": "$B>D>C>A$",
-        "B": "$A>C>B>D$",
-        "C": "$D>B>A>C$",
-        "D": "$D>B>C>A$"
+        "A": "B>D>C>A",
+        "B": "A>C>B>D",
+        "C": "D>B>A>C",
+        "D": "D>B>C>A"
       },
       "answer": "D",
       "solution": "(A) n = 3; l = 0; m = 0 ; 3s orbital <br/><br/>(B) n = 4; l = 0; m = 0 ; 4s orbital <br/><br/>(C) n = 3; l = 1; m = 0 ; 3p orbital <br/><br/>(D) n = 3; l = 2; m = 0 ; 3d orbital <br/><br/>As per Hund\\u\u2082\u2080\u2081\u2089s ruleo of energy is given by (n + l) value. If value of (n + l) remains same then energy is given by n only.",
@@ -649,45 +529,45 @@
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19) are</p>",
+      "question": "The four quantum numbers for the electron in the outer most orbital of potassium (atomic no. 19) are",
       "options": {
-        "A": "$$n=3, l=0, ~m=1, ~s=+\\frac\u2081\u2082$$",
-        "B": "$$n=4, l=0, ~m=0, s=+\\frac\u2081\u2082$$",
-        "C": "$$n=2, l=0, ~m=0, s=+\\frac\u2081\u2082$$",
-        "D": "$$n=4, l=2, ~m=-1, s=+\\frac\u2081\u2082$$"
+        "A": "n=3, l=0, m=1, s=+\\frac\u2081\u2082",
+        "B": "n=4, l=0, m=0, s=+\\frac\u2081\u2082",
+        "C": "n=2, l=0, m=0, s=+\\frac\u2081\u2082",
+        "D": "n=4, l=2, m=-1, s=+\\frac\u2081\u2082"
       },
       "answer": "B",
-      "solution": "<p>$$ _19 ~K \\quad 1 ~s^2, 2 ~s^2, 2 p^6, 3 ~s^2, 3 p^6, 4 ~s^1 \\text . $$</p> <p>Outermost orbital of potassium is $$4 ~s$$ orbital</p> <p>$$n=4,1=0, ~m_l=0, ~s= \\pm \\frac\u2081\u2082$$</p>",
+      "solution": "_19 K \\quad 1 s^2, 2 s^2, 2 p^6, 3 s^2, 3 p^6, 4 s^1 \\text . Outermost orbital of potassium is 4 s orbital n=4,1=0, m_l=0, s= \\pm \\frac\u2081\u2082",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>The correct set of four quantum numbers for the valence electron of rubidium atom $$(Z=37)$$ is :</p>",
+      "question": "The correct set of four quantum numbers for the valence electron of rubidium atom (Z=37) is :",
       "options": {
-        "A": "$$5,1,1,+\\frac\u2081\u2082$$",
-        "B": "$$5,0,0,+\\frac\u2081\u2082$$",
-        "C": "$$5,0,1,+\\frac\u2081\u2082$$",
-        "D": "$$5,1,0,+\\frac\u2081\u2082$$"
+        "A": "5,1,1,+\\frac\u2081\u2082",
+        "B": "5,0,0,+\\frac\u2081\u2082",
+        "C": "5,0,1,+\\frac\u2081\u2082",
+        "D": "5,1,0,+\\frac\u2081\u2082"
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned & Rb=[Kr] 5 ~s^1 \\\\ & n=5 \\\\ & l=0 \\\\ & ~m=0 \\\\ & ~s=+1 / 2 \\text or -1 / 2 \\endaligned$$</p>",
+      "solution": "\\beginaligned & Rb=[Kr] 5 s^1 \\\\ & n=5 \\\\ & l=0 \\\\ & m=0 \\\\ & s=+1 / 2 \\text or -1 / 2 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Structure of Atom"
     },
     {
-      "question": "<p>Compare the energies of following sets of quantum numbers for multielectron system.</p> <p>(A) $$n=4,1=1$$</p> <p>(B) $$n=4,1=2$$</p> <p>(C) $$n=3, l=1$$</p> <p>(D) $$n=3,1=2$$</p> <p>(E) $$n=4,1=0$$</p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "Compare the energies of following sets of quantum numbers for multielectron system. (A) n=4,1=1 (B) n=4,1=2 (C) n=3, l=1 (D) n=3,1=2 (E) n=4,1=0 Choose the correct answer from the options given below :",
       "options": {
-        "A": "$$ (E)>(C)>(A)>(D)>(B) $$",
-        "B": "$$ (B)>(A)>(C)>(E)>(D) $$",
-        "C": "$$ (C)<(E)<(D)<(A)<(B) $$",
-        "D": "$$ (E)<(C)<(D)<(A)<(B) $$"
+        "A": "(E)>(C)>(A)>(D)>(B)",
+        "B": "(B)>(A)>(C)>(E)>(D)",
+        "C": "(C)<(E)<(D)<(A)<(B)",
+        "D": "(E)<(C)<(D)<(A)<(B)"
       },
       "answer": "C",
-      "solution": "<p>To compare the energies of electrons in a multielectron system, we must consider both the principal quantum number ($$n$$) and the azimuthal quantum number ($$l$$). In multielectron atoms, the energy levels are influenced by electron-electron repulsions, which modify the energy ordering compared to the hydrogen atom.</p> <p>The general rule, called the \"n+l\" rule or Madelung rule, states that the energy of an electron in a multielectron atom is primarily determined by the sum of the principal quantum number ($$n$$) and the azimuthal quantum number ($$l$$). An orbital with a lower $$(n + l)$$ value has lower energy. If two orbitals have the same $$(n + l)$$ value, the orbital with the lower $$n$$ value has lower energy.</p> <p>Now, let's analyze each set of quantum numbers:</p> <p>(A) $$n=4, l=1$$<br> <p>$$n + l = 4 + 1 = 5$$</p></p> <p>(B) $$n=4, l=2$$<br> <p>$$n + l = 4 + 2 = 6$$</p></p> <p>(C) $$n=3, l=1$$<br> <p>$$n + l = 3 + 1 = 4$$</p></p> <p>(D) $$n=3, l=2$$<br> <p>$$n + l = 3 + 2 = 5$$</p></p> <p>(E) $$n=4, l=0$$<br> <p>$$n + l = 4 + 0 = 4$$</p></p> <p>Based on the $$n + l$$ values, the order of increasing energy is:</p> <p>(C) = (E) < (A) = (D) < (B)</p> <p>Among (C) and (E), (C) has lower $$n$$ value, so it is lower in energy:</p> <p>(C) < (E) < (A) = (D) < (B)</p> <p>Among (A) and (D), (D) has lower $$n$$ value, so it is lower in energy:</p> <p>Thus, the correct order is: (C) < (E) < (D) < (A) < (B)</p> <p>The correct answer is Option C:</p> <p>$$ (C) < (E) < (D) < (A) < (B) $$</p></p>",
+      "solution": "To compare the energies of electrons in a multielectron system, we must consider both the principal quantum number (n) and the azimuthal quantum number (l). In multielectron atoms, the energy levels are influenced by electron-electron repulsions, which modify the energy ordering compared to the hydrogen atom. The general rule, called the \"n+l\" rule or Madelung rule, states that the energy of an electron in a multielectron atom is primarily determined by the sum of the principal quantum number (n) and the azimuthal quantum number (l). An orbital with a lower (n + l) value has lower energy. If two orbitals have the same (n + l) value, the orbital with the lower n value has lower energy. Now, let's analyze each set of quantum numbers: (A) n=4, l=1<br> n + l = 4 + 1 = 5 (B) n=4, l=2<br> n + l = 4 + 2 = 6 (C) n=3, l=1<br> n + l = 3 + 1 = 4 (D) n=3, l=2<br> n + l = 3 + 2 = 5 (E) n=4, l=0<br> n + l = 4 + 0 = 4 Based on the n + l values, the order of increasing energy is: (C) = (E) < (A) = (D) < (B) Among (C) and (E), (C) has lower n value, so it is lower in energy: (C) < (E) < (A) = (D) < (B) Among (A) and (D), (D) has lower n value, so it is lower in energy: Thus, the correct order is: (C) < (E) < (D) < (A) < (B) The correct answer is Option C: (C) < (E) < (D) < (A) < (B)",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",

@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Dual Nature of Radiation and Matter",
-  "total_questions": 85,
+  "total_questions": 79,
   "questions": [
     {
       "question": "Refer to the Photoelectric Current vs Collector Voltage graph below. Why does the stopping potential V\u2080 remain identical for both radiation intensities I\u2081 and I\u2082?",
@@ -10,10 +10,10 @@
         "A": "Stopping potential depends solely on light frequency (\u03bd), not on light intensity",
         "B": "Stopping potential depends only on intensity, not frequency",
         "C": "urrent becomes zero at maximum voltage",
-        "D": "Electrons are emitted with zero kinetic energy"
+        "D": "Electrons are emitted with zero kineti"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Modern Physics:** Einstein's photoelectric equation states $e V_0 = h\\nu - \\Phi$. Stopping potential $V_0$ depends strictly on the frequency $\\nu$ of incident light and work function $\\Phi$, independent of light intensity.",
+      "solution": "**Correct Answer: (A)** **Modern Physics:** Einstein's photoelectric equation states e V_0 = h\\nu - \\Phi. Stopping potential V_0 depends strictly on the frequency \\nu of incident light and work function \\Phi, independent of light intensity.",
       "exam": "NEET CBT Modern Physics Graph PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -28,7 +28,7 @@
         "D": "Quadrupled"
       },
       "answer": "A",
-      "solution": "## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2081 = 1.5f\\u\u2082\u2080\u2088\u2080 - Since 1.5f\\u\u2082\u2080\u2088\u2080 > f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect occurs** \\u\u2082\u2087\u2081\u2083 - Photoelectrons are emitted **New Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2082 = f\\u\u2082\u2080\u2088\u2081/2 = (1.5f\\u\u2082\u2080\u2088\u2080)/2 = **0.75f\\u\u2082\u2080\u2088\u2080** - Since 0.75f\\u\u2082\u2080\u2088\u2080 < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect DOES NOT occur** \\u\u2082\u2087\u2081\u2087 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\\u\u2082\u2080\u2088\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** $$KE_max = hf - hf_0 = h(f - f_0)$$ - If f < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **No emission** (current = 0) - If f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 Emission occurs (current \\u\u2082\u2082\u2081d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
+      "solution": "## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2081 = 1.5f\\u\u2082\u2080\u2088\u2080 - Since 1.5f\\u\u2082\u2080\u2088\u2080 > f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect occurs** \\u\u2082\u2087\u2081\u2083 - Photoelectrons are emitted **New Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2082 = f\\u\u2082\u2080\u2088\u2081/2 = (1.5f\\u\u2082\u2080\u2088\u2080)/2 = **0.75f\\u\u2082\u2080\u2088\u2080** - Since 0.75f\\u\u2082\u2080\u2088\u2080 < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect DOES NOT occur** \\u\u2082\u2087\u2081\u2087 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\\u\u2082\u2080\u2088\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** KE_max = hf - hf_0 = h(f - f_0) - If f < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **No emission** (current = 0) - If f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 Emission occurs (current \\u\u2082\u2082\u2081d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
       "exam": "NEET 2024",
       "year": 2024,
       "subject": "Physics",
@@ -38,42 +38,12 @@
       "question": "Light of wavelength 500 nm is incident on a metal with work function 2 . 28 eV . The de Broglie wavelength of the emitted electron is:",
       "options": {
         "A": "<",
-        "B": "8 \u00c3\u0097 10 - 9 \u00c2 m B \u00e2\u0089\u00a5",
-        "C": "8 \u00c3\u0097 10 - 9 \u00c2 m C \u00e2\u0089\u00a4",
-        "D": "8 \u00c3\u0097 10 - 12 \u00c2 m D <"
+        "B": "8 \u00c3\u0097 10 - 9 m B \u00e2\u0089\u00a5",
+        "C": "8 \u00c3\u0097 10 - 9 m C \u00e2\u0089\u00a4",
+        "D": "8 \u00c3\u0097 10 - 12 m D <"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** KE m a x = h c \u03bb - \u03a8 \u21d2 KE m a x = 1240500 - 2.28 \u21d2 KE m a x = 2.48 - 2.28 = 0.2 e V \u03bb m i n = h 2 m KE max = 203 \u00d7 10 - 342 \u00d7 9 \u00d7 10 - 31 \u00d7 0.2 \u00d7 1.6 \u00d7 10 - 19 \u03bb m i n = 259 \u00d7 10 - 9 = 2.80 \u00d7 10 - 9 m So, \u03bb \u2265 2.8 \u00d7 10 - 9 m . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The value of Planck's constant is:",
-      "options": {
-        "A": "$",
-        "B": "63 \\times 10^-34 Js^-1$",
-        "C": "63 \\times 10^-34 ~m^2 ~s^-1$",
-        "D": "63 \\times 10^-34 ~kg ~m^2$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The value of Planck's constant $h=6.63 \\times 10^-34 kgm^2 ~s^-1$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The de Broglie wavelength associated with an electron, accelerated by a potential difference of $81 ~V$ is given by:",
-      "options": {
-        "A": "$",
-        "B": "36 ~nm$",
-        "C": "136 ~nm$ C $1",
-        "D": "6 ~nm$ D $136 ~nm$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know, for an electron De Broglie wavelength, $\\lambda=\\frac\u2081\u2082.27\\sqrtv \u00c3 $ $\\beginaligned & \\lambda=\\frac\u2081\u2082.27\\sqrt\u2088\u2081=\\frac\u2081\u2082.279 \u00c3 \\\\ & \\lambda=1.36 \u00c3 \\text or 0.136 ~nm\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -88,22 +58,22 @@
         "D": "c*(E/2m)^0.5"
       },
       "answer": "A",
-      "solution": "# Solution: de Broglie Wavelength Ratio ## **Correct Answer: (A) (1/c)\u00b7\u221a(E/2m)** --- ## Step-by-Step Solution ### **De Broglie Wavelength Formula** \u03bb = h/p (where p is momentum) ### **For the Electron (non-relativistic):** From kinetic energy: $$E = \\frac\u2081\u2082mv_e^2$$ Momentum: $$p_e = mv_e = m\\sqrt\\frac\u2082Em = \\sqrt\u2082mE$$ de Broglie wavelength: $$\\lambda_e = \\frachp_e = \\frach\\sqrt\u2082mE$$ ### **For the Photon:** Energy-momentum relation: $$E = pc \\quad \\Rightarrow \\quad p_p = \\fracEc$$ de Broglie wavelength: $$\\lambda_p = \\frachp_p = \\frachcE$$ ### **Finding the Ratio:** $$\\frac\\lambda_e\\lambda_p = \\frach/\\sqrt\u2082mEhc/E = \\frach\\sqrt\u2082mE \\times \\fracEhc$$ $$= \\fracEc\\sqrt\u2082mE = \\frac\\sqrtE^2c\\sqrt\u2082mE$$ $$= \\frac\u2081c\\sqrt\\fracE\u2082m$$ --- ## Key Concepts to Remember | Particle | Energy | Momentum | de Broglie \u03bb | |----------|--------|----------|------------| | **Electron** | E = p\u00b2/2m | p = \u221a(2mE) | h/\u221a(2mE) | | **Photon** | E = pc | p = E/c | hc/E | --- ## Why Other Options Are Wrong - **(B)** Extra factor of c and wrong direction - **(C)** Inverted fraction (2m/E instead of E/2m) - **(D)** Missing reciprocal of c; has c instead of 1/c The key insight: **Photons have larger momentum per unit energy** (p = E/c) compared to electrons (p = \u221a2mE), so electrons have longer de Broglie wavelengths!",
+      "solution": "# Solution: de Broglie Wavelength Ratio ## **Correct Answer: (A) (1/c)\u00b7\u221a(E/2m)** --- ## Step-by-Step Solution ### **De Broglie Wavelength Formula** \u03bb = h/p (where p is momentum) ### **For the Electron (non-relativistic):** From kinetic energy: E = \\frac\u2081\u2082mv_e^2 Momentum: p_e = mv_e = m\\sqrt\\frac\u2082Em = \\sqrt\u2082mE de Broglie wavelength: \\lambda_e = \\frachp_e = \\frach\\sqrt\u2082mE ### **For the Photon:** Energy-momentum relation: E = pc \\quad \\Rightarrow \\quad p_p = \\fracEc de Broglie wavelength: \\lambda_p = \\frachp_p = \\frachcE ### **Finding the Ratio:** \\frac\\lambda_e\\lambda_p = \\frach/\\sqrt\u2082mEhc/E = \\frach\\sqrt\u2082mE \u00d7 \\fracEhc = \\fracEc\\sqrt\u2082mE = \\frac\\sqrtE^2c\\sqrt\u2082mE = \\frac\u2081c\\sqrt\\fracE\u2082m --- ## Key Concepts to Remember | Particle | Energy | Momentum | de Broglie \u03bb | |----------|--------|----------|------------| | **Electron** | E = p\u00b2/2m | p = \u221a(2mE) | h/\u221a(2mE) | | **Photon** | E = pc | p = E/c | hc/E | --- ## Why Other Options Are Wrong - **(B)** Extra factor of c and wrong direction - **(C)** Inverted fraction (2m/E instead of E/2m) - **(D)** Missing reciprocal of c; has c instead of 1/c The key insight: **Photons have larger momentum per unit energy** (p = E/c) compared to electrons (p = \u221a2mE), so electrons have longer de Broglie wavelengths!",
       "exam": "NEET 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The de-Broglie wavelength of neutrons in thermal equilibrium at temperature $T$ is:",
+      "question": "The de-Broglie wavelength of neutrons in thermal equilibrium at temperature T is:",
       "options": {
-        "A": "$\\frac",
-        "B": "08\\sqrtT \u00c3 $ B $\\frac",
-        "C": "308\\sqrtT \u00c3 $ C $\\frac",
-        "D": "0308\\sqrtT \u00c3 $ D $\\frac\u2083"
+        "A": "\\frac",
+        "B": "08\\sqrtT \u00c3 B \\frac",
+        "C": "308\\sqrtT \u00c3 C \\frac",
+        "D": "0308\\sqrtT \u00c3 D \\frac\u2083"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Using de-Broglie wavelength $$ \\beginaligned \\lambda & =\\frach\\sqrt\u2082 m K_B T \\\\ \\lambda & =\\frac\u2086.63 \\times 10^-34\\sqrt\u2082 \\times 1.67 \\times 10^-27 \\times 1.38 \\times 10^-23 \\times T \\\\ & =\\frac\u2083.08 \\times 10^-34 \\times 10^25\\sqrtT m=\\frac\u2083\u2080.8\\sqrtT \u00c3 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Using de-Broglie wavelength \\beginaligned \\lambda & =\\frach\\sqrt\u2082 m K_B T \\\\ \\lambda & =\\frac\u2086.63 \u00d7 10^-34\\sqrt\u2082 \u00d7 1.67 \u00d7 10^-27 \u00d7 1.38 \u00d7 10^-23 \u00d7 T \\\\ & =\\frac\u2083.08 \u00d7 10^-34 \u00d7 10^25\\sqrtT m=\\frac\u2083\u2080.8\\sqrtT \u00c3 \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -118,24 +88,9 @@
         "D": "V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd\\u\u2082\u2080\u2088\u2080/e"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd/e** ## Step-by-Step Solution **Step 1: Apply Einstein's Photoelectric Equation** For any frequency, the equation is: $$h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + KE_max$$ where \\u\u2080\u2083c\u2086 is the work function of the metal. **Step 2: Relate Stopping Potential to Kinetic Energy** The stopping potential V\\u\u2082\u2080\u2088\u2080 is defined such that: $$eV\\u\u2082\u2080\u2088\u2080 = KE_max$$ **Step 3: Write equations for both frequencies** For frequency \\u\u2080\u2083bd: $$h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080 \\quad ...(1)$$ For frequency 2\\u\u2080\u2083bd: $$h(2\\u\u2080\u2083bd) = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080' \\quad ...(2)$$ **Step 4: Eliminate the work function** From equation (1): $\\u\u2080\u2083c\u2086 = h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080$ Substitute into equation (2): $$2h\\u\u2080\u2083bd = (h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080) + eV\\u\u2082\u2080\u2088\u2080'$$ $$2h\\u\u2080\u2083bd - h\\u\u2080\u2083bd = eV\\u\u2082\u2080\u2088\u2080' - eV\\u\u2082\u2080\u2088\u2080$$ $$h\\u\u2080\u2083bd = e(V\\u\u2082\u2080\u2088\u2080' - V\\u\u2082\u2080\u2088\u2080)$$ $$V\\u\u2082\u2080\u2088\u2080' = V\\u\u2082\u2080\u2088\u2080 + \\frach\\u\u2080\u2083bde$$ ## Key Concept to Remember **The stopping potential is directly proportional to frequency:** - When frequency increases by \\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd, stopping potential increases by **h\\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd/e** - This is independent of the metal used (work function cancels out) ## Why Other Options are Wrong - **(A) 2V\\u\u2082\u2080\u2088\u2080**: Incorrect because stopping potential doesn't scale linearly with frequency change in this simple way - **(C)**: Work function DOES cancel out; the answer is exact, not metal-dependent - **(D)**: Uses \\u\u2080\u2083bd\\u\u2082\u2080\u2088\u2080 instead of \\u\u2080\u2083bd; notation error and conceptually wrong",
+      "solution": "# Answer: **(B) V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd/e** ## Step-by-Step Solution **Step 1: Apply Einstein's Photoelectric Equation** For any frequency, the equation is: h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + KE_max where \\u\u2080\u2083c\u2086 is the work function of the metal. **Step 2: Relate Stopping Potential to Kinetic Energy** The stopping potential V\\u\u2082\u2080\u2088\u2080 is defined such that: eV\\u\u2082\u2080\u2088\u2080 = KE_max **Step 3: Write equations for both frequencies** For frequency \\u\u2080\u2083bd: h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080 \\quad ...(1) For frequency 2\\u\u2080\u2083bd: h(2\\u\u2080\u2083bd) = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080' \\quad ...(2) **Step 4: Eliminate the work function** From equation (1): \\u\u2080\u2083c\u2086 = h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080 Substitute into equation (2): 2h\\u\u2080\u2083bd = (h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080) + eV\\u\u2082\u2080\u2088\u2080' 2h\\u\u2080\u2083bd - h\\u\u2080\u2083bd = eV\\u\u2082\u2080\u2088\u2080' - eV\\u\u2082\u2080\u2088\u2080 h\\u\u2080\u2083bd = e(V\\u\u2082\u2080\u2088\u2080' - V\\u\u2082\u2080\u2088\u2080) V\\u\u2082\u2080\u2088\u2080' = V\\u\u2082\u2080\u2088\u2080 + \\frach\\u\u2080\u2083bde ## Key Concept to Remember **The stopping potential is directly proportional to frequency:** - When frequency increases by \\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd, stopping potential increases by **h\\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd/e** - This is independent of the metal used (work function cancels out) ## Why Other Options are Wrong - **(A) 2V\\u\u2082\u2080\u2088\u2080**: Incorrect because stopping potential doesn't scale linearly with frequency change in this simple way - **(C)**: Work function DOES cancel out; the answer is exact, not metal-dependent - **(D)**: Uses \\u\u2080\u2083bd\\u\u2082\u2080\u2088\u2080 instead of \\u\u2080\u2083bd; notation error and conceptually wrong",
       "exam": "NEET 2018",
       "year": 2018,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "K max ( in \u00e2\u0080\u0089 e V ) = 3 , and frequency of light (in H z ) = 1 \u00c3\u0097 1015 for a metal used as a cathode in a photoelectric experiment. The threshold frequency of light for the photoelectric emission from the metal is -",
-      "options": {
-        "A": "1 \u00d7 1014 Hz",
-        "B": "5 \u00d7 1014 Hz",
-        "C": "1 \u00d7 1014 Hz",
-        "D": "7 \u00d7 1014 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, K max = 3 eV h = 4.125 \u00d7 10 \u2212 15 eV Hz -1 h \u03bd = K max + W\u2084.125 \u00d7 10 - 15 \u00d7 1015 = 3 + W or 4.125 = 3 + W or W = 1.125 The threshold frequency \u03bd 0 = W h \u03bd 0 = 1.1254.125 \u00d7 10 \u2212 15 \u03bd 0 = 1.125 \u00d7 10 \u2212 154.125 \u03bd 0 = 2.72 \u00d7 1014 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
@@ -155,52 +110,22 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "In photoelectric emission process from a metal of work function $1.8 eV$, the kinetic energy of most energetic electrons is $0.5 eV$. The corresponding stopping potential is",
+      "question": "Two electrons are moving with non-relativistic speed perpendicular to each other. If corresponding de Broglie wavelength are \\lambda _1 and \\lambda _2, their de Broglie wavelength in the frame of reference attached to their center of masses :",
       "options": {
-        "A": "$",
-        "B": "3 ~V$",
-        "C": "5 ~V$",
-        "D": "3 ~V$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Stoping potential $=$ Maximum KE $$ eV=KE_\\max $$ So, option (b) is correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The potential difference that must be applied to stop the fastest photoelectrons emitted by a nickel surface, having work function $5.01 eV$, when ultraviolet light of $200 ~nm$ falls on it, must be",
-      "options": {
-        "A": "$",
-        "B": "4 ~V$ B $-",
-        "C": "2 ~V$ C $-",
-        "D": "4 ~V$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Energy of incident light $E(eV)=\\frac\u2081\u2082\u2083\u2087\u2085\u2082\u2080\u2080\u2080$ $=6.2 eV(200 ~nm=2000 \u00c3 )$ According to the relation $E=W_0+eV_0$ $$ \\beginaligned \\Rightarrow \\quad V_0 & =\\fracE-W_0e \\\\ & =\\frac(6.2-5.01) ee \\\\ & =1.2 ~V \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Two electrons are moving with non-relativistic speed perpendicular to each other. If corresponding de Broglie wavelength are $$\\lambda _1$$ and $$\\lambda _2,$$ their de Broglie wavelength in the frame of reference attached to their center of masses :",
-      "options": {
-        "A": "$$\\lambda _CM = \\lambda _1 = \\lambda _2$$",
-        "B": "$$\\lambda _CM = 2\\lambda _1\\lambda _2 \\over \\sqrt \\lambda _1^2 + \\lambda _2^2 $$",
-        "C": "$$1 \\over \\lambda _CM = 1 \\over \\lambda _1 + 1 \\over \\lambda _2$$",
-        "D": "$$\\lambda _CM = \\left( \\lambda _1 + \\lambda _2 \\over 2 \\right)$$"
+        "A": "\\lambda _CM = \\lambda _1 = \\lambda _2",
+        "B": "\\lambda _CM = 2\\lambda _1\\lambda _2 \\over \\sqrt \\lambda _1^2 + \\lambda _2^2",
+        "C": "1 \\over \\lambda _CM = 1 \\over \\lambda _1 + 1 \\over \\lambda _2",
+        "D": "\\lambda _CM = \\left( \\lambda _1 + \\lambda _2 \\over 2 \\right)"
       },
       "answer": "B",
-      "solution": "As we know, <br><br>momentum (p) = $$h \\over \\lambda $$ <br><br>Let one perticle is moving in x direction and other is in y dirrection. <br><br>$$\\therefore\\,\\,\\,\\,$$ momentum of each electrons $$h \\over \\lambda _1\\widehat i$$ and $$h \\over \\lambda _2\\widehat j$$ <br><br>$$\\therefore\\,\\,\\,\\,$$ Velocity of each electrons $$h \\over m\\lambda _1\\widehat i$$ and $$h \\over m\\lambda _2\\widehat j$$ <br><br>$$\\therefore\\,\\,\\,\\,$$ Velocity of center of mass $$\\left( \\overrightarrow \\upsilon __CM \\right)$$ = $$\\upsilon _1^\\widehat i + \\upsilon _2^\\widehat j \\over 2$$ <br><br>Now, velocity of first electron about center of mass, <br><br>$$\\overrightarrow \\upsilon __1CM$$ = $$\\upsilon _1^\\widehat i$$ $$-$$ $$\\left( \\upsilon _1^\\widehat i + \\upsilon _2^\\widehat j \\over 2 \\right)$$ <br><br>= $$\\upsilon _1^\\widehat i - \\upsilon _2^\\widehat j \\over 2$$ <br><br>Similarly, <br><br>$$\\overrightarrow \\upsilon __2CM = \\upsilon _2^\\widehat j - \\upsilon _1^\\widehat i \\over 2$$ <br><br>Here, <br><br>$$\\left| \\overrightarrow \\upsilon __1CM \\right| = \\left| \\overrightarrow \\upsilon __2CM \\right| = 1 \\over 2$$ <br><br>$$\\therefore\\,\\,\\,\\,$$ $$\\upsilon $$ = $$1 \\over 2$$ $$\\sqrt h^2 \\over m^2\\lambda _1^2 + h^2 \\over m^2\\lambda _2^2 $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ m $$\\upsilon $$ = $$1 \\over 2$$ $$\\sqrt h^2 \\over \\lambda _1^2 + h^2 \\over \\lambda _2^2 $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $$h \\over \\lambda _CM$$ = h$$\\sqrt 1 \\over 4\\lambda _1^2 + 1 \\over 4\\lambda _2^2 $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $$1 \\over \\lambda _CM = \\sqrt \\lambda _1^2 + \\lambda _2^2 \\over 2\\lambda _1\\lambda _2$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $$\\lambda _CM = 2\\lambda _1\\lambda _2 \\over \\sqrt \\lambda _1^2 + \\lambda _2^2 $$",
+      "solution": "As we know, <br><br>momentum (p) = h \\over \\lambda <br><br>Let one perticle is moving in x direction and other is in y dirrection. <br><br>\\therefore\\,\\,\\,\\, momentum of each electrons h \\over \\lambda _1\\widehat i and h \\over \\lambda _2\\widehat j <br><br>\\therefore\\,\\,\\,\\, Velocity of each electrons h \\over m\\lambda _1\\widehat i and h \\over m\\lambda _2\\widehat j <br><br>\\therefore\\,\\,\\,\\, Velocity of center of mass \\left( \\overrightarrow \\upsilon __CM \\right) = \\upsilon _1^\\widehat i + \\upsilon _2^\\widehat j \\over 2 <br><br>Now, velocity of first electron about center of mass, <br><br>\\overrightarrow \\upsilon __1CM = \\upsilon _1^\\widehat i - \\left( \\upsilon _1^\\widehat i + \\upsilon _2^\\widehat j \\over 2 \\right) <br><br>= \\upsilon _1^\\widehat i - \\upsilon _2^\\widehat j \\over 2 <br><br>Similarly, <br><br>\\overrightarrow \\upsilon __2CM = \\upsilon _2^\\widehat j - \\upsilon _1^\\widehat i \\over 2 <br><br>Here, <br><br>\\left| \\overrightarrow \\upsilon __1CM \\right| = \\left| \\overrightarrow \\upsilon __2CM \\right| = 1 \\over 2 <br><br>\\therefore\\,\\,\\,\\, \\upsilon = 1 \\over 2 \\sqrt h^2 \\over m^2\\lambda _1^2 + h^2 \\over m^2\\lambda _2^2 <br><br> \\Rightarrow \\,\\,\\,\\, m \\upsilon = 1 \\over 2 \\sqrt h^2 \\over \\lambda _1^2 + h^2 \\over \\lambda _2^2 <br><br> \\Rightarrow \\,\\,\\,\\, h \\over \\lambda _CM = h\\sqrt 1 \\over 4\\lambda _1^2 + 1 \\over 4\\lambda _2^2 <br><br> \\Rightarrow \\,\\,\\,\\, 1 \\over \\lambda _CM = \\sqrt \\lambda _1^2 + \\lambda _2^2 \\over 2\\lambda _1\\lambda _2 <br><br> \\Rightarrow \\,\\,\\,\\, \\lambda _CM = 2\\lambda _1\\lambda _2 \\over \\sqrt \\lambda _1^2 + \\lambda _2^2",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "If the de Broglie wavelengths associated with a proton and an $$\\alpha $$-particle are equal, then the ratio of velocities of the proton and the $$\\alpha $$-particle will be :",
+      "question": "If the de Broglie wavelengths associated with a proton and an \\alpha -particle are equal, then the ratio of velocities of the proton and the \\alpha -particle will be :",
       "options": {
         "A": "4 : 1",
         "B": "2 : 1",
@@ -208,44 +133,44 @@
         "D": "1 : 4"
       },
       "answer": "A",
-      "solution": "We know, $$\\lambda _p = h \\over p_p$$ = $$ h \\over m_pv_p$$ <br><br>Similarly, $$\\lambda _\\alpha = h \\over m_\\alpha v_\\alpha $$ <br><br>Given, $$\\lambda _p = \\lambda _\\alpha $$ <br><br>$$ \\Rightarrow $$ $$h \\over m_pv_p = h \\over m_\\alpha v_\\alpha $$ <br><br>$$ \\therefore $$ $$v_p \\over v_\\alpha = m_\\alpha \\over m_p$$ = $$4m_p \\over m_p = 4 \\over 1$$",
+      "solution": "We know, \\lambda _p = h \\over p_p = h \\over m_pv_p <br><br>Similarly, \\lambda _\\alpha = h \\over m_\\alpha v_\\alpha <br><br>Given, \\lambda _p = \\lambda _\\alpha <br><br> \\Rightarrow h \\over m_pv_p = h \\over m_\\alpha v_\\alpha <br><br> \\therefore v_p \\over v_\\alpha = m_\\alpha \\over m_p = 4m_p \\over m_p = 4 \\over 1",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "Both the nucleus and the atom of some element arein their respective first excited states. They get de-excted by emitting photons of wavelengths <sup>$$\\lambda $$</sup>N, <sup>$$\\lambda $$</sup>A respectively. The ratio $$^\\lambda N \\over ^\\lambda A$$is closest to :",
+      "question": "Both the nucleus and the atom of some element arein their respective first excited states. They get de-excted by emitting photons of wavelengths <sup>\\lambda </sup>N, <sup>\\lambda </sup>A respectively. The ratio ^\\lambda N \\over ^\\lambda Ais closest to :",
       "options": {
-        "A": "10<sup>$$-$$6</sup>",
+        "A": "10<sup>-6</sup>",
         "B": "10",
-        "C": "10<sup>$$-$$10</sup>",
-        "D": "10<sup>$$-$$1</sup>"
+        "C": "10<sup>-10</sup>",
+        "D": "10<sup>-1</sup>"
       },
       "answer": "A",
-      "solution": "<p>We know that $$E = hc \\over \\lambda $$</p> <p>So, for atom $$E_A = hc \\over \\lambda _A$$</p> <p>And for neutron $$E_N = hc \\over \\lambda _N$$</p> <p>Then, $$E_A \\over E_N = hc \\over \\lambda _A \\times \\lambda _N \\over hc \\Rightarrow \\lambda _N \\over \\lambda _A$$</p> <p>Here, E<sub>A</sub> is order of eV and E<sub>N</sub> is order of MeV.</p> <p>Therefore, $$\\lambda _N \\over \\lambda _A = E_A \\over E_N = eV \\over MeV = 1eV \\over 10^6eV$$</p> <p>$$\\lambda _N = 10^ - 6\\,\\lambda _A$$</p>",
+      "solution": "We know that E = hc \\over \\lambda So, for atom E_A = hc \\over \\lambda _A And for neutron E_N = hc \\over \\lambda _N Then, E_A \\over E_N = hc \\over \\lambda _A \u00d7 \\lambda _N \\over hc \\Rightarrow \\lambda _N \\over \\lambda _A Here, E<sub>A</sub> is order of eV and E<sub>N</sub> is order of MeV. Therefore, \\lambda _N \\over \\lambda _A = E_A \\over E_N = eV \\over MeV = 1eV \\over 10^6eV \\lambda _N = 10^ - 6\\,\\lambda _A",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "If the de Broglie wavelength of an electron is equal to the 10<sup>\\\u20133</sup> times the wavelength of a photon of frequency 6 $$ \\times $$ 10<sup>14</sup> Hz, then the speed of electron is equal to : (Speed of light = 3 $$ \\times $$ 10<sup>8</sup> m/s, Planck's constant = 6.63 $$ \\times $$ 10<sup>\\\u201334</sup> J.s, Mass of electron = 9.1 $$ \\times $$ 10<sup>\\\u201331</sup> kg)",
+      "question": "If the de Broglie wavelength of an electron is equal to the 10<sup>\\\u20133</sup> times the wavelength of a photon of frequency 6 \u00d7 10<sup>14</sup> Hz, then the speed of electron is equal to : (Speed of light = 3 \u00d7 10<sup>8</sup> m/s, Planck's constant = 6.63 \u00d7 10<sup>\\\u201334</sup> J.s, Mass of electron = 9.1 \u00d7 10<sup>\\\u201331</sup> kg)",
       "options": {
-        "A": "1.7 $$ \\times $$ 10<sup>6</sup> m/s",
-        "B": "1.45 $$ \\times $$ 10<sup>6</sup> m/s",
-        "C": "1.1 $$ \\times $$ 10<sup>6</sup> m/s",
-        "D": "1.8 $$ \\times $$ 10<sup>6</sup> m/s"
+        "A": "1.7 \u00d7 10<sup>6</sup> m/s",
+        "B": "1.45 \u00d7 10<sup>6</sup> m/s",
+        "C": "1.1 \u00d7 10<sup>6</sup> m/s",
+        "D": "1.8 \u00d7 10<sup>6</sup> m/s"
       },
       "answer": "B",
-      "solution": "$$h \\over mv = 10^ - 3\\left( 3 \\times 10^8 \\over 6 \\times 10^14 \\right)$$ <br><br>v $$ = 6.63 \\times 10^ - 34 \\times 6 \\times 10^14 \\over 9.1 \\times 10^ - 31 \\times 3 \\times 10^5$$ <br><br>v $$ = 1.45 \\times 10^6$$ m/s",
+      "solution": "h \\over mv = 10^ - 3\\left( 3 \u00d7 10^8 \\over 6 \u00d7 10^14 \\right) <br><br>v = 6.63 \u00d7 10^ - 34 \u00d7 6 \u00d7 10^14 \\over 9.1 \u00d7 10^ - 31 \u00d7 3 \u00d7 10^5 <br><br>v = 1.45 \u00d7 10^6 m/s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A particle moving with kinetic energy E has de Broglie wavelength $$\\lambda $$. If energy $$\\Delta $$E is added to its energy, the wavelength become $$\\lambda $$/2. Value of $$\\Delta $$E, is :",
+      "question": "particle moving with kinetic energy E has de Broglie wavelength \\lambda . If energy \\Delta E is added to its energy, the wavelength become \\lambda /2. Value of \\Delta E, is :",
       "options": {
         "A": "E",
         "B": "3E",
@@ -253,7 +178,7 @@
         "D": "4E"
       },
       "answer": "B",
-      "solution": "$$\\lambda = h \\over \\sqrt 2mE $$ <br><br>Also, $$h \\over \\sqrt 2m\\left( E + \\Delta E \\right) $$ = $$\\lambda \\over 2$$ <br><br>$$ \\therefore $$ $$E + \\Delta E \\over E = 4$$ <br><br>$$ \\Rightarrow $$ $$\\Delta $$E = 3E",
+      "solution": "\\lambda = h \\over \\sqrt 2mE <br><br>Also, h \\over \\sqrt 2m\\left( E + \\Delta E \\right) = \\lambda \\over 2 <br><br> \\therefore E + \\Delta E \\over E = 4 <br><br> \\Rightarrow \\Delta E = 3E",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -262,13 +187,13 @@
     {
       "question": "An electron (of mass m) and a photon have the same energy E in the range of a few eV. The ratio of the de-Broglie wavelength associated with the electron and the wavelength of the photon is (c = speed of light in vaccuum)",
       "options": {
-        "A": "$$1 \\over c\\left( 2E \\over m \\right)^1 \\over 2$$",
-        "B": "$$1 \\over c\\left( E \\over 2m \\right)^1 \\over 2$$",
-        "C": "$$\\left( E \\over 2m \\right)^1 \\over 2$$",
-        "D": "$$c\\left( 2mE \\right)^1 \\over 2$$"
+        "A": "1 \\over c\\left( 2E \\over m \\right)^1 \\over 2",
+        "B": "1 \\over c\\left( E \\over 2m \\right)^1 \\over 2",
+        "C": "\\left( E \\over 2m \\right)^1 \\over 2",
+        "D": "c\\left( 2mE \\right)^1 \\over 2"
       },
       "answer": "B",
-      "solution": "$$\\lambda $$<sub>e</sub> = $$h \\over p_e$$ = $$h \\over \\sqrt 2mE $$ <br><br>E = $$hc \\over \\lambda _photon$$ <br><br>$$ \\Rightarrow $$ $$\\lambda _photon$$ = $$hc \\over E$$ <br><br>$$ \\therefore $$ $$\\lambda _e \\over \\lambda _photon$$ = $$1 \\over c\\left( E \\over 2m \\right)^1 \\over 2$$",
+      "solution": "\\lambda <sub>e</sub> = h \\over p_e = h \\over \\sqrt 2mE <br><br>E = hc \\over \\lambda _photon <br><br> \\Rightarrow \\lambda _photon = hc \\over E <br><br> \\therefore \\lambda _e \\over \\lambda _photon = 1 \\over c\\left( E \\over 2m \\right)^1 \\over 2",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -277,20 +202,20 @@
     {
       "question": "An X-ray tube is operated at 1.24 million volt. The shortest wavelength of the produced photon will be :",
       "options": {
-        "A": "10<sup>$$-$$2</sup> nm",
-        "B": "10<sup>$$-$$1</sup> nm",
-        "C": "10<sup>$$-$$3</sup> nm",
-        "D": "10<sup>$$-$$4</sup> nm"
+        "A": "10<sup>-2</sup> nm",
+        "B": "10<sup>-1</sup> nm",
+        "C": "10<sup>-3</sup> nm",
+        "D": "10<sup>-4</sup> nm"
       },
       "answer": "C",
-      "solution": "Given, V = 1.24 million volt = 1.24 $$\\times$$ 10<sup>6</sup> volt<br/><br/>Since, energy (E) = eV<br/><br/>where, e is the charge of electron = 1.6 $$\\times$$ 10<sup>$$-$$19</sup> C<br/><br/>$$\\therefore$$ E = 1.6 $$\\times$$ 10<sup>$$-$$19</sup> $$\\times$$ 1.24 $$\\times$$ 10<sup>6</sup> ..... (i)<br/><br/>As we know that,<br/><br/>Energy of photon, $$E = hc \\over \\lambda $$ .... (ii)<br/><br/>Here, Planck's constant, h = 6.67 $$\\times$$ 10<sup>$$-$$34</sup> J-s,<br/><br/>c = speed of light in free space, c = 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup><br/><br/>Equating Eqs. (i) and (ii), we get<br/><br/>$$1.6 \\times 10^ - 19 \\times 1.24 \\times 10^6 = 6.67 \\times 10^ - 34 \\times 3 \\times 10^8 \\over \\lambda $$<br/><br/>$$ \\Rightarrow \\lambda = 20.01 \\times 10^ - 13 \\over 1.6 \\times 1.24 = 10.09 \\times 10^ - 13$$<br/><br/>$$ = 1.009 \\times 10^ - 12 \\simeq 10^ - 3 \\times 10^ - 9$$<br/><br/>= 10<sup>$$-$$3</sup> nm",
+      "solution": "Given, V = 1.24 million volt = 1.24 \u00d7 10<sup>6</sup> volt<br/><br/>Since, energy (E) = eV<br/><br/>where, e is the charge of electron = 1.6 \u00d7 10<sup>-19</sup> C<br/><br/>\\therefore E = 1.6 \u00d7 10<sup>-19</sup> \u00d7 1.24 \u00d7 10<sup>6</sup> ..... (i)<br/><br/>As we know that,<br/><br/>Energy of photon, E = hc \\over \\lambda .... (ii)<br/><br/>Here, Planck's constant, h = 6.67 \u00d7 10<sup>-34</sup> J-s,<br/><br/>c = speed of light in free space, c = 3 \u00d7 10<sup>8</sup> ms<sup>-1</sup><br/><br/>Equating Eqs. (i) and (ii), we get<br/><br/>1.6 \u00d7 10^ - 19 \u00d7 1.24 \u00d7 10^6 = 6.67 \u00d7 10^ - 34 \u00d7 3 \u00d7 10^8 \\over \\lambda <br/><br/> \\Rightarrow \\lambda = 20.01 \u00d7 10^ - 13 \\over 1.6 \u00d7 1.24 = 10.09 \u00d7 10^ - 13<br/><br/> = 1.009 \u00d7 10^ - 12 \\simeq 10^ - 3 \u00d7 10^ - 9<br/><br/>= 10<sup>-3</sup> nm",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "An $$\\alpha$$ particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are $$\\lambda$$<sub>$$\\alpha$$</sub> and $$\\lambda$$<sub>p</sub> respectively. The ratio $$\\lambda _p \\over \\lambda _\\alpha $$ is :",
+      "question": "An \\alpha particle and a proton are accelerated from rest by a potential difference of 200V. After this, their de Broglie wavelengths are \\lambda<sub>\\alpha</sub> and \\lambda<sub>p</sub> respectively. The ratio \\lambda _p \\over \\lambda _\\alpha is :",
       "options": {
         "A": "8",
         "B": "2.8",
@@ -298,22 +223,22 @@
         "D": "3.8"
       },
       "answer": "B",
-      "solution": "We know, <br><br>$$qv = p^2 \\over 2m$$<br><br>$$ \\Rightarrow p = \\sqrt 2mqv $$<br><br>$$ \\therefore $$ $$\\lambda = h \\over \\sqrt 2mqv $$<br><br>$$ \\therefore $$ $$\\lambda _p \\over \\lambda _\\alpha = \\sqrt 2m_\\alpha q_\\alpha v \\over \\sqrt 2m_pq_pv $$<br><br>$$ = \\sqrt 2(4m)(2e) \\over \\sqrt 2me $$<br><br>$$ = \\sqrt 8 $$<br><br>$$ = 2\\sqrt 2 $$",
+      "solution": "We know, <br><br>qv = p^2 \\over 2m<br><br> \\Rightarrow p = \\sqrt 2mqv <br><br> \\therefore \\lambda = h \\over \\sqrt 2mqv <br><br> \\therefore \\lambda _p \\over \\lambda _\\alpha = \\sqrt 2m_\\alpha q_\\alpha v \\over \\sqrt 2m_pq_pv <br><br> = \\sqrt 2(4m)(2e) \\over \\sqrt 2me <br><br> = \\sqrt 8 <br><br> = 2\\sqrt 2",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "An electron of mass m<sub>e</sub> and a proton of mass m<sub>p</sub> = 1836 m<sub>e</sub> are moving with the same speed. The ratio of their de Broglie wavelength $$^\\lambda electron \\over ^\\lambda proton$$ will be :",
+      "question": "An electron of mass m<sub>e</sub> and a proton of mass m<sub>p</sub> = 1836 m<sub>e</sub> are moving with the same speed. The ratio of their de Broglie wavelength ^\\lambda electron \\over ^\\lambda proton will be :",
       "options": {
         "A": "1",
         "B": "1836",
-        "C": "$$1 \\over 1836$$",
+        "C": "1 \\over 1836",
         "D": "918"
       },
       "answer": "B",
-      "solution": "Given mass of electron = m<sub>e</sub><br><br>Mass of proton = m<sub>p</sub><br><br>$$ \\therefore $$ given m<sub>p</sub> = 1836 m<sub>e</sub><br><br>From de-Broglie wavelength<br><br>$$\\lambda = h \\over p = h \\over mv$$<br><br>$$\\lambda _e \\over \\lambda _p = m_p \\over m_e$$<br><br>$$ = 1836m_e \\over m_e$$<br><br>$$\\lambda _e \\over \\lambda _p = 1836$$",
+      "solution": "Given mass of electron = m<sub>e</sub><br><br>Mass of proton = m<sub>p</sub><br><br> \\therefore given m<sub>p</sub> = 1836 m<sub>e</sub><br><br>From de-Broglie wavelength<br><br>\\lambda = h \\over p = h \\over mv<br><br>\\lambda _e \\over \\lambda _p = m_p \\over m_e<br><br> = 1836m_e \\over m_e<br><br>\\lambda _e \\over \\lambda _p = 1836",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -325,10 +250,10 @@
         "A": "is false but R is true.",
         "B": "oth A and R are true but R is NOT the correct explanation of A.",
         "C": "Both A and R are true and R is the correct explanation of A.",
-        "D": "A is true but R is false."
+        "D": "is true but R is false."
       },
       "answer": "C",
-      "solution": "Resolution limit ($$\\Delta$$$$\\theta$$) = $$1.22\\lambda \\over d$$<br><br>Resolution power = $$1 \\over \\mathop\\rm Re\\nolimits solution\\,\\lim it$$<br><br>$$ \\therefore $$ Resolution power $$ \\propto $$ $$1 \\over \\lambda $$ <br><br>Since, wavelength of electron is much less than visible light, its resolving power will be much more.",
+      "solution": "Resolution limit (\\Delta\\theta) = 1.22\\lambda \\over d<br><br>Resolution power = 1 \\over \\mathop\\rm Re\\nolimits solution\\,\\lim it<br><br> \\therefore Resolution power \\propto 1 \\over \\lambda <br><br>Since, wavelength of electron is much less than visible light, its resolving power will be much more.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -337,13 +262,13 @@
     {
       "question": "An electron of mass m and a photon have same energy E. The ratio of wavelength of electron to that of photon is : (c being the velocity of light)",
       "options": {
-        "A": "$$1 \\over c\\left( 2m \\over E \\right)^1/2$$",
-        "B": "$$1 \\over c\\left( E \\over 2m \\right)^1/2$$",
-        "C": "$$\\left( E \\over 2m \\right)^1/2$$",
-        "D": "$$c(2mE)^1/2$$"
+        "A": "1 \\over c\\left( 2m \\over E \\right)^1/2",
+        "B": "1 \\over c\\left( E \\over 2m \\right)^1/2",
+        "C": "\\left( E \\over 2m \\right)^1/2",
+        "D": "c(2mE)^1/2"
       },
       "answer": "B",
-      "solution": "For photon, E = $$hc \\over \\lambda $$<br><br>$$\\lambda _p = hc \\over E$$ .... (i)<br><br>For electron, $$\\lambda _e = hc \\over \\sqrt 2mE $$ .... (ii)<br><br>$$\\lambda _e \\over \\lambda _p = hc \\over \\sqrt 2mE \\over hc \\over E = \\sqrt E \\over 2mc^2 = 1 \\over c\\left( E \\over 2m \\right)^1/2$$",
+      "solution": "For photon, E = hc \\over \\lambda <br><br>\\lambda _p = hc \\over E .... (i)<br><br>For electron, \\lambda _e = hc \\over \\sqrt 2mE .... (ii)<br><br>\\lambda _e \\over \\lambda _p = hc \\over \\sqrt 2mE \\over hc \\over E = \\sqrt E \\over 2mc^2 = 1 \\over c\\left( E \\over 2m \\right)^1/2",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -352,80 +277,80 @@
     {
       "question": "An electron moving with speed v and a photon moving with speed c, have same D-Broglie wavelength. The ratio of kinetic energy of electron to that of photon is :",
       "options": {
-        "A": "$$3c \\over v$$",
-        "B": "$$v \\over 3c$$",
-        "C": "$$v \\over 2c$$",
-        "D": "$$2c \\over v$$"
+        "A": "3c \\over v",
+        "B": "v \\over 3c",
+        "C": "v \\over 2c",
+        "D": "2c \\over v"
       },
       "answer": "C",
-      "solution": "$$\\lambda _e = \\lambda _Ph$$<br><br>$$h \\over p_e = h \\over p_ph$$<br><br>$$\\sqrt 2mk_e = E_ph \\over c$$<br><br>$$2mk_e = (E_ph)^2 \\over c^2$$<br><br>$$k_e \\over E_ph = E_ph \\over c^2\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_ph \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_e \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = mv \\over c\u2081 \\over 2m$$<br><br>$$ = v \\over 2c$$",
+      "solution": "\\lambda _e = \\lambda _Ph<br><br>h \\over p_e = h \\over p_ph<br><br>\\sqrt 2mk_e = E_ph \\over c<br><br>2mk_e = (E_ph)^2 \\over c^2<br><br>k_e \\over E_ph = E_ph \\over c^2\\left( 1 \\over 2m \\right)<br><br> = p_ph \\over c\\left( 1 \\over 2m \\right)<br><br> = p_e \\over c\\left( 1 \\over 2m \\right)<br><br> = mv \\over c\u2081 \\over 2m<br><br> = v \\over 2c",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The de Broglie wavelengths for an electron and a photon are $$\\lambda$$<sub>e</sub> and $$\\lambda$$<sub>p</sub> respectively. For the same kinetic energy of electron and photon, which of the following presents the correct relation between the de Broglie wavelengths of two ?</p>",
+      "question": "The de Broglie wavelengths for an electron and a photon are \\lambda<sub>e</sub> and \\lambda<sub>p</sub> respectively. For the same kinetic energy of electron and photon, which of the following presents the correct relation between the de Broglie wavelengths of two ?",
       "options": {
-        "A": "$$\\lambda _p \\propto \\lambda _e^2$$",
-        "B": "$$\\lambda _p \\propto \\lambda _e$$",
-        "C": "$$\\lambda _p \\propto \\sqrt \\lambda _e $$",
-        "D": "$$\\lambda _p \\propto \\sqrt 1 \\over \\lambda _e $$"
+        "A": "\\lambda _p \\propto \\lambda _e^2",
+        "B": "\\lambda _p \\propto \\lambda _e",
+        "C": "\\lambda _p \\propto \\sqrt \\lambda _e",
+        "D": "\\lambda _p \\propto \\sqrt 1 \\over \\lambda _e"
       },
       "answer": "A",
-      "solution": "<p>$$\\lambda _p = h \\over p = hc \\over E$$ ...... (i)</p> <p>$$\\lambda _e = h \\over \\sqrt 2mE $$ ...... (ii)</p> <p>From (i) and (ii)</p> <p>$$\\lambda _p \\propto \\lambda _e^2$$</p>",
+      "solution": "\\lambda _p = h \\over p = hc \\over E ...... (i) \\lambda _e = h \\over \\sqrt 2mE ...... (ii) From (i) and (ii) \\lambda _p \\propto \\lambda _e^2",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are E<sub>e</sub> and p<sub>e</sub> and that of photon are E<sub>ph</sub> and p<sub>ph</sub> respectively. Which of the following is correct?</p>",
+      "question": "An electron with speed v and a photon with speed c have the same de-Broglie wavelength. If the kinetic energy and momentum of electron are E<sub>e</sub> and p<sub>e</sub> and that of photon are E<sub>ph</sub> and p<sub>ph</sub> respectively. Which of the following is correct?",
       "options": {
-        "A": "$$E_e \\over E_ph = 2c \\over v$$",
-        "B": "$$E_e \\over E_ph = v \\over 2c$$",
-        "C": "$$p_e \\over p_ph = 2c \\over v$$",
-        "D": "$$p_e \\over p_ph = v \\over 2c$$"
+        "A": "E_e \\over E_ph = 2c \\over v",
+        "B": "E_e \\over E_ph = v \\over 2c",
+        "C": "p_e \\over p_ph = 2c \\over v",
+        "D": "p_e \\over p_ph = v \\over 2c"
       },
       "answer": "B",
-      "solution": "<p>$$\\lambda = h \\over p \\Rightarrow p = h \\over \\lambda $$</p> <p>Now, A/Q, $$h \\over P_e = h \\over P_photon$$</p> <p>$$ \\Rightarrow P_e = P_photon$$ ....... (i)</p> <p>Now, $$K_e = 1 \\over 2Mv^2 = Pv \\over 2$$</p> <p>$$K_ph = mc^2 = Pc$$ ..... (ii)</p> <p>$$K_e \\over K_eq = v \\over 2c$$</p>",
+      "solution": "\\lambda = h \\over p \\Rightarrow p = h \\over \\lambda Now, A/Q, h \\over P_e = h \\over P_photon \\Rightarrow P_e = P_photon ....... (i) Now, K_e = 1 \\over 2Mv^2 = Pv \\over 2 K_ph = mc^2 = Pc ..... (ii) K_e \\over K_eq = v \\over 2c",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A proton, a neutron, an electron and an $$\\alpha$$ particle have same energy. If $$\\lambda$$<sub>p</sub>, $$\\lambda$$<sub>n</sub>, $$\\lambda$$<sub>e</sub> and $$\\lambda$$<sub>a</sub> are the de Broglie's wavelengths of proton, neutron, electron and $$\\alpha$$ particle respectively, then choose the correct relation from the following :</p>",
+      "question": "A proton, a neutron, an electron and an \\alpha particle have same energy. If \\lambda<sub>p</sub>, \\lambda<sub>n</sub>, \\lambda<sub>e</sub> and \\lambda<sub>a</sub> are the de Broglie's wavelengths of proton, neutron, electron and \\alpha particle respectively, then choose the correct relation from the following :",
       "options": {
-        "A": "$$\\lambda$$<sub>p</sub> = $$\\lambda$$<sub>n</sub> > $$\\lambda$$<sub>e</sub> > $$\\lambda$$<sub>a</sub>",
-        "B": "$$\\lambda$$<sub>a</sub> < $$\\lambda$$<sub>n</sub> < $$\\lambda$$<sub>p</sub> < $$\\lambda$$<sub>e</sub>",
-        "C": "$$\\lambda$$<sub>e</sub> < $$\\lambda$$<sub>p</sub> = $$\\lambda$$<sub>n</sub> > $$\\lambda$$<sub>a</sub>",
-        "D": "$$\\lambda$$<sub>e</sub> = $$\\lambda$$<sub>p</sub> = $$\\lambda$$<sub>n</sub> = $$\\lambda$$<sub>a</sub>"
+        "A": "\\lambda<sub>p</sub> = \\lambda<sub>n</sub> > \\lambda<sub>e</sub> > \\lambda<sub>a</sub>",
+        "B": "\\lambda<sub>a</sub> < \\lambda<sub>n</sub> < \\lambda<sub>p</sub> < \\lambda<sub>e</sub>",
+        "C": "\\lambda<sub>e</sub> < \\lambda<sub>p</sub> = \\lambda<sub>n</sub> > \\lambda<sub>a</sub>",
+        "D": "\\lambda<sub>e</sub> = \\lambda<sub>p</sub> = \\lambda<sub>n</sub> = \\lambda<sub>a</sub>"
       },
       "answer": "B",
-      "solution": "$$ \\lambda=\\frachp=\\frach\\sqrt(2 m KE) $$ <br/><br/>$\\lambda \\propto \\frac\u2081\\sqrtm$ as all the particles have same KE. <br/><br/>Since $m_e < m_p < m_n < m_\\alpha$ <br/><br/>$$ \\lambda_e > \\lambda_p > \\lambda_n > \\lambda_\\alpha $$",
+      "solution": "\\lambda=\\frachp=\\frach\\sqrt(2 m KE) <br/><br/>\\lambda \\propto \\frac\u2081\\sqrtm as all the particles have same KE. <br/><br/>Since m_e < m_p < m_n < m_\\alpha <br/><br/> \\lambda_e > \\lambda_p > \\lambda_n > \\lambda_\\alpha",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>An electron (mass $$m$$) with an initial velocity $$\\vecv=v_0 \\hati\\left(v_0>0\\right)$$ is moving in an electric field $$\\vecE=-E_0 \\hati\\left(E_0>0\\right)$$ where $$E_0$$ is constant. If at $$t=0$$ de Broglie wavelength is $$\\lambda_0=\\frachm v_0$$, then its de Broglie wavelength after time t is given by</p>",
+      "question": "An electron (mass m) with an initial velocity \\vecv=v_0 \\hati\\left(v_0>0\\right) is moving in an electric field \\vecE=-E_0 \\hati\\left(E_0>0\\right) where E_0 is constant. If at t=0 de Broglie wavelength is \\lambda_0=\\frachm v_0, then its de Broglie wavelength after time t is given by",
       "options": {
-        "A": "$$\\lambda_0$$",
-        "B": "$$\\lambda_0\\left(1+\\frace E_0 tm v_0\\right)$$",
-        "C": "$$\\lambda_0 t$$",
-        "D": "$$\\frac\\lambda_0\\left(1+\\frace E_0 tm v_0\\right)$$"
+        "A": "\\lambda_0",
+        "B": "\\lambda_0\\left(1+\\frace E_0 tm v_0\\right)",
+        "C": "\\lambda_0 t",
+        "D": "\\frac\\lambda_0\\left(1+\\frace E_0 tm v_0\\right)"
       },
       "answer": "D",
-      "solution": "$$ \\text At t=0, \\lambda_0=\\frachm v_0 $$ <br/><br/>Since $\\vecv=v_0 \\hati$ and $\\overrightarrowE=E_0 \\hati$ <br/><br/>its velocity $v$ at any time $t$ is given by <br/><br/>$$ v=v_o+\\frac\\varepsilon E_om t $$ <br/><br/>De Broglie wavelength $\\lambda$ at any time $t$ is given by <br/><br/>$$ \\beginaligned \\lambda & =\\frachm v=\\frachm\\left(v_0+\\frace E_0m t\\right) \\\\\\\\ & =\\frachm v_0\\left(1+\\frace E_0m v_0 t\\right) \\\\\\\\ & =\\frac\\lambda_01+\\frace E_0m v_0 t \\endaligned $$",
+      "solution": "\\text At t=0, \\lambda_0=\\frachm v_0 <br/><br/>Since \\vecv=v_0 \\hati and \\overrightarrowE=E_0 \\hati <br/><br/>its velocity v at any time t is given by <br/><br/> v=v_o+\\frac\\varepsilon E_om t <br/><br/>De Broglie wavelength \\lambda at any time t is given by <br/><br/> \\beginaligned \\lambda & =\\frachm v=\\frachm\\left(v_0+\\frace E_0m t\\right) \\\\\\\\ & =\\frachm v_0\\left(1+\\frace E_0m v_0 t\\right) \\\\\\\\ & =\\frac\\lambda_01+\\frace E_0m v_0 t \\endaligned",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A proton moving with one tenth of velocity of light has a certain de Broglie wavelength of $$\\lambda$$. An alpha particle having certain kinetic energy has the same de-Brogle wavelength $$\\lambda$$. The ratio of kinetic energy of proton and that of alpha particle is:</p>",
+      "question": "A proton moving with one tenth of velocity of light has a certain de Broglie wavelength of \\lambda. An alpha particle having certain kinetic energy has the same de-Brogle wavelength \\lambda. The ratio of kinetic energy of proton and that of alpha particle is:",
       "options": {
         "A": "1 : 4",
         "B": "2 : 1",
@@ -433,89 +358,89 @@
         "D": "1 : 2"
       },
       "answer": "C",
-      "solution": "For same $\\lambda_1$ momentum should be same, <br/><br/>$(P)_P=(P)_\\alpha$ <br/><br/>$\\Rightarrow \\sqrt\u2082 k_P m_P=\\sqrt\u2082 k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow k_P m_P=k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow \\frack_Pk_\\alpha=\\left(\\fracm_\\alpham_P\\right)=\\frac\u2084\u2081=4: 1$",
+      "solution": "For same \\lambda_1 momentum should be same, <br/><br/>(P)_P=(P)_\\alpha <br/><br/>\\Rightarrow \\sqrt\u2082 k_P m_P=\\sqrt\u2082 k_\\alpha m_\\alpha <br/><br/>\\Rightarrow k_P m_P=k_\\alpha m_\\alpha <br/><br/>\\Rightarrow \\frack_Pk_\\alpha=\\left(\\fracm_\\alpham_P\\right)=\\frac\u2084\u2081=4: 1",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The de Broglie wavelength of an electron having kinetic energy $E$ is $\\lambda$. If the kinetic energy of electron becomes $\\fracE\u2084$, then its de-Broglie wavelength will be :",
+      "question": "The de Broglie wavelength of an electron having kinetic energy E is \\lambda. If the kinetic energy of electron becomes \\fracE\u2084, then its de-Broglie wavelength will be :",
       "options": {
-        "A": "$\\sqrt\u2082 \\lambda$",
-        "B": "$2 \\lambda$",
-        "C": "$\\frac\\lambda\u2082$",
-        "D": "$\\frac\\lambda\\sqrt\u2082$"
+        "A": "\\sqrt\u2082 \\lambda",
+        "B": "2 \\lambda",
+        "C": "\\frac\\lambda\u2082",
+        "D": "\\frac\\lambda\\sqrt\u2082"
       },
       "answer": "B",
-      "solution": "$$ \\lambda = \\frach\\sqrt\u2082mE $$ <br/><br/> where $h$ is Planck's constant, $m$ is the mass of the particle, and $E$ is its kinetic energy. <br/><br/> We are given that the de Broglie wavelength of an electron with kinetic energy $E$ is $\\lambda$, and we want to find the de Broglie wavelength of the same electron when its kinetic energy becomes $\\fracE\u2084$. <br/><br/> To do this, we can use the formula for the de Broglie wavelength again, but with the new kinetic energy $\\fracE\u2084$: <br/><br/> $$ \\lambda' = \\frach\\sqrt\u2082m\\left(\\fracE\u2084\\right) = \\frac\u2082h\\sqrt\u2082mE = 2\\lambda $$ <br/><br/> where we have used the fact that $\\sqrt\\frac\u2081\u2084 = \\frac\u2081\\sqrt\u2084 = \\frac\u2081\u2082$ to simplify the expression. <br/><br/> Therefore, the de Broglie wavelength of the electron when its kinetic energy becomes $\\fracE\u2084$ is twice its original value, or $\\boxed\u2082\\lambda$.",
+      "solution": "\\lambda = \\frach\\sqrt\u2082mE <br/><br/> where h is Planck's constant, m is the mass of the particle, and E is its kinetic energy. <br/><br/> We are given that the de Broglie wavelength of an electron with kinetic energy E is \\lambda, and we want to find the de Broglie wavelength of the same electron when its kinetic energy becomes \\fracE\u2084. <br/><br/> To do this, we can use the formula for the de Broglie wavelength again, but with the new kinetic energy \\fracE\u2084: <br/><br/> \\lambda' = \\frach\\sqrt\u2082m\\left(\\fracE\u2084\\right) = \\frac\u2082h\\sqrt\u2082mE = 2\\lambda <br/><br/> where we have used the fact that \\sqrt\\frac\u2081\u2084 = \\frac\u2081\\sqrt\u2084 = \\frac\u2081\u2082 to simplify the expression. <br/><br/> Therefore, the de Broglie wavelength of the electron when its kinetic energy becomes \\fracE\u2084 is twice its original value, or \\boxed\u2082\\lambda.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The de Broglie wavelength of a molecule in a gas at room temperature (300 K) is $$\\lambda_1$$. If the temperature of the gas is increased to 600 K, then the de Broglie wavelength of the same gas molecule becomes</p>",
+      "question": "The de Broglie wavelength of a molecule in a gas at room temperature (300 K) is \\lambda_1. If the temperature of the gas is increased to 600 K, then the de Broglie wavelength of the same gas molecule becomes",
       "options": {
-        "A": "2 $$\\lambda_1$$",
-        "B": "$$\\frac\u2081\u2082$$$$\\lambda_1$$",
-        "C": "$$\\frac\u2081\\sqrt\u2082$$$$\\lambda_1$$",
-        "D": "$$\\sqrt\u2082~\\lambda_1$$"
+        "A": "2 \\lambda_1",
+        "B": "\\frac\u2081\u2082\\lambda_1",
+        "C": "\\frac\u2081\\sqrt\u2082\\lambda_1",
+        "D": "\\sqrt\u2082 \\lambda_1"
       },
       "answer": "C",
-      "solution": "<p>The de Broglie wavelength of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where h is Planck's constant and p is the momentum of the particle. The momentum of a gas molecule can be related to its kinetic energy (which is related to the temperature of the gas) by:</p> <p>$$p = \\sqrt\u2082mK$$</p> <p>where m is the mass of the molecule and K is the kinetic energy of the molecule. </p> <p>At a given temperature T, the average kinetic energy of a molecule in a gas is given by:</p> <p>$$K = \\frac\u2083\u2082 kT$$</p> <p>where k is Boltzmann's constant. </p> <p>Therefore, the de Broglie wavelength of a molecule in a gas is given by:</p> <p>$$\\lambda = \\frach\\sqrt\u2082m(3/2)kT = \\frach\\sqrt\u2083mkT$$</p> <p>If the temperature of the gas is increased from T = 300 K to T = 600 K, the new de Broglie wavelength becomes:</p> <p>$$\\lambda' = \\frach\\sqrt\u2083mk(2T) = \\frach\\sqrt\u2082 \\sqrt\u2083mkT = \\frac\u2081\\sqrt\u2082 \\lambda$$</p> <p>So, the de Broglie wavelength of the gas molecule decreases by a factor of $$\\sqrt\u2082$$ when the temperature of the gas is doubled. </p> <p>Therefore, the correct answer is $$\\lambda' = \\frac\u2081\\sqrt\u2082 \\lambda_1$$</p>",
+      "solution": "The de Broglie wavelength of a particle is given by: \\lambda = \\frachp where h is Planck's constant and p is the momentum of the particle. The momentum of a gas molecule can be related to its kinetic energy (which is related to the temperature of the gas) by: p = \\sqrt\u2082mK where m is the mass of the molecule and K is the kinetic energy of the molecule. At a given temperature T, the average kinetic energy of a molecule in a gas is given by: K = \\frac\u2083\u2082 kT where k is Boltzmann's constant. Therefore, the de Broglie wavelength of a molecule in a gas is given by: \\lambda = \\frach\\sqrt\u2082m(3/2)kT = \\frach\\sqrt\u2083mkT If the temperature of the gas is increased from T = 300 K to T = 600 K, the new de Broglie wavelength becomes: \\lambda' = \\frach\\sqrt\u2083mk(2T) = \\frach\\sqrt\u2082 \\sqrt\u2083mkT = \\frac\u2081\\sqrt\u2082 \\lambda So, the de Broglie wavelength of the gas molecule decreases by a factor of \\sqrt\u2082 when the temperature of the gas is doubled. Therefore, the correct answer is \\lambda' = \\frac\u2081\\sqrt\u2082 \\lambda_1",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The de Broglie wavelengths of a proton and an $\\alpha$ particle are $\\lambda$ and $2 \\lambda$ respectively. The ratio of the velocities of proton and $\\alpha$ particle will be :",
+      "question": "The de Broglie wavelengths of a proton and an \\alpha particle are \\lambda and 2 \\lambda respectively. The ratio of the velocities of proton and \\alpha particle will be :",
       "options": {
-        "A": "$8: 1$",
-        "B": "$1: 2$",
-        "C": "$1: 8$",
-        "D": "$4: 1$"
+        "A": "8: 1",
+        "B": "1: 2",
+        "C": "1: 8",
+        "D": "4: 1"
       },
       "answer": "A",
-      "solution": "<p>To find the ratio of velocities of two particles based on their de Broglie wavelengths, we can use the de Broglie wavelength formula, which relates the momentum of a particle to its wavelength. The de Broglie's wavelength formula is given by:</p> <p>$$ \\lambda = \\frachp $$</p> <p>where:<br> <p>$\\lambda$ is the de Broglie wavelength,<br></p> <p>$h$ is the Planck constant, and<br></p> <p>$p$ is the momentum of the particle.</p></p> <p>The momentum $p$ of a particle can also be expressed as the product of its mass $m$ and velocity $v$:</p> <p>$$ p = mv $$</p> <p>So, we can rewrite the de Broglie wavelength equation in terms of mass and velocity:</p> <p>$$ \\lambda = \\frachmv $$</p> <p>For the proton (let's use subscript $p$ for proton), the wavelength is $\\lambda$:</p> <p>$$ \\lambda_p = \\frachm_p v_p$$</p> <p>For the $\\alpha$ particle (let's use subscript $\\alpha$ for alpha), the wavelength is $2\\lambda$:</p> <p>$$ 2\\lambda = \\frachm_\\alpha v_\\alpha$$</p> <p>We are interested in finding the ratio of the velocities $\\fracv_pv_\\alpha$. Using the given data about wavelengths:</p> <p>$$ \\lambda_p = \\lambda $$</p> <p>$$ \\lambda_\\alpha = 2\\lambda $$</p> <p>Using the de Broglie equation for both particles:</p> <p>$$ \\frachm_p v_p = \\lambda $$</p> <p>$$ \\frachm_\\alpha v_\\alpha = 2\\lambda $$</p> <p>Dividing the second equation by the first equation gives us:</p> <p>$$ \\frac\\frachm_\\alpha v_\\alpha\\frachm_p v_p = \\frac\u2082\\lambda\\lambda $$</p> <p>$$ \\fracm_p v_pm_\\alpha v_\\alpha = \\frac\u2082\u2081 $$</p> <p>$$ \\fracv_pv_\\alpha = \\frac\u2082m_\\alpham_p $$</p> <p>Since we know an $\\alpha$ particle consists of 2 protons and 2 neutrons (essentially four nucleons), the mass of an $\\alpha$ particle is roughly four times the mass of a proton ($m_\\alpha \\approx 4m_p$).</p> <p>Substituting $m_\\alpha$ with $4m_p$ in the equation:</p> <p>$$ \\fracv_pv_\\alpha = \\frac\u2082(4m_p)m_p $$</p> <p>$$ \\fracv_pv_\\alpha = 2 \\cdot 4 $$</p> <p>$$ \\fracv_pv_\\alpha = 8 $$</p> <p>Therefore, the ratio of the velocities of proton to $\\alpha$ particle is $8:1$, which corresponds to Option A.</p>",
+      "solution": "To find the ratio of velocities of two particles based on their de Broglie wavelengths, we can use the de Broglie wavelength formula, which relates the momentum of a particle to its wavelength. The de Broglie's wavelength formula is given by: \\lambda = \\frachp where:<br> \\lambda is the de Broglie wavelength,<br> h is the Planck constant, and<br> p is the momentum of the particle. The momentum p of a particle can also be expressed as the product of its mass m and velocity v: p = mv So, we can rewrite the de Broglie wavelength equation in terms of mass and velocity: \\lambda = \\frachmv For the proton (let's use subscript p for proton), the wavelength is \\lambda: \\lambda_p = \\frachm_p v_p For the \\alpha particle (let's use subscript \\alpha for alpha), the wavelength is 2\\lambda: 2\\lambda = \\frachm_\\alpha v_\\alpha We are interested in finding the ratio of the velocities \\fracv_pv_\\alpha. Using the given data about wavelengths: \\lambda_p = \\lambda \\lambda_\\alpha = 2\\lambda Using the de Broglie equation for both particles: \\frachm_p v_p = \\lambda \\frachm_\\alpha v_\\alpha = 2\\lambda Dividing the second equation by the first equation gives us: \\frac\\frachm_\\alpha v_\\alpha\\frachm_p v_p = \\frac\u2082\\lambda\\lambda \\fracm_p v_pm_\\alpha v_\\alpha = \\frac\u2082\u2081 \\fracv_pv_\\alpha = \\frac\u2082m_\\alpham_p Since we know an \\alpha particle consists of 2 protons and 2 neutrons (essentially four nucleons), the mass of an \\alpha particle is roughly four times the mass of a proton (m_\\alpha \\approx 4m_p). Substituting m_\\alpha with 4m_p in the equation: \\fracv_pv_\\alpha = \\frac\u2082(4m_p)m_p \\fracv_pv_\\alpha = 2 \u00b7 4 \\fracv_pv_\\alpha = 8 Therefore, the ratio of the velocities of proton to \\alpha particle is 8:1, which corresponds to Option A.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The de-Broglie wavelength of an electron is the same as that of a photon. If velocity of electron is $$25 \\%$$ of the velocity of light, then the ratio of K.E. of electron and K.E. of photon will be:</p>",
+      "question": "The de-Broglie wavelength of an electron is the same as that of a photon. If velocity of electron is 25 \\% of the velocity of light, then the ratio of K.E. of electron and K.E. of photon will be:",
       "options": {
-        "A": "$$\\frac\u2081\u2084$$",
-        "B": "$$\\frac\u2088\u2081$$",
-        "C": "$$\\frac\u2081\u2088$$",
-        "D": "$$\\frac\u2081\u2081$$"
+        "A": "\\frac\u2081\u2084",
+        "B": "\\frac\u2088\u2081",
+        "C": "\\frac\u2081\u2088",
+        "D": "\\frac\u2081\u2081"
       },
       "answer": "C",
-      "solution": "<p>We know that the de-Broglie wavelength $$\\lambda$$ of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where:</p> <ul> <li>$$h$$ is Planck's constant,</li> <li>$$p$$ is the momentum of the particle.</li> </ul> <p>For a photon (which has zero rest mass), its energy $$E$$ and momentum $$p$$ are related by the equation:</p> <p>$$E = cp$$</p> <p>and its de-Broglie wavelength $$\\lambda$$ is given by:</p> <p>$$\\lambda = \\frachE \\times \\frac\u2081c$$</p> <p>Now, since the photon and electron are said to have the same de-Broglie wavelength:</p> <p>$$\\lambda_electron = \\lambda_photon$$</p> <p>$$\\frachp_electron = \\frachE_photon \\times \\frac\u2081c$$</p> <p>For the electron, its momentum $$p_electron$$ is given by:</p> <p>$$p_electron = m_ev_electron$$</p> <p>where:</p> <ul> <li>$$m_e$$ is the electron's rest mass,</li> <li>$$v_electron$$ is the electron's velocity.</li> </ul> <p>The kinetic energy $$K.E.$$ of the electron is:</p> <p>$$K.E._electron = \\frac\u2081\u2082m_ev_electron^2$$</p> <p>The question states that $$v_electron$$ is $$25\\%$$ ($$0.25c$$) of the speed of light $$c$$. So we write:</p> <p>$$v_electron = 0.25c$$</p> <p>Plugging this into the kinetic energy formula, we get:</p> <p>$$K.E._electron = \\frac\u2081\u2082m_e(0.25c)^2 = \\frac\u2081\u2082m_e \\times \\frac\u2081\u2081\u2086c^2$$</p> <p>$$K.E._electron = \\frac\u2081\u2083\u2082m_ec^2$$</p> <p>For a photon, $$p_photon = \\fracE_photonc$$ and hence its kinetic energy (which, for a photon, is simply its energy) is:</p> <p>$$K.E._photon = E_photon = cp_photon$$</p> <p>Now, comparing the kinetic energies:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2cp_photon$$</p> <p>Since $$p_electron = p_photon$$ (from the de-Broglie relation), we can replace $$p_photon$$ with $$p_electron$$ which is $$m_ev_electron$$:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2m_ev_electronc$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082c\u2080.25c$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \\times \\frac\u2081\u2080.25$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \\times 4$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2088$$</p> <p>So the correct answer is Option C $$\\frac\u2081\u2088$$. </p>",
+      "solution": "We know that the de-Broglie wavelength \\lambda of a particle is given by: \\lambda = \\frachp where: <ul> <li>h is Planck's constant,</li> <li>p is the momentum of the particle.</li> </ul> For a photon (which has zero rest mass), its energy E and momentum p are related by the equation: E = cp and its de-Broglie wavelength \\lambda is given by: \\lambda = \\frachE \u00d7 \\frac\u2081c Now, since the photon and electron are said to have the same de-Broglie wavelength: \\lambda_electron = \\lambda_photon \\frachp_electron = \\frachE_photon \u00d7 \\frac\u2081c For the electron, its momentum p_electron is given by: p_electron = m_ev_electron where: <ul> <li>m_e is the electron's rest mass,</li> <li>v_electron is the electron's velocity.</li> </ul> The kinetic energy K.E. of the electron is: K.E._electron = \\frac\u2081\u2082m_ev_electron^2 The question states that v_electron is 25\\% (0.25c) of the speed of light c. So we write: v_electron = 0.25c Plugging this into the kinetic energy formula, we get: K.E._electron = \\frac\u2081\u2082m_e(0.25c)^2 = \\frac\u2081\u2082m_e \u00d7 \\frac\u2081\u2081\u2086c^2 K.E._electron = \\frac\u2081\u2083\u2082m_ec^2 For a photon, p_photon = \\fracE_photonc and hence its kinetic energy (which, for a photon, is simply its energy) is: K.E._photon = E_photon = cp_photon Now, comparing the kinetic energies: \\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2cp_photon Since p_electron = p_photon (from the de-Broglie relation), we can replace p_photon with p_electron which is m_ev_electron: \\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2m_ev_electronc \\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082c\u2080.25c \\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \u00d7 \\frac\u2081\u2080.25 \\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \u00d7 4 \\fracK.E._electronK.E._photon = \\frac\u2081\u2088 So the correct answer is Option C \\frac\u2081\u2088.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A proton and an electron have the same de Broglie wavelength. If $$K_p$$ and $$K_e$$ be the kinetic energies of proton and electron respectively, then choose the correct relation :</p>",
+      "question": "A proton and an electron have the same de Broglie wavelength. If K_p and K_e be the kinetic energies of proton and electron respectively, then choose the correct relation :",
       "options": {
-        "A": "$$K_p>K_e$$",
-        "B": "$$K_p=K_e$$",
-        "C": "$$K_p<K_e$$",
-        "D": "$$K_p=K_e ^2$$"
+        "A": "K_p>K_e",
+        "B": "K_p=K_e",
+        "C": "K_p<K_e",
+        "D": "K_p=K_e ^2"
       },
       "answer": "C",
-      "solution": "<p>To determine the correct relation between the kinetic energies of a proton ($$K_p$$) and an electron ($$K_e$$) when they have the same de Broglie wavelength, we need to use the de Broglie wavelength formula:</p> <p> <p>$$\\lambda = \\frachp$$</p> </p> <p>where $$\\lambda$$ is the de Broglie wavelength, $$h$$ is Planck's constant, and $$p$$ is the momentum of the particle.</p> <p>The momentum $$p$$ of a particle is given by:</p> <p> <p>$$p = \\sqrt\u2082mK$$</p> </p> <p>where $$m$$ is the mass of the particle and $$K$$ is its kinetic energy. For a proton and an electron with the same de Broglie wavelength:</p> <p> <p>$$\\lambda_p = \\lambda_e$$</p> </p> <p>This implies the momenta should be the same:</p> <p> <p>$$p_p = p_e$$</p> </p> <p>Thus, we can write:</p> <p> <p>$$\\sqrt\u2082 m_p K_p = \\sqrt\u2082 m_e K_e$$</p> </p> <p>Squaring both sides to eliminate the square roots:</p> <p> <p>$$2 m_p K_p = 2 m_e K_e$$</p> </p> <p>$$m_p K_p = m_e K_e$$ </p> <p>Rearranging to solve for $$K_p$$ in terms of $$K_e$$:</p> <p> <p>$$K_p = \\fracm_em_p K_e$$</p> </p> <p>Since the mass of a proton $$m_p$$ is much greater than the mass of an electron $$m_e$$:</p> <p> <p>$$m_p \\gg m_e$$</p> </p> <p>This means:</p> <p> <p>$$\\fracm_em_p \\ll 1$$</p> </p> <p>Therefore, it implies:</p> <p> <p>$$K_p < K_e$$</p> </p> <p>So, the correct option is:</p> <p>Option C: $$K_p<K_e$$</p>",
+      "solution": "To determine the correct relation between the kinetic energies of a proton (K_p) and an electron (K_e) when they have the same de Broglie wavelength, we need to use the de Broglie wavelength formula: \\lambda = \\frachp where \\lambda is the de Broglie wavelength, h is Planck's constant, and p is the momentum of the particle. The momentum p of a particle is given by: p = \\sqrt\u2082mK where m is the mass of the particle and K is its kinetic energy. For a proton and an electron with the same de Broglie wavelength: \\lambda_p = \\lambda_e This implies the momenta should be the same: p_p = p_e Thus, we can write: \\sqrt\u2082 m_p K_p = \\sqrt\u2082 m_e K_e Squaring both sides to eliminate the square roots: 2 m_p K_p = 2 m_e K_e m_p K_p = m_e K_e Rearranging to solve for K_p in terms of K_e: K_p = \\fracm_em_p K_e Since the mass of a proton m_p is much greater than the mass of an electron m_e: m_p \\gg m_e This means: \\fracm_em_p \\ll 1 Therefore, it implies: K_p < K_e So, the correct option is: Option C: K_p<K_e",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A Laser light of wavelength 660 nm is used to weld Retina detachment. If a Laser pulse of width 60 ms and power 0.5 kW is used the approximate number of photons in the pulse are : <br/><br/>[Take Planck's constant h $$=$$ 6.62 $$ \\times $$ 10<sup>$$-$$34</sup> Js]",
+      "question": "Laser light of wavelength 660 nm is used to weld Retina detachment. If a Laser pulse of width 60 ms and power 0.5 kW is used the approximate number of photons in the pulse are : <br/><br/>[Take Planck's constant h = 6.62 \u00d7 10<sup>-34</sup> Js]",
       "options": {
         "A": "10<sup>20</sup>",
         "B": "10<sup>18</sup>",
@@ -523,7 +448,7 @@
         "D": "10<sup>19</sup>"
       },
       "answer": "A",
-      "solution": "<p>The power of the given laser light is expressed as</p> <p>$$P = nhc \\over \\lambda t$$</p> <p>from which the number of photons per second is given by</p> <p>$$n = P\\left( \\lambda t \\over hc \\right) = (5 \\times 10^2) \\times \\left[ (660 \\times 10^ - 9)(60 \\times 10^ - 3) \\over (6.6 \\times 10^ - 34)(3 \\times 10^8) \\right]$$</p> <p>$$ = 100 \\times 10^18 = 10^20$$</p>",
+      "solution": "The power of the given laser light is expressed as P = nhc \\over \\lambda t from which the number of photons per second is given by n = P\\left( \\lambda t \\over hc \\right) = (5 \u00d7 10^2) \u00d7 \\left[ (660 \u00d7 10^ - 9)(60 \u00d7 10^ - 3) \\over (6.6 \u00d7 10^ - 34)(3 \u00d7 10^8) \\right] = 100 \u00d7 10^18 = 10^20",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -538,7 +463,7 @@
         "D": "2 \u00d7 10<sup>16</sup>"
       },
       "answer": "A",
-      "solution": "$$2 \\times 10^ - 3 = hc \\over \\lambda dn \\over dt$$<br><br> $$dn \\over dt = 2 \\times 10^ - 3\\lambda \\over hc$$<br><br> $$ = 2 \\times 10^ - 3 \\times 500 \\times 10^ - 9 \\over 6.6 \\times 10^ - 34 \\times 3 \\times 10^8$$<br><br> $$ = 1000 \\over 6.6 \\times 3 \\times 10 = 5 \\times 10^15$$",
+      "solution": "2 \u00d7 10^ - 3 = hc \\over \\lambda dn \\over dt<br><br> dn \\over dt = 2 \u00d7 10^ - 3\\lambda \\over hc<br><br> = 2 \u00d7 10^ - 3 \u00d7 500 \u00d7 10^ - 9 \\over 6.6 \u00d7 10^ - 34 \u00d7 3 \u00d7 10^8<br><br> = 1000 \\over 6.6 \u00d7 3 \u00d7 10 = 5 \u00d7 10^15",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -547,13 +472,13 @@
     {
       "question": "Two sources of light emit X-rays of wavelength 1 nm and visible light of wavelength 500 nm, respectively. Both the sources emit light of the same power 200 W. The ratio of the number density of photons of X-rays to the number density of photons of the visible light of the given wavelengths is :",
       "options": {
-        "A": "$$1 \\over 500$$",
+        "A": "1 \\over 500",
         "B": "500",
         "C": "250",
-        "D": "$$1 \\over 250$$"
+        "D": "1 \\over 250"
       },
       "answer": "A",
-      "solution": "Given, wavelength of x ray ($$\\lambda $$<sub>1</sub>) = 1 nm <br><br>And wavelength of visible light ($$\\lambda $$<sub>2</sub>) = 500 nm <br><br>we know, Power$$(P) = nhc \\over \\lambda $$ <br><br>As P = constant and h, c also constant <br><br>So, $$n \\over \\lambda = constant$$ <br><br>$$ \\Rightarrow $$ $$n_1 \\over n_2 = \\lambda _1 \\over \\lambda _2 = 1nm \\over 500nm = 1 \\over 500$$",
+      "solution": "Given, wavelength of x ray (\\lambda <sub>1</sub>) = 1 nm <br><br>And wavelength of visible light (\\lambda <sub>2</sub>) = 500 nm <br><br>we know, Power(P) = nhc \\over \\lambda <br><br>As P = constant and h, c also constant <br><br>So, n \\over \\lambda = constant <br><br> \\Rightarrow n_1 \\over n_2 = \\lambda _1 \\over \\lambda _2 = 1nm \\over 500nm = 1 \\over 500",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -568,7 +493,7 @@
         "D": "Statement I is true but Statement II is false"
       },
       "answer": "D",
-      "solution": "As we know, $$\\lambda = h \\over p = h \\over \\sqrt 2mK $$<br/><br/>If linear momenta of two photons are equal, then their wavelengths is also equal.<br/><br/>Also, if the wavelength is decreased, then the momentum and energy of photon will increase.<br/><br/>Hence, option (d) is correct.",
+      "solution": "As we know, \\lambda = h \\over p = h \\over \\sqrt 2mK <br/><br/>If linear momenta of two photons are equal, then their wavelengths is also equal.<br/><br/>Also, if the wavelength is decreased, then the momentum and energy of photon will increase.<br/><br/>Hence, option (d) is correct.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -583,59 +508,59 @@
         "D": "4.17 m/s"
       },
       "answer": "D",
-      "solution": "($$\\Delta$$E) Releases when photon going from n = 5 to n = 1<br><br>$$\\Delta$$E = (13.6 $$-$$ 0.54) eV = 13.06 eV.<br><br>P<sub>i</sub> = P<sub>f</sub> (By linear momentum conservation)<br><br>$$0 = h \\over \\lambda - Mv = V_\\mathop\\rm Re\\nolimits coil = h \\over \\lambda M$$ ..... (i)<br><br>& $$\\Delta E = hc \\over \\lambda = hc \\over \\lambda M \\times M = McV_\\mathop\\rm Re\\nolimits coil$$<br><br>$$V_\\mathop\\rm Re\\nolimits coil = \\Delta E \\over Mc = 13.06 \\times 1.6 \\times 10^ - 19 \\over 1.67 \\times 10^ - 27 \\times 3 \\times 10^8$$ = 4.17 m/sec",
+      "solution": "(\\DeltaE) Releases when photon going from n = 5 to n = 1<br><br>\\DeltaE = (13.6 - 0.54) eV = 13.06 eV.<br><br>P<sub>i</sub> = P<sub>f</sub> (By linear momentum conservation)<br><br>0 = h \\over \\lambda - Mv = V_\\mathop\\rm Re\\nolimits coil = h \\over \\lambda M ..... (i)<br><br>& \\Delta E = hc \\over \\lambda = hc \\over \\lambda M \u00d7 M = McV_\\mathop\\rm Re\\nolimits coil<br><br>V_\\mathop\\rm Re\\nolimits coil = \\Delta E \\over Mc = 13.06 \u00d7 1.6 \u00d7 10^ - 19 \\over 1.67 \u00d7 10^ - 27 \u00d7 3 \u00d7 10^8 = 4.17 m/sec",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A free electron of 2.6 eV energy collides with a H<sup>+</sup> ion. This results in the formation of a hydrogen atom in the first excited state and a photon is released. Find the frequency of the emitted photon. (h = 6.6 $$\\times$$ 10<sup>$$-$$34</sup> Js)",
+      "question": "free electron of 2.6 eV energy collides with a H<sup>+</sup> ion. This results in the formation of a hydrogen atom in the first excited state and a photon is released. Find the frequency of the emitted photon. (h = 6.6 \u00d7 10<sup>-34</sup> Js)",
       "options": {
-        "A": "1.45 $$\\times$$ 10<sup>16</sup> MHz",
-        "B": "0.19 $$\\times$$ 10<sup>15</sup> MHz",
-        "C": "1.45 $$\\times$$ 10<sup>9</sup> MHz",
-        "D": "9.0 $$\\times$$ 10<sup>27</sup> MHz"
+        "A": "1.45 \u00d7 10<sup>16</sup> MHz",
+        "B": "0.19 \u00d7 10<sup>15</sup> MHz",
+        "C": "1.45 \u00d7 10<sup>9</sup> MHz",
+        "D": "9.0 \u00d7 10<sup>27</sup> MHz"
       },
       "answer": "C",
-      "solution": "For every large distance P.E. = 0<br><br>& total energy = 2.6 + 0 = 2.6 eV<br><br>Finally in first excited state of H atom total energy = $$-$$3.4 eV<br><br>Loss in total energy = 2.6 $$-$$ ($$-$$3.4) = 6 eV<br><br>It is emitted as photon<br><br>$$\\lambda = 1240 \\over 6 = 206$$ nm<br><br>$$f = 3 \\times 10^8 \\over 206 \\times 10^ - 9$$ = 1.45 $$\\times$$ 10<sup>15</sup> Hz<br><br>= 1.45 $$\\times$$ 10<sup>9</sup> Hz",
+      "solution": "For every large distance P.E. = 0<br><br>& total energy = 2.6 + 0 = 2.6 eV<br><br>Finally in first excited state of H atom total energy = -3.4 eV<br><br>Loss in total energy = 2.6 - (-3.4) = 6 eV<br><br>It is emitted as photon<br><br>\\lambda = 1240 \\over 6 = 206 nm<br><br>f = 3 \u00d7 10^8 \\over 206 \u00d7 10^ - 9 = 1.45 \u00d7 10<sup>15</sup> Hz<br><br>= 1.45 \u00d7 10<sup>9</sup> Hz",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A source of monochromatic light liberates 9 $$\\times$$ 10<sup>20</sup> photon per second with wavelength 600 nm when operated at 400 W. The number of photons emitted per second with wavelength of 800 nm by the source of monochromatic light operating at same power will be :</p>",
+      "question": "A source of monochromatic light liberates 9 \u00d7 10<sup>20</sup> photon per second with wavelength 600 nm when operated at 400 W. The number of photons emitted per second with wavelength of 800 nm by the source of monochromatic light operating at same power will be :",
       "options": {
-        "A": "12 $$\\times$$ 10<sup>20</sup>",
-        "B": "6 $$\\times$$ 10<sup>20</sup>",
-        "C": "9 $$\\times$$ 10<sup>20</sup>",
-        "D": "24 $$\\times$$ 10<sup>20</sup>"
+        "A": "12 \u00d7 10<sup>20</sup>",
+        "B": "6 \u00d7 10<sup>20</sup>",
+        "C": "9 \u00d7 10<sup>20</sup>",
+        "D": "24 \u00d7 10<sup>20</sup>"
       },
       "answer": "A",
-      "solution": "As we know <br/><br/> $$ \\beginaligned &I=\\fracEA t=\\fracn h vA t \\Rightarrow \\fracnt=\\fracI A \\lambdah C \\Rightarrow \\fracnt=\\frac\\rho \\lambdah c \\Rightarrow \\fracnt=\\rho \\lambda \\\\\\\\ &\\Rightarrow\\left(\\fracnt\\right)_2=\\left(\\fracnt\\right)_1 \\times \\fracp_2 \\lambda_2p_1 \\lambda 1=9 \\times 10^20 \\times \\fracPP \\times \\frac\u2088\u2080\u2080\u2086\u2080\u2080=12 \\times 10^20 \\endaligned $$",
+      "solution": "As we know <br/><br/> \\beginaligned &I=\\fracEA t=\\fracn h vA t \\Rightarrow \\fracnt=\\fracI A \\lambdah C \\Rightarrow \\fracnt=\\frac\\rho \\lambdah c \\Rightarrow \\fracnt=\\rho \\lambda \\\\\\\\ &\\Rightarrow\\left(\\fracnt\\right)_2=\\left(\\fracnt\\right)_1 \u00d7 \\fracp_2 \\lambda_2p_1 \\lambda 1=9 \u00d7 10^20 \u00d7 \\fracPP \u00d7 \\frac\u2088\u2080\u2080\u2086\u2080\u2080=12 \u00d7 10^20 \\endaligned",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A parallel beam of light of wavelength $$900 ~nm$$ and intensity $$100 \\,Wm^-2$$ is incident on a surface perpendicular to the beam. The number of photons crossing $$1 ~cm^2$$ area perpendicular to the beam in one second is :</p>",
+      "question": "A parallel beam of light of wavelength 900 nm and intensity 100 \\,Wm^-2 is incident on a surface perpendicular to the beam. The number of photons crossing 1 cm^2 area perpendicular to the beam in one second is :",
       "options": {
-        "A": "$$3 \\times 10^16$$",
-        "B": "$$4.5 \\times 10^16$$",
-        "C": "$$4.5 \\times 10^17$$",
-        "D": "$$4.5 \\times 10^20$$"
+        "A": "3 \u00d7 10^16",
+        "B": "4.5 \u00d7 10^16",
+        "C": "4.5 \u00d7 10^17",
+        "D": "4.5 \u00d7 10^20"
       },
       "answer": "B",
-      "solution": "<p>$$\\lambda$$ = 900 nm</p> <p>I = 100 W/m<sup>2</sup></p> <p>A = 10<sup>$$-$$4</sup></p> <p>$$\\Rightarrow$$ P = 10<sup>$$-$$2</sup> W</p> <p>$$\\Rightarrow$$ Number of photons incident per second</p> <p>$$ = 10^ - 2\\lambda \\over hc$$</p> <p>$$ = 9 \\times 10^ - 11 \\times 10^2 \\over 6.63 \\times 10^ - 34 \\times 3 \\times 10^8 \\simeq 4.5 \\times 10^16$$</p>",
+      "solution": "\\lambda = 900 nm I = 100 W/m<sup>2</sup> A = 10<sup>-4</sup> \\Rightarrow P = 10<sup>-2</sup> W \\Rightarrow Number of photons incident per second = 10^ - 2\\lambda \\over hc = 9 \u00d7 10^ - 11 \u00d7 10^2 \\over 6.63 \u00d7 10^ - 34 \u00d7 3 \u00d7 10^8 \\simeq 4.5 \u00d7 10^16",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>If a source of electromagnetic radiation having power $$15 ~kW$$ produces $$10^16$$ photons per second, the radiation belongs to a part of spectrum is.</p> <p>(Take Planck constant $$h=6 \\times 10^-34 Js$$ )</p>",
+      "question": "If a source of electromagnetic radiation having power 15 kW produces 10^16 photons per second, the radiation belongs to a part of spectrum is. (Take Planck constant h=6 \u00d7 10^-34 Js )",
       "options": {
         "A": "Gamma rays",
         "B": "Radio waves",
@@ -643,89 +568,89 @@
         "D": "Ultraviolet rays"
       },
       "answer": "A",
-      "solution": "$$ \\beginaligned & \\text Energy of one photon =\\frac\\text Power \\text Photon frequency \\\\\\\\ & E=h v=\\frac\u2081\u2085 \\times 10^310^16 \\\\\\\\ & \\Rightarrow v=\\frac\u2081\u2085 \\times 10^-136 \\times 10^-34=2.5 \\times 10^21 \\endaligned $$ <br/><br/>So gamma Rays.",
+      "solution": "\\beginaligned & \\text Energy of one photon =\\frac\\text Power \\text Photon frequency \\\\\\\\ & E=h v=\\frac\u2081\u2085 \u00d7 10^310^16 \\\\\\\\ & \\Rightarrow v=\\frac\u2081\u2085 \u00d7 10^-136 \u00d7 10^-34=2.5 \u00d7 10^21 \\endaligned <br/><br/>So gamma Rays.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "Monochromatic light of frequency $6 \\times 10^14 ~Hz$ is produced by a laser. The power emitted is $2 \\times 10^-3 ~W$. <br/><br/>How many photons per second on an average, are emitted by the source ?<br/><br/> (Given $h=6.63 \\times 10^-34 Js$ )",
+      "question": "Monochromatic light of frequency 6 \u00d7 10^14 Hz is produced by a laser. The power emitted is 2 \u00d7 10^-3 W. <br/><br/>How many photons per second on an average, are emitted by the source ?<br/><br/> (Given h=6.63 \u00d7 10^-34 Js )",
       "options": {
-        "A": "$5 \\times 10^15$",
-        "B": "$7 \\times 10^16$",
-        "C": "$6 \\times 10^15$",
-        "D": "$9 \\times 10^18$"
+        "A": "5 \u00d7 10^15",
+        "B": "7 \u00d7 10^16",
+        "C": "6 \u00d7 10^15",
+        "D": "9 \u00d7 10^18"
       },
       "answer": "A",
-      "solution": "<p>To find out the number of photons emitted per second by the laser, we can use the relationship between the energy of a single photon, the total energy emitted per second (power), and the number of photons emitted per second. The energy $E$ of a single photon is given by Planck's equation:</p> <p>$$ E = hf $$</p> <p>where:</p> <ul> <li>$ h $ is Planck's constant ($ 6.63 \\times 10^-34 Js $), and</li> <li>$ f $ is the frequency of the light ($ 6 \\times 10^14 Hz $).</li> </ul> <p>Let's first calculate the energy of one photon:</p> <p>$$ E = (6.63 \\times 10^-34 Js) \\times (6 \\times 10^14 Hz) $$</p> <p>$$ E = 3.978 \\times 10^-19 J $$</p> <p>The power ($ P $) emitted by the laser is the total energy emitted per second,</p> <p>$$ P = E_\\texttotal per second = 2 \\times 10^-3 W = 2 \\times 10^-3 J/s $$</p> <p>The number of photons ($ N $) emitted per second can be found by dividing the total energy emitted per second by the energy of one photon:</p> <p>$$ N = \\fracPE $$</p> <p>Substitute the values we have:</p> <p>$$ N = \\frac\u2082 \\times 10^-3 J/s\u2083.978 \\times 10^-19 J $$</p> <p>$$ N = \\frac\u2082 \\times 10^-33.978 \\times 10^-19 $$</p> <p>$$ N = 5.03 \\times 10^15 \\text photons per second $$</p> <p>The number of photons emitted per second is approximately $5 \\times 10^15$. Therefore, the correct answer, rounded to one significant figure, is:</p> <p>Option A: $5 \\times 10^15$</p>",
+      "solution": "To find out the number of photons emitted per second by the laser, we can use the relationship between the energy of a single photon, the total energy emitted per second (power), and the number of photons emitted per second. The energy E of a single photon is given by Planck's equation: E = hf where: <ul> <li> h is Planck's constant ( 6.63 \u00d7 10^-34 Js ), and</li> <li> f is the frequency of the light ( 6 \u00d7 10^14 Hz ).</li> </ul> Let's first calculate the energy of one photon: E = (6.63 \u00d7 10^-34 Js) \u00d7 (6 \u00d7 10^14 Hz) E = 3.978 \u00d7 10^-19 J The power ( P ) emitted by the laser is the total energy emitted per second, P = E_\\texttotal per second = 2 \u00d7 10^-3 W = 2 \u00d7 10^-3 J/s The number of photons ( N ) emitted per second can be found by dividing the total energy emitted per second by the energy of one photon: N = \\fracPE Substitute the values we have: N = \\frac\u2082 \u00d7 10^-3 J/s\u2083.978 \u00d7 10^-19 J N = \\frac\u2082 \u00d7 10^-33.978 \u00d7 10^-19 N = 5.03 \u00d7 10^15 \\text photons per second The number of photons emitted per second is approximately 5 \u00d7 10^15. Therefore, the correct answer, rounded to one significant figure, is: Option A: 5 \u00d7 10^15",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Two sources of light emit with a power of $$200 ~W$$. The ratio of number of photons of visible light emitted by each source having wavelengths $$300 ~nm$$ and $$500 ~nm$$ respectively, will be :</p>",
+      "question": "Two sources of light emit with a power of 200 W. The ratio of number of photons of visible light emitted by each source having wavelengths 300 nm and 500 nm respectively, will be :",
       "options": {
-        "A": "$$5: 3$$",
-        "B": "$$3: 5$$",
-        "C": "$$1: 5$$",
-        "D": "$$1: 3$$"
+        "A": "5: 3",
+        "B": "3: 5",
+        "C": "1: 5",
+        "D": "1: 3"
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned & n_1 \\times \\frachc\\lambda_1=200 \\\\ & n_2 \\times \\frachc\\lambda_2=200 \\\\ & \\fracn_1n_2=\\frac\\lambda_1\\lambda_2=\\frac\u2083\u2080\u2080\u2085\u2080\u2080 \\\\ & \\fracn_1n_2=\\frac\u2083\u2085 \\endaligned$$</p>",
+      "solution": "\\beginaligned & n_1 \u00d7 \\frachc\\lambda_1=200 \\\\ & n_2 \u00d7 \\frachc\\lambda_2=200 \\\\ & \\fracn_1n_2=\\frac\\lambda_1\\lambda_2=\\frac\u2083\u2080\u2080\u2085\u2080\u2080 \\\\ & \\fracn_1n_2=\\frac\u2083\u2085 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Which of the following phenomena does not explain by wave nature of light.</p> <p>A. reflection</p> <p>B. diffraction</p> <p>C. photoelectric effect</p> <p>D. interference</p> <p>E. polarization</p> <p>Choose the most appropriate answer from the options given below:</p>",
+      "question": "Which of the following phenomena does not explain by wave nature of light. A. reflection B. diffraction C. photoelectric effect D. interference E. polarization Choose the most appropriate answer from the options given below:",
       "options": {
-        "A": "C only",
+        "A": "only",
         "B": ", D only",
         "C": "A, C only",
         "D": "E only"
       },
       "answer": "A",
-      "solution": "<p>The correct answer is Option A: C only.</p> <p>Reflection, diffraction, interference, and polarization are all phenomena that can be explained by the wave nature of light. These phenomena are evidence that light behaves as a wave, evident through various experimental observations:</p> <ul> <li><strong>Reflection</strong> is the change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated. The laws of reflection can be explained by treating light as waves.</li> <li><strong>Diffraction</strong> is the bending of light around the corners of an obstacle or aperture into the region of geometrical shadow of the obstacle. This phenomenon is observed when a wave encounters an obstacle or a slit that is comparable in size to its wavelength, which is best explained by wave theory.</li> <li><strong>Interference</strong> occurs when two or more waves superimpose to form a resultant wave of greater, lower, or the same amplitude. This phenomenon illustrates the wave nature of light through constructive and destructive interference patterns, such as those observed in the double-slit experiment.</li> <li><strong>Polarization</strong> is a property applying to transverse waves that specifies the geometrical orientation of the oscillations. For light waves, this can be seen as the direction in which the electric field oscillates. Polarization can only occur with waves that have transverse components, further supporting the wave nature of light.</li> </ul> <p>On the other hand, the <strong>photoelectric effect</strong> cannot be explained solely by the wave nature of light. It is the emission of electrons or other free carriers when light shines on a material. Electrons emitted in this manner can be called photoelectrons. The phenomenon is best explained by Albert Einstein's quantum theory of light, where light is considered as quanta of energy called photons. This effect demonstrates the particle aspect of light, wherein each photon has a discrete packet of energy equal to $$hf$$, where $$h$$ is Planck's constant and $$f$$ is the frequency of the light.</p> <p>Thus, the photoelectric effect is the correct answer because it specifically requires the particle theory of light for its explanation, unlike reflection, diffraction, interference, and polarization, which are well-explained by the wave nature of light.</p>",
+      "solution": "The correct answer is Option A: C only. Reflection, diffraction, interference, and polarization are all phenomena that can be explained by the wave nature of light. These phenomena are evidence that light behaves as a wave, evident through various experimental observations: <ul> <li><strong>Reflection</strong> is the change in direction of a wavefront at an interface between two different media so that the wavefront returns into the medium from which it originated. The laws of reflection can be explained by treating light as waves.</li> <li><strong>Diffraction</strong> is the bending of light around the corners of an obstacle or aperture into the region of geometrical shadow of the obstacle. This phenomenon is observed when a wave encounters an obstacle or a slit that is comparable in size to its wavelength, which is best explained by wave theory.</li> <li><strong>Interference</strong> occurs when two or more waves superimpose to form a resultant wave of greater, lower, or the same amplitude. This phenomenon illustrates the wave nature of light through constructive and destructive interference patterns, such as those observed in the double-slit experiment.</li> <li><strong>Polarization</strong> is a property applying to transverse waves that specifies the geometrical orientation of the oscillations. For light waves, this can be seen as the direction in which the electric field oscillates. Polarization can only occur with waves that have transverse components, further supporting the wave nature of light.</li> </ul> On the other hand, the <strong>photoelectric effect</strong> cannot be explained solely by the wave nature of light. It is the emission of electrons or other free carriers when light shines on a material. Electrons emitted in this manner can be called photoelectrons. The phenomenon is best explained by Albert Einstein's quantum theory of light, where light is considered as quanta of energy called photons. This effect demonstrates the particle aspect of light, wherein each photon has a discrete packet of energy equal to hf, where h is Planck's constant and f is the frequency of the light. Thus, the photoelectric effect is the correct answer because it specifically requires the particle theory of light for its explanation, unlike reflection, diffraction, interference, and polarization, which are well-explained by the wave nature of light.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "When photons of wavelength $$\\lambda _1$$ are incident on an isolated sphere, the corresponding stopping potential is found to be V. When photons of wavelength $$\\lambda _2$$ are used, the corresponding stopping potential was thrice that of the above value. If light of wavelength $$\\lambda _3$$ is used then find the stopping potential for this case :",
+      "question": "When photons of wavelength \\lambda _1 are incident on an isolated sphere, the corresponding stopping potential is found to be V. When photons of wavelength \\lambda _2 are used, the corresponding stopping potential was thrice that of the above value. If light of wavelength \\lambda _3 is used then find the stopping potential for this case :",
       "options": {
-        "A": "$$hc \\over e\\left[ 1 \\over \\lambda _3 - 1 \\over \\lambda _2 - 1 \\over \\lambda _1 \\right]$$",
-        "B": "$$hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over \\lambda _2 - 1 \\over \\lambda _1 \\right]$$",
-        "C": "$$hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over 2\\lambda _2 - 3 \\over 2\\lambda _1 \\right]$$",
-        "D": "$$hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over 2\\lambda _2 - 1 \\over \\lambda _1 \\right]$$"
+        "A": "hc \\over e\\left[ 1 \\over \\lambda _3 - 1 \\over \\lambda _2 - 1 \\over \\lambda _1 \\right]",
+        "B": "hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over \\lambda _2 - 1 \\over \\lambda _1 \\right]",
+        "C": "hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over 2\\lambda _2 - 3 \\over 2\\lambda _1 \\right]",
+        "D": "hc \\over e\\left[ 1 \\over \\lambda _3 + 1 \\over 2\\lambda _2 - 1 \\over \\lambda _1 \\right]"
       },
       "answer": "C",
-      "solution": "We know, <br><br>Einstein's photoelectric equation, <br><br>$$eV = hc \\over \\lambda - \\phi _0$$ <br><br>and $$\\phi _0$$, $$hc \\over \\lambda _0$$, where $$\\lambda _0$$ is the threashhold wavelength. <br><br>$$ \\therefore $$ In first case, <br><br>eV $$ = hc \\over \\lambda _1 - hc \\over \\lambda _0$$ . . .(1) <br><br>and in second case, <br><br>3 eV $$ = hc \\over \\lambda _2 - hc \\over \\lambda _0$$ . . .(2) <br><br>Now, let slopping potential = V<sub>1</sub> when light of wavelength $$\\lambda $$<sub>3</sub> is used then, <br><br>eV<sub>1</sub> $$ = hc \\over \\lambda _3 - hc \\over \\lambda _0$$ . . .(3) <br><br>From (1) and (2) get, <br><br>$$3\\left( hc \\over \\lambda _1 - hc \\over \\lambda _0 \\right) = hc \\over \\lambda _2 - hc \\over \\lambda _0$$ <br><br>$$ \\Rightarrow $$ $$3hc \\over \\lambda _1$$ $$-$$ $$hc \\over \\lambda _2$$ $$=$$ $$2hc \\over \\lambda _0$$ <br><br>$$ \\Rightarrow $$ $$hc \\over \\lambda _0$$ $$=$$ $$3hc \\over 2\\lambda _1$$ $$-$$ $$hc \\over 2\\lambda _2$$ <br><br>Putting this value of $$hc \\over \\lambda _0$$ in equation 3, <br><br>eV<sub>1</sub> $$ = hc \\over \\lambda _3 - 3hc \\over 2\\lambda _1 + hc \\over 2\\lambda _2$$ <br><br>$$ \\Rightarrow $$ V<sub>1</sub> $$ = hc \\over e$$ $$\\left[ 1 \\over \\lambda _3 - 3 \\over 2\\lambda _1 + 1 \\over 2\\lambda _2 \\right]$$",
+      "solution": "We know, <br><br>Einstein's photoelectric equation, <br><br>eV = hc \\over \\lambda - \\phi _0 <br><br>and \\phi _0, hc \\over \\lambda _0, where \\lambda _0 is the threashhold wavelength. <br><br> \\therefore In first case, <br><br>eV = hc \\over \\lambda _1 - hc \\over \\lambda _0 . . .(1) <br><br>and in second case, <br><br>3 eV = hc \\over \\lambda _2 - hc \\over \\lambda _0 . . .(2) <br><br>Now, let slopping potential = V<sub>1</sub> when light of wavelength \\lambda <sub>3</sub> is used then, <br><br>eV<sub>1</sub> = hc \\over \\lambda _3 - hc \\over \\lambda _0 . . .(3) <br><br>From (1) and (2) get, <br><br>3\\left( hc \\over \\lambda _1 - hc \\over \\lambda _0 \\right) = hc \\over \\lambda _2 - hc \\over \\lambda _0 <br><br> \\Rightarrow 3hc \\over \\lambda _1 - hc \\over \\lambda _2 = 2hc \\over \\lambda _0 <br><br> \\Rightarrow hc \\over \\lambda _0 = 3hc \\over 2\\lambda _1 - hc \\over 2\\lambda _2 <br><br>Putting this value of hc \\over \\lambda _0 in equation 3, <br><br>eV<sub>1</sub> = hc \\over \\lambda _3 - 3hc \\over 2\\lambda _1 + hc \\over 2\\lambda _2 <br><br> \\Rightarrow V<sub>1</sub> = hc \\over e \\left[ 1 \\over \\lambda _3 - 3 \\over 2\\lambda _1 + 1 \\over 2\\lambda _2 \\right]",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A photoelectric surface is illuminated successively by monochromatic light of wavelengths $$\\lambda $$ and $$\\lambda \\over 2.$$ If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the surface is :",
+      "question": "photoelectric surface is illuminated successively by monochromatic light of wavelengths \\lambda and \\lambda \\over 2. If the maximum kinetic energy of the emitted photoelectrons in the second case is 3 times that in the first case, the work function of the surface is :",
       "options": {
-        "A": "$$hc \\over 3\\lambda $$",
-        "B": "$$hc \\over 2\\lambda $$",
-        "C": "$$hc \\over \\lambda $$",
-        "D": "$$3\\,hc \\over \\lambda $$"
+        "A": "hc \\over 3\\lambda",
+        "B": "hc \\over 2\\lambda",
+        "C": "hc \\over \\lambda",
+        "D": "3\\,hc \\over \\lambda"
       },
       "answer": "B",
-      "solution": "We know, <br><br>Einstein's photo electric equation, <br><br>(KE)<sub>max</sub> = $$hc \\over \\lambda $$ $$-$$ $$\\phi $$<sub>0</sub> <br><br>In first case, <br><br>K = $$hc \\over \\lambda $$ $$-$$ $$\\phi $$<sub>0</sub> . . .(1) <br><br>In second case, <br><br>3K = $$2hc \\over \\lambda $$ $$-$$ $$\\phi $$<sub>0</sub> . . .(2) <br><br>$$ \\Rightarrow $$ $$3\\left( hc \\over \\lambda - \\phi _0 \\right)$$ = $$2hc \\over \\lambda - \\phi _0$$ <br><br>$$ \\Rightarrow $$ $$3hc \\over \\lambda $$ $$-$$ 3$$\\phi $$<sub>0</sub> = $$2hc \\over \\lambda $$ $$-$$ $$\\phi $$<sub>0</sub> <br><br>$$ \\Rightarrow $$ $$hc \\over \\lambda $$ = 2$$\\phi $$<sub>0</sub> <br><br>$$ \\Rightarrow $$ $$\\phi $$ = $$hc \\over 2\\lambda $$",
+      "solution": "We know, <br><br>Einstein's photo electric equation, <br><br>(KE)<sub>max</sub> = hc \\over \\lambda - \\phi <sub>0</sub> <br><br>In first case, <br><br>K = hc \\over \\lambda - \\phi <sub>0</sub> . . .(1) <br><br>In second case, <br><br>3K = 2hc \\over \\lambda - \\phi <sub>0</sub> . . .(2) <br><br> \\Rightarrow 3\\left( hc \\over \\lambda - \\phi _0 \\right) = 2hc \\over \\lambda - \\phi _0 <br><br> \\Rightarrow 3hc \\over \\lambda - 3\\phi <sub>0</sub> = 2hc \\over \\lambda - \\phi <sub>0</sub> <br><br> \\Rightarrow hc \\over \\lambda = 2\\phi <sub>0</sub> <br><br> \\Rightarrow \\phi = hc \\over 2\\lambda",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The electric field of light wave is given as $$$\\overrightarrow E = 10^ - 3\\cos \\left( 2\\pi x \\over 5 \\times 10^ - 7 - 2\\pi \\times 6 \\times 10^14t \\right)\\mathop x\\limits^ \\wedge \\rm N \\over C$$$ This light falls on a metal plate of work function 2eV. The stopping potential of the photoelectrons is :<br/> Given, E (in eV) = 12375/$$\\lambda $$(in\u00c5)",
+      "question": "The electric field of light wave is given as \\overrightarrow E = 10^ - 3\\cos \\left( 2\\pi x \\over 5 \u00d7 10^ - 7 - 2\\pi \u00d7 6 \u00d7 10^14t \\right)\\mathop x\\limits^ \\wedge \\rm N \\over C This light falls on a metal plate of work function 2eV. The stopping potential of the photoelectrons is :<br/> Given, E (in eV) = 12375/\\lambda (in\u00c5)",
       "options": {
         "A": "2.48 V",
         "B": "0.48 V",
@@ -733,14 +658,14 @@
         "D": "2.0 V"
       },
       "answer": "B",
-      "solution": "$$\\omega = 6 \\times 10^14 \\times 2\\pi $$<br> f = 6 \u00d7 10<sup>14</sup><br> C = f $$\\lambda $$<br><br> $$\\lambda = C \\over f = 3 \\times 10^8 \\over 6 \\times 10^14 = 5000$$ \u00c5<br> Energy of photon $$ \\Rightarrow 12375 \\over 5000 = 2.475\\,eV$$<br><br> From Einstein\u2019s equation<br> KEmax = E \u2013 $$\\phi $$<br> eV<sub>s</sub> = E \u2013 $$\\phi $$<br> eV<sub>s</sub> = 2.475 \u2013 2<br> eV<sub>o</sub> = 0.475 eV<br> V<sub>o</sub> = 0.48 V",
+      "solution": "\\omega = 6 \u00d7 10^14 \u00d7 2\\pi <br> f = 6 \u00d7 10<sup>14</sup><br> C = f \\lambda <br><br> \\lambda = C \\over f = 3 \u00d7 10^8 \\over 6 \u00d7 10^14 = 5000 \u00c5<br> Energy of photon \\Rightarrow 12375 \\over 5000 = 2.475\\,eV<br><br> From Einstein\u2019s equation<br> KEmax = E \u2013 \\phi <br> eV<sub>s</sub> = E \u2013 \\phi <br> eV<sub>s</sub> = 2.475 \u2013 2<br> eV<sub>o</sub> = 0.475 eV<br> V<sub>o</sub> = 0.48 V",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "In a photoelectric effect experiment the threshold wavelength of the light is 380 nm. If the wavelentgh of incident light is 260 nm, the maximum kinetic energy of emitted electrons will be:<br/> Given E (in eV) = 1237/$$\\lambda $$ (in nm)",
+      "question": "In a photoelectric effect experiment the threshold wavelength of the light is 380 nm. If the wavelentgh of incident light is 260 nm, the maximum kinetic energy of emitted electrons will be:<br/> Given E (in eV) = 1237/\\lambda (in nm)",
       "options": {
         "A": "4.5 eV",
         "B": "15.1 eV",
@@ -748,7 +673,7 @@
         "D": "1.5 eV"
       },
       "answer": "D",
-      "solution": "$$K_\\max = hc \\over \\lambda - hc \\over \\lambda _o$$<br><br> $$ \\Rightarrow K_\\max = hc\\left( \\lambda _o - \\lambda \\over \\lambda \\lambda _o \\right)$$<br><br> $$ \\Rightarrow K_\\max = \\left( 1237 \\right)\\left( 380 - 260 \\over 380 \\times 260 \\right)$$ = 1.5 eV",
+      "solution": "K_\\max = hc \\over \\lambda - hc \\over \\lambda _o<br><br> \\Rightarrow K_\\max = hc\\left( \\lambda _o - \\lambda \\over \\lambda \\lambda _o \\right)<br><br> \\Rightarrow K_\\max = \\left( 1237 \\right)\\left( 380 - 260 \\over 380 \u00d7 260 \\right) = 1.5 eV",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -757,20 +682,20 @@
     {
       "question": "When a certain photosensitive surface is illuminated with monochromatic light of frequency v, the stopping potential for the current is \\\u2013V<sub>0</sub>/2. When the surface is illuminated by monochromatic light of frequency v/2, the stopping potential is \\\u2013 V<sub>0</sub>. The threshold frequency for photoelectric emission is :",
       "options": {
-        "A": "2$$v$$",
-        "B": "$$4 \\over 3v$$",
-        "C": "$$3v \\over 2$$",
-        "D": "$$5v \\over 3$$"
+        "A": "2v",
+        "B": "4 \\over 3v",
+        "C": "3v \\over 2",
+        "D": "5v \\over 3"
       },
       "answer": "C",
-      "solution": "Einstein\\u\u2082\u2080\u2081\u2089s photoelectric equation in the two cases is given by <br><br>$$eV_0 \\over \\Delta E = h\\upsilon - h\\upsilon _0$$ ......(i) <br><br>and $$eV_0 = h\\upsilon \\over 2 - h\\upsilon _0$$ .....(ii) <br><br>From eqn. (i) and (ii), <br><br>$$1 \\over 2 = h\\upsilon - h\\upsilon _0 \\over h\\upsilon \\over 2 - h\\upsilon _0$$ <br><br>$$ \\Rightarrow $$ $$\\upsilon _0 = 3 \\over 2\\upsilon $$",
+      "solution": "Einstein\\u\u2082\u2080\u2081\u2089s photoelectric equation in the two cases is given by <br><br>eV_0 \\over \\Delta E = h\\upsilon - h\\upsilon _0 ......(i) <br><br>and eV_0 = h\\upsilon \\over 2 - h\\upsilon _0 .....(ii) <br><br>From eqn. (i) and (ii), <br><br>1 \\over 2 = h\\upsilon - h\\upsilon _0 \\over h\\upsilon \\over 2 - h\\upsilon _0 <br><br> \\Rightarrow \\upsilon _0 = 3 \\over 2\\upsilon",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A metal plate of area 1 $$ \\times $$ 10<sup>\\\u20134</sup> m<sup>2</sup> is illuminated by a radiation of intensity 16 mW/m<sup>2</sup>. The work function of the metal is 5 eV. The energy of the incident photons is 10 eV and only 10% of it produces photo electrons. The number of emitted photoelectrons per second and their maximum energy, respectively, will be",
+      "question": "metal plate of area 1 \u00d7 10<sup>\\\u20134</sup> m<sup>2</sup> is illuminated by a radiation of intensity 16 mW/m<sup>2</sup>. The work function of the metal is 5 eV. The energy of the incident photons is 10 eV and only 10% of it produces photo electrons. The number of emitted photoelectrons per second and their maximum energy, respectively, will be",
       "options": {
         "A": "10<sup>14</sup> and 10 eV",
         "B": "10<sup>12</sup> and 5 eV",
@@ -778,14 +703,14 @@
         "D": "10<sup>10</sup> and 5 eV"
       },
       "answer": "C",
-      "solution": "<p>Given that the area of the metal plate $$A = 1 \\times 10^-4 m^2$$, and the intensity of the radiation <br/><br/>$$I = 16 mW/m^2 = 16 \\times 10^-3 W/m^2$$.</p> <p>The power $$P$$ falling on the metal plate is given by the product of the intensity of the radiation and the area:</p> <p>$$P = IA = (16 \\times 10^-3 W/m^2)(1 \\times 10^-4 m^2) = 1.6 \\times 10^-6 W$$.</p> <p>The energy of each incident photon is given as 10 eV. Converting this to joules (since 1 eV = $$1.6 \\times 10^-19 J$$):</p> <p>$$E_\\textphoton = 10 eV = 10 \\times 1.6 \\times 10^-19 J = 1.6 \\times 10^-18 J$$.</p> <p>The number of incident photons per second $$n_\\textphoton$$ is then given by the total power divided by the energy per photon:</p> <p>$$n_\\textphoton = P / E_\\textphoton = 1.6 \\times 10^-6 W / 1.6 \\times 10^-18 J = 10^12 \\text photons/s$$.</p> <p>Given that only 10% of these photons actually produce photoelectrons, the number of photoelectrons produced per second $$n_\\textelectron$$ is:</p> <p>$$n_\\textelectron = 0.1 \\times n_\\textphoton = 0.1 \\times 10^12 = 10^11 \\text electrons/s$$.</p> <p>The work function of the metal is given as 5 eV, which is the energy required to remove an electron from the metal. Therefore, the maximum energy of the photoelectrons $$E_\\textmax$$ is given by the energy of the incident photons minus the work function:</p> <p>$$E_\\textmax = E_\\textphoton - \\textWork function = 10 eV - 5 eV = 5 eV$$.</p>",
+      "solution": "Given that the area of the metal plate A = 1 \u00d7 10^-4 m^2, and the intensity of the radiation <br/><br/>I = 16 mW/m^2 = 16 \u00d7 10^-3 W/m^2. The power P falling on the metal plate is given by the product of the intensity of the radiation and the area: P = IA = (16 \u00d7 10^-3 W/m^2)(1 \u00d7 10^-4 m^2) = 1.6 \u00d7 10^-6 W. The energy of each incident photon is given as 10 eV. Converting this to joules (since 1 eV = 1.6 \u00d7 10^-19 J): E_\\textphoton = 10 eV = 10 \u00d7 1.6 \u00d7 10^-19 J = 1.6 \u00d7 10^-18 J. The number of incident photons per second n_\\textphoton is then given by the total power divided by the energy per photon: n_\\textphoton = P / E_\\textphoton = 1.6 \u00d7 10^-6 W / 1.6 \u00d7 10^-18 J = 10^12 \\text photons/s. Given that only 10% of these photons actually produce photoelectrons, the number of photoelectrons produced per second n_\\textelectron is: n_\\textelectron = 0.1 \u00d7 n_\\textphoton = 0.1 \u00d7 10^12 = 10^11 \\text electrons/s. The work function of the metal is given as 5 eV, which is the energy required to remove an electron from the metal. Therefore, the maximum energy of the photoelectrons E_\\textmax is given by the energy of the incident photons minus the work function: E_\\textmax = E_\\textphoton - \\textWork function = 10 eV - 5 eV = 5 eV.",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The magnetic field associated with a light wave is given, at the origin, by B = B<sub>0</sub> [sin(3.14 $$ \\times $$ 10<sup>7</sup>)ct + sin(6.28 $$ \\times $$ 10<sup>7</sup>)ct]. If this light falls on a silver plate having a work function of 4.7 eV, what will be the maximum kinetic energy of the photo electrons ? <br/>(Take c = 3 $$ \\times $$ 10<sup>8</sup> ms<sup>$$-$$1</sup>, h = 6.6 $$ \\times $$ 10<sup>$$-$$34</sup>J-s)",
+      "question": "The magnetic field associated with a light wave is given, at the origin, by B = B<sub>0</sub> [sin(3.14 \u00d7 10<sup>7</sup>)ct + sin(6.28 \u00d7 10<sup>7</sup>)ct]. If this light falls on a silver plate having a work function of 4.7 eV, what will be the maximum kinetic energy of the photo electrons ? <br/>(Take c = 3 \u00d7 10<sup>8</sup> ms<sup>-1</sup>, h = 6.6 \u00d7 10<sup>-34</sup>J-s)",
       "options": {
         "A": "6.82 eV",
         "B": "12.5 eV",
@@ -793,14 +718,14 @@
         "D": "7.72 eV"
       },
       "answer": "D",
-      "solution": "Given that, <br><br>B = B<sub>0</sub>[sin (3.14 $$ \\times $$ 10<sup>7</sup>) ct + sin(6.28 $$ \\times $$ 10<sup>7</sup>) ct] <br><br>This light wave is non-monochromotic wave as here is two different frequency in the magnetic field. <br><br>Given work function ($$\\phi $$) = 4.7 eV <br><br>Question says to find the maximum kinetic energy, so we have to use maximum frequency among the available frequency. <br><br>As, <br><br>K<sub>max</sub> = E<sub>max</sub> $$-$$ $$\\phi $$ <br><br>Emax = hF <br><br>= h $$ \\times $$ $$\\omega \\over 2\\pi $$ <br><br>= 6.6 $$ \\times $$ 10<sup>$$-$$34</sup> $$ \\times $$ $$6.28 \\times 10^7 \\times 3 \\times 10^8 \\over 2\\pi $$ <br><br>= 6.6$$ \\times $$ 3 $$ \\times $$ 10<sup>$$-$$19</sup> J <br><br>= $$6.6 \\times 3 \\times 10^ - 19 \\over 1.6 \\times 10^ - 19eV$$ <br><br>= 12.375 $$eV$$ <br><br>$$ \\therefore $$ K<sub>max</sub> = 12.375 $$-$$ 4.7 <br><br>= 7.675 $$eV$$ <br><br>$$ \\simeq $$ 7.7 $$eV$$",
+      "solution": "Given that, <br><br>B = B<sub>0</sub>[sin (3.14 \u00d7 10<sup>7</sup>) ct + sin(6.28 \u00d7 10<sup>7</sup>) ct] <br><br>This light wave is non-monochromotic wave as here is two different frequency in the magnetic field. <br><br>Given work function (\\phi ) = 4.7 eV <br><br>Question says to find the maximum kinetic energy, so we have to use maximum frequency among the available frequency. <br><br>As, <br><br>K<sub>max</sub> = E<sub>max</sub> - \\phi <br><br>Emax = hF <br><br>= h \u00d7 \\omega \\over 2\\pi <br><br>= 6.6 \u00d7 10<sup>-34</sup> \u00d7 6.28 \u00d7 10^7 \u00d7 3 \u00d7 10^8 \\over 2\\pi <br><br>= 6.6 \u00d7 3 \u00d7 10<sup>-19</sup> J <br><br>= 6.6 \u00d7 3 \u00d7 10^ - 19 \\over 1.6 \u00d7 10^ - 19eV <br><br>= 12.375 eV <br><br> \\therefore K<sub>max</sub> = 12.375 - 4.7 <br><br>= 7.675 eV <br><br> \\simeq 7.7 eV",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "In a photoelectric experiment, the wavelength of the light incident on a metal is changed from 300 nm to 400 nm. The decrease in the stopping potential is close to: ($$hc \\over e$$ = 1240 nm eV)",
+      "question": "In a photoelectric experiment, the wavelength of the light incident on a metal is changed from 300 nm to 400 nm. The decrease in the stopping potential is close to: (hc \\over e = 1240 nm eV)",
       "options": {
         "A": "0.5 V",
         "B": "1.0 V",
@@ -808,7 +733,7 @@
         "D": "1.5 V"
       },
       "answer": "B",
-      "solution": "$$hc \\over \\lambda _1 = \\phi + e$$V<sub>1</sub> . . . (i) <br><br>$$hc \\over \\lambda _2 = \\phi + e$$V<sub>2</sub> . . . (ii) <br><br>(i) $$-$$ (ii) <br><br>hc$$\\left( 1 \\over \\lambda _1 - 1 \\over \\lambda _2 \\right)$$ = e(V<sub>1</sub> $$-$$ V<sub>2</sub>) <br><br>$$ \\Rightarrow $$ V<sub>1</sub> $$-$$ V<sub>2</sub> = $$hc \\over e$$$$\\left( \\lambda _2 - \\lambda _1 \\over \\lambda _1 - \\lambda _2 \\right)$$ <br><br>= (1240nm $$-$$ V) $$100nm \\over 300nm \\times 400nm$$ <br><br>= 1V",
+      "solution": "hc \\over \\lambda _1 = \\phi + eV<sub>1</sub> . . . (i) <br><br>hc \\over \\lambda _2 = \\phi + eV<sub>2</sub> . . . (ii) <br><br>(i) - (ii) <br><br>hc\\left( 1 \\over \\lambda _1 - 1 \\over \\lambda _2 \\right) = e(V<sub>1</sub> - V<sub>2</sub>) <br><br> \\Rightarrow V<sub>1</sub> - V<sub>2</sub> = hc \\over e\\left( \\lambda _2 - \\lambda _1 \\over \\lambda _1 - \\lambda _2 \\right) <br><br>= (1240nm - V) 100nm \\over 300nm \u00d7 400nm <br><br>= 1V",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -823,14 +748,14 @@
         "D": "0.52 eV"
       },
       "answer": "C",
-      "solution": "K<sub>1</sub> = $$hc \\over 500 - \\phi _0$$ <br><br>K<sub>2</sub> = $$hc \\over 200 - \\phi _0$$ <br><br>$$ \\because $$ K<sub>2</sub> = 3K<sub>1</sub> <br><br>$$ \\Rightarrow $$ $$3\\left[ hc \\over 500 - \\phi _0 \\right] = \\left[ hc \\over 200 - \\phi _0 \\right]$$ <br><br>$$ \\Rightarrow $$ $$\\phi $$<sub>0</sub> = 0.61 eV",
+      "solution": "K<sub>1</sub> = hc \\over 500 - \\phi _0 <br><br>K<sub>2</sub> = hc \\over 200 - \\phi _0 <br><br> \\because K<sub>2</sub> = 3K<sub>1</sub> <br><br> \\Rightarrow 3\\left[ hc \\over 500 - \\phi _0 \\right] = \\left[ hc \\over 200 - \\phi _0 \\right] <br><br> \\Rightarrow \\phi <sub>0</sub> = 0.61 eV",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "Radiation, with wavelength 6561 $$\\mathop A\\limits^o $$ falls on a metal surface to produce photoelectrons. The electrons are made to enter a uniform magnetic field of 3 \u00d7 10<sup>\u20134</sup> T. If the radius of the largest circular path followed by the electrons is 10 mm, the work function of the metal is close to :",
+      "question": "Radiation, with wavelength 6561 \\mathop A\\limits^o falls on a metal surface to produce photoelectrons. The electrons are made to enter a uniform magnetic field of 3 \u00d7 10<sup>\u20134</sup> T. If the radius of the largest circular path followed by the electrons is 10 mm, the work function of the metal is close to :",
       "options": {
         "A": "1.8eV",
         "B": "0.8eV",
@@ -838,14 +763,14 @@
         "D": "1.6eV"
       },
       "answer": "C",
-      "solution": "Let the work function be $$\\phi $$. <br><br>$$ \\therefore $$ KE<sub>max</sub> = $$hc \\over \\lambda - \\phi $$ <br><br>We know r = $$mv \\over qB$$ <br><br>and p = mv = rqB <br><br>$$ \\therefore $$ KE<sub>max</sub> = $$p^2 \\over 2m$$ = $$q^2r^2B^2 \\over 2m$$ <br><br> = $$\\left( 1.6 \\times 10^ - 19 \\right)^2\\left( 10 \\times 10^ - 3 \\right)^2\\left( 3 \\times 10^ - 4 \\right)^2 \\over 2 \\times 9 \\times 10^ - 31 \\times 1.6 \\times 10^ - 19$$ <br><br>= 0.8 eV <br><br>$$hc \\over \\lambda $$ = $$12420 \\over 6561$$ = 1.9 eV <br><br>$$ \\therefore $$ $$\\phi $$ = 1.9 - 0.8 = 1.1 eV",
+      "solution": "Let the work function be \\phi . <br><br> \\therefore KE<sub>max</sub> = hc \\over \\lambda - \\phi <br><br>We know r = mv \\over qB <br><br>and p = mv = rqB <br><br> \\therefore KE<sub>max</sub> = p^2 \\over 2m = q^2r^2B^2 \\over 2m <br><br> = \\left( 1.6 \u00d7 10^ - 19 \\right)^2\\left( 10 \u00d7 10^ - 3 \\right)^2\\left( 3 \u00d7 10^ - 4 \\right)^2 \\over 2 \u00d7 9 \u00d7 10^ - 31 \u00d7 1.6 \u00d7 10^ - 19 <br><br>= 0.8 eV <br><br>hc \\over \\lambda = 12420 \\over 6561 = 1.9 eV <br><br> \\therefore \\phi = 1.9 - 0.8 = 1.1 eV",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "When photon of energy 4.0 eV strikes the surface of a metal A, the ejected photoelectrons have maximum kinetic energy T<sub>A</sub> eV end de-Broglie wavelength $$\\lambda _A$$. The maximum kinetic energy of photoelectrons liberated from another metal B by photon of energy 4.50 eV is T<sub>B</sub> = (T<sub>A</sub> \\\u2013 1.5) eV. If the de-Broglie wavelength of these photoelectrons $$\\lambda _B$$ = 2$$\\lambda _A$$, then the work function of metal B is :",
+      "question": "When photon of energy 4.0 eV strikes the surface of a metal A, the ejected photoelectrons have maximum kinetic energy T<sub>A</sub> eV end de-Broglie wavelength \\lambda _A. The maximum kinetic energy of photoelectrons liberated from another metal B by photon of energy 4.50 eV is T<sub>B</sub> = (T<sub>A</sub> \\\u2013 1.5) eV. If the de-Broglie wavelength of these photoelectrons \\lambda _B = 2\\lambda _A, then the work function of metal B is :",
       "options": {
         "A": "1.5eV",
         "B": "4eV",
@@ -853,7 +778,7 @@
         "D": "3eV"
       },
       "answer": "B",
-      "solution": "We know, de-Broglie wavelength <br><br>$$\\lambda $$ = $$h \\over p = h \\over \\sqrt 2mK_e $$ <br><br>$$ \\therefore $$ $$\\lambda \\propto 1 \\over \\sqrt K_e $$ <br><br>So $$\\lambda _A \\over \\lambda _B = \\sqrt T_B \\over T_A $$ <br><br>$$ \\Rightarrow $$ $$\\left( 1 \\over 2 \\right)^2$$ = $$T_A - 1.5 \\over T_A$$ <br><br>On solving T<sub>A</sub> = 2 eV <br><br>$$ \\therefore $$ T<sub>B</sub> = T<sub>A</sub> - 1.5 = 0.5 eV <br><br>Also T<sub>B</sub> = 4.5 - $$\\phi $$<sub>B</sub> <br><br>$$ \\Rightarrow $$ 0.5 = 4.5 - $$\\phi $$<sub>B</sub> <br><br>$$ \\Rightarrow $$ $$\\phi $$<sub>B</sub> = 4 eV",
+      "solution": "We know, de-Broglie wavelength <br><br>\\lambda = h \\over p = h \\over \\sqrt 2mK_e <br><br> \\therefore \\lambda \\propto 1 \\over \\sqrt K_e <br><br>So \\lambda _A \\over \\lambda _B = \\sqrt T_B \\over T_A <br><br> \\Rightarrow \\left( 1 \\over 2 \\right)^2 = T_A - 1.5 \\over T_A <br><br>On solving T<sub>A</sub> = 2 eV <br><br> \\therefore T<sub>B</sub> = T<sub>A</sub> - 1.5 = 0.5 eV <br><br>Also T<sub>B</sub> = 4.5 - \\phi <sub>B</sub> <br><br> \\Rightarrow 0.5 = 4.5 - \\phi <sub>B</sub> <br><br> \\Rightarrow \\phi <sub>B</sub> = 4 eV",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -868,14 +793,14 @@
         "D": "Intensity"
       },
       "answer": "B",
-      "solution": "Stopping potential depends on frequency, according to Einstein's photoelectric equation.<br><br>$$hv - hv_0 = eV$$<br><br>$$ \\Rightarrow V = h \\over ev - h \\over ev_0$$",
+      "solution": "Stopping potential depends on frequency, according to Einstein's photoelectric equation.<br><br>hv - hv_0 = eV<br><br> \\Rightarrow V = h \\over ev - h \\over ev_0",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The radiation corresponding to 3 $$\\to$$ 2 transition of a hydrogen atom falls on a gold surface to generate photoelectrons. The electrons are passed through a magnetic field of 5 $$\\times$$ 10<sup>$$-$$4</sup> T. Assume that the radius of the largest circular path followed by these electrons is 7 mm, the work function of the metal is : (Mass of electron = 9.1 $$\\times$$ 10<sup>$$-$$31</sup> kg)",
+      "question": "The radiation corresponding to 3 \\to 2 transition of a hydrogen atom falls on a gold surface to generate photoelectrons. The electrons are passed through a magnetic field of 5 \u00d7 10<sup>-4</sup> T. Assume that the radius of the largest circular path followed by these electrons is 7 mm, the work function of the metal is : (Mass of electron = 9.1 \u00d7 10<sup>-31</sup> kg)",
       "options": {
         "A": "1.36 eV",
         "B": "1.88 eV",
@@ -883,14 +808,14 @@
         "D": "0.16 eV"
       },
       "answer": "C",
-      "solution": "Energy of photon can be given as<br/><br/>$$E_p = 13.6\\left[ 1 \\over n_1^2 - 1 \\over n_2^2 \\right]$$ eV<br/><br/>where, n<sub>1</sub> = lower energy level and n<sub>2</sub> = higher energy level.<br/><br/>As per question, n<sub>1</sub> = 2, n<sub>2</sub> = 3<br/><br/>$$\\therefore$$ $$E_p = 13.6\\left[ 1 \\over (2)^2 - 1 \\over (3)^2 \\right]$$<br/><br/>$$ = 13.6\\left[ 1 \\over 4 - 1 \\over 9 \\right] = 13.6\\left[ 9 - 4 \\over 36 \\right] = 1.89$$ eV<br/><br/>We know that work-function is the minimum energy required to eject photoelectrons from metal surface.<br/><br/>For gold plate, it will be<br/><br/>$$\\phi$$ = E<sub>P</sub> $$-$$ KE<sub>max</sub> .... (i)<br/><br/>[Given, B = 5 $$\\times$$ 10<sup>$$-$$4</sup> T, r = 7 mm = 7 $$\\times$$ 10<sup>$$-$$3</sup> m, q = 1.6 $$\\times$$ 10<sup>$$-$$19</sup> C and m = 9.1 $$\\times$$ 10<sup>$$-$$31</sup> kg]<br/><br/>Therefore, velocity of photoelectrons will be<br/><br/>$$v = Bqr \\over m = 5 \\times 10^ - 4 \\times 1.6 \\times 10^ - 19 \\times 7 \\times 10^ - 3 \\over 9.1 \\times 10^ - 31 = 6.15 \\times 10^5$$ ms<sup>$$-$$1</sup><br/><br/>Kinetic energy will be<br/><br/>$$\\therefore$$ $$KE = 1 \\over 2mv^2 = 1 \\times 9.1 \\times 10^ - 31 \\times (6.15 \\times 10^5)^2 \\over 2 \\times 1.6 \\times 10^ - 19$$ eV = 1.075 eV<br/><br/>Now, putting the values, in Eq. (i), we get<br/><br/>$$\\phi$$ = (1.89 $$-$$ 1.075) eV = 0.82 eV",
+      "solution": "Energy of photon can be given as<br/><br/>E_p = 13.6\\left[ 1 \\over n_1^2 - 1 \\over n_2^2 \\right] eV<br/><br/>where, n<sub>1</sub> = lower energy level and n<sub>2</sub> = higher energy level.<br/><br/>As per question, n<sub>1</sub> = 2, n<sub>2</sub> = 3<br/><br/>\\therefore E_p = 13.6\\left[ 1 \\over (2)^2 - 1 \\over (3)^2 \\right]<br/><br/> = 13.6\\left[ 1 \\over 4 - 1 \\over 9 \\right] = 13.6\\left[ 9 - 4 \\over 36 \\right] = 1.89 eV<br/><br/>We know that work-function is the minimum energy required to eject photoelectrons from metal surface.<br/><br/>For gold plate, it will be<br/><br/>\\phi = E<sub>P</sub> - KE<sub>max</sub> .... (i)<br/><br/>[Given, B = 5 \u00d7 10<sup>-4</sup> T, r = 7 mm = 7 \u00d7 10<sup>-3</sup> m, q = 1.6 \u00d7 10<sup>-19</sup> C and m = 9.1 \u00d7 10<sup>-31</sup> kg]<br/><br/>Therefore, velocity of photoelectrons will be<br/><br/>v = Bqr \\over m = 5 \u00d7 10^ - 4 \u00d7 1.6 \u00d7 10^ - 19 \u00d7 7 \u00d7 10^ - 3 \\over 9.1 \u00d7 10^ - 31 = 6.15 \u00d7 10^5 ms<sup>-1</sup><br/><br/>Kinetic energy will be<br/><br/>\\therefore KE = 1 \\over 2mv^2 = 1 \u00d7 9.1 \u00d7 10^ - 31 \u00d7 (6.15 \u00d7 10^5)^2 \\over 2 \u00d7 1.6 \u00d7 10^ - 19 eV = 1.075 eV<br/><br/>Now, putting the values, in Eq. (i), we get<br/><br/>\\phi = (1.89 - 1.075) eV = 0.82 eV",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "An electron and proton are separated by a large distance. The electron starts approaching the proton with energy 3 eV. The proton captures the electron and forms a hydrogen atom in second excited state. The resulting photon is incident on a photosensitive metal of threshold wavelength 4000$$\\mathop A\\limits^o $$. What is the maximum kinetic energy of the emitted photoelectron?",
+      "question": "An electron and proton are separated by a large distance. The electron starts approaching the proton with energy 3 eV. The proton captures the electron and forms a hydrogen atom in second excited state. The resulting photon is incident on a photosensitive metal of threshold wavelength 4000\\mathop A\\limits^o . What is the maximum kinetic energy of the emitted photoelectron?",
       "options": {
         "A": "7.61 eV",
         "B": "1.41 eV",
@@ -898,14 +823,14 @@
         "D": "No photoelectron would be emitted"
       },
       "answer": "B",
-      "solution": "initially, energy of electron = + 3eV<br><br>finally, in 2<sup>nd</sup> excited state,<br><br>energy of electron = $$ - (13.6eV) \\over 3^2$$<br><br>$$ = - 1.51eV$$<br><br>Loss in energy is emitted as photon, <br><br>So, photon energy $$hc \\over \\lambda = 4.51eV$$<br><br>Now, photoelectric effect equation <br><br>$$KE_\\max = hc \\over \\lambda - \\phi = 4.51 - \\left( hc \\over \\lambda _th \\right)$$<br><br>$$ = 4.51eV - 12400eV\\mathop A\\limits^o \\over 4000\\mathop A\\limits^o $$<br><br>$$ = 1.41eV$$",
+      "solution": "initially, energy of electron = + 3eV<br><br>finally, in 2<sup>nd</sup> excited state,<br><br>energy of electron = - (13.6eV) \\over 3^2<br><br> = - 1.51eV<br><br>Loss in energy is emitted as photon, <br><br>So, photon energy hc \\over \\lambda = 4.51eV<br><br>Now, photoelectric effect equation <br><br>KE_\\max = hc \\over \\lambda - \\phi = 4.51 - \\left( hc \\over \\lambda _th \\right)<br><br> = 4.51eV - 12400eV\\mathop A\\limits^o \\over 4000\\mathop A\\limits^o <br><br> = 1.41eV",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "In a photoelectric experiment ultraviolet light of wavelength 280 nm is used with lithium cathode having work function $$\\phi$$ = 2.5 eV. If the wavelength of incident light is switched to 400 nm, find out the change in the stopping potential. (h = 6.63 $$\\times$$ 10<sup>$$-$$34</sup> Js, c = 3 $$\\times$$ 10<sup>8</sup> ms<sup>$$-$$1</sup>)",
+      "question": "In a photoelectric experiment ultraviolet light of wavelength 280 nm is used with lithium cathode having work function \\phi = 2.5 eV. If the wavelength of incident light is switched to 400 nm, find out the change in the stopping potential. (h = 6.63 \u00d7 10<sup>-34</sup> Js, c = 3 \u00d7 10<sup>8</sup> ms<sup>-1</sup>)",
       "options": {
         "A": "1.3 V",
         "B": "1.1 V",
@@ -913,7 +838,7 @@
         "D": "0.6 V"
       },
       "answer": "A",
-      "solution": "$$KE_\\max = eV_s = hc \\over \\lambda - \\phi $$<br><br>$$ \\Rightarrow eV_s = 1240 \\over 280 - 2.5 = $$ 1.93 eV<br><br>$$ \\Rightarrow V_s_1 = $$ 1.93 V .... (i)<br><br>$$ \\Rightarrow eV_s_2 = 1240 \\over 400 - 2.5 = $$ 0.6 eV<br><br>$$ \\Rightarrow V_s_2 = $$ 0.6 V .... (ii)<br><br>$$\\Delta$$V = $$V_s_1 - V_s_2$$ = 1.93 $$-$$ 0.6 = 1.33 V",
+      "solution": "KE_\\max = eV_s = hc \\over \\lambda - \\phi <br><br> \\Rightarrow eV_s = 1240 \\over 280 - 2.5 = 1.93 eV<br><br> \\Rightarrow V_s_1 = 1.93 V .... (i)<br><br> \\Rightarrow eV_s_2 = 1240 \\over 400 - 2.5 = 0.6 eV<br><br> \\Rightarrow V_s_2 = 0.6 V .... (ii)<br><br>\\DeltaV = V_s_1 - V_s_2 = 1.93 - 0.6 = 1.33 V",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -928,29 +853,29 @@
         "D": "increases the number of photons incident and the K.E. of the ejected electrons remains unchanged"
       },
       "answer": "D",
-      "solution": "$$\\to$$ Increasing intensity means number of incident photons are increased.<br><br>$$\\to$$ Kinetic energy of ejected electrons depend on the frequency of incident photons, not the intensity.",
+      "solution": "\\to Increasing intensity means number of incident photons are increased.<br><br>\\to Kinetic energy of ejected electrons depend on the frequency of incident photons, not the intensity.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R :</p> <p>Assertion A : The photoelectric effect does not takes place, if the energy of the incident radiation is less than the work function of a metal.</p> <p>Reason R : Kinetic energy of the photoelectrons is zero, if the energy of the incident radiation is equal to the work function of a metal.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R : Assertion A : The photoelectric effect does not takes place, if the energy of the incident radiation is less than the work function of a metal. Reason R : Kinetic energy of the photoelectrons is zero, if the energy of the incident radiation is equal to the work function of a metal. In the light of the above statements, choose the most appropriate answer from the options given below.",
       "options": {
         "A": "Both A and R are correct and R is the correct explanation of A.",
         "B": "oth A and R are correct but R is not the correct explanation of A.",
-        "C": "A is correct but R is not correct.",
-        "D": "A is not correct but R is correct."
+        "C": "is correct but R is not correct.",
+        "D": "is not correct but R is correct."
       },
       "answer": "B",
-      "solution": "<p>When energy of incident radiation is equal to the work function of the metal, then the KE of photoelectrons would be zero. But this statement does not comment on the situation when energy is less than the work function.</p>",
+      "solution": "When energy of incident radiation is equal to the work function of the metal, then the KE of photoelectrons would be zero. But this statement does not comment on the situation when energy is less than the work function.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The electric field at a point associated with a light wave is given by</p> <p>E = 200 [sin (6 $$\\times$$ 10<sup>15</sup>)t + sin (9 $$\\times$$ 10<sup>15</sup>)t] Vm<sup>$$-$$1</sup></p> <p>Given : h = 4.14 $$\\times$$ 10<sup>$$-$$15</sup> eVs</p> <p>If this light falls on a metal surface having a work function of 2.50 eV, the maximum kinetic energy of the photoelectrons will be</p>",
+      "question": "The electric field at a point associated with a light wave is given by E = 200 [sin (6 \u00d7 10<sup>15</sup>)t + sin (9 \u00d7 10<sup>15</sup>)t] Vm<sup>-1</sup> Given : h = 4.14 \u00d7 10<sup>-15</sup> eVs If this light falls on a metal surface having a work function of 2.50 eV, the maximum kinetic energy of the photoelectrons will be",
       "options": {
         "A": "1.90 eV",
         "B": "3.27 eV",
@@ -958,14 +883,14 @@
         "D": "3.42 eV"
       },
       "answer": "D",
-      "solution": "<p>Frequency of EM waves = $$6 \\over 2\\pi \\times 10^15$$ and $$9 \\over 2\\pi \\times 10^15$$</p> <p>Energy of one photon of these waves</p> <p>$$ = \\left( 4.14 \\times 10^ - 15 \\times 6 \\over 2\\pi \\times 10^15 \\right)$$ eV</p> <p>and $$\\left( 4.14 \\times 10^ - 15 \\times 9 \\over 2\\pi \\times 10^15 \\right)$$ eV</p> <p>= 3.95 eV and 5.93 eV</p> <p>$$\\Rightarrow$$ Energy of maximum energetic electrons</p> <p>= 5.93 $$-$$ 2.50 = 3.43 eV</p>",
+      "solution": "Frequency of EM waves = 6 \\over 2\\pi \u00d7 10^15 and 9 \\over 2\\pi \u00d7 10^15 Energy of one photon of these waves = \\left( 4.14 \u00d7 10^ - 15 \u00d7 6 \\over 2\\pi \u00d7 10^15 \\right) eV and \\left( 4.14 \u00d7 10^ - 15 \u00d7 9 \\over 2\\pi \u00d7 10^15 \\right) eV = 3.95 eV and 5.93 eV \\Rightarrow Energy of maximum energetic electrons = 5.93 - 2.50 = 3.43 eV",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A metal surface is illuminated by a radiation of wavelength 4500 $$\\mathop A\\limits^o $$. The ejected photo-electron enters a constant magnetic field of 2 mT making an angle of 90$$^\\circ$$ with the magnetic field. If it starts revolving in a circular path of radius 2 mm, the work function of the metal is approximately :</p>",
+      "question": "A metal surface is illuminated by a radiation of wavelength 4500 \\mathop A\\limits^o . The ejected photo-electron enters a constant magnetic field of 2 mT making an angle of 90^\\circ with the magnetic field. If it starts revolving in a circular path of radius 2 mm, the work function of the metal is approximately :",
       "options": {
         "A": "1.36 eV",
         "B": "1.69 eV",
@@ -973,14 +898,14 @@
         "D": "2.23 eV"
       },
       "answer": "A",
-      "solution": "<p>$$hc \\over \\lambda - \\phi = KE$$ ...... (i)</p> <p>$$R = mv \\over Bq = \\sqrt 2m(KE) \\over Bq$$ ...... (ii)</p> <p>Putting the values,</p> <p>$$\\phi \\simeq 1.36$$ eV</p>",
+      "solution": "hc \\over \\lambda - \\phi = KE ...... (i) R = mv \\over Bq = \\sqrt 2m(KE) \\over Bq ...... (ii) Putting the values, \\phi \\simeq 1.36 eV",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The light of two different frequencies whose photons have energies 3.8 eV and 1.4 eV respectively, illuminate a metallic surface whose work function is 0.6 eV successively. The ratio of maximum speeds of emitted electrons for the two frequencies respectively will be :</p>",
+      "question": "The light of two different frequencies whose photons have energies 3.8 eV and 1.4 eV respectively, illuminate a metallic surface whose work function is 0.6 eV successively. The ratio of maximum speeds of emitted electrons for the two frequencies respectively will be :",
       "options": {
         "A": "1 : 1",
         "B": "2 : 1",
@@ -988,14 +913,14 @@
         "D": "1 : 4"
       },
       "answer": "B",
-      "solution": "<p>$$3.8 = 0.6 + 1 \\over 2mv_1^2$$</p> <p>$$1.4 = 0.6 + 1 \\over 2mv_2^2$$</p> <p>$$ \\Rightarrow v_1^2 \\over v_2^2 = 3.2 \\over 0.8 = 4 \\over 1$$</p> <p>$$ \\Rightarrow v_1 \\over v_2 = 2 \\over 1$$</p>",
+      "solution": "3.8 = 0.6 + 1 \\over 2mv_1^2 1.4 = 0.6 + 1 \\over 2mv_2^2 \\Rightarrow v_1^2 \\over v_2^2 = 3.2 \\over 0.8 = 4 \\over 1 \\Rightarrow v_1 \\over v_2 = 2 \\over 1",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Two streams of photons, possessing energies equal to five and ten times the work function of metal are incident on the metal surface successively. The ratio of maximum velocities of the photoelectron emitted, in the two cases respectively, will be</p>",
+      "question": "Two streams of photons, possessing energies equal to five and ten times the work function of metal are incident on the metal surface successively. The ratio of maximum velocities of the photoelectron emitted, in the two cases respectively, will be",
       "options": {
         "A": "1 : 2",
         "B": "1 : 3",
@@ -1003,44 +928,29 @@
         "D": "3 : 2"
       },
       "answer": "C",
-      "solution": "<p>$$1 \\over 2mv_1^2 = 5\\phi - \\phi $$</p> <p>And, $$1 \\over 2mv_2^2 = 10\\phi - \\phi $$</p> <p>$$ \\Rightarrow \\left( v_1 \\over v_2 \\right)^2 = 4 \\over 9$$</p> <p>$$ \\Rightarrow v_1 \\over v_2 = 2 \\over 3$$</p>",
+      "solution": "1 \\over 2mv_1^2 = 5\\phi - \\phi And, 1 \\over 2mv_2^2 = 10\\phi - \\phi \\Rightarrow \\left( v_1 \\over v_2 \\right)^2 = 4 \\over 9 \\Rightarrow v_1 \\over v_2 = 2 \\over 3",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "If the two metals $A$ and $B$ are exposed to radiation of wavelength $350 ~nm$. The work functions of metals $A$ and $B$ are $4.8 eV$ and $2.2 eV$. Then choose the correct option.",
+      "question": "If the two metals A and B are exposed to radiation of wavelength 350 nm. The work functions of metals A and B are 4.8 eV and 2.2 eV. Then choose the correct option.",
       "options": {
         "A": "Metal B will not emit photo-electrons",
-        "B": "oth metals $A$ and $B$ will not emit photo-electrons",
+        "B": "oth metals A and B will not emit photo-electrons",
         "C": "Metal A will not emit photo-electrons",
         "D": "Both metals A and B will emit photo-electrons"
       },
       "answer": "C",
-      "solution": "$$ \\phi=\\frach c\\lambda=\\frac\u2081\u2082\u2084\u2080\u2083\u2085\u2080 eV=3.54 eV $$ <br/><br/>$\\therefore$ Only metal B will emit photoelectron.",
+      "solution": "\\phi=\\frach c\\lambda=\\frac\u2081\u2082\u2084\u2080\u2083\u2085\u2080 eV=3.54 eV <br/><br/>\\therefore Only metal B will emit photoelectron.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The threshold wavelength for photoelectric emission from a material is 5500 $$\\mathop A\\limits^o $$. Photoelectrons will be emitted, when this material is illuminated with monochromatic radiation from a</p> <p>A. 75 W infra-red lamp</p> <p>B. 10 W infra-red lamp</p> <p>C. 75 W ultra-violet lamp</p> <p>D. 10 W ultra-violet lamp</p> <p>Choose the correct answer from the options given below :</p>",
-      "options": {
-        "A": "C only",
-        "B": "A and D only",
-        "C": "and D only",
-        "D": "B and C only"
-      },
-      "answer": "C",
-      "solution": "Wavelength of infra-red $=700 ~nm$ (minimum) <br/><br/> Wavelength of UV $=100-400 ~nm$ <br/><br/> Since we need $\\lambda<5000$ \u00c5 <br/><br/> $\\Rightarrow$ Only UV would be able to emit photoelectrons.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "<p>Given below are two statements :</p> <p>Statement I : Stopping potential in photoelectric effect does not depend on the power of the light source.</p> <p>Statement II : For a given metal, the maximum kinetic energy of the photoelectron depends on the wavelength of the incident light.</p> <p>In the light of above statements, choose the most appropriate answer from the options given below</p>",
+      "question": "Given below are two statements : Statement I : Stopping potential in photoelectric effect does not depend on the power of the light source. Statement II : For a given metal, the maximum kinetic energy of the photoelectron depends on the wavelength of the incident light. In the light of above statements, choose the most appropriate answer from the options given below",
       "options": {
         "A": "Both Statement I and Statement II are incorrect",
         "B": "Statement I is correct but Statement II is incorrect",
@@ -1055,22 +965,22 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>From the photoelectric effect experiment, following observations are made. Identify which of these are correct.</p> <p>A. The stopping potential depends only on the work function of the metal.</p> <p>B. The saturation current increases as the intensity of incident light increases.</p> <p>C. The maximum kinetic energy of a photo electron depends on the intensity of the incident light.</p> <p>D. Photoelectric effect can be explained using wave theory of light.</p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "From the photoelectric effect experiment, following observations are made. Identify which of these are correct. A. The stopping potential depends only on the work function of the metal. B. The saturation current increases as the intensity of incident light increases. C. The maximum kinetic energy of a photo electron depends on the intensity of the incident light. D. Photoelectric effect can be explained using wave theory of light. Choose the correct answer from the options given below :",
       "options": {
         "A": ", B, D only",
         "B": "A, C, D only",
         "C": "B, C only",
-        "D": "B only"
+        "D": "only"
       },
       "answer": "D",
-      "solution": "(A) From Einstein's equation <br/><br/> $$ K_\\max =e V_s=h v-\\phi $$ <br/><br/> Form the stopping potential $\\left(V_s\\right)$ depends on $\\phi$ $\\& \\,v$. <br/><br/> (B) Saturation current is proportional to intensity, i.e., number of incident photons. <br/><br/> (C) $K_\\max $ only depends on nature of photon and $\\phi$. <br/><br/> (D) Einstein used particle behaviour of photon to explain photon electric effect. <br/><br/> Only B is correct.",
+      "solution": "(A) From Einstein's equation <br/><br/> K_\\max =e V_s=h v-\\phi <br/><br/> Form the stopping potential \\left(V_s\\right) depends on \\phi \\& \\,v. <br/><br/> (B) Saturation current is proportional to intensity, i.e., number of incident photons. <br/><br/> (C) K_\\max only depends on nature of photon and \\phi. <br/><br/> (D) Einstein used particle behaviour of photon to explain photon electric effect. <br/><br/> Only B is correct.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The difference between threshold wavelengths for two metal surfaces $$A$$ and $$B$$ having work function $$\\phi_A=9 ~eV$$ and $$\\phi_B=4 \\cdot 5 ~eV$$ in $$nm$$ is:</p> <p>$$\\$$ Given, hc $$=1242 ~eV nm\\$$</p>",
+      "question": "The difference between threshold wavelengths for two metal surfaces A and B having work function \\phi_A=9 eV and \\phi_B=4 \u00b7 5 eV in nm is: \\ Given, hc =1242 eV nm\\",
       "options": {
         "A": "264",
         "B": "138",
@@ -1078,14 +988,14 @@
         "D": "276"
       },
       "answer": "B",
-      "solution": "<p>Threshold wavelength ($$\\lambda_threshold$$) is the maximum wavelength of light required to remove an electron from a metal surface, i.e., to overcome the work function ($$\\phi$$). The relationship between work function and threshold wavelength is given by:</p> $$\\phi = \\frachc\\lambda_threshold$$ <p>Where:</p> <ul> <li>$$\\phi$$ is the work function in electron-volts (eV)</li> <li>$$h$$ is the Planck's constant</li> <li>$$c$$ is the speed of light</li> <li>$$\\lambda_threshold$$ is the threshold wavelength</li> </ul> <p>In this problem, we are given the product $$hc = 1242 ~eV\\,nm$$, and the work functions $$\\phi_A = 9 ~eV$$ and $$\\phi_B = 4.5 ~eV$$. Let's calculate the threshold wavelengths for metal surfaces $$A$$ and $$B$$:</p> <p>For metal surface $$A$$:</p> $$\\lambda_A = \\frac\u2081\u2082\u2084\u2082\\phi_A = \\frac\u2081\u2082\u2084\u2082\u2089$$ <p>For metal surface $$B$$:</p> $$\\lambda_B = \\frac\u2081\u2082\u2084\u2082\\phi_B = \\frac\u2081\u2082\u2084\u2082\u2084.5$$ <p>Now let's calculate the difference between the threshold wavelengths ($$\\Delta\\lambda$$):</p> $$\\Delta\\lambda = \\lambda_B - \\lambda_A = \\frac\u2081\u2082\u2084\u2082\u2084.5 - \\frac\u2081\u2082\u2084\u2082\u2089$$ <p>By calculating the difference, we get:</p> $$\\Delta\\lambda = 276 - 138 = 138 ~nm$$ <br/> <p>So, the difference between the threshold wavelengths for the two metal surfaces is $$\\boxed\u2081\u2083\u2088\\,nm$$.",
+      "solution": "Threshold wavelength (\\lambda_threshold) is the maximum wavelength of light required to remove an electron from a metal surface, i.e., to overcome the work function (\\phi). The relationship between work function and threshold wavelength is given by: \\phi = \\frachc\\lambda_threshold Where: <ul> <li>\\phi is the work function in electron-volts (eV)</li> <li>h is the Planck's constant</li> <li>c is the speed of light</li> <li>\\lambda_threshold is the threshold wavelength</li> </ul> In this problem, we are given the product hc = 1242 eV\\,nm, and the work functions \\phi_A = 9 eV and \\phi_B = 4.5 eV. Let's calculate the threshold wavelengths for metal surfaces A and B: For metal surface A: \\lambda_A = \\frac\u2081\u2082\u2084\u2082\\phi_A = \\frac\u2081\u2082\u2084\u2082\u2089 For metal surface B: \\lambda_B = \\frac\u2081\u2082\u2084\u2082\\phi_B = \\frac\u2081\u2082\u2084\u2082\u2084.5 Now let's calculate the difference between the threshold wavelengths (\\Delta\\lambda): \\Delta\\lambda = \\lambda_B - \\lambda_A = \\frac\u2081\u2082\u2084\u2082\u2084.5 - \\frac\u2081\u2082\u2084\u2082\u2089 By calculating the difference, we get: \\Delta\\lambda = 276 - 138 = 138 nm <br/> So, the difference between the threshold wavelengths for the two metal surfaces is \\boxed\u2081\u2083\u2088\\,nm.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The work functions of Aluminium and Gold are $$4.1 ~eV$$ and and $$5.1 ~eV$$ respectively. The ratio of the slope of the stopping potential versus frequency plot for Gold to that of Aluminium is</p>",
+      "question": "The work functions of Aluminium and Gold are 4.1 eV and and 5.1 eV respectively. The ratio of the slope of the stopping potential versus frequency plot for Gold to that of Aluminium is",
       "options": {
         "A": "1.5",
         "B": "1.24",
@@ -1093,29 +1003,29 @@
         "D": "2"
       },
       "answer": "C",
-      "solution": "<p>We are given the work functions of Aluminium and Gold as $$4.1 ~eV$$ and $$5.1 ~eV$$, respectively.</p> <p>The stopping potential ($$V_s$$) is related to the frequency ($$f$$) of the incident light by the equation:</p> <p>$$eV_s = h(f - f_0)$$</p> <p>Where $$e$$ is the charge of an electron, $$h$$ is Planck's constant, and $$f_0$$ is the threshold frequency. The threshold frequency is related to the work function ($$\\phi$$) by:</p> <p>$$\\phi = hf_0$$</p> <p>So, we can write the equation for stopping potential as:</p> <p>$$V_s = \\frache(f - \\frac\\phih)$$</p> <p>This equation represents a straight line with slope $$\\frache$$. Therefore, the slope of the stopping potential versus frequency plot is the same for both Aluminium and Gold. The ratio of the slopes is:</p> <p>$$\\frac\\textSlope for Gold\\textSlope for Aluminium = \\frac\\frache\\frache = 1$$</p> <p>So , the ratio of the slope of the stopping potential versus frequency plot for Gold to that of Aluminium is 1.</p>",
+      "solution": "We are given the work functions of Aluminium and Gold as 4.1 eV and 5.1 eV, respectively. The stopping potential (V_s) is related to the frequency (f) of the incident light by the equation: eV_s = h(f - f_0) Where e is the charge of an electron, h is Planck's constant, and f_0 is the threshold frequency. The threshold frequency is related to the work function (\\phi) by: \\phi = hf_0 So, we can write the equation for stopping potential as: V_s = \\frache(f - \\frac\\phih) This equation represents a straight line with slope \\frache. Therefore, the slope of the stopping potential versus frequency plot is the same for both Aluminium and Gold. The ratio of the slopes is: \\frac\\textSlope for Gold\\textSlope for Aluminium = \\frac\\frache\\frache = 1 So , the ratio of the slope of the stopping potential versus frequency plot for Gold to that of Aluminium is 1.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The threshold frequency of a metal with work function $$6.63 ~eV$$ is :</p>",
+      "question": "The threshold frequency of a metal with work function 6.63 eV is :",
       "options": {
-        "A": "$$16 \\times 10^15 ~Hz$$",
-        "B": "$$16 \\times 10^12 ~Hz$$",
-        "C": "$$1.6 \\times 10^15 ~Hz$$",
-        "D": "$$1.6 \\times 10^12 ~Hz$$"
+        "A": "16 \u00d7 10^15 Hz",
+        "B": "16 \u00d7 10^12 Hz",
+        "C": "1.6 \u00d7 10^15 Hz",
+        "D": "1.6 \u00d7 10^12 Hz"
       },
       "answer": "C",
-      "solution": "<p>The threshold frequency, $$ \\nu_0 $$, corresponds to the minimum frequency of light required to eject electrons from the surface of a metal, a phenomenon known as the photoelectric effect. The work function, represented by $$ \\phi $$, is the minimum energy needed to remove an electron from the surface of the metal.</p> <p>The energy of a photon is given by the equation $$ E = h\\nu $$, where:</p> <ul> <li>$$ E $$ is the energy of the photon,</li> <li>$$ h $$ is Planck's constant ($$ h = 6.626 \\times 10^-34 \\, \\textJ \\cdot \\texts $$), and</li> <li>$$ \\nu $$ is the frequency of the photon.</li> </ul> <p>To find the threshold frequency for a metal with a work function of $$ 6.63 \\, \\texteV $$, we must first express the work function in joules (since Planck's constant is in joules per second). To convert electron volts to joules, use the conversion factor $$ 1 \\, \\texteV = 1.602 \\times 10^-19 \\, \\textJ $$:</p> $$ \\phi = 6.63 \\, \\texteV \\times 1.602 \\times 10^-19 \\, \\frac\\textJ\\texteV = 1.061 \\times 10^-18 \\, \\textJ $$ <p>The energy of the photon at the threshold frequency is equal to the work function:</p> $$ h\\nu_0 = \\phi $$ <p>Solve for $$ \\nu_0 $$:</p> $$ \\nu_0 = \\frac\\phih = \\frac\u2081.061 \\times 10^-18 \\, \\textJ\u2086.626 \\times 10^-34 \\, \\textJ \\cdot \\texts = 1.6 \\times 10^15 \\, \\textHz $$ <p>Thus, the correct answer is:</p> Option C $$ 1.6 \\times 10^15 \\, \\textHz $$",
+      "solution": "The threshold frequency, \\nu_0 , corresponds to the minimum frequency of light required to eject electrons from the surface of a metal, a phenomenon known as the photoelectric effect. The work function, represented by \\phi , is the minimum energy needed to remove an electron from the surface of the metal. The energy of a photon is given by the equation E = h\\nu , where: <ul> <li> E is the energy of the photon,</li> <li> h is Planck's constant ( h = 6.626 \u00d7 10^-34 \\, \\textJ \u00b7 \\texts ), and</li> <li> \\nu is the frequency of the photon.</li> </ul> To find the threshold frequency for a metal with a work function of 6.63 \\, \\texteV , we must first express the work function in joules (since Planck's constant is in joules per second). To convert electron volts to joules, use the conversion factor 1 \\, \\texteV = 1.602 \u00d7 10^-19 \\, \\textJ : \\phi = 6.63 \\, \\texteV \u00d7 1.602 \u00d7 10^-19 \\, \\frac\\textJ\\texteV = 1.061 \u00d7 10^-18 \\, \\textJ The energy of the photon at the threshold frequency is equal to the work function: h\\nu_0 = \\phi Solve for \\nu_0 : \\nu_0 = \\frac\\phih = \\frac\u2081.061 \u00d7 10^-18 \\, \\textJ\u2086.626 \u00d7 10^-34 \\, \\textJ \u00b7 \\texts = 1.6 \u00d7 10^15 \\, \\textHz Thus, the correct answer is: Option C 1.6 \u00d7 10^15 \\, \\textHz",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>In a photoelectric effect experiment a light of frequency 1.5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:</p>",
+      "question": "In a photoelectric effect experiment a light of frequency 1.5 times the threshold frequency is made to fall on the surface of photosensitive material. Now if the frequency is halved and intensity is doubled, the number of photo electrons emitted will be:",
       "options": {
         "A": "doubled",
         "B": "halved",
@@ -1123,14 +1033,14 @@
         "D": "quadrupled"
       },
       "answer": "C",
-      "solution": "<p>Since $$\\fracf\u2082<f_0$$</p> <p>i.e. the incident frequency is less than threshold frequency. Hence there will be no emission of photoelectrons.</p> <p>$$\\Rightarrow \\text current =0$$</p>",
+      "solution": "Since \\fracf\u2082<f_0 i.e. the incident frequency is less than threshold frequency. Hence there will be no emission of photoelectrons. \\Rightarrow \\text current =0",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>The work function of a substance is $$3.0 ~eV$$. The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately;</p>",
+      "question": "The work function of a substance is 3.0 eV. The longest wavelength of light that can cause the emission of photoelectrons from this substance is approximately;",
       "options": {
         "A": "215 nm",
         "B": "400 nm",
@@ -1138,14 +1048,14 @@
         "D": "200 nm"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & \\text For P.E.E. : \\lambda \\leq \\frach cW_e \\\\ & \\lambda \\leq \\frac\u2081\u2082\u2084\u2080 ~nm-eV\u2083 eV \\\\ & \\lambda \\leq 413.33 ~nm \\\\ & \\lambda_\\max \\approx 414 ~nm \\text for P.E.E. \\endaligned$$</p>",
+      "solution": "\\beginaligned & \\text For P.E.E. : \\lambda \\leq \\frach cW_e \\\\ & \\lambda \\leq \\frac\u2081\u2082\u2084\u2080 nm-eV\u2083 eV \\\\ & \\lambda \\leq 413.33 nm \\\\ & \\lambda_\\max \\approx 414 nm \\text for P.E.E. \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>UV light of $$4.13 ~eV$$ is incident on a photosensitive metal surface having work function $$3.13 ~eV$$. The maximum kinetic energy of ejected photoelectrons will be:</p>",
+      "question": "UV light of 4.13 eV is incident on a photosensitive metal surface having work function 3.13 eV. The maximum kinetic energy of ejected photoelectrons will be:",
       "options": {
         "A": "4.13 eV",
         "B": "1 eV",
@@ -1153,29 +1063,29 @@
         "D": "3.13 eV"
       },
       "answer": "B",
-      "solution": "<p>To find the maximum kinetic energy of the ejected photoelectrons, we'll use the photoelectric effect equation:</p> $$KE_\\textmax = h\\nu - \\phi$$ <p>where $$KE_\\textmax$$ is the maximum kinetic energy of the ejected electrons, $$h$$ is Planck's constant, $$\\nu$$ is the frequency of the incident light, and $$\\phi$$ is the work function of the metal.</p> <p>However, in this problem, we are given the energy of the UV light in electronvolts (eV) directly, which simplifies the problem. The energy of the UV light in electronvolts also represents the energy of the photons ($$h\\nu$$) hitting the metal surface. Thus, we can calculate the maximum kinetic energy of the ejected photoelectrons using the given energies directly:</p> $$KE_\\textmax = E_\\textphoton - \\phi$$ <p>Substituting the given values:</p> $$KE_\\textmax = 4.13 \\, \\texteV - 3.13 \\, \\texteV = 1 \\, \\texteV$$ <p>Therefore, the maximum kinetic energy of the ejected photoelectrons will be $$1 \\, \\texteV$$. The correct answer is <strong>Option B: 1 eV</strong>.</p>",
+      "solution": "To find the maximum kinetic energy of the ejected photoelectrons, we'll use the photoelectric effect equation: KE_\\textmax = h\\nu - \\phi where KE_\\textmax is the maximum kinetic energy of the ejected electrons, h is Planck's constant, \\nu is the frequency of the incident light, and \\phi is the work function of the metal. However, in this problem, we are given the energy of the UV light in electronvolts (eV) directly, which simplifies the problem. The energy of the UV light in electronvolts also represents the energy of the photons (h\\nu) hitting the metal surface. Thus, we can calculate the maximum kinetic energy of the ejected photoelectrons using the given energies directly: KE_\\textmax = E_\\textphoton - \\phi Substituting the given values: KE_\\textmax = 4.13 \\, \\texteV - 3.13 \\, \\texteV = 1 \\, \\texteV Therefore, the maximum kinetic energy of the ejected photoelectrons will be 1 \\, \\texteV. The correct answer is <strong>Option B: 1 eV</strong>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Given below are two statements: one is labelled as Assertion $$\\mathbfA$$ and the other is labelled as Reason R.</p> <p>Assertion A: Number of photons increases with increase in frequency of light.</p> <p>Reason R: Maximum kinetic energy of emitted electrons increases with the frequency of incident radiation.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
+      "question": "Given below are two statements: one is labelled as Assertion \\mathbfA and the other is labelled as Reason R. Assertion A: Number of photons increases with increase in frequency of light. Reason R: Maximum kinetic energy of emitted electrons increases with the frequency of incident radiation. In the light of the above statements, choose the most appropriate answer from the options given below:",
       "options": {
-        "A": "$$\\mathbfA$$ is not correct but $$\\mathbfR$$ is correct.",
-        "B": "$$\\mathbfA$$ is correct but $$\\mathbfR$$ is not correct.",
-        "C": "Both $$\\mathbfA$$ and $$\\mathbfR$$ are correct and $$\\mathbfR$$ is the correct explanation of $$\\mathbfA$$.",
-        "D": "Both $$\\mathbfA$$ and $$\\mathbfR$$ are correct and $$\\mathbfR$$ is NOT the correct explanation of $$\\mathbfA$$."
+        "A": "\\mathbfA is not correct but \\mathbfR is correct.",
+        "B": "\\mathbfA is correct but \\mathbfR is not correct.",
+        "C": "Both \\mathbfA and \\mathbfR are correct and \\mathbfR is the correct explanation of \\mathbfA.",
+        "D": "Both \\mathbfA and \\mathbfR are correct and \\mathbfR is NOT the correct explanation of \\mathbfA."
       },
       "answer": "A",
-      "solution": "<p>In order to determine the most appropriate answer to the question, let's analyze the given Assertion A and Reason R in detail.</p> <p><strong>Assertion A:</strong> Number of photons increases with increase in frequency of light.</p> <p>This statement is not correct. The number of photons is determined by the intensity (or power) of the light and is given by the formula:</p> <p>$$N = \\fracPhf$$</p> <p>where $$N$$ is the number of photons per second, $$P$$ is the power (intensity) of the light, $$h$$ is Planck's constant, and $$f$$ is the frequency of the light. As the frequency increases, the energy per photon increases, but it does not necessarily mean that the number of photons increases unless the power of the light also increases proportionally.</p> <p><strong>Reason R:</strong> Maximum kinetic energy of emitted electrons increases with the frequency of incident radiation.</p> <p>This statement is correct. According to the photoelectric effect, the maximum kinetic energy of emitted electrons is given by:</p> <p>$$K.E_\\textmax = hf - \\phi$$</p> <p>where $$K.E_\\textmax$$ is the maximum kinetic energy of the emitted electrons, $$h$$ is Planck's constant, $$f$$ is the frequency of the incident radiation, and $$\\phi$$ is the work function of the material. As the frequency of the incident light increases, the kinetic energy of the emitted electrons increases.</p> <p>Now, let's match the statements with the options given:</p> <p><strong>Option A:</strong> $$\\mathbfA$$ is not correct but $$\\mathbfR$$ is correct.</p> <p>This option is correct because Assertion A is incorrect while Reason R is correct.</p> <p><strong>Option B:</strong> $$\\mathbfA$$ is correct but $$\\mathbfR$$ is not correct.</p> <p>This option is incorrect because Assertion A is not correct.</p> <p><strong>Option C:</strong> Both $$\\mathbfA$$ and $$\\mathbfR$$ are correct and $$\\mathbfR$$ is the correct explanation of $$\\mathbfA$$.</p> <p>This option is incorrect because Assertion A is not correct.</p> <p><strong>Option D:</strong> Both $$\\mathbfA$$ and $$\\mathbfR$$ are correct and $$\\mathbfR$$ is NOT the correct explanation of $$\\mathbfA$$.</p> <p>This option is incorrect because Assertion A is not correct.</p> <p>Therefore, the most appropriate answer is:</p> <p><strong>Option A:</strong> $$\\mathbfA$$ is not correct but $$\\mathbfR$$ is correct.</p>",
+      "solution": "In order to determine the most appropriate answer to the question, let's analyze the given Assertion A and Reason R in detail. <strong>Assertion A:</strong> Number of photons increases with increase in frequency of light. This statement is not correct. The number of photons is determined by the intensity (or power) of the light and is given by the formula: N = \\fracPhf where N is the number of photons per second, P is the power (intensity) of the light, h is Planck's constant, and f is the frequency of the light. As the frequency increases, the energy per photon increases, but it does not necessarily mean that the number of photons increases unless the power of the light also increases proportionally. <strong>Reason R:</strong> Maximum kinetic energy of emitted electrons increases with the frequency of incident radiation. This statement is correct. According to the photoelectric effect, the maximum kinetic energy of emitted electrons is given by: K.E_\\textmax = hf - \\phi where K.E_\\textmax is the maximum kinetic energy of the emitted electrons, h is Planck's constant, f is the frequency of the incident radiation, and \\phi is the work function of the material. As the frequency of the incident light increases, the kinetic energy of the emitted electrons increases. Now, let's match the statements with the options given: <strong>Option A:</strong> \\mathbfA is not correct but \\mathbfR is correct. This option is correct because Assertion A is incorrect while Reason R is correct. <strong>Option B:</strong> \\mathbfA is correct but \\mathbfR is not correct. This option is incorrect because Assertion A is not correct. <strong>Option C:</strong> Both \\mathbfA and \\mathbfR are correct and \\mathbfR is the correct explanation of \\mathbfA. This option is incorrect because Assertion A is not correct. <strong>Option D:</strong> Both \\mathbfA and \\mathbfR are correct and \\mathbfR is NOT the correct explanation of \\mathbfA. This option is incorrect because Assertion A is not correct. Therefore, the most appropriate answer is: <strong>Option A:</strong> \\mathbfA is not correct but \\mathbfR is correct.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>When UV light of wavelength $$300 ~nm$$ is incident on the metal surface having work function $$2.13 ~eV$$, electron emission takes place. The stopping potential is :</p> <p>(Given hc $$=1240 ~eV ~nm$$ )</p>",
+      "question": "When UV light of wavelength 300 nm is incident on the metal surface having work function 2.13 eV, electron emission takes place. The stopping potential is : (Given hc =1240 eV nm )",
       "options": {
         "A": "4 V",
         "B": "2 V",
@@ -1183,14 +1093,14 @@
         "D": "1.5 V"
       },
       "answer": "B",
-      "solution": "<p>To find the stopping potential ($V_s$) when UV light of wavelength $300 $ nm is incident on a metal surface with a work function of $2.13$ eV, we can use the photoelectric equation which relates the energy of the incident photons, the work function of the metal, and the kinetic energy of the emitted electrons.</p> <p>The energy (E) of the photons can be calculated using the equation:</p> <p>$E = \\frachc\\lambda$</p> <p>where $h$ is the Planck constant, $c$ is the speed of light, and $\\lambda$ is the wavelength of the incident light. Given that $hc = 1240 $ eV nm, we can calculate the energy of the UV light photons directly.</p> <p>Substituting $hc = 1240 $ eV nm and $\\lambda = 300 $ nm into the equation gives:</p> <p>$E = \\frac\u2081\u2082\u2084\u2080 \\, \\texteV nm\u2083\u2080\u2080 \\, \\textnm = 4.13 \\, \\texteV$</p> <p>Next, we can calculate the maximum kinetic energy of the emitted electrons using the photoelectric effect equation:</p> <p>$K_max = E - \\phi$</p> <p>where $K_max$ is the maximum kinetic energy of the emitted electrons, $E$ is the energy of the incident photons, and $\\phi$ is the work function of the metal.</p> <p>Given $E = 4.13$ eV and the work function $\\phi = 2.13$ eV, we have:</p> <p>$K_max = 4.13 \\, \\texteV - 2.13 \\, \\texteV = 2 \\, \\texteV$</p> <p>The stopping potential ($V_s$) is related to the maximum kinetic energy of the emitted electrons by the equation:</p> <p>$K_max = eV_s$</p> <p>where $e$ is the elementary charge (the charge of an electron), and $V_s$ is the stopping potential. Since $e = 1$ when using energy in eV and potential in volts, the stopping potential $V_s$ can be directly equated to the kinetic energy in eV:</p> <p>$V_s = K_max = 2 \\, \\textV$</p> <p>Therefore, the stopping potential is $2$ V, which corresponds to Option B.</p>",
+      "solution": "To find the stopping potential (V_s) when UV light of wavelength 300 nm is incident on a metal surface with a work function of 2.13 eV, we can use the photoelectric equation which relates the energy of the incident photons, the work function of the metal, and the kinetic energy of the emitted electrons. The energy (E) of the photons can be calculated using the equation: E = \\frachc\\lambda where h is the Planck constant, c is the speed of light, and \\lambda is the wavelength of the incident light. Given that hc = 1240 eV nm, we can calculate the energy of the UV light photons directly. Substituting hc = 1240 eV nm and \\lambda = 300 nm into the equation gives: E = \\frac\u2081\u2082\u2084\u2080 \\, \\texteV nm\u2083\u2080\u2080 \\, \\textnm = 4.13 \\, \\texteV Next, we can calculate the maximum kinetic energy of the emitted electrons using the photoelectric effect equation: K_max = E - \\phi where K_max is the maximum kinetic energy of the emitted electrons, E is the energy of the incident photons, and \\phi is the work function of the metal. Given E = 4.13 eV and the work function \\phi = 2.13 eV, we have: K_max = 4.13 \\, \\texteV - 2.13 \\, \\texteV = 2 \\, \\texteV The stopping potential (V_s) is related to the maximum kinetic energy of the emitted electrons by the equation: K_max = eV_s where e is the elementary charge (the charge of an electron), and V_s is the stopping potential. Since e = 1 when using energy in eV and potential in volts, the stopping potential V_s can be directly equated to the kinetic energy in eV: V_s = K_max = 2 \\, \\textV Therefore, the stopping potential is 2 V, which corresponds to Option B.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>In photoelectric experiment energy of $$2.48 ~eV$$ irradiates a photo sensitive material. The stopping potential was measured to be $$0.5 ~V$$. Work function of the photo sensitive material is :</p>",
+      "question": "In photoelectric experiment energy of 2.48 eV irradiates a photo sensitive material. The stopping potential was measured to be 0.5 V. Work function of the photo sensitive material is :",
       "options": {
         "A": "1.98 eV",
         "B": "1.68 eV",
@@ -1198,37 +1108,37 @@
         "D": "0.5 eV"
       },
       "answer": "A",
-      "solution": "<p>To find the work function of the photo sensitive material, we can use the photoelectric equation which relates the kinetic energy of the ejected electrons to the photon energy and the work function ($\\phi$) of the material:</p> <p>$KE_\\textmax = h\\nu - \\phi$</p> <p>Where $KE_\\textmax$ is the maximum kinetic energy of the ejected electrons, $h\\nu$ is the energy of the incoming photon, and $\\phi$ is the work function of the material.</p> <p>However, the kinetic energy of the ejected electrons can also be related to the stopping potential ($V_s$) by the equation:</p> <p>$KE_\\textmax = e \\cdot V_s$</p> <p>Substituting this into the first equation gives:</p> <p>$e \\cdot V_s = h\\nu - \\phi$</p> <p>Here, $e$ is the charge of an electron ($1.6 \\times 10^-19 \\, \\textC$), but since we are dealing with energies in electronvolts (eV), and $1 \\, \\texteV = 1.6 \\times 10^-19 \\, \\textJ$, we can directly use the values given without converting the units:</p> <p>$\\phi = h\\nu - e \\cdot V_s$</p> <p>Where $h\\nu = 2.48 \\, \\texteV$ is the energy of the irradiating photons, and $V_s = 0.5 \\, \\textV$.</p> <p>Substituting these values in, we get:</p> <p>$\\phi = 2.48 \\, \\texteV - 0.5 \\, \\texteV = 1.98 \\, \\texteV$</p> <p>Therefore, the work function ($\\phi$) of the photo sensitive material is $1.98 \\, \\texteV$, which corresponds to Option A.</p>",
+      "solution": "To find the work function of the photo sensitive material, we can use the photoelectric equation which relates the kinetic energy of the ejected electrons to the photon energy and the work function (\\phi) of the material: KE_\\textmax = h\\nu - \\phi Where KE_\\textmax is the maximum kinetic energy of the ejected electrons, h\\nu is the energy of the incoming photon, and \\phi is the work function of the material. However, the kinetic energy of the ejected electrons can also be related to the stopping potential (V_s) by the equation: KE_\\textmax = e \u00b7 V_s Substituting this into the first equation gives: e \u00b7 V_s = h\\nu - \\phi Here, e is the charge of an electron (1.6 \u00d7 10^-19 \\, \\textC), but since we are dealing with energies in electronvolts (eV), and 1 \\, \\texteV = 1.6 \u00d7 10^-19 \\, \\textJ, we can directly use the values given without converting the units: \\phi = h\\nu - e \u00b7 V_s Where h\\nu = 2.48 \\, \\texteV is the energy of the irradiating photons, and V_s = 0.5 \\, \\textV. Substituting these values in, we get: \\phi = 2.48 \\, \\texteV - 0.5 \\, \\texteV = 1.98 \\, \\texteV Therefore, the work function (\\phi) of the photo sensitive material is 1.98 \\, \\texteV, which corresponds to Option A.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>A convex lens of focal length $$40 ~cm$$ forms an image of an extended source of light on a photoelectric cell. A current I is produced. The lens is replaced by another convex lens having the same diameter but focal length $$20 ~cm$$. The photoelectric current now is :</p>",
+      "question": "A convex lens of focal length 40 cm forms an image of an extended source of light on a photoelectric cell. A current I is produced. The lens is replaced by another convex lens having the same diameter but focal length 20 cm. The photoelectric current now is :",
       "options": {
-        "A": "$$\\fracI\u2082$$",
+        "A": "\\fracI\u2082",
         "B": "4 I",
         "C": "2 I",
         "D": "I"
       },
       "answer": "D",
-      "solution": "<p>As amount of energy incident on cell is same so current will remain same.</p>",
+      "solution": "As amount of energy incident on cell is same so current will remain same.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "Consider a spherical shell of radius $$R$$ at temperature $$T$$. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume $$u = U \\over V\\, \\propto \\,T^4$$ and pressure $$p = 1 \\over 3\\left( U \\over V \\right)$$ . If the shell now undergoes an adiabatic expansion the relation between $$T$$ and $$R$$ is:",
+      "question": "Consider a spherical shell of radius R at temperature T. The black body radiation inside it can be considered as an ideal gas of photons with internal energy per unit volume u = U \\over V\\, \\propto \\,T^4 and pressure p = 1 \\over 3\\left( U \\over V \\right) . If the shell now undergoes an adiabatic expansion the relation between T and R is:",
       "options": {
-        "A": "$$T\\, \\propto 1 \\over R$$",
-        "B": "$$T\\, \\propto 1 \\over R^3$$",
-        "C": "$$T\\, \\propto \\,e^ - R$$",
-        "D": "$$T\\, \\propto \\,e^ - 3R$$"
+        "A": "T\\, \\propto 1 \\over R",
+        "B": "T\\, \\propto 1 \\over R^3",
+        "C": "T\\, \\propto \\,e^ - R",
+        "D": "T\\, \\propto \\,e^ - 3R"
       },
       "answer": "A",
-      "solution": "As, $$P = 1 \\over 3\\left( U \\over V \\right)$$ <br><br>But $$\\,\\,\\,\\,$$ $$U \\over V = KT^4$$ <br><br>So, $$\\,\\,\\,\\,\\,P = 1 \\over 3KT^4$$ <br><br>or $$\\,\\,\\,\\,uRT \\over V = 1 \\over 3KT^4\\,\\,\\,\\,$$ <br><br>$$\\left[ \\, \\right.$$ As $$PV = uRT$$ $$\\left. \\, \\right]$$ <br><br>$$4 \\over 3\\pi R^3T^3 = $$ $$constant$$ <br><br>$$\\therefore$$ $$\\,\\,\\,\\,$$ $$T \\propto 1 \\over R$$",
+      "solution": "As, P = 1 \\over 3\\left( U \\over V \\right) <br><br>But \\,\\,\\,\\, U \\over V = KT^4 <br><br>So, \\,\\,\\,\\,\\,P = 1 \\over 3KT^4 <br><br>or \\,\\,\\,\\,uRT \\over V = 1 \\over 3KT^4\\,\\,\\,\\, <br><br>\\left[ \\, \\right. As PV = uRT \\left. \\, \\right] <br><br>4 \\over 3\\pi R^3T^3 = constant <br><br>\\therefore \\,\\,\\,\\, T \\propto 1 \\over R",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Physics",
@@ -1243,7 +1153,7 @@
         "D": "71mT"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2086\u2082\u2088/exam_images/l\u2082\u2085ezovimqa\u2088tuewplkj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Magnetic Effect of Current Question 131 English Explanation\"> <br><br>K.E = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1 MeV = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ 10<sup>6</sup> = $$1 \\over 2$$ $$ \\times $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ v<sup>2</sup> <br><br>$$ \\Rightarrow $$ v = $$\\sqrt 2 \\times 10^7$$ m/s <br><br>F<sub>m</sub> = qvB sin$$\\theta $$ <br><br>$$ \\Rightarrow $$ F<sub>m</sub> = qvB [as $$\\theta $$ = 90<sup>o</sup>] <br><br>$$ \\Rightarrow $$ ma = Bev <br><br>$$ \\Rightarrow $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ 10<sup>12</sup> = 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ $$\\sqrt 2 \\times 10^7$$ $$ \\times $$ B <br><br>$$ \\Rightarrow $$ B = 0.71 mJ",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2086\u2082\u2088/exam_images/l\u2082\u2085ezovimqa\u2088tuewplkj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Magnetic Effect of Current Question 131 English Explanation\"> <br><br>K.E = 1 \\over 2mv^2 <br><br> \\Rightarrow 1 MeV = 1 \\over 2mv^2 <br><br> \\Rightarrow 1.6 \u00d7 10<sup>-19</sup> \u00d7 10<sup>6</sup> = 1 \\over 2 \u00d7 1.6 \u00d7 10<sup>\u201327</sup> \u00d7 v<sup>2</sup> <br><br> \\Rightarrow v = \\sqrt 2 \u00d7 10^7 m/s <br><br>F<sub>m</sub> = qvB sin\\theta <br><br> \\Rightarrow F<sub>m</sub> = qvB [as \\theta = 90<sup>o</sup>] <br><br> \\Rightarrow ma = Bev <br><br> \\Rightarrow 1.6 \u00d7 10<sup>\u201327</sup> \u00d7 10<sup>12</sup> = 1.6 \u00d7 10<sup>-19</sup> \u00d7 \\sqrt 2 \u00d7 10^7 \u00d7 B <br><br> \\Rightarrow B = 0.71 mJ",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1258,14 +1168,14 @@
         "D": "h<sup>2</sup> G<sup>3/2</sup> c<sup>1/3</sup> A<sup>\\\u20131</sup>"
       },
       "answer": "B",
-      "solution": "V<sub>0</sub> $$ \\propto $$ h<sup>P</sup>c<sup>Q</sup>G<sup>R</sup>I<sup>S</sup> <br><br>[V<sub>0</sub>] = [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20133</sup>A<sup>\\\u20131</sup>] <br><br>[c] = [L<sup>1</sup>T<sup>\\\u20131</sup>] <br><br>[h] = [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20131</sup>] <br><br>[G] = [M<sup>\\\u20131</sup>L<sup>3</sup>T<sup>\\\u20132</sup>] <br><br>[I] = [A] <br><br>$$ \\therefore $$ [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20133</sup>A<sup>\\\u20131</sup>] = [M<sup>P\\\u2013R</sup> L<sup>2P+Q+3R</sup> T<sup>\\\u2013P\\\u2013Q\\\u20132R</sup> A<sup>S</sup>] <br><br>Comparing dimension of M, L, T, A, we get <br><br>P \\\u2013 R = 1 ; 2P + Q + 3R = 2 <br><br>\\\u2013 P \\\u2013 Q \\\u2013 2R = \\\u2013 3 ; S = \\\u2013 1 <br><br>$$ \\Rightarrow $$ P = 0, Q = 5, R = \\\u20131, S = \\\u20131 <br><br>$$ \\therefore $$ V<sub>0</sub> $$ \\propto $$ h<sup>0</sup> c<sup>5</sup> G<sup>-1</sup> A<sup>-1</sup>",
+      "solution": "V<sub>0</sub> \\propto h<sup>P</sup>c<sup>Q</sup>G<sup>R</sup>I<sup>S</sup> <br><br>[V<sub>0</sub>] = [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20133</sup>A<sup>\\\u20131</sup>] <br><br>[c] = [L<sup>1</sup>T<sup>\\\u20131</sup>] <br><br>[h] = [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20131</sup>] <br><br>[G] = [M<sup>\\\u20131</sup>L<sup>3</sup>T<sup>\\\u20132</sup>] <br><br>[I] = [A] <br><br> \\therefore [M<sup>1</sup>L<sup>2</sup>T<sup>\\\u20133</sup>A<sup>\\\u20131</sup>] = [M<sup>P\\\u2013R</sup> L<sup>2P+Q+3R</sup> T<sup>\\\u2013P\\\u2013Q\\\u20132R</sup> A<sup>S</sup>] <br><br>Comparing dimension of M, L, T, A, we get <br><br>P \\\u2013 R = 1 ; 2P + Q + 3R = 2 <br><br>\\\u2013 P \\\u2013 Q \\\u2013 2R = \\\u2013 3 ; S = \\\u2013 1 <br><br> \\Rightarrow P = 0, Q = 5, R = \\\u20131, S = \\\u20131 <br><br> \\therefore V<sub>0</sub> \\propto h<sup>0</sup> c<sup>5</sup> G<sup>-1</sup> A<sup>-1</sup>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Match List I with List II</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 669px\"> <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 249px\"/> <col style=\"width: 45px\"/> <col style=\"width: 325px\"/> </colgroup> <thead> <tr> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-c\u2083ow\">A.</td> <td class=\"tg-0pky\">Young's Modulus (Y)</td> <td class=\"tg-c\u2083ow\">I.</td> <td class=\"tg-0pky\">$$[ML^-1T^-1]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">B.</td> <td class=\"tg-0pky\">Co-efficient of Viscosity ($$\\eta$$)</td> <td class=\"tg-c\u2083ow\">II.</td> <td class=\"tg-0pky\">$$[ML^2T^-1]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">C.</td> <td class=\"tg-0pky\">Planck's Constant (h)</td> <td class=\"tg-c\u2083ow\">III.</td> <td class=\"tg-0pky\">$$[ML^-1T^-2]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">D.</td> <td class=\"tg-0pky\">Work function ($$\\varphi $$)</td> <td class=\"tg-c\u2083ow\">IV.</td> <td class=\"tg-0pky\">$$[ML^2T^-2]$$</td> </tr> </tbody> </table></p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "Match List I with List II .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 249px\"/> <col style=\"width: 45px\"/> <col style=\"width: 325px\"/> </colgroup> <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </thead> <tbody> A. Young's Modulus (Y) I. [ML^-1T^-1] B. Co-efficient of Viscosity (\\eta) II. [ML^2T^-1] C. Planck's Constant (h) III. [ML^-1T^-2] D. Work function (\\varphi ) IV. [ML^2T^-2] </tbody> Choose the correct answer from the options given below :",
       "options": {
         "A": "-II, B-III, C-IV, D-I",
         "B": "A-I, B-II, C-III, D-IV",
@@ -1273,7 +1183,7 @@
         "D": "A-III, B-I, C-II, D-IV"
       },
       "answer": "D",
-      "solution": "$$ \\beginaligned & Y=\\frac\\text Stress \\text Strain =\\fracF / A\\Delta \\ell / \\ell=\\frac\\left[MLT^-2\\right]\\left[L^2\\right]=\\left[ML^-1 ~T^-2\\right] \\\\\\\\ & F=6 \\pi \\eta rv \\Rightarrow \\eta=\\fracF\u2086 \\pi rv \\\\\\\\ & [\\eta]=\\frac\\left[MLT^-2\\right][L]\\left[LT^-1\\right]=\\left[ML^-1 ~T^-1\\right] \\\\\\\\ & E=h v \\Rightarrow h=\\fracEv=\\frac\\left[ML^2 ~T^-2\\right]\\left[T^-1\\right]=\\left[ML^2 ~T^-1\\right] \\endaligned $$<br/><br/> Work function has same dimension as that of energy, so $[\\phi]=\\left[ML^2 ~T^-2\\right]$",
+      "solution": "\\beginaligned & Y=\\frac\\text Stress \\text Strain =\\fracF / A\\Delta \\ell / \\ell=\\frac\\left[MLT^-2\\right]\\left[L^2\\right]=\\left[ML^-1 T^-2\\right] \\\\\\\\ & F=6 \\pi \\eta rv \\Rightarrow \\eta=\\fracF\u2086 \\pi rv \\\\\\\\ & [\\eta]=\\frac\\left[MLT^-2\\right][L]\\left[LT^-1\\right]=\\left[ML^-1 T^-1\\right] \\\\\\\\ & E=h v \\Rightarrow h=\\fracEv=\\frac\\left[ML^2 T^-2\\right]\\left[T^-1\\right]=\\left[ML^2 T^-1\\right] \\endaligned <br/><br/> Work function has same dimension as that of energy, so [\\phi]=\\left[ML^2 T^-2\\right]",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",

@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Organisms and Populations",
-  "total_questions": 67,
+  "total_questions": 61,
   "questions": [
     {
       "question": "[NEET 2020 | Biology] The logistic growth model is represented by the equation:",
@@ -12,7 +12,7 @@
         "D": "N = K/(1+e^(\\u\u2082\u2082\u2081\u2082rt))"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K** --- ## Step-by-Step Explanation ### What is Logistic Growth? Logistic growth occurs when a population grows **exponentially at first**, but then **slows down** as it approaches the **carrying capacity (K)** of the environment. ### Breaking Down Option (B): dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K | Component | Meaning | |-----------|---------| | **dN/dt** | Rate of population change | | **r** | Intrinsic rate of increase | | **N** | Population size at time t | | **K** | Carrying capacity (maximum population) | | **(K\\u\u2082\u2082\u2081\u2082N)/K** | Environmental resistance factor | ### Why This Equation Makes Sense: **When N is small** (far from K): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2081 - dN/dt \\u\u2082\u2082\u2084\u2088 rN (exponential growth) **When N approaches K** (near carrying capacity): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2080 - dN/dt \\u\u2082\u2082\u2084\u2088\u2080 (growth slows down) **When N = K** (at carrying capacity): - dN/dt = 0 (no growth) --- ## Why Other Options are Wrong: | Option | Why Wrong | |--------|-----------| | **(A)** | This is **exponential growth** (no carrying capacity limit). Ignores environmental resistance. | | **(C)** | This is the **solution to exponential growth**, not logistic growth | | **(D)** | This is one possible **integrated solution** to the logistic equation under specific initial conditions (N\\u\u2082\u2080\u2088\u2080 << K), but not the standard differential equation | --- ## Key Formula to Remember: **Logistic Growth Differential Equation:** $$\\boxed\\fracdNdt = rN\\frac(K-N)K$$ This is the **Verhulst model** taught in NCERT Class 12 Biology (Chapter: Organisms and Populations).",
+      "solution": "# Answer: **(B) dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K** --- ## Step-by-Step Explanation ### What is Logistic Growth? Logistic growth occurs when a population grows **exponentially at first**, but then **slows down** as it approaches the **carrying capacity (K)** of the environment. ### Breaking Down Option (B): dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K | Component | Meaning | |-----------|---------| | **dN/dt** | Rate of population change | | **r** | Intrinsic rate of increase | | **N** | Population size at time t | | **K** | Carrying capacity (maximum population) | | **(K\\u\u2082\u2082\u2081\u2082N)/K** | Environmental resistance factor | ### Why This Equation Makes Sense: **When N is small** (far from K): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2081 - dN/dt \\u\u2082\u2082\u2084\u2088 rN (exponential growth) **When N approaches K** (near carrying capacity): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2080 - dN/dt \\u\u2082\u2082\u2084\u2088\u2080 (growth slows down) **When N = K** (at carrying capacity): - dN/dt = 0 (no growth) --- ## Why Other Options are Wrong: | Option | Why Wrong | |--------|-----------| | **(A)** | This is **exponential growth** (no carrying capacity limit). Ignores environmental resistance. | | **(C)** | This is the **solution to exponential growth**, not logistic growth | | **(D)** | This is one possible **integrated solution** to the logistic equation under specific initial conditions (N\\u\u2082\u2080\u2088\u2080 << K), but not the standard differential equation | --- ## Key Formula to Remember: **Logistic Growth Differential Equation:** \\boxed\\fracdNdt = rN\\frac(K-N)K This is the **Verhulst model** taught in NCERT Class 12 Biology (Chapter: Organisms and Populations).",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -30,21 +30,6 @@
       "solution": "# Answer: **(B) Lichen is mutualism** --- ## Why This Is Correct \\u\u2082\u2087\u2081\u2083 **Lichens** are composite organisms formed by a **symbiotic association between**: - **Algae or Cyanobacteria** (photosynthetic partner) - **Fungus** (structural partner) **Benefits to both partners:** | Partner | Benefit | |---------|---------| | **Algae/Cyanobacteria** | Protected from harsh conditions; access to water and minerals | | **Fungus** | Food (carbohydrates) from photosynthesis | This is a **textbook example of MUTUALISM** where both organisms benefit equally. --- ## Why Others Are Wrong \\u\u2082\u2087\u2081\u2087 | Option | Issue | |--------|-------| | **(A) Mycorrhizae = commensalism** | Mycorrhizae are **mutualism**, not commensalism. Both fungi and plant roots benefit mutually. | | **(C) Bare rock colonisation** | While this IS primary succession, the statement is incomplete/vague compared to option B's clarity. | | **(D) Predation = symbiosis** | **False relationship.** Predation is antagonistic (+/\\u\u2082\u2082\u2081\u2082), not symbiosis. Symbiosis requires organisms living together beneficially. | --- ## Key Formula to Remember **Types of Symbiosis:** - **Mutualism:** (+/+) Both benefit \\u\u2082\u2081\u2089\u2082 Lichen, Mycorrhizae, Nitrogen-fixing bacteria in legumes - **Commensalism:** (+/0) One benefits, other unaffected \\u\u2082\u2081\u2089\u2082 Remoras on sharks - **Parasitism:** (+/\\u\u2082\u2082\u2081\u2082) One benefits, other harmed \\u\u2082\u2081\u2089\u2082 Tapeworms, mosquitoes - **Predation:** (+/\\u\u2082\u2082\u2081\u2082) Not symbiosis; one kills the other",
       "exam": "NEET 2016",
       "year": 2016,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "Which of following organisms cannot fix nitrogen? A. Azotobacter B. Oscillatoria C. Anabaena D. Volvox E. Nostoc Choose the correct answer from the options given below:",
-      "options": {
-        "A": "B only",
-        "B": "E only",
-        "C": "A only",
-        "D": "only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) B only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
       "subject": "Biology",
       "chapter": "Organisms and Populations"
     },
@@ -124,7 +109,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "A gene locus has two alleles A, a. If the frequency of dominant allele A is 0.4, then what will be the frequency of homozygous dominant, heterozygous and homozygous recessive individuals in the population?",
+      "question": "gene locus has two alleles A, a. If the frequency of dominant allele A is 0.4, then what will be the frequency of homozygous dominant, heterozygous and homozygous recessive individuals in the population?",
       "options": {
         "A": "0.36(AA); 0.48(Aa); 0.16(aa)",
         "B": "0.16(AA); 0.24(Aa); 0.36(aa)",
@@ -314,21 +299,6 @@
       "answer": "A",
       "solution": "**Correct Answer: (A) Orchid and the tree on which it grows** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2023",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "Which one of the following pairs of organisms are exotic species introduced in India?",
-      "options": {
-        "A": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2084\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e, \\U\u2080\u2080\u2080\u2081d\u2084\u2083f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e",
-        "B": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e, water hyacinth",
-        "C": "Water hyacinth, \\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e",
-        "D": "Nile perch, \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2084\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) Water hyacinth, \\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Organisms and Populations"
@@ -604,21 +574,6 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "the example of",
-      "options": {
-        "A": "Fungistasis",
-        "B": "Amensalism",
-        "C": "Antibiosis",
-        "D": "Mutualism Two ways to go deeper on this chapter Choose your next step \\U\u2080\u2080\u2080\u2081f\u2084d\u2086 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u\u2082\u2081\u2089\u2082 \\u\u2082\u2086a\u2081 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u\u2082\u2082\u2081\u2082\u2081 marking, countdown timer. Free in the app. Generate \\u\u2082\u2081\u2089\u2082"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) Fungistasis** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
       "question": "a logistic growth curve is obtained when",
       "options": {
         "A": "The value of 'r' approaches zero",
@@ -673,21 +628,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Mortality** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "be represented as :",
-      "options": {
-        "A": "( + ) ; Species",
-        "B": "( + )",
-        "C": "Species",
-        "D": "Species"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) ( + ) ; Species** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -928,36 +868,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Female wasp and fig** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "NEET 2026 (1) Choose the correct statements regarding population interactions between two species. A. In both parasitism and commensalism, only one species benefits and the other species is harmed. B. Both species benefit in mutualism. C. Both species benefit in commensalism. D. In parasitism, only one species benefits and the other species is harmed. E. In amensalism, one species is harmed and the other is unaffected. Choose the correct answer from the options given below: (NEET 2026)",
-      "options": {
-        "A": "B and E only",
-        "B": "only",
-        "C": "B,",
-        "D": "only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) B and E only** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "List-I with List-II: List-IA. Both species are harmed B. One species is harmed and the other is benefited C. Both species are benefited D. One is benefited while the other has no effect List-II I. Predation II. Mutualism III. Competition IV. Commensalism Choose the correct answer from the options given below:",
-      "options": {
-        "A": "-III, B-IV, C-II, D-I",
-        "B": "A-I, B-II, C-III, D-IV",
-        "C": "A-II, B-I, C-IV, D-III",
-        "D": "A-III, B-I, C-II, D-IV Want more Organisms and Populations questions? MedicNEET has 27,000+ NEET-style questions across Physics, Chemistry & Biology with detailed NCERT-based explanations \\\u2014 including the long, tricky questions that actually come in the exam. Download MedicNEET App \\\u2014 Free 4 more past question s on topics removed from the NEET 2027 syllabus These appeared in older NEET papers but cover Organisms and Populations topics that have since been rationalised out of the syllabus. Useful for revision, but not part of the current NEET 2027 syllabus."
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A. A-III, B-IV, C-II, D-I** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",

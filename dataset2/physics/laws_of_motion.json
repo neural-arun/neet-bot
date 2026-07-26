@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Laws of Motion",
-  "total_questions": 49,
+  "total_questions": 46,
   "questions": [
     {
       "question": "What is the average retarding force on the three-wheeler and the driver when the vehicle comes to a stop in 4.0 seconds to save the child, given that the three-wheeler's mass is 400 kg and the driver's mass is 65 kg?",
@@ -13,21 +13,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1162.5 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Laws of Motion"
-    },
-    {
-      "question": "The coefficient of static friction $\\mu_8$, between block $A$ of mass $2 ~kg$ and the table as shown in the figure is 0.2 . What would be the maximum mass value of block B so that the two blocks do not move? The string and the pulley are assumed to be smooth and massless $(g$ $\\left.=10 ~m / s^2\\right)$",
-      "options": {
-        "A": "$",
-        "B": "0 ~kg$",
-        "C": "0 ~kg$",
-        "D": "2 ~kg$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to the question $$ T=m_B q=\\mu\\left(m_A q\\right) $$ $$ \\beginaligned \\Rightarrow \\quad m_B & =\\mu m_A=0.02 \\times 2 \\\\ & =0.4 ~kg \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -49,30 +34,15 @@
       "chapter": "Laws of Motion"
     },
     {
-      "question": "If the mass of A = 10 kg , coefficient of static friction = 0.22 , coefficient of kinetic friction = 0.2 , then the minimum mass of B to start motion is",
+      "question": "particle of mass 100 g tied to a string is rotated along the circle of radius 0 . 5 m . The breaking tension of the string is 10 N . The maximum speed with which particle can be rotated without breaking the string is",
       "options": {
-        "A": "2 kg",
-        "B": "2 kg",
-        "C": "8 kg",
-        "D": "4 kg"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let the minimum mass of B is MB . Force applied by it F = MB g Friction force on block A f = \u03bc MA g For motion to start MB g = \u03bc MA g MB = 0.22 \u00d7 10 = 2.2 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Laws of Motion"
-    },
-    {
-      "question": "A particle of mass 100 g tied to a string is rotated along the circle of radius 0 . 5 m . The breaking tension of the string is 10 N . The maximum speed with which particle can be rotated without breaking the string is",
-      "options": {
-        "A": "10 m s - 1",
-        "B": "8 m s - 1",
-        "C": "7 m s - 1",
+        "A": "10 m/s",
+        "B": "8 m/s",
+        "C": "7 m/s",
         "D": "07 m s -"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** F = m \u03c9 2 r = m v 2 r v = f . r m = 10 \u00d7 0 . 51 00 \u00d7 10 - 3 m s - 1 = 7.07 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** F = m \u03c9 2 r = m v 2 r v = f . r m = 10 \u00d7 0 . 51 00 \u00d7 10 - 3 m/s = 7.07 m/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -87,29 +57,14 @@
         "D": "Zero"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) F towards +q** ## Step-by-Step Reasoning **Step 1: Apply Coulomb's Law** The electrostatic force between two charges is: $$F = k\\frac|q_1||q_2|r^2$$ The magnitude is the same for both charges since they form an action-reaction pair. **Step 2: Determine the direction on +q** - Charge +q experiences a force FROM charge -q - Opposite charges *attract* \u2192 force on +q is **towards** the -q charge - This force has magnitude F **Step 3: Apply Newton's Third Law** Newton's third law states: *\"Action and reaction are equal and opposite\"* - Force on +q by -q = F (towards -q) - Force on -q by +q = F (towards +q) \u2713 ## Why Other Options Are Wrong | Option | Why it's wrong | |--------|---| | **(B) F away from +q** | This would violate Newton's 3rd law and the attractive nature of opposite charges | | **(C) 2F** | The magnitudes must be equal per Coulomb's law and Newton's 3rd law | | **(D) Zero** | There IS an electrostatic force between opposite charges | ## Key Concept to Remember > **Electrostatic forces always come in action-reaction pairs.** Both charges experience the same magnitude of force, but in opposite directions. For opposite charges, both forces are attractive (pointing toward each other).",
+      "solution": "# Answer: **(A) F towards +q** ## Step-by-Step Reasoning **Step 1: Apply Coulomb's Law** The electrostatic force between two charges is: F = k\\frac|q_1||q_2|r^2 The magnitude is the same for both charges since they form an action-reaction pair. **Step 2: Determine the direction on +q** - Charge +q experiences a force FROM charge -q - Opposite charges *attract* \u2192 force on +q is **towards** the -q charge - This force has magnitude F **Step 3: Apply Newton's Third Law** Newton's third law states: *\"Action and reaction are equal and opposite\"* - Force on +q by -q = F (towards -q) - Force on -q by +q = F (towards +q) \u2713 ## Why Other Options Are Wrong | Option | Why it's wrong | |--------|---| | **(B) F away from +q** | This would violate Newton's 3rd law and the attractive nature of opposite charges | | **(C) 2F** | The magnitudes must be equal per Coulomb's law and Newton's 3rd law | | **(D) Zero** | There IS an electrostatic force between opposite charges | ## Key Concept to Remember > **Electrostatic forces always come in action-reaction pairs.** Both charges experience the same magnitude of force, but in opposite directions. For opposite charges, both forces are attractive (pointing toward each other).",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A conveyor belt is moving at a constant speed of $2 ~m / s$. A box is gently dropped on it. The coefficient of friction between them is $\\mu=0.5$. The distance that the box will move relative to belt before coming to rest on it taking $g=10 ~ms^-2$, is",
-      "options": {
-        "A": "$",
-        "B": "2 ~m$",
-        "C": "6 ~m$ C zero",
-        "D": "4 ~m$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Force, $\\quad F=\\mu m g$ Retardation of the block on the belt $$ a=\\fracFm=\\frac\\mu m gm=\\mu g $$ From, $$ \\beginaligned v^2 & =u^2+2 a s \\\\ 0 & =(2)^2-2(\\mu g) s \\\\ s & =\\frac\u2084\u2082 \\times 0.5 \\times 10=0.4 ~m \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Laws of Motion"
-    },
-    {
-      "question": "<p>Two bodies A and B of masses 5 kg and 8 kg are moving such that the momentum of body B is twice that of the body A. The ratio of their kinetic energies will be :</p>",
+      "question": "Two bodies A and B of masses 5 kg and 8 kg are moving such that the momentum of body B is twice that of the body A. The ratio of their kinetic energies will be :",
       "options": {
         "A": "4 : 5",
         "B": "2 : 5",
@@ -117,59 +72,59 @@
         "D": "5 : 2"
       },
       "answer": "B",
-      "solution": "<p>Given,</p> <p>Mass of body A = 5 kg</p> <p>Mass of body B = 8 kg</p> <p>Momentum of body B is twice that of body A,</p> <p>$$\\therefore$$ $$P_B = 2P_A$$</p> <p>We know,</p> <p>Kinetic Energy $$(K) = P^2 \\over 2m$$</p> <p>$$\\therefore$$ $$K_A \\over K_B = \\left( P_A \\over P_B \\right)^2 \\times m_B \\over m_A$$</p> <p>$$ = \\left( 1 \\over 2 \\right)^2 \\times 8 \\over 5$$</p> <p>$$ = 1 \\over 4 \\times 8 \\over 5$$</p> <p>$$ = 2 \\over 5$$</p>",
+      "solution": "Given, Mass of body A = 5 kg Mass of body B = 8 kg Momentum of body B is twice that of body A, \\therefore P_B = 2P_A We know, Kinetic Energy (K) = P^2 \\over 2m \\therefore K_A \\over K_B = \\left( P_A \\over P_B \\right)^2 \u00d7 m_B \\over m_A = \\left( 1 \\over 2 \\right)^2 \u00d7 8 \\over 5 = 1 \\over 4 \u00d7 8 \\over 5 = 2 \\over 5",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>Two bodies of mass $$4 ~g$$ and $$25 ~g$$ are moving with equal kinetic energies. The ratio of magnitude of their linear momentum is :</p>",
+      "question": "Two bodies of mass 4 g and 25 g are moving with equal kinetic energies. The ratio of magnitude of their linear momentum is :",
       "options": {
-        "A": "$$3: 5$$",
-        "B": "$$5: 4$$",
-        "C": "$$2: 5$$",
-        "D": "$$4: 5$$"
+        "A": "3: 5",
+        "B": "5: 4",
+        "C": "2: 5",
+        "D": "4: 5"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & \\fracP_1^22 ~m_1=\\fracP_2^22 ~m_2 \\\\ & \\fracP_1P_2=\\sqrt\\fracm_1~m_2=\\frac\u2082\u2085 \\endaligned$$</p>",
+      "solution": "\\beginaligned & \\fracP_1^22 m_1=\\fracP_2^22 m_2 \\\\ & \\fracP_1P_2=\\sqrt\\fracm_1 m_2=\\frac\u2082\u2085 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A spherical body of mass $$100 ~g$$ is dropped from a height of $$10 ~m$$ from the ground. After hitting the ground, the body rebounds to a height of $$5 ~m$$. The impulse of force imparted by the ground to the body is given by : (given, $$g=9.8 ~m / s^2$$)</p>",
+      "question": "A spherical body of mass 100 g is dropped from a height of 10 m from the ground. After hitting the ground, the body rebounds to a height of 5 m. The impulse of force imparted by the ground to the body is given by : (given, g=9.8 m / s^2)",
       "options": {
-        "A": "$$43.2 ~kg ~ms^-1$$",
-        "B": "$$2.39 ~kg ~ms^-1$$",
-        "C": "$$4.32 ~kg ~ms^-1$$",
-        "D": "$$23.9 ~kg ~ms^-1$$"
+        "A": "43.2 kg ms^-1",
+        "B": "2.39 kg ms^-1",
+        "C": "4.32 kg ms^-1",
+        "D": "23.9 kg ms^-1"
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned \\vecI & =\\Delta \\vecP=\\vecP_f-\\vecP_i \\\\ M & =0.1 ~kg \\\\ I & =\\Delta P=0.1(\\sqrt\u2082 \\times 9.8 \\times 5-(-\\sqrt\u2082 \\times 9.8 \\times 10)) \\\\ & =0.1(14+7 \\sqrt\u2082) \\approx 2.39 ~kg ~ms^-1 \\endaligned$$</p>",
+      "solution": "\\beginaligned \\vecI & =\\Delta \\vecP=\\vecP_f-\\vecP_i \\\\ M & =0.1 kg \\\\ I & =\\Delta P=0.1(\\sqrt\u2082 \u00d7 9.8 \u00d7 5-(-\\sqrt\u2082 \u00d7 9.8 \u00d7 10)) \\\\ & =0.1(14+7 \\sqrt\u2082) \\approx 2.39 kg ms^-1 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A block of 200 g mass moves with a uniform speed in a horizontal circular groove, with vertical side walls of radius 20 cm. If the block takes 40 s to complete one round, the normal force by the side walls of the groove is :",
+      "question": "block of 200 g mass moves with a uniform speed in a horizontal circular groove, with vertical side walls of radius 20 cm. If the block takes 40 s to complete one round, the normal force by the side walls of the groove is :",
       "options": {
-        "A": "9.859 $$\\times$$ 10<sup>$$-$$2</sup> N",
+        "A": "9.859 \u00d7 10<sup>-2</sup> N",
         "B": "0.0314 N",
-        "C": "9.859 $$\\times$$ 10<sup>$$-$$4</sup> N",
-        "D": "6.28 $$\\times$$ 10<sup>$$-$$3</sup> N"
+        "C": "9.859 \u00d7 10<sup>-4</sup> N",
+        "D": "6.28 \u00d7 10<sup>-3</sup> N"
       },
       "answer": "C",
-      "solution": "Normal force will provide the necessary centripetal force.<br><br>$$ \\Rightarrow $$ N = m$$\\omega$$<sup>2</sup>R<br><br>Also, $$\\omega$$ = $$2\\pi \\over t$$<br><br>N = (0.2)$$\\left( 4\\pi ^2 \\over T^2 \\right)$$(0.2)<br><br>$$ \\Rightarrow $$ N = 0.2 $$\\times$$ $$4 \\times (3.14)^2 \\over (40)^2$$ $$\\times$$ 0.2<br><br>$$ \\therefore $$ N = 9.859 $$\\times$$ 10<sup>$$-$$4</sup> N",
+      "solution": "Normal force will provide the necessary centripetal force.<br><br> \\Rightarrow N = m\\omega<sup>2</sup>R<br><br>Also, \\omega = 2\\pi \\over t<br><br>N = (0.2)\\left( 4\\pi ^2 \\over T^2 \\right)(0.2)<br><br> \\Rightarrow N = 0.2 \u00d7 4 \u00d7 (3.14)^2 \\over (40)^2 \u00d7 0.2<br><br> \\therefore N = 9.859 \u00d7 10<sup>-4</sup> N",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "Statement I : A cyclist is moving on an unbanked road with a speed of 7 kmh<sup>$$-$$1</sup> and takes a sharp circular turn along a path of radius of 2m without reducing the speed. The static friction coefficient is 0.2. The cyclist will not slip and pass the curve. (g = 9.8 m/s<sup>2</sup>)<br/><br/>Statement II : If the road is banked at an angle of 45$$^\\circ$$, cyclist can cross the curve of 2m radius with the speed of 18.5 kmh<sup>$$-$$1</sup> without slipping.<br/><br/>In the light of the above statements, choose the correct answer from the options given below.",
+      "question": "Statement I : A cyclist is moving on an unbanked road with a speed of 7 kmh<sup>-1</sup> and takes a sharp circular turn along a path of radius of 2m without reducing the speed. The static friction coefficient is 0.2. The cyclist will not slip and pass the curve. (g = 9.8 m/s<sup>2</sup>)<br/><br/>Statement II : If the road is banked at an angle of 45^\\circ, cyclist can cross the curve of 2m radius with the speed of 18.5 kmh<sup>-1</sup> without slipping.<br/><br/>In the light of the above statements, choose the correct answer from the options given below.",
       "options": {
         "A": "Statement I is incorrect and statement II is correct",
         "B": "oth statement I and statement II are true",
@@ -177,14 +132,14 @@
         "D": "Both statement I and statement II are false"
       },
       "answer": "B",
-      "solution": "On a horizontal ground,<br><br>$$v_\\max = \\sqrt \\mu Rg = \\sqrt 0.2 \\times 2 \\times 9.8 = 1.97$$ m/s<br><br>= $$1.97 \\times 18 \\over 5$$<br><br>= 7.12 km/hr = 7.2 km/hr<br><br>Statement - 2<br><br>$$v_\\max = \\sqrt gr\\left( \\tan \\theta + \\mu \\over 1 - \\mu \\tan \\theta \\right) = \\sqrt 2 \\times 9.8 \\times 12 \\over 0.8 = 19.5$$ km/hr<br><br>$$v_\\min = \\sqrt rg\\left( \\tan \\theta - \\mu \\over 1 + \\mu \\tan \\theta \\right) = \\sqrt 2 \\times 9.8 \\times 0.8 \\over 1.2 = 12.01$$ km/hr",
+      "solution": "On a horizontal ground,<br><br>v_\\max = \\sqrt \\mu Rg = \\sqrt 0.2 \u00d7 2 \u00d7 9.8 = 1.97 m/s<br><br>= 1.97 \u00d7 18 \\over 5<br><br>= 7.12 km/hr = 7.2 km/hr<br><br>Statement - 2<br><br>v_\\max = \\sqrt gr\\left( \\tan \\theta + \\mu \\over 1 - \\mu \\tan \\theta \\right) = \\sqrt 2 \u00d7 9.8 \u00d7 12 \\over 0.8 = 19.5 km/hr<br><br>v_\\min = \\sqrt rg\\left( \\tan \\theta - \\mu \\over 1 + \\mu \\tan \\theta \\right) = \\sqrt 2 \u00d7 9.8 \u00d7 0.8 \\over 1.2 = 12.01 km/hr",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A stone of mass m, tied to a string is being whirled in a vertical circle with a uniform speed. The tension in the string is</p>",
+      "question": "A stone of mass m, tied to a string is being whirled in a vertical circle with a uniform speed. The tension in the string is",
       "options": {
         "A": "the same throughout the motion.",
         "B": "minimum at the highest position of the circular path.",
@@ -192,14 +147,14 @@
         "D": "minimum when the rope is in the horizontal position."
       },
       "answer": "B",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085l\u2086hdcv/7e\u2082\u2080\u2085\u2084d\u2086-02e\u2080-4296-bf\u2080\u2088-104db\u2087f\u2081\u2089\u2086ee/8256b\u2086f\u2080-0388-11ed-bfd\u2081-873560f\u2089d\u2089\u2086\u2080/file-1l\u2085l\u2086hdcw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085l\u2086hdcv/7e\u2082\u2080\u2085\u2084d\u2086-02e\u2080-4296-bf\u2080\u2088-104db\u2087f\u2081\u2089\u2086ee/8256b\u2086f\u2080-0388-11ed-bfd\u2081-873560f\u2089d\u2089\u2086\u2080/file-1l\u2085l\u2086hdcw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 24th June Evening Shift Physics - Circular Motion Question 31 English Explanation\"></p> <p>At any $$\\theta :T - mg\\cos \\theta = mv^2 \\over R$$</p> <p>$$ \\Rightarrow T = mg\\cos \\theta + mv^2 \\over R$$</p> <p>Since v is constant,</p> <p>$$\\Rightarrow$$ T will be minimum when cos$$\\theta$$ is minimum.</p> <p>$$\\Rightarrow$$ $$\\theta$$ = 180$$^\\circ$$ corresponds to T<sub>minimum</sub>.</p>",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085l\u2086hdcv/7e\u2082\u2080\u2085\u2084d\u2086-02e\u2080-4296-bf\u2080\u2088-104db\u2087f\u2081\u2089\u2086ee/8256b\u2086f\u2080-0388-11ed-bfd\u2081-873560f\u2089d\u2089\u2086\u2080/file-1l\u2085l\u2086hdcw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085l\u2086hdcv/7e\u2082\u2080\u2085\u2084d\u2086-02e\u2080-4296-bf\u2080\u2088-104db\u2087f\u2081\u2089\u2086ee/8256b\u2086f\u2080-0388-11ed-bfd\u2081-873560f\u2089d\u2089\u2086\u2080/file-1l\u2085l\u2086hdcw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 24th June Evening Shift Physics - Circular Motion Question 31 English Explanation\"> At any \\theta :T - mg\\cos \\theta = mv^2 \\over R \\Rightarrow T = mg\\cos \\theta + mv^2 \\over R Since v is constant, \\Rightarrow T will be minimum when cos\\theta is minimum. \\Rightarrow \\theta = 180^\\circ corresponds to T<sub>minimum</sub>.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A boy ties a stone of mass 100 g to the end of a 2 m long string and whirls it around in a horizontal plane. The string can withstand the maximum tension of 80 N. If the maximum speed with which the stone can revolve is $$K \\over \\pi $$ rev./min. The value of K is :</p> <p>(Assume the string is massless and unstretchable)</p>",
+      "question": "A boy ties a stone of mass 100 g to the end of a 2 m long string and whirls it around in a horizontal plane. The string can withstand the maximum tension of 80 N. If the maximum speed with which the stone can revolve is K \\over \\pi rev./min. The value of K is : (Assume the string is massless and unstretchable)",
       "options": {
         "A": "400",
         "B": "300",
@@ -207,59 +162,59 @@
         "D": "800"
       },
       "answer": "C",
-      "solution": "<p>$$T = m\\omega ^2r$$</p> <p>$$ \\Rightarrow 80 = 0.1 \\times \\left( 2\\pi \\times K \\over \\pi \\times 1 \\over 60 \\right)^2 \\times 2$$</p> <p>$$ \\Rightarrow 800 \\over 2 = K^2 \\over 900$$</p> <p>$$ \\Rightarrow K = 30 \\times 20 = 600$$</p>",
+      "solution": "T = m\\omega ^2r \\Rightarrow 80 = 0.1 \u00d7 \\left( 2\\pi \u00d7 K \\over \\pi \u00d7 1 \\over 60 \\right)^2 \u00d7 2 \\Rightarrow 800 \\over 2 = K^2 \\over 900 \\Rightarrow K = 30 \u00d7 20 = 600",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A stone of mass $1 ~kg$ is tied to end of a massless string of length $1 ~m$. If the breaking tension of the string is $400 ~N$, then maximum linear velocity, the stone can have without breaking the string, while rotating in horizontal plane, is :",
+      "question": "stone of mass 1 kg is tied to end of a massless string of length 1 m. If the breaking tension of the string is 400 N, then maximum linear velocity, the stone can have without breaking the string, while rotating in horizontal plane, is :",
       "options": {
-        "A": "$20 ~ms^-1$",
-        "B": "$40 ~ms^-1$",
-        "C": "$400 ~ms^-1$",
-        "D": "$10 ~ms^-1$"
+        "A": "20 ms^-1",
+        "B": "40 ms^-1",
+        "C": "400 ms^-1",
+        "D": "10 ms^-1"
       },
       "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lebeg\u2081j\u2080/b\u2088d\u2089\u2085c\u2087\u2082-61ba-4228-898f-b\u2088c\u2084\u2086\u2087\u2085e\u2087\u2081f\u2086/c\u2082\u2085\u2087\u2081\u2088b\u2080-b\u2080\u2085\u2085-11ed-b\u2081\u2087f-e\u2083e\u2086\u2087\u2089a\u2080\u2084\u2080\u2083\u2084/file-1lebeg\u2081j\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lebeg\u2081j\u2080/b\u2088d\u2089\u2085c\u2087\u2082-61ba-4228-898f-b\u2088c\u2084\u2086\u2087\u2085e\u2087\u2081f\u2086/c\u2082\u2085\u2087\u2081\u2088b\u2080-b\u2080\u2085\u2085-11ed-b\u2081\u2087f-e\u2083e\u2086\u2087\u2089a\u2080\u2084\u2080\u2083\u2084/file-1lebeg\u2081j\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 31st January Evening Shift Physics - Circular Motion Question 25 English Explanation\"> <br><br>$$ \\beginaligned & T \\sin \\theta=\\fracm v^2l \\sin \\theta \\\\\\\\ & \\cos \\theta=\\fracm gT ........(1) \\\\\\\\ & \\sin^2 \\theta=\\fracm v^2T l ........(2) \\endaligned $$ <br><br>From (1) and (2), <br><br>$1=\\left(\\fracm gT\\right)^2+\\fracm v^2T l$ <br><br>$$ \\Rightarrow $$ $1=\\left(\\frac\u2081\u2080\u2084\u2080\u2080\\right)^2+\\fracv^2400$ <br><br>$$ \\Rightarrow $$ $v^2=399.78$ <br><br>$$ \\Rightarrow $$ $v=20 ~m / s$",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lebeg\u2081j\u2080/b\u2088d\u2089\u2085c\u2087\u2082-61ba-4228-898f-b\u2088c\u2084\u2086\u2087\u2085e\u2087\u2081f\u2086/c\u2082\u2085\u2087\u2081\u2088b\u2080-b\u2080\u2085\u2085-11ed-b\u2081\u2087f-e\u2083e\u2086\u2087\u2089a\u2080\u2084\u2080\u2083\u2084/file-1lebeg\u2081j\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lebeg\u2081j\u2080/b\u2088d\u2089\u2085c\u2087\u2082-61ba-4228-898f-b\u2088c\u2084\u2086\u2087\u2085e\u2087\u2081f\u2086/c\u2082\u2085\u2087\u2081\u2088b\u2080-b\u2080\u2085\u2085-11ed-b\u2081\u2087f-e\u2083e\u2086\u2087\u2089a\u2080\u2084\u2080\u2083\u2084/file-1lebeg\u2081j\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 31st January Evening Shift Physics - Circular Motion Question 25 English Explanation\"> <br><br> \\beginaligned & T \\sin \\theta=\\fracm v^2l \\sin \\theta \\\\\\\\ & \\cos \\theta=\\fracm gT ........(1) \\\\\\\\ & \\sin^2 \\theta=\\fracm v^2T l ........(2) \\endaligned <br><br>From (1) and (2), <br><br>1=\\left(\\fracm gT\\right)^2+\\fracm v^2T l <br><br> \\Rightarrow 1=\\left(\\frac\u2081\u2080\u2084\u2080\u2080\\right)^2+\\fracv^2400 <br><br> \\Rightarrow v^2=399.78 <br><br> \\Rightarrow v=20 m / s",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A car is moving on a horizontal curved road with radius 50 m. The approximate maximum speed of car will be, if friction between tyres and road is 0.34. [take g = 10 ms$$^-2$$]</p>",
+      "question": "A car is moving on a horizontal curved road with radius 50 m. The approximate maximum speed of car will be, if friction between tyres and road is 0.34. [take g = 10 ms^-2]",
       "options": {
-        "A": "3.4 ms$$^-1$$",
-        "B": "13 ms$$^-1$$",
-        "C": "22.4 ms$$^-1$$",
-        "D": "17 ms$$^-1$$"
+        "A": "3.4 ms^-1",
+        "B": "13 ms^-1",
+        "C": "22.4 ms^-1",
+        "D": "17 ms^-1"
       },
       "answer": "B",
-      "solution": "$f_s=\\fracm v^2r$ <br/><br/> For maximum speed in safe turning, <br/><br/> $f_s=f_s \\max =\\mu mg$ <br/><br/> $v_\\max $ (for safe turning) $=\\sqrt\\mu rg$ <br/><br/> $=\\sqrt\u2080.34 \\times 50 \\times 10 \\approx 13 ~m / s$",
+      "solution": "f_s=\\fracm v^2r <br/><br/> For maximum speed in safe turning, <br/><br/> f_s=f_s \\max =\\mu mg <br/><br/> v_\\max (for safe turning) =\\sqrt\\mu rg <br/><br/> =\\sqrt\u2080.34 \u00d7 50 \u00d7 10 \\approx 13 m / s",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>If the radius of curvature of the path of two particles of same mass are in the ratio $$3: 4$$, then in order to have constant centripetal force, their velocities will be in the ratio of :</p>",
+      "question": "If the radius of curvature of the path of two particles of same mass are in the ratio 3: 4, then in order to have constant centripetal force, their velocities will be in the ratio of :",
       "options": {
-        "A": "$$1: \\sqrt\u2083$$",
-        "B": "$$2: \\sqrt\u2083$$",
-        "C": "$$\\sqrt\u2083: 2$$",
-        "D": "$$\\sqrt\u2083: 1$$"
+        "A": "1: \\sqrt\u2083",
+        "B": "2: \\sqrt\u2083",
+        "C": "\\sqrt\u2083: 2",
+        "D": "\\sqrt\u2083: 1"
       },
       "answer": "C",
-      "solution": "<p>Given $$m_1=m_2$$</p> <p>$$\\text and \\fracr_1r_2=\\frac\u2083\u2084$$</p> <p>As centripetal force $$F=\\fracmv^2r$$</p> <p>In order to have constant (same in this question) centripetal force</p> <p>$$\\beginaligned & F_1=F_2 \\\\ & \\fracm_1 v_1^2r_1=\\fracm_2 v_2^2r_2 \\\\ & \\Rightarrow \\fracv_1v_2=\\sqrt\\fracr_1r_2=\\frac\\sqrt\u2083\u2082 \\endaligned$$</p>",
+      "solution": "Given m_1=m_2 \\text and \\fracr_1r_2=\\frac\u2083\u2084 As centripetal force F=\\fracmv^2r In order to have constant (same in this question) centripetal force \\beginaligned & F_1=F_2 \\\\ & \\fracm_1 v_1^2r_1=\\fracm_2 v_2^2r_2 \\\\ & \\Rightarrow \\fracv_1v_2=\\sqrt\\fracr_1r_2=\\frac\\sqrt\u2083\u2082 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A stone of mass $$900 ~g$$ is tied to a string and moved in a vertical circle of radius $$1 ~m$$ making $$10 ~rpm$$. The tension in the string, when the stone is at the lowest point is (if $$\\pi^2=9.8$$ and $$g=9.8 ~m / s^2$$) :</p>",
+      "question": "A stone of mass 900 g is tied to a string and moved in a vertical circle of radius 1 m making 10 rpm. The tension in the string, when the stone is at the lowest point is (if \\pi^2=9.8 and g=9.8 m / s^2) :",
       "options": {
         "A": "17.8 N",
         "B": "97 N",
@@ -267,14 +222,14 @@
         "D": "8.82 N"
       },
       "answer": "C",
-      "solution": "<p>Given that</p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsr\u2087p\u2081jk/c\u2084\u2087a\u2088\u2089d\u2084-e\u2086\u2082\u2089-47c\u2086-95c\u2082-1f\u2082\u2080\u2088c\u2084\u2086\u2080\u2083e\u2080/ee\u2086d\u2084\u2088\u2081\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087p\u2081jl.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsr\u2087p\u2081jk/c\u2084\u2087a\u2088\u2089d\u2084-e\u2086\u2082\u2089-47c\u2086-95c\u2082-1f\u2082\u2080\u2088c\u2084\u2086\u2080\u2083e\u2080/ee\u2086d\u2084\u2088\u2081\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087p\u2081jl.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Evening Shift Physics - Circular Motion Question 6 English Explanation\"></p> <p>$$\\beginaligned & m=900 ~gm=\\frac\u2089\u2080\u2080\u2081\u2080\u2080\u2080 ~kg=\\frac\u2089\u2081\u2080 ~kg \\\\ & r=1 ~m \\\\ & \\omega=\\frac\u2082 \\pi N\u2086\u2080=\\frac\u2082 \\pi(10)\u2086\u2080=\\frac\\pi\u2083 rad / sec \\\\ & T-mg=mr \\omega^2 \\\\ & ~T=mg+mr \\omega^2 \\\\ & =\\frac\u2089\u2081\u2080 \\times 9.8+\\frac\u2089\u2081\u2080 \\times 1\\left(\\frac\\pi\u2083\\right)^2 \\\\ & =8.82+\\frac\u2089\u2081\u2080 \\times \\frac\\pi^29 \\\\ & =8.82+0.98 \\\\ & =9.80 ~N \\endaligned$$</p>",
+      "solution": "Given that <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsr\u2087p\u2081jk/c\u2084\u2087a\u2088\u2089d\u2084-e\u2086\u2082\u2089-47c\u2086-95c\u2082-1f\u2082\u2080\u2088c\u2084\u2086\u2080\u2083e\u2080/ee\u2086d\u2084\u2088\u2081\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087p\u2081jl.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsr\u2087p\u2081jk/c\u2084\u2087a\u2088\u2089d\u2084-e\u2086\u2082\u2089-47c\u2086-95c\u2082-1f\u2082\u2080\u2088c\u2084\u2086\u2080\u2083e\u2080/ee\u2086d\u2084\u2088\u2081\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087p\u2081jl.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Evening Shift Physics - Circular Motion Question 6 English Explanation\"> \\beginaligned & m=900 gm=\\frac\u2089\u2080\u2080\u2081\u2080\u2080\u2080 kg=\\frac\u2089\u2081\u2080 kg \\\\ & r=1 m \\\\ & \\omega=\\frac\u2082 \\pi N\u2086\u2080=\\frac\u2082 \\pi(10)\u2086\u2080=\\frac\\pi\u2083 rad / sec \\\\ & T-mg=mr \\omega^2 \\\\ & T=mg+mr \\omega^2 \\\\ & =\\frac\u2089\u2081\u2080 \u00d7 9.8+\\frac\u2089\u2081\u2080 \u00d7 1\\left(\\frac\\pi\u2083\\right)^2 \\\\ & =8.82+\\frac\u2089\u2081\u2080 \u00d7 \\frac\\pi^29 \\\\ & =8.82+0.98 \\\\ & =9.80 N \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A car of $$800 ~kg$$ is taking turn on a banked road of radius $$300 ~m$$ and angle of banking $$30^\\circ$$. If coefficient of static friction is 0.2 then the maximum speed with which car can negotiate the turn safely: $$(g=10 ~m / s^2, \\sqrt\u2083=1.73)$$</p>",
+      "question": "A car of 800 kg is taking turn on a banked road of radius 300 m and angle of banking 30^\\circ. If coefficient of static friction is 0.2 then the maximum speed with which car can negotiate the turn safely: (g=10 m / s^2, \\sqrt\u2083=1.73)",
       "options": {
         "A": "51.4 m/s",
         "B": "102.8 m/s",
@@ -282,14 +237,14 @@
         "D": "264 m/s"
       },
       "answer": "A",
-      "solution": "<p>When a car takes a turn on a banked road, the forces involved are the gravitational force, the normal force from the surface, and frictional force (if any). The net force provides the necessary centripetal force for the circular motion. The angle of banking and static friction contribute to the maximum speed the car can achieve without slipping.</p> <p>The forces acting on the car are as follows:</p> <p>1. The normal force ($$N$$) acts perpendicular to the surface of the road.</p> <p>2. Gravitational force ($$mg$$) acts downward.</p> <p>3. Frictional force ($$f$$), which can provide additional centripetal force if needed. It acts parallel to the surface of the road, towards the center of the circle.</p> <p>The normal force and the gravitational force components can be resolved into two directions: perpendicular and parallel to the road surface. The maximum speed is achieved when all available forces (normal, frictional) are utilized to provide the necessary centripetal force ($$F_c$$) without slipping.</p> <p>The centripetal force required for circular motion is given by:</p> <p>$F_c = \\fracmv^2r$</p> <p>Where:</p> <ul> <li>$$m$$ = mass of the car = $$800 kg$$</li> <li>$$v$$ = speed of the car</li> <li>$$r$$ = radius of the turn = $$300 m$$</li> </ul> <p>On a banked curve, the maximum velocity can be calculated using the formula:</p> <p>$v = \\sqrtrg(\\tan\\theta + \\mu)\\Big/\\big(1-\\mu\\tan\\theta)$</p> <p>Where:</p> <ul> <li>$$\\theta$$ = angle of banking = $$30^\\circ$$</li> <li>$$\\mu$$ = coefficient of static friction = $$0.2$$</li> <li>$$g$$ = acceleration due to gravity = $$10 m/s^2$$</li> </ul> <p>First, calculate the tangent of the angle:</p> <p>$\\tan\u2083\u2080^\\circ = \\frac\u2081\\sqrt\u2083 = \\frac\u2081\u2081.73$</p> <p>Substitute all the values into the formula:</p> <p>$v = \\sqrt\u2083\u2080\u2080 \\times 10 \\times \\left(\\frac\u2081\u2081.73 + 0.2\\right)\\Big/\\big(1 - 0.2 \\times \\frac\u2081\u2081.73\\big)$</p> <p>$v = \\sqrt\u2083\u2080\u2080\u2080 \\times \\left(\\frac\u2081\u2081.73 + 0.2\\right)\\Big/\\big(1 - \\frac\u2080.21.73\\big)$</p> <p>$v = \\sqrt\u2083\u2080\u2080\u2080 \\times \\frac\u2081 + 1.73 \\times 0.21.73 - 0.2$</p> <p>$v = \\sqrt\u2083\u2080\u2080\u2080 \\times \\frac\u2081 + 0.3461.73 - 0.2$</p> <p>$v = \\sqrt\u2083\u2080\u2080\u2080 \\times \\frac\u2081.3461.53$</p> <p>$v = \\sqrt\u2083\u2080\u2080\u2080 \\times 0.8797$</p> <p>$v = \\sqrt\u2082\u2086\u2083\u2089.1 \\approx 51.37 \\, m/s$</p> <p>Hence, the closest option to the calculated maximum speed without slipping is:</p> <p>Option A: 51.4 m/s</p>",
+      "solution": "When a car takes a turn on a banked road, the forces involved are the gravitational force, the normal force from the surface, and frictional force (if any). The net force provides the necessary centripetal force for the circular motion. The angle of banking and static friction contribute to the maximum speed the car can achieve without slipping. The forces acting on the car are as follows: 1. The normal force (N) acts perpendicular to the surface of the road. 2. Gravitational force (mg) acts downward. 3. Frictional force (f), which can provide additional centripetal force if needed. It acts parallel to the surface of the road, towards the center of the circle. The normal force and the gravitational force components can be resolved into two directions: perpendicular and parallel to the road surface. The maximum speed is achieved when all available forces (normal, frictional) are utilized to provide the necessary centripetal force (F_c) without slipping. The centripetal force required for circular motion is given by: F_c = \\fracmv^2r Where: <ul> <li>m = mass of the car = 800 kg</li> <li>v = speed of the car</li> <li>r = radius of the turn = 300 m</li> </ul> On a banked curve, the maximum velocity can be calculated using the formula: v = \\sqrtrg(\\tan\\theta + \\mu)\\Big/\\big(1-\\mu\\tan\\theta) Where: <ul> <li>\\theta = angle of banking = 30^\\circ</li> <li>\\mu = coefficient of static friction = 0.2</li> <li>g = acceleration due to gravity = 10 m/s^2</li> </ul> First, calculate the tangent of the angle: \\tan\u2083\u2080^\\circ = \\frac\u2081\\sqrt\u2083 = \\frac\u2081\u2081.73 Substitute all the values into the formula: v = \\sqrt\u2083\u2080\u2080 \u00d7 10 \u00d7 \\left(\\frac\u2081\u2081.73 + 0.2\\right)\\Big/\\big(1 - 0.2 \u00d7 \\frac\u2081\u2081.73\\big) v = \\sqrt\u2083\u2080\u2080\u2080 \u00d7 \\left(\\frac\u2081\u2081.73 + 0.2\\right)\\Big/\\big(1 - \\frac\u2080.21.73\\big) v = \\sqrt\u2083\u2080\u2080\u2080 \u00d7 \\frac\u2081 + 1.73 \u00d7 0.21.73 - 0.2 v = \\sqrt\u2083\u2080\u2080\u2080 \u00d7 \\frac\u2081 + 0.3461.73 - 0.2 v = \\sqrt\u2083\u2080\u2080\u2080 \u00d7 \\frac\u2081.3461.53 v = \\sqrt\u2083\u2080\u2080\u2080 \u00d7 0.8797 v = \\sqrt\u2082\u2086\u2083\u2089.1 \\approx 51.37 \\, m/s Hence, the closest option to the calculated maximum speed without slipping is: Option A: 51.4 m/s",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>Spherical insulating ball and a spherical metallic ball of same size and mass are dropped from the same height. Choose the correct statement out of the following</p> <p>Assume negligible air friction</p>",
+      "question": "Spherical insulating ball and a spherical metallic ball of same size and mass are dropped from the same height. Choose the correct statement out of the following Assume negligible air friction",
       "options": {
         "A": "Metal ball will reach the earth's surface earlier than the insulating ball",
         "B": "oth will reach the earth's surface simultaneously.",
@@ -304,7 +259,7 @@
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A mass of 10 kg is suspended vertically by a rope from the roof. When a horizontal force is applied on the rope at some point. the rope deviated at an angle of 45<sup>o</sup> at the roof point. If the suspended mass is at equilibrium, the magnitude of the force applied is (g = 10 ms<sup>$$-$$2</sup>",
+      "question": "mass of 10 kg is suspended vertically by a rope from the roof. When a horizontal force is applied on the rope at some point. the rope deviated at an angle of 45<sup>o</sup> at the roof point. If the suspended mass is at equilibrium, the magnitude of the force applied is (g = 10 ms<sup>-2</sup>",
       "options": {
         "A": "200 N",
         "B": "140 N",
@@ -312,14 +267,14 @@
         "D": "100 N"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2088\u2087/exam_images/vtm\u2083gdrznaghqynj\u2085v\u2081r.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Laws of Motion Question 104 English Explanation\"> <br>tan 45<sup>o</sup> = $$F \\over mg$$ <br><br>$$ \\therefore $$ F = mg <br><br>= 10 $$ \\times $$ 10 <br><br>= 100 N",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2088\u2087/exam_images/vtm\u2083gdrznaghqynj\u2085v\u2081r.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Laws of Motion Question 104 English Explanation\"> <br>tan 45<sup>o</sup> = F \\over mg <br><br> \\therefore F = mg <br><br>= 10 \u00d7 10 <br><br>= 100 N",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A mass of 10 kg is suspended by a rope of length 4 m, from the ceiling. A force F is applied horizontally at the mid point of the rope such that the top half of the rope makes an angle of 45<sup>o</sup> with the vertical. Then F equal : (Take g = 10 ms<sup>\\\u20132</sup> and the rope to be massless)",
+      "question": "mass of 10 kg is suspended by a rope of length 4 m, from the ceiling. A force F is applied horizontally at the mid point of the rope such that the top half of the rope makes an angle of 45<sup>o</sup> with the vertical. Then F equal : (Take g = 10 ms<sup>\\\u20132</sup> and the rope to be massless)",
       "options": {
         "A": "100 N",
         "B": "75 N",
@@ -334,7 +289,7 @@
       "chapter": "Laws of Motion"
     },
     {
-      "question": "Statement : 1<br/><br/>If three forces $$\\overrightarrow F _1,\\overrightarrow F _2$$ and $$\\overrightarrow F _3$$ are represented by three sides of a triangle and $$\\overrightarrow F _1 + \\overrightarrow F _2 = - \\overrightarrow F _3$$, then these three forces are concurrent forces and satisfy the condition for equilibrium.<br/><br/>Statement : 2<br/><br/>A triangle made up of three forces $$\\overrightarrow F _1$$, $$\\overrightarrow F _2$$ and $$\\overrightarrow F _3$$ as its sides taken in the same order, satisfy the condition for translatory equilibrium.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Statement : 1<br/><br/>If three forces \\overrightarrow F _1,\\overrightarrow F _2 and \\overrightarrow F _3 are represented by three sides of a triangle and \\overrightarrow F _1 + \\overrightarrow F _2 = - \\overrightarrow F _3, then these three forces are concurrent forces and satisfy the condition for equilibrium.<br/><br/>Statement : 2<br/><br/>A triangle made up of three forces \\overrightarrow F _1, \\overrightarrow F _2 and \\overrightarrow F _3 as its sides taken in the same order, satisfy the condition for translatory equilibrium.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement - I is false but Statement - II is true",
         "B": "Statement - I is true but Statement - II is false",
@@ -342,14 +297,14 @@
         "D": "Both Statement-I and Statement-II are true"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2086\u2088\u2084/exam_images/bi\u2081mkhum\u2084a\u2085moycv\u2080iae.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Evening Shift Physics - Laws of Motion Question 70 English Explanation\"> <br><br>Here, $$\\overrightarrow F _1 + \\overrightarrow F _2 + \\overrightarrow F _3 = 0$$<br><br>$$\\overrightarrow F _1 + \\overrightarrow F _2 = - \\overrightarrow F _3$$<br><br>Since $$\\overrightarrow F _net = 0$$ (equilibrium)<br><br>Both statements correct.",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2086\u2088\u2084/exam_images/bi\u2081mkhum\u2084a\u2085moycv\u2080iae.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Evening Shift Physics - Laws of Motion Question 70 English Explanation\"> <br><br>Here, \\overrightarrow F _1 + \\overrightarrow F _2 + \\overrightarrow F _3 = 0<br><br>\\overrightarrow F _1 + \\overrightarrow F _2 = - \\overrightarrow F _3<br><br>Since \\overrightarrow F _net = 0 (equilibrium)<br><br>Both statements correct.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A body of weight $$200 ~N$$ is suspended from a tree branch through a chain of mass $$10 ~kg$$. The branch pulls the chain by a force equal to (if $$g=10 ~m / s^2$$) :</p>",
+      "question": "A body of weight 200 N is suspended from a tree branch through a chain of mass 10 kg. The branch pulls the chain by a force equal to (if g=10 m / s^2) :",
       "options": {
         "A": "300 N",
         "B": "100 N",
@@ -357,22 +312,22 @@
         "D": "200 N"
       },
       "answer": "A",
-      "solution": "<p>To determine the force that the branch pulls on the chain, we need to consider the combined weight of the body and the chain, as this is the total force that the branch must support due to gravity.</p> <p>The weight of the body is given as $$200\\, N$$.</p> <p>To find the weight of the chain, we use the formula for weight, which is the mass of an object multiplied by the acceleration due to gravity ($$g$$). The mass of the chain is given as $$10\\, kg$$ and $$g = 10\\, m/s^2$$, so:</p> <p>$$\\textWeight of the chain = \\textMass of the chain \\times g$$ <p>$$= 10\\, kg \\times 10\\, m/s^2$$</p> <p>$$= 100\\, N$$</p></p> <p>The total force that the branch must support is the sum of the weight of the body and the weight of the chain:</p> <p>$$\\textTotal force = \\textWeight of the body + \\textWeight of the chain$$ <p>$$= 200\\, N + 100\\, N$$</p> <p>$$= 300\\, N$$</p></p> <p>Therefore, the branch pulls the chain by a force of $$300\\, N$$, which corresponds to Option A.</p>",
+      "solution": "To determine the force that the branch pulls on the chain, we need to consider the combined weight of the body and the chain, as this is the total force that the branch must support due to gravity. The weight of the body is given as 200\\, N. To find the weight of the chain, we use the formula for weight, which is the mass of an object multiplied by the acceleration due to gravity (g). The mass of the chain is given as 10\\, kg and g = 10\\, m/s^2, so: \\textWeight of the chain = \\textMass of the chain \u00d7 g = 10\\, kg \u00d7 10\\, m/s^2 = 100\\, N The total force that the branch must support is the sum of the weight of the body and the weight of the chain: \\textTotal force = \\textWeight of the body + \\textWeight of the chain = 200\\, N + 100\\, N = 300\\, N Therefore, the branch pulls the chain by a force of 300\\, N, which corresponds to Option A.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A given object takes n times more time to slide down a $$45^ \\circ $$ rough inclined plane as it takes to slide down a perfectly smooth $$45^ \\circ $$ incline. The coefficient of kinetic friction between the object and the incline is :",
+      "question": "given object takes n times more time to slide down a 45^ \\circ rough inclined plane as it takes to slide down a perfectly smooth 45^ \\circ incline. The coefficient of kinetic friction between the object and the incline is :",
       "options": {
-        "A": "$$1 \\over 2 - n^2$$",
-        "B": "$$1 - 1 \\over n^2$$",
-        "C": "$$\\sqrt 1 - 1 \\over n^2 $$",
-        "D": "$$\\sqrt 1 \\over 1 - n^2 $$"
+        "A": "1 \\over 2 - n^2",
+        "B": "1 - 1 \\over n^2",
+        "C": "\\sqrt 1 - 1 \\over n^2",
+        "D": "\\sqrt 1 \\over 1 - n^2"
       },
       "answer": "B",
-      "solution": "Let, t<sub>1</sub> and t<sub>2</sub> are time taken to move on the smooth and rough surface for smooth surface, <br><br>S = $$1 \\over 2$$ g sin\u2084\u2085<sup>o</sup> $$t_1^2$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ t<sub>1</sub> = $$\\sqrt 2\\sqrt 2 S \\over g $$ <br><br>For rough surface, <br><br>S = $$1 \\over 2$$ g (sin\u2084\u2085<sup>o</sup> $$-$$ $$\\mu $$<sub>k</sub> cos\u2084\u2085<sup>o</sup>) $$t_2^2$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ t<sub>2</sub> = $$\\sqrt 2\\sqrt 2 S \\over g\\left( 1 - \\mu _k \\right) $$ <br><br>Here $$\\mu _k$$ = Kinetic friction. <br><br>According to question, <br><br>t<sub>2</sub> = n t<sub>1</sub> <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $$2\\sqrt 2 \\,S \\over g\\left( 1 - \\mu _k \\right)$$ = n<sup>2</sup> $$ \\times $$ $$2\\sqrt 2 \\,S \\over g$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ 1 $$-$$ $$\\mu $$<sub>k</sub> = $$1 \\over n^2$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,\\,$$ $$\\mu _k$$ = 1 $$-$$ $$1 \\over n^2$$",
+      "solution": "Let, t<sub>1</sub> and t<sub>2</sub> are time taken to move on the smooth and rough surface for smooth surface, <br><br>S = 1 \\over 2 g sin\u2084\u2085<sup>o</sup> t_1^2 <br><br> \\Rightarrow \\,\\,\\,\\, t<sub>1</sub> = \\sqrt 2\\sqrt 2 S \\over g <br><br>For rough surface, <br><br>S = 1 \\over 2 g (sin\u2084\u2085<sup>o</sup> - \\mu <sub>k</sub> cos\u2084\u2085<sup>o</sup>) t_2^2 <br><br> \\Rightarrow \\,\\,\\,\\, t<sub>2</sub> = \\sqrt 2\\sqrt 2 S \\over g\\left( 1 - \\mu _k \\right) <br><br>Here \\mu _k = Kinetic friction. <br><br>According to question, <br><br>t<sub>2</sub> = n t<sub>1</sub> <br><br> \\Rightarrow \\,\\,\\,\\, 2\\sqrt 2 \\,S \\over g\\left( 1 - \\mu _k \\right) = n<sup>2</sup> \u00d7 2\\sqrt 2 \\,S \\over g <br><br> \\Rightarrow \\,\\,\\,\\, 1 - \\mu <sub>k</sub> = 1 \\over n^2 <br><br> \\Rightarrow \\,\\,\\,\\, \\mu _k = 1 - 1 \\over n^2",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -387,14 +342,14 @@
         "D": "0.80 m"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2084\u2084/exam_images/xzconmzuoootr\u2086eobszf.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Laws of Motion Question 93 English Explanation 1\"> <br><br>For balancing mgsin $$\\theta $$ = f <br><br>mgsin $$\\theta $$ = $$\\mu $$mgcos $$\\theta $$ <br><br>$$ \\Rightarrow $$ tan $$\\theta $$ = $$\\mu $$ = $$3 \\over 4$$ <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2083\u2080\u2084/exam_images/acu\u2081grvcj\u2089ng\u2088qxarkx\u2080.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Laws of Motion Question 93 English Explanation 2\"> <br>h = R \\\u2013 R cos$$\\theta $$ <br><br>= R - R$$\\left( 4 \\over 5 \\right)$$ = $$R \\over 5$$ <br><br> $$ \\therefore $$ h = $$R \\over 5$$ = $$1 \\over 5$$ = 0.2 m",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2084\u2084/exam_images/xzconmzuoootr\u2086eobszf.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Laws of Motion Question 93 English Explanation 1\"> <br><br>For balancing mgsin \\theta = f <br><br>mgsin \\theta = \\mu mgcos \\theta <br><br> \\Rightarrow tan \\theta = \\mu = 3 \\over 4 <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2083\u2080\u2084/exam_images/acu\u2081grvcj\u2089ng\u2088qxarkx\u2080.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Laws of Motion Question 93 English Explanation 2\"> <br>h = R \\\u2013 R cos\\theta <br><br>= R - R\\left( 4 \\over 5 \\right) = R \\over 5 <br><br> \\therefore h = R \\over 5 = 1 \\over 5 = 0.2 m",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A bag is gently dropped on a conveyor belt moving at a speed of $$2 ~m / s$$. The coefficient of friction between the conveyor belt and bag is $$0.4$$. Initially, the bag slips on the belt before it stops due to friction. The distance travelled by the bag on the belt during slipping motion, is : [Take $$g=10 ~m / s^-2$$ ]</p>",
+      "question": "A bag is gently dropped on a conveyor belt moving at a speed of 2 m / s. The coefficient of friction between the conveyor belt and bag is 0.4. Initially, the bag slips on the belt before it stops due to friction. The distance travelled by the bag on the belt during slipping motion, is : [Take g=10 m / s^-2 ]",
       "options": {
         "A": "2 m",
         "B": "0.5 m",
@@ -402,29 +357,29 @@
         "D": "0.8 ms"
       },
       "answer": "B",
-      "solution": "Speed of conveyor belt, $v=2 ~m / s$ <br/><br/>Coefficient of friction between the conveyor belt and bag, $\\mu=0.4$ <br/><br/>Acceleration of bag due to slipping motion, <br/><br/>$$ a=\\mu g=0.4 \\times 10=4 ~m / s^2 \\quad\\left(\\because g=10 ~m / s^2\\right) $$ <br/><br/>If $s$ be the distance travelled by the bag on the belt during slipping motion, then <br/><br/>$ \\ v^2 \\ =u^2-2 a s $<br/><br/>$ \\Rightarrow \\ 0=v^2-2 a s $<br/><br/>$ \\Rightarrow s \\ =\\fracv^22 a=\\frac\u2082^22 \\times 4=0.5 ~m $",
+      "solution": "Speed of conveyor belt, v=2 m / s <br/><br/>Coefficient of friction between the conveyor belt and bag, \\mu=0.4 <br/><br/>Acceleration of bag due to slipping motion, <br/><br/> a=\\mu g=0.4 \u00d7 10=4 m / s^2 \\quad\\left(\\because g=10 m / s^2\\right) <br/><br/>If s be the distance travelled by the bag on the belt during slipping motion, then <br/><br/> \\ v^2 \\ =u^2-2 a s <br/><br/> \\Rightarrow \\ 0=v^2-2 a s <br/><br/> \\Rightarrow s \\ =\\fracv^22 a=\\frac\u2082^22 \u00d7 4=0.5 m",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>The time taken by an object to slide down 45$$^\\circ$$ rough inclined plane is n times as it takes to slide down a perfectly smooth 45$$^\\circ$$ incline plane. The coefficient of kinetic friction between the object and the incline plane is :</p>",
+      "question": "The time taken by an object to slide down 45^\\circ rough inclined plane is n times as it takes to slide down a perfectly smooth 45^\\circ incline plane. The coefficient of kinetic friction between the object and the incline plane is :",
       "options": {
-        "A": "$$1 - 1 \\over n^2$$",
-        "B": "$$1 + 1 \\over n^2$$",
-        "C": "$$\\sqrt 1 - 1 \\over n^2 $$",
-        "D": "$$\\sqrt 1 \\over 1 - n^2 $$"
+        "A": "1 - 1 \\over n^2",
+        "B": "1 + 1 \\over n^2",
+        "C": "\\sqrt 1 - 1 \\over n^2",
+        "D": "\\sqrt 1 \\over 1 - n^2"
       },
       "answer": "A",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1let\u2083dadh/dd\u2082\u2083\u2081e\u2081b-2125-4442-97c\u2087-48d\u2083\u2084\u2081\u2082\u2082\u2084\u2089\u2085e/8d\u2080\u2084\u2080f\u2085\u2080-ba\u2081\u2080-11ed-bf\u2086\u2082-29125e\u2080e\u2080d\u2087\u2087/file-1let\u2083dadi.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1let\u2083dadh/dd\u2082\u2083\u2081e\u2081b-2125-4442-97c\u2087-48d\u2083\u2084\u2081\u2082\u2082\u2084\u2089\u2085e/8d\u2080\u2084\u2080f\u2085\u2080-ba\u2081\u2080-11ed-bf\u2086\u2082-29125e\u2080e\u2080d\u2087\u2087/file-1let\u2083dadi.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Physics - Laws of Motion Question 35 English Explanation\"></p> <p>Smooth case:</p> <p>$$a = g\\sin 45^\\circ = 9 \\over \\sqrt 2 $$</p> <p>$$t_1 = \\sqrt 2L \\over a = \\sqrt 2L \\over g/\\sqrt 2 = \\sqrt 2\\sqrt 2 L \\over g $$ ..... (1)</p> <p>Rough case:</p> <p>$$a = g\\sin 45^\\circ - \\mu g\\cos 45^\\circ $$</p> <p>$$ = g \\over \\sqrt 2 (1 - \\mu )$$</p> <p>$$t_2 = \\sqrt 2L \\over a = \\sqrt 2\\sqrt 2 L \\over g(1 - \\mu ) $$ ..... (2)</p> <p>From (1) to (2) and $$t_1 = t_2 \\over n$$ we have</p> <p>$$\\sqrt 2\\sqrt 2 L \\over g = 1 \\over n\\sqrt 2\\sqrt 2 L \\over g(1 - \\mu ) \\Rightarrow \\mu = 1 - 1 \\over n^2$$</p>",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1let\u2083dadh/dd\u2082\u2083\u2081e\u2081b-2125-4442-97c\u2087-48d\u2083\u2084\u2081\u2082\u2082\u2084\u2089\u2085e/8d\u2080\u2084\u2080f\u2085\u2080-ba\u2081\u2080-11ed-bf\u2086\u2082-29125e\u2080e\u2080d\u2087\u2087/file-1let\u2083dadi.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1let\u2083dadh/dd\u2082\u2083\u2081e\u2081b-2125-4442-97c\u2087-48d\u2083\u2084\u2081\u2082\u2082\u2084\u2089\u2085e/8d\u2080\u2084\u2080f\u2085\u2080-ba\u2081\u2080-11ed-bf\u2086\u2082-29125e\u2080e\u2080d\u2087\u2087/file-1let\u2083dadi.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Physics - Laws of Motion Question 35 English Explanation\"> Smooth case: a = g\\sin 45^\\circ = 9 \\over \\sqrt 2 t_1 = \\sqrt 2L \\over a = \\sqrt 2L \\over g/\\sqrt 2 = \\sqrt 2\\sqrt 2 L \\over g ..... (1) Rough case: a = g\\sin 45^\\circ - \\mu g\\cos 45^\\circ = g \\over \\sqrt 2 (1 - \\mu ) t_2 = \\sqrt 2L \\over a = \\sqrt 2\\sqrt 2 L \\over g(1 - \\mu ) ..... (2) From (1) to (2) and t_1 = t_2 \\over n we have \\sqrt 2\\sqrt 2 L \\over g = 1 \\over n\\sqrt 2\\sqrt 2 L \\over g(1 - \\mu ) \\Rightarrow \\mu = 1 - 1 \\over n^2",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A block 'A' takes 2 s to slide down a frictionless incline of 30$$^\\circ$$ and length 'l', kept inside a lift going up with uniform velocity 'v'. If the incline is changed to 45$$^\\circ$$, the time taken by the block, to slide down the incline, will be approximately :</p>",
+      "question": "A block 'A' takes 2 s to slide down a frictionless incline of 30^\\circ and length 'l', kept inside a lift going up with uniform velocity 'v'. If the incline is changed to 45^\\circ, the time taken by the block, to slide down the incline, will be approximately :",
       "options": {
         "A": "2.66 s",
         "B": "0.83 s",
@@ -432,29 +387,29 @@
         "D": "0.70 s"
       },
       "answer": "C",
-      "solution": "<p>$$\\theta _1 = 30^\\circ ,\\,\\theta _2 = 45^\\circ $$</p> <p>$$a_1 = g\\sin \\theta _1 = 5$$ m/s<sup>2</sup>, $$a_2 = g\\sin \\theta _2 = 5\\sqrt 2 $$ m/s<sup>2</sup></p> <p>$$t_1 \\over t_2 = \\sqrt 2l \\over a_1 \\over \\sqrt 2l \\over a_2 = \\sqrt a_2 \\over a_1 $$</p> <p>$$t_1 \\over t_2 = (2)^1/4$$</p> <p>$$t_2 = (2)^3/4$$</p> <p>$$ \\approx 1.68$$ s</p>",
+      "solution": "\\theta _1 = 30^\\circ ,\\,\\theta _2 = 45^\\circ a_1 = g\\sin \\theta _1 = 5 m/s<sup>2</sup>, a_2 = g\\sin \\theta _2 = 5\\sqrt 2 m/s<sup>2</sup> t_1 \\over t_2 = \\sqrt 2l \\over a_1 \\over \\sqrt 2l \\over a_2 = \\sqrt a_2 \\over a_1 t_1 \\over t_2 = (2)^1/4 t_2 = (2)^3/4 \\approx 1.68 s",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A small ball of mass m is thrown upward with velocity u from the ground. The ball experiences a resistive force mkv<sup>2</sup> where v is its speed. The maximum height attained by the ball is :",
+      "question": "small ball of mass m is thrown upward with velocity u from the ground. The ball experiences a resistive force mkv<sup>2</sup> where v is its speed. The maximum height attained by the ball is :",
       "options": {
-        "A": "$$1 \\over k\\tan ^ - 1ku^2 \\over 2g$$",
-        "B": "$$1 \\over 2k\\tan ^ - 1ku^2 \\over g$$",
-        "C": "$$1 \\over 2k\\ln \\left( 1 + ku^2 \\over g \\right)$$",
-        "D": "$$1 \\over k\\ln \\left( 1 + ku^2 \\over 2g \\right)$$"
+        "A": "1 \\over k\\tan ^ - 1ku^2 \\over 2g",
+        "B": "1 \\over 2k\\tan ^ - 1ku^2 \\over g",
+        "C": "1 \\over 2k\\ln \\left( 1 + ku^2 \\over g \\right)",
+        "D": "1 \\over k\\ln \\left( 1 + ku^2 \\over 2g \\right)"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2089\u2087\u2083/exam_images/ndu\u2089oh\u2089g\u2083o\u2086khs\u2083ynqdu.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 4th September Evening Slot Physics - Laws of Motion Question 95 English Explanation\"> <br><br>F<sub>net</sub> = ma <br><br>$$ \\Rightarrow $$ -mg - mkv<sup>2</sup> = $$mvdv \\over ds$$ <br><br>$$ \\Rightarrow $$ $$ds = - vdv \\over g + kv^2$$ <br><br>$$ \\Rightarrow $$ $$\\int\\limits_s = 0^H_\\max ds = \\int\\limits_v = u^v = 0 - vdv \\over g + kv^2 $$ <br><br>$$ \\Rightarrow $$ H<sub>max</sub> = $$1 \\over 2k\\ln \\left( g + ku^2 \\over g \\right)$$ = $$1 \\over 2k\\ln \\left( 1 + ku^2 \\over g \\right)$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2089\u2087\u2083/exam_images/ndu\u2089oh\u2089g\u2083o\u2086khs\u2083ynqdu.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 4th September Evening Slot Physics - Laws of Motion Question 95 English Explanation\"> <br><br>F<sub>net</sub> = ma <br><br> \\Rightarrow -mg - mkv<sup>2</sup> = mvdv \\over ds <br><br> \\Rightarrow ds = - vdv \\over g + kv^2 <br><br> \\Rightarrow \\int\\limits_s = 0^H_\\max ds = \\int\\limits_v = u^v = 0 - vdv \\over g + kv^2 <br><br> \\Rightarrow H<sub>max</sub> = 1 \\over 2k\\ln \\left( g + ku^2 \\over g \\right) = 1 \\over 2k\\ln \\left( 1 + ku^2 \\over g \\right)",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>Given below are two statements :</p> <p>Statement I : An elevator can go up or down with uniform speed when its weight is balanced with the tension of its cable.</p> <p>Statement II : Force exerted by the floor of an elevator on the foot of a person standing on it is more than his/her weight when the elevator goes down with increasing speed.</p> <p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "question": "Given below are two statements : Statement I : An elevator can go up or down with uniform speed when its weight is balanced with the tension of its cable. Statement II : Force exerted by the floor of an elevator on the foot of a person standing on it is more than his/her weight when the elevator goes down with increasing speed. In the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are false",
         "B": "oth Statement I and Statement II are true",
@@ -462,29 +417,29 @@
         "D": "Statement I is true but Statement II is false"
       },
       "answer": "D",
-      "solution": "<p><b>Statement I</b> says that when the weight of an elevator is balanced with the tension of its cable, it can move up or down with a uniform speed. This is true because the weight of the elevator is balanced by the tension in the cable, which allows it to move smoothly and at a constant speed.</p> <p><b>Statement II</b> says that the force exerted by the floor of an elevator on a person's foot is greater than their weight when the elevator goes down with increasing speed. This is false because the force exerted by the floor on a person's foot is equal to their weight, regardless of the speed of the elevator. The person's weight is a constant force and does not change with the speed of the elevator. The apparent weight of a person may change with the speed of the elevator, but this is due to the effects of acceleration and not an increase in the force exerted by the floor.</p>",
+      "solution": "<b>Statement I</b> says that when the weight of an elevator is balanced with the tension of its cable, it can move up or down with a uniform speed. This is true because the weight of the elevator is balanced by the tension in the cable, which allows it to move smoothly and at a constant speed. <b>Statement II</b> says that the force exerted by the floor of an elevator on a person's foot is greater than their weight when the elevator goes down with increasing speed. This is false because the force exerted by the floor on a person's foot is equal to their weight, regardless of the speed of the elevator. The person's weight is a constant force and does not change with the speed of the elevator. The apparent weight of a person may change with the speed of the elevator, but this is due to the effects of acceleration and not an increase in the force exerted by the floor.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "The position vector of a particle related to time $t$ is given by <br/><br/> $\\vecr=\\left(10 t \\hati+15 t^2 \\hatj+7 \\hatk\\right) m$ <br/><br/> The direction of net force experienced by the particle is :",
+      "question": "The position vector of a particle related to time t is given by <br/><br/> \\vecr=\\left(10 t \\hati+15 t^2 \\hatj+7 \\hatk\\right) m <br/><br/> The direction of net force experienced by the particle is :",
       "options": {
-        "A": "Positive $x$ - axis",
-        "B": "Positive $y$ - axis",
-        "C": "Positive $z$ - axis",
-        "D": "In $x$ - $y$ plane"
+        "A": "Positive x - axis",
+        "B": "Positive y - axis",
+        "C": "Positive z - axis",
+        "D": "In x - y plane"
       },
       "answer": "B",
-      "solution": "To find the direction of the net force experienced by the particle, we need to find the acceleration vector of the particle and then use Newton's second law, which states that the net force on an object is equal to its mass times its acceleration vector. <br/><br/> The position vector of the particle is given by: <br/><br/> $$ \\vecr = (10t\\hati + 15t^2\\hatj + 7\\hatk)\\,\\textm $$ <br/><br/> Differentiating $\\vecr$ twice with respect to time $t$, we get the acceleration vector: <br/><br/> $$ \\veca = \\fracd^2\\vecrdt^2 = \\fracddt(10\\hati + 30t\\hatj) = 30\\hatj\\,\\textm/s^2 $$ <br/><br/> Therefore, the acceleration vector is $\\veca = 30\\hatj\\,\\textm/s^2$. <br/><br/> Using Newton's second law, the net force on the particle is given by: <br/><br/> $$ \\vecF_net = m\\veca $$ <br/><br/> where $m$ is the mass of the particle. <br/><br/> Since we are only interested in the direction of the net force, we can ignore the magnitude of the acceleration and focus on its direction, which is along the positive $y$-axis.",
+      "solution": "To find the direction of the net force experienced by the particle, we need to find the acceleration vector of the particle and then use Newton's second law, which states that the net force on an object is equal to its mass times its acceleration vector. <br/><br/> The position vector of the particle is given by: <br/><br/> \\vecr = (10t\\hati + 15t^2\\hatj + 7\\hatk)\\,\\textm <br/><br/> Differentiating \\vecr twice with respect to time t, we get the acceleration vector: <br/><br/> \\veca = \\fracd^2\\vecrdt^2 = \\fracddt(10\\hati + 30t\\hatj) = 30\\hatj\\,\\textm/s^2 <br/><br/> Therefore, the acceleration vector is \\veca = 30\\hatj\\,\\textm/s^2. <br/><br/> Using Newton's second law, the net force on the particle is given by: <br/><br/> \\vecF_net = m\\veca <br/><br/> where m is the mass of the particle. <br/><br/> Since we are only interested in the direction of the net force, we can ignore the magnitude of the acceleration and focus on its direction, which is along the positive y-axis.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A cricket player catches a ball of mass $120 ~g$ moving with $25 ~m / s$ speed. If the catching process is completed in $0.1 ~s$ then the magnitude of force exerted by the ball on the hand of player will be (in SI unit) :",
+      "question": "cricket player catches a ball of mass 120 g moving with 25 m / s speed. If the catching process is completed in 0.1 s then the magnitude of force exerted by the ball on the hand of player will be (in SI unit) :",
       "options": {
         "A": "30",
         "B": "24",
@@ -492,14 +447,14 @@
         "D": "25"
       },
       "answer": "A",
-      "solution": "<p>The first step in solving this problem is to calculate the change in momentum of the ball when it is caught. The change in momentum, or impulse, is the product of the mass of the ball and the change in velocity (as momentum is mass times velocity).</p> <p>The ball is initially moving with a velocity of $v_i = 25 ~m/s$ before the catch and finally comes to rest with a velocity of $v_f = 0 ~m/s$ after the catch. Since the ball is caught, the final velocity is zero. The change in velocity $$\\Delta v = v_f - v_i = 0 - 25 = -25 ~m/s.$$ Remember that the direction of the force exerted by the ball on the hand will be opposite to the direction of the ball's initial motion.</p> <p>The mass of the ball $m$ is given as $120 ~g$ which needs to be converted into kilograms to maintain SI units: $$m = 120 ~g = 120 \\times 10^-3 ~kg = 0.12 ~kg.$$</p> <p>Now we can calculate the change in momentum (impulse): $$\\Delta p = m \\Delta v = 0.12 ~kg \\times (-25 ~m/s).$$</p> <p>Substituting the values we get: $$\\Delta p = 0.12 \\times -25 = -3 ~kg \\cdot m/s.$$</p> <p>The negative sign indicates that the change in momentum is in the opposite direction of the ball's initial motion, which makes sense because the ball's velocity is reduced to zero.</p> <p>The magnitude of the impulse is independent of the sign and is $3 ~kg \\cdot m/s$.</p> <p>Impulse is also equal to the average force exerted on the ball times the time interval during which the force is exerted. We can use the formula: $$\\Delta p = F_avg \\Delta t$$</p> <p>Where $F_avg$ is the average force and $\\Delta t$ is the time interval of $0.1 ~s$. Re-arranging the formula to solve for $F_avg$ gives us: $$F_avg = \\frac\\Delta p\\Delta t.$$</p> <p>Substituting the known values we have: $$F_avg = \\frac\u2083\u2080.1 = 30 ~N.$$</p> <p>The magnitude of the average force exerted by the hand of the player to catch the ball is $30 ~N$.</p>",
+      "solution": "The first step in solving this problem is to calculate the change in momentum of the ball when it is caught. The change in momentum, or impulse, is the product of the mass of the ball and the change in velocity (as momentum is mass times velocity). The ball is initially moving with a velocity of v_i = 25 m/s before the catch and finally comes to rest with a velocity of v_f = 0 m/s after the catch. Since the ball is caught, the final velocity is zero. The change in velocity \\Delta v = v_f - v_i = 0 - 25 = -25 m/s. Remember that the direction of the force exerted by the ball on the hand will be opposite to the direction of the ball's initial motion. The mass of the ball m is given as 120 g which needs to be converted into kilograms to maintain SI units: m = 120 g = 120 \u00d7 10^-3 kg = 0.12 kg. Now we can calculate the change in momentum (impulse): \\Delta p = m \\Delta v = 0.12 kg \u00d7 (-25 m/s). Substituting the values we get: \\Delta p = 0.12 \u00d7 -25 = -3 kg \u00b7 m/s. The negative sign indicates that the change in momentum is in the opposite direction of the ball's initial motion, which makes sense because the ball's velocity is reduced to zero. The magnitude of the impulse is independent of the sign and is 3 kg \u00b7 m/s. Impulse is also equal to the average force exerted on the ball times the time interval during which the force is exerted. We can use the formula: \\Delta p = F_avg \\Delta t Where F_avg is the average force and \\Delta t is the time interval of 0.1 s. Re-arranging the formula to solve for F_avg gives us: F_avg = \\frac\\Delta p\\Delta t. Substituting the known values we have: F_avg = \\frac\u2083\u2080.1 = 30 N. The magnitude of the average force exerted by the hand of the player to catch the ball is 30 N.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A player caught a cricket ball of mass $$150 ~g$$ moving at a speed of $$20 ~m / s$$. If the catching process is completed in $$0.1 ~s$$, the magnitude of force exerted by the ball on the hand of the player is:</p>",
+      "question": "A player caught a cricket ball of mass 150 g moving at a speed of 20 m / s. If the catching process is completed in 0.1 s, the magnitude of force exerted by the ball on the hand of the player is:",
       "options": {
         "A": "150 N",
         "B": "3 N",
@@ -507,52 +462,52 @@
         "D": "300 N"
       },
       "answer": "C",
-      "solution": "<p>The force exerted by the ball on the hand can be calculated using the formula derived from Newton's second law of motion, which is $$F = \\frac\\Delta p\\Delta t$$, where $$F$$ is the force, $$\\Delta p$$ represents the change in momentum, and $$\\Delta t$$ is the time over which this change occurs.</p> <p>The change in momentum, $$\\Delta p$$, can be calculated as the difference between the final momentum, $$p_f$$, and the initial momentum, $$p_i$$. In this scenario, because the ball comes to a stop in the player's hand, its final velocity (and hence, its final momentum) is 0. Therefore, the change in momentum is equal to the initial momentum of the ball (since final momentum is zero).</p> <p>The initial momentum, $$p_i$$, of the ball can be calculated using the formula $$p = mv$$, where $$m$$ is the mass of the ball and $$v$$ is its velocity. Given that the mass of the ball is $$150 \\, g = 0.15 \\, kg$$ (converting grams to kilograms) and its velocity is $$20 \\, m/s$$, we have:</p> <p>$$p_i = (0.15 \\, kg) \\times (20 \\, m/s) = 3 \\, kg \\cdot m/s$$</p> <p>Since the change in momentum, $$\\Delta p$$, equals the initial momentum ($$p_i$$) because the final momentum is 0, the force exerted can be found by substituting $$\\Delta p$$ and $$\\Delta t$$ into the first formula:</p> <p>$$F = \\frac\u2083 \\, kg \\cdot m/s\u2080.1 \\, s = 30 \\, N$$</p> <p>Therefore, the magnitude of force exerted by the ball on the hand of the player is <strong>30 N</strong>, which corresponds to Option C.</p>",
+      "solution": "The force exerted by the ball on the hand can be calculated using the formula derived from Newton's second law of motion, which is F = \\frac\\Delta p\\Delta t, where F is the force, \\Delta p represents the change in momentum, and \\Delta t is the time over which this change occurs. The change in momentum, \\Delta p, can be calculated as the difference between the final momentum, p_f, and the initial momentum, p_i. In this scenario, because the ball comes to a stop in the player's hand, its final velocity (and hence, its final momentum) is 0. Therefore, the change in momentum is equal to the initial momentum of the ball (since final momentum is zero). The initial momentum, p_i, of the ball can be calculated using the formula p = mv, where m is the mass of the ball and v is its velocity. Given that the mass of the ball is 150 \\, g = 0.15 \\, kg (converting grams to kilograms) and its velocity is 20 \\, m/s, we have: p_i = (0.15 \\, kg) \u00d7 (20 \\, m/s) = 3 \\, kg \u00b7 m/s Since the change in momentum, \\Delta p, equals the initial momentum (p_i) because the final momentum is 0, the force exerted can be found by substituting \\Delta p and \\Delta t into the first formula: F = \\frac\u2083 \\, kg \u00b7 m/s\u2080.1 \\, s = 30 \\, N Therefore, the magnitude of force exerted by the ball on the hand of the player is <strong>30 N</strong>, which corresponds to Option C.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A particle moves in $$x$$-$$y$$ plane under the influence of a force $$\\vecF$$ such that its linear momentum is $$\\overrightarrowp(t)=\\hati \\cos (kt)-\\hatj \\sin (kt)$$. If $$k$$ is constant, the angle between $$\\overrightarrowF$$ and $$\\overrightarrowp$$ will be :</p>",
+      "question": "A particle moves in x-y plane under the influence of a force \\vecF such that its linear momentum is \\overrightarrowp(t)=\\hati \\cos (kt)-\\hatj \\sin (kt). If k is constant, the angle between \\overrightarrowF and \\overrightarrowp will be :",
       "options": {
-        "A": "$$\\frac\\pi\u2082$$",
-        "B": "$$\\frac\\pi\u2083$$",
-        "C": "$$\\frac\\pi\u2084$$",
-        "D": "$$\\frac\\pi\u2086$$"
+        "A": "\\frac\\pi\u2082",
+        "B": "\\frac\\pi\u2083",
+        "C": "\\frac\\pi\u2084",
+        "D": "\\frac\\pi\u2086"
       },
       "answer": "A",
-      "solution": "<p>To find the angle between $$\\vecF$$ and $$\\overrightarrowp$$, we first need to understand the relationship between force and momentum. The force $$\\vecF$$ acting on a particle is related to the rate of change of its linear momentum $$\\overrightarrowp$$ with respect to time, as described by Newton's second law of motion:</p> <p>$$\\vecF = \\fracd\\overrightarrowpdt$$</p> <p>Given the expression for the momentum $$\\overrightarrowp(t) = \\hati \\cos (kt) - \\hatj \\sin (kt)$$, we can find $$\\vecF$$ by differentiating $$\\overrightarrowp$$ with respect to $$t$$:</p> <p>$$\\fracd\\overrightarrowpdt = -k\\hati \\sin (kt) - k\\hatj \\cos (kt)$$</p> <p>So, $$\\vecF = -k\\hati \\sin (kt) - k\\hatj \\cos (kt)$$.</p> <p>Now, to find the angle between $$\\vecF$$ and $$\\overrightarrowp$$, we use the dot product formula:</p> <p>$$\\vecF \\cdot \\overrightarrowp = |\\vecF| |\\overrightarrowp| \\cos(\\theta)$$,</p> <p>where $$\\theta$$ is the angle between $$\\vecF$$ and $$\\overrightarrowp$$. However, in this case, it's more insightful to see if $$\\vecF$$ and $$\\overrightarrowp$$ are orthogonal (at a $$\\frac\\pi\u2082$$ angle to each other), because the dot product of two perpendicular vectors is zero.</p> <p>The dot product of $$\\vecF$$ and $$\\overrightarrowp$$ is:</p> <p>$$(-k\\hati \\sin (kt) - k\\hatj \\cos (kt)) \\cdot (\\hati \\cos (kt) - \\hatj \\sin (kt)) =$$</p> <p>$$- k \\sin (kt) \\cos (kt) + k \\cos (kt) \\sin (kt) = 0$$</p> <p>The result is zero, indicating that the angle between $$\\vecF$$ and $$\\overrightarrowp$$ is indeed $$\\frac\\pi\u2082$$.</p> <p>Therefore, the correct option is:</p> <p>Option A $$\\frac\\pi\u2082$$.</p>",
+      "solution": "To find the angle between \\vecF and \\overrightarrowp, we first need to understand the relationship between force and momentum. The force \\vecF acting on a particle is related to the rate of change of its linear momentum \\overrightarrowp with respect to time, as described by Newton's second law of motion: \\vecF = \\fracd\\overrightarrowpdt Given the expression for the momentum \\overrightarrowp(t) = \\hati \\cos (kt) - \\hatj \\sin (kt), we can find \\vecF by differentiating \\overrightarrowp with respect to t: \\fracd\\overrightarrowpdt = -k\\hati \\sin (kt) - k\\hatj \\cos (kt) So, \\vecF = -k\\hati \\sin (kt) - k\\hatj \\cos (kt). Now, to find the angle between \\vecF and \\overrightarrowp, we use the dot product formula: \\vecF \u00b7 \\overrightarrowp = |\\vecF| |\\overrightarrowp| \\cos(\\theta), where \\theta is the angle between \\vecF and \\overrightarrowp. However, in this case, it's more insightful to see if \\vecF and \\overrightarrowp are orthogonal (at a \\frac\\pi\u2082 angle to each other), because the dot product of two perpendicular vectors is zero. The dot product of \\vecF and \\overrightarrowp is: (-k\\hati \\sin (kt) - k\\hatj \\cos (kt)) \u00b7 (\\hati \\cos (kt) - \\hatj \\sin (kt)) = - k \\sin (kt) \\cos (kt) + k \\cos (kt) \\sin (kt) = 0 The result is zero, indicating that the angle between \\vecF and \\overrightarrowp is indeed \\frac\\pi\u2082. Therefore, the correct option is: Option A \\frac\\pi\u2082.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A spring whose unstretched length is l has a force constant k. The spring is cut into two pieces of unstretched lengths l<sub>1</sub> and l<sub>2</sub> where, l<sub>1</sub> = nl<sub>2</sub> and n is an integer. The ratio k<sub>1</sub>/k<sub>2</sub> of the corresponding force constant, k<sub>1</sub> and k<sub>2</sub> will be :",
+      "question": "spring whose unstretched length is l has a force constant k. The spring is cut into two pieces of unstretched lengths l<sub>1</sub> and l<sub>2</sub> where, l<sub>1</sub> = nl<sub>2</sub> and n is an integer. The ratio k<sub>1</sub>/k<sub>2</sub> of the corresponding force constant, k<sub>1</sub> and k<sub>2</sub> will be :",
       "options": {
-        "A": "$$1 \\over n^2$$",
-        "B": "$$1 \\over n$$",
+        "A": "1 \\over n^2",
+        "B": "1 \\over n",
         "C": "n<sup>2</sup>",
         "D": "n"
       },
       "answer": "B",
-      "solution": "For a spring, k$$ \\times $$$$l$$ = constant. <br><br>$$ \\therefore $$ k<sub>1</sub>$$l_1$$ = k<sub>2</sub>$$l_2$$ <br><br>$$ \\Rightarrow $$ $$k_1 \\over k_2 = l_2 \\over l_1$$ = $$l_2 \\over nl_2$$ = $$1 \\over n$$",
+      "solution": "For a spring, k \u00d7 l = constant. <br><br> \\therefore k<sub>1</sub>l_1 = k<sub>2</sub>l_2 <br><br> \\Rightarrow k_1 \\over k_2 = l_2 \\over l_1 = l_2 \\over nl_2 = 1 \\over n",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A small ball of mass $$M$$ and density $$\\rho$$ is dropped in a viscous liquid of density $$\\rho_0$$. After some time, the ball falls with a constant velocity. What is the viscous force on the ball ?</p>",
+      "question": "A small ball of mass M and density \\rho is dropped in a viscous liquid of density \\rho_0. After some time, the ball falls with a constant velocity. What is the viscous force on the ball ?",
       "options": {
-        "A": "$$F=Mg\\left(1-\\frac\\rho_O\\rho\\right)$$",
-        "B": "$$F=Mg\\left(1+\\frac\\rhoP_o\\right)$$",
-        "C": "$$F=Mg\\left(1+\\frac\\rho_o\\rho\\right)$$",
-        "D": "$$F=M g\\left(1 \\pm \\rho \\rho_0\\right)$$"
+        "A": "F=Mg\\left(1-\\frac\\rho_O\\rho\\right)",
+        "B": "F=Mg\\left(1+\\frac\\rhoP_o\\right)",
+        "C": "F=Mg\\left(1+\\frac\\rho_o\\rho\\right)",
+        "D": "F=M g\\left(1 \\pm \\rho \\rho_0\\right)"
       },
       "answer": "A",
-      "solution": "<p>When the ball is falling with a constant velocity, it means the net force acting on the ball is zero. This is because it's in a state of dynamic equilibrium - the downward force equals the upward force.</p> <p>The downward force is the gravitational force (weight of the ball), which is given by $F_g = Mg$.</p> <p>The upward force is the sum of buoyant force and the viscous drag. The buoyant force is the weight of the fluid displaced by the ball, which is given by $F_b = Vg\\rho_0 = Mg\\rho_0/\\rho$ where $V = M/\\rho$ is the volume of the ball.</p> <p>The viscous force, $F_v$, is the force that we need to find.</p> <p>Since the net force is zero, we have:</p> <p>$F_g = F_b + F_v$</p> <p>or</p> <p>$Mg = Mg\\rho_0/\\rho + F_v$</p> <p>which simplifies to</p> <p>$F_v = Mg - Mg\\rho_0/\\rho = Mg(1 - \\rho_0/\\rho)$</p>",
+      "solution": "When the ball is falling with a constant velocity, it means the net force acting on the ball is zero. This is because it's in a state of dynamic equilibrium - the downward force equals the upward force. The downward force is the gravitational force (weight of the ball), which is given by F_g = Mg. The upward force is the sum of buoyant force and the viscous drag. The buoyant force is the weight of the fluid displaced by the ball, which is given by F_b = Vg\\rho_0 = Mg\\rho_0/\\rho where V = M/\\rho is the volume of the ball. The viscous force, F_v, is the force that we need to find. Since the net force is zero, we have: F_g = F_b + F_v or Mg = Mg\\rho_0/\\rho + F_v which simplifies to F_v = Mg - Mg\\rho_0/\\rho = Mg(1 - \\rho_0/\\rho)",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -561,13 +516,13 @@
     {
       "question": "The length of metallic wire is l<sub>1</sub> when tension in it is T<sub>1</sub>. It is l<sub>2</sub> when the tension is T<sub>2</sub>. The original length of the wire will be :",
       "options": {
-        "A": "$$T_1l_1 - T_2l_2 \\over T_2 - T_1$$",
-        "B": "$$l_1 + l_2 \\over 2$$",
-        "C": "$$T_2l_1 + T_1l_2 \\over T_1 + T_2$$",
-        "D": "$$T_2l_1 - T_1l_2 \\over T_2 - T_1$$"
+        "A": "T_1l_1 - T_2l_2 \\over T_2 - T_1",
+        "B": "l_1 + l_2 \\over 2",
+        "C": "T_2l_1 + T_1l_2 \\over T_1 + T_2",
+        "D": "T_2l_1 - T_1l_2 \\over T_2 - T_1"
       },
       "answer": "D",
-      "solution": "Assuming Hooke's law to be valid.<br><br>$$T \\propto (\\Delta l)$$<br><br>$$T = k(\\Delta l)$$<br><br>Let, l<sub>0</sub> = natural length (original length)<br><br>$$ \\Rightarrow T = k(l - l_0)$$<br><br>so, $$T_1 = k(l_1 - l_0)$$ & $$T_2 = k(l_2 - l_0)$$<br><br>$$ \\Rightarrow T_1 \\over T_2 = l_1 - l_0 \\over l_2 - l_0$$<br><br>$$ \\Rightarrow l_0 = T_2l_1 - T_1l_2 \\over T_2 - T_1$$",
+      "solution": "Assuming Hooke's law to be valid.<br><br>T \\propto (\\Delta l)<br><br>T = k(\\Delta l)<br><br>Let, l<sub>0</sub> = natural length (original length)<br><br> \\Rightarrow T = k(l - l_0)<br><br>so, T_1 = k(l_1 - l_0) & T_2 = k(l_2 - l_0)<br><br> \\Rightarrow T_1 \\over T_2 = l_1 - l_0 \\over l_2 - l_0<br><br> \\Rightarrow l_0 = T_2l_1 - T_1l_2 \\over T_2 - T_1",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -576,80 +531,80 @@
     {
       "question": "The length of a metal wire is l<sub>1</sub>, when the tension in it is T<sub>1</sub> and is l<sub>2</sub> when the tension is T<sub>2</sub>. The natural length of the wire is :",
       "options": {
-        "A": "$$\\sqrt l_1l_2 $$",
-        "B": "$$l_1T_2 - l_2T_1 \\over T_2 - T_1$$",
-        "C": "$$l_1T_2 + l_2T_1 \\over T_2 + T_1$$",
-        "D": "$$l_1 + l_2 \\over 2$$"
+        "A": "\\sqrt l_1l_2",
+        "B": "l_1T_2 - l_2T_1 \\over T_2 - T_1",
+        "C": "l_1T_2 + l_2T_1 \\over T_2 + T_1",
+        "D": "l_1 + l_2 \\over 2"
       },
       "answer": "B",
-      "solution": "$$T_1 = k(l_1 - l_0)$$<br><br>$$T_2 = k(l_2 - l_0)$$<br><br>$$T_1 \\over T_2 = l_1 - l_0 \\over l_2 - l_0$$<br><br>$$T_1l_2 - T_2l_1 \\over T_1 - T_2 = l_0$$",
+      "solution": "T_1 = k(l_1 - l_0)<br><br>T_2 = k(l_2 - l_0)<br><br>T_1 \\over T_2 = l_1 - l_0 \\over l_2 - l_0<br><br>T_1l_2 - T_2l_1 \\over T_1 - T_2 = l_0",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>The force required to stretch a wire of cross-section $$1 ~cm^2$$ to double its length will be : (Given Yong's modulus of the wire $$=2 \\times 10^11 ~N / m^2$$)</p>",
+      "question": "The force required to stretch a wire of cross-section 1 cm^2 to double its length will be : (Given Yong's modulus of the wire =2 \u00d7 10^11 N / m^2)",
       "options": {
-        "A": "$$1 \\times 10^7 ~N$$",
-        "B": "$$1.5 \\times 10^7 ~N$$",
-        "C": "$$2 \\times 10^7 ~N$$",
-        "D": "$$2.5 \\times 10^7 ~N$$"
+        "A": "1 \u00d7 10^7 N",
+        "B": "1.5 \u00d7 10^7 N",
+        "C": "2 \u00d7 10^7 N",
+        "D": "2.5 \u00d7 10^7 N"
       },
       "answer": "C",
-      "solution": "<p>$$A = 1$$ cm<sup>2</sup></p> <p>$$Y = Fl \\over A\\Delta l$$</p> <p>$$F = YA\\Delta l \\over l = 2 \\times 10^11 \\times 10^ - 4 \\times l \\over l$$</p> <p>$$ = 2 \\times 10^7$$ N</p>",
+      "solution": "A = 1 cm<sup>2</sup> Y = Fl \\over A\\Delta l F = YA\\Delta l \\over l = 2 \u00d7 10^11 \u00d7 10^ - 4 \u00d7 l \\over l = 2 \u00d7 10^7 N",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A force is applied to a steel wire 'A', rigidly clamped at one end. As a result elongation in the wire is $0.2 ~mm$. If same force is applied to another steel wire ' $B$ ' of double the length and a diameter $2.4$ times that of the wire ' $A$ ', the elongation in the wire ' $B$ ' will be (wires having uniform circular cross sections)",
+      "question": "force is applied to a steel wire 'A', rigidly clamped at one end. As a result elongation in the wire is 0.2 mm. If same force is applied to another steel wire ' B ' of double the length and a diameter 2.4 times that of the wire ' A ', the elongation in the wire ' B ' will be (wires having uniform circular cross sections)",
       "options": {
-        "A": "$6 .9 \\times 10^-2 ~mm$",
-        "B": "$6.06 \\times 10^-2 ~mm$",
-        "C": "$2.77 \\times 10^-2 ~mm$",
-        "D": "$3.0 \\times 10^-2 ~mm$"
+        "A": "6 .9 \u00d7 10^-2 mm",
+        "B": "6.06 \u00d7 10^-2 mm",
+        "C": "2.77 \u00d7 10^-2 mm",
+        "D": "3.0 \u00d7 10^-2 mm"
       },
       "answer": "A",
-      "solution": "<p>$$\\because$$ $$\\Delta l = Fl(4) \\over Y\\pi d^2$$</p> <p>$$\\Delta l_1 \\over \\Delta l_2 = \\Delta l_1 \\over d_1^2 \\times d_2^2 \\over l_2$$</p> <p>$$0.2 \\over \\Delta l_2 = 1 \\over 2 \\times (2.4)^2$$</p> <p>$$\\Delta l_2 = 2 \\times 0.2 \\over (2.4)^2$$</p> <p>$$ = 6.9 \\times 10^ - 2$$ mm</p>",
+      "solution": "\\because \\Delta l = Fl(4) \\over Y\\pi d^2 \\Delta l_1 \\over \\Delta l_2 = \\Delta l_1 \\over d_1^2 \u00d7 d_2^2 \\over l_2 0.2 \\over \\Delta l_2 = 1 \\over 2 \u00d7 (2.4)^2 \\Delta l_2 = 2 \u00d7 0.2 \\over (2.4)^2 = 6.9 \u00d7 10^ - 2 mm",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A wire of length ' $L$ ' and radius ' $r$ ' is clamped rigidly at one end. When the other end of the wire is pulled by a force $f$, its length increases by ' $l$ '. Another wire of same material of length ' $2 ~L$ ' and radius ' $2 r$ ' is pulled by a force ' $2 f$ '. Then the increase in its length will be :",
+      "question": "wire of length ' L ' and radius ' r ' is clamped rigidly at one end. When the other end of the wire is pulled by a force f, its length increases by ' l '. Another wire of same material of length ' 2 L ' and radius ' 2 r ' is pulled by a force ' 2 f '. Then the increase in its length will be :",
       "options": {
-        "A": "$2 l$",
-        "B": "$4 l$",
-        "C": "$l$",
-        "D": "$l / 2$"
+        "A": "2 l",
+        "B": "4 l",
+        "C": "l",
+        "D": "l / 2"
       },
       "answer": "C",
-      "solution": "Let $A$ be the cross-sectional area of the first wire, and let $Y$ be its Young's modulus.<br/><br/> The strain in the wire is given by $\\epsilon = \\fraclL$, where $l$ is the increase in length. The stress in the wire is given by $\\sigma = \\fracfA$. <br/><br/>According to Hooke's law, the stress is proportional to the strain, so we have $\\sigma = Y \\epsilon$. Solving for $f$, we get $f = \\fracYAl$. <br/><br/> The second wire has twice the length and four times the cross-sectional area of the first wire, so its cross-sectional area is $4A$ and its Young's modulus is still $Y$. <br/><br/>When a force of $2f$ is applied to this wire, the stress in the wire is $\\sigma = \\frac\u2082f\u2084A = \\fracf\u2082A$.<br/><br/> Using Hooke's law again, we have $\\sigma = Y \\epsilon$. Solving for $\\epsilon$, we get $\\epsilon = \\frac\\sigmaY = \\fracf\u2082AY$. <br/><br/> The increase in length of the second wire is given by $\\Delta l = \\epsilon \\cdot 2L = \\fracf \\cdot 2L\u2082AY$. <br/><br/>Substituting the expression for $f$ that we derived earlier, we get $\\Delta l = \\fracYL \\cdot 2A \\cdot l\u2082AY \\cdot L = \\boxedl$. <br/><br/> Therefore, the increase in length of the second wire is the same as the increase in length of the first wire, which is $l$.",
+      "solution": "Let A be the cross-sectional area of the first wire, and let Y be its Young's modulus.<br/><br/> The strain in the wire is given by \\epsilon = \\fraclL, where l is the increase in length. The stress in the wire is given by \\sigma = \\fracfA. <br/><br/>According to Hooke's law, the stress is proportional to the strain, so we have \\sigma = Y \\epsilon. Solving for f, we get f = \\fracYAl. <br/><br/> The second wire has twice the length and four times the cross-sectional area of the first wire, so its cross-sectional area is 4A and its Young's modulus is still Y. <br/><br/>When a force of 2f is applied to this wire, the stress in the wire is \\sigma = \\frac\u2082f\u2084A = \\fracf\u2082A.<br/><br/> Using Hooke's law again, we have \\sigma = Y \\epsilon. Solving for \\epsilon, we get \\epsilon = \\frac\\sigmaY = \\fracf\u2082AY. <br/><br/> The increase in length of the second wire is given by \\Delta l = \\epsilon \u00b7 2L = \\fracf \u00b7 2L\u2082AY. <br/><br/>Substituting the expression for f that we derived earlier, we get \\Delta l = \\fracYL \u00b7 2A \u00b7 l\u2082AY \u00b7 L = \\boxedl. <br/><br/> Therefore, the increase in length of the second wire is the same as the increase in length of the first wire, which is l.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A wire of length $$L$$ and radius $$r$$ is clamped at one end. If its other end is pulled by a force $$F$$, its length increases by $$l$$. If the radius of the wire and the applied force both are reduced to half of their original values keeping original length constant, the increase in length will become:</p>",
+      "question": "A wire of length L and radius r is clamped at one end. If its other end is pulled by a force F, its length increases by l. If the radius of the wire and the applied force both are reduced to half of their original values keeping original length constant, the increase in length will become:",
       "options": {
         "A": "2 times",
         "B": "4 times",
         "C": "3 times",
-        "D": "$$\\frac\u2083\u2082$$ times"
+        "D": "\\frac\u2083\u2082 times"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginaligned & Y=\\frac\\text stress \\text strain \\\\ & Y=\\frac\\fracF\\frac\\pi r^2\\ell\\frac\\ellL \\endaligned$$</p> <p>$$F=Y \\pi r^2 \\times \\frac\\ellL \\quad \\text.... (i)$$</p> <p>$$\\beginaligned & Y=\\frac\\fracF / 2\\pi r^2 / 4\\frac\\Delta \\ellL \\\\ & F=Y \\frac\\Delta \\ellL \\times 2 \\times \\frac\\pi r^24 \\endaligned$$</p> <p>From (i)</p> <p>$$\\beginaligned & Y \\pi r^2 \\frac\\ellL=Y \\frac\\Delta \\ellL \\frac\\pi r^22 \\\\ & \\Delta \\ell=2 \\ell \\endaligned$$</p>",
+      "solution": "\\beginaligned & Y=\\frac\\text stress \\text strain \\\\ & Y=\\frac\\fracF\\frac\\pi r^2\\ell\\frac\\ellL \\endaligned F=Y \\pi r^2 \u00d7 \\frac\\ellL \\quad \\text.... (i) \\beginaligned & Y=\\frac\\fracF / 2\\pi r^2 / 4\\frac\\Delta \\ellL \\\\ & F=Y \\frac\\Delta \\ellL \u00d7 2 \u00d7 \\frac\\pi r^24 \\endaligned From (i) \\beginaligned & Y \\pi r^2 \\frac\\ellL=Y \\frac\\Delta \\ellL \\frac\\pi r^22 \\\\ & \\Delta \\ell=2 \\ell \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>A pressure-pump has a horizontal tube of cross sectional area $$10 ~cm^2$$ for the outflow of water at a speed of $$20 ~m / s$$. The force exerted on the vertical wall just in front of the tube which stops water horizontally flowing out of the tube, is :</p> <p>[given: density of water $$=1000 ~kg / m^3$$]</p>",
+      "question": "A pressure-pump has a horizontal tube of cross sectional area 10 cm^2 for the outflow of water at a speed of 20 m / s. The force exerted on the vertical wall just in front of the tube which stops water horizontally flowing out of the tube, is : [given: density of water =1000 kg / m^3]",
       "options": {
         "A": "300 N",
         "B": "500 N",
@@ -657,14 +612,14 @@
         "D": "400 N"
       },
       "answer": "D",
-      "solution": "<p>$$F_w = \\rho Av^2$$</p> <p>$$ = 10^3 \\times 10 \\times 10^ - 4 \\times 20 \\times 20$$</p> <p>$$ = 400\\,N$$</p>",
+      "solution": "F_w = \\rho Av^2 = 10^3 \u00d7 10 \u00d7 10^ - 4 \u00d7 20 \u00d7 20 = 400\\,N",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "A silver atom in a solid oscillates in simple harmonic motion in some direction with a frequency of 10<sup>12</sup>/sec. What is the force constant of the bonds connecting one atom with the other? (Mole wt. of silver = 108 and Avogadro number = 6.02 \u00d7 10<sup>23</sup> gm mole<sup>\u20131</sup>)",
+      "question": "silver atom in a solid oscillates in simple harmonic motion in some direction with a frequency of 10<sup>12</sup>/sec. What is the force constant of the bonds connecting one atom with the other? (Mole wt. of silver = 108 and Avogadro number = 6.02 \u00d7 10<sup>23</sup> gm mole<sup>\u20131</sup>)",
       "options": {
         "A": "5.5 N/m",
         "B": "6.4 N/m",
@@ -672,7 +627,7 @@
         "D": "2.2 N/m"
       },
       "answer": "C",
-      "solution": "6.02 $$ \\times $$ 10<sup>23</sup> atoms of silver = 108 gm <br><br>1 atoms of silver = $$108 \\times 10^ - 3 \\over 6.02 \\times 10^23$$ kg <br><br>For a harmonic oscillator <br><br>f = $$1 \\over 2\\pi $$ $$\\sqrt k \\over m $$ <br><br>Where k = force constant <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ f<sup>2</sup> = $$1 \\over 4\\pi ^2$$ $$\\left( k \\over m \\right)$$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ k = mf<sup>2</sup> $$ \\times $$ 4$$\\pi $$<sup>2</sup> <br><br>Given, <br><br>f = 10<sup>12</sup> <br><br>m = $$108 \\times 10^ - 3 \\over 6.02 \\times 10^23$$ <br><br>$$\\therefore\\,\\,\\,$$ k = $$108 \\times 10^ - 3 \\over 6.02 \\times 10^23$$ $$ \\times $$ 10<sup>12</sup> $$ \\times $$ 4$$\\pi $$<sup>2</sup> <br><br>= 7.1 N/m",
+      "solution": "6.02 \u00d7 10<sup>23</sup> atoms of silver = 108 gm <br><br>1 atoms of silver = 108 \u00d7 10^ - 3 \\over 6.02 \u00d7 10^23 kg <br><br>For a harmonic oscillator <br><br>f = 1 \\over 2\\pi \\sqrt k \\over m <br><br>Where k = force constant <br><br> \\Rightarrow \\,\\,\\, f<sup>2</sup> = 1 \\over 4\\pi ^2 \\left( k \\over m \\right) <br><br> \\Rightarrow \\,\\,\\, k = mf<sup>2</sup> \u00d7 4\\pi <sup>2</sup> <br><br>Given, <br><br>f = 10<sup>12</sup> <br><br>m = 108 \u00d7 10^ - 3 \\over 6.02 \u00d7 10^23 <br><br>\\therefore\\,\\,\\, k = 108 \u00d7 10^ - 3 \\over 6.02 \u00d7 10^23 \u00d7 10<sup>12</sup> \u00d7 4\\pi <sup>2</sup> <br><br>= 7.1 N/m",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -681,13 +636,13 @@
     {
       "question": "Assume that a tunnel is dug along a chord of the earth, at a perpendicular distance (R/2) from the earth's centre, where 'R' is the radius of the Earth. The wall of the tunnel is frictionless. If a particle is released in this tunnel, it will execute a simple harmonic motion with a time period :",
       "options": {
-        "A": "$$2\\pi \\sqrt R \\over g $$",
-        "B": "$$g \\over 2\\pi R$$",
-        "C": "$$2\\pi R \\over g$$",
-        "D": "$$1 \\over 2\\pi \\sqrt g \\over R $$"
+        "A": "2\\pi \\sqrt R \\over g",
+        "B": "g \\over 2\\pi R",
+        "C": "2\\pi R \\over g",
+        "D": "1 \\over 2\\pi \\sqrt g \\over R"
       },
       "answer": "A",
-      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2085\u2088/exam_images/zun\u2088khvyufh\u2087t\u2089b\u2084xo\u2083\u2082.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2081\u2085/exam_images/jhpcteln\u2085ehnlo\u2085lrvo\u2087.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2081\u2085/exam_images/xo\u2082\u2082dwnolaqrntc\u2089gtez.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2085\u2089\u2088/exam_images/cbojjsc\u2082runmk\u2086de\u2088mrj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Morning Shift Physics - Simple Harmonic Motion Question 86 English Explanation\"></picture> <br><br>Value of g on the particle of mass m,<br><br>$$g = GMd \\over R^3$$<br><br>Force acting on the particle towards the center of the earth,<br><br>F = mg<br><br>Force along the tunnel = F cos$$\\theta$$ = F<sub>1</sub><br><br>= mg cos$$\\theta$$<br><br>= m . $$GMd \\over R^3$$$$\\left( x \\over d \\right)$$<br><br>= $$GMm \\over R^3$$ . x<br><br>= $$g_sm \\over R.\\,x$$ [as g<sub>s</sub> = $$GM \\over R^2$$ at earth surface]<br><br>$$ \\therefore $$ acceleration along the tunnel<br><br>$$\\alpha$$ = $$F_1 \\over m$$<br><br>= $$g_s \\over R.x$$<br><br>Time period = $$2\\pi \\over \\omega = 2\\pi \\sqrt x \\over \\alpha $$ [as $$\\omega ^2 = \\alpha \\over x$$]<br><br>$$ = 2\\pi \\sqrt R \\over g_s $$",
+      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2085\u2088/exam_images/zun\u2088khvyufh\u2087t\u2089b\u2084xo\u2083\u2082.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2081\u2085/exam_images/jhpcteln\u2085ehnlo\u2085lrvo\u2087.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2081\u2085/exam_images/xo\u2082\u2082dwnolaqrntc\u2089gtez.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2085\u2089\u2088/exam_images/cbojjsc\u2082runmk\u2086de\u2088mrj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Morning Shift Physics - Simple Harmonic Motion Question 86 English Explanation\"> <br><br>Value of g on the particle of mass m,<br><br>g = GMd \\over R^3<br><br>Force acting on the particle towards the center of the earth,<br><br>F = mg<br><br>Force along the tunnel = F cos\\theta = F<sub>1</sub><br><br>= mg cos\\theta<br><br>= m . GMd \\over R^3\\left( x \\over d \\right)<br><br>= GMm \\over R^3 . x<br><br>= g_sm \\over R.\\,x [as g<sub>s</sub> = GM \\over R^2 at earth surface]<br><br> \\therefore acceleration along the tunnel<br><br>\\alpha = F_1 \\over m<br><br>= g_s \\over R.x<br><br>Time period = 2\\pi \\over \\omega = 2\\pi \\sqrt x \\over \\alpha [as \\omega ^2 = \\alpha \\over x]<br><br> = 2\\pi \\sqrt R \\over g_s",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -696,13 +651,13 @@
     {
       "question": "If force (F), length (L) and time (T) are taken as the fundamental quantities. Then what will be the dimension of density :",
       "options": {
-        "A": "[FL<sup>$$-$$4</sup>T<sup>2</sup>]",
-        "B": "[FL<sup>$$-$$3</sup>T<sup>2</sup>]",
-        "C": "[FL<sup>$$-$$5</sup>T<sup>2</sup>]",
-        "D": "[FL<sup>$$-$$3</sup>T<sup>3</sup>]"
+        "A": "[FL<sup>-4</sup>T<sup>2</sup>]",
+        "B": "[FL<sup>-3</sup>T<sup>2</sup>]",
+        "C": "[FL<sup>-5</sup>T<sup>2</sup>]",
+        "D": "[FL<sup>-3</sup>T<sup>3</sup>]"
       },
       "answer": "A",
-      "solution": "Density = [F<sup>a</sup>L<sup>b</sup>T<sup>c</sup>]<br><br>[ML<sup>$$-$$3</sup>] = [M<sup>a</sup>L<sup>a+b</sup>T<sup>$$-$$2a</sup>L<sup>b</sup>T<sup>c</sup>]<br><br>[M<sup>1</sup>L<sup>$$-$$3</sup>] = [M<sup>a</sup>L<sup>a+b</sup>T<sup>$$-$$2a+c</sup>]<br><br>$$\\matrix a = 1 & ; & a + b = - 3 & ; & - 2a + c = 0 \\cr & & 1 + b = - 3 & & c = 2a \\cr & & b = - 4 & & c = 2 \\cr $$<br><br>So, density = [F<sup>1</sup>L<sup>$$-$$4</sup>T<sup>2</sup>]",
+      "solution": "Density = [F<sup>a</sup>L<sup>b</sup>T<sup>c</sup>]<br><br>[ML<sup>-3</sup>] = [M<sup>a</sup>L<sup>a+b</sup>T<sup>-2a</sup>L<sup>b</sup>T<sup>c</sup>]<br><br>[M<sup>1</sup>L<sup>-3</sup>] = [M<sup>a</sup>L<sup>a+b</sup>T<sup>-2a+c</sup>]<br><br>\\matrix a = 1 & ; & a + b = - 3 & ; & - 2a + c = 0 \\cr & & 1 + b = - 3 & & c = 2a \\cr & & b = - 4 & & c = 2 \\cr <br><br>So, density = [F<sup>1</sup>L<sup>-4</sup>T<sup>2</sup>]",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -711,28 +666,28 @@
     {
       "question": "If velocity [V], time [T] and force [F] are chosen as the base quantities, the dimensions of the mass will be :",
       "options": {
-        "A": "[FT<sup>$$-$$1</sup> V<sup>$$-$$1</sup>]",
-        "B": "[FTV<sup>$$-$$1</sup>]",
+        "A": "[FT<sup>-1</sup> V<sup>-1</sup>]",
+        "B": "[FTV<sup>-1</sup>]",
         "C": "[FT<sup>2</sup> V]",
-        "D": "[FVT<sup>$$-$$1</sup>]"
+        "D": "[FVT<sup>-1</sup>]"
       },
       "answer": "B",
-      "solution": "[M] = K[F]<sup>a</sup> [T]<sup>b</sup> [V]<sup>c</sup><br><br>[M<sup>1</sup>] = [M<sup>1</sup>L<sup>1</sup>T<sup>$$-$$2</sup>]<sup>a</sup> [T<sup>1</sup>]<sup>b</sup> [L<sup>1</sup>T<sup>$$-$$1</sup>]<sup>c</sup><br><br>a = 1, b = 1, c = $$-$$1<br><br>$$\\therefore$$ [M] = [FTV<sup>$$-$$1</sup>]",
+      "solution": "[M] = K[F]<sup>a</sup> [T]<sup>b</sup> [V]<sup>c</sup><br><br>[M<sup>1</sup>] = [M<sup>1</sup>L<sup>1</sup>T<sup>-2</sup>]<sup>a</sup> [T<sup>1</sup>]<sup>b</sup> [L<sup>1</sup>T<sup>-1</sup>]<sup>c</sup><br><br>a = 1, b = 1, c = -1<br><br>\\therefore [M] = [FTV<sup>-1</sup>]",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Laws of Motion"
     },
     {
-      "question": "<p>If force (F), velocity (V) and time (T) are considered as fundamental physical quantity, then dimensional formula of density will be :</p>",
+      "question": "If force (F), velocity (V) and time (T) are considered as fundamental physical quantity, then dimensional formula of density will be :",
       "options": {
-        "A": "$$FV^-2 ~T^2$$",
-        "B": "$$FV^4 ~T^-6$$",
-        "C": "$$F^2 ~V^-2 ~T^6$$",
-        "D": "$$FV^-4 ~T^-2$$"
+        "A": "FV^-2 T^2",
+        "B": "FV^4 T^-6",
+        "C": "F^2 V^-2 T^6",
+        "D": "FV^-4 T^-2"
       },
       "answer": "D",
-      "solution": "<p>We know that force (F) has dimensions of $$MLT^-2$$, velocity (V) has dimensions of $$LT^-1$$, and time (T) has dimensions of $$T$$. To express density ($$\\rho$$), which has dimensions of $$ML^-3$$, in terms of F, V, and T, we need to find the exponents of F, V, and T.</p> <p>Let the dimensions of density be expressed as:</p> <p>$$[M]^a [L]^b [T]^c$$</p> <p>Substituting the dimensions of F, V, and T:</p> <p>$$[F]^a [V]^b [T]^c = (MLT^-2)^a (LT^-1)^b (T)^c$$</p> <p>Since density has dimensions of $$ML^-3$$, we can set up the following equations:</p> <p>$$a = 1$$ (for the mass term M)<br/><br/> $$a + b = -3$$ (for the length term L)<br/><br/> $$-2a - b + c = 0$$ (for the time term T)</p> <p>Solving these equations, we get:</p> <p>$$a = 1$$<br/><br/> $$b = -4$$<br/><br/> $$c = -2$$</p> <p>Thus, the dimensional formula of density in terms of F, V, and T is:</p> <p>$$FV^-4 T^-2$$</p>",
+      "solution": "We know that force (F) has dimensions of MLT^-2, velocity (V) has dimensions of LT^-1, and time (T) has dimensions of T. To express density (\\rho), which has dimensions of ML^-3, in terms of F, V, and T, we need to find the exponents of F, V, and T. Let the dimensions of density be expressed as: [M]^a [L]^b [T]^c Substituting the dimensions of F, V, and T: [F]^a [V]^b [T]^c = (MLT^-2)^a (LT^-1)^b (T)^c Since density has dimensions of ML^-3, we can set up the following equations: a = 1 (for the mass term M)<br/><br/> a + b = -3 (for the length term L)<br/><br/> -2a - b + c = 0 (for the time term T) Solving these equations, we get: a = 1<br/><br/> b = -4<br/><br/> c = -2 Thus, the dimensional formula of density in terms of F, V, and T is: FV^-4 T^-2",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",

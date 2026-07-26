@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Cell Cycle and Cell Division",
-  "total_questions": 102,
+  "total_questions": 96,
   "questions": [
     {
       "question": "Examine the cell division stage diagram shown below. During which phase of mitosis do all chromosomes align along the equatorial metaphase plate and attach to spindle fibers via kinetochores?",
@@ -61,21 +61,6 @@
       "solution": "# Correct Answer: **(A) Leptotene-Zygotene-Pachytene-Diplotene-Diakinesis** --- ## Step-by-Step Explanation of Each Substage: | Substage | What Happens | Key Feature | |----------|--------------|------------| | **Leptotene** | Chromosomes condense as thin threads; homologous chromosomes begin pairing | Chromosomes appear \"thin\" | | **Zygotene** | Homologous chromosomes pair (synapsis) | Pairing occurs; bivalents form | | **Pachytene** | Bivalents are fully formed; chromosomes appear thick; **crossing over occurs** | Chromosomes appear \"thick\" | | **Diplotene** | Homologous chromosomes start to repel each other; remain attached at chiasmata | Separation begins | | **Diakinesis** | Chiasmata move toward chromosome ends (terminalization); chromosomes maximally condensed | Final separation stage | --- ## Why Other Options Are Wrong: - **(B)** Pachytene before Zygotene is incorrect - synapsis (pairing) must occur before thick chromosome formation - **(C)** Zygotene before Leptotene is wrong - condensation occurs first in Leptotene - **(D)** Diplotene before Pachytene is incorrect - pairing must be complete before separation begins --- ## Key Memory Aid: **\"LZPDD\"** - Remember the **L**eptotene-**Z**ygotene-**P**achytene-**D**iplotene-**D**iakinesis sequence The progression follows the pairing and separation of homologous chromosomes logically and chronologically during meiosis I.",
       "exam": "NEET 2017",
       "year": 2017,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
-      "question": "Select correct sequence of substages of Prophase-I of meiotic division: (A) Zygotene (B) Pachytene (C) Diakinesis (D) Leptotene (E) Diplotene Choose the correct answer from the options given below:",
-      "options": {
-        "A": "$(",
-        "B": ", (",
-        "C": ", (",
-        "D": ", (E), ("
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The correct sequence of substages of Prophase-I are Leptotene Zygotene Pachytene Diplotene Diakinesis So the correct sequence is $D, A, B, E, C$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Cell Cycle and Cell Division"
     },
@@ -455,7 +440,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "Match List-I with List-II. $\\beginarray|l|l|r|l|\\hline & \\beginarrayl \\textList-I \\\\ \\textEvent \\endarray & & \\beginarrayl \\textList-II \\\\ \\textStage of Prophase-I (Meiosis-I) \\endarray \\\\ \\hline A. & \\textChiasmata formation & I. & \\textPachytene \\\\ \\hline B. & \\textCrossing over & II. & \\textDiakinesis \\\\ \\hline C. & \\textSynaptonemal complex formation & III. & \\textDiplotene \\\\ \\hline D. & \\textTerminalisation of chiasmata & IV. & \\textZygotene \\\\ \\hline \\endarray$ Choose the correct answer from the options given below :",
+      "question": "Match List-I with List-II. \\beginarray|l|l|r|l|\\hline & \\beginarrayl \\textList-I \\\\ \\textEvent \\endarray & & \\beginarrayl \\textList-II \\\\ \\textStage of Prophase-I (Meiosis-I) \\endarray \\\\ \\hline A. & \\textChiasmata formation & I. & \\textPachytene \\\\ \\hline B. & \\textCrossing over & II. & \\textDiakinesis \\\\ \\hline C. & \\textSynaptonemal complex formation & III. & \\textDiplotene \\\\ \\hline D. & \\textTerminalisation of chiasmata & IV. & \\textZygotene \\\\ \\hline \\endarray Choose the correct answer from the options given below :",
       "options": {
         "A": "-III, B-I, C-IV, D-II",
         "B": "A-II, B-I, C-III, D-IV",
@@ -545,21 +530,6 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "Doubling of the number of chromosomes can be achieved by disrupting mitotic cell division soon after",
-      "options": {
-        "A": "Prophase",
-        "B": "Metaphase",
-        "C": "Anaphase",
-        "D": "Anaphase"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) Metaphase** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
       "question": "The dissolution of synaptonemal complex occurs during",
       "options": {
         "A": "Diakinesis",
@@ -622,9 +592,9 @@
     {
       "question": "Select the correct statements.A. Tetrad formation is seen during the Leptotene.B. During Anaphase, the centromeres split and chromatids separate.C. Terminalization takes place during Pachytene.D. Nucleolus, Golgi complex and ER are reformed during Telophase.E. Crossing over takes place between sister chromatids of homologous chromosomes.Choose the correct answer from the options given below:",
       "options": {
-        "A": "B and E only",
-        "B": "A and C only",
-        "C": "B and D only",
+        "A": "and E only",
+        "B": "and C only",
+        "C": "and D only",
         "D": "A, C and E only"
       },
       "answer": "C",
@@ -725,21 +695,6 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "Match Column - I with Column - II. Column -I Column -II (a) S phase (i) Proteins are synthesized (b) G\u2082 phase (ii) Inactive phase (c) Quiescent stage (iii) Interval between mitosis and initiation of DNA replication (d) G\u2081 phase (iv) DNA replication Choose the correct answer from options given below.",
-      "options": {
-        "A": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo> </mo><mo> </mo></math>",
-        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo> </mo><mo> </mo></math>",
-        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo> </mo><mo> </mo></math>",
-        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo> </mo><mo> </mo></math>"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>;</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo> </mo><mo> </mo></math>** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
       "question": "The centriole undergoes duplication during:",
       "options": {
         "A": "S-phase",
@@ -800,21 +755,6 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "In a mitotic cycle, the correct sequence of phases is:",
-      "options": {
-        "A": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi mathvariant=\"normal\">S</mi><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>1</mn></msub><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant=\"normal\">M</mi></math>",
-        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">G</mi><mn>1</mn></msub><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant=\"normal\">M</mi></math>",
-        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi mathvariant=\"normal\">M</mi><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>1</mn></msub><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant=\"normal\">S</mi></math>",
-        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">G</mi><mn>1</mn></msub><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><mi mathvariant=\"normal\">M</mi></math>"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><msub><mi mathvariant=\"normal\">G</mi><mn>1</mn></msub><mo>,</mo><mi mathvariant=\"normal\">S</mi><mo>,</mo><msub><mi mathvariant=\"normal\">G</mi><mn>2</mn></msub><mo>,</mo><mi mathvariant=\"normal\">M</mi></math>** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
       "question": "During meiosis I, in which stage synapsis takes place?",
       "options": {
         "A": "Pachytene",
@@ -824,21 +764,6 @@
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Zygotene** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
-      "question": "Match the following events that occur in their respective phases of the cell cycle and select the correct option: Column-I Column-II (a) G\u2081 phase (i) Cell grows and organelle duplication (b) S phase (ii) DNA replication and chromosome duplication (c) G\u2082 phase (iii) Cytoplasmic growth (d) Metaphase in M-phase (iv) Alignment of chromosomes",
-      "options": {
-        "A": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
-        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>",
-        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo></math>",
-        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>"
-      },
-      "answer": "D",
-      "solution": "**Correct Answer: (D) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (D) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1010,7 +935,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "A cell at the telophase stage is observed by a student in a plant brought from the field. He tells his teacher that this cell is not like other cells at the telophase stage. There is no formation of the cell plate and thus the cell is containing more chromosomes as compared to other dividing cells. This would result in:",
+      "question": "cell at the telophase stage is observed by a student in a plant brought from the field. He tells his teacher that this cell is not like other cells at the telophase stage. There is no formation of the cell plate and thus the cell is containing more chromosomes as compared to other dividing cells. This would result in:",
       "options": {
         "A": "neuploidy",
         "B": "Polyploidy",
@@ -1019,21 +944,6 @@
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Polyploidy** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Cell Cycle and Cell Division"
-    },
-    {
-      "question": "Select the correct option: I II (a) Synapsis aligns homologous chromosomes (i) Anaphase \u2013 II (b) Synthesis of RNA and protein (ii) Zygotene (c) Action of enzyme recombinase (iii) G\u2082 \u2013 phase (d) Centromeres do not separate but chromatids move towards opposite poles (iv) Anaphase \u2013 I (v) Pachytene",
-      "options": {
-        "A": "<math><mtable><mtr><mtd><mo>(</mo><mi>a</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>b</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>c</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>d</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math>",
-        "B": "<math><mtable><mtr><mtd><mo>(</mo><mi>a</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>b</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>c</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>d</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math>",
-        "C": "<math><mtable><mtr><mtd><mo>(</mo><mi>a</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>b</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>c</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>d</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math>",
-        "D": "<math><mtable><mtr><mtd><mo>(</mo><mi>a</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>b</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>c</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>d</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math>"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) <math><mtable><mtr><mtd><mo>(</mo><mi>a</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>b</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>i</mi><mi>i</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>c</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math> <math><mtable><mtr><mtd><mo>(</mo><mi>d</mi><mo>)</mo></mtd></mtr><mtr><mtd><mo>(</mo><mi>i</mi><mi>v</mi><mo>)</mo></mtd></mtr></mtable></math>** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1070,7 +980,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "A somatic cell that has just completed the S phase of its cell cycle, as compared to gamete of the same species, has:",
+      "question": "somatic cell that has just completed the S phase of its cell cycle, as compared to gamete of the same species, has:",
       "options": {
         "A": "Twice the number of chromosomes and twice the amount of DNA",
         "B": "Same number of chromosomes but twice the amount of DNA",
@@ -1145,7 +1055,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "A stage of mitosis is shown in the diagram. Which stage is it and what are its characteristics? [Image: https://cdn-question-pool.getmarks.app/pyq/neet/O\u2082\u2083HDBdW\u2088XBkHC\u2086AQXLqoICO-VOz\u2080pJnWhuNIQuZ\u2086QU.original.fullsize.png]",
+      "question": "stage of mitosis is shown in the diagram. Which stage is it and what are its characteristics? [Image: https://cdn-question-pool.getmarks.app/pyq/neet/O\u2082\u2083HDBdW\u2088XBkHC\u2086AQXLqoICO-VOz\u2080pJnWhuNIQuZ\u2086QU.original.fullsize.png]",
       "options": {
         "A": "Metaphase - Spindle fibers attached to kinetochores, centromeres split and chromatids separate.",
         "B": "Metaphase- Chromosomes moved to spindle equator, chromosomes made up of two sister chromatids.",
@@ -1265,7 +1175,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "Which stages of cell division do the following figures $A$ and $B$ represent respectively? [Image: https://cdn-question-pool.getmarks.app/pyq/neet/_cx\u2082LYhNNIyWMmc_ST\u2085aWRti\u2083\u2083xXnyuKMIk\u2082anqG\u2082QM.original.fullsize_2.png]",
+      "question": "Which stages of cell division do the following figures A and B represent respectively? [Image: https://cdn-question-pool.getmarks.app/pyq/neet/_cx\u2082LYhNNIyWMmc_ST\u2085aWRti\u2083\u2083xXnyuKMIk\u2082anqG\u2082QM.original.fullsize_2.png]",
       "options": {
         "A": "Metaphase - Telophase",
         "B": "Telophase - Metaphase",
@@ -1327,7 +1237,7 @@
     {
       "question": "At what stage of the cell cycle arc histone proteins synthesized in a eukaryotic cell?",
       "options": {
-        "A": "during $G_2$ stage of prophase",
+        "A": "during G_2 stage of prophase",
         "B": "during S-phase",
         "C": "during entire prophase",
         "D": "uring telophase."
@@ -1357,10 +1267,10 @@
     {
       "question": "In the somatic cell cycle:",
       "options": {
-        "A": "in $G_1$ phase DNA content is double the amount of DNA present in the original cell",
+        "A": "in G_1 phase DNA content is double the amount of DNA present in the original cell",
         "B": "DNA replication takes place in S-phase",
         "C": "a short inter phase is followed by a long mitotic phase.",
-        "D": "$G_2$ phase follows mitotic phase."
+        "D": "G_2 phase follows mitotic phase."
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) DNA replication takes place in S-phase** **Explanation:** Based on NCERT Biology principles for *Cell Cycle and Cell Division*, option (B) is the accurate scientific choice.",
@@ -1385,7 +1295,7 @@
       "chapter": "Cell Cycle and Cell Division"
     },
     {
-      "question": "Which one of the following precedes reformation of the nuclear envelope during $M$ phase of the cell cycle?",
+      "question": "Which one of the following precedes reformation of the nuclear envelope during M phase of the cell cycle?",
       "options": {
         "A": "decondensation from chromosomes, and reassembly of the nuclear lamina",
         "B": "transcription from chromosomes, and reassembly of the nuclear lamina.",
@@ -1418,7 +1328,7 @@
       "question": "NEET 2026 (1) Spermatogonia undergo a series of cell divisions to produce sperms. Select the correct statements from the following: A. Spermatogonia always undergo meiotic cell division. B. Primary spermatocytes divide mitotically to produce secondary spermatocytes. C. Secondary spermatocytes, through their second meiotic division, produce haploid spermatids. D. Spermatids produce spermatozoa through mitosis. E. Spermatids transform into spermatozoa by spermiogenesis. Choose the correct answer from the options given below: (NEET 2026)",
       "options": {
         "A": "nd E only",
-        "B": "C and E only",
+        "B": "and E only",
         "C": "and",
         "D": "only"
       },

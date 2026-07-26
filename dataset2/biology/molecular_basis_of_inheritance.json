@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Molecular Basis of Inheritance",
-  "total_questions": 237,
+  "total_questions": 233,
   "questions": [
     {
       "question": "Refer to the double-stranded DNA helical model diagrammed below. According to Chargaff's rule and Watson-Crick base pairing, what holds the complementary nitrogenous bases (A-T and G-C) together?",
@@ -13,7 +13,7 @@
         "D": "Ionic bonds"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Genetics:** Nitrogenous base pairs on opposite antiparallel strands are joined by Hydrogen bonds: Adenine forms 2 hydrogen bonds with Thymine ($A = T$), while Guanine forms 3 hydrogen bonds with Cytosine ($G \u2261 C$).",
+      "solution": "**Correct Answer: (A)** **Genetics:** Nitrogenous base pairs on opposite antiparallel strands are joined by Hydrogen bonds: Adenine forms 2 hydrogen bonds with Thymine (A = T), while Guanine forms 3 hydrogen bonds with Cytosine (G \u2261 C).",
       "exam": "NEET CBT Molecular Genetics Diagram PYQ",
       "year": 2024,
       "subject": "Biology",
@@ -50,21 +50,6 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "With reference to Hershey and Chase experiments. Select the correct statements. (A) Viruses grown in the presence of radioactive phosphorus contained radioactive DNA. (B) Viruses grown on radioactive sulphur contained radioactive proteins. (C) Viruses grown on radioactive phosphorus contained radioactive protein. (D) Viruses grown on radioactive sulphur contained radioactive DNA. (E) Viruses grown on radioactive protein contained radioactive DNA. Choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "$(",
-        "B": "$ and $(",
-        "C": "$ only B $(",
-        "D": "$ and $("
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In Hershey and Chase experiment, after centrifugation the bacterial cells showed the presence of a radioactive DNA labelled with $P^32$ while radioactive protein labelled with $S^35$ appeared outside the bacterial cell i.e. in the medium. Labelled DNA was also found in the next generation of phage. Bacteria that were infected with viruses that had radioactive protein were not radioactive. Statement A and B are correct. Hence option (4) is correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Molecular Basis of Inheritance"
-    },
-    {
       "question": "What is the distance between two consecutive base pairs in a DNA double helix?",
       "options": {
         "A": "pproximately",
@@ -80,7 +65,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "Which scientist conducted an experiment with $ ^32 P$ and $ ^35 ~S$ labelled phages for demonstrating that DNA is the genetic material?",
+      "question": "Which scientist conducted an experiment with ^32 P and ^35 S labelled phages for demonstrating that DNA is the genetic material?",
       "options": {
         "A": "F. Griffith BO.T. Avery,",
         "B": "M. MacLeod and M. McCarty C James",
@@ -88,7 +73,7 @@
         "D": "Crick"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** DNA is the genetic material was un\u2261ocally proved from Hershey-Chase experiment. They conducted an experiment with $ ^32 P$ and $ ^35 ~S$ labelled phages for demonstrating that DNA is genetic material. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** DNA is the genetic material was un\u2261ocally proved from Hershey-Chase experiment. They conducted an experiment with ^32 P and ^35 S labelled phages for demonstrating that DNA is genetic material. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -127,9 +112,9 @@
     {
       "question": "Which type of radiation causes DNA damage leading to neoplastic transformation?",
       "options": {
-        "A": "Ionizing radiations B Non-ionizing radiations C Both",
+        "A": "Ionizing radiations B Non-ionizing radiations",
         "B": "and",
-        "C": "D Neither",
+        "C": "Neither",
         "D": "nor"
       },
       "answer": "A",
@@ -181,21 +166,6 @@
       "solution": "## Answer: **(B) Southern Blotting** --- ## Step-by-Step Explanation ### What is DNA Fingerprinting? DNA fingerprinting is a technique to identify individuals based on their unique DNA profiles by analyzing variable regions in their genome (like VNTRs - Variable Number Tandem Repeats). ### Why Southern Blotting? **Southern Blotting** is the classical technique for DNA fingerprinting because it: 1. **Cuts DNA** with restriction enzymes at specific recognition sites 2. **Separates fragments** by gel electrophoresis 3. **Hybridizes** with radioactive/fluorescent DNA probes 4. **Detects** specific DNA sequences as bands on X-ray film 5. **Creates a unique pattern** that acts as a fingerprint ### What About Other Options? | Technique | Purpose | Why NOT for DNA Fingerprinting | |-----------|---------|------| | **PCR** | Amplifies DNA segments | Only amplifies, doesn't identify variable regions | | **Northern Blotting** | Detects RNA, not DNA | Targets RNA molecules, not DNA | | **Western Blotting** | Detects proteins | Works on proteins, not DNA | --- ## Key Concept to Remember **Southern Blotting = DNA Detection** **Northern Blotting = RNA Detection** **Western Blotting = Protein Detection** *Hint: Remember \"SNW\" (Southern, Northern, Western) in order of molecules they detect: DNA \\u\u2082\u2081\u2089\u2082 RNA \\u\u2082\u2081\u2089\u2082 Protein* --- **Why Southern Blotting is used:** It can detect polymorphisms (variations) in specific DNA regions between individuals, creating a unique pattern like a fingerprint for identification in forensics, paternity testing, etc.",
       "exam": "NEET 2022",
       "year": 2022,
-      "subject": "Biology",
-      "chapter": "Molecular Basis of Inheritance"
-    },
-    {
-      "question": "In sea urchin DNA, which is double-stranded, 17% of the bases were shown to be cytosine. The percentages of the other three bases expected to be present in this DNA are",
-      "options": {
-        "A": "G\u2083\u2084%,",
-        "B": "5%, T",
-        "C": "5% B G\u2081\u2087%,",
-        "D": "5%, T"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to Chargaff's rule, A = T, G = CC = 17% So G = 17% A+G / T+C =1 A + G + C + T = 100 A + 17 + 17 + T = 100 A + T = 100 - 34 So A = 33%, T = 33% = 66 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Molecular Basis of Inheritance"
     },
@@ -695,7 +665,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A specific recognition sequence identified by endonucleases to make cuts at specific positions within the DNA is:",
+      "question": "specific recognition sequence identified by endonucleases to make cuts at specific positions within the DNA is:",
       "options": {
         "A": "Palindromic Nucleotide sequences",
         "B": "Poly(A) tail sequences",
@@ -719,21 +689,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) RNA** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Molecular Basis of Inheritance*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Molecular Basis of Inheritance"
-    },
-    {
-      "question": "With regard to insulin choose correct options. (a) C-peptide is not present in mature insulin. (b) The insulin produced by rDNA technology has C-peptide. (c) The pro-insulin has C-peptide. (d) A-peptide and B-peptide of insulin are interconnected by disulphide bridges Choose the correct answer from the options given below.",
-      "options": {
-        "A": "(a), (c) and (d) only",
-        "B": "and (d) only",
-        "C": "and (d) only",
-        "D": "and (c) only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) (a), (c) and (d) only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Molecular Basis of Inheritance*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -1010,7 +965,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A transcription unit in DNA is defined primarily by the three regions in DNA and these are with respect to upstream and down stream end.",
+      "question": "transcription unit in DNA is defined primarily by the three regions in DNA and these are with respect to upstream and down stream end.",
       "options": {
         "A": "Structural gene, Transposons, Operator gene",
         "B": "Inductor, Repressor, Structural gene",
@@ -1115,7 +1070,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A kind of biotechnology involving manipulation of DNA is",
+      "question": "kind of biotechnology involving manipulation of DNA is",
       "options": {
         "A": "DNA replication",
         "B": "Genetic engineering",
@@ -1148,9 +1103,9 @@
       "question": "Insect resistant transgenic cotton has been produced by inserting a piece of DNA from",
       "options": {
         "A": "n insect",
-        "B": "A bacterium",
-        "C": "A wild relative of cotton",
-        "D": "A virus"
+        "B": "bacterium",
+        "C": "wild relative of cotton",
+        "D": "virus"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) A bacterium** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (B) is the accurate scientific choice.",
@@ -1179,7 +1134,7 @@
       "options": {
         "A": "n antifeedent",
         "B": "oth sense and antisense RNA",
-        "C": "A particular hormone",
+        "C": "particular hormone",
         "D": "Toxic protein"
       },
       "answer": "B",
@@ -1343,7 +1298,7 @@
       "question": "DNA fingerprinting technique was discovered by",
       "options": {
         "A": "Wilmut",
-        "B": "A Jeffreys",
+        "B": "Jeffreys",
         "C": "Ethoven",
         "D": "Kary Mullis"
       },
@@ -1460,10 +1415,10 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A probe which is a molecule used to locate specific sequences in a mixture of DNA or RNA molecules could",
+      "question": "probe which is a molecule used to locate specific sequences in a mixture of DNA or RNA molecules could",
       "options": {
         "A": "single-stranded RNA",
-        "B": "A single-stranded DNA",
+        "B": "single-stranded DNA",
         "C": "Either RNA or DNA",
         "D": "Can be ssDNA but not ssRNA"
       },
@@ -1493,9 +1448,9 @@
       "question": "Genomic DNA library means",
       "options": {
         "A": "collection of literature about DNA",
-        "B": "A collection of organisms for extracting DNA",
+        "B": "collection of organisms for extracting DNA",
         "C": "Packing of donor DNA in a collection of vectors",
-        "D": "A collection of gene vectors"
+        "D": "collection of gene vectors"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Packing of donor DNA in a collection of vectors** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (C) is the accurate scientific choice.",
@@ -2300,7 +2255,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A number of bacteria with recombinant DNA of same type form:",
+      "question": "number of bacteria with recombinant DNA of same type form:",
       "options": {
         "A": "Clone library",
         "B": "Gene library",
@@ -2375,7 +2330,7 @@
       "chapter": "Molecular Basis of Inheritance"
     },
     {
-      "question": "A technique used to make numerous copies of a specific segment of DNA quickly and accurately:",
+      "question": "technique used to make numerous copies of a specific segment of DNA quickly and accurately:",
       "options": {
         "A": "Ligase chain reaction",
         "B": "Transcription",
@@ -2662,13 +2617,13 @@
     {
       "question": "1 \u00b7 NEET 2019 Odisha \u00b7 ReNEET 2026 Which of the following statements about the lac-operon is correct?",
       "options": {
-        "A": "Gene $i$ is constitutively expressed",
+        "A": "Gene i is constitutively expressed",
         "B": "Lactose activates the repressor to bind to the operator",
-        "C": "Genes $i$, $z$, $y$ and $a$ share a single common promoter",
+        "C": "Genes i, z, y and a share a single common promoter",
         "D": "Galactose can act as an inducer of the lac operon"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A. Gene $i$ is constitutively expressed** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A. Gene i is constitutively expressed** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -2699,21 +2654,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) AUG** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Molecular Basis of Inheritance"
-    },
-    {
-      "question": "1 \u00b7 NEET 2016 Phase 2 Which one of the following statements about Histones is wrong?",
-      "options": {
-        "A": "Histones are rich in amino acids - Lysine and Arginine",
-        "B": "Histones carry positive charge in the side chain.",
-        "C": "Histones are organized to form a unit of 8 molecules.",
-        "D": "The pH of histones is slightly acidic Two ways to go deeper on this chapter Choose your next step \\U\u2080\u2080\u2080\u2081f\u2084d\u2086 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u\u2082\u2081\u2089\u2082 \\u\u2082\u2086a\u2081 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u\u2082\u2082\u2081\u2082\u2081 marking, countdown timer. Free in the app. Generate \\u\u2082\u2081\u2089\u2082"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) Histones are rich in amino acids - Lysine and Arginine** **Explanation:** Based on NCERT Biology principles for *Molecular Basis of Inheritance*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",

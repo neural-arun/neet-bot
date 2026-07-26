@@ -1,23 +1,8 @@
 {
   "subject": "Chemistry",
   "chapter": "Chemical Kinetics",
-  "total_questions": 60,
+  "total_questions": 54,
   "questions": [
-    {
-      "question": "The rate of a first order reaction is $1.5 \\times$ $10^-2 ~mol ~L^-1 ~min^-1$ at $0.5 M$ concentration of the reactant. The half life of the reaction is:",
-      "options": {
-        "A": "$",
-        "B": "383 ~min$ B $2",
-        "C": "1 ~min$",
-        "D": "73 ~min$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let the reaction be $$ \\beginaligned & A k\\longrightarrow \\text Product \\\\ & \\text Rate =k[~A] \\\\ & 1.5 \\times 10^-2 ~mol \\textrm L ^ - 1 min ^ - 1 = k [ 0 . 5 ] \\\\ & k=\\frac\u2081.5 \\times 10^-20.5 \\\\ &=3 \\times 10^-2 ~min^-1 \\\\ & t_1 / 2=\\frac\u2080.693k \\\\ & \\Rightarrow \\quad t_1 / 2=\\frac\u2080.6933 \\times 10^-2 \\\\ &=0.231 \\times 10^2 ~min \\\\ & \\Rightarrow \\quad t_1 / 2=23.1 ~min \\endaligned $$ Related Theory Decay profiles for first-order reactions with large and small rate constants **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
     {
       "question": "The rate constant for the decomposition of N\u2082 O\u2085 at various temperatures is given below: Calculate the values of A and E a .",
       "options": {
@@ -58,21 +43,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** E a f - E a b = \u0394 H = - 15 kcal \u21d2 E a f = - 15 + 20 = 5 kcal k catalyst k a = e E a - E a catalyst / RT = e 5 - 3 \u00d7 10 3 / 2 \u00d7 40 0 = e 2 . 5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The decomposition of NH 3 on the platinum surface is zero order reaction. What are the rates of production of N\u2082 and H\u2082 if k=2.5 \u00d7 10 \u20134 mol \u20131 L s \u20131 ?",
-      "options": {
-        "A": "Rate of production of N\u2082 =",
-        "B": "5\u00d710 \u22124 M/s ; Rate of production of H\u2082 =",
-        "C": "5\u00d710 \u22124 M/s B Rate of production of N\u2082 =",
-        "D": "5\u00d710 \u22124 M/s ; Rate of production of H\u2082 ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Rate of production of N\u2082 = 2.5\u00d710 \u22124 M/s ; Rate of production of H\u2082 = 7.5\u00d710 \u22124 M/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -139,36 +109,6 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For a reaction, activation energy $E_a=0$ and the rate constant at $200 ~K$ is $1.6 \\times 10^6 ~s^-1$. The rate constant at $400 ~K$ will be [Given that gas constant $R=8.314 JK^-1 ~mol^-1$ ]",
-      "options": {
-        "A": "$",
-        "B": "2 \\times 10^4 ~s^-1$",
-        "C": "6 \\times 10^6 ~s^-1$",
-        "D": "6 \\times 10^3 ~s^-1$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Key Idea Rate constants at two different temperatures is given by Arrhenius equation as follows: $$ \\log \\frack_2k_1=\\fracE_a\u2082.303 R\\left[\\frac\u2081T_1-\\frac\u2081T_2\\right], T_2>T_1 $$ Given, $E_a=0, ~T_1=200 ~K, k_1=1.6 \\times 10^6 ~s^-1$ $$ T_2=400 ~K, R=8.314 JK^-1 ~mol^-1 $$ According to Arrhenius equation, $$ \\log \\frack_2k_1=\\fracE_a\u2082.303 R\\left[\\frac\u2081~T_1-\\frac\u2081~T_2\\right] $$ On substituting the given values in above equation, we get $$ \\beginaligned & \\log \\frack_21.6 \\times 10^6=\\frac\u2080\u2082.303 \\times 8.314\\left[\\fracl\u2082\u2080\u2080-\\fracl\u2084\u2080\u2080\\right] \\\\ & \\log \\left(\\frack_21.6 \\times 10^6\\right)=0 \\\\ & \\frack_21.6 \\times 10^6=10^0=1 \\\\ & k_2=1.6 \\times 10^6 ~s^-1 \\text at 400 ~K \\endaligned $$ Thus, option (2) is correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The half life of a first order reaction is 2000 years. If the concentration after 8000 years is $0.02 M$, then the initial concentration was :",
-      "options": {
-        "A": "$",
-        "B": "16 M$",
-        "C": "32 M$",
-        "D": "08 M$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Half life period $\\left(t_1 / 2\\right)=2000$ years $\\beginaligned k & =\\frac\u2080.6932000 \\\\ k & =\\frac\u2082.303t \\log \\frac[A]_o[~A]_t \\\\ \\frac\u2080.6932000 & =\\frac\u2082.3038000 \\log \\frac[A]_o\u2080.02 \\\\ \\therefore \\quad[A]_o & =0.32 M \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "The initial concentration of N\u2082 O\u2085 in the following first order reaction: N\u2082 O\u2085 (g) \u2192 2 NO 2 (g) + (1/2) O\u2082 (g) was 1.24 \u00d7 10 \u20132 mol L \u20131 at 318 K. The concentration of N\u2082 O\u2085 after 60 minutes was 0.20 \u00d7 10 \u20132 mol L \u20131 .Calculate the rate constant of the reaction at 318 K.",
       "options": {
         "A": "k =",
@@ -199,15 +139,15 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate of a reaction quadruples when temperature changes from $27^\\circ C$ to $57^\\circ C$. Calculate the energy o activation. Given $R=8.314 ~J ~K^-1 ~mol^-1, \\log 4=0.6021$",
+      "question": "The rate of a reaction quadruples when temperature changes from 27^\\circ C to 57^\\circ C. Calculate the energy o activation. Given R=8.314 J K^-1 mol^-1, \\log 4=0.6021",
       "options": {
-        "A": "$38",
-        "B": "4 ~kJ / mol$",
-        "C": "80 ~kJ / mol$ C $3804 ~kJ / mol$ D $3",
-        "D": "04 ~kJ / mol$"
+        "A": "38",
+        "B": "4 kJ / mol",
+        "C": "80 kJ / mol C 3804 kJ / mol D 3",
+        "D": "04 kJ / mol"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $\\beginaligned & \\log \\left(\\frack_2k_1\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081~T_1-\\frac\u2081~T_2\\right) \\\\ & \\log \\left(\\frac\u2084\u2081\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081\u2083\u2080\u2080-\\frac\u2081\u2083\u2083\u2080\\right) \\\\ & E_a=\\frac(\\log (4)) \\times 2.303 \\times 8.314 \\times 300 \\times 33030 \\\\ & =3.804 \\times 10^4 ~J / mol \\\\ & =38.04 ~kJ / mol\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \\beginaligned & \\log \\left(\\frack_2k_1\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081 T_1-\\frac\u2081 T_2\\right) \\\\ & \\log \\left(\\frac\u2084\u2081\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081\u2083\u2080\u2080-\\frac\u2081\u2083\u2083\u2080\\right) \\\\ & E_a=\\frac(\\log (4)) \u00d7 2.303 \u00d7 8.314 \u00d7 300 \u00d7 33030 \\\\ & =3.804 \u00d7 10^4 J / mol \\\\ & =38.04 kJ / mol\\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -222,22 +162,22 @@
         "D": "1"
       },
       "answer": "A",
-      "solution": "## Answer: **(A) 2** --- ## Step-by-Step Solution **Step 1: Write the initial rate expression** $$\\textrate_1 = k[A]^2[B]$$ **Step 2: Apply the new concentrations** - [A]new = 2[A] - [B]new = [B]/2 $$\\textrate_2 = k(2[A])^2\\left(\\frac[B]2\\right)$$ **Step 3: Simplify** $$\\textrate_2 = k \\times 4[A]^2 \\times \\frac[B]2$$ $$\\textrate_2 = \\frac\u2084\u2082 \\times k[A]^2[B]$$ $$\\textrate_2 = 2 \\times k[A]^2[B] = 2 \\times \\textrate_1$$ **Step 4: Find the factor** $$\\frac\\textrate_2\\textrate_1 = 2$$ --- ## Key Concept to Remember **The rate law depends only on the powers of concentrations, not on stoichiometric coefficients:** - If a reactant has power **n** in the rate law, changing its concentration by factor **x** changes the rate by factor **x\u207f** In this problem: - Doubling [A] (power = 2): factor = 2\u00b2 = 4\u00d7 - Halving [B] (power = 1): factor = (1/2)\u00b9 = 0.5\u00d7 - Combined effect: 4 \u00d7 0.5 = **2\u00d7** --- ## Why Other Options Are Wrong **(B) 4**: This would be true if only [A] was doubled and [B] remained constant **(C) 0.5**: This would be true if only [B] was halved and [A] remained constant **(D) 1**: This would mean no change in rate, which is incorrect",
+      "solution": "## Answer: **(A) 2** --- ## Step-by-Step Solution **Step 1: Write the initial rate expression** \\textrate_1 = k[A]^2[B] **Step 2: Apply the new concentrations** - [A]new = 2[A] - [B]new = [B]/2 \\textrate_2 = k(2[A])^2\\left(\\frac[B]2\\right) **Step 3: Simplify** \\textrate_2 = k \u00d7 4[A]^2 \u00d7 \\frac[B]2 \\textrate_2 = \\frac\u2084\u2082 \u00d7 k[A]^2[B] \\textrate_2 = 2 \u00d7 k[A]^2[B] = 2 \u00d7 \\textrate_1 **Step 4: Find the factor** \\frac\\textrate_2\\textrate_1 = 2 --- ## Key Concept to Remember **The rate law depends only on the powers of concentrations, not on stoichiometric coefficients:** - If a reactant has power **n** in the rate law, changing its concentration by factor **x** changes the rate by factor **x\u207f** In this problem: - Doubling [A] (power = 2): factor = 2\u00b2 = 4\u00d7 - Halving [B] (power = 1): factor = (1/2)\u00b9 = 0.5\u00d7 - Combined effect: 4 \u00d7 0.5 = **2\u00d7** --- ## Why Other Options Are Wrong **(B) 4**: This would be true if only [A] was doubled and [B] remained constant **(C) 0.5**: This would be true if only [B] was halved and [A] remained constant **(D) 1**: This would mean no change in rate, which is incorrect",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "In a first order reaction $A \\rightarrow B$ if $k$ is rate constant and initial concentration of the reactant $A$ is $0.5 M$, then the half-life is:",
+      "question": "In a first order reaction A \\rightarrow B if k is rate constant and initial concentration of the reactant A is 0.5 M, then the half-life is:",
       "options": {
-        "A": "$\\frac\\log 2k$ B $\\frac\\log 2k \\sqrt",
-        "B": "5$ C $\\fracln 2k$ D $\\frac",
+        "A": "\\frac\\log 2k B \\frac\\log 2k \\sqrt",
+        "B": "5 C \\fracln 2k D \\frac",
         "C": "693",
-        "D": "5 k$"
+        "D": "5 k"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For a first order reaction. $k=\\frac\u2082.303t \\log _10 \\fracaa-x$ when $t=t_1 / 2$ $k=\\frac\u2082.303t_1 / 2 \\log _10 \\fracaa-\\fraca\u2082$ or $t_1 / 2=\\frac\u2082.303k \\log _102=\\frac\\ln 2k$ A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is constant regardless of the concentration of the reactant. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For a first order reaction. k=\\frac\u2082.303t \\log _10 \\fracaa-x when t=t_1 / 2 k=\\frac\u2082.303t_1 / 2 \\log _10 \\fracaa-\\fraca\u2082 or t_1 / 2=\\frac\u2082.303k \\log _102=\\frac\\ln 2k A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is constant regardless of the concentration of the reactant. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -252,24 +192,9 @@
         "D": "1.1e\u2085 J/mol"
       },
       "answer": "A",
-      "solution": "## Solution **The correct answer is (B) 2.2 \u00d7 10\u2074 J/mol** --- ## Step-by-Step Solution ### Formula Used: $$\\ln\\left(\\frack_2k_1\\right) = \\fracE_aR\\left(\\frac\u2081T_1 - \\frac\u2081T_2\\right)$$ ### Step 1: Calculate the ratio of rate constants $$\\frack_2k_1 = \\frac\u2084.5 \\times 10^71.5 \\times 10^7 = 3$$ ### Step 2: Calculate ln(k\u2082/k\u2081) $$\\ln(3) = 1.099$$ ### Step 3: Convert temperatures to Kelvin - T\u2081 = 50 + 273 = 323 K - T\u2082 = 100 + 273 = 373 K ### Step 4: Calculate (1/T\u2081 - 1/T\u2082) $$\\frac\u2081T_1 - \\frac\u2081T_2 = \\frac\u2081\u2083\u2082\u2083 - \\frac\u2081\u2083\u2087\u2083$$ $$= 0.003096 - 0.002681 = 0.000415 \\text K^-1$$ ### Step 5: Solve for E\u2090 $$E_a = \\frac\\ln(k_2/k_1)(1/T_1 - 1/T_2) \\times R$$ $$E_a = \\frac\u2081.0990.000415 \\times 8.314$$ $$E_a = 2648.2 \\times 8.314 = 22,003 \\text J/mol$$ $$E_a \\approx 2.2 \\times 10^4 \\text J/mol$$ --- ## Key Concept: Activation Energy The **activation energy** is the minimum energy required for a reaction to proceed. It's inversely related to the rate constant\u2014higher E\u2090 means slower reaction. When temperature increases, the rate constant increases exponentially according to the Arrhenius equation. By comparing k values at two temperatures, we can calculate E\u2090. --- ## Why Other Options Are Wrong: - **(A) 2.2 \u00d7 10\u00b3 J/mol**: Off by a factor of 10 (calculation error) - **(C) 9.22 \u00d7 10\u00b3 J/mol**: Result of using wrong temperature conversion or formula - **(D) 1.1 \u00d7 10\u2075 J/mol**: Too large; might result from arithmetic mistakes **Remember:** For this type of problem, always convert \u00b0C to K and use the two-temperature form of the Arrhenius equation!",
+      "solution": "## Solution **The correct answer is (B) 2.2 \u00d7 10\u2074 J/mol** --- ## Step-by-Step Solution ### Formula Used: \\ln\\left(\\frack_2k_1\\right) = \\fracE_aR\\left(\\frac\u2081T_1 - \\frac\u2081T_2\\right) ### Step 1: Calculate the ratio of rate constants \\frack_2k_1 = \\frac\u2084.5 \u00d7 10^71.5 \u00d7 10^7 = 3 ### Step 2: Calculate ln(k\u2082/k\u2081) \\ln(3) = 1.099 ### Step 3: Convert temperatures to Kelvin - T\u2081 = 50 + 273 = 323 K - T\u2082 = 100 + 273 = 373 K ### Step 4: Calculate (1/T\u2081 - 1/T\u2082) \\frac\u2081T_1 - \\frac\u2081T_2 = \\frac\u2081\u2083\u2082\u2083 - \\frac\u2081\u2083\u2087\u2083 = 0.003096 - 0.002681 = 0.000415 \\text K^-1 ### Step 5: Solve for E\u2090 E_a = \\frac\\ln(k_2/k_1)(1/T_1 - 1/T_2) \u00d7 R E_a = \\frac\u2081.0990.000415 \u00d7 8.314 E_a = 2648.2 \u00d7 8.314 = 22,003 \\text J/mol E_a \\approx 2.2 \u00d7 10^4 \\text J/mol --- ## Key Concept: Activation Energy The **activation energy** is the minimum energy required for a reaction to proceed. It's inversely related to the rate constant\u2014higher E\u2090 means slower reaction. When temperature increases, the rate constant increases exponentially according to the Arrhenius equation. By comparing k values at two temperatures, we can calculate E\u2090. --- ## Why Other Options Are Wrong: - **(A) 2.2 \u00d7 10\u00b3 J/mol**: Off by a factor of 10 (calculation error) - **(C) 9.22 \u00d7 10\u00b3 J/mol**: Result of using wrong temperature conversion or formula - **(D) 1.1 \u00d7 10\u2075 J/mol**: Too large; might result from arithmetic mistakes **Remember:** For this type of problem, always convert \u00b0C to K and use the two-temperature form of the Arrhenius equation!",
       "exam": "NEET 2019",
       "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The decomposition of N\u2082 O\u2085 in CCl 4 at 318K has been studied by monitoring the concentration of N\u2082 O\u2085 in the solution. Initially the concentration of N\u2082 O\u2085 is 2.33 mol L \u20131 and after 184 minutes, it is reduced to 2.08 mol L \u20131 . The reaction takes place according to the equation: 2N 2 O\u2085 (g) \u2192 4NO 2 (g) + O\u2082 (g) Calculate (i) the average rate of this reaction in terms of seconds and (ii) what is the rate of production of NO 2 during this period?",
-      "options": {
-        "A": "(i)",
-        "B": "13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii)",
-        "C": "13 \u00d7 10 \u20133 mol L \u20131 min \u20131 B (i)",
-        "D": "13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i)\u2081.13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii) 2.72 \u00d7 10 \u20133 mol L \u20131 min \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
@@ -282,7 +207,7 @@
         "D": "\\u\u2082\u2082\u2081\u2082Ea"
       },
       "answer": "A",
-      "solution": "# Arrhenius Equation: Slope of ln k vs 1/T Plot ## The Correct Answer: **(B) \u2212Ea/R** --- ## Step-by-Step Reasoning: ### Starting with the Arrhenius Equation: $$k = A \\cdot e^-E_a/RT$$ ### Taking Natural Logarithm of both sides: $$\\ln k = \\ln A - \\fracE_aRT$$ ### Rearranging: $$\\ln k = \\ln A - \\fracE_aR \\cdot \\frac\u2081T$$ ### Comparing with linear equation y = mx + c: - **y** = ln k - **x** = 1/T - **Slope (m)** = \u2212Ea/R - **y-intercept (c)** = ln A --- ## Key Concept: This is called the **Arrhenius plot** or **van't Hoff plot**. By plotting ln k (y-axis) vs 1/T (x-axis), we get: - A **straight line** with a **negative slope** - The slope = **\u2212Ea/R** - From this, we can calculate: **Ea = \u2212slope \u00d7 R** --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---| | (A) Ea/R | Missing the negative sign; doesn't match the derived equation | | (C) Ea | Ignores the R constant; wrong units | | (D) \u2212Ea | Missing the R constant; wrong units | --- ## Pro Tip for NEET: Always remember: **The slope is negative!** This is a common NEET trap. The negative sign comes directly from the negative exponent in the Arrhenius equation.",
+      "solution": "# Arrhenius Equation: Slope of ln k vs 1/T Plot ## The Correct Answer: **(B) \u2212Ea/R** --- ## Step-by-Step Reasoning: ### Starting with the Arrhenius Equation: k = A \u00b7 e^-E_a/RT ### Taking Natural Logarithm of both sides: \\ln k = \\ln A - \\fracE_aRT ### Rearranging: \\ln k = \\ln A - \\fracE_aR \u00b7 \\frac\u2081T ### Comparing with linear equation y = mx + c: - **y** = ln k - **x** = 1/T - **Slope (m)** = \u2212Ea/R - **y-intercept (c)** = ln A --- ## Key Concept: This is called the **Arrhenius plot** or **van't Hoff plot**. By plotting ln k (y-axis) vs 1/T (x-axis), we get: - A **straight line** with a **negative slope** - The slope = **\u2212Ea/R** - From this, we can calculate: **Ea = \u2212slope \u00d7 R** --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---| | (A) Ea/R | Missing the negative sign; doesn't match the derived equation | | (C) Ea | Ignores the R constant; wrong units | | (D) \u2212Ea | Missing the R constant; wrong units | --- ## Pro Tip for NEET: Always remember: **The slope is negative!** This is a common NEET trap. The negative sign comes directly from the negative exponent in the Arrhenius equation.",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -304,7 +229,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "A first order reaction has a specific reaction rate of 10 \u2013 2 s e c - 1 . How much time will it take for 20 g of the reactant to reduce to 5 g?",
+      "question": "first order reaction has a specific reaction rate of 10 \u2013 2 s e c - 1 . How much time will it take for 20 g of the reactant to reduce to 5 g?",
       "options": {
         "A": "13",
         "B": "8 sec B\u2083\u2084",
@@ -319,22 +244,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The reaction between A and B is first order with respect to A and zero order with respect to B. Fill in the blanks in the following table:",
-      "options": {
-        "A": "(i)",
-        "B": "1 molL \u22121 , (ii)",
-        "C": "2 mol L \u22121 and (iii)",
-        "D": "0\u00d710 \u22122 mol L \u22121 min \u22121 B (i)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 0.2 molL \u22121 , (ii) 0.1 mol L \u22121 and (iii) 8.0\u00d710 \u22122 mol L \u22121 min \u22121 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "A first order reaction takes 40 min for 30% decomposition. What is t 1/2 ?",
+      "question": "first order reaction takes 40 min for 30% decomposition. What is t 1/2 ?",
       "options": {
         "A": "9",
         "B": "2 minutes B\u2088",
@@ -417,7 +327,7 @@
         "D": "8"
       },
       "answer": "C",
-      "solution": "We know, from arrhenius equation, <br><br>k = A.$$e^ - E_a \\over RT$$ <br><br>$$ \\therefore $$ k<sub>1</sub> = A.$$e^ - E_a_1 \\over RT$$ ......(1) <br><br>k<sub>2</sub> = A.$$e^ - E_a_2 \\over RT$$ ......(2) <br><br>On dividing equation (2) by (1), we get <br><br>$$k_2 \\over k_1 = e^\\left( E_a_1 - E_a_2 \\right) \\over RT$$ <br><br>$$ \\Rightarrow $$ $$\\ln \\left( k_2 \\over k_1 \\right) = \\left( E_a_1 - E_a_2 \\right) \\over RT$$ = $$10,000 \\over 8.314 \\times 300$$ = 4",
+      "solution": "We know, from arrhenius equation, <br><br>k = A.e^ - E_a \\over RT <br><br> \\therefore k<sub>1</sub> = A.e^ - E_a_1 \\over RT ......(1) <br><br>k<sub>2</sub> = A.e^ - E_a_2 \\over RT ......(2) <br><br>On dividing equation (2) by (1), we get <br><br>k_2 \\over k_1 = e^\\left( E_a_1 - E_a_2 \\right) \\over RT <br><br> \\Rightarrow \\ln \\left( k_2 \\over k_1 \\right) = \\left( E_a_1 - E_a_2 \\right) \\over RT = 10,000 \\over 8.314 \u00d7 300 = 4",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
@@ -432,7 +342,7 @@
         "D": "19.67 K"
       },
       "answer": "B",
-      "solution": "For reaction A, T<sub>1</sub> = 300 K, T<sub>2</sub> = 310 K, k<sub>2</sub> = 2 k<sub>1</sub> <br><br>$$\\log k_2 \\over k_1 = E_a_1 \\over 2.303R\\left[ 1 \\over T_1 - 1 \\over T_2 \\right]$$ <br><br>$$ \\therefore $$ $$\\log 2k_1 \\over k_1 = \\log 2 = E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over 310 \\right]$$ ...(1) <br><br>For reaction B, T<sub>1</sub> = 300 K, T<sub>2</sub> = ?, k<sub>2</sub> = 2k<sub>1</sub>, E<sub>a<sub>2</sub></sub> = 2E<sub>a<sub>1</sub></sub> <br><br>$$\\log 2k_1 \\over k_1 = \\log 2 = 2E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over T_2 \\right]$$ <br><br>From eq. (i) and (ii), we get <br><br>$$2E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over T_2 \\right] = E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over 310 \\right]$$ <br><br>$$ \\Rightarrow $$ $$2\\left[ 1 \\over 300 - 1 \\over T_2 \\right] = \\left[ 1 \\over 300 - 1 \\over 310 \\right]$$ <br><br>$$ \\Rightarrow $$ T<sub>2</sub> = $$300 \\times 310 \\over 610$$ $$ \\times $$ 2 = 304.92 K <br><br>$$ \\therefore $$ Increased temperature = (304.92 \\\u2013 300) = 4.92 K",
+      "solution": "For reaction A, T<sub>1</sub> = 300 K, T<sub>2</sub> = 310 K, k<sub>2</sub> = 2 k<sub>1</sub> <br><br>\\log k_2 \\over k_1 = E_a_1 \\over 2.303R\\left[ 1 \\over T_1 - 1 \\over T_2 \\right] <br><br> \\therefore \\log 2k_1 \\over k_1 = \\log 2 = E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over 310 \\right] ...(1) <br><br>For reaction B, T<sub>1</sub> = 300 K, T<sub>2</sub> = ?, k<sub>2</sub> = 2k<sub>1</sub>, E<sub>a<sub>2</sub></sub> = 2E<sub>a<sub>1</sub></sub> <br><br>\\log 2k_1 \\over k_1 = \\log 2 = 2E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over T_2 \\right] <br><br>From eq. (i) and (ii), we get <br><br>2E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over T_2 \\right] = E_a_1 \\over 2.303R\\left[ 1 \\over 300 - 1 \\over 310 \\right] <br><br> \\Rightarrow 2\\left[ 1 \\over 300 - 1 \\over T_2 \\right] = \\left[ 1 \\over 300 - 1 \\over 310 \\right] <br><br> \\Rightarrow T<sub>2</sub> = 300 \u00d7 310 \\over 610 \u00d7 2 = 304.92 K <br><br> \\therefore Increased temperature = (304.92 \\\u2013 300) = 4.92 K",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
@@ -441,28 +351,28 @@
     {
       "question": "The rate of a reaction quadruples when the temperature changes from 300 to 310 K. The activation energy of this reaction is : <br/><br/>(Assume activation energy and preexponential factor are independent of temperature; ln 2 = 0.693; R = 8.314 J mol<sup>\\u\u2082\u2082\u2081\u2082\u2081</sup> K<sup>\\u\u2082\u2082\u2081\u2082\u2081</sup>)",
       "options": {
-        "A": "107.2 kJ mol<sup>$$-$$1</sup>",
-        "B": "53.6 kJ mol<sup>$$-$$1</sup>",
-        "C": "26.8 kJ mol<sup>$$-$$1</sup>",
-        "D": "214.4 kJ mol<sup>$$-$$1</sup>"
+        "A": "107.2 kJ mol<sup>-1</sup>",
+        "B": "53.6 kJ mol<sup>-1</sup>",
+        "C": "26.8 kJ mol<sup>-1</sup>",
+        "D": "214.4 kJ mol<sup>-1</sup>"
       },
       "answer": "A",
-      "solution": "<p>According to Arrhenius equation,</p> <p>$$\\log k_2 \\over k_1 = E_a \\over 2.303R\\left( T_2 - T_1 \\over T_1T_2 \\right)$$</p> <p>Substituting the given values in the equation, we get</p> <p>$$\\log 4 = E_a \\over 2.303 \\times 8.314\\,J\\,K^ - 1mol^ - 1\\left( 310 - 300 \\over 300 \\times 310 \\right)$$</p> <p>$$E_a = 0.602 \\times 2.303 \\times 8.314 \\times 300 \\times 310 \\over 10$$</p> <p>= 107197.12 J/mol<sup>$$-$$1</sup> or 107.2 kJ/mol<sup>$$-$$1</sup></p>",
+      "solution": "According to Arrhenius equation, \\log k_2 \\over k_1 = E_a \\over 2.303R\\left( T_2 - T_1 \\over T_1T_2 \\right) Substituting the given values in the equation, we get \\log 4 = E_a \\over 2.303 \u00d7 8.314\\,J\\,K^ - 1mol^ - 1\\left( 310 - 300 \\over 300 \u00d7 310 \\right) E_a = 0.602 \u00d7 2.303 \u00d7 8.314 \u00d7 300 \u00d7 310 \\over 10 = 107197.12 J/mol<sup>-1</sup> or 107.2 kJ/mol<sup>-1</sup>",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "If a reaction follows the Arrhenius equation, the plot ln k vs $$1 \\over \\left( RT \\right)$$ gives straight line with a gradient ($$-$$ y) unit. <br/><br/>The energy required to active the reactant is :",
+      "question": "If a reaction follows the Arrhenius equation, the plot ln k vs 1 \\over \\left( RT \\right) gives straight line with a gradient (- y) unit. <br/><br/>The energy required to active the reactant is :",
       "options": {
         "A": "y unit",
         "B": "y/R unit",
         "C": "yR unit",
-        "D": "$$-$$y unit"
+        "D": "-y unit"
       },
       "answer": "A",
-      "solution": "According to Arrhenius equation, <br>k = A$$e^ - E_a \\over RT$$ <br><br>or ln k = ln A - $$E_a \\over RT$$ <br><br>Comparing the above equation with straight line equation, <br><br>y = mx + c, <br><br>we get, slope or gradient (m) = \\\u2013E<sub>a</sub> <br>and Intercept (c) = ln A <br><br>Also given that slope or gradient (m) = -y <br><br>$$ \\therefore $$ -y = \\\u2013E<sub>a</sub> <br><br>$$ \\Rightarrow $$ E<sub>a</sub> = y <br><br>So the activation energy of the reactant, E<sub>a</sub> = y unit",
+      "solution": "According to Arrhenius equation, <br>k = Ae^ - E_a \\over RT <br><br>or ln k = ln A - E_a \\over RT <br><br>Comparing the above equation with straight line equation, <br><br>y = mx + c, <br><br>we get, slope or gradient (m) = \\\u2013E<sub>a</sub> <br>and Intercept (c) = ln A <br><br>Also given that slope or gradient (m) = -y <br><br> \\therefore -y = \\\u2013E<sub>a</sub> <br><br> \\Rightarrow E<sub>a</sub> = y <br><br>So the activation energy of the reactant, E<sub>a</sub> = y unit",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -477,14 +387,14 @@
         "D": "150"
       },
       "answer": "B",
-      "solution": "From Arrhenius equation, we get <br><br>$$\\log K_2 \\over K_1 = E_a \\over 2.303R\\left( 1 \\over T_1 - 1 \\over T_2 \\right)$$ <br><br>$$ \\Rightarrow $$ $$\\log 1 \\over 2.5 \\times 10^ - 4 = E_a \\over 2.303 \\times 8.314\\left( 1 \\over 600 - 1 \\over 800 \\right)$$ <br><br>$$ \\Rightarrow $$ 3.6 = $$E_a \\over 2.303 \\times 8.314 \\times 200 \\over 600 \\times 800$$ <br><br>$$ \\Rightarrow $$ E<sub>$$a$$</sub> = 166 kJ/mol",
+      "solution": "From Arrhenius equation, we get <br><br>\\log K_2 \\over K_1 = E_a \\over 2.303R\\left( 1 \\over T_1 - 1 \\over T_2 \\right) <br><br> \\Rightarrow \\log 1 \\over 2.5 \u00d7 10^ - 4 = E_a \\over 2.303 \u00d7 8.314\\left( 1 \\over 600 - 1 \\over 800 \\right) <br><br> \\Rightarrow 3.6 = E_a \\over 2.303 \u00d7 8.314 \u00d7 200 \\over 600 \u00d7 800 <br><br> \\Rightarrow E<sub>a</sub> = 166 kJ/mol",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "A flask contains a mixture of compounds A and B. Both compounds decompose by first-order kinetics. The half-lives for A and B are 300 s and 180 s, respectively. If the concentrations of A and B are equal initially, the time required for the concentration of A to be four times that of B(in s) : <br/>(Use ln 2 = 0.693)",
+      "question": "flask contains a mixture of compounds A and B. Both compounds decompose by first-order kinetics. The half-lives for A and B are 300 s and 180 s, respectively. If the concentrations of A and B are equal initially, the time required for the concentration of A to be four times that of B(in s) : <br/>(Use ln 2 = 0.693)",
       "options": {
         "A": "180",
         "B": "120",
@@ -492,14 +402,14 @@
         "D": "900"
       },
       "answer": "D",
-      "solution": "A<sub>t</sub> = A<sub>0</sub>.e<sup>-k<sub>1</sub>t</sup> <br><br>B<sub>t</sub> = B<sub>0</sub>.e<sup>-k<sub>2</sub>t</sup> <br><br>k<sub>1</sub> = $$\\ln 2 \\over 300$$ <br><br>k<sub>2</sub> = $$\\ln 2 \\over 180$$ <br><br>Given, A<sub>0</sub> = B<sub>0</sub> <br><br>and A<sub>t</sub> and B<sub>t</sub> are related as [A] = 4[B] <br><br>$$ \\therefore $$ A<sub>0</sub>.e<sup>-k<sub>1</sub>t</sup> = 4B<sub>0</sub>.e<sup>-k<sub>2</sub>t</sup> <br><br>$$ \\Rightarrow $$ $$e^\\left( \\ln 2 \\over 180 - \\ln 2 \\over 300 \\right)t$$ = 4 <br><br>$$ \\Rightarrow $$ $$\\left( \\ln 2 \\over 180 - \\ln 2 \\over 300 \\right)t$$ = ln 4 = 2ln 2 <br><br>$$ \\Rightarrow $$ $$\\left( 1 \\over 180 - \\mathop\\rm l\\nolimits \\over 300 \\right)t$$ = 2 <br><br>$$ \\Rightarrow $$ t = $$2 \\times 180 \\times 300 \\over 120$$ = 900 sec",
+      "solution": "A<sub>t</sub> = A<sub>0</sub>.e<sup>-k<sub>1</sub>t</sup> <br><br>B<sub>t</sub> = B<sub>0</sub>.e<sup>-k<sub>2</sub>t</sup> <br><br>k<sub>1</sub> = \\ln 2 \\over 300 <br><br>k<sub>2</sub> = \\ln 2 \\over 180 <br><br>Given, A<sub>0</sub> = B<sub>0</sub> <br><br>and A<sub>t</sub> and B<sub>t</sub> are related as [A] = 4[B] <br><br> \\therefore A<sub>0</sub>.e<sup>-k<sub>1</sub>t</sup> = 4B<sub>0</sub>.e<sup>-k<sub>2</sub>t</sup> <br><br> \\Rightarrow e^\\left( \\ln 2 \\over 180 - \\ln 2 \\over 300 \\right)t = 4 <br><br> \\Rightarrow \\left( \\ln 2 \\over 180 - \\ln 2 \\over 300 \\right)t = ln 4 = 2ln 2 <br><br> \\Rightarrow \\left( 1 \\over 180 - \\mathop\\rm l\\nolimits \\over 300 \\right)t = 2 <br><br> \\Rightarrow t = 2 \u00d7 180 \u00d7 300 \\over 120 = 900 sec",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the following reactions<br/> $$A\\buildrel 700K \\over \\longrightarrow \\mathop\\rm Product\\nolimits $$<br/> $$A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_catalyst^500K \\mathop\\rm Product\\nolimits $$<br/> it was found that E<sub>a</sub> is decreased by 30 kJ/mol in the presence of catalyst.<br/> If the rate remains unchanged, the activation energy for catalysed reaction is (Assume pre exponential factor is same):",
+      "question": "For the following reactions<br/> A\\buildrel 700K \\over \\longrightarrow \\mathop\\rm Product\\nolimits <br/> A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_catalyst^500K \\mathop\\rm Product\\nolimits <br/> it was found that E<sub>a</sub> is decreased by 30 kJ/mol in the presence of catalyst.<br/> If the rate remains unchanged, the activation energy for catalysed reaction is (Assume pre exponential factor is same):",
       "options": {
         "A": "198 kJ/mol",
         "B": "135 kJ/mol",
@@ -507,14 +417,14 @@
         "D": "75 kJ/mol"
       },
       "answer": "D",
-      "solution": "K<sub>1</sub> = A$$e^ - E_a \\over R \\times 700$$ <br><br>K<sub>2</sub> = A$$e^ - \\left( E_a - 30 \\right) \\over R \\times 500$$ <br><br>$$ \\because $$Rate is same <br><br>$$ \\therefore $$ Rate constant will also be same <br><br>K<sub>1</sub> = K<sub>2</sub> <br><br>A$$e^ - E_a \\over R \\times 700$$ = A$$e^ - \\left( E_a - 30 \\right) \\over R \\times 500$$ <br><br>$$ \\Rightarrow $$ $$\\left( E_a - 30 \\right) \\over R \\times 500$$ = $$E_a \\over R \\times 700$$ <br><br>$$ \\Rightarrow $$ 5E<sub>a</sub> = 7E<sub>a</sub> \\\u2013 210 <br><br>$$ \\Rightarrow $$ 210 = 2E<sub>a</sub> <br><br>$$ \\Rightarrow $$ E<sub>a</sub> = 105 kJ/mole <br><br>$$ \\therefore $$ Activation energy in the presence of catalyst = 105 \\\u2013 30 = 75 kJ/mol",
+      "solution": "K<sub>1</sub> = Ae^ - E_a \\over R \u00d7 700 <br><br>K<sub>2</sub> = Ae^ - \\left( E_a - 30 \\right) \\over R \u00d7 500 <br><br> \\because Rate is same <br><br> \\therefore Rate constant will also be same <br><br>K<sub>1</sub> = K<sub>2</sub> <br><br>Ae^ - E_a \\over R \u00d7 700 = Ae^ - \\left( E_a - 30 \\right) \\over R \u00d7 500 <br><br> \\Rightarrow \\left( E_a - 30 \\right) \\over R \u00d7 500 = E_a \\over R \u00d7 700 <br><br> \\Rightarrow 5E<sub>a</sub> = 7E<sub>a</sub> \\\u2013 210 <br><br> \\Rightarrow 210 = 2E<sub>a</sub> <br><br> \\Rightarrow E<sub>a</sub> = 105 kJ/mole <br><br> \\therefore Activation energy in the presence of catalyst = 105 \\\u2013 30 = 75 kJ/mol",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the reaction, 2A + B $$ \\to $$ products, when the concentrations of A and B both were doubled, the rate of the reaction increased from 0.3 mol L<sup>$$-$$1</sup>s<sup>$$-$$1</sup> to 2.4 mol L<sup>$$-$$1</sup>s<sup>$$-$$1</sup>. When the concentration of A alone is doubled, the rate increased from 0.3 mol L<sup>$$-$$1</sup>s<sup>$$-$$1</sup> to 0.6 mol L<sup>$$-$$1</sup>s<sup>$$-$$1</sup>.",
+      "question": "For the reaction, 2A + B \\to products, when the concentrations of A and B both were doubled, the rate of the reaction increased from 0.3 mol L<sup>-1</sup>s<sup>-1</sup> to 2.4 mol L<sup>-1</sup>s<sup>-1</sup>. When the concentration of A alone is doubled, the rate increased from 0.3 mol L<sup>-1</sup>s<sup>-1</sup> to 0.6 mol L<sup>-1</sup>s<sup>-1</sup>.",
       "options": {
         "A": "Total order of the reaction is 4",
         "B": "Order of the reaction with respect to B is 2",
@@ -522,29 +432,29 @@
         "D": "Order of the reaction with respect to A is 2"
       },
       "answer": "B",
-      "solution": "$$r = K\\left[ A \\right]^x\\left[ B \\right]^y$$ <br><br>$$ \\Rightarrow 8 = 2^3 = 2^x + y$$ <br><br>$$ \\Rightarrow x + y = 3\\,...(1)$$ <br><br>$$ \\Rightarrow 2 = 2^x$$ <br><br>$$ \\Rightarrow x = 1,y = 2$$ <br><br>Order w.r.t. A = 1 <br><br>Order w.r.t. B = 2",
+      "solution": "r = K\\left[ A \\right]^x\\left[ B \\right]^y <br><br> \\Rightarrow 8 = 2^3 = 2^x + y <br><br> \\Rightarrow x + y = 3\\,...(1) <br><br> \\Rightarrow 2 = 2^x <br><br> \\Rightarrow x = 1,y = 2 <br><br>Order w.r.t. A = 1 <br><br>Order w.r.t. B = 2",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>For kinetic study of the reaction of iodide ion with $$H_2 O_2$$ at room temperature :</p> <p>(A) Always use freshly prepared starch solution.</p> <p>(B) Always keep the concentration of sodium thiosulphate solution less than that of KI solution.</p> <p>(C) Record the time immediately after the appearance of blue colour.</p> <p>(D) Record the time immediately before the appearance of blue colour.</p> <p>(E) Always keep the concentration of sodium thiosulphate solution more than that of KI solution.</p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "For kinetic study of the reaction of iodide ion with H_2 O_2 at room temperature : (A) Always use freshly prepared starch solution. (B) Always keep the concentration of sodium thiosulphate solution less than that of KI solution. (C) Record the time immediately after the appearance of blue colour. (D) Record the time immediately before the appearance of blue colour. (E) Always keep the concentration of sodium thiosulphate solution more than that of KI solution. Choose the correct answer from the options given below :",
       "options": {
-        "A": "$$(A),(B),(C)$$ only",
-        "B": "$$(A),(D),(E)$$ only",
-        "C": "$$(D),(E)$$ only",
-        "D": "$$(A),(B),(E)$$ only"
+        "A": "(A),(B),(C) only",
+        "B": "(A),(D),(E) only",
+        "C": "(D),(E) only",
+        "D": "(A),(B),(E) only"
       },
       "answer": "A",
-      "solution": "To minimize contamination, use freshly prepared starch solution to determine end point. As $KI$ is used in excess to consume all the $H_2 O_2$ the concentration of sodium thiosulphate solution is less than $KI$ solution. After appearance of blue colour record the time immediately.",
+      "solution": "To minimize contamination, use freshly prepared starch solution to determine end point. As KI is used in excess to consume all the H_2 O_2 the concentration of sodium thiosulphate solution is less than KI solution. After appearance of blue colour record the time immediately.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>A student has studied the decomposition of a gas AB$$_3$$ at 25$$^\\circ$$C. He obtained the following data.</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 427px\"> <colgroup> <col style=\"width: 202px\"/> <col style=\"width: 50px\"/> <col style=\"width: 60px\"/> <col style=\"width: 57px\"/> <col style=\"width: 58px\"/> </colgroup> <thead> <tr> <th class=\"tg-baqh\">p (mm Hg)</th> <th class=\"tg-baqh\">50</th> <th class=\"tg-baqh\">100</th> <th class=\"tg-baqh\">200</th> <th class=\"tg-baqh\">400</th> </tr> </thead> <tbody> <tr> <td class=\"tg-baqh\">relative t$$_1/2$$ (s)</td> <td class=\"tg-baqh\">4</td> <td class=\"tg-baqh\">2</td> <td class=\"tg-baqh\">1</td> <td class=\"tg-baqh\">0.5</td> </tr> </tbody> </table></p> <p>The order of the reaction is</p>",
+      "question": "A student has studied the decomposition of a gas AB_3 at 25^\\circC. He obtained the following data. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top <colgroup> <col style=\"width: 202px\"/> <col style=\"width: 50px\"/> <col style=\"width: 60px\"/> <col style=\"width: 57px\"/> <col style=\"width: 58px\"/> </colgroup> <thead> <th class=\"tg-baqh\">p (mm Hg)</th> <th class=\"tg-baqh\">50</th> <th class=\"tg-baqh\">100</th> <th class=\"tg-baqh\">200</th> <th class=\"tg-baqh\">400</th> </thead> <tbody> relative t_1/2 (s) 4 2 1 0.5 </tbody> The order of the reaction is",
       "options": {
         "A": "2",
         "B": "0.5",
@@ -552,14 +462,14 @@
         "D": "0 (zero)"
       },
       "answer": "A",
-      "solution": "$$ \\beginaligned & t_1 / 2 \\propto\\left(P_o\\right)^1-n \\\\\\\\ & \\frac\\left(t_1 / 2\\right)_1\\left(t_1 / 2\\right)_2=\\frac\\left(P_o\\right)_1^1-n\\left(P_o_2\\right)_2^1-n \\\\\\\\ & \\Rightarrow\\left(\\frac\u2084\u2082\\right)=\\left(\\frac\u2085\u2080\u2081\u2080\u2080\\right)^1-n \\\\\\\\ & \\Rightarrow 2=\\left(\\frac\u2081\u2082\\right)^1-n \\\\\\\\ & \\Rightarrow 2=(2)^n-1 \\\\\\\\ & \\Rightarrow n-1=1 \\\\\\\\ & \\Rightarrow n=2 \\endaligned $$",
+      "solution": "\\beginaligned & t_1 / 2 \\propto\\left(P_o\\right)^1-n \\\\\\\\ & \\frac\\left(t_1 / 2\\right)_1\\left(t_1 / 2\\right)_2=\\frac\\left(P_o\\right)_1^1-n\\left(P_o_2\\right)_2^1-n \\\\\\\\ & \\Rightarrow\\left(\\frac\u2084\u2082\\right)=\\left(\\frac\u2085\u2080\u2081\u2080\u2080\\right)^1-n \\\\\\\\ & \\Rightarrow 2=\\left(\\frac\u2081\u2082\\right)^1-n \\\\\\\\ & \\Rightarrow 2=(2)^n-1 \\\\\\\\ & \\Rightarrow n-1=1 \\\\\\\\ & \\Rightarrow n=2 \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>For a chemical reaction $$A+B \\rightarrow$$ Product, the order is 1 with respect to $$A$$ and $$B$$.</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 509px\"> <colgroup> <col style=\"width: 169px\"/> <col style=\"width: 169px\"/> <col style=\"width: 171px\"/> </colgroup> <thead> <tr> <th class=\"tg-amwm\">$$Rate$$<br/>$$mol~L^-1~S^-1$$</th> <th class=\"tg-amwm\">$$[A]$$<br/>$$mol~L^-1$$</th> <th class=\"tg-amwm\">$$[B]$$<br/>$$mol~L^-1$$</th> </tr> </thead> <tbody> <tr> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">20</td> <td class=\"tg-baqh\">0.5</td> </tr> <tr> <td class=\"tg-baqh\">0.40</td> <td class=\"tg-baqh\">$$x$$</td> <td class=\"tg-baqh\">0.5</td> </tr> <tr> <td class=\"tg-baqh\">0.80</td> <td class=\"tg-baqh\">40</td> <td class=\"tg-baqh\">$$y$$</td> </tr> </tbody> </table></p> <p>What is the value of $$x$$ and $$y$$ ?</p>",
+      "question": "For a chemical reaction A+B \\rightarrow Product, the order is 1 with respect to A and B. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top <colgroup> <col style=\"width: 169px\"/> <col style=\"width: 169px\"/> <col style=\"width: 171px\"/> </colgroup> <thead> <th class=\"tg-amwm\">Rate<br/>mol L^-1 S^-1</th> <th class=\"tg-amwm\">[A]<br/>mol L^-1</th> <th class=\"tg-amwm\">[B]<br/>mol L^-1</th> </thead> <tbody> 0.10 20 0.5 0.40 x 0.5 0.80 40 y </tbody> What is the value of x and y ?",
       "options": {
         "A": "80 and 4",
         "B": "160 and 4",
@@ -567,7 +477,7 @@
         "D": "40 and 4"
       },
       "answer": "C",
-      "solution": "$$ \\beginaligned & r=K[A]^1[~B]^1 \\\\\\\\ & 0.1=K(20)^1(0.5)^1 ........(i) \\\\\\\\ & 0.40=K(x)^1(0.5)^1 ........(ii) \\\\\\\\ & 0.80=K(40)^1(y)^1 ........(iii) \\endaligned $$ <br/><br/>From (i) and (ii) <br/><br/>$$ x=80 $$ <br/><br/>From (i) and (iii) <br/><br/>$$ y=2 $$",
+      "solution": "\\beginaligned & r=K[A]^1[ B]^1 \\\\\\\\ & 0.1=K(20)^1(0.5)^1 ........(i) \\\\\\\\ & 0.40=K(x)^1(0.5)^1 ........(ii) \\\\\\\\ & 0.80=K(40)^1(y)^1 ........(iii) \\endaligned <br/><br/>From (i) and (ii) <br/><br/> x=80 <br/><br/>From (i) and (iii) <br/><br/> y=2",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -582,7 +492,7 @@
         "D": "low probability of simultaneous collision of all the reacting species"
       },
       "answer": "D",
-      "solution": "Reactions of higher order $$\\left( > 3 \\right)$$ are very rate due to very less chances of many molecules to undergo effective collisions.",
+      "solution": "Reactions of higher order \\left( > 3 \\right) are very rate due to very less chances of many molecules to undergo effective collisions.",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Chemistry",
@@ -591,13 +501,13 @@
     {
       "question": "Decomposition of H<sub>2</sub>O<sub>2</sub> follows a first order reaction. In fifty minutes the concentration of H<sub>2</sub>O<sub>2</sub> decreases from 0.5 to 0.125 M in one such decomposition. When the concentration of H<sub>2</sub>O<sub>2</sub> reaches 0.05 M, the rate of formation of O<sub>2</sub> will be :",
       "options": {
-        "A": "6.93 $$\\times$$ 10<sup>-4</sup> mol min<sup>-1</sup>",
-        "B": "6.96 $$\\times$$ 10<sup>-2</sup> mol min<sup>-1</sup>",
-        "C": "1.34 $$\\times$$ 10<sup>-2</sup> mol min<sup>-1</sup>",
+        "A": "6.93 \u00d7 10<sup>-4</sup> mol min<sup>-1</sup>",
+        "B": "6.96 \u00d7 10<sup>-2</sup> mol min<sup>-1</sup>",
+        "C": "1.34 \u00d7 10<sup>-2</sup> mol min<sup>-1</sup>",
         "D": "2.66 L min<sup>\\\u20131</sup> at STP"
       },
       "answer": "A",
-      "solution": "$$H_2O_2\\left( aq \\right) \\to H_2O\\left( aq \\right) + 1 \\over 2O_2\\left( g \\right)$$ <br><br>For a first order reaction <br><br>$$k = 2.303 \\over t\\log a \\over \\left( a - x \\right)$$ <br><br>Given $$a = 0.5,\\left( a - x \\right) = 0.125,\\,t = 50\\,\\,$$ min <br><br>$$\\therefore$$ $$\\,\\,\\,\\,\\,k = 2.303 \\over 50\\log 0.5 \\over 0.125$$ <br><br>$$ = 2.78 \\times 10^ - 2\\,\\min ^ - 1$$ <br><br>$$r = k\\left[ H_2O_2 \\right] = 2.78 \\times 10^ - 2 \\times 0.05$$ <br><br>$$ = 1.386 \\times 10^ - 3\\,\\,mol\\,\\min ^ - 1$$ <br><br>Now <br><br>$$ - d\\left[ H_2O_2 \\right] \\over dt = d\\left[ H_2O \\right] \\over dt = 2d\\left[ O_2 \\right] \\over dt$$ <br><br>$$\\therefore$$ $$\\,\\,\\,\\,\\,2d\\left[ O_2 \\right] \\over dt - d\\left[ H_2O_2 \\right] \\over dt$$ <br><br>$$\\therefore$$ $$\\,\\,\\,\\,\\,$$ $$d\\left[ O_2 \\right] \\over dt = 1 \\over 2 \\times d\\left[ H_2O_2 \\right] \\over dt$$ <br><br>$$ = 1.386 \\times 10^ - 3 \\over 2 = 6.93 \\times 10^ - 4\\,mol\\,\\min ^ - 1$$",
+      "solution": "H_2O_2\\left( aq \\right) \\to H_2O\\left( aq \\right) + 1 \\over 2O_2\\left( g \\right) <br><br>For a first order reaction <br><br>k = 2.303 \\over t\\log a \\over \\left( a - x \\right) <br><br>Given a = 0.5,\\left( a - x \\right) = 0.125,\\,t = 50\\,\\, min <br><br>\\therefore \\,\\,\\,\\,\\,k = 2.303 \\over 50\\log 0.5 \\over 0.125 <br><br> = 2.78 \u00d7 10^ - 2\\,\\min ^ - 1 <br><br>r = k\\left[ H_2O_2 \\right] = 2.78 \u00d7 10^ - 2 \u00d7 0.05 <br><br> = 1.386 \u00d7 10^ - 3\\,\\,mol\\,\\min ^ - 1 <br><br>Now <br><br> - d\\left[ H_2O_2 \\right] \\over dt = d\\left[ H_2O \\right] \\over dt = 2d\\left[ O_2 \\right] \\over dt <br><br>\\therefore \\,\\,\\,\\,\\,2d\\left[ O_2 \\right] \\over dt - d\\left[ H_2O_2 \\right] \\over dt <br><br>\\therefore \\,\\,\\,\\,\\, d\\left[ O_2 \\right] \\over dt = 1 \\over 2 \u00d7 d\\left[ H_2O_2 \\right] \\over dt <br><br> = 1.386 \u00d7 10^ - 3 \\over 2 = 6.93 \u00d7 10^ - 4\\,mol\\,\\min ^ - 1",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
@@ -612,14 +522,14 @@
         "D": "106.25 mmHg"
       },
       "answer": "D",
-      "solution": "<table class=\"tg\"> <tbody><tr> <th class=\"tg-4kyz\"></th> <th class=\"tg-4kyz\">N<sub>2</sub>O<sub>5</sub></th> <th class=\"tg-4kyz\">$$\\rightleftharpoons$$</th> <th class=\"tg-4kyz\">2NO<sub>2</sub></th> <th class=\"tg-bzci\">+ $$1 \\over 2$$O<sub>2</sub></th> </tr> <tr> <td class=\"tg-4kyz\">At t = 0 </td> <td class=\"tg-4kyz\">50</td> <td class=\"tg-4kyz\"></td> <td class=\"tg-4kyz\">0</td> <td class=\"tg-bzci\">0</td> </tr> <tr> <td class=\"tg-4kyz\">At t = 50 min</td> <td class=\"tg-4kyz\">50 $$-$$ P<sub>1</sub></td> <td class=\"tg-4kyz\"></td> <td class=\"tg-4kyz\">2P<sub>1</sub></td> <td class=\"tg-bzci\">$$P_1 \\over 2$$</td> </tr> </tbody></table> <br><br>Total pressure after 50 min, <br><br>= 50 $$-$$ P<sub>1</sub> + 2P<sub>1</sub> + $$P_1 \\over 2$$ = 87.5 <br><br>$$\\therefore\\,\\,\\,$$ 50 + $$3P_1 \\over 2$$ = 87.5 <br><br>$$ \\Rightarrow $$ $$\\,\\,\\,$$ P<sub>1</sub> = 25 <br><br>So, 50 min is the Half $$-$$ life period of the reaction. <br><br>Then 100 min is two half life <br><br><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0;border:none; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal; .tg .tg-bzcifont-size:20px;text-align:center;vertical-align:top .tg .tg-4kyzfont-size:20px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-4kyz\"></th> <th class=\"tg-4kyz\">N<sub>2</sub>O<sub>5</sub></th> <th class=\"tg-4kyz\">$$\\rightleftharpoons$$ </th> <th class=\"tg-4kyz\">2NO<sub>2</sub></th> <th class=\"tg-bzci\">+ $$1 \\over 2$$O<sub>2</sub></th> </tr> <tr> <td class=\"tg-4kyz\">At t = 100 min</td> <td class=\"tg-4kyz\">50 $$-$$ P<sub>2</sub></td> <td class=\"tg-4kyz\"></td> <td class=\"tg-4kyz\">2P<sub>2</sub></td> <td class=\"tg-bzci\">$$P_2 \\over 2$$</td> </tr> </tbody></table> <br><br>$$\\therefore\\,\\,\\,$$ 50 $$-$$ P<sub>2</sub> = $$25 \\over 2$$ <br><br>P<sub>2</sub> = 37.5 <br><br>$$\\therefore\\,\\,\\,$$ Total pressure at t = 100 min <br><br>= 50 $$-$$ P<sub>2</sub> + 2P<sub>2</sub> + $$P_2 \\over 2$$ <br><br>= 50 + $$3 \\over 2$$ $$ \\times $$ 37.5 <br><br>= 106.25 mm of Hg",
+      "solution": "<tbody> <th class=\"tg-4kyz\"></th> <th class=\"tg-4kyz\">N<sub>2</sub>O<sub>5</sub></th> <th class=\"tg-4kyz\">\\rightleftharpoons</th> <th class=\"tg-4kyz\">2NO<sub>2</sub></th> <th class=\"tg-bzci\">+ 1 \\over 2O<sub>2</sub></th> At t = 0 50 0 0 At t = 50 min 50 - P<sub>1</sub> 2P<sub>1</sub> P_1 \\over 2 </tbody> <br><br>Total pressure after 50 min, <br><br>= 50 - P<sub>1</sub> + 2P<sub>1</sub> + P_1 \\over 2 = 87.5 <br><br>\\therefore\\,\\,\\, 50 + 3P_1 \\over 2 = 87.5 <br><br> \\Rightarrow \\,\\,\\, P<sub>1</sub> = 25 <br><br>So, 50 min is the Half - life period of the reaction. <br><br>Then 100 min is two half life <br><br> .tg border-collapse:collapse;border-spacing:0;border:none; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal; .tg .tg-bzcifont-size:20px;text-align:center;vertical-align:top .tg .tg-4kyzfont-size:20px;text-align:center <tbody> <th class=\"tg-4kyz\"></th> <th class=\"tg-4kyz\">N<sub>2</sub>O<sub>5</sub></th> <th class=\"tg-4kyz\">\\rightleftharpoons </th> <th class=\"tg-4kyz\">2NO<sub>2</sub></th> <th class=\"tg-bzci\">+ 1 \\over 2O<sub>2</sub></th> At t = 100 min 50 - P<sub>2</sub> 2P<sub>2</sub> P_2 \\over 2 </tbody> <br><br>\\therefore\\,\\,\\, 50 - P<sub>2</sub> = 25 \\over 2 <br><br>P<sub>2</sub> = 37.5 <br><br>\\therefore\\,\\,\\, Total pressure at t = 100 min <br><br>= 50 - P<sub>2</sub> + 2P<sub>2</sub> + P_2 \\over 2 <br><br>= 50 + 3 \\over 2 \u00d7 37.5 <br><br>= 106.25 mm of Hg",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For a first order reaction, A $$ \\to $$ P, t<sub>1/2</sub> (half-life) is 10 days The time required for $$1 \\over 4$$<sup>th</sup> conversion of A (in days) is : (ln 2 = 0.693, ln 3 = 1.1)",
+      "question": "For a first order reaction, A \\to P, t<sub>1/2</sub> (half-life) is 10 days The time required for 1 \\over 4<sup>th</sup> conversion of A (in days) is : (ln 2 = 0.693, ln 3 = 1.1)",
       "options": {
         "A": "5",
         "B": "3.2",
@@ -627,7 +537,7 @@
         "D": "2.5"
       },
       "answer": "C",
-      "solution": "For first order reaction, <br><br>The half life, t<sub>$$1 \\over 2$$</sub> = $$0.693 \\over k$$ <br><br>Here given t<sub>$$1 \\over 2$$</sub> = 10 days <br><br>$$\\therefore\\,\\,\\,$$ k = $$0.693 \\over 10$$ = 0.0693 days<sup>$$-$$1</sup> <br><br>Now, the time required for $$1 \\over 4$$th conversion of A is , <br><br>t = $$2.303 \\over k$$ log<sub>10</sub> $$\\left( a \\over a - x \\right)$$ <br><br>= $$2.303 \\over 0.0693$$ log $$\\left( 1 \\over 1 - 1 \\over 4 \\right)$$ <br><br>= $$2.303 \\over 0.0693$$ log $$\\left( 4 \\over 3 \\right)$$ <br><br>= 4.1 days.",
+      "solution": "For first order reaction, <br><br>The half life, t<sub>1 \\over 2</sub> = 0.693 \\over k <br><br>Here given t<sub>1 \\over 2</sub> = 10 days <br><br>\\therefore\\,\\,\\, k = 0.693 \\over 10 = 0.0693 days<sup>-1</sup> <br><br>Now, the time required for 1 \\over 4th conversion of A is , <br><br>t = 2.303 \\over k log<sub>10</sub> \\left( a \\over a - x \\right) <br><br>= 2.303 \\over 0.0693 log \\left( 1 \\over 1 - 1 \\over 4 \\right) <br><br>= 2.303 \\over 0.0693 log \\left( 4 \\over 3 \\right) <br><br>= 4.1 days.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -642,14 +552,14 @@
         "D": "3"
       },
       "answer": "B",
-      "solution": "Assume initial concentration of the reactant = 1 M <br><br>After 100 second, concentration becomes of the reactant <br><br>= 1 $$ \\times $$ $$50 \\over 100$$ = 0.5 M <br><br>After 200 second, concentration of the reactant becomes <br><br>= 1 $$ \\times $$ $$25 \\over 100$$ = 0.25 M. <br><br>So, in first 100 second reactant concentration becomes half of initial and in the second 100 second concentration becomes 0.5 M to 0.25 M, which is also half of 0.5 M. <br><br>So, after each 100 second period, concentration of reactant becomes half of initial concentration. <br><br>So, 100 second is the half life period and it is independent of concentration of reactant. This is characteristic of first order reaction.",
+      "solution": "Assume initial concentration of the reactant = 1 M <br><br>After 100 second, concentration becomes of the reactant <br><br>= 1 \u00d7 50 \\over 100 = 0.5 M <br><br>After 200 second, concentration of the reactant becomes <br><br>= 1 \u00d7 25 \\over 100 = 0.25 M. <br><br>So, in first 100 second reactant concentration becomes half of initial and in the second 100 second concentration becomes 0.5 M to 0.25 M, which is also half of 0.5 M. <br><br>So, after each 100 second period, concentration of reactant becomes half of initial concentration. <br><br>So, 100 second is the half life period and it is independent of concentration of reactant. This is characteristic of first order reaction.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The reaction 2X $$ \\to $$ B is a zeroth order reaction. If the initial concentration of X is 0.2 M, the half-life is 6 h. When the initial concentration of X is 0.5 M, the time required to reach its final concentration of 0.2 M will be:",
+      "question": "The reaction 2X \\to B is a zeroth order reaction. If the initial concentration of X is 0.2 M, the half-life is 6 h. When the initial concentration of X is 0.5 M, the time required to reach its final concentration of 0.2 M will be:",
       "options": {
         "A": "18.0 h",
         "B": "9.0 h",
@@ -657,14 +567,14 @@
         "D": "12.0 h"
       },
       "answer": "A",
-      "solution": "For zero order reaction, <br><br>t<sub>1/2</sub> = $$a_0 \\over 2k$$ <br><br>$$ \\Rightarrow $$ k = $$a_0 \\over 2t_1/2$$ = $$0.2 \\over 2 \\times 6$$ = 1.67 $$ \\times $$ 10<sup>-2</sup> mol L<sup>\\\u20131</sup>h<sup>\\\u20131</sup> <br><br>For zero order reaction, <br><br>A<sub>0</sub> - A<sub>t</sub> = kt <br><br>$$ \\Rightarrow $$ 0.5 - 0.2 = 1.67 $$ \\times $$ 10<sup>-2</sup> t <br><br>$$ \\Rightarrow $$ t = $$0.3 \\over 1.67 \\times 10^ - 2$$ = 18 h",
+      "solution": "For zero order reaction, <br><br>t<sub>1/2</sub> = a_0 \\over 2k <br><br> \\Rightarrow k = a_0 \\over 2t_1/2 = 0.2 \\over 2 \u00d7 6 = 1.67 \u00d7 10<sup>-2</sup> mol L<sup>\\\u20131</sup>h<sup>\\\u20131</sup> <br><br>For zero order reaction, <br><br>A<sub>0</sub> - A<sub>t</sub> = kt <br><br> \\Rightarrow 0.5 - 0.2 = 1.67 \u00d7 10<sup>-2</sup> t <br><br> \\Rightarrow t = 0.3 \\over 1.67 \u00d7 10^ - 2 = 18 h",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "Decomposition of X exhibits a rate constant of 0.05 $$\\mu $$g/year. How many year are required for the decomposition of 5$$\\mu $$g of X into 2.5 $$\\mu $$g?",
+      "question": "Decomposition of X exhibits a rate constant of 0.05 \\mu g/year. How many year are required for the decomposition of 5\\mu g of X into 2.5 \\mu g?",
       "options": {
         "A": "50",
         "B": "20",
@@ -672,7 +582,7 @@
         "D": "40"
       },
       "answer": "A",
-      "solution": "According to unit of rate constant it is a zero order reaction, then half life of zero order reaction. <br><br>t<sub>1/2</sub> = $$a_0 \\over 2k = 5 \\over 2 \\times 0.05$$ = 50 years",
+      "solution": "According to unit of rate constant it is a zero order reaction, then half life of zero order reaction. <br><br>t<sub>1/2</sub> = a_0 \\over 2k = 5 \\over 2 \u00d7 0.05 = 50 years",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -682,9 +592,9 @@
       "question": "It is true that :",
       "options": {
         "A": "first order reaction is always a single step reaction",
-        "B": "A zero order reaction is a multistep reaction",
-        "C": "A zero order reaction is a single step reaction",
-        "D": "A second order reaction is always a multistep reaction"
+        "B": "zero order reaction is a multistep reaction",
+        "C": "zero order reaction is a single step reaction",
+        "D": "second order reaction is always a multistep reaction"
       },
       "answer": "B",
       "solution": "Zero order reaction has complex mechanism. <br>Zero order reaction is a multistep reaction.",
@@ -694,7 +604,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>For a first order reaction, the time required for completion of 90% reaction is 'x' times the half life of the reaction. The value of 'x' is</p> <p>(Given : ln 10 = 2.303 and log 2 = 0.3010)</p>",
+      "question": "For a first order reaction, the time required for completion of 90% reaction is 'x' times the half life of the reaction. The value of 'x' is (Given : ln 10 = 2.303 and log 2 = 0.3010)",
       "options": {
         "A": "1.12",
         "B": "2.43",
@@ -702,14 +612,14 @@
         "D": "33.31"
       },
       "answer": "C",
-      "solution": "$$A \\rightarrow$$ Products<br/><br/> For a first order reaction,<br/><br/> $$ t_1 / 2=\\frac\\ln 2k=\\frac\u2080.693k $$<br/><br/> Time for $$90 \\%$$ conversion,<br/><br/> $$t_90 \\%=\\frac\u2081k \\ln \\frac\u2081\u2080\u2080\u2081\u2080=\\frac\\ln 10k=\\frac\u2082.303k$$<br/><br/> $$t_90\\%=\\frac\u2082.3030.693 t_1 / 2=3.32 t_1 / 2$$",
+      "solution": "A \\rightarrow Products<br/><br/> For a first order reaction,<br/><br/> t_1 / 2=\\frac\\ln 2k=\\frac\u2080.693k <br/><br/> Time for 90 \\% conversion,<br/><br/> t_90 \\%=\\frac\u2081k \\ln \\frac\u2081\u2080\u2080\u2081\u2080=\\frac\\ln 10k=\\frac\u2082.303k<br/><br/> t_90\\%=\\frac\u2082.3030.693 t_1 / 2=3.32 t_1 / 2",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>At $$30^\\circ C$$, the half life for the decomposition of $$AB_2$$ is $$200 ~s$$ and is independent of the initial concentration of $$AB_2$$. The time required for $$80 \\%$$ of the $$AB_2$$ to decompose is</p> <p>Given: $$\\log 2=0.30$$ $$\\quad \\log 3=0.48$$</p>",
+      "question": "At 30^\\circ C, the half life for the decomposition of AB_2 is 200 s and is independent of the initial concentration of AB_2. The time required for 80 \\% of the AB_2 to decompose is Given: \\log 2=0.30 \\quad \\log 3=0.48",
       "options": {
         "A": "200 s",
         "B": "323 s",
@@ -717,29 +627,29 @@
         "D": "532 s"
       },
       "answer": "C",
-      "solution": "Since, half-life is independent of the initial concentration of $$A B_2$$. Hence, the reaction is \"First Order\". <br/><br/> $$k=\\frac\u2082.303 \\log 2t_1 / 2$$ <br/><br/> $$\\frac\u2082.303 \\log 2t_1 / 2=\\frac\u2082.303t \\log \\frac\u2081\u2080\u2080(100-80)$$ <br/><br/> $$\\frac\u2082.303 \\times 0.3200=\\frac\u2082.303t \\log 5$$ <br/><br/> $$t=467 ~s$$",
+      "solution": "Since, half-life is independent of the initial concentration of A B_2. Hence, the reaction is \"First Order\". <br/><br/> k=\\frac\u2082.303 \\log 2t_1 / 2 <br/><br/> \\frac\u2082.303 \\log 2t_1 / 2=\\frac\u2082.303t \\log \\frac\u2081\u2080\u2080(100-80) <br/><br/> \\frac\u2082.303 \u00d7 0.3200=\\frac\u2082.303t \\log 5 <br/><br/> t=467 s",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>Integrated rate law equation for a first order gas phase reaction is given by (where $$P_i$$ is initial pressure and $$P_t$$ is total pressure at time $$t$$)</p>",
+      "question": "Integrated rate law equation for a first order gas phase reaction is given by (where P_i is initial pressure and P_t is total pressure at time t)",
       "options": {
-        "A": "$$k=\\frac\u2082.303t \\times \\log \\fracP_i\\left(2 P_i-P_t\\right)$$",
-        "B": "$$k=\\frac\u2082.303t \\times \\log \\frac\\left(2 P_i-P_t\\right)P_i$$",
-        "C": "$$k=\\frac\u2082.303t \\times \\fracP_i\\left(2 P_i-P_t\\right)$$",
-        "D": "$$k=\\frac\u2082.303t \\times \\log \\frac\u2082 P_i\\left(2 P_i-P_t\\right)$$"
+        "A": "k=\\frac\u2082.303t \u00d7 \\log \\fracP_i\\left(2 P_i-P_t\\right)",
+        "B": "k=\\frac\u2082.303t \u00d7 \\log \\frac\\left(2 P_i-P_t\\right)P_i",
+        "C": "k=\\frac\u2082.303t \u00d7 \\fracP_i\\left(2 P_i-P_t\\right)",
+        "D": "k=\\frac\u2082.303t \u00d7 \\log \\frac\u2082 P_i\\left(2 P_i-P_t\\right)"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginarrayllll A \\rightarrow & B & + & C \\\\ P_i & 0 & & 0 \\\\ P_i-x & x & & x \\endarray$$</p> <p>$$\\beginaligned & P_t=P_i+x \\\\ & P_i-x=P_i-P_t+P_i \\\\ & =2 P_i-P_t \\\\ & K=\\frac\u2082.303t \\log \\fracP_i\u2082 P_i-P_t \\endaligned$$</p>",
+      "solution": "\\beginarrayllll A \\rightarrow & B & + & C \\\\ P_i & 0 & & 0 \\\\ P_i-x & x & & x \\endarray \\beginaligned & P_t=P_i+x \\\\ & P_i-x=P_i-P_t+P_i \\\\ & =2 P_i-P_t \\\\ & K=\\frac\u2082.303t \\log \\fracP_i\u2082 P_i-P_t \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The reaction of ozone with oxygen atoms in the presence of chlorine atoms can occur by a two step process shown below : <br/><br/>O<sub>3</sub>(g) + Cl$$^ \\bullet $$ (g) $$ \\to $$ O<sub>2</sub>(g) + ClO$$^ \\bullet $$ (g) . . . . . .(i) <br/><br/>k<sub>i</sub> = 5.2 \u00d7 10<sup>9</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup> <br/><br/>ClO$$^ \\bullet $$(g) + O$$^ \\bullet $$(g) $$ \\to $$ O<sub>2</sub>(g) + Cl$$^ \\bullet $$ (g) . . . . . . (ii) <br/><br/>k<sub>ii</sub> = 2.6 \u00d7 10<sup>10</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup> <br/><br/>The closest rate constant for the overall reaction O<sub>3</sub>(g) + O$$^ \\bullet $$ (g) $$ \\to $$ 2 O<sub>2</sub>(g) is :",
+      "question": "The reaction of ozone with oxygen atoms in the presence of chlorine atoms can occur by a two step process shown below : <br/><br/>O<sub>3</sub>(g) + Cl^ \\bullet (g) \\to O<sub>2</sub>(g) + ClO^ \\bullet (g) . . . . . .(i) <br/><br/>k<sub>i</sub> = 5.2 \u00d7 10<sup>9</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup> <br/><br/>ClO^ \\bullet (g) + O^ \\bullet (g) \\to O<sub>2</sub>(g) + Cl^ \\bullet (g) . . . . . . (ii) <br/><br/>k<sub>ii</sub> = 2.6 \u00d7 10<sup>10</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup> <br/><br/>The closest rate constant for the overall reaction O<sub>3</sub>(g) + O^ \\bullet (g) \\to 2 O<sub>2</sub>(g) is :",
       "options": {
         "A": "5.2 \u00d7 10<sup>9</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup>",
         "B": "2.6 \u00d7 10<sup>10</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup>",
@@ -747,14 +657,14 @@
         "D": "1.4 \u00d7 10<sup>20</sup> L mol<sup>\u22121</sup> s<sup>\u22121</sup>"
       },
       "answer": "D",
-      "solution": "<p>We have</p> <p>$$O_3(g) + Cl^ \\bullet (g) \\to O_2(g) + ClO^ \\bullet (g)$$ ...... (1)</p> <p>$$ClO^ \\bullet (g) + O^ \\bullet (g) \\to O_2(g) + Cl^ \\bullet (g)$$ ...... (2)</p> <p>On adding Eq. (1) and Eq. (2), we get the required equation for overall reaction</p> <p>$$O_3(g) + O^ \\bullet (g) \\to 2O_2(g)$$</p> <p>Therefore,</p> <p>$$k_overall = k_1 \\times k_2$$</p> <p>$$ = 5.2 \\times 10^9 \\times 2.6 \\times 10^10$$</p> <p>$$ = 1.4 \\times 10^20$$ L mol<sup>$$-$$1</sup> s<sup>$$-$$1</sup></p>",
+      "solution": "We have O_3(g) + Cl^ \\bullet (g) \\to O_2(g) + ClO^ \\bullet (g) ...... (1) ClO^ \\bullet (g) + O^ \\bullet (g) \\to O_2(g) + Cl^ \\bullet (g) ...... (2) On adding Eq. (1) and Eq. (2), we get the required equation for overall reaction O_3(g) + O^ \\bullet (g) \\to 2O_2(g) Therefore, k_overall = k_1 \u00d7 k_2 = 5.2 \u00d7 10^9 \u00d7 2.6 \u00d7 10^10 = 1.4 \u00d7 10^20 L mol<sup>-1</sup> s<sup>-1</sup>",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate law for the reaction below is given by the expression k [A] [B] <br/><br/>A + B $$ \\to $$ Product <br/><br/>If the concentration of B is increased from 0.1 to 0.3 mole, keeping the value of A at 0.1 mole, the rate constant will be :",
+      "question": "The rate law for the reaction below is given by the expression k [A] [B] <br/><br/>A + B \\to Product <br/><br/>If the concentration of B is increased from 0.1 to 0.3 mole, keeping the value of A at 0.1 mole, the rate constant will be :",
       "options": {
         "A": "k",
         "B": "k/3",
@@ -769,7 +679,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the reaction 2A + B $$ \\to $$ C, the values of initial rate at diffrent reactant concentrations are given in the table below. The rate law for the reaction is : <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-s\u2086z\u2082text-align:center .tg .tg-baqhtext-align:center;vertical-align:top </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-s\u2086z\u2082\">[A] (mol L<sup>-1</sup>) </th> <th class=\"tg-s\u2086z\u2082\">[B] (mol L<sup>-1</sup>)</th> <th class=\"tg-s\u2086z\u2082\">Initial Rate (mol L<sup>-1</sup>s<sup>-1</sup>)</th> </tr> <tr> <td class=\"tg-s\u2086z\u2082\">0.05</td> <td class=\"tg-s\u2086z\u2082\">0.05</td> <td class=\"tg-s\u2086z\u2082\">0.045</td> </tr> <tr> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.05</td> <td class=\"tg-baqh\">0.090</td> </tr> <tr> <td class=\"tg-baqh\">0.20</td> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.72</td> </tr> </tbody></table>",
+      "question": "For the reaction 2A + B \\to C, the values of initial rate at diffrent reactant concentrations are given in the table below. The rate law for the reaction is : <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-s\u2086z\u2082text-align:center .tg .tg-baqhtext-align:center;vertical-align:top <tbody> <th class=\"tg-s\u2086z\u2082\">[A] (mol L<sup>-1</sup>) </th> <th class=\"tg-s\u2086z\u2082\">[B] (mol L<sup>-1</sup>)</th> <th class=\"tg-s\u2086z\u2082\">Initial Rate (mol L<sup>-1</sup>s<sup>-1</sup>)</th> 0.05 0.05 0.045 0.10 0.05 0.090 0.20 0.10 0.72 </tbody>",
       "options": {
         "A": "Rate = k[A][B]<sup>2</sup>",
         "B": "Rate = k[A]<sup>2</sup>[B]<sup>2</sup>",
@@ -777,14 +687,14 @@
         "D": "Rate = k[A][B]"
       },
       "answer": "A",
-      "solution": "Rate law for the reaction, <br><br>2A + B $$ \\to $$ C <br><br>Rate law (R) = k[A]<sup>x</sup>[B]<sup>y</sup> <br><br>From experiment 1 : <br><br>R<sub>1</sub> = 0.045 = k[0.05]<sup>x</sup> [0.05]<sup>y</sup> ............(i) <br><br>From experiment 2 : <br><br>R<sub>2</sub> = 0.090 = k[0.1]<sup>x</sup> [0.05]<sup>y</sup> ...............(ii) <br><br>From experiment 3 : <br><br>R<sub>3</sub> = 0.72 = k[0.2]<sup>x</sup> [0.1]<sup>y</sup> ...................(iii) <br><br>Divide equation (ii) by equation (i), <br><br>$$R_2 \\over R_1 = 0.09 \\over 0.045 = k\\left[ 0.1 \\right]^x\\left[ 0.05 \\right]^y \\over k\\left[ 0.05 \\right]^x\\left[ 0.05 \\right]^y$$ <br><br>$$ \\Rightarrow $$ 2 = (2)<sup>x</sup> <br><br>$$ \\Rightarrow $$ x = 1 <br><br>Divide equation (iii) by equation (ii), <br><br>$$R_3 \\over R_2 = 0.72 \\over 0.09 = k\\left[ 0.2 \\right]^x\\left[ 0.1 \\right]^y \\over k\\left[ 0.1 \\right]^x\\left[ 0.05 \\right]^y$$ <br><br>$$ \\Rightarrow $$ 8 = 2<sup>x</sup> 2<sup>y</sup> <br><br>$$ \\Rightarrow $$ 8 = 2<sup>1</sup> 2<sup>y</sup> [as x = 1] <br><br>$$ \\Rightarrow $$ 2<sup>y</sup> = 4 <br><br>$$ \\Rightarrow $$ y = 2 <br><br>$$ \\therefore $$ Rate law (R) = k[A]<sup>1</sup>[B]<sup>2</sup>",
+      "solution": "Rate law for the reaction, <br><br>2A + B \\to C <br><br>Rate law (R) = k[A]<sup>x</sup>[B]<sup>y</sup> <br><br>From experiment 1 : <br><br>R<sub>1</sub> = 0.045 = k[0.05]<sup>x</sup> [0.05]<sup>y</sup> ............(i) <br><br>From experiment 2 : <br><br>R<sub>2</sub> = 0.090 = k[0.1]<sup>x</sup> [0.05]<sup>y</sup> ...............(ii) <br><br>From experiment 3 : <br><br>R<sub>3</sub> = 0.72 = k[0.2]<sup>x</sup> [0.1]<sup>y</sup> ...................(iii) <br><br>Divide equation (ii) by equation (i), <br><br>R_2 \\over R_1 = 0.09 \\over 0.045 = k\\left[ 0.1 \\right]^x\\left[ 0.05 \\right]^y \\over k\\left[ 0.05 \\right]^x\\left[ 0.05 \\right]^y <br><br> \\Rightarrow 2 = (2)<sup>x</sup> <br><br> \\Rightarrow x = 1 <br><br>Divide equation (iii) by equation (ii), <br><br>R_3 \\over R_2 = 0.72 \\over 0.09 = k\\left[ 0.2 \\right]^x\\left[ 0.1 \\right]^y \\over k\\left[ 0.1 \\right]^x\\left[ 0.05 \\right]^y <br><br> \\Rightarrow 8 = 2<sup>x</sup> 2<sup>y</sup> <br><br> \\Rightarrow 8 = 2<sup>1</sup> 2<sup>y</sup> [as x = 1] <br><br> \\Rightarrow 2<sup>y</sup> = 4 <br><br> \\Rightarrow y = 2 <br><br> \\therefore Rate law (R) = k[A]<sup>1</sup>[B]<sup>2</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The following results were obtained during kinetic studies of the reaction ; <br/><br/>2A + B $$ \\to $$ Products <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;text-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de\u2084\u2088\">Experiment</th> <th class=\"tg-de\u2084\u2088\">[A] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de\u2084\u2088\">[b] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de\u2084\u2088\">Initial Rate of reaction<br/>(In mol L<sup>$$-$$1</sup> min<sup>$$-$$1</sup>)</th> </tr> <tr> <td class=\"tg-wv\u2089z\">I</td> <td class=\"tg-wv\u2089z\">0.10</td> <td class=\"tg-wv\u2089z\">0.20</td> <td class=\"tg-wv\u2089z\">6.93 G\u2081\u2080<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv\u2089z\">II</td> <td class=\"tg-wv\u2089z\">0.10</td> <td class=\"tg-wv\u2089z\">0.25</td> <td class=\"tg-wv\u2089z\">6.93 G\u2081\u2080<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv\u2089z\">III</td> <td class=\"tg-wv\u2089z\">0.20</td> <td class=\"tg-wv\u2089z\">0.30</td> <td class=\"tg-wv\u2089z\">1.386 G\u2081\u2080<sup>$$-$$2</sup></td> </tr> </tbody></table> <br/><br/>The time (in minutes) required to consume half of A is :",
+      "question": "The following results were obtained during kinetic studies of the reaction ; <br/><br/>2A + B \\to Products <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;text-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;text-align:center <tbody> <th class=\"tg-de\u2084\u2088\">Experiment</th> <th class=\"tg-de\u2084\u2088\">[A] (in mol L<sup>-1</sup>)</th> <th class=\"tg-de\u2084\u2088\">[b] (in mol L<sup>-1</sup>)</th> <th class=\"tg-de\u2084\u2088\">Initial Rate of reaction<br/>(In mol L<sup>-1</sup> min<sup>-1</sup>)</th> I 0.10 0.20 6.93 G\u2081\u2080<sup>-3</sup> II 0.10 0.25 6.93 G\u2081\u2080<sup>-3</sup> III 0.20 0.30 1.386 G\u2081\u2080<sup>-2</sup> </tbody> <br/><br/>The time (in minutes) required to consume half of A is :",
       "options": {
         "A": "5",
         "B": "10",
@@ -792,14 +702,14 @@
         "D": "100"
       },
       "answer": "B",
-      "solution": "<p>To determine the time required to consume half of A, we must first determine the rate law for the reaction based on the provided kinetic data.</p> <p>From the data, we can write the general rate law for the reaction as:</p> <p>$$ \\textRate = k [A]^m [B]^n $$</p> <p>We can now use the experimental data to find the values of the exponents $ m $ and $ n $, as well as the rate constant $ k $.</p> <p>From Experiment I and II, we can see that the initial concentration of A remains constant at 0.10 M while the concentration of B changes.</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment II: \\quad \\textRate = k [0.10]^m [0.25]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>By comparing the rates from Experiment I and II:</p> <p>$$ \\frac[0.10]^m [0.25]^n[0.10]^m [0.20]^n = \\frac\u2086.93 \\times 10^-36.93 \\times 10^-3 $$</p> <p>$$ \\frac[0.25]^n[0.20]^n = 1 \\implies \\left(\\frac\u2080.250.20\\right)^n = 1 \\implies n = 0 $$</p> <p>Thus, the reaction is zero order with respect to B.</p> <p>Next, we compare Experiment I and III to determine the order with respect to A:</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^0 &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment III: \\quad \\textRate = k [0.20]^m [0.30]^0 &= 1.386 \\times 10^-2 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>$$ \\frack [0.20]^mk [0.10]^m = \\frac\u2081.386 \\times 10^-26.93 \\times 10^-3 $$</p> <p>$$ \\left( \\frac\u2080.200.10 \\right)^m = 2 \\implies (2)^m = 2 \\implies m = 1 $$</p> <p>Therefore, the reaction is first-order with respect to A.</p> <p>Now, we can write the rate law as:</p> <p>$$ \\textRate = k [A]^1 $$</p> <p>Let's calculate the rate constant $ k $ using data from any experiment (say Experiment I):</p> <p>$$ 6.93 \\times 10^-3 = k \\times 0.10 $$</p> <p>$$ k = \\frac\u2086.93 \\times 10^-30.10 = 6.93 \\times 10^-2 \\, \\textmin^-1 $$</p> <p>To determine the half-life (time required to consume half of A) for a first-order reaction, we use the formula:</p> <p>$$ t_1/2 = \\frac\u2080.693k $$</p> <p>Substituting the value of $ k $:</p> <p>$$ t_1/2 = \\frac\u2080.6936.93 \\times 10^-2 = 10 \\, \\textminutes $$</p> <p>Therefore, the time required to consume half of A is:</p> <p>Option B: 10</p>",
+      "solution": "To determine the time required to consume half of A, we must first determine the rate law for the reaction based on the provided kinetic data. From the data, we can write the general rate law for the reaction as: \\textRate = k [A]^m [B]^n We can now use the experimental data to find the values of the exponents m and n , as well as the rate constant k . From Experiment I and II, we can see that the initial concentration of A remains constant at 0.10 M while the concentration of B changes. \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^n &= 6.93 \u00d7 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment II: \\quad \\textRate = k [0.10]^m [0.25]^n &= 6.93 \u00d7 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\endalign* By comparing the rates from Experiment I and II: \\frac[0.10]^m [0.25]^n[0.10]^m [0.20]^n = \\frac\u2086.93 \u00d7 10^-36.93 \u00d7 10^-3 \\frac[0.25]^n[0.20]^n = 1 \\implies \\left(\\frac\u2080.250.20\\right)^n = 1 \\implies n = 0 Thus, the reaction is zero order with respect to B. Next, we compare Experiment I and III to determine the order with respect to A: \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^0 &= 6.93 \u00d7 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment III: \\quad \\textRate = k [0.20]^m [0.30]^0 &= 1.386 \u00d7 10^-2 \\, \\textmol L^-1 \\textmin^-1 \\endalign* \\frack [0.20]^mk [0.10]^m = \\frac\u2081.386 \u00d7 10^-26.93 \u00d7 10^-3 \\left( \\frac\u2080.200.10 \\right)^m = 2 \\implies (2)^m = 2 \\implies m = 1 Therefore, the reaction is first-order with respect to A. Now, we can write the rate law as: \\textRate = k [A]^1 Let's calculate the rate constant k using data from any experiment (say Experiment I): 6.93 \u00d7 10^-3 = k \u00d7 0.10 k = \\frac\u2086.93 \u00d7 10^-30.10 = 6.93 \u00d7 10^-2 \\, \\textmin^-1 To determine the half-life (time required to consume half of A) for a first-order reaction, we use the formula: t_1/2 = \\frac\u2080.693k Substituting the value of k : t_1/2 = \\frac\u2080.6936.93 \u00d7 10^-2 = 10 \\, \\textminutes Therefore, the time required to consume half of A is: Option B: 10",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the reaction <br/>2H<sub>2</sub>(g) + 2NO(g) $$ \\to $$ N<sub>2</sub>(g) + 2H<sub>2</sub>O(g) <br/>the observed rate expression is, rate = K<sub>f</sub>[NO]<sup>2</sup>[H<sub>2</sub>]. The rate expression for the reverse reaction is :",
+      "question": "For the reaction <br/>2H<sub>2</sub>(g) + 2NO(g) \\to N<sub>2</sub>(g) + 2H<sub>2</sub>O(g) <br/>the observed rate expression is, rate = K<sub>f</sub>[NO]<sup>2</sup>[H<sub>2</sub>]. The rate expression for the reverse reaction is :",
       "options": {
         "A": "K<sub>b</sub>[N<sub>2</sub>][H<sub>2</sub>O]",
         "B": "K<sub>b</sub>[N<sub>2</sub>][H<sub>2</sub>O]<sup>2</sup>/[H<sub>2</sub>]",
@@ -807,7 +717,7 @@
         "D": "K<sub>b</sub>[N<sub>2</sub>][H<sub>2</sub>O]<sup>2</sup>"
       },
       "answer": "B",
-      "solution": "K<sub>eq</sub> = $$k_f \\over k_b$$ = $$\\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right]^2\\left[ NO \\right]^2$$ <br><br>$$k_f\\left[ H_2 \\right]\\left[ NO \\right]^2 = k_b\\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right]$$ <br><br>At equilibrium r<sub>f</sub> = r<sub>b</sub> <br><br>Given r<sub>f</sub> = $$k_f\\left[ H_2 \\right]\\left[ NO \\right]^2$$ <br><br>$$ \\therefore $$ r<sub>b</sub> = $$k_b\\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right]$$",
+      "solution": "K<sub>eq</sub> = k_f \\over k_b = \\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right]^2\\left[ NO \\right]^2 <br><br>k_f\\left[ H_2 \\right]\\left[ NO \\right]^2 = k_b\\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right] <br><br>At equilibrium r<sub>f</sub> = r<sub>b</sub> <br><br>Given r<sub>f</sub> = k_f\\left[ H_2 \\right]\\left[ NO \\right]^2 <br><br> \\therefore r<sub>b</sub> = k_b\\left[ N_2 \\right]\\left[ H_2O \\right]^2 \\over \\left[ H_2 \\right]",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -816,50 +726,50 @@
     {
       "question": "For a reaction of order n, the unit of the rate constant is :",
       "options": {
-        "A": "mol<sup>1$$-$$n</sup> L<sup>1$$-$$n</sup> s",
-        "B": "mol<sup>1$$-$$n</sup> L<sup>2n</sup> s<sup>$$-$$1</sup>",
-        "C": "mol<sup>1$$-$$n</sup> L<sup>n$$-$$1</sup> s<sup>$$-$$1</sup>",
-        "D": "mol<sup>1$$-$$n</sup> L<sup>1$$-$$n</sup> s<sup>$$-$$1</sup>"
+        "A": "mol<sup>1-n</sup> L<sup>1-n</sup> s",
+        "B": "mol<sup>1-n</sup> L<sup>2n</sup> s<sup>-1</sup>",
+        "C": "mol<sup>1-n</sup> L<sup>n-1</sup> s<sup>-1</sup>",
+        "D": "mol<sup>1-n</sup> L<sup>1-n</sup> s<sup>-1</sup>"
       },
       "answer": "C",
-      "solution": "Rate = k[A]<sup>n</sup><br><br>comparing units<br><br>$$(mol/l) \\over \\sec = k\\left( mol \\over l \\right)^n$$<br><br>$$ \\Rightarrow k = mol^(l - n)l^(n - 1)s^ - 1$$",
+      "solution": "Rate = k[A]<sup>n</sup><br><br>comparing units<br><br>(mol/l) \\over \\sec = k\\left( mol \\over l \\right)^n<br><br> \\Rightarrow k = mol^(l - n)l^(n - 1)s^ - 1",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "<p>For a reaction $$A \\xrightarrowK_1 ~B \\xrightarrowK_2 C$$ If the rate of formation of B is set to be zero then the concentration of B is given by :</p>",
+      "question": "For a reaction A \\xrightarrowK_1 B \\xrightarrowK_2 C If the rate of formation of B is set to be zero then the concentration of B is given by :",
       "options": {
-        "A": "$$(K_1-K_2)[A]$$",
-        "B": "$$(K_1+K_2)[A]$$",
-        "C": "$$K_1 K_2[~A]$$",
-        "D": "$$(K_1 / K_2)[A]$$"
+        "A": "(K_1-K_2)[A]",
+        "B": "(K_1+K_2)[A]",
+        "C": "K_1 K_2[ A]",
+        "D": "(K_1 / K_2)[A]"
       },
       "answer": "D",
-      "solution": "<p>To determine the concentration of $ B $ when the rate of formation of $ B $ is set to zero, let's consider the reaction sequence:</p> <p>$$ A \\xrightarrowK_1 B \\xrightarrowK_2 C $$</p> <p>The rate of formation of $ B $ from $ A $ is given by:</p> <p>$$ \\textRate of formation of B = K_1[A] $$</p> <p>The rate of consumption of $ B $ to form $ C $ is given by:</p> <p>$$ \\textRate of consumption of B = K_2[B] $$</p> <p>At steady state, where the rate of formation of $ B $ is set to zero, the rate of formation of $ B $ is equal to the rate of its consumption. Therefore, we have:</p> <p>$$ K_1[A] = K_2[B] $$</p> <p>Solving for $ [B] $, we get:</p> <p>$$ [B] = \\fracK_1K_2 [A] $$</p> <p>Therefore, the correct concentration of $ B $ is:</p> <p><strong>Option D:</strong> $$ \\left(\\fracK_1K_2\\right)[A] $$</p>",
+      "solution": "To determine the concentration of B when the rate of formation of B is set to zero, let's consider the reaction sequence: A \\xrightarrowK_1 B \\xrightarrowK_2 C The rate of formation of B from A is given by: \\textRate of formation of B = K_1[A] The rate of consumption of B to form C is given by: \\textRate of consumption of B = K_2[B] At steady state, where the rate of formation of B is set to zero, the rate of formation of B is equal to the rate of its consumption. Therefore, we have: K_1[A] = K_2[B] Solving for [B] , we get: [B] = \\fracK_1K_2 [A] Therefore, the correct concentration of B is: <strong>Option D:</strong> \\left(\\fracK_1K_2\\right)[A]",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For a reaction scheme $$A\\buildrel k_1 \\over \\longrightarrow B\\buildrel k_2 \\over \\longrightarrow C$$, <br/><br/> if the rate of formation of B is set to be zero then the concentration of B is given by :",
+      "question": "For a reaction scheme A\\buildrel k_1 \\over \\longrightarrow B\\buildrel k_2 \\over \\longrightarrow C, <br/><br/> if the rate of formation of B is set to be zero then the concentration of B is given by :",
       "options": {
-        "A": "$$k_1k_2[A]$$",
-        "B": "$$\\left( k_1 \\over k_2 \\right)[A]$$",
-        "C": "$$(k_1 + k_2)[A]$$",
-        "D": "$$(k_1 - k_2)[A]$$"
+        "A": "k_1k_2[A]",
+        "B": "\\left( k_1 \\over k_2 \\right)[A]",
+        "C": "(k_1 + k_2)[A]",
+        "D": "(k_1 - k_2)[A]"
       },
       "answer": "B",
-      "solution": "Given, the rate of formation of B is set to be zero. <br><br>$$ \\therefore $$ $$d\\left[ B \\right] \\over dt = 0$$ <br><br>For this reaction, <br><br>$$A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_1^k_1 B$$ <br><br>Rate of reaction for this reaction (R<sub>1</sub>) = $$k_1\\left[ A \\right]$$ <br><br>For this reaction, <br><br>$$B\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_2^k_2 C$$ <br><br>Rate of reaction for this reaction (R<sub>2</sub>) = $$k_2\\left[ B \\right]$$ <br><br>Net rate of formation of B = $$d\\left[ B \\right] \\over dt$$ = R<sub>1</sub> - R<sub>2</sub> <br><br>As $$d\\left[ B \\right] \\over dt = 0$$ <br><br>$$ \\therefore $$ R<sub>1</sub> - R<sub>2</sub> = 0 <br><br>$$ \\Rightarrow $$ $$k_1\\left[ A \\right]$$ - $$k_2\\left[ B \\right]$$ = 0 <br><br>$$ \\Rightarrow $$ $$\\left[ B \\right] = k_1 \\over k_2\\left[ A \\right]$$",
+      "solution": "Given, the rate of formation of B is set to be zero. <br><br> \\therefore d\\left[ B \\right] \\over dt = 0 <br><br>For this reaction, <br><br>A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_1^k_1 B <br><br>Rate of reaction for this reaction (R<sub>1</sub>) = k_1\\left[ A \\right] <br><br>For this reaction, <br><br>B\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_2^k_2 C <br><br>Rate of reaction for this reaction (R<sub>2</sub>) = k_2\\left[ B \\right] <br><br>Net rate of formation of B = d\\left[ B \\right] \\over dt = R<sub>1</sub> - R<sub>2</sub> <br><br>As d\\left[ B \\right] \\over dt = 0 <br><br> \\therefore R<sub>1</sub> - R<sub>2</sub> = 0 <br><br> \\Rightarrow k_1\\left[ A \\right] - k_2\\left[ B \\right] = 0 <br><br> \\Rightarrow \\left[ B \\right] = k_1 \\over k_2\\left[ A \\right]",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "In the following reaction; xA $$ \\to $$ yB <br/>$$\\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + 0.3010$$ <br/>'A' and 'B' respectively can be :",
+      "question": "In the following reaction; xA \\to yB <br/>\\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + 0.3010 <br/>'A' and 'B' respectively can be :",
       "options": {
         "A": "n-Butane and Iso-butane",
         "B": "C<sub>2</sub>H<sub>4</sub> and C<sub>4</sub>H<sub>8</sub>",
@@ -867,14 +777,14 @@
         "D": "N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>"
       },
       "answer": "B",
-      "solution": "xA $$ \\to $$ yB <br><br>$$1 \\over x\\left\\ - d\\left[ A \\right] \\over dt \\right\\ = 1 \\over y\\left\\ d\\left[ B \\right] \\over dt \\right\\$$ <br><br>$$ \\Rightarrow $$ $$ - d\\left[ A \\right] \\over dt = x \\over y\\left\\ d\\left[ B \\right] \\over dt \\right\\$$ <br><br>Taking log both sides, we get <br><br>$$ \\Rightarrow $$ $$\\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + \\log _10\\left( x \\over y \\right)$$ <br><br>Given that, <br><br>$$\\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + 0.3010$$ <br><br>So, by comparing both of them we get <br><br>$$\\log _10\\left( x \\over y \\right)$$ = 0.3010 = $$\\log _10\\left( 2 \\right)$$ <br><br>$$ \\therefore $$ $$x \\over y$$ = 2 <br><br>$$ \\Rightarrow $$ x = 2y <br><br>If x = 2 then y = 1 <br><br>The reaction is of type 2A $$ \\to $$ B <br><br>So possible reaction is <br><br>2C<sub>2</sub>H<sub>4</sub> $$ \\to $$ C<sub>4</sub>H<sub>8</sub>",
+      "solution": "xA \\to yB <br><br>1 \\over x\\left\\ - d\\left[ A \\right] \\over dt \\right\\ = 1 \\over y\\left\\ d\\left[ B \\right] \\over dt \\right\\ <br><br> \\Rightarrow - d\\left[ A \\right] \\over dt = x \\over y\\left\\ d\\left[ B \\right] \\over dt \\right\\ <br><br>Taking log both sides, we get <br><br> \\Rightarrow \\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + \\log _10\\left( x \\over y \\right) <br><br>Given that, <br><br>\\log _10\\left[ - d\\left[ A \\right] \\over dt \\right] = \\log _10\\left[ d\\left[ B \\right] \\over dt \\right] + 0.3010 <br><br>So, by comparing both of them we get <br><br>\\log _10\\left( x \\over y \\right) = 0.3010 = \\log _10\\left( 2 \\right) <br><br> \\therefore x \\over y = 2 <br><br> \\Rightarrow x = 2y <br><br>If x = 2 then y = 1 <br><br>The reaction is of type 2A \\to B <br><br>So possible reaction is <br><br>2C<sub>2</sub>H<sub>4</sub> \\to C<sub>4</sub>H<sub>8</sub>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "NO<sub>2</sub> required for a reaction is produced by the decomposition of N<sub>2</sub>O<sub>5</sub> in CCl<sub>4</sub> as per the equation, <br/>2N<sub>2</sub>O<sub>5</sub>(g) $$ \\to $$ 4NO<sub>2</sub>(g) + O<sub>2</sub>(g). <br/>The initial concentration of N<sub>2</sub>O<sub>5</sub> is 3.00 mol L<sup>\\\u20131</sup> and it is 2.75 mol L<sup>\\\u20131</sup> after 30 minutes. The rate of formation of NO<sub>2</sub> is :",
+      "question": "NO<sub>2</sub> required for a reaction is produced by the decomposition of N<sub>2</sub>O<sub>5</sub> in CCl<sub>4</sub> as per the equation, <br/>2N<sub>2</sub>O<sub>5</sub>(g) \\to 4NO<sub>2</sub>(g) + O<sub>2</sub>(g). <br/>The initial concentration of N<sub>2</sub>O<sub>5</sub> is 3.00 mol L<sup>\\\u20131</sup> and it is 2.75 mol L<sup>\\\u20131</sup> after 30 minutes. The rate of formation of NO<sub>2</sub> is :",
       "options": {
         "A": "2.083 \u00d7 10<sup>\u20133</sup> mol L<sup>\u20131</sup> min<sup>\u20131</sup>",
         "B": "8.333 \u00d7 10<sup>\u20133</sup> mol L<sup>\u20131</sup> min<sup>\u20131</sup>",
@@ -882,22 +792,22 @@
         "D": "1.667 \u00d7 10<sup>\u20132</sup> mol L<sup>\u20131</sup> min<sup>\u20131</sup>"
       },
       "answer": "D",
-      "solution": "Rate of disappearance of N<sub>2</sub>O<sub>5</sub> = $$ - \\Delta \\left[ N_2O_5 \\right] \\over \\Delta \\left[ t \\right]$$ = $$ - \\left[ 2.75 - 3 \\right] \\over 30$$ = $$ + 1 \\over 120$$ mol L<sup>-1</sup> min<sup>-1</sup> <br><br>Rate of formation of NO<sub>2</sub> = $$ + \\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right]$$ <br><br>As $$ - 1 \\over 2\\Delta \\left[ N_2O_5 \\right] \\over \\Delta \\left[ t \\right] = + 1 \\over 4\\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right]$$ <br>$$ \\Rightarrow $$ $$\\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right]$$ = $$ + 1 \\over 120 \\times 4 \\over 2$$ = 0.01667 = 1.667 \u00d7 10<sup>\u20132</sup> mol L<sup>\u20131</sup> min<sup>\u20131</sup>",
+      "solution": "Rate of disappearance of N<sub>2</sub>O<sub>5</sub> = - \\Delta \\left[ N_2O_5 \\right] \\over \\Delta \\left[ t \\right] = - \\left[ 2.75 - 3 \\right] \\over 30 = + 1 \\over 120 mol L<sup>-1</sup> min<sup>-1</sup> <br><br>Rate of formation of NO<sub>2</sub> = + \\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right] <br><br>As - 1 \\over 2\\Delta \\left[ N_2O_5 \\right] \\over \\Delta \\left[ t \\right] = + 1 \\over 4\\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right] <br> \\Rightarrow \\Delta \\left[ NO_2 \\right] \\over \\Delta \\left[ t \\right] = + 1 \\over 120 \u00d7 4 \\over 2 = 0.01667 = 1.667 \u00d7 10<sup>\u20132</sup> mol L<sup>\u20131</sup> min<sup>\u20131</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the reaction<br/> 2A + 3B + $$3 \\over 2$$C $$ \\to $$ 3P, which statement is correct ?",
+      "question": "For the reaction<br/> 2A + 3B + 3 \\over 2C \\to 3P, which statement is correct ?",
       "options": {
-        "A": "$$dn_A \\over dt = dn_B \\over dt = dn_C \\over dt$$",
-        "B": "$$dn_A \\over dt = 2 \\over 3dn_B \\over dt = 3 \\over 4dn_C \\over dt$$",
-        "C": "$$dn_A \\over dt = 3 \\over 2dn_B \\over dt = 3 \\over 4dn_C \\over dt$$",
-        "D": "$$dn_A \\over dt = 2 \\over 3dn_B \\over dt = 4 \\over 3dn_C \\over dt$$"
+        "A": "dn_A \\over dt = dn_B \\over dt = dn_C \\over dt",
+        "B": "dn_A \\over dt = 2 \\over 3dn_B \\over dt = 3 \\over 4dn_C \\over dt",
+        "C": "dn_A \\over dt = 3 \\over 2dn_B \\over dt = 3 \\over 4dn_C \\over dt",
+        "D": "dn_A \\over dt = 2 \\over 3dn_B \\over dt = 4 \\over 3dn_C \\over dt"
       },
       "answer": "D",
-      "solution": "2A + 3B + $$3 \\over 2$$C $$ \\to $$ 3P <br><br>rate = $$ - 1 \\over 2d\\left[ A \\right] \\over dt = - 1 \\over 3d\\left[ B \\right] \\over dt = - 2 \\over 3d\\left[ C \\right] \\over dt = 1 \\over 3d\\left[ P \\right] \\over dt$$ <br><br>$$ \\Rightarrow $$ $$d\\left[ A \\right] \\over dt = 2 \\over 3d\\left[ B \\right] \\over dt = 4 \\over 3d\\left[ C \\right] \\over dt$$$$ = - 2 \\over 3d\\left[ P \\right] \\over dt$$",
+      "solution": "2A + 3B + 3 \\over 2C \\to 3P <br><br>rate = - 1 \\over 2d\\left[ A \\right] \\over dt = - 1 \\over 3d\\left[ B \\right] \\over dt = - 2 \\over 3d\\left[ C \\right] \\over dt = 1 \\over 3d\\left[ P \\right] \\over dt <br><br> \\Rightarrow d\\left[ A \\right] \\over dt = 2 \\over 3d\\left[ B \\right] \\over dt = 4 \\over 3d\\left[ C \\right] \\over dt = - 2 \\over 3d\\left[ P \\right] \\over dt",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",

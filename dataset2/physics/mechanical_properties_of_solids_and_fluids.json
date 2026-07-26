@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Mechanical Properties of Solids and Fluids",
-  "total_questions": 34,
+  "total_questions": 30,
   "questions": [
     {
       "question": "The pressure of a medium is changed from 1.01 \u00d7 105 P a to 1.165 \u00d7 105 P a and change in volume is 10 % keeping temperature constant.The bulk modulus of the medium is",
@@ -34,30 +34,15 @@
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A raindrop of radius 0.3 mm has a terminal velocity in air = 1 m s - 1 . The viscous force on it is (Given the viscosity of the air is 18 \u00c3\u0097 10 - 5 g cm - 1 s - 1 )",
+      "question": "raindrop of radius 0.3 mm has a terminal velocity in air = 1 m/s . The viscous force on it is (Given the viscosity of the air is 18 \u00c3\u0097 10 - 5 g cm - 1 s - 1 )",
       "options": {
         "A": "10",
-        "B": "73 \u00c3\u0097 10 - 4 \u00c2 d y n e B\u2081\u2080",
-        "C": "73 \u00c3\u0097 10 - 5 \u00c2 d y n e",
-        "D": "95 \u00c3\u0097 10 - 4 \u00c2 d y n e"
+        "B": "73 \u00c3\u0097 10 - 4 d y n e B\u2081\u2080",
+        "C": "73 \u00c3\u0097 10 - 5 d y n e",
+        "D": "95 \u00c3\u0097 10 - 4 d y n e"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** F = 6 \u00c2 \u00cf\u0080 \u00c2 \u00ce\u00b7 \u00c2 r \u00c2 v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 \u00c2 d y n e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "The terminal velocity of a copper ball of radius $5 ~mm$ falling through a tank of oil at room temperature is $10 ~cm ~s^-1$. If the viscosity of oil at room temperature is $0.9 ~kg ~m^-1 ~s^-1$, the viscous drag force is:",
-      "options": {
-        "A": "$",
-        "B": "48 \\times 10^-3 ~N$",
-        "C": "48 \\times 10^-5 ~N$",
-        "D": "23 \\times 10^-3 ~N$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** By Stobal's law, $F=6 \\pi \\eta r v$ (where, the symbols have their usual meanings) $\\beginaligned F & =6 \\times 3.14 \\times 0.9 \\times 5 \\times 10^-3 \\times 10 \\times 10^-2 \\\\ ~F & =84.78 \\times 10^-4 \\\\ & =8.478 \\times 10^-3 ~N=8.48 \\times 10^-3 ~N \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** F = 6 \u00cf\u0080 \u00ce\u00b7 r v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 d y n e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -79,45 +64,15 @@
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "Figure shows the strain-stress curve for a given material. What is the Young\u2019s modulus",
-      "options": {
-        "A": "$",
-        "B": "5~\\times ~10^10~Nm^-2~$",
-        "C": "5~\\times ~10^11~Nm^-2~$",
-        "D": "5~\\times ~10^10~Nm^-2~$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) $7.5~\\times ~10^10~Nm^-2~$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "What is the elongation of the wire when a 14.5 kg mass, fastened to the end of a steel wire of unstretched length 1.0 m, is whirled in a vertical circle with an angular velocity of 2 rev/s at the bottom of the circle, given that the cross-sectional area of the wire is 0.065 cm\u00b2?",
-      "options": {
-        "A": "$",
-        "B": "87~\\times ~10^-3m$",
-        "C": "87~\\times ~10^-4m$",
-        "D": "87~\\times ~10^-5m$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) $1.87~\\times ~10^-3m$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "A cubical block of side 0.5 m floats on water with 30 % of its volume under water. What is the maximum weight that can be put on the block without fully submerging it under water? [Take, density of water = 103 k g / m 3 ]",
+      "question": "cubical block of side 0.5 m floats on water with 30 % of its volume under water. What is the maximum weight that can be put on the block without fully submerging it under water? [Take, density of water = 103 k g / m 3 ]",
       "options": {
         "A": "8",
-        "B": "5 \u00c2 k g B\u2086",
-        "C": "4 \u00c2 k g",
-        "D": "1 \u00c2 k g"
+        "B": "5 k g B\u2086",
+        "C": "4 k g",
+        "D": "1 k g"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In first case, when 30 % of the cube inside water, \u00cf\u0081 w V i n \u00c2 g = \u00cf\u0081 c V g V i n V = \u00cf\u0081 c \u00cf\u0081 w = 0.3 Additional weight we can put w is, V \u00cf\u0081 w g = \u00cf\u0081 c V g + w w = V \u00cf\u0081 w - \u00cf\u0081 c g = 0.53 \u00c3\u0097 0.7 \u00c3\u0097 103 \u00c3\u0097 g = 87.5 g \u00e2\u0080\u0089 N Addition of mass that we can put = 87.5 \u00e2\u0080\u0089 k g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In first case, when 30 % of the cube inside water, \u00cf\u0081 w V i n g = \u00cf\u0081 c V g V i n V = \u00cf\u0081 c \u00cf\u0081 w = 0.3 Additional weight we can put w is, V \u00cf\u0081 w g = \u00cf\u0081 c V g + w w = V \u00cf\u0081 w - \u00cf\u0081 c g = 0.53 \u00c3\u0097 0.7 \u00c3\u0097 103 \u00c3\u0097 g = 87.5 g \u00e2\u0080\u0089 N Addition of mass that we can put = 87.5 \u00e2\u0080\u0089 k g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -132,14 +87,14 @@
         "D": "L/A\\u\u2080\u2083\u2089\u2084L"
       },
       "answer": "A",
-      "solution": "# **Correct Answer: (A) FL/A\u0394L** --- ## **Step-by-Step Explanation:** ### **Definition of Young's Modulus:** Young's modulus (Y) is defined as: $$Y = \\frac\\textStress\\textStrain$$ ### **Breaking Down the Components:** **Stress** = Force per unit area $$\\textStress = \\fracFA$$ **Strain** = Fractional change in length $$\\textStrain = \\frac\\Delta LL$$ ### **Deriving the Formula:** $$Y = \\fracF/A\\Delta L/L = \\fracFA \\times \\fracL\\Delta L = \\boxed\\fracFLA\\Delta L$$ --- ## **Key Concept to Remember:** Young's modulus measures the **stiffness of a material** - how much stress is needed to produce a unit strain. A higher Y means the material is stiffer and resists deformation. --- ## **Why Other Options Are Wrong:** | Option | Issue | |--------|-------| | **(B) FA/L\u0394L** | Inverted numerator and denominator | | **(C) \u0394LFA/L** | Strain and stress are inverted | | **(D) L/A\u0394L** | Missing the applied force F completely | --- ## **Dimensional Check:** $$[Y] = \\frac[F][L][A][\\Delta L] = \\fracMLT^-2 \\cdot LL^2 \\cdot L = ML^-1T^-2$$ \u2713 (Correct units for pressure/modulus)",
+      "solution": "# **Correct Answer: (A) FL/A\u0394L** --- ## **Step-by-Step Explanation:** ### **Definition of Young's Modulus:** Young's modulus (Y) is defined as: Y = \\frac\\textStress\\textStrain ### **Breaking Down the Components:** **Stress** = Force per unit area \\textStress = \\fracFA **Strain** = Fractional change in length \\textStrain = \\frac\\Delta LL ### **Deriving the Formula:** Y = \\fracF/A\\Delta L/L = \\fracFA \u00d7 \\fracL\\Delta L = \\boxed\\fracFLA\\Delta L --- ## **Key Concept to Remember:** Young's modulus measures the **stiffness of a material** - how much stress is needed to produce a unit strain. A higher Y means the material is stiffer and resists deformation. --- ## **Why Other Options Are Wrong:** | Option | Issue | |--------|-------| | **(B) FA/L\u0394L** | Inverted numerator and denominator | | **(C) \u0394LFA/L** | Strain and stress are inverted | | **(D) L/A\u0394L** | Missing the applied force F completely | --- ## **Dimensional Check:** [Y] = \\frac[F][L][A][\\Delta L] = \\fracMLT^-2 \u00b7 LL^2 \u00b7 L = ML^-1T^-2 \u2713 (Correct units for pressure/modulus)",
       "exam": "NEET 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A block of wood floats in freshwater with two-third of its volume submerged. In oil, the block floats with one-fourth of its volume submerged. The density of oil is",
+      "question": "block of wood floats in freshwater with two-third of its volume submerged. In oil, the block floats with one-fourth of its volume submerged. The density of oil is",
       "options": {
         "A": "266",
         "B": "7 k g m - 3 B\u2085\u2083\u2083",
@@ -154,21 +109,6 @@
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "What is the maximum load a steel cable with a radius of 1.5 cm can support at a ski area if the maximum stress is not to exceed 108 $Nm^-2$?",
-      "options": {
-        "A": "$",
-        "B": "065~\\times ~10^4N$",
-        "C": "965~\\times ~10^4N$",
-        "D": "065~\\times ~10^4N$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) $7.065~\\times ~10^4N$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
       "question": "Water from a pipe is coming at a rate of 100 litres per minute. If the radius of the pipe is 5 cm, the Reynolds number for the flow is of the order of : (density of water = 1000 kg/m<sup>3</sup>, coefficient of viscosity of water = 1mPas)",
       "options": {
         "A": "10<sup>6</sup>",
@@ -177,14 +117,14 @@
         "D": "10<sup>2</sup>"
       },
       "answer": "B",
-      "solution": "Flow rate of water (Q) = 100 lit/min<br><br> = $$100 \\times 10^ - 3 \\over 60 = 5 \\over 3 \\times 10^ - 3m^3$$<br><br> $$ \\therefore $$ Velocity of flow (v)<br><br> = $$Q \\over A = 5 \\times 10^ - 3 \\over 3 \\times \\pi \\times (5 \\times 10^ - 2)^2$$<br><br> $$ = 10 \\over 15\\pi = 2 \\over 3\\pi \\,m/s$$<br><br> = 0.2 m/s<br><br> $$ \\therefore $$ Reynold number (R<sub>e</sub>) = $$Dv\\rho \\over \\eta $$<br><br> $$ = \\left( 10 \\times 10^ - 2 \\right) \\times 2 \\over 3\\pi \\times 1000 \\over 1 = 2 \\times 10^4$$<br><br> $$ \\therefore $$ Order of R<sub>e</sub> = 10<sup>4</sup>",
+      "solution": "Flow rate of water (Q) = 100 lit/min<br><br> = 100 \u00d7 10^ - 3 \\over 60 = 5 \\over 3 \u00d7 10^ - 3m^3<br><br> \\therefore Velocity of flow (v)<br><br> = Q \\over A = 5 \u00d7 10^ - 3 \\over 3 \u00d7 \\pi \u00d7 (5 \u00d7 10^ - 2)^2<br><br> = 10 \\over 15\\pi = 2 \\over 3\\pi \\,m/s<br><br> = 0.2 m/s<br><br> \\therefore Reynold number (R<sub>e</sub>) = Dv\\rho \\over \\eta <br><br> = \\left( 10 \u00d7 10^ - 2 \\right) \u00d7 2 \\over 3\\pi \u00d7 1000 \\over 1 = 2 \u00d7 10^4<br><br> \\therefore Order of R<sub>e</sub> = 10<sup>4</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "What will be the nature of flow of water from a circular tap, when its flow rate increased from 0.18 L/min to 0.48 L/min? The radius of the tap and viscosity of water are 0.5 cm and 10<sup>$$-$$3</sup> Pa s, respectively. (Density of water : 10<sup>3</sup> kg/m<sup>3</sup>)",
+      "question": "What will be the nature of flow of water from a circular tap, when its flow rate increased from 0.18 L/min to 0.48 L/min? The radius of the tap and viscosity of water are 0.5 cm and 10<sup>-3</sup> Pa s, respectively. (Density of water : 10<sup>3</sup> kg/m<sup>3</sup>)",
       "options": {
         "A": "Steady flow to unsteady flow",
         "B": "Unsteady to steady flow",
@@ -192,74 +132,74 @@
         "D": "Remains steady flow"
       },
       "answer": "A",
-      "solution": "The nature of flow is determined by reynolds no <br><br>$$R = \\rho VD \\over \\eta $$ <br><br>If R < 1000 $$ \\to $$ flow is steady <br><br>1000 < R < 2000 $$ \\to $$ flow becomes unsteady <br><br>R > 2000 $$ \\to $$ flow is turbulent <br><br>$$R_1 = 4 \\times 10^3 \\times 0.18 \\times 10^ - 3 \\over 60 \\times \\pi \\times 10^ - 2 \\times 10^ - 3 = 4 \\times 10^5 \\times 0.18 \\over 60\\pi $$<br><br>$$ = 0.0038 \\times 10^5 = 380$$<br><br>$$R_2 = 0.48 \\over 0.18 \\times 380 = 1018$$",
+      "solution": "The nature of flow is determined by reynolds no <br><br>R = \\rho VD \\over \\eta <br><br>If R < 1000 \\to flow is steady <br><br>1000 < R < 2000 \\to flow becomes unsteady <br><br>R > 2000 \\to flow is turbulent <br><br>R_1 = 4 \u00d7 10^3 \u00d7 0.18 \u00d7 10^ - 3 \\over 60 \u00d7 \\pi \u00d7 10^ - 2 \u00d7 10^ - 3 = 4 \u00d7 10^5 \u00d7 0.18 \\over 60\\pi <br><br> = 0.0038 \u00d7 10^5 = 380<br><br>R_2 = 0.48 \\over 0.18 \u00d7 380 = 1018",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A raindrop with radius R = 0.2 mm falls from a cloud at a height h = 2000 m above the ground. Assume that the drop is spherical throughout its fall and the force of buoyance may be neglected, then the terminal speed attained by the raindrop is :<br/><br/>[Density of water f<sub>w</sub> = 1000 kg m<sup>$$-$$3</sup> and Density of air f<sub>a</sub> = 1.2 kg m<sup>$$-$$3</sup>, g = 10 m/s<sup>2</sup>, Coefficient of viscosity of air = 1.8 $$\\times$$ 10<sup>$$-$$5</sup> Nsm<sup>$$-$$2</sup>]",
+      "question": "raindrop with radius R = 0.2 mm falls from a cloud at a height h = 2000 m above the ground. Assume that the drop is spherical throughout its fall and the force of buoyance may be neglected, then the terminal speed attained by the raindrop is :<br/><br/>[Density of water f<sub>w</sub> = 1000 kg m<sup>-3</sup> and Density of air f<sub>a</sub> = 1.2 kg m<sup>-3</sup>, g = 10 m/s<sup>2</sup>, Coefficient of viscosity of air = 1.8 \u00d7 10<sup>-5</sup> Nsm<sup>-2</sup>]",
       "options": {
-        "A": "250.6 ms<sup>$$-$$1</sup>",
-        "B": "43.56 ms<sup>$$-$$1</sup>",
-        "C": "4.94 ms<sup>$$-$$1</sup>",
-        "D": "14.4 ms<sup>$$-$$1</sup>"
+        "A": "250.6 ms<sup>-1</sup>",
+        "B": "43.56 ms<sup>-1</sup>",
+        "C": "4.94 ms<sup>-1</sup>",
+        "D": "14.4 ms<sup>-1</sup>"
       },
       "answer": "C",
-      "solution": "At terminal speed<br><br>a = 0<br><br>F<sub>net</sub> = 0<br><br>mg = F<sub>v</sub> = 6$$\\pi$$ $$\\eta $$Rv<br><br>$$v = mg \\over 6\\pi \\eta Rv$$<br><br>$$v = \\rho _w\u2084\\pi \\over 3R^3g \\over 6\\pi \\eta R$$<br><br>$$ = 2\\rho _wR^2g \\over 9\\eta $$<br><br>$$ = 400 \\over 81$$ m/s<br><br>= 4.94 m/s",
+      "solution": "At terminal speed<br><br>a = 0<br><br>F<sub>net</sub> = 0<br><br>mg = F<sub>v</sub> = 6\\pi \\eta Rv<br><br>v = mg \\over 6\\pi \\eta Rv<br><br>v = \\rho _w\u2084\\pi \\over 3R^3g \\over 6\\pi \\eta R<br><br> = 2\\rho _wR^2g \\over 9\\eta <br><br> = 400 \\over 81 m/s<br><br>= 4.94 m/s",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R.</p> <p>Assertion A : Product of Pressure (P) and time (t) has the same dimension as that of coefficient of viscosity.</p> <p>Reason R : Coefficient of viscosity = $$Force \\over Velocity\\,gradient$$</p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "Given below are two statements : One is labelled as Assertion A and the other is labelled as Reason R. Assertion A : Product of Pressure (P) and time (t) has the same dimension as that of coefficient of viscosity. Reason R : Coefficient of viscosity = Force \\over Velocity\\,gradient Choose the correct answer from the options given below :",
       "options": {
         "A": "Both A and R are true, and R is the correct explanation of A.",
         "B": "oth A and R are true but R is NOT the correct explanation of A.",
-        "C": "A is true but R is false.",
-        "D": "A is false but R is true."
+        "C": "is true but R is false.",
+        "D": "is false but R is true."
       },
       "answer": "C",
-      "solution": "<p>[Pressure][Time] = $$\\left[ Force \\over Area \\right]$$$$\\left[ distance \\over Area \\right]$$</p> <p>[Coefficient of viscosity] = $$\\left[ Force \\over Area \\right]$$$$\\left[ distance \\over Area \\right]$$</p> <p>Statement 'A' is true</p> <p>But Statement 'R' is false are coefficient of viscosity</p> <p>$$ = Force \\over Area \\times Velocity\\,gradient$$</p>",
+      "solution": "[Pressure][Time] = \\left[ Force \\over Area \\right]\\left[ distance \\over Area \\right] [Coefficient of viscosity] = \\left[ Force \\over Area \\right]\\left[ distance \\over Area \\right] Statement 'A' is true But Statement 'R' is false are coefficient of viscosity = Force \\over Area \u00d7 Velocity\\,gradient",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>If p is the density and $$\\eta$$ is coefficient of viscosity of fluid which flows with a speed v in the pipe of diameter d, the correct formula for Reynolds number R<sub>e</sub> is :</p>",
+      "question": "If p is the density and \\eta is coefficient of viscosity of fluid which flows with a speed v in the pipe of diameter d, the correct formula for Reynolds number R<sub>e</sub> is :",
       "options": {
-        "A": "$$R_e = \\eta d \\over \\rho v$$",
-        "B": "$$R_e = \\rho v \\over \\eta d$$",
-        "C": "$$R_e = \\rho vd \\over \\eta $$",
-        "D": "$$R_e = \\eta \\over \\rho vd$$"
+        "A": "R_e = \\eta d \\over \\rho v",
+        "B": "R_e = \\rho v \\over \\eta d",
+        "C": "R_e = \\rho vd \\over \\eta",
+        "D": "R_e = \\eta \\over \\rho vd"
       },
       "answer": "C",
-      "solution": "<p>The Reynolds number (Re) is a dimensionless quantity used in fluid mechanics to predict the onset of turbulence. It is defined as:</p> <p>$$Re = \\frac\\rho v d\\eta$$</p> <p>where:</p> <ul> <li>$\\rho$ is the fluid density</li> <li>$v$ is the fluid velocity</li> <li>$d$ is a characteristic linear dimension (for a pipe, this is typically the diameter)</li> <li>$\\eta$ is the dynamic viscosity of the fluid</li> </ul> <p>So, Option C is the correct answer:</p> <p>$$R_e = \\rho vd \\over \\eta $$</p>",
+      "solution": "The Reynolds number (Re) is a dimensionless quantity used in fluid mechanics to predict the onset of turbulence. It is defined as: Re = \\frac\\rho v d\\eta where: <ul> <li>\\rho is the fluid density</li> <li>v is the fluid velocity</li> <li>d is a characteristic linear dimension (for a pipe, this is typically the diameter)</li> <li>\\eta is the dynamic viscosity of the fluid</li> </ul> So, Option C is the correct answer: R_e = \\rho vd \\over \\eta",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>An air bubble of negligible weight having radius r rises steadily through a solution of density $$\\sigma$$ at speed v. The coefficient of viscosity of the solution is given by :</p>",
+      "question": "An air bubble of negligible weight having radius r rises steadily through a solution of density \\sigma at speed v. The coefficient of viscosity of the solution is given by :",
       "options": {
-        "A": "$$\\eta = 4r\\sigma g \\over 9v$$",
-        "B": "$$\\eta = 2r^2\\sigma g \\over 9v$$",
-        "C": "$$\\eta = 2\\pi r^2\\sigma g \\over 9v$$",
-        "D": "$$\\eta = 2r^2\\sigma g \\over 3\\pi v$$"
+        "A": "\\eta = 4r\\sigma g \\over 9v",
+        "B": "\\eta = 2r^2\\sigma g \\over 9v",
+        "C": "\\eta = 2\\pi r^2\\sigma g \\over 9v",
+        "D": "\\eta = 2r^2\\sigma g \\over 3\\pi v"
       },
       "answer": "B",
-      "solution": "<p>Air bubble moves with constant speed v. So net force = 0.</p> <p>$$\\therefore$$ Buoyant Force = Viscous force</p> <p>$$ \\Rightarrow F_b = F_v$$</p> <p>$$ \\Rightarrow \\sigma \\times 4 \\over 3\\pi r^3g = 6\\pi nrv$$</p> <p>$$ \\Rightarrow n = 2\\sigma r^2g \\over 9v$$</p>",
+      "solution": "Air bubble moves with constant speed v. So net force = 0. \\therefore Buoyant Force = Viscous force \\Rightarrow F_b = F_v \\Rightarrow \\sigma \u00d7 4 \\over 3\\pi r^3g = 6\\pi nrv \\Rightarrow n = 2\\sigma r^2g \\over 9v",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>A spherical ball of radius $$1 \\times 10^-4 ~m$$ and density $$10^5 ~kg / m^3$$ falls freely under gravity through a distance $$h$$ before entering a tank of water, If after entering in water the velocity of the ball does not change, then the value of $$h$$ is approximately:</p> <p>(The coefficient of viscosity of water is $$9.8 \\times 10^-6 ~N ~s / m^2$$)</p>",
+      "question": "A spherical ball of radius 1 \u00d7 10^-4 m and density 10^5 kg / m^3 falls freely under gravity through a distance h before entering a tank of water, If after entering in water the velocity of the ball does not change, then the value of h is approximately: (The coefficient of viscosity of water is 9.8 \u00d7 10^-6 N s / m^2)",
       "options": {
         "A": "2518 m",
         "B": "2396 m",
@@ -267,37 +207,37 @@
         "D": "2296 m"
       },
       "answer": "A",
-      "solution": "<p>To solve this problem, we can use the concepts of terminal velocity and the forces acting on the spherical ball. First, let's analyze the situation step-by-step.</p> <p>When the ball falls freely under gravity, it achieves a terminal velocity $$v_t$$ in water. This terminal velocity is reached when the gravitational force is balanced by the drag force and the buoyant force in the water.</p> <p>The forces acting on the ball are:</p> <p>1. Gravitational Force: $$F_g = mg$$</p> <p>2. Buoyant Force: $$F_b = \\rho_\\textwater V g$$</p> <p>3. Drag Force: $$F_d = 6 \\pi \\eta r v_t$$</p> <p>Where,</p> <p>$$m$$ is the mass of the ball.</p> <p>$$g$$ is the acceleration due to gravity ($$9.8 \\, m/s^2$$).</p> <p>$$\\rho_\\textwater$$ is the density of water ($$1000 \\, kg/m^3$$).</p> <p>$$V$$ is the volume of the ball ($$\\frac\u2084\u2083 \\pi r^3$$).</p> <p>$$\\eta$$ is the coefficient of viscosity of water ($$9.8 \\times 10^-6 \\, Ns/m^2$$).</p> <p>$$r$$ is the radius of the ball ($$1 \\times 10^-4 \\, m$$).</p> <p>$$v_t$$ is the terminal velocity.</p> <p>Using the equilibrium condition at terminal velocity:</p> <p>$$F_g = F_b + F_d$$</p> <p>$$mg = \\rho_\\textwater V g + 6 \\pi \\eta r v_t$$</p> <p>First, compute the mass of the ball:</p> <p>$$m = \\rho_\\textball \\times V = \\rho_\\textball \\times \\frac\u2084\u2083 \\pi r^3$$</p> <p>$$m = 10^5 \\, kg/m^3 \\times \\frac\u2084\u2083 \\pi (1 \\times 10^-4 \\, m)^3$$</p> <p>$$m = 10^5 \\,kg/m^3 \\times \\frac\u2084\u2083 \\pi \\times 10^-12 \\,m^3$$</p> <p>$$m = \\frac\u2084\u2083 \\pi \\times 10^-7 \\, kg$$</p> <p>Next, solve for the terminal velocity $$v_t$$ using the equilibrium equation:</p> <p>$$mg = \\rho_\\textwater \\frac\u2084\u2083 \\pi r^3 g + 6 \\pi \\eta r v_t$$</p> <p>$$v_t = \\fracmg - \\rho_\\textwater \\frac\u2084\u2083 \\pi r^3 g\u2086 \\pi \\eta r$$</p> <p>$$v_t = \\frac\\frac\u2084\u2083 \\pi \\times 10^-7 \\times 9.8 - 1000 \\times \\frac\u2084\u2083 \\pi (1 \\times 10^-4)^3 \\times 9.86 \\pi \\times 9.8 \\times 10^-6 \\times 10^-4$$</p> <p>$$v_t = \\frac\\frac\u2084\u2083 \\pi \\times 10^-7 \\times 9.8 - 1000 \\times \\frac\u2084\u2083 \\pi \\times 10^-12 \\times 9.86 \\pi \\times 9.8 \\times 10^-10$$</p> <p>$$v_t = \\frac\\frac\u2084\u2083 \\pi \\times 9.8 \\times 10^-7 (1 - 10^-5)\u2086 \\pi \\times 9.8 \\times 10^-10$$</p> <p>$$v_t = \\frac\\frac\u2084\u2083 \\times 10^-76 \\times 10^-10$$</p> <p>$$v_t = \\frac\u2084\u2081\u2088 \\times 10^3 \\, m/s$$</p> <p>$$v_t \\approx 222.22 \\, m/s$$</p> <p>The height $$h$$ required to reach this terminal velocity while the ball falls freely under gravity can be found using the kinematic equation:</p> <p>$$v_t = \\sqrt\u2082gh$$</p> <p>$$h = \\fracv_t^22g$$</p> <p>$$h = \\frac(222.22)^22 \\times 9.8$$</p> <p>$$h = \\frac\u2084\u2089\u2083\u2082\u2088.8819.6$$</p> <p>$$h \\approx 2517.8 \\, m$$</p> <p>So, the closest value of $$h$$ is approximately:</p> <p><b>Option A: 2518 m</b>.</p>",
+      "solution": "To solve this problem, we can use the concepts of terminal velocity and the forces acting on the spherical ball. First, let's analyze the situation step-by-step. When the ball falls freely under gravity, it achieves a terminal velocity v_t in water. This terminal velocity is reached when the gravitational force is balanced by the drag force and the buoyant force in the water. The forces acting on the ball are: 1. Gravitational Force: F_g = mg 2. Buoyant Force: F_b = \\rho_\\textwater V g 3. Drag Force: F_d = 6 \\pi \\eta r v_t Where, m is the mass of the ball. g is the acceleration due to gravity (9.8 \\, m/s^2). \\rho_\\textwater is the density of water (1000 \\, kg/m^3). V is the volume of the ball (\\frac\u2084\u2083 \\pi r^3). \\eta is the coefficient of viscosity of water (9.8 \u00d7 10^-6 \\, Ns/m^2). r is the radius of the ball (1 \u00d7 10^-4 \\, m). v_t is the terminal velocity. Using the equilibrium condition at terminal velocity: F_g = F_b + F_d mg = \\rho_\\textwater V g + 6 \\pi \\eta r v_t First, compute the mass of the ball: m = \\rho_\\textball \u00d7 V = \\rho_\\textball \u00d7 \\frac\u2084\u2083 \\pi r^3 m = 10^5 \\, kg/m^3 \u00d7 \\frac\u2084\u2083 \\pi (1 \u00d7 10^-4 \\, m)^3 m = 10^5 \\,kg/m^3 \u00d7 \\frac\u2084\u2083 \\pi \u00d7 10^-12 \\,m^3 m = \\frac\u2084\u2083 \\pi \u00d7 10^-7 \\, kg Next, solve for the terminal velocity v_t using the equilibrium equation: mg = \\rho_\\textwater \\frac\u2084\u2083 \\pi r^3 g + 6 \\pi \\eta r v_t v_t = \\fracmg - \\rho_\\textwater \\frac\u2084\u2083 \\pi r^3 g\u2086 \\pi \\eta r v_t = \\frac\\frac\u2084\u2083 \\pi \u00d7 10^-7 \u00d7 9.8 - 1000 \u00d7 \\frac\u2084\u2083 \\pi (1 \u00d7 10^-4)^3 \u00d7 9.86 \\pi \u00d7 9.8 \u00d7 10^-6 \u00d7 10^-4 v_t = \\frac\\frac\u2084\u2083 \\pi \u00d7 10^-7 \u00d7 9.8 - 1000 \u00d7 \\frac\u2084\u2083 \\pi \u00d7 10^-12 \u00d7 9.86 \\pi \u00d7 9.8 \u00d7 10^-10 v_t = \\frac\\frac\u2084\u2083 \\pi \u00d7 9.8 \u00d7 10^-7 (1 - 10^-5)\u2086 \\pi \u00d7 9.8 \u00d7 10^-10 v_t = \\frac\\frac\u2084\u2083 \u00d7 10^-76 \u00d7 10^-10 v_t = \\frac\u2084\u2081\u2088 \u00d7 10^3 \\, m/s v_t \\approx 222.22 \\, m/s The height h required to reach this terminal velocity while the ball falls freely under gravity can be found using the kinematic equation: v_t = \\sqrt\u2082gh h = \\fracv_t^22g h = \\frac(222.22)^22 \u00d7 9.8 h = \\frac\u2084\u2089\u2083\u2082\u2088.8819.6 h \\approx 2517.8 \\, m So, the closest value of h is approximately: <b>Option A: 2518 m</b>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>Correct Bernoulli's equation is (symbols have their usual meaning) :</p>",
+      "question": "Correct Bernoulli's equation is (symbols have their usual meaning) :",
       "options": {
-        "A": "$$P+\\frac\u2081\u2082 \\rho g h+\\frac\u2081\u2082 \\rho v^2=$$ constant",
-        "B": "$$P+m g h+\\frac\u2081\u2082 m v^2=$$ constant",
-        "C": "$$P+\\rho g h+\\rho v^2=$$ constant",
-        "D": "$$P+\\rho g h+\\frac\u2081\u2082 \\rho v^2=$$ constant"
+        "A": "P+\\frac\u2081\u2082 \\rho g h+\\frac\u2081\u2082 \\rho v^2= constant",
+        "B": "P+m g h+\\frac\u2081\u2082 m v^2= constant",
+        "C": "P+\\rho g h+\\rho v^2= constant",
+        "D": "P+\\rho g h+\\frac\u2081\u2082 \\rho v^2= constant"
       },
       "answer": "D",
-      "solution": "<p>Bernoulli's equation relates the pressure, velocity, and height in a flowing fluid and is derived from the principle of conservation of energy. The correct form of Bernoulli's equation is:</p> <p>$$P + \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant$$</p> <p>where:</p> <ul> <li><b>P</b> is the pressure within the fluid.</li> <li><b>$\\rho$</b> is the density of the fluid.</li> <li><b>g</b> is the acceleration due to gravity.</li> <li><b>h</b> is the height above a reference point.</li> <li><b>v</b> is the velocity of the fluid.</li> </ul> <p>Looking at the options given:</p> <ol> <li>Option A: $$P + \\frac\u2081\u2082 \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant$$</li> <li>Option B: $$P + m g h + \\frac\u2081\u2082 m v^2 = \\textconstant$$</li> <li>Option C: $$P + \\rho g h + \\rho v^2 = \\textconstant$$</li> <li>Option D: $$P + \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant$$</li> </ol> <p>Option D correctly represents Bernoulli's equation in its proper form. Therefore, the correct answer is:</p> <p><b>Option D</b></p>",
+      "solution": "Bernoulli's equation relates the pressure, velocity, and height in a flowing fluid and is derived from the principle of conservation of energy. The correct form of Bernoulli's equation is: P + \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant where: <ul> <li><b>P</b> is the pressure within the fluid.</li> <li><b>\\rho</b> is the density of the fluid.</li> <li><b>g</b> is the acceleration due to gravity.</li> <li><b>h</b> is the height above a reference point.</li> <li><b>v</b> is the velocity of the fluid.</li> </ul> Looking at the options given: <ol> <li>Option A: P + \\frac\u2081\u2082 \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant</li> <li>Option B: P + m g h + \\frac\u2081\u2082 m v^2 = \\textconstant</li> <li>Option C: P + \\rho g h + \\rho v^2 = \\textconstant</li> <li>Option D: P + \\rho g h + \\frac\u2081\u2082 \\rho v^2 = \\textconstant</li> </ol> Option D correctly represents Bernoulli's equation in its proper form. Therefore, the correct answer is: <b>Option D</b>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A uniformly tapering conical wire is made from a material of Young\\u\u2082\u2080\u2081\u2089s modulus Y and has a normal, unextended length L. The radii, at the upper and lower ends of this conical wire, have values R and 3 R, respectively. The upper end of the wire is fixed to a rigid support and a mass M is suspended from its lower end. The equilibrium extended length, of this wire, would equal :",
+      "question": "uniformly tapering conical wire is made from a material of Young\\u\u2082\u2080\u2081\u2089s modulus Y and has a normal, unextended length L. The radii, at the upper and lower ends of this conical wire, have values R and 3 R, respectively. The upper end of the wire is fixed to a rigid support and a mass M is suspended from its lower end. The equilibrium extended length, of this wire, would equal :",
       "options": {
-        "A": "L $$\\left( 1 + 2 \\over 9Mg \\over \\pi YR^2 \\right)$$",
-        "B": "L $$\\left( 1 + 1 \\over 3Mg \\over \\pi YR^2 \\right)$$",
-        "C": "L $$\\left( 1 + 1 \\over 9Mg \\over \\pi YR^2 \\right)$$",
-        "D": "L $$\\left( 1 + 2 \\over 3Mg \\over \\pi YR^2 \\right)$$"
+        "A": "L \\left( 1 + 2 \\over 9Mg \\over \\pi YR^2 \\right)",
+        "B": "L \\left( 1 + 1 \\over 3Mg \\over \\pi YR^2 \\right)",
+        "C": "L \\left( 1 + 1 \\over 9Mg \\over \\pi YR^2 \\right)",
+        "D": "L \\left( 1 + 2 \\over 3Mg \\over \\pi YR^2 \\right)"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2086\u2083/exam_images/vngwoucwip\u2088wkgnt\u2082s\u2085\u2085.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Properties of Matter Question 214 English Explanation\"> <br><br>Here r = 3R $$-$$ $$2R \\over L$$ x <br><br>$$ \\therefore $$ Extension in the wire of length dx, <br><br>dl = $$Fdx \\over AY$$ <br><br>= $$Mg\\,dx \\over \\pi r^2\\,Y$$ <br><br>= $$Mg\\,dx \\over \\pi \\left( 3R - 2R \\over Lx \\right)^2Y$$ <br><br>$$ \\therefore $$ Change in wire length, <br><br>$$\\Delta $$L = $$\\int\\limits_0^L dl $$ <br><br>= $$\\int\\limits_0^L Mg\\,dx \\over \\pi \\left( 3R - 2R \\over Lx \\right)^2Y $$ <br><br>= $$Mg \\over \\pi Y\\int\\limits_0^L dx \\over \\left( 3R - 2R \\over Lx \\right)^2 $$ <br><br>= $$Mg \\over \\pi Y\\left[ - 1 \\over \\left( 3R - 2R \\over Lx \\right) \\times \\left( - L \\over 2R \\right) \\right]_0^L$$ <br><br>= $$Mg \\over \\pi Y$$ $$\\left[ \\left( L \\over 2R^2 - L \\over 6R^2 \\right) \\right]$$ <br><br>= $$Mg \\over \\pi Y\\left( 2L \\over 6R^2 \\right)$$ <br><br>= $$MgL \\over 3\\pi R^2Y$$ <br><br>$$ \\therefore $$ The equilibrium extended length of the wire, <br><br>= L + $$\\Delta $$L <br><br>= L + $$MgL \\over 3\\pi R^2Y$$ <br><br>= L (1 + $$1 \\over 3$$ $$Mg \\over \\pi R^2Y$$)",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2086\u2083/exam_images/vngwoucwip\u2088wkgnt\u2082s\u2085\u2085.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Properties of Matter Question 214 English Explanation\"> <br><br>Here r = 3R - 2R \\over L x <br><br> \\therefore Extension in the wire of length dx, <br><br>dl = Fdx \\over AY <br><br>= Mg\\,dx \\over \\pi r^2\\,Y <br><br>= Mg\\,dx \\over \\pi \\left( 3R - 2R \\over Lx \\right)^2Y <br><br> \\therefore Change in wire length, <br><br>\\Delta L = \\int\\limits_0^L dl <br><br>= \\int\\limits_0^L Mg\\,dx \\over \\pi \\left( 3R - 2R \\over Lx \\right)^2Y <br><br>= Mg \\over \\pi Y\\int\\limits_0^L dx \\over \\left( 3R - 2R \\over Lx \\right)^2 <br><br>= Mg \\over \\pi Y\\left[ - 1 \\over \\left( 3R - 2R \\over Lx \\right) \u00d7 \\left( - L \\over 2R \\right) \\right]_0^L <br><br>= Mg \\over \\pi Y \\left[ \\left( L \\over 2R^2 - L \\over 6R^2 \\right) \\right] <br><br>= Mg \\over \\pi Y\\left( 2L \\over 6R^2 \\right) <br><br>= MgL \\over 3\\pi R^2Y <br><br> \\therefore The equilibrium extended length of the wire, <br><br>= L + \\Delta L <br><br>= L + MgL \\over 3\\pi R^2Y <br><br>= L (1 + 1 \\over 3 Mg \\over \\pi R^2Y)",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -312,37 +252,37 @@
         "D": "1.5 mm"
       },
       "answer": "A",
-      "solution": "Given:<br><br> $$Y_A \\over Y_B = 7 \\over 4;\\,L_A = 2m\\,;A_A = \\pi R^2$$<br><br> $$F \\over A = Y\\left( l \\over L \\right);L_B = 1.5m\\,;A_B = \\pi (2mm)^2$$<br><br> given F and $$l$$ are same $$ \\Rightarrow $$ $$AY \\over L$$ is same<br><br> $$A_AY_A \\over L_A = A_BY_B \\over L_B$$<br><br> $$ \\Rightarrow \\left( \\pi R^2 \\right)\\left( 7 \\over 4Y_B \\right) \\over 2 = \\pi (2\\,mm)^2.Y_B \\over 1.5$$<br><br> R = 1.74 mm",
+      "solution": "Given:<br><br> Y_A \\over Y_B = 7 \\over 4;\\,L_A = 2m\\,;A_A = \\pi R^2<br><br> F \\over A = Y\\left( l \\over L \\right);L_B = 1.5m\\,;A_B = \\pi (2mm)^2<br><br> given F and l are same \\Rightarrow AY \\over L is same<br><br> A_AY_A \\over L_A = A_BY_B \\over L_B<br><br> \\Rightarrow \\left( \\pi R^2 \\right)\\left( 7 \\over 4Y_B \\right) \\over 2 = \\pi (2\\,mm)^2.Y_B \\over 1.5<br><br> R = 1.74 mm",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "If Y, K and $$\\eta $$ are the values of Young's modulus, bulk modulus and modulus of rigidity of any material respectively. Choose the correct relation for these parameters.",
+      "question": "If Y, K and \\eta are the values of Young's modulus, bulk modulus and modulus of rigidity of any material respectively. Choose the correct relation for these parameters.",
       "options": {
-        "A": "$$Y = 9K\\eta \\over 3K - \\eta N/m^2$$",
-        "B": "$$Y = 9K\\eta \\over 2\\eta + 3KN/m^2$$",
-        "C": "$$\\eta = 3YK \\over 9K + YN/m^2$$",
-        "D": "$$K = Y\\eta \\over 9\\eta - 3YN/m^2$$"
+        "A": "Y = 9K\\eta \\over 3K - \\eta N/m^2",
+        "B": "Y = 9K\\eta \\over 2\\eta + 3KN/m^2",
+        "C": "\\eta = 3YK \\over 9K + YN/m^2",
+        "D": "K = Y\\eta \\over 9\\eta - 3YN/m^2"
       },
       "answer": "D",
-      "solution": "We know that,<br/><br/>$$Y = 3K(1 - 2\\sigma )$$<br/><br/>$$ \\Rightarrow \\sigma = 1 \\over 2\\left( 1 - Y \\over 3K \\right)$$ ..... (i)<br/><br/>Also, $$Y = 2\\eta (1 + \\sigma )$$<br/><br/>$$ \\Rightarrow \\sigma = Y \\over 2\\eta - 1$$ .... (ii)<br/><br/>On comparing Eqs. (i) and (ii), we get<br/><br/>$$\\left( 1 - Y \\over 3K \\right)\u2081 \\over 2 = Y \\over 2\\eta - 1$$<br/><br/>On solving, we get<br/><br/>$$K = \\eta Y \\over 9\\eta - 3Y$$ N/m<sup>2</sup>",
+      "solution": "We know that,<br/><br/>Y = 3K(1 - 2\\sigma )<br/><br/> \\Rightarrow \\sigma = 1 \\over 2\\left( 1 - Y \\over 3K \\right) ..... (i)<br/><br/>Also, Y = 2\\eta (1 + \\sigma )<br/><br/> \\Rightarrow \\sigma = Y \\over 2\\eta - 1 .... (ii)<br/><br/>On comparing Eqs. (i) and (ii), we get<br/><br/>\\left( 1 - Y \\over 3K \\right)\u2081 \\over 2 = Y \\over 2\\eta - 1<br/><br/>On solving, we get<br/><br/>K = \\eta Y \\over 9\\eta - 3Y N/m<sup>2</sup>",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "The normal density of a material is $$\\rho$$ and its bulk modulus of elasticity is K. The magnitude of increase in density of material, when a pressure P is applied uniformly on all sides, will be :",
+      "question": "The normal density of a material is \\rho and its bulk modulus of elasticity is K. The magnitude of increase in density of material, when a pressure P is applied uniformly on all sides, will be :",
       "options": {
-        "A": "$$\\rho K \\over P$$",
-        "B": "$$PK \\over \\rho $$",
-        "C": "$$\\rho P \\over K$$",
-        "D": "$$K \\over \\rho P$$"
+        "A": "\\rho K \\over P",
+        "B": "PK \\over \\rho",
+        "C": "\\rho P \\over K",
+        "D": "K \\over \\rho P"
       },
       "answer": "C",
-      "solution": "Bulk modulus $$K = - \\Delta P \\over \\Delta v \\over v = - \\Delta Pv \\over \\Delta v$$<br><br>We know, $$\\rho = M \\over V$$<br><br>So, $$ - \\Delta \\rho \\over \\rho = \\Delta v \\over v$$<br><br>$$K = - \\Delta P \\over \\left( - \\Delta \\rho \\over \\rho \\right) = \\rho \\Delta P \\over \\Delta \\rho $$<br><br>$$\\Delta \\rho = \\rho \\Delta P \\over K$$<br><br>$$\\Delta \\rho = \\rho P \\over K$$",
+      "solution": "Bulk modulus K = - \\Delta P \\over \\Delta v \\over v = - \\Delta Pv \\over \\Delta v<br><br>We know, \\rho = M \\over V<br><br>So, - \\Delta \\rho \\over \\rho = \\Delta v \\over v<br><br>K = - \\Delta P \\over \\left( - \\Delta \\rho \\over \\rho \\right) = \\rho \\Delta P \\over \\Delta \\rho <br><br>\\Delta \\rho = \\rho \\Delta P \\over K<br><br>\\Delta \\rho = \\rho P \\over K",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -351,65 +291,65 @@
     {
       "question": "Two wires of same length and radius are joined end to end and loaded. The Young's modulii of the materials of the two wires are Y<sub>1</sub> and Y<sub>2</sub>. The combination behaves as a single wire then its Young's modulus is :",
       "options": {
-        "A": "$$Y = 2Y_1Y_2 \\over 3(Y_1 + Y_2)$$",
-        "B": "$$Y = 2Y_1Y_2 \\over Y_1 + Y_2$$",
-        "C": "$$Y = Y_1Y_2 \\over 2(Y_1 + Y_2)$$",
-        "D": "$$Y = Y_1Y_2 \\over Y_1 + Y_2$$"
+        "A": "Y = 2Y_1Y_2 \\over 3(Y_1 + Y_2)",
+        "B": "Y = 2Y_1Y_2 \\over Y_1 + Y_2",
+        "C": "Y = Y_1Y_2 \\over 2(Y_1 + Y_2)",
+        "D": "Y = Y_1Y_2 \\over Y_1 + Y_2"
       },
       "answer": "B",
-      "solution": "In series combination $$\\Delta$$l = l<sub>1</sub> + l<sub>2</sub><br><br>$$Y = F/A \\over \\Delta l/l \\Rightarrow \\Delta l = Fl \\over AY$$<br><br>$$ \\Rightarrow \\Delta l \\propto l \\over Y$$<br><br>Equivalent length of rod after joining is = 2l<br><br>As, lengths are same and force is also same in series<br><br>$$\\Delta l = \\Delta l_1 + \\Delta l_2$$<br><br>$$l_eq \\over Y_eq = l \\over Y_1 + l \\over Y_2 \\Rightarrow 2l \\over Y = l \\over Y_1 + l \\over Y_2$$<br><br>$$\\therefore$$ $$Y = 2Y_1Y_2 \\over Y_1 + Y_2$$",
+      "solution": "In series combination \\Deltal = l<sub>1</sub> + l<sub>2</sub><br><br>Y = F/A \\over \\Delta l/l \\Rightarrow \\Delta l = Fl \\over AY<br><br> \\Rightarrow \\Delta l \\propto l \\over Y<br><br>Equivalent length of rod after joining is = 2l<br><br>As, lengths are same and force is also same in series<br><br>\\Delta l = \\Delta l_1 + \\Delta l_2<br><br>l_eq \\over Y_eq = l \\over Y_1 + l \\over Y_2 \\Rightarrow 2l \\over Y = l \\over Y_1 + l \\over Y_2<br><br>\\therefore Y = 2Y_1Y_2 \\over Y_1 + Y_2",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>If the length of a wire is made double and radius is halved of its respective values. Then, the Young's modulus of the material of the wire will :</p>",
+      "question": "If the length of a wire is made double and radius is halved of its respective values. Then, the Young's modulus of the material of the wire will :",
       "options": {
         "A": "remain same",
         "B": "ecome 8 times its initial value",
-        "C": "become $$\\frac\u2081\u2084$$ of its initial value",
+        "C": "become \\frac\u2081\u2084 of its initial value",
         "D": "become 4 times its initial value"
       },
       "answer": "A",
-      "solution": "<p>Young's modulus of matter depends on material of wire and is independent of the dimensions of the wire. As the material remains same so Young's modulus also remain same.</p>",
+      "solution": "Young's modulus of matter depends on material of wire and is independent of the dimensions of the wire. As the material remains same so Young's modulus also remain same.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "Under the same load, wire A having length $5.0 ~m$ and cross section $2.5 \\times 10^-5 ~m^2$ stretches uniformly by the same amount as another wire B of length $6.0 ~m$ and a cross section of $3.0 \\times 10^-5$ $m^2$ stretches. The ratio of the Young's modulus of wire A to that of wire $B$ will be :",
+      "question": "Under the same load, wire A having length 5.0 m and cross section 2.5 \u00d7 10^-5 m^2 stretches uniformly by the same amount as another wire B of length 6.0 m and a cross section of 3.0 \u00d7 10^-5 m^2 stretches. The ratio of the Young's modulus of wire A to that of wire B will be :",
       "options": {
-        "A": "$1: 2$",
-        "B": "$1: 4$",
-        "C": "$1: 1$",
-        "D": "$1: 10$"
+        "A": "1: 2",
+        "B": "1: 4",
+        "C": "1: 1",
+        "D": "1: 10"
       },
       "answer": "C",
-      "solution": "$\\Delta \\ell=\\fracF \\ellS Y$ <br/><br/>$F$ is same for both wire and $\\Delta \\ell$ is also same <br/><br/>$$ \\beginaligned & \\frac\\Delta \\ellF=\\frac\\ellS Y \\\\\\\\ & \\Rightarrow \\frac\\ell_AS_A Y_A=\\frac\\ell_BS_B Y_B \\\\\\\\ & \\Rightarrow \\frac\u2085\u2082.5 \\times Y_A=\\frac\u2086\u2083 \\times Y_B \\\\\\\\ & \\Rightarrow \\fracY_AY_B=1 \\endaligned $$",
+      "solution": "\\Delta \\ell=\\fracF \\ellS Y <br/><br/>F is same for both wire and \\Delta \\ell is also same <br/><br/> \\beginaligned & \\frac\\Delta \\ellF=\\frac\\ellS Y \\\\\\\\ & \\Rightarrow \\frac\\ell_AS_A Y_A=\\frac\\ell_BS_B Y_B \\\\\\\\ & \\Rightarrow \\frac\u2085\u2082.5 \u00d7 Y_A=\\frac\u2086\u2083 \u00d7 Y_B \\\\\\\\ & \\Rightarrow \\fracY_AY_B=1 \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>A\u2081\u2080\u2080 m long wire having cross-sectional area $$6.25\\times\u2081\u2080^-4~m^2$$ and Young's modulus is $$10^10~Nm^-2$$ is subjected to a load of 250 N, then the elongation in the wire will be :</p>",
+      "question": "A\u2081\u2080\u2080 m long wire having cross-sectional area 6.25\u00d7\u2081\u2080^-4 m^2 and Young's modulus is 10^10 Nm^-2 is subjected to a load of 250 N, then the elongation in the wire will be :",
       "options": {
-        "A": "$$6.25\\times\u2081\u2080^-6~m$$",
-        "B": "$$4\\times\u2081\u2080^-3~m$$",
-        "C": "$$4\\times\u2081\u2080^-4~m$$",
-        "D": "$$6.25\\times\u2081\u2080^-3~m$$"
+        "A": "6.25\u00d7\u2081\u2080^-6 m",
+        "B": "4\u00d7\u2081\u2080^-3 m",
+        "C": "4\u00d7\u2081\u2080^-4 m",
+        "D": "6.25\u00d7\u2081\u2080^-3 m"
       },
       "answer": "B",
-      "solution": "Elongation in wire $\\delta=\\fracF \\ellAY$<br/><br/> $$ \\beginaligned & \\delta=\\frac\u2082\u2085\u2080 \\times 1006.25 \\times 10^-4 \\times 10^10 \\\\\\\\ & \\delta=4 \\times 10^-3 ~m \\endaligned $$",
+      "solution": "Elongation in wire \\delta=\\fracF \\ellAY<br/><br/> \\beginaligned & \\delta=\\frac\u2082\u2085\u2080 \u00d7 1006.25 \u00d7 10^-4 \u00d7 10^10 \\\\\\\\ & \\delta=4 \u00d7 10^-3 m \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>Young's moduli of the material of wires A and B are in the ratio of $$1: 4$$, while its area of cross sections are in the ratio of $$1: 3$$. If the same amount of load is applied to both the wires, the amount of elongation produced in the wires $$A$$ and $$B$$ will be in the ratio of</p> <p>[Assume length of wires A and B are same]</p>",
+      "question": "Young's moduli of the material of wires A and B are in the ratio of 1: 4, while its area of cross sections are in the ratio of 1: 3. If the same amount of load is applied to both the wires, the amount of elongation produced in the wires A and B will be in the ratio of [Assume length of wires A and B are same]",
       "options": {
         "A": "1 : 12",
         "B": "1 : 36",
@@ -417,14 +357,14 @@
         "D": "36 : 1"
       },
       "answer": "C",
-      "solution": "<p>Given the formula for elongation in a material due to a force:</p> <p>$$ \\Delta L = \\fracFLAY $$</p> <p>where:</p> <ul> <li>F is the force applied,</li> <li>L is the original length,</li> <li>A is the cross-sectional area of the material, and</li> <li>Y is Young's modulus of the material.</li> </ul> <p>The ratio of the elongations in the two wires A and B is given by:</p> <p>$$ \\frac\\Delta L_1\\Delta L_2 = \\fracF_1F_2 \\times \\fracA_2A_1 \\times \\fracY_2Y_1 $$</p> <p>Since the same force is applied on both wires (i.e., ($F_1/F_2$ = 1)), the areas are in the ratio 1:3 (i.e., ($A_2/A_1$ = 3)), and the Young's moduli are in the ratio 1:4 (i.e., ($Y_2/Y_1$ = 4)), substituting these values into the equation gives:</p> <p>$$ \\frac\\Delta L_1\\Delta L_2 = 1 \\times 3 \\times 4 = 12 $$</p> <p>So, the ratio of the elongations is 12:1, which indicates that wire A will elongate 12 times more than wire B when the same force is applied.</p>",
+      "solution": "Given the formula for elongation in a material due to a force: \\Delta L = \\fracFLAY where: <ul> <li>F is the force applied,</li> <li>L is the original length,</li> <li>A is the cross-sectional area of the material, and</li> <li>Y is Young's modulus of the material.</li> </ul> The ratio of the elongations in the two wires A and B is given by: \\frac\\Delta L_1\\Delta L_2 = \\fracF_1F_2 \u00d7 \\fracA_2A_1 \u00d7 \\fracY_2Y_1 Since the same force is applied on both wires (i.e., (F_1/F_2 = 1)), the areas are in the ratio 1:3 (i.e., (A_2/A_1 = 3)), and the Young's moduli are in the ratio 1:4 (i.e., (Y_2/Y_1 = 4)), substituting these values into the equation gives: \\frac\\Delta L_1\\Delta L_2 = 1 \u00d7 3 \u00d7 4 = 12 So, the ratio of the elongations is 12:1, which indicates that wire A will elongate 12 times more than wire B when the same force is applied.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>An aluminium rod with Young's modulus $$Y=7.0 \\times 10^10 ~N / m^2$$ undergoes elastic strain of $$0.04 \\%$$. The energy per unit volume stored in the rod in SI unit is:</p>",
+      "question": "An aluminium rod with Young's modulus Y=7.0 \u00d7 10^10 N / m^2 undergoes elastic strain of 0.04 \\%. The energy per unit volume stored in the rod in SI unit is:",
       "options": {
         "A": "5600",
         "B": "2800",
@@ -432,7 +372,7 @@
         "D": "8400"
       },
       "answer": "A",
-      "solution": "<p>The strain energy stored per unit volume in a material under stress can be calculated using the following formula:</p> <p>$U = \\frac\u2081\u2082 \\sigma \\epsilon$</p> <p>where $\\sigma$ is the stress and $\\epsilon$ is the strain. </p> <p>For an elastic material, stress is proportional to strain (Hooke's law), and the constant of proportionality is the Young's modulus (Y). So we can write:</p> <p>$\\sigma = Y \\epsilon$</p> <p>Substituting this into the energy density equation we get:</p> <p>$U = \\frac\u2081\u2082 Y \\epsilon^2$</p> <p>The strain given in the problem is 0.04%, which needs to be converted to a decimal for use in this formula. Therefore, $\\epsilon = 0.04/100 = 0.0004$.</p> <p>Substituting the values into the equation gives:</p> <p>$U = \\frac\u2081\u2082 \\times 7.0 \\times 10^10 N/m^2 \\times (0.0004)^2 = 5600 ~J/m^3$</p>",
+      "solution": "The strain energy stored per unit volume in a material under stress can be calculated using the following formula: U = \\frac\u2081\u2082 \\sigma \\epsilon where \\sigma is the stress and \\epsilon is the strain. For an elastic material, stress is proportional to strain (Hooke's law), and the constant of proportionality is the Young's modulus (Y). So we can write: \\sigma = Y \\epsilon Substituting this into the energy density equation we get: U = \\frac\u2081\u2082 Y \\epsilon^2 The strain given in the problem is 0.04%, which needs to be converted to a decimal for use in this formula. Therefore, \\epsilon = 0.04/100 = 0.0004. Substituting the values into the equation gives: U = \\frac\u2081\u2082 \u00d7 7.0 \u00d7 10^10 N/m^2 \u00d7 (0.0004)^2 = 5600 J/m^3",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -447,29 +387,29 @@
         "D": "remains unchanged"
       },
       "answer": "C",
-      "solution": "<p>The Young's modulus of elasticity, denoted as $E$, is a measure of the stiffness of a material. It defines the relationship between stress (force per unit area) and strain (deformation) in a material in the linear (elastic) portion of the stress-strain curve. As temperature changes, the interatomic distances and bonding energies within a material also change, affecting its mechanical properties, including its elasticity.</p> <p>For most materials, as the temperature increases, the atoms within the material gain kinetic energy and vibrate more vigorously. This increased vibration results in a reduction of the forces between atoms, making it easier for the material to deform under a given load. Hence, generally, the Young's modulus $E$ decreases with increasing temperature because the material becomes softer and less stiff. Thus, the correct option here would be:</p> <p>Option C: decreases</p> <p>However, it should be noted that the exact relationship between temperature and Young's modulus can vary depending on the material type and its microstructure. While the general trend for metals and polymers is a decrease in Young's modulus with rising temperature, the rate of decrease and the temperature range over which this occurs can differ significantly between materials. Some advanced materials and composites may exhibit more complex behavior due to their unique properties.</p>",
+      "solution": "The Young's modulus of elasticity, denoted as E, is a measure of the stiffness of a material. It defines the relationship between stress (force per unit area) and strain (deformation) in a material in the linear (elastic) portion of the stress-strain curve. As temperature changes, the interatomic distances and bonding energies within a material also change, affecting its mechanical properties, including its elasticity. For most materials, as the temperature increases, the atoms within the material gain kinetic energy and vibrate more vigorously. This increased vibration results in a reduction of the forces between atoms, making it easier for the material to deform under a given load. Hence, generally, the Young's modulus E decreases with increasing temperature because the material becomes softer and less stiff. Thus, the correct option here would be: Option C: decreases However, it should be noted that the exact relationship between temperature and Young's modulus can vary depending on the material type and its microstructure. While the general trend for metals and polymers is a decrease in Young's modulus with rising temperature, the rate of decrease and the temperature range over which this occurs can differ significantly between materials. Some advanced materials and composites may exhibit more complex behavior due to their unique properties.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>Young's modules of material of a wire of length '$$L$$' and cross-sectional area $$A$$ is $$Y$$. If the length of the wire is doubled and cross-sectional area is halved then Young's modules will be :</p>",
+      "question": "Young's modules of material of a wire of length 'L' and cross-sectional area A is Y. If the length of the wire is doubled and cross-sectional area is halved then Young's modules will be :",
       "options": {
         "A": "4 Y",
         "B": "2 Y",
-        "C": "$$\\fracY\u2084$$",
+        "C": "\\fracY\u2084",
         "D": "Y"
       },
       "answer": "D",
-      "solution": "<p>Young's modulus depends on the material not length and cross sectional area. So young's modulus remains same.</p>",
+      "solution": "Young's modulus depends on the material not length and cross sectional area. So young's modulus remains same.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A boy's catapult is made of rubber cord which is 42 cm long, with 6 mm diameter of cross-section and of negligible mass. The boy keeps a stone weighing 0.02kg on it and stretches the cord by 20 cm by applying a constant force. When released, the stone flies off with a velocity of 20 ms<sup>\\\u20131</sup>. Neglect the change in the area of cross-section of the cord while stretched. The Young's modulus of rubber is closest to:",
+      "question": "boy's catapult is made of rubber cord which is 42 cm long, with 6 mm diameter of cross-section and of negligible mass. The boy keeps a stone weighing 0.02kg on it and stretches the cord by 20 cm by applying a constant force. When released, the stone flies off with a velocity of 20 ms<sup>\\\u20131</sup>. Neglect the change in the area of cross-section of the cord while stretched. The Young's modulus of rubber is closest to:",
       "options": {
         "A": "10<sup>4</sup> Nm<sup>\\\u20132</sup>",
         "B": "10<sup>6</sup> Nm<sup>\\\u20132</sup>",
@@ -477,7 +417,7 @@
         "D": "10<sup>3</sup> Nm<sup>\\\u20132</sup>"
       },
       "answer": "B",
-      "solution": "<p>When rubber cord is stretched, then it stores potential energy and when released, this potential energy is given to the stone as kinetic energy.</p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083\u2083\u2081bzfx/2b\u2082d\u2084\u2085\u2089c-4efc-4c\u2089\u2084-8c\u2083\u2084-111615e\u2089\u2081e\u2080\u2082/d\u2084\u2087\u2083\u2089\u2084e\u2080-d\u2081f\u2085-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081bzfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083\u2083\u2081bzfx/2b\u2082d\u2084\u2085\u2089c-4efc-4c\u2089\u2084-8c\u2083\u2084-111615e\u2089\u2081e\u2080\u2082/d\u2084\u2087\u2083\u2089\u2084e\u2080-d\u2081f\u2085-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081bzfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2019 (Online) 8th April Morning Slot Physics - Properties of Matter Question 202 English Explanation\"></p> <p>So, potential energy of stretched cord = kinetic energy of stone</p> <p>$$ \\Rightarrow 1 \\over 2Y\\left( \\Delta L \\over L \\right)^2A\\,.\\,L = 1 \\over 2mv^2$$</p> <p>Here, $$\\Delta$$L = 20 cm = 0.2 m, L = 42 cm = 0.42 m, v = 20 ms<sup>$$-$$1</sup>, m = 0.02 kg, d = 6 mm = 6 $$\\times$$ 10<sup>$$-$$3</sup> m</p> <p>$$\\therefore$$ $$A = \\pi r^2 = \\pi \\left( d \\over 2 \\right)^2 = \\pi \\left( 6 \\times 10^ - 3 \\over 2 \\right)^2$$</p> <p>$$ = \\pi (3 \\times 10^ - 3)^2 = 9\\pi \\times 10^ - 6m^2$$</p> <p>On substituting values, we get</p> <p>$$Y = mv^2L \\over A(\\Delta L)^2 = 0.02 \\times (20)^2 \\times 0.42 \\over 9\\pi \\times 10^ - 6 \\times (0.2)^2$$</p> <p>$$ \\approx 3.0 \\times 10^6Nm^ - 2$$</p> <p>So, the closest value of Young's modulus is 10<sup>6</sup> Nm<sup>$$-$$2</sup>.</p>",
+      "solution": "When rubber cord is stretched, then it stores potential energy and when released, this potential energy is given to the stone as kinetic energy. <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083\u2083\u2081bzfx/2b\u2082d\u2084\u2085\u2089c-4efc-4c\u2089\u2084-8c\u2083\u2084-111615e\u2089\u2081e\u2080\u2082/d\u2084\u2087\u2083\u2089\u2084e\u2080-d\u2081f\u2085-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081bzfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083\u2083\u2081bzfx/2b\u2082d\u2084\u2085\u2089c-4efc-4c\u2089\u2084-8c\u2083\u2084-111615e\u2089\u2081e\u2080\u2082/d\u2084\u2087\u2083\u2089\u2084e\u2080-d\u2081f\u2085-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081bzfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2019 (Online) 8th April Morning Slot Physics - Properties of Matter Question 202 English Explanation\"> So, potential energy of stretched cord = kinetic energy of stone \\Rightarrow 1 \\over 2Y\\left( \\Delta L \\over L \\right)^2A\\,.\\,L = 1 \\over 2mv^2 Here, \\DeltaL = 20 cm = 0.2 m, L = 42 cm = 0.42 m, v = 20 ms<sup>-1</sup>, m = 0.02 kg, d = 6 mm = 6 \u00d7 10<sup>-3</sup> m \\therefore A = \\pi r^2 = \\pi \\left( d \\over 2 \\right)^2 = \\pi \\left( 6 \u00d7 10^ - 3 \\over 2 \\right)^2 = \\pi (3 \u00d7 10^ - 3)^2 = 9\\pi \u00d7 10^ - 6m^2 On substituting values, we get Y = mv^2L \\over A(\\Delta L)^2 = 0.02 \u00d7 (20)^2 \u00d7 0.42 \\over 9\\pi \u00d7 10^ - 6 \u00d7 (0.2)^2 \\approx 3.0 \u00d7 10^6Nm^ - 2 So, the closest value of Young's modulus is 10<sup>6</sup> Nm<sup>-2</sup>.",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -492,22 +432,22 @@
         "D": "FA<sup>2</sup>V<sup>\\\u20133</sup>"
       },
       "answer": "A",
-      "solution": "Y = k [F]<sup>x</sup> [A]<sup>y</sup> [V]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>1</sup>T <sup>\\\u20132</sup>] = [MLT<sup>\\\u20132</sup>]<sup>x</sup> [L<sup>2</sup>]<sup>y</sup> [LT<sup>\\\u20131</sup>]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>1</sup>T <sup>\\\u20132</sup>] = [M]<sup>x</sup> [L]<sup>x+2y+z</sup>[T]<sup>\\\u20132x\\\u2013z </sup> <br><br>Comparing power of M, L and T <br><br>x = 1 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(1) <br><br>x + 2y + z = \\\u20131 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(2) <br><br>\\\u20132x \\\u2013 z = \\\u20132 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(3) <br><br>After solving <br><br>x = 1 <br><br>y = \\\u20131 <br><br>z = 0 <br><br>$$ \\therefore $$ Y = FA<sup>\\\u20131</sup>V<sup>0</sup>",
+      "solution": "Y = k [F]<sup>x</sup> [A]<sup>y</sup> [V]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>1</sup>T <sup>\\\u20132</sup>] = [MLT<sup>\\\u20132</sup>]<sup>x</sup> [L<sup>2</sup>]<sup>y</sup> [LT<sup>\\\u20131</sup>]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>1</sup>T <sup>\\\u20132</sup>] = [M]<sup>x</sup> [L]<sup>x+2y+z</sup>[T]<sup>\\\u20132x\\\u2013z </sup> <br><br>Comparing power of M, L and T <br><br>x = 1 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(1) <br><br>x + 2y + z = \\\u20131 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(2) <br><br>\\\u20132x \\\u2013 z = \\\u20132 \\u\u2082\u2080\u2082\u2086\\u\u2082\u2080\u2082\u2086(3) <br><br>After solving <br><br>x = 1 <br><br>y = \\\u20131 <br><br>z = 0 <br><br> \\therefore Y = FA<sup>\\\u20131</sup>V<sup>0</sup>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "<p>If momentum [P], area $$[A]$$ and time $$[T]$$ are taken as fundamental quantities, then the dimensional formula for coefficient of viscosity is :</p>",
+      "question": "If momentum [P], area [A] and time [T] are taken as fundamental quantities, then the dimensional formula for coefficient of viscosity is :",
       "options": {
-        "A": "$$\\left[P \\,A^-1 ~T^0\\right]$$",
-        "B": "$$\\left[P \\,A~T^-1\\right]$$",
-        "C": "$$\\left[P\\,A^-1 ~T\\right]$$",
-        "D": "$$\\left[P \\,A^-1 ~T^-1\\right]$$"
+        "A": "\\left[P \\,A^-1 T^0\\right]",
+        "B": "\\left[P \\,A T^-1\\right]",
+        "C": "\\left[P\\,A^-1 T\\right]",
+        "D": "\\left[P \\,A^-1 T^-1\\right]"
       },
       "answer": "A",
-      "solution": "<p>$$[\\eta ] = [ML^ - 1T^ - 1]$$</p> <p>Now if $$[\\eta ] = [P]^a[A]^b[T]^c$$</p> <p>$$ \\Rightarrow [ML^ - 1T^ - 1] = [ML^1T^ - 1]^a[L^2]^b[T]^c$$</p> <p>$$ \\Rightarrow a = 1,\\,a + 2b = - 1,\\, - a + c = - 1$$</p> <p>$$ \\Rightarrow a = 1,\\,b = - 1,\\,c = 0$$</p> <p>$$ \\Rightarrow [\\eta ] = [P][A]^ - 1[T]^0$$</p> <p>$$ = [PA^ - 1T^0]$$</p>",
+      "solution": "[\\eta ] = [ML^ - 1T^ - 1] Now if [\\eta ] = [P]^a[A]^b[T]^c \\Rightarrow [ML^ - 1T^ - 1] = [ML^1T^ - 1]^a[L^2]^b[T]^c \\Rightarrow a = 1,\\,a + 2b = - 1,\\, - a + c = - 1 \\Rightarrow a = 1,\\,b = - 1,\\,c = 0 \\Rightarrow [\\eta ] = [P][A]^ - 1[T]^0 = [PA^ - 1T^0]",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
