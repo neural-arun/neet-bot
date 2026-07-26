@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "Some Basic Concepts of Chemistry",
-  "total_questions": 186,
+  "total_questions": 146,
   "questions": [
     {
       "question": "A solution of sucrose (molar mass = 342 g m o l - 1 ) has been prepared by dissolving 68.5 g of sucrose in 1000 g of water. The freezing point of the solution obtained will be ( K f for water = 1.86 K k g m o l - 1 )",
@@ -58,21 +58,6 @@
       },
       "answer": "C",
       "solution": "<think> To determine paramagnetism, I need to check if a molecule has unpaired electrons. Paramagnetic substances have unpaired electrons and are attracted to magnetic fields. I'll use Molecular Orbital (MO) theory to determine the electron configuration of each molecule. Let me analyze each: A) N\u2082: - Total valence electrons = 5 + 5 = 10 - MO configuration: \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 (or \u03c02px\u00b2 \u03c02py\u00b2) - All electrons are paired \u2192 DIAMAGNETIC B) F\u2082: - Total valence electrons = 7 + 7 = 14 - MO configuration: \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 \u03c32p\u00b2 - All electrons are paired \u2192 DIAMAGNETIC C) O\u2082: - Total valence electrons = 6 + 6 = 12 - MO configuration: \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 \u03c0*2p\u00b2 - The last two electrons go into \u03c0*2px\u00b9 \u03c0*2py\u00b9 (following Hund's rule) - TWO UNPAIRED ELECTRONS \u2192 PARAMAGNETIC \u2713 D) CO: - Total valence electrons = 4 + 6 = 10 (from C and O only) - MO configuration: \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 - All electrons are paired \u2192 DIAMAGNETIC </think> # Answer: **(C) O\u2082** ## Why O\u2082 is Paramagnetic **Key Concept:** A molecule is **paramagnetic** if it contains **unpaired electrons**. ### Detailed Analysis of O\u2082: **Step 1: Count valence electrons** - Oxygen: 6 valence electrons \u00d7 2 = 12 total electrons **Step 2: Write the Molecular Orbital (MO) configuration** For O\u2082, following the aufbau principle and Hund's rule: ``` \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 \u03c0*2p\u00b2 ``` **Step 3: Focus on the outermost orbitals** The last two electrons fill the \u03c0* antibonding orbitals: - \u03c0*2px\u00b9 (one unpaired electron) - \u03c0*2py\u00b9 (one unpaired electron) **Two unpaired electrons** \u2192 O\u2082 is **PARAMAGNETIC** \u2713 --- ## Why Others Are Wrong: | Molecule | Unpaired Electrons | Property | |----------|-------------------|----------| | **N\u2082** | 0 | Diamagnetic (very stable, all paired) | | **F\u2082** | 0 | Diamagnetic (all electrons paired) | | **CO** | 0 | Diamagnetic (all electrons paired) | --- ## Key Formula to Remember: **Magnetic moment (\u03bc) = \u221a[n(n+2)] B.M.** - Where n = number of unpaired electrons - B.M. = Bohr Magneton For O\u2082: \u03bc = \u221a[2(2+2)] = \u221a8 \u2248 2.83 B.M. (This matches experimental data!) **NEET Tip:** O\u2082's paramagnetism is a classic NEET question. Remember that \u03c0* antibonding orbitals have electrons placed singly (Hund's rule) before pairing!",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the work done in bringing a charge of 2 \u00c3\u0097 10\u00e2\u0081\u00bb\u00e2\u0081\u00b9 C from infinity to a point P where the potential due to a charge of 4 \u00c3\u0097 10\u00e2\u0081\u00bb\u00e2\u0081\u00b7 C located 9 cm away is 4 \u00c3\u0097 10\u00e2\u0081\u00b4 V?",
-      "options": {
-        "A": "8 \u00c3\u0097 10^-5 J",
-        "B": "6 \u00c3\u009710^-5 J",
-        "C": "8 \u00c3\u0097 10^-5J",
-        "D": "5 \u00c3\u0097 10^-5J"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the work done in bringing a charge of 2 \u00c3\u0097 10\u00e2\u0081\u00bb\u00e2\u0081\u00b9 C from infinity to a point P where the potential due to a ch Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) 8 \u00c3\u0097 10^-5 J </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) 8 \u00c3\u0097 10^-5 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -139,21 +124,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Two elements A and B form compounds having formula AB 2 and AB 4 . When dissolved in 20 g of benzene (C\u2086 H\u2086 ), 1 g of AB 2 lowers the freezing point by 2.3 K whereas 1.0 g of AB 4 lowers it by 1.3 K. The molar depression constant for benzene is 5.1 K kg mol \u00e2\u0080\u00931 . Calculate atomic masses of A and B.",
-      "options": {
-        "A": "= 3",
-        "B": "25 u and",
-        "C": "64 u",
-        "D": "58 u and"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Two elements A and B form compounds having formula AB 2 and AB 4 . When dissolved in 20 g of benzene (C\u2086 H\u2086 ), 1 g of Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) A = 25.58 u and B = 42.64 u </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) A = 25.58 u and B = 42.64 u **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "What is the lift force acting on a wing with an area of 2.5 m\u00b2 in a wind tunnel experiment, where the flow speed on the upper surface is 70 m/s and on the lower surface is 63 m/s, assuming the density of air is 1.3 kg/m\u00b3?",
       "options": {
         "A": "100%",
@@ -208,21 +178,6 @@
       },
       "answer": "D",
       "solution": "<think> Let me analyze each statement about NaOH systematically: (A) Dissolves in water with heat evolution - This is TRUE. NaOH dissolution is highly exothermic (\u0394H is negative). When NaOH dissolves, hydration energy released is greater than lattice energy, releasing heat. (B) Used in saponification of oils - This is TRUE. Saponification is the reaction of oils/fats with NaOH to produce soap (sodium salts of fatty acids) and glycerol. (C) Forms basic salt with CO\u2082 - This is TRUE. When NaOH reacts with limited CO\u2082: 2NaOH + CO\u2082 \u2192 Na\u2082CO\u2083 + H\u2082O (basic salt forms first) With excess CO\u2082: NaOH + CO\u2082 \u2192 NaHCO\u2083 (acidic salt) (D) Does not react with glass - This is FALSE/WRONG. This is the key point. Glass contains SiO\u2082 (silicon dioxide). NaOH actually DOES react with SiO\u2082: SiO\u2082 + 2NaOH \u2192 Na\u2082SiO\u2083 + H\u2082O This is why NaOH solutions are NOT stored in glass bottles - they are stored in plastic bottles. The NaOH reacts with the glass and weakens it, making the bottle brittle. </think> # Answer: **(D) Does not react with glass** ## Why This Is WRONG: **NaOH DOES react with glass!** This is a crucial fact for NEET. ### The Reaction: ``` SiO\u2082 (in glass) + 2NaOH \u2192 Na\u2082SiO\u2083 + H\u2082O ``` Glass contains **silicon dioxide (SiO\u2082)**, which reacts with the strong base NaOH, producing sodium silicate. This reaction: - Weakens the glass structure - Makes the bottle brittle over time - Can cause the glass to crack **Practical implication:** NaOH solutions must be stored in **plastic (polyethylene) bottles**, NOT glass bottles. --- ## Why The Others Are CORRECT: | Statement | Why True | |-----------|----------| | **(A)** Heat evolution | Dissolution is highly exothermic; used in calorimetry experiments | | **(B)** Saponification | NaOH cleaves ester bonds in fats: R-COO-R' + NaOH \u2192 R-COONa + HO-R' | | **(C)** Forms basic salt with CO\u2082 | Limited CO\u2082 gives Na\u2082CO\u2083 (basic), excess CO\u2082 gives NaHCO\u2083 (neutral) | --- ## \ud83d\udd11 Key Fact to Remember: **\"NaOH attacks glass \u2192 Store in plastic bottles\"** This is tested frequently in NEET because it's both conceptual (SiO\u2082 + NaOH reaction) and practical (lab safety).",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "In the HCl molecule, the separation between the nuclei of the two atoms is about 1.27 \u00c3 . What is the approximate location of the CM of the molecule, given that a chlorine atom is about 35.5 times as massive as a hydrogen atom and nearly all the mass of an atom is concentrated in its nucleus.",
-      "options": {
-        "A": "the centre of mass of the HCl molecule lies",
-        "B": "027 A\u00cb\u009a from the Cl atom",
-        "C": "035 A\u00cb\u009a from the Cl atom",
-        "D": "065 A\u00cb\u009a from the Cl atom"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: In the HCl molecule, the separation between the nuclei of the two atoms is about 1.27 \u00c3 . What is the approximate locati Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) the centre of mass of the HCl molecule lies 0.035 A\u00cb\u009a from the Cl atom </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) the centre of mass of the HCl molecule lies 0.035 A\u00cb\u009a from the Cl atom **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -424,21 +379,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Concentrated nitric acid used in laboratory work is 68% nitric acid by mass in aqueous solution. What should be the molarity of such a sample of the acid if the density of the solution is 1.504 g mL \u00e2\u0080\u00931 ?",
-      "options": {
-        "A": "2%",
-        "B": "24 M",
-        "C": "67 M",
-        "D": "23 M"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Concentrated nitric acid used in laboratory work is 68% nitric acid by mass in aqueous solution. What should be the mola Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 16.23 M </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 16.23 M **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Which of the following is the strongest base in the gas phase?",
       "options": {
         "A": "NH\u2083",
@@ -514,21 +454,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "What is the concentration of nitric acid in moles per litre in a sample which has a density, 1.41 g mL \u00e2\u0080\u00931 and the mass per cent of nitric acid in it being 69%?",
-      "options": {
-        "A": "1%",
-        "B": "44 mol L -1",
-        "C": "10 mol L -1",
-        "D": "15 mol L -1"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the concentration of nitric acid in moles per litre in a sample which has a density, 1.41 g mL \u00e2\u0080\u00931 and the mass Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) 15.44 mol L -1 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) 15.44 mol L -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Which has highest magnetic moment?",
       "options": {
         "A": "Mn\u2082+",
@@ -538,21 +463,6 @@
       },
       "answer": "C",
       "solution": "<think> To find the highest magnetic moment, I need to: 1. Write electron configurations for each ion 2. Calculate the number of unpaired electrons (n) 3. Use the formula: \u03bc = \u221a[n(n+2)] BM (Bohr Magnetons) 4. Compare the values Let me work through each: **Mn\u2082+ (Manganese 2+)** - Mn atomic number = 25 - Mn: [Ar] 3d\u2075 4s\u00b2 - Mn\u2082+: [Ar] 3d\u2075 - Unpaired electrons: 5 (all electrons in 3d are unpaired) - \u03bc = \u221a[5(5+2)] = \u221a35 = 5.92 BM **Cr\u2083+ (Chromium 3+)** - Cr atomic number = 24 - Cr: [Ar] 3d\u2075 4s\u00b9 - Cr\u2083+: [Ar] 3d\u00b3 - Unpaired electrons: 3 (\u2191 \u2191 \u2191 _ _) - \u03bc = \u221a[3(3+2)] = \u221a15 = 3.87 BM **Fe\u2083+ (Iron 3+)** - Fe atomic number = 26 - Fe: [Ar] 3d\u2076 4s\u00b2 - Fe\u2083+: [Ar] 3d\u2075 - Unpaired electrons: 5 (all electrons in 3d are unpaired) - \u03bc = \u221a[5(5+2)] = \u221a35 = 5.92 BM **V\u2083+ (Vanadium 3+)** - V atomic number = 23 - V: [Ar] 3d\u00b3 4s\u00b2 - V\u2083+: [Ar] 3d\u00b2 - Unpaired electrons: 2 - \u03bc = \u221a[2(2+2)] = \u221a8 = 2.83 BM Comparing: Mn\u2082+ = Fe\u2083+ (5.92) > Cr\u2083+ (3.87) > V\u2083+ (2.83) Both Mn\u2082+ and Fe\u2083+ have the same magnetic moment! However, checking NEET answer keys, Mn\u2082+ is typically the answer given. </think> # Answer: **(A) Mn\u00b2\u207a** ## Step-by-Step Solution ### 1) **Write electron configurations of each ion:** | Ion | Configuration | 3d electrons | |-----|---|---| | Mn\u00b2\u207a | [Ar] 3d\u2075 | \u2191 \u2191 \u2191 \u2191 \u2191 | | Cr\u00b3\u207a | [Ar] 3d\u00b3 | \u2191 \u2191 \u2191 \u2014 \u2014 | | Fe\u00b3\u207a | [Ar] 3d\u2075 | \u2191 \u2191 \u2191 \u2191 \u2191 | | V\u00b3\u207a | [Ar] 3d\u00b2 | \u2191 \u2191 \u2014 \u2014 \u2014 | ### 2) **Count unpaired electrons (n):** - Mn\u00b2\u207a: 5 unpaired electrons - Cr\u00b3\u207a: 3 unpaired electrons - Fe\u00b3\u207a: 5 unpaired electrons - V\u00b3\u207a: 2 unpaired electrons ### 3) **Calculate magnetic moment using:** \\mu = \\sqrtn(n+2) BM | Ion | Calculation | \u03bc (BM) | |-----|---|---| | **Mn\u00b2\u207a** | \u221a[5(7)] | **5.92** \u2713 | | Cr\u00b3\u207a | \u221a[3(5)] | 3.87 | | Fe\u00b3\u207a | \u221a[5(7)] | 5.92 | | V\u00b3\u207a | \u221a[2(4)] | 2.83 | ## Key Concept **Magnetic moment depends on:** - Number of unpaired electrons (higher unpaired e\u207b = higher \u03bc) - Both Mn\u00b2\u207a and Fe\u00b3\u207a have 5 unpaired electrons, but **Mn\u00b2\u207a is the standard answer** as it's the most stable high-spin configuration ## Why others are wrong: - **Cr\u00b3\u207a**: Only 3 unpaired electrons \u2192 lower \u03bc - **V\u00b3\u207a**: Only 2 unpaired electrons \u2192 lowest \u03bc - **Fe\u00b3\u207a**: While equal to Mn\u00b2\u207a, less commonly chosen in NEET **Remember:** More unpaired electrons = Higher magnetic moment",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the magnitude and direction of the force on the helicopter due to the surrounding air when a helicopter of mass 2000 kg rises with a vertical acceleration of 15 m/s\u00b2 and the total mass of the crew and passengers is 500 kg? (Given: g = 10 m/s\u00b2)",
-      "options": {
-        "A": "5 \u00c3\u0097 10 4 N, upward",
-        "B": "25 \u00c3\u0097 10 4 N, downward",
-        "C": "25 \u00c3\u0097 10 4 N, upward",
-        "D": "5 \u00c3\u0097 10 4 N, downward"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the magnitude and direction of the force on the helicopter due to the surrounding air when a helicopter of mass Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 6.25 \u00c3\u0097 10 4 N, upward </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 6.25 \u00c3\u0097 10 4 N, upward **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -604,51 +514,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "What is the electric field (E) in the outer region of the second plate when two large, thin metal plates are parallel and close to each other, with surface charge densities of opposite signs and a magnitude of 17.0 \u00c3\u0097 10^-22 C/m^2 on their inner faces?",
-      "options": {
-        "A": "E = 0",
-        "B": "99 \u00c3\u0097 10^-9 N/C",
-        "C": "53 \u00c3\u0097 10^-12N/C",
-        "D": "06 \u00c3\u0097 10^-12N/C"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the electric field (E) in the outer region of the second plate when two large, thin metal plates are parallel an Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) E = 0 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) E = 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What mass of C a C O\u2083 is required to react completely with 25 mL of 0.75 M HCl according to the reaction C a C O\u2083 s + 2 H C l aq \u00e2\u0086\u0092 C a C l 2 aq + C O\u2082 g + H\u2082 O l",
-      "options": {
-        "A": "1 g",
-        "B": "3 g",
-        "C": "8 g",
-        "D": "93 g"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What mass of C a C O\u2083 is required to react completely with 25 mL of 0.75 M HCl according to the reaction C a C O\u2083 s + Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given CaCO 3 (s) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 2HCl(aq) \u00e2\u0086\u0092 CaCl 2 (aq) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 CO 2 (g) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 H\u2082 O(l) Moles present in 25 \u00e2\u0080\u0084 ml of 0.75 \u00e2\u0080\u0084 M \u00e2\u0080\u0084 HCl = 0.75 1000 \u00c3\u0097 25 = 0.01875 moles Since 2 moles react completely with CaCO 3 \u00e2\u0080\u0084 = \u00e2\u0080\u0084 100 \u00e2\u0080\u0084 g 0 .01875 moles react completely with CaCO 3 = 100 2 \u00d7 0 .01875 = 0.9375 g </think> **Correct Answer: (A)** **Explanation:** Given CaCO 3 (s) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 2HCl(aq) \u00e2\u0086\u0092 CaCl 2 (aq) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 CO 2 (g) \u00e2\u0080\u0084 + \u00e2\u0080\u0084 H\u2082 O(l) Moles present in 25 \u00e2\u0080\u0084 ml of 0.75 \u00e2\u0080\u0084 M \u00e2\u0080\u0084 HCl = 0.75 1000 \u00c3\u0097 25 = 0.01875 moles Since 2 moles react completely with CaCO 3 \u00e2\u0080\u0084 = \u00e2\u0080\u0084 100 \u00e2\u0080\u0084 g 0 .01875 moles react completely with CaCO 3 = 100 2 \u00d7 0 .01875 = 0.9375 g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Which of the following weighs the least?",
-      "options": {
-        "A": "24 g of Mg",
-        "B": "9 mol of NO",
-        "C": "4 of N\u2082",
-        "D": "02 \u00c3\u0097 1 0 24 molecules of oxygen"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Which of the following weighs the least? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: B. 0.9 mol NO = 0.9 mol \u00c3\u0097 30 g m o l - 1 = 27 g NO C. 22.4 L of N\u2082 = 1 mol N\u2082 = 28 g N\u2082 D. 6.02 \u00c3\u0097 1 0 24 molecules of oxygen = 10 mol oxygen = 10 \u00c3\u0097 32 g = 320 g of O\u2082 Hence, here the least weight is of Mg. </think> **Correct Answer: (A)** **Explanation:** B. 0.9 mol NO = 0.9 mol \u00c3\u0097 30 g m o l - 1 = 27 g NO C. 22.4 L of N\u2082 = 1 mol N\u2082 = 28 g N\u2082 D. 6.02 \u00c3\u0097 1 0 24 molecules of oxygen = 10 mol oxygen = 10 \u00c3\u0097 32 g = 320 g of O\u2082 Hence, here the least weight is of Mg. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Molar conductivity of HX (0.01M) is 10x smaller than HY (0.10M), lambda_0 same. pKa(HX) - pKa(HY):",
       "options": {
         "A": "1%",
@@ -658,21 +523,6 @@
       },
       "answer": "C",
       "solution": "<think> Let me work through this step by step. Given information: - Molar conductivity of HX (0.01M) is 10 times smaller than HY (0.10M) - \u03bb\u2080 (molar conductivity at infinite dilution) is the same for both - Need to find: pKa(HX) - pKa(HY) Let's denote: - \u039b(HX at 0.01M) = \u039b\u2081 - \u039b(HY at 0.10M) = \u039b\u2082 - Given: \u039b\u2081 = \u039b\u2082/10 The degree of dissociation (\u03b1) for a weak acid can be found from: \u039b = \u03b1 \u00d7 \u03bb\u2080 So: \u03b1 = \u039b/\u03bb\u2080 For HX at 0.01M: \u03b1(HX) = \u039b\u2081/\u03bb\u2080 For HY at 0.10M: \u03b1(HY) = \u039b\u2082/\u03bb\u2080 = (10\u039b\u2081)/\u03bb\u2080 Therefore: \u03b1(HY)/\u03b1(HX) = 10 For a weak acid: Ka = \u03b1\u00b2C/(1-\u03b1) If \u03b1 is small (<<1), then: Ka \u2248 \u03b1\u00b2C For HX (C = 0.01M): Ka(HX) = \u03b1(HX)\u00b2 \u00d7 0.01 For HY (C = 0.10M): Ka(HY) = \u03b1(HY)\u00b2 \u00d7 0.10 Since \u03b1(HY) = 10 \u00d7 \u03b1(HX): Ka(HY) = [10\u03b1(HX)]\u00b2 \u00d7 0.10 Ka(HY) = 100 \u00d7 \u03b1(HX)\u00b2 \u00d7 0.10 Ka(HY) = 10 \u00d7 \u03b1(HX)\u00b2 While: Ka(HX) = \u03b1(HX)\u00b2 \u00d7 0.01 Taking the ratio: Ka(HY)/Ka(HX) = (10 \u00d7 \u03b1(HX)\u00b2)/(0.01 \u00d7 \u03b1(HX)\u00b2) = 10/0.01 = 1000 So: Ka(HY)/Ka(HX) = 1000 = 10\u00b3 pKa(HX) - pKa(HY) = log(Ka(HY)) - log(Ka(HX)) = log(Ka(HY)/Ka(HX)) = log(1000) = 3 </think> # Answer: **(C) 3** ## Step-by-Step Solution ### Step 1: Relate Molar Conductivity to Degree of Dissociation For any electrolyte: \\Lambda = \\alpha \u00d7 \\lambda_0 where \u03b1 is the degree of dissociation. ### Step 2: Find the Degree of Dissociation for Each Acid **For HX (0.01M):** \\alpha(HX) = \\frac\\Lambda(HX)\\lambda_0 **For HY (0.10M):** \\alpha(HY) = \\frac\\Lambda(HY)\\lambda_0 Since \u039b(HX) = \u039b(HY)/10: \\frac\\alpha(HY)\\alpha(HX) = \\frac\\Lambda(HY)\\Lambda(HX) = 10 ### Step 3: Apply the Ka Expression For weak acids (assuming \u03b1 << 1): K_a = \\alpha^2 \u00d7 C **For HX:** K_a(HX) = [\\alpha(HX)]^2 \u00d7 0.01 **For HY:** K_a(HY) = [\\alpha(HY)]^2 \u00d7 0.10 ### Step 4: Calculate the Ka Ratio \\fracK_a(HY)K_a(HX) = \\frac[10\\alpha(HX)]^2 \u00d7 0.10[\\alpha(HX)]^2 \u00d7 0.01 = \\frac\u2081\u2080\u2080 \u00d7 0.100.01 = \\frac\u2081\u2080\u2080.01 = 1000 ### Step 5: Convert to pKa pKa(HX) - pKa(HY) = \\log(K_a(HY)) - \\log(K_a(HX)) = \\log(\\fracK_a(HY)K_a(HX)\\) = \\log(1000) = 3 ## Key Concept - **HX is a stronger acid** (lower pKa, higher Ka) than HY - Higher degree of dissociation in more dilute solution (HY at 0.10M) indicates it's a weaker acid",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Calculate the number of atoms in each of the following: (i) 52 moles of Ar (ii) 52 u of He and (iii) 52 g of He.",
-      "options": {
-        "A": "(i)",
-        "B": "131\u00c3\u009710 22 atoms (ii) 15 atoms and (iii)",
-        "C": "83\u00c3\u009710 20 atoms",
-        "D": "131\u00c3\u009710 25 atoms (ii) 13 atoms and (iii)"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Calculate the number of atoms in each of the following: (i) 52 moles of Ar (ii) 52 u of He and (iii) 52 g of He. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) (i) 3.131\u00c3\u009710 25 atoms (ii) 13 atoms and (iii) 7.83\u00c3\u009710 24 atoms </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 3.131\u00c3\u009710 25 atoms (ii) 13 atoms and (iii) 7.83\u00c3\u009710 24 atoms **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -709,21 +559,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "100 g of liquid A (molar mass 140 g mol \u00e2\u0080\u00931 ) was dissolved in 1000 g of liquid B (molar mass 180 g mol \u00e2\u0080\u00931 ). The vapour pressure of pure liquid B was found to be 500 torr. Calculate (i) the vapour pressure of pure liquid A and (ii) its vapour pressure in the solution if the total vapour pressure of the solution is 475 Torr.",
-      "options": {
-        "A": "28%",
-        "B": "7 torr, 49 torr",
-        "C": "5 torr, 13 torr",
-        "D": "7 torr, 32 torr"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: 100 g of liquid A (molar mass 140 g mol \u00e2\u0080\u00931 ) was dissolved in 1000 g of liquid B (molar mass 180 g mol \u00e2\u0080\u00931 ). The vap Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 280.7 torr, 32 torr </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 280.7 torr, 32 torr **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Match the following prefixes with their multiples:",
       "options": {
         "A": "(i)-(",
@@ -754,21 +589,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "What is the estimated acceleration of an electron and proton when they are 1 \u00c3 (= 10^-10 m) apart due to their mutual electrical attraction?",
-      "options": {
-        "A": "Electron:",
-        "B": "50 \u00c3\u0097 10^22m/s\u00b2, Proton:",
-        "C": "40 \u00c3\u0097 10^1910^19 m/s\u00b2",
-        "D": "99 \u00c3\u0097 10^9m/s\u00b2, Proton:"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the estimated acceleration of an electron and proton when they are 1 \u00c3 (= 10^-10 m) apart due to their mutual el Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) Electron: 2.50 \u00c3\u0097 10^22m/s\u00b2, Proton: 1.40 \u00c3\u0097 10^1910^19 m/s\u00b2 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) Electron: 2.50 \u00c3\u0097 10^22m/s\u00b2, Proton: 1.40 \u00c3\u0097 10^1910^19 m/s\u00b2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "The ammonia ( N H\u2083 ) released on quantitative reaction of 0.6 g urea ( N H\u2082 C O N H\u2082 ) with sodium hydroxide (NaOH) can be neutralized by",
       "options": {
         "A": "200 mL of",
@@ -793,21 +613,6 @@
       },
       "answer": "C",
       "solution": "<think> This is a fundamental question about nucleic acid composition - one of the most frequently asked topics in NEET chemistry. Let me recall the nitrogen bases in DNA and RNA: DNA bases: - Adenine (A) - purine - Guanine (G) - purine - Cytosine (C) - pyrimidine - Thymine (T) - pyrimidine RNA bases: - Adenine (A) - purine - Guanine (G) - purine - Cytosine (C) - pyrimidine - Uracil (U) - pyrimidine The key difference: RNA has URACIL instead of THYMINE. Looking at the options: (A) Thymine - present in DNA, NOT in RNA \u274c (B) Adenine - present in BOTH DNA and RNA \u274c (C) Uracil - present in RNA, NOT in DNA \u2713 (D) Guanine - present in BOTH DNA and RNA \u274c The question asks which base is in RNA but NOT in DNA. </think> # Answer: **(C) Uracil** ## Step-by-Step Explanation: ### The Key Difference Between DNA and RNA: | Base | DNA | RNA | |------|-----|-----| | Adenine (A) | \u2713 | \u2713 | | Guanine (G) | \u2713 | \u2713 | | Cytosine (C) | \u2713 | \u2713 | | **Thymine (T)** | \u2713 | \u2717 | | **Uracil (U)** | \u2717 | \u2713 | ### Why Uracil is the Answer: **Uracil (U)** is uniquely present in RNA but absent in DNA. Instead, DNA contains **Thymine (T)** in its place. ### Structural Similarity: Both thymine and uracil are pyrimidine bases, but: - **Thymine** = Uracil + one methyl group (-CH\u2083) - **Uracil** = lacks the methyl group This minor structural difference is why RNA uses uracil while DNA uses thymine. ## Why Other Options Are Wrong: - **(A) Thymine**: Present in DNA, NOT in RNA \u274c - **(B) Adenine**: Found in BOTH DNA and RNA \u274c - **(D) Guanine**: Found in BOTH DNA and RNA \u274c ## Key Fact to Remember: **\"DNA has Thymine; RNA has Uracil\"** \u2014 This is the single most important structural difference between these two nucleic acids and appears in almost every NEET exam in some form.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Suppose that the a system consisting of two charges 7 mC and \u00e2\u0080\u00932 mC (and with no external field) placed at (\u00e2\u0080\u00939 cm, 0, 0) and (9 cm, 0, 0) respectively is now placed in an external electric field E = A (1/r^2 ); A = 9 \u00c3\u0097 10^5 NC^-1m^2. What would the electrostatic energy of the configuration be",
-      "options": {
-        "A": "4%",
-        "B": "2J",
-        "C": "1J",
-        "D": "3J"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Suppose that the a system consisting of two charges 7 mC and \u00e2\u0080\u00932 mC (and with no external field) placed at (\u00e2\u0080\u00939 cm, 0, Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 49.3J </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 49.3J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -874,21 +679,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "A racing car travels on a track (without banking) ABCDEFA (Fig). ABC is a circular arc of radius 2 R. CD and FA are straight paths of length R and DEF is a circular arc of radius R = 100 m. The coefficient of friction on the road is \u00b5 = 0.1. The maximum speed of the car is 50 m s\u00e2\u0080\u00931. Find the minimum time for completing one round.",
-      "options": {
-        "A": "8%",
-        "B": "7s",
-        "C": "3s",
-        "D": "6s"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: A racing car travels on a track (without banking) ABCDEFA (Fig). ABC is a circular arc of radius 2 R. CD and FA are stra Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 86.3s </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 86.3s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "What is the increase in kinetic energy of a 1 kg block being pushed up a surface inclined at 30\u00b0 by a 10 N force, considering a coefficient of friction of 0.1, when it is pushed up by 10 m along the incline?",
       "options": {
         "A": "3%",
@@ -904,36 +694,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "If the density of methanol is 0.793 kg L \u00e2\u0080\u00931 , what is its volume needed for making 2.5 L of its 0.25 M solution?",
-      "options": {
-        "A": "2%",
-        "B": "65 mL",
-        "C": "22 mL",
-        "D": "45 mL"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: If the density of methanol is 0.793 kg L \u00e2\u0080\u00931 , what is its volume needed for making 2.5 L of its 0.25 M solution? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 25.22 mL </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 25.22 mL **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the work done by the resistive force on a raindrop of radius 2 mm that falls from a height of 500 m above the ground? It falls with decreasing acceleration (due to viscous resistance of the air) until at half its original height, it attains its maximum (terminal) speed, and moves with uniform speed thereafter. If its speed on reaching the ground is 10 m/s, what is the work done by the resistive force?",
-      "options": {
-        "A": "\u00e2\u0088\u0092",
-        "B": "162J",
-        "C": "162 J",
-        "D": "62 J"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the work done by the resistive force on a raindrop of radius 2 mm that falls from a height of 500 m above the gr Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) \u00e2\u0088\u00920.162J </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u00e2\u0088\u00920.162J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Geometry and magnetic nature of [Ni(CO)\u2084] and [Ni(CN)\u2084]2- respectively:",
       "options": {
         "A": "Tetrahedral diamagnetic; Square planar diamagnetic",
@@ -943,21 +703,6 @@
       },
       "answer": "A",
       "solution": "<think> Let me analyze the geometry and magnetic properties of these two nickel complexes systematically. First, I need to determine: 1. The electron configuration of Ni\u2082. The type of ligands (CO vs CN) 3. The resulting geometry 4. The magnetic properties Ni is at Z = 28: [Ar] 3d\u2078 4s\u00b2 For [Ni(CO)\u2084]: - CO is a weak field ligand (\u03c0-acceptor but still weak field) - Ni has +0 oxidation state - With 4 CO ligands in weak field, pairing doesn't occur completely - This forms a tetrahedral geometry with 2 unpaired electrons \u2192 PARAMAGNETIC - Wait, let me reconsider: CO is actually a strong field ligand due to \u03c0-backbonding - With strong field CO and tetrahedral geometry: pairing occurs incompletely - Actually, [Ni(CO)\u2084] is tetrahedral and diamagnetic (CO causes strong field) Let me reconsider more carefully: - CO is definitely a strong field ligand (\u03c0-acceptor) - In tetrahedral [Ni(CO)\u2084]: The splitting in tetrahedral is opposite to octahedral - For Ni\u00b2\u207a (d\u2078) in tetrahedral with strong field CO: we get paired electrons \u2192 DIAMAGNETIC - But Ni(0) in [Ni(CO)\u2084]: 3d\u00b9\u2070 configuration \u2192 all electrons paired \u2192 DIAMAGNETIC - Geometry: Tetrahedral (verified experimentally) For [Ni(CN)\u2084]\u00b2\u207b: - CN\u207b is a very strong field ligand - Ni\u00b2\u207a oxidation state (d\u2078 configuration) - CN\u207b is strong field \u2192 causes maximum pairing - With 4 strong field ligands around Ni\u00b2\u207a, square planar geometry forms - In square planar [Ni(CN)\u2084]\u00b2\u207b: all 8 electrons are paired \u2192 DIAMAGNETIC - Geometry: Square planar So: [Ni(CO)\u2084]: Tetrahedral, Diamagnetic [Ni(CN)\u2084]\u00b2\u207b: Square planar, Diamagnetic </think> # Answer: **(A) Tetrahedral diamagnetic; Square planar diamagnetic** --- ## Step-by-Step Reasoning ### 1. **[Ni(CO)\u2084] - Tetrahedral Diamagnetic** **Oxidation State & Configuration:** - Ni has 0 oxidation state - Electronic configuration: Ni\u2070 = [Ar] 3d\u00b9\u2070 4s\u00b2 - All electrons are already paired **Geometry:** - CO is a strong field ligand (\u03c0-acceptor) - In tetrahedral geometry with 4 CO ligands - **Geometry: Tetrahedral** **Magnetic Nature:** - d\u00b9\u2070 configuration \u2192 no unpaired electrons - **Result: Diamagnetic** \u2713 --- ### 2. **[Ni(CN)\u2084]\u00b2\u207b - Square Planar Diamagnetic** **Oxidation State & Configuration:** - Ni\u00b2\u207a oxidation state - Electronic configuration: Ni\u00b2\u207a = [Ar] 3d\u2078 - CN\u207b is a **very strong field ligand** **Geometry:** - Four strong field ligands with d\u2078 configuration prefer **square planar geometry** - This is characteristic of low-spin d\u2078 complexes **Electronic Arrangement in Square Planar:** ``` d(z\u00b2) \u2191\u2193 d(xz) \u2191\u2193 d(yz) \u2191\u2193 d(x\u00b2-y\u00b2) \u2191\u2193 d(xy) \u2191\u2193 ``` - All 8 electrons are paired - **Result: Diamagnetic** \u2713 --- ## Key Concept to Remember | Complex | Ligand Field | Geometry | d\u2078 Configuration | Magnetic | |---------|-------------|----------|-----------------|----------| | [Ni(CO)\u2084] | Strong | **Tetrahedral** | d\u00b9\u2070 | Diamagnetic | | [Ni(CN)\u2084]\u00b2\u207b | Very Strong | **Square Planar** | d\u2078 (all paired) | Diamagnetic | **Remember:** Square planar geometry is typical for **d\u2078 complexes with strong field ligands** (like CN\u207b, CO, etc.)",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the estimated pressure difference between the lower and upper surfaces of the wings of a fully loaded Boeing aircraft with a mass of 3.3 \u00c3\u0097 10^5kg, a total wing area of 500 m^2, and in level flight at a speed of 960 km/h?",
-      "options": {
-        "A": "13 \u00c3\u0097 10^5 Nm^-2",
-        "B": "5 \u00c3\u0097 10^5Nm^-2",
-        "C": "4\u00c3\u0097 10^5Nm^-2",
-        "D": "8 \u00c3\u0097 10^5Nm^-2"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the estimated pressure difference between the lower and upper surfaces of the wings of a fully loaded Boeing air Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 6.5 \u00c3\u0097 10^5Nm^-2 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 6.5 \u00c3\u0097 10^5Nm^-2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -994,21 +739,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "The vapour pressure of water at 20 \u00e2\u0088\u0098 C i s 17.5 mm H g . I f 18 g o f g l u c o s e ( C\u2086 H\u2081\u2082 O\u2086 ) is added to 178.2 g of water at 20 \u00e2\u0088\u0098 C , the vapour pressure of the resulting solution will be",
-      "options": {
-        "A": "1%",
-        "B": "675 mmHg",
-        "C": "750 mmHg",
-        "D": "500 mmHg"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The vapour pressure of water at 20 \u00e2\u0088\u0098 C i s 17.5 mm H g . I f 18 g o f g l u c o s e ( C\u2086 H\u2081\u2082 O\u2086 ) is added to 178. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Moles of glucose = 18 180 = 0.1 Moles of H\u2082 O = 178.2 18 9.9 According to Raoult's law P \u00b0 - P s P \u00b0 = X s o l u t e 17.5 - P S\u2081\u2087.5 = 0.1 10 so, P s = 17 . 325 mm H g </think> **Correct Answer: (A)** **Explanation:** Moles of glucose = 18 180 = 0.1 Moles of H\u2082 O = 178.2 18 9.9 According to Raoult's law P \u00b0 - P s P \u00b0 = X s o l u t e 17.5 - P S\u2081\u2087.5 = 0.1 10 so, P s = 17 . 325 mm H g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "What is the speed of sound in air at room temperature (20\u00b0C), if a tuning fork vibrating with a frequency of 512 Hz is kept close to the open end of a tube filled with water, and the water level in the tube is gradually lowered until the maximum intensity of sound is heard at 17 cm below the open end?",
       "options": {
         "A": "330 m/s",
@@ -1039,21 +769,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Express the following in the scientific notation: (i) 8008 (ii) 500.0 (iii) 6.0012",
-      "options": {
-        "A": "(i) 8",
-        "B": "08 \u00c3\u009710 2 (ii) 5",
-        "C": "00 \u00c3\u0097 10 and (iii) 6",
-        "D": "012%"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Express the following in the scientific notation: (i) 8008 (ii) 500.0 (iii) 6.0012 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) (i) 8.008 \u00c3\u009710 3 (ii) 5.000 \u00c3\u0097 10 2 and (iii) 6.0012 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 8.008 \u00c3\u009710 3 (ii) 5.000 \u00c3\u0097 10 2 and (iii) 6.0012 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "For the equilibrium N\u2082(g) + 3H\u2082(g) \u21cc 2NH\u2083(g), increasing pressure will:",
       "options": {
         "A": "Shift equilibrium to the left",
@@ -1078,21 +793,6 @@
       },
       "answer": "C",
       "solution": "<think> The Van't Hoff factor (i) represents the number of particles a solute produces when it dissolves in a solvent. For ionic compounds, we need to count the total number of ions produced after complete dissociation. K\u2082SO\u2084 is a strong electrolyte that completely dissociates in dilute aqueous solution: K\u2082SO\u2084 \u2192 2K\u207a + SO\u2084\u00b2\u207b Counting the particles: - 1 formula unit of K\u2082SO\u2084 dissociates into - 2 potassium ions (K\u207a) - 1 sulfate ion (SO\u2084\u00b2\u207b) - Total = 3 particles Therefore, i = 3 for K\u2082SO\u2084 in dilute solution. </think> ## Answer: **(C) 3** --- ## Step-by-Step Reasoning **What is Van't Hoff Factor?** The Van't Hoff factor (i) is defined as: i = \\fracNumber of particles after dissociationNumber of formula units dissolved **Dissociation of K\u2082SO\u2084:** In a dilute aqueous solution, K\u2082SO\u2084 (a strong electrolyte) undergoes complete ionization: K_2SO_4 \\arrow 2K^+ + SO_4^2- **Particle Count:** - 1 molecule of K\u2082SO\u2084 produces **3 ions total**: - 2 K\u207a ions - 1 SO\u2084\u00b2\u207b ion Therefore: **i = 3** --- ## Why Other Options Are Wrong | Option | Explanation | |--------|-------------| | **(A) i = 1** | This applies to non-electrolytes (like glucose) that don't dissociate | | **(B) i = 2** | This would be for a binary electrolyte like NaCl (\u2192 Na\u207a + Cl\u207b) | | **(D) i = 4** | Would occur if K\u2082SO\u2084 produced 4 particles, but it only produces 3 | --- ## Key Formula to Remember i = Number of ions produced per formula unit For ionic compounds in dilute solutions (strong electrolytes): - **NaCl**: i = 2 (2 ions) - **CaCl\u2082**: i = 3 (3 ions) - **K\u2082SO\u2084**: i = 3 (3 ions) - **K\u2083PO\u2084**: i = 4 (4 ions)",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the mass of sodium acetate (CH 3 COONa) required to make 500 mL of 0.375 molar aqueous solution? (Molar mass of sodium acetate is 82.0245 g mol \u00e2\u0080\u00931 )",
-      "options": {
-        "A": "1%",
-        "B": "34g",
-        "C": "46g",
-        "D": "38g"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the mass of sodium acetate (CH 3 COONa) required to make 500 mL of 0.375 molar aqueous solution? (Molar mass of Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 15.38g </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 15.38g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -1219,21 +919,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "The Energy needed For Li g \u00e2\u0086\u0092 Li\u2083+ g + 3 e \u00e2\u0088\u0092 is 19600 kJ mole -1 . Li g = \u00e2\u0080\u0089 520 \u00e2\u0080\u0089 kJmole \u00e2\u0088\u0092 1 . Calculate IE 2 For Li g . ionisation energy of H = 13.6 eV",
-      "options": {
-        "A": "7%",
-        "B": "3 eV/species",
-        "C": "30 eV/species",
-        "D": "45 eV/species"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The Energy needed For Li g \u00e2\u0086\u0092 Li\u2083+ g + 3 e \u00e2\u0088\u0092 is 19600 kJ mole -1 . Li g = \u00e2\u0080\u0089 520 \u00e2\u0080\u0089 kJmole \u00e2\u0088\u0092 1 . Calculate IE 2 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Li (g) \u2192 Li + 3 + 3 e - ; IP I + IP II + IP III = 203 \u00b7 1 ev/species Li \u2192 Li + (g) + 1 e - ; 5 \u00b7 4 eV / species IP I Li + (g) \u2192 Li\u2082+ + 1 e - ; IP II = ?? Li + 2 \u2192 Li + 3 (g); IP III = IE Li\u2082+ = 1 3 \u00b7 6 \u00d7 3 2 = 122.4 eV/species </think> **Correct Answer: (A)** **Explanation:** Li (g) \u2192 Li + 3 + 3 e - ; IP I + IP II + IP III = 203 \u00b7 1 ev/species Li \u2192 Li + (g) + 1 e - ; 5 \u00b7 4 eV / species IP I Li + (g) \u2192 Li\u2082+ + 1 e - ; IP II = ?? Li + 2 \u2192 Li + 3 (g); IP III = IE Li\u2082+ = 1 3 \u00b7 6 \u00d7 3 2 = 122.4 eV/species **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "1.0 g of Mg is burnt with 0.28 g of O\u2082 in a closed vessel. Which reactant is left in excess and how much?",
       "options": {
         "A": "Mg,",
@@ -1339,21 +1024,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Which elements are included in the Lanthanoid series?",
-      "options": {
-        "A": "Ce(Z = 5",
-        "B": "\u00e2\u0080\u0093 Lu(Z = 7",
-        "C": "B Th(Z = 9",
-        "D": "\u00e2\u0080\u0093 Lr (Z = 10"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Which elements are included in the Lanthanoid series? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The Lanthanoid series includes elements from Ce (Z = 58) to Lu (Z = 71). </think> **Correct Answer: (A)** **Explanation:** The Lanthanoid series includes elements from Ce (Z = 58) to Lu (Z = 71). **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "In the estimation of sulphur by Carius method, 0.468 g of an organic sulphur compound afforded 0.668 g of barium sulphate. Find out the percentage of sulphur in the given compound.",
       "options": {
         "A": "8%",
@@ -1414,36 +1084,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "What is the magnitude of the magnetic field",
-      "options": {
-        "A": "7 \u00c3\u0097 10 \u00e2\u0080\u00934 T",
-        "B": "at a point 20 cm from a long straight wire carrying a current of 35 (A) (B) 5 \u00c3\u0097 10 \u00e2\u0080\u00935 T",
-        "C": "75 \u00c3\u0097 10 \u00e2\u0080\u00935 T",
-        "D": "5 \u00c3\u0097 10 \u00e2\u0080\u00935 T"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the magnitude of the magnetic field (B) at a point 20 cm from a long straight wire carrying a current of 35 A? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 3.5 \u00c3\u0097 10 \u00e2\u0080\u00935 T </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 3.5 \u00c3\u0097 10 \u00e2\u0080\u00935 T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the emergent speed of the bullet when a police officer fires a 50.0 g bullet with an initial speed of 200 m/s (see Table 5.2) into soft plywood with a thickness of 2.00 cm, and the bullet emerges with only 10% of its initial kinetic energy?",
-      "options": {
-        "A": "50 m/s",
-        "B": "2 m/s",
-        "C": "4 m/s",
-        "D": "6 m/s"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the emergent speed of the bullet when a police officer fires a 50.0 g bullet with an initial speed of 200 m/s (s Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 63.2 m/s </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 63.2 m/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "The oxidation number of phosphorus in H\u2083PO\u2084 is:",
       "options": {
         "A": "+3",
@@ -1474,36 +1114,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Convert the following into basic units: (i) 28.7 pm (ii) 15.15 pm and (iii) 25365 mg",
-      "options": {
-        "A": "(i)",
-        "B": "87\u00c3\u009710 -14 m (ii)",
-        "C": "515\u00c3\u009710 -10 m and (iii)",
-        "D": "5365\u00c3\u009710 -6 kg"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Convert the following into basic units: (i) 28.7 pm (ii) 15.15 pm and (iii) 25365 mg Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) (i) 2.87\u00c3\u009710 -11 m (ii) 1.515\u00c3\u009710 -11 m and (iii) 2.5365\u00c3\u009710 -2 kg </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 2.87\u00c3\u009710 -11 m (ii) 1.515\u00c3\u009710 -11 m and (iii) 2.5365\u00c3\u009710 -2 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the electric field (E) in the outer region of the first plate when two large, thin metal plates are parallel and close to each other, with surface charge densities of opposite signs and of magnitude 17.0 \u00c3\u0097 10^-22 C/m^2 on their inner faces?",
-      "options": {
-        "A": "E = 0",
-        "B": "99 \u00c3\u0097 10^10 N/C",
-        "C": "53 \u00c3\u0097 10^(-1",
-        "D": "N/C"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the electric field (E) in the outer region of the first plate when two large, thin metal plates are parallel and Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) E = 0 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) E = 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "The molality of 15% by wt solution of H\u2082 S O\u2084 is",
       "options": {
         "A": "18%",
@@ -1513,21 +1123,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: The molality of 15% by wt solution of H\u2082 S O\u2084 is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: 15% w / w solution weight of solute = 15 g Weight of solvent = 85 g m = w A \u00c3\u0097 1000 M A \u00c3\u0097 w B = 15 \u00c3\u0097 1000 98 \u00c3\u0097 85 = 1.8 A \u00e2\u0086\u0092 S o l u t e , B \u00e2\u0086\u0092 S o l v e n t </think> **Correct Answer: (A)** **Explanation:** 15% w / w solution weight of solute = 15 g Weight of solvent = 85 g m = w A \u00c3\u0097 1000 M A \u00c3\u0097 w B = 15 \u00c3\u0097 1000 98 \u00c3\u0097 85 = 1.8 A \u00e2\u0086\u0092 S o l u t e , B \u00e2\u0086\u0092 S o l v e n t **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Express the following in the scientific notation: (i) 0.0048 and (ii) 234,000",
-      "options": {
-        "A": "(i)",
-        "B": "34\u00c3\u009710 5 and (ii)",
-        "C": "8\u00c3\u009710 \u00e2\u0080\u00933",
-        "D": "48 and (ii)"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Express the following in the scientific notation: (i) 0.0048 and (ii) 234,000 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) (i) 4.8\u00c3\u009710 \u00e2\u0080\u00933 and (ii) 2.34\u00c3\u009710 5 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) (i) 4.8\u00c3\u009710 \u00e2\u0080\u00933 and (ii) 2.34\u00c3\u009710 5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -1549,21 +1144,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "An electron and a proton are detected in a cosmic ray experiment, the first with kinetic energy 10 keV, and the second with 100 keV. Which is faster, the electron or the proton ? Obtain the ratio of their speeds. (electron mass = 9.11\u00c3\u009710-31 kg, proton mass = 1.67\u00c3\u009710\u00e2\u0080\u009327 kg, 1 eV = 1.60 \u00c3\u009710\u00e2\u0080\u009319 J).",
-      "options": {
-        "A": "1%",
-        "B": "65%",
-        "C": "54%",
-        "D": "55%"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: An electron and a proton are detected in a cosmic ray experiment, the first with kinetic energy 10 keV, and the second w Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 13.54 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 13.54 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Calculate the mass of sodium carbonate required to prepare 500 mL of a semi\u00ad- normal solution",
       "options": {
         "A": "1%",
@@ -1573,21 +1153,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: Calculate the mass of sodium carbonate required to prepare 500 mL of a semi\u00ad- normal solution Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: N \u00e2\u0080\u0084 = \u00e2\u0080\u0084 w \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 1000 eq .wt . \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 volume \u00e2\u0080\u0084 in \u00e2\u0080\u0084 ml . e q . w t . = 106 2 = 53 w \u00e2\u0080\u0084 = \u00e2\u0080\u0084 0 .5 \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 53 \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 500 1000 =13 .25 \u00e2\u0080\u0084 g . </think> **Correct Answer: (A)** **Explanation:** N \u00e2\u0080\u0084 = \u00e2\u0080\u0084 w \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 1000 eq .wt . \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 volume \u00e2\u0080\u0084 in \u00e2\u0080\u0084 ml . e q . w t . = 106 2 = 53 w \u00e2\u0080\u0084 = \u00e2\u0080\u0084 0 .5 \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 53 \u00e2\u0080\u0084 \u00c3\u0097 \u00e2\u0080\u0084 500 1000 =13 .25 \u00e2\u0080\u0084 g . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "The number of iodine atoms present in 1 c m 3 of its 0.1 M solution is",
-      "options": {
-        "A": "1%",
-        "B": "04 \u00c3\u0097 1 0 23",
-        "C": "02 \u00c3\u0097 1 0 22",
-        "D": "04 \u00c3\u0097 1 0 19"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The number of iodine atoms present in 1 c m 3 of its 0.1 M solution is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: 1000 \u00e2\u0080\u0084 cm 3 \u00e2\u0080\u0084 of \u00e2\u0080\u0084 0 .1 \u00e2\u0080\u0084 M \u00e2\u0080\u0084 solution \u00e2\u0089\u00a1 0 .1 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 So\u2081 \u00e2\u0080\u0084 cm 3 \u00e2\u0080\u0084 of \u00e2\u0080\u0084 solution \u00e2\u0080\u0084 \u00e2\u0089\u00a1 \u00e2\u0080\u0084 0.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 Hence 1 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 contains = 6.02 \u00c3\u0097 10 23 \u00e2\u0080\u0084 I\u2082 molecules So\u2080.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 contains = 6.02 \u00c3\u0097 10 23 \u00c3\u0097 0.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 I\u2082 molecules = 12.04 \u00c3\u0097 10 19 \u00e2\u0080\u0084 I\u2082 atoms. </think> **Correct Answer: (A)** **Explanation:** 1000 \u00e2\u0080\u0084 cm 3 \u00e2\u0080\u0084 of \u00e2\u0080\u0084 0 .1 \u00e2\u0080\u0084 M \u00e2\u0080\u0084 solution \u00e2\u0089\u00a1 0 .1 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 So\u2081 \u00e2\u0080\u0084 cm 3 \u00e2\u0080\u0084 of \u00e2\u0080\u0084 solution \u00e2\u0080\u0084 \u00e2\u0089\u00a1 \u00e2\u0080\u0084 0.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 Hence 1 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 contains = 6.02 \u00c3\u0097 10 23 \u00e2\u0080\u0084 I\u2082 molecules So\u2080.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 mol \u00e2\u0080\u0084 I\u2082 contains = 6.02 \u00c3\u0097 10 23 \u00c3\u0097 0.1 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0084 I\u2082 molecules = 12.04 \u00c3\u0097 10 19 \u00e2\u0080\u0084 I\u2082 atoms. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -1774,21 +1339,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "A helicopter of mass 2000 kg rises with a vertical acceleration of 15 m/s\u00b2. The total mass of the crew and passengers is 500 kg. What is the magnitude and direction of the action of the rotor of the helicopter on the surrounding air? (Given g = 10 m/s\u00b2)",
-      "options": {
-        "A": "5 \u00c3\u0097 10 4 N, upward",
-        "B": "25 \u00c3\u0097 10 4 N, downward",
-        "C": "25 \u00c3\u0097 10 4 N, upward",
-        "D": "5 \u00c3\u0097 10 4 N, downward"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: A helicopter of mass 2000 kg rises with a vertical acceleration of 15 m/s\u00b2. The total mass of the crew and passengers i Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 6.25 \u00c3\u0097 10 4 N, upward </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 6.25 \u00c3\u0097 10 4 N, upward **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "What is the osmotic pressure of a 0.0020 mol d m - 3 sucrose ( C\u2081\u2082 H\u2082\u2082 O\u2081\u2081 ) solution at 20 o C ? (Molar gas constant, R = 8.314 J K - 1 m o l - 1 ; 1 d m 3 = 0.001 m 3 )",
       "options": {
         "A": "4872 Pa",
@@ -1813,21 +1363,6 @@
       },
       "answer": "A",
       "solution": "<think> Let me work through this systematically by recalling the definitions and formulas for nodes in atomic orbitals. For a 3s orbital: - Principal quantum number: n = 3 - Azimuthal quantum number: l = 0 (since it's an s orbital) Angular nodes = l (the azimuthal quantum number) Radial nodes = n - l - 1 For 3s orbital: - Angular nodes = l = 0 - Radial nodes = n - l - 1 = 3 - 0 - 1 = 2 So the answer should be 0 angular nodes and 2 radial nodes. </think> ## Answer: **(A) 0 and 2** --- ## Step-by-Step Explanation ### Understanding Nodes Nodes are regions where the probability of finding an electron is **zero**. There are two types: **1) Angular Nodes (Planar Nodes)** - Arise from the angular part of the wave function - **Formula:** Number of angular nodes = **l** (azimuthal quantum number) - These are nodal planes passing through the nucleus **2) Radial Nodes (Spherical Nodes)** - Arise from the radial part of the wave function - **Formula:** Number of radial nodes = **n - l - 1** - These are spherical surfaces concentric with the nucleus --- ## For 3s Orbital Given: 3s orbital means **n = 3** and **l = 0** (s orbitals have l = 0) **Angular nodes** = l = **0** \u2713 - s orbitals have no angular dependence, so no planar nodes **Radial nodes** = n - l - 1 = 3 - 0 - 1 = **2** \u2713 --- ## Why Other Options Are Wrong | Option | Error | |--------|-------| | (B) 1 and 0 | Confuses l and n; radial nodes formula is wrong | | (C) 3 and 0 | Angular nodes = n is incorrect; should equal l | | (D) 0 and 3 | Angular nodes correct, but radial = 3 is wrong | --- ## Key Facts to Remember - **s orbitals** (l = 0): 0 angular nodes, (n-1) radial nodes - 1s: 0 radial nodes - 2s: 1 radial node - 3s: 2 radial nodes \u2190 **This problem** - **p orbitals** (l = 1): 1 angular node, (n-2) radial nodes - **d orbitals** (l = 2): 2 angular nodes, (n-3) radial nodes",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the steady temperature of the heating element using nichrome, connected to a 230 V supply, if it draws an initial current of 3.2 A which settles after a few seconds to a steady value of 2.8 A, and the room temperature is 27.0 \u00b0C? (Given the temperature coefficient of resistance of nichrome averaged over the temperature range involved is 1.70 \u00c3\u0097 10^-4^\\circ C^-1.)",
-      "options": {
-        "A": "101%",
-        "B": "94 \u00b0C",
-        "C": "28 \u00b0C",
-        "D": "00 \u00b0C"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the steady temperature of the heating element using nichrome, connected to a 230 V supply, if it draws an initia Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 867.00 \u00b0C </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 867.00 \u00b0C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -1903,21 +1438,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: Calculate the mass per cent of different elements present in sodium sulphate (Na\u2082 SO 4 ) Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) Mass% of Na is 32.4%, Mass% of S is 22.5%, Mass% of O is 45% </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) Mass% of Na is 32.4%, Mass% of S is 22.5%, Mass% of O is 45% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Calculate (i) molality (ii) molarity and (iii) mole fraction of KI if the density of 20% (mass/mass) aqueous KI is 1.202 g mL -1 .",
-      "options": {
-        "A": "(i)",
-        "B": "5 mol kg \u00e2\u0080\u00931 (ii)",
-        "C": "69 mol L \u00e2\u0080\u00931 and (iii)",
-        "D": "0368%"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Calculate (i) molality (ii) molarity and (iii) mole fraction of KI if the density of 20% (mass/mass) aqueous KI is 1.202 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) (i)\u2081.5 mol kg \u00e2\u0080\u00931 (ii) 1.45 mol L \u00e2\u0080\u00931 and (iii) 0.0263 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i)\u2081.5 mol kg \u00e2\u0080\u00931 (ii) 1.45 mol L \u00e2\u0080\u00931 and (iii) 0.0263 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -2299,21 +1819,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "Consider the following reactions A \u00e2\u0086\u0092 ( i ) C H\u2083 M g B r B \u00e2\u0086\u0092 C u 2- m e t h y l- 2- b u t e n e The mass percentage of carbon in A is",
-      "options": {
-        "A": "3%",
-        "B": "33%",
-        "C": "67%",
-        "D": "66%"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Consider the following reactions A \u00e2\u0086\u0092 ( i ) C H\u2083 M g B r B \u00e2\u0086\u0092 C u 2- m e t h y l- 2- b u t e n e The mass percentage Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: % c a r b o n = A t o m i c m a s s \u00c3\u0097 A t o m i c i t y M o l a r m a s s \u00c3\u0097 100 = 12 \u00c3\u0097 4 72 \u00c3\u0097 100 = 66.66 % </think> **Correct Answer: (A)** **Explanation:** % c a r b o n = A t o m i c m a s s \u00c3\u0097 A t o m i c i t y M o l a r m a s s \u00c3\u0097 100 = 12 \u00c3\u0097 4 72 \u00c3\u0097 100 = 66.66 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "An aqueous solution of 2% non-volatile solute exerts a pressure of 1.004 bar at the normal boiling point of the solvent. What is the molar mass of the solute?",
       "options": {
         "A": "9%",
@@ -2383,21 +1888,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: What is the general outer electronic configuration of s and f block elements? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) ns 1-2 and (n-2)f 1-14 (n-1)d 0-10 ns 2 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) ns 1-2 and (n-2)f 1-14 (n-1)d 0-10 ns 2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "The vapour pressure of water at 20 \u00e2\u0084\u0083 is 17.54 mm Hg. When 20 g of a non-ionic, substance is dissolved in 100 g of water, the vapour pressure is lowered by 0.30 mm Hg. What is the molecular mass of the substance?",
-      "options": {
-        "A": "20%",
-        "B": "8 g/mol",
-        "C": "88 g/mol",
-        "D": "5 g/mol"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The vapour pressure of water at 20 \u00e2\u0084\u0083 is 17.54 mm Hg. When 20 g of a non-ionic, substance is dissolved in 100 g of wate Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: p \u00b0 - p s p \u00b0 = X s o l u t e or p \u00b0 - p s P s = n N \u00e2\u0088\u00b4 0.3 17.24 = 20 M\u2081\u2080\u2080 18 M = m o l a r m a s s o f s o l u t e \u00e2\u0088\u00b4 M = 20 \u00c3\u0097 18 \u00c3\u0097 17.24 0.3 \u00c3\u0097 100 = 206.88 </think> **Correct Answer: (A)** **Explanation:** p \u00b0 - p s p \u00b0 = X s o l u t e or p \u00b0 - p s P s = n N \u00e2\u0088\u00b4 0.3 17.24 = 20 M\u2081\u2080\u2080 18 M = m o l a r m a s s o f s o l u t e \u00e2\u0088\u00b4 M = 20 \u00c3\u0097 18 \u00c3\u0097 17.24 0.3 \u00c3\u0097 100 = 206.88 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -2479,21 +1969,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "The strength of 1 0 - 2 M N a 2 C O\u2083 solution interms of molality will be (density of the solution = 1.10 g m l - 1 ) M . wt Na\u2082 CO 3 = 106",
-      "options": {
-        "A": "9 \u00c3\u0097 1 0 - 3",
-        "B": "15 \u00c3\u0097 1 0 - 2",
-        "C": "1 \u00c3\u0097 1 0 - 3",
-        "D": "2 \u00c3\u0097 1 0 - 3"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The strength of 1 0 - 2 M N a 2 C O\u2083 solution interms of molality will be (density of the solution = 1.10 g m l - 1 ) M Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: m = 17 \u00c3\u0097 1000 ( 1000 \u00c3\u0097 d - 17 \u00c3\u0097 M . W ) m = 1 0 - 2 \u00c3\u0097 1000 1000 \u00c3\u0097 1.1 - 1 0 - 2 \u00c3\u0097 106 = 10 1099.4 = 9 \u00c3\u0097 1 0 - 3 </think> **Correct Answer: (A)** **Explanation:** m = 17 \u00c3\u0097 1000 ( 1000 \u00c3\u0097 d - 17 \u00c3\u0097 M . W ) m = 1 0 - 2 \u00c3\u0097 1000 1000 \u00c3\u0097 1.1 - 1 0 - 2 \u00c3\u0097 106 = 10 1099.4 = 9 \u00c3\u0097 1 0 - 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Nylon 6,6 is formed by the condensation polymerisation of:",
       "options": {
         "A": "Caprolactam",
@@ -2548,36 +2023,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: In the system shown in Fig, consisting of two masses of 5 kg and 3 kg suspended with the help of massless inextensible s Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) T\u2081 = 94.4 N, T\u2082 = 35.4N </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) T\u2081 = 94.4 N, T\u2082 = 35.4N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the net electric flux through a cubic Gaussian surface with an edge length of 9.0 cm, placed at the center of a point charge of 2.0 mC?",
-      "options": {
-        "A": "0 Nm\u00b2/C",
-        "B": "0 \u00c3\u0097 10^5Nm\u00b2/C",
-        "C": "9 \u00c3\u0097 10^5 Nm\u00b2/C",
-        "D": "7 \u00c3\u0097 10^5 Nm\u00b2/C"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the net electric flux through a cubic Gaussian surface with an edge length of 9.0 cm, placed at the center of a Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 1.9 \u00c3\u0097 10^5 Nm\u00b2/C </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1.9 \u00c3\u0097 10^5 Nm\u00b2/C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Phenol associates in Benzene to a certain extent to form dimer. A solution containing 2.0 \u00c3\u0097 1 0 - 2 kg of Phenol in 1.0 \u00e2\u0080\u0089 kg of benzene has its freezing point decreased by 0.69 \u00e2\u0080\u0089 K . The percentage degree of association of Phenol is K f for benzene = 5.12 \u00e2\u0080\u0089 K \u00e2\u0080\u0089 kg mol \u00e2\u0088\u0092 1",
-      "options": {
-        "A": "7%",
-        "B": "4%",
-        "C": "1%",
-        "D": "3%"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Phenol associates in Benzene to a certain extent to form dimer. A solution containing 2.0 \u00c3\u0097 1 0 - 2 kg of Phenol in 1.0 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Weight of Phenol w A = 2 .0 \u00c3\u0097 10 \u00e2\u0088\u0092 2 kg = 20 g Weight of Benzene w B = 1 .0 kg \u00ce\u0094 T i = 0 .69 K \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f K f = 5 .12 K kg mol \u00e2\u0088\u0092 1 \u00ce\u0094 T f = i K f m i = \u00ce\u0094 T f K f m = 0 .69 5 .12 \u00c3\u0097 20 94 = 0 .69 \u00c3\u0097 94 5 .12 \u00c3\u0097 20 , \u00e2\u0080\u0084 \u00e2\u0081\u009f i = 0 .63 2 A \u00e2\u0087\u008c A\u2082 1 - x x / 2 Particle after association i = 1 - x + x / 2 = 1 - x / 2 i = 1 - x / 2 0.63 = 1 - x 2 x \u00e2\u0087\u0092 0.734 i.e., 73. </think> **Correct Answer: (A)** **Explanation:** Weight of Phenol w A = 2 .0 \u00c3\u0097 10 \u00e2\u0088\u0092 2 kg = 20 g Weight of Benzene w B = 1 .0 kg \u00ce\u0094 T i = 0 .69 K \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f \u00e2\u0080\u0084 \u00e2\u0081\u009f K f = 5 .12 K kg mol \u00e2\u0088\u0092 1 \u00ce\u0094 T f = i K f m i = \u00ce\u0094 T f K f m = 0 .69 5 .12 \u00c3\u0097 20 94 = 0 .69 \u00c3\u0097 94 5 .12 \u00c3\u0097 20 , \u00e2\u0080\u0084 \u00e2\u0081\u009f i = 0 .63 2 A \u00e2\u0087\u008c A\u2082 1 - x x / 2 Particle after association i = 1 - x + x / 2 = 1 - x / 2 i = 1 - x / 2 0.63 = 1 - x 2 x \u00e2\u0087\u0092 0.734 i.e., 73.4 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -2659,21 +2104,6 @@
       "chapter": "Some Basic Concepts of Chemistry"
     },
     {
-      "question": "In the x-t plot of a particle's one-dimensional motion (Figure 2.14), three different equal intervals of time are shown. In which interval does the particle have the greatest average speed, and in which interval does it have the least average speed? Additionally, what is the sign of the average velocity for each of these intervals?",
-      "options": {
-        "A": "The greatest average speed is in Interval 3, and the least average speed is in Interval",
-        "B": "The average velocity is positive in Intervals 1 and 2, and negative in Interval",
-        "C": "B The greatest average speed is in Interval 2, and the least average speed is in Interval",
-        "D": "The average velocity is positive in Intervals 2 and 3, and negative in Interval"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: In the x-t plot of a particle's one-dimensional motion (Figure 2.14), three different equal intervals of time are shown. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) The greatest average speed is in Interval 3, and the least average speed is in Interval 2. The average velocity is positive in Intervals 1 and 2, and negative in Interval 3. </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) The greatest average speed is in Interval 3, and the least average speed is in Interval 2. The average velocity is positive in Intervals 1 and 2, and negative in Interval 3. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
       "question": "Which carbocation is most stable?",
       "options": {
         "A": "CH\u2083\u207a",
@@ -2713,36 +2143,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: What is the commercial meaning of a 30% solution of hydrogen peroxide? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: A\u2083\u2080% solution of hydrogen peroxide contains 3% H\u2082 O\u2082. </think> **Correct Answer: (A)** **Explanation:** A\u2083\u2080% solution of hydrogen peroxide contains 3% H\u2082 O\u2082. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "Question: In a uniform electric field E = 3 \u00c3\u0097 10^3 \u00c3\u00ae N/C, what is the net flux through a cube of side 20 cm oriented so that its faces are parallel to the coordinate planes?",
-      "options": {
-        "A": "0%",
-        "B": "0 \u00c3\u0097 10^2Nm^2/C",
-        "C": "2 \u00c3\u0097 10^3 Nm^2/C",
-        "D": "5 \u00c3\u0097 10^3 Nm^2/C"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: Question: In a uniform electric field E = 3 \u00c3\u0097 10^3 \u00c3\u00ae N/C, what is the net flux through a cube of side 20 cm or Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) 0 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Some Basic Concepts of Chemistry"
-    },
-    {
-      "question": "What is the capacitance of a parallel plate capacitor with an area of 6 \u00c3\u0097 10^-3m^2 and a distance between the plates of 3 mm, when air is the dielectric?",
-      "options": {
-        "A": "18 pF",
-        "B": "4 pF",
-        "C": "2 pF",
-        "D": "02 pF"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the capacitance of a parallel plate capacitor with an area of 6 \u00c3\u0097 10^-3m^2 and a distance between Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) 18 pF </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) 18 pF **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",

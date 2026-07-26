@@ -1,38 +1,8 @@
 {
   "subject": "Physics",
   "chapter": "Mechanical Properties of Solids and Fluids",
-  "total_questions": 15,
+  "total_questions": 8,
   "questions": [
-    {
-      "question": "An earthen pitcher loses 1 g of water per minute due to evaporation. If the water \u2261alent of the pitcher is 0.5 kg and the pitcher contains 9.5 \u00e2\u0080\u0089kg of water, then calculate the time required for the water in pitcher to cool to 28 \u00b0 C from its original temperature of 30 \u00b0 C . Neglect the effect of radiation. Latent heat of vaporization of water in this range of temperature is 580 \u00e2\u0080\u0089 \u00e2\u0080\u0089 cal/g and specific heat of water is 1 c a l / g / \u00b0 C .",
-      "options": {
-        "A": "3%",
-        "B": "5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min",
-        "C": "2 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min",
-        "D": "6 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: An earthen pitcher loses 1 g of water per minute due to evaporation. If the water \u2261alent of the pitcher is 0.5 kg an Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Heat lost by (Water + Pitcher) Q\u2081 = m + M \u00c3\u0097 s \u00c3\u0097 \u00e2\u0088\u0086 T = 9.5 + 0.5 \u00c3\u0097 10 3 \u00c3\u0097 30 - 28 = 20 \u00c3\u0097 10 3 c a l Heat gained for the water to evaporate: (Let t be time in min ) Q\u2082 = m \u00c3\u0097 L = d m d t \u00c3\u0097 t L = 1 \u00c3\u0097 t \u00c3\u0097 580 = 580 t c a l So, Q\u2081 = Q\u2082 580 t = 20 \u00c3\u0097 10 3 t = 20000 580 = 34.5 m i n </think> **Correct Answer: (A)** **Explanation:** Heat lost by (Water + Pitcher) Q\u2081 = m + M \u00c3\u0097 s \u00c3\u0097 \u00e2\u0088\u0086 T = 9.5 + 0.5 \u00c3\u0097 10 3 \u00c3\u0097 30 - 28 = 20 \u00c3\u0097 10 3 c a l Heat gained for the water to evaporate: (Let t be time in min ) Q\u2082 = m \u00c3\u0097 L = d m d t \u00c3\u0097 t L = 1 \u00c3\u0097 t \u00c3\u0097 580 = 580 t c a l So, Q\u2081 = Q\u2082 580 t = 20 \u00c3\u0097 10 3 t = 20000 580 = 34.5 m i n **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "The pressure of a medium is changed from 1.01 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a to 1.165 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a and change in volume is 10 % keeping temperature constant.The bulk modulus of the medium is",
-      "options": {
-        "A": "20%",
-        "B": "8 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a",
-        "C": "4 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a",
-        "D": "2 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The pressure of a medium is changed from 1.01 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a to 1.165 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a and change in volume is 10 % keep Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: From the definition of bulk modulus, \u00ce\u00b2 = \u00e2\u0088\u0092 \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V / V = \u00e2\u0088\u0092 V \u00e2\u008b \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V Substituting the values, we have \u00ce\u00b2 = \u00e2\u0088\u0092 ( 1.165 \u00e2\u0088\u0092 1.01 ) \u00c3\u0097 10 5 \u00e2\u0088\u0092 10 \u00c3\u0097 100 = 1.55 \u00c3\u0097 10 5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Pa </think> **Correct Answer: (A)** **Explanation:** From the definition of bulk modulus, \u00ce\u00b2 = \u00e2\u0088\u0092 \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V / V = \u00e2\u0088\u0092 V \u00e2\u008b \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V Substituting the values, we have \u00ce\u00b2 = \u00e2\u0088\u0092 ( 1.165 \u00e2\u0088\u0092 1.01 ) \u00c3\u0097 10 5 \u00e2\u0088\u0092 10 \u00c3\u0097 100 = 1.55 \u00c3\u0097 10 5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Pa **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
     {
       "question": "A short bar magnet of magnetic moment 0.4 J T^-1 is place in a uniform magnetic field of 0.16 T. The magnet is stable equilibrium when the potential energy is",
       "options": {
@@ -64,36 +34,6 @@
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "The work done in blowing a soap bubble of 10 cm radius is ( surface tension of the soap solution is 3 100 N m - 1 \u00e2\u0080\u008b )",
-      "options": {
-        "A": "7%",
-        "B": "36 \u00d7 10 - 4 J \u2061",
-        "C": "68 \u00d7 10 - 4 J \u2061",
-        "D": "72 \u00d7 10 - 4 J \u2061"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The work done in blowing a soap bubble of 10 cm radius is ( surface tension of the soap solution is 3 100 N m - 1 \u00e2\u0080\u008b ) Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: W \u2061 = 8 \u03c0 R \u2061 2 T \u2061 = 8 \u03c0 10 \u00d7 10 - 2 2 3 1 0 0 = 75.36 \u00d7 10 - 4 J </think> **Correct Answer: (A)** **Explanation:** W \u2061 = 8 \u03c0 R \u2061 2 T \u2061 = 8 \u03c0 10 \u00d7 10 - 2 2 3 1 0 0 = 75.36 \u00d7 10 - 4 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "At a certain place, the angle of dip is 60 \u00b0 and the horizontal component of the earth's magnetic field B H is 0 .8 \u00c3\u0097 10 - 4 T . The earth's overall magnetic field is",
-      "options": {
-        "A": "1 .5 \u00d7 10 - 4 T",
-        "B": "6 \u00d7 10 - 3 T",
-        "C": "5 \u00d7 10 - 3 T",
-        "D": "6 \u00d7 10 - 4 T"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: At a certain place, the angle of dip is 60 \u00b0 and the horizontal component of the earth's magnetic field B H is 0 .8 \u00c3\u0097 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, B H = 0.8 \u00d7 10 - 4 T \u03b8 = 60 o B e = ? We know that, B H = B e cos \u2061 \u03b8 0.8 \u00d7 10 - 4 = B e cos \u2061 60 o B e = 0.8 \u00d7 10 - 4 1 2 = 1 .6 \u00d7 10 - 4 T </think> **Correct Answer: (A)** **Explanation:** Given, B H = 0.8 \u00d7 10 - 4 T \u03b8 = 60 o B e = ? We know that, B H = B e cos \u2061 \u03b8 0.8 \u00d7 10 - 4 = B e cos \u2061 60 o B e = 0.8 \u00d7 10 - 4 1 2 = 1 .6 \u00d7 10 - 4 T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
       "question": "A magnetic needle free to rotate in a vertical plane parallel to the magnetic meridian has its north tip pointing down at 22 0 with the horizontal. The horizontal component of the earth's magnetic field at the place is known to be 0 .35 G . Determine the magnitude of the earth's magnetic field at the place. cos 22 \u00b0 = 0.9272",
       "options": {
         "A": "0 .38 G",
@@ -103,21 +43,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: A magnetic needle free to rotate in a vertical plane parallel to the magnetic meridian has its north tip pointing down a Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, angle of dip \u00ce\u00b4 = 2 2 o Horizontal component of the earth's magnetic field H = 0 .35 G Let the magnitude of the earth's magnetic field at the place is R . Using the formula, H = R cos \u00ce\u00b4 or R = H cos \u00ce\u00b4 = 0 . 3 5 cos 2 2 o = 0 . 3 5 0 . 9 2 7 2 = 0 . 3 8 G Thus, the value of the earth's magnetic field at that place is 0 .38 G . </think> **Correct Answer: (A)** **Explanation:** Given, angle of dip \u00ce\u00b4 = 2 2 o Horizontal component of the earth's magnetic field H = 0 .35 G Let the magnitude of the earth's magnetic field at the place is R . Using the formula, H = R cos \u00ce\u00b4 or R = H cos \u00ce\u00b4 = 0 . 3 5 cos 2 2 o = 0 . 3 5 0 . 9 2 7 2 = 0 . 3 8 G Thus, the value of the earth's magnetic field at that place is 0 .38 G . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "A raindrop of radius 0.3 mm has a terminal velocity in air = 1 m s - 1 . The viscous force on it is (Given the viscosity of the air is 18 \u00c3\u0097 10 - 5 g cm - 1 s - 1 )",
-      "options": {
-        "A": "10%",
-        "B": "73 \u00c3\u0097 10 - 4 d y n e",
-        "C": "73 \u00c3\u0097 10 - 5 d y n e",
-        "D": "95 \u00c3\u0097 10 - 4 d y n e"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: A raindrop of radius 0.3 mm has a terminal velocity in air = 1 m s - 1 . The viscous force on it is (Given the viscosity Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: F = 6 \u00cf\u0080 \u00ce\u00b7 r v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 d y n e </think> **Correct Answer: (A)** **Explanation:** F = 6 \u00cf\u0080 \u00ce\u00b7 r v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 d y n e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -169,21 +94,6 @@
       "chapter": "Mechanical Properties of Solids and Fluids"
     },
     {
-      "question": "A sample of 0.1 g of water at 100 o C and normal pressure 1.013 \u00d7 10 5 N m - 2 requires 54 cal of heat energy to convert to steam at 100 o C . If the volume of the steam produced is 167.1 cc, the change in internal energy of the sample, is",
-      "options": {
-        "A": "4%",
-        "B": "2 J",
-        "C": "7 \u00e2\u0080\u0089 \u00e2\u0080\u0089 J",
-        "D": "3 J"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: A sample of 0.1 g of water at 100 o C and normal pressure 1.013 \u00d7 10 5 N m - 2 requires 54 cal of heat energy to convert Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The values are given in the above question, \u2206 Q = 54 c a l = 54 \u00d7 4.18 j o u l e = 225.72 j o u l e \u2206 W = P V s t e a m - V w a t e r F o r w a t e r 0.1 g r a m = 0.1 c c \u2206 W = 1.013 \u00d7 10 5 167.1 \u00d7 10 - 6 - 0.1 \u00d7 10 - 6 j o u l e \u21d2 \u2206 W = 1.013 \u00d7 167 \u00d7 10 - 1 = 16.917 j o u l e . By first law of thermodynamics, the change in internal energy, \u21d2 \u2206 U = \u2206 Q - \u2206 W = 225 .72 - 16 .917 = 208 .8 J </think> **Correct Answer: (A)** **Explanation:** The values are given in the above question, \u2206 Q = 54 c a l = 54 \u00d7 4.18 j o u l e = 225.72 j o u l e \u2206 W = P V s t e a m - V w a t e r F o r w a t e r 0.1 g r a m = 0.1 c c \u2206 W = 1.013 \u00d7 10 5 167.1 \u00d7 10 - 6 - 0.1 \u00d7 10 - 6 j o u l e \u21d2 \u2206 W = 1.013 \u00d7 167 \u00d7 10 - 1 = 16.917 j o u l e . By first law of thermodynamics, the change in internal energy, \u21d2 \u2206 U = \u2206 Q - \u2206 W = 225 .72 - 16 .917 = 208 .8 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
       "question": "A cubical block of side 0.5 m floats on water with 30 % of its volume under water. What is the maximum weight that can be put on the block without fully submerging it under water? [Take, density of water = 10 3 k g / m 3 ]",
       "options": {
         "A": "8%",
@@ -208,21 +118,6 @@
       },
       "answer": "A",
       "solution": "<think> The question asks about: A clock which keeps correct time at 25 \u00b0 C , has a pendulum made of brass. The coefficient of linear expansion for bras Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Let L\u2080 and L\u2082\u2085 be the length of pendulum at 0 \u00b0 C and 25 \u00b0 C respectively. We know that, L\u2082\u2085 = L\u2080 1 + \u03b1T = L\u2080 1 + 0.000019 \u00d7 25 = 1.000475 L\u2080 \u21d2 \u0394L = L\u2082\u2085 \u2212 L\u2080 = 0 .000475 L\u2080 Also , T = 2 \u03c0 L g From method of errors \u21d2 \u0394T T = 1 2 \u0394L L here , \u0394T = gain in time T = Total time of day = 24 \u00d7 60 \u00d7 60 sec \u21d2 \u0394T = 1 2 \u00d7 0.000475 L\u2080 L\u2080 \u00d7 24 \u00d7 60 \u00d7 60 sec \u21d2 \u0394T = 20 .52 sec </think> **Correct Answer: (A)** **Explanation:** Let L\u2080 and L\u2082\u2085 be the length of pendulum at 0 \u00b0 C and 25 \u00b0 C respectively. We know that, L\u2082\u2085 = L\u2080 1 + \u03b1T = L\u2080 1 + 0.000019 \u00d7 25 = 1.000475 L\u2080 \u21d2 \u0394L = L\u2082\u2085 \u2212 L\u2080 = 0 .000475 L\u2080 Also , T = 2 \u03c0 L g From method of errors \u21d2 \u0394T T = 1 2 \u0394L L here , \u0394T = gain in time T = Total time of day = 24 \u00d7 60 \u00d7 60 sec \u21d2 \u0394T = 1 2 \u00d7 0.000475 L\u2080 L\u2080 \u00d7 24 \u00d7 60 \u00d7 60 sec \u21d2 \u0394T = 20 .52 sec **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Mechanical Properties of Solids and Fluids"
-    },
-    {
-      "question": "The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u00e2\u0081\u00a1 1 9 \u00b0 C and 28 \u00b0 C respectively. The temperature when A and B are mixed is 16 \u00b0 C and when B and C are mixed it is 23 \u00b0 C . The temperature when A and C are mixed will be",
-      "options": {
-        "A": "15 \u00b0",
-        "B": "2 \u00b0",
-        "C": "25 \u00b0",
-        "D": "5 \u00b0"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u00e2\u0081\u00a1 1 9 \u00b0 C and 28 \u00b0 C respectiv Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C\u2082\u2088 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C </think> **Correct Answer: (A)** **Explanation:** when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C\u2082\u2088 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",

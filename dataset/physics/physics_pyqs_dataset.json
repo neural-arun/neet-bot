@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "total_chapters": 20,
-  "total_questions": 128,
+  "total_questions": 103,
   "chapters": {
     "Units and Measurements": [
       {
@@ -14,21 +14,6 @@
         },
         "answer": "B",
         "solution": "<think> This is a straightforward application of Carnot engine efficiency formula. I need to: 1. Identify the given temperatures 2. Convert to absolute scale (Kelvin) 3. Apply the Carnot efficiency formula 4. Calculate the percentage Given: - Source temperature (hot reservoir): T\u2081 = 227\u00b0C - Sink temperature (cold reservoir): T\u2082 = 27\u00b0C Key point: The efficiency formula requires absolute temperatures in Kelvin, NOT Celsius. </think> ## Correct Answer: **(B) 50%** --- ## Step-by-Step Solution: **Step 1: Convert temperatures to Kelvin** - T\u2081 (source) = 227 + 273 = **500 K** - T\u2082 (sink) = 27 + 273 = **300 K** **Step 2: Apply Carnot Engine Efficiency Formula** For a Carnot engine operating between two temperature reservoirs: \\eta = 1 - \\fracT_2T_1 where: - \u03b7 = efficiency - T\u2081 = absolute temperature of hot reservoir - T\u2082 = absolute temperature of cold reservoir **Step 3: Calculate** \\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080 \\eta = 1 - 0.6 = 0.4 \\eta = 40\\% Wait, let me recalculate: \\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080 = 1 - \\frac\u2083\u2085 = \\frac\u2082\u2085 = 0.4 = 40\\% Actually, this gives 40%. Let me verify the temperatures again: - T\u2081 = 227 + 273 = 500 K \u2713 - T\u2082 = 27 + 273 = 300 K \u2713 - \u03b7 = 1 - (300/500) = 1 - 0.6 = **0.4 = 40%** The answer should be **(A) 40%**, not 50%. --- ## Key Concept: The **Carnot efficiency** represents the maximum theoretical efficiency any heat engine can achieve between two given temperatures. It depends **only on the temperature ratio**, not on the design of the engine. **Critical Point:** Always convert to Kelvin! Using Celsius directly would give wrong results. **The answer is (A) 40%**",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Units and Measurements"
-      },
-      {
-        "question": "The ionisation energy of 10 time ionised sodium atom is",
-        "options": {
-          "A": "1%",
-          "B": "6 11 e V",
-          "C": "6 112 e V",
-          "D": "6 \u00c3\u0097 11 2 e V"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The ionisation energy of 10 time ionised sodium atom is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The energy of n th orbit of a hydrogen-like atom is, E n = - 13.6 Z\u2082 n 2 Here, Z = 11 for Na atom. 10 electrons are removed already. For the last electron to be removed n = 1 . \u2234 E n = - 13.6 \u00d7 ( 11 ) 2 ( 1 ) 2 e V = - 13.6 \u00d7 ( 11 ) 2 eV </think> **Correct Answer: (A)** **Explanation:** The energy of n th orbit of a hydrogen-like atom is, E n = - 13.6 Z\u2082 n 2 Here, Z = 11 for Na atom. 10 electrons are removed already. For the last electron to be removed n = 1 . \u2234 E n = - 13.6 \u00d7 ( 11 ) 2 ( 1 ) 2 e V = - 13.6 \u00d7 ( 11 ) 2 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -74,21 +59,6 @@
         },
         "answer": "C",
         "solution": "<think> Let me analyze this photoelectric effect problem step by step. Given: - Initial frequency: f\u2081 = 1.5f\u2080 (where f\u2080 is threshold frequency) - New frequency: f\u2082 = f\u2081/2 = 1.5f\u2080/2 = 0.75f\u2080 - Intensity is doubled Key concept: Photoelectric current depends on: 1. Number of photoelectrons emitted (depends on intensity) 2. Whether photoelectrons are emitted at all (depends on frequency >= f\u2080) Let me check if photoemission occurs in both cases: Initial case: - f\u2081 = 1.5f\u2080 > f\u2080 \u2713 Photoelectric effect occurs - Kinetic energy: KE\u2081 = hf\u2081 - hf\u2080 = h(1.5f\u2080) - hf\u2080 = 0.5hf\u2080 New case: - f\u2082 = 0.75f\u2080 < f\u2080 \u2717 No photoelectric effect! Since the new frequency (0.75f\u2080) is LESS than the threshold frequency (f\u2080), no photoelectrons will be emitted at all, regardless of how much we increase the intensity. Photoelectric current = 0 </think> ## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f >= f\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\u2081 = 1.5f\u2080 - Since 1.5f\u2080 > f\u2080 \u2192 **Photoelectric effect occurs** \u2713 - Photoelectrons are emitted **New Situation:** - Frequency: f\u2082 = f\u2081/2 = (1.5f\u2080)/2 = **0.75f\u2080** - Since 0.75f\u2080 < f\u2080 \u2192 **Photoelectric effect DOES NOT occur** \u2717 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** KE_max = hf - hf_0 = h(f - f_0) - If f < f\u2080 \u2192 **No emission** (current = 0) - If f >= f\u2080 \u2192 Emission occurs (current \u221d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Units and Measurements"
-      },
-      {
-        "question": "A body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
-        "options": {
-          "A": "I\u03c9",
-          "B": "\u00bdI\u03c9\u00b2",
-          "C": "I\u03c9\u00b2",
-          "D": "\u00bdI\u03c9"
-        },
-        "answer": "B",
-        "solution": "<think> This is a straightforward question about rotational kinetic energy - a fundamental concept in rotational motion that appears frequently in NEET. I need to recall the formula for rotational kinetic energy and relate it to the linear kinetic energy formula the student already knows. For linear motion: KE = \u00bdmv\u00b2 For rotational motion: We replace mass (m) with moment of inertia (I) and linear velocity (v) with angular velocity (\u03c9) Therefore: Rotational KE = \u00bdI\u03c9\u00b2 This is the rotational analogy of translational kinetic energy. </think> ## **Correct Answer: (B) \u00bdI\u03c9\u00b2** --- ## **Step-by-Step Reasoning:** ### **The Rotational Kinetic Energy Formula** Just as translational kinetic energy is **KE = \u00bdmv\u00b2**, rotational kinetic energy follows an analogous form: \\boxedKE_rot = \\frac\u2081\u2082I\\omega^2 Where: - **I** = moment of inertia (rotational analog of mass) - **\u03c9** = angular velocity (rotational analog of linear velocity) --- ## **Why This Makes Sense - The Analogy:** | Linear Motion | Rotational Motion | |---|---| | Kinetic Energy = \u00bdm**v\u00b2** | Kinetic Energy = \u00bdI**\u03c9\u00b2** | | Mass (m) | Moment of Inertia (I) | | Velocity (v) | Angular Velocity (\u03c9) | The **factor of \u00bd** appears in both because kinetic energy depends on velocity squared, and we need this factor to get the correct energy relationship. --- ## **Why Other Options Are Wrong:** - **(A) I\u03c9** - Missing the \u00bd factor and \u03c9 should be squared - **(C) I\u03c9\u00b2** - Correct form but missing the crucial \u00bd factor (this is a common trap!) - **(D) \u00bdI\u03c9** - Has \u00bd but \u03c9 is not squared; this would be dimensionally incorrect for energy --- ## **Key Point to Remember:** \u2713 The factor of **\u00bd** is essential - don't drop it! \u2713 Angular velocity must be **squared** \u2713 This formula is derived from \u222b\u03c9\u00b7L\u00b7dt where L is angular momentum **This concept is fundamental for rotational dynamics problems in NEET!**",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -299,21 +269,6 @@
         },
         "answer": "C",
         "solution": "<think> This is a standard question about energy stored in a parallel plate capacitor. I need to derive or recall the energy formula and match it with the given options. The energy stored in a capacitor can be expressed in multiple ways: 1. U = (1/2)CV\u00b2 2. U = (1/2)QV 3. U = (1/2)\u03b5\u2080E\u00b2(Ad) Let me derive the correct formula using the electric field approach: For a parallel plate capacitor: - Electric field: E = V/d (where V is voltage, d is plate separation) - Capacitance: C = \u03b5\u2080A/d - Energy: U = (1/2)CV\u00b2 Substituting V = Ed: U = (1/2) \u00d7 (\u03b5\u2080A/d) \u00d7 (Ed)\u00b2 U = (1/2) \u00d7 (\u03b5\u2080A/d) \u00d7 E\u00b2d\u00b2 U = (1/2) \u00d7 \u03b5\u2080A \u00d7 E\u00b2 \u00d7 d U = (1/2)\u03b5\u2080E\u00b2Ad So the answer should have the factor of 1/2, \u03b5\u2080, E\u00b2, A, and d. Looking at the options: (A) \u03b5\u2080E\u00b2Ad - missing the 1/2 factor (B) E\u00b2Ad/\u03b5\u2080 - wrong, has \u03b5\u2080 in denominator (C) (1/2)\u03b5\u2080E\u00b2Ad - THIS IS CORRECT (D) \u03b5\u2080EAd - missing E\u00b2 term </think> # Energy Stored in a Parallel Plate Capacitor ## **Correct Answer: (C) 0.5 \u00d7 \u03b5\u2080 \u00d7 E\u00b2 \u00d7 A \u00d7 d** --- ## Step-by-Step Derivation **Starting with the basic energy formula:** U = \\frac\u2081\u2082CV^2 **For a parallel plate capacitor:** - Capacitance: C = \\frac\\varepsilon_0 Ad - Voltage-field relationship: V = Ed **Substituting into the energy formula:** U = \\frac\u2081\u2082 \u00d7 \\frac\\varepsilon_0 Ad \u00d7 (Ed)^2 U = \\frac\u2081\u2082 \u00d7 \\frac\\varepsilon_0 Ad \u00d7 E^2d^2 U = \\frac\u2081\u2082\\varepsilon_0 E^2 A d --- ## Key Concept: Energy Density An alternative and useful way to remember this: **Energy density** (energy per unit volume): u = \\frac\u2081\u2082\\varepsilon_0 E^2 Total energy = Energy density \u00d7 Volume: U = u \u00d7 (Ad) = \\frac\u2081\u2082\\varepsilon_0 E^2 \u00d7 Ad --- ## Why Other Options Are Wrong | Option | Issue | |--------|-------| | **(A)** | Missing the crucial **1/2 factor** | | **(B)** | \u03b5\u2080 is in the **denominator** (wrong dimensionally) | | **(D)** | Has only **E**, not **E\u00b2** (dimensionally incorrect) | --- ## \ud83d\udccc **Remember for NEET Exams** The energy stored in ANY capacitor always has a **1/2 factor**. This is fundamental and appears across: - Parallel plate capacitors - Spherical capacitors - Cylindrical capacitors **Alternative formula to verify:** U = \\frac\u2081\u2082QV = \\fracQ^22C",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Units and Measurements"
-      },
-      {
-        "question": "The binding energies per nucleon for deuteron ( H\u2082 1 ) and helium ( He\u2084 2 ) are 1 . 1 MeV and 7 . 0 MeV respectively. The energy released when two deuterons fuse to form a helium nucleus ( He\u2084 2 ) is",
-        "options": {
-          "A": "2%",
-          "B": "6 \u00e2\u0080\u0089 MeV",
-          "C": "3 MeV",
-          "D": "4 MeV"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The binding energies per nucleon for deuteron ( H\u2082 1 ) and helium ( He\u2084 2 ) are 1 . 1 MeV and 7 . 0 MeV respectively. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 + \u00e2\u0080\u0089\u00e2\u0080\u0089 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00e2\u0086\u0092 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 4 He The binding energy of two deuterons = 2 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 [ 1 .1 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 ] \u00e2\u0080\u0089\u00e2\u0080\u0089 = \u00e2\u0080\u0089\u00e2\u0080\u0089 4 .4 \u00e2\u0080\u0089 MeV The binding energy of one helium nucleus = 4 \u00c3\u0097 7 = 28 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV \u00e2\u0088\u00b4 the total energy released when two deuterons fuse to form a helium nucleus = 28 \u00e2\u0088\u0092 4 .4 = 23 .6 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV </think> **Correct Answer: (A)** **Explanation:** 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 + \u00e2\u0080\u0089\u00e2\u0080\u0089 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00e2\u0086\u0092 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 4 He The binding energy of two deuterons = 2 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 [ 1 .1 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 ] \u00e2\u0080\u0089\u00e2\u0080\u0089 = \u00e2\u0080\u0089\u00e2\u0080\u0089 4 .4 \u00e2\u0080\u0089 MeV The binding energy of one helium nucleus = 4 \u00c3\u0097 7 = 28 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV \u00e2\u0088\u00b4 the total energy released when two deuterons fuse to form a helium nucleus = 28 \u00e2\u0088\u0092 4 .4 = 23 .6 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -659,21 +614,6 @@
         },
         "answer": "A",
         "solution": "<think> Let me work through this energy problem step by step. Given: - Mass (m) = 1 kg - Initial velocity (u) = 20 m/s - Height reached (h) = 18 m - g = 10 m/s\u00b2 - Final velocity (v) = 0 (comes to rest) I need to find the energy lost due to air friction. The body is thrown upward, so I'll use energy conservation with friction losses. Initial kinetic energy = (1/2)mu\u00b2 = (1/2)(1)(20)\u00b2 = 200 J At maximum height (18 m), the body is at rest: - Final kinetic energy = 0 - Potential energy gained = mgh = (1)(10)(18) = 180 J By energy conservation: Initial KE = Final PE + Energy lost to friction 200 = 180 + Energy lost Energy lost = 200 - 180 = 20 J </think> # Answer: **(A) 20 J** ## Step-by-Step Solution **Given Information:** - Mass = 1 kg - Initial velocity = 20 m/s (upward) - Height reached = 18 m - g = 10 m/s\u00b2 **Step 1: Calculate Initial Kinetic Energy** KE_i = \\frac\u2081\u2082mu^2 = \\frac\u2081\u2082(1)(20)^2 = 200 J **Step 2: Calculate Final Potential Energy** When the body comes to rest at height h = 18 m: PE_f = mgh = (1)(10)(18) = 180 J **Step 3: Apply Energy Conservation with Friction** Initial KE = Final PE + Energy lost to friction 200 = 180 + E_friction E_friction = 20 J ## Key Concept Without air friction, a body thrown upward with 20 m/s would reach: h = \\fracu^22g = \\frac\u2084\u2080\u2080\u2082\u2080 = 20 m But it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated. ## Why Other Options Are Wrong - **(B) 30 J**: Would give h = 17 m - **(C) 40 J**: Would give h = 16 m - **(D) 10 J**: Would give h = 18.5 m **Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Units and Measurements"
-      },
-      {
-        "question": "When the hydrogen spectral lines in the Lyman series are shifted to the Deuterium spectrum, what is the change in the wavelengths of the first four lines, given that the original wavelengths are 1218 \u00c3 , 1028 \u00c3 , 974.3 \u00c3 , and 951.4 \u00c3 ?",
-        "options": {
-          "A": "121%",
-          "B": "3 \u00c3 , 102",
-          "C": "3 \u00c3 , 97",
-          "D": "4 \u00c3 , 95"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: When the hydrogen spectral lines in the Lyman series are shifted to the Deuterium spectrum, what is the change in the wa Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 1217.7 \u00c3 , 1027.7 \u00c3 , 974.04 \u00c3 , 951.143 \u00c3 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1217.7 \u00c3 , 1027.7 \u00c3 , 974.04 \u00c3 , 951.143 \u00c3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -1040,21 +980,6 @@
         "chapter": "Units and Measurements"
       },
       {
-        "question": "What is the ground state energy of positronium, a system similar to a hydrogen atom with the proton replaced by a positively charged anti-particle of the electron (positron), knowing that it is \u00e2\u0080\u0093 6.8 eV?",
-        "options": {
-          "A": "\u00e2\u0080\u0093 1",
-          "B": "6 eV",
-          "C": "8 eV",
-          "D": "4 eV"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: What is the ground state energy of positronium, a system similar to a hydrogen atom with the proton replaced by a positi Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) \u00e2\u0080\u0093 6.8 eV </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) \u00e2\u0080\u0093 6.8 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Units and Measurements"
-      },
-      {
         "question": "A body cools from 80\u00b0C to 60\u00b0C in 5 minutes. Surrounding temperature is 20\u00b0C. Time to cool from 60\u00b0C to 40\u00b0C is approximately:",
         "options": {
           "A": "5 minutes",
@@ -1207,21 +1132,6 @@
         "chapter": "Motion in a Straight Line"
       },
       {
-        "question": "A projectile is thrown with velocity u = 20 m / s \u00b1 5 % at an angle 60 o . If the projectile comes back on the ground at the same level then which of following cannot be a possible answer for range. Consider g = 10 \u00e2\u0080\u0084 m/s 2",
-        "options": {
-          "A": "3%",
-          "B": "6 m",
-          "C": "5 m",
-          "D": "0 m"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: A projectile is thrown with velocity u = 20 m / s \u00b1 5 % at an angle 60 o . If the projectile comes back on the ground a Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: R a n g e o f p r o j e c t i l e R = u 2 s i n 2 \u00ce\u00b8 g for \u00e2\u0081\u009f \u00ce\u00b8 = 60 o , R = 20 2 sin 120 o g = 20 3 = 34.64 \u00e2\u0080\u0084 m f o r % e r r o r \u00e2\u0088\u0086 R R = 2 \u00e2\u0088\u0086 u u \u00ce\u0094R = 2 \u00c3\u0097 5 100 \u00c3\u0097 20 3 = 2 3 = 3.464 \u00e2\u0080\u0084 m So, range R = 34.64 \u00b1 3.46 \u00e2\u0080\u0084 m R min = 31.1 m and R max 38.1 \u00e2\u0080\u0084 m </think> **Correct Answer: (A)** **Explanation:** R a n g e o f p r o j e c t i l e R = u 2 s i n 2 \u00ce\u00b8 g for \u00e2\u0081\u009f \u00ce\u00b8 = 60 o , R = 20 2 sin 120 o g = 20 3 = 34.64 \u00e2\u0080\u0084 m f o r % e r r o r \u00e2\u0088\u0086 R R = 2 \u00e2\u0088\u0086 u u \u00ce\u0094R = 2 \u00c3\u0097 5 100 \u00c3\u0097 20 3 = 2 3 = 3.464 \u00e2\u0080\u0084 m So, range R = 34.64 \u00b1 3.46 \u00e2\u0080\u0084 m R min = 31.1 m and R max 38.1 \u00e2\u0080\u0084 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Motion in a Straight Line"
-      },
-      {
         "question": "A solid cylinder of mass 20 kg rotates about its axis with the angular speed 100 rad s - 1 . The radius of the cylinder is 0 . 25 m . What is the magnitude of angular momentum of the cylinder about its axis?",
         "options": {
           "A": "6%",
@@ -1273,21 +1183,6 @@
         "chapter": "Gravitation"
       },
       {
-        "question": "Two bodies of masses 10 k g and 100 k g are separated by a distance of 2 m . The gravitational potential at the mid-point of the line joining the two bodies is:",
-        "options": {
-          "A": "-",
-          "B": "3 \u00c3\u0097 10 - 7 J / k g",
-          "C": "3 \u00c3\u0097 10 - 8 J / k g",
-          "D": "3 \u00c3\u0097 10 - 9 J / k g"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: Two bodies of masses 10 k g and 100 k g are separated by a distance of 2 m . The gravitational potential at the mid-poin Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: As we know, gravitational potential V = - G M R Gravitational potential at mid point, = - G \u00c3\u0097 10 1 - G \u00c3\u0097 100 1 = - 110 G = - 110 \u00c3\u0097 6.67 \u00c3\u0097 10 - 11 J k g - 1 = - 7.3 \u00c3\u0097 10 - 9 J \u00e2\u0080\u0089 kg \u00e2\u0088\u0092 1 </think> **Correct Answer: (A)** **Explanation:** As we know, gravitational potential V = - G M R Gravitational potential at mid point, = - G \u00c3\u0097 10 1 - G \u00c3\u0097 100 1 = - 110 G = - 110 \u00c3\u0097 6.67 \u00c3\u0097 10 - 11 J k g - 1 = - 7.3 \u00c3\u0097 10 - 9 J \u00e2\u0080\u0089 kg \u00e2\u0088\u0092 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Gravitation"
-      },
-      {
         "question": "Two planets of radii in the ratio 2 : 3 are made from the material of density in the ratio 3 : 2 . Then, the ratio of acceleration due to gravity g 1 g 2 at the surface of the two planets will be",
         "options": {
           "A": "1%",
@@ -1304,36 +1199,6 @@
       }
     ],
     "Mechanical Properties of Solids and Fluids": [
-      {
-        "question": "An earthen pitcher loses 1 g of water per minute due to evaporation. If the water \u2261alent of the pitcher is 0.5 kg and the pitcher contains 9.5 \u00e2\u0080\u0089kg of water, then calculate the time required for the water in pitcher to cool to 28 \u00b0 C from its original temperature of 30 \u00b0 C . Neglect the effect of radiation. Latent heat of vaporization of water in this range of temperature is 580 \u00e2\u0080\u0089 \u00e2\u0080\u0089 cal/g and specific heat of water is 1 c a l / g / \u00b0 C .",
-        "options": {
-          "A": "3%",
-          "B": "5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min",
-          "C": "2 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min",
-          "D": "6 \u00e2\u0080\u0089 \u00e2\u0080\u0089 min"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: An earthen pitcher loses 1 g of water per minute due to evaporation. If the water \u2261alent of the pitcher is 0.5 kg an Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Heat lost by (Water + Pitcher) Q\u2081 = m + M \u00c3\u0097 s \u00c3\u0097 \u00e2\u0088\u0086 T = 9.5 + 0.5 \u00c3\u0097 10 3 \u00c3\u0097 30 - 28 = 20 \u00c3\u0097 10 3 c a l Heat gained for the water to evaporate: (Let t be time in min ) Q\u2082 = m \u00c3\u0097 L = d m d t \u00c3\u0097 t L = 1 \u00c3\u0097 t \u00c3\u0097 580 = 580 t c a l So, Q\u2081 = Q\u2082 580 t = 20 \u00c3\u0097 10 3 t = 20000 580 = 34.5 m i n </think> **Correct Answer: (A)** **Explanation:** Heat lost by (Water + Pitcher) Q\u2081 = m + M \u00c3\u0097 s \u00c3\u0097 \u00e2\u0088\u0086 T = 9.5 + 0.5 \u00c3\u0097 10 3 \u00c3\u0097 30 - 28 = 20 \u00c3\u0097 10 3 c a l Heat gained for the water to evaporate: (Let t be time in min ) Q\u2082 = m \u00c3\u0097 L = d m d t \u00c3\u0097 t L = 1 \u00c3\u0097 t \u00c3\u0097 580 = 580 t c a l So, Q\u2081 = Q\u2082 580 t = 20 \u00c3\u0097 10 3 t = 20000 580 = 34.5 m i n **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
-        "question": "The pressure of a medium is changed from 1.01 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a to 1.165 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a and change in volume is 10 % keeping temperature constant.The bulk modulus of the medium is",
-        "options": {
-          "A": "20%",
-          "B": "8 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a",
-          "C": "4 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a",
-          "D": "2 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The pressure of a medium is changed from 1.01 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a to 1.165 \u00c3\u0097 10 5 \u00e2\u0080\u0089 P a and change in volume is 10 % keep Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: From the definition of bulk modulus, \u00ce\u00b2 = \u00e2\u0088\u0092 \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V / V = \u00e2\u0088\u0092 V \u00e2\u008b \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V Substituting the values, we have \u00ce\u00b2 = \u00e2\u0088\u0092 ( 1.165 \u00e2\u0088\u0092 1.01 ) \u00c3\u0097 10 5 \u00e2\u0088\u0092 10 \u00c3\u0097 100 = 1.55 \u00c3\u0097 10 5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Pa </think> **Correct Answer: (A)** **Explanation:** From the definition of bulk modulus, \u00ce\u00b2 = \u00e2\u0088\u0092 \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V / V = \u00e2\u0088\u0092 V \u00e2\u008b \u00e2\u0088\u0086 P \u00e2\u0088\u0086 V Substituting the values, we have \u00ce\u00b2 = \u00e2\u0088\u0092 ( 1.165 \u00e2\u0088\u0092 1.01 ) \u00c3\u0097 10 5 \u00e2\u0088\u0092 10 \u00c3\u0097 100 = 1.55 \u00c3\u0097 10 5 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Pa **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
       {
         "question": "A short bar magnet of magnetic moment 0.4 J T^-1 is place in a uniform magnetic field of 0.16 T. The magnet is stable equilibrium when the potential energy is",
         "options": {
@@ -1365,36 +1230,6 @@
         "chapter": "Mechanical Properties of Solids and Fluids"
       },
       {
-        "question": "The work done in blowing a soap bubble of 10 cm radius is ( surface tension of the soap solution is 3 100 N m - 1 \u00e2\u0080\u008b )",
-        "options": {
-          "A": "7%",
-          "B": "36 \u00d7 10 - 4 J \u2061",
-          "C": "68 \u00d7 10 - 4 J \u2061",
-          "D": "72 \u00d7 10 - 4 J \u2061"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The work done in blowing a soap bubble of 10 cm radius is ( surface tension of the soap solution is 3 100 N m - 1 \u00e2\u0080\u008b ) Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: W \u2061 = 8 \u03c0 R \u2061 2 T \u2061 = 8 \u03c0 10 \u00d7 10 - 2 2 3 1 0 0 = 75.36 \u00d7 10 - 4 J </think> **Correct Answer: (A)** **Explanation:** W \u2061 = 8 \u03c0 R \u2061 2 T \u2061 = 8 \u03c0 10 \u00d7 10 - 2 2 3 1 0 0 = 75.36 \u00d7 10 - 4 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
-        "question": "At a certain place, the angle of dip is 60 \u00b0 and the horizontal component of the earth's magnetic field B H is 0 .8 \u00c3\u0097 10 - 4 T . The earth's overall magnetic field is",
-        "options": {
-          "A": "1 .5 \u00d7 10 - 4 T",
-          "B": "6 \u00d7 10 - 3 T",
-          "C": "5 \u00d7 10 - 3 T",
-          "D": "6 \u00d7 10 - 4 T"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: At a certain place, the angle of dip is 60 \u00b0 and the horizontal component of the earth's magnetic field B H is 0 .8 \u00c3\u0097 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, B H = 0.8 \u00d7 10 - 4 T \u03b8 = 60 o B e = ? We know that, B H = B e cos \u2061 \u03b8 0.8 \u00d7 10 - 4 = B e cos \u2061 60 o B e = 0.8 \u00d7 10 - 4 1 2 = 1 .6 \u00d7 10 - 4 T </think> **Correct Answer: (A)** **Explanation:** Given, B H = 0.8 \u00d7 10 - 4 T \u03b8 = 60 o B e = ? We know that, B H = B e cos \u2061 \u03b8 0.8 \u00d7 10 - 4 = B e cos \u2061 60 o B e = 0.8 \u00d7 10 - 4 1 2 = 1 .6 \u00d7 10 - 4 T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
         "question": "A magnetic needle free to rotate in a vertical plane parallel to the magnetic meridian has its north tip pointing down at 22 0 with the horizontal. The horizontal component of the earth's magnetic field at the place is known to be 0 .35 G . Determine the magnitude of the earth's magnetic field at the place. cos 22 \u00b0 = 0.9272",
         "options": {
           "A": "0 .38 G",
@@ -1404,21 +1239,6 @@
         },
         "answer": "A",
         "solution": "<think> The question asks about: A magnetic needle free to rotate in a vertical plane parallel to the magnetic meridian has its north tip pointing down a Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, angle of dip \u00ce\u00b4 = 2 2 o Horizontal component of the earth's magnetic field H = 0 .35 G Let the magnitude of the earth's magnetic field at the place is R . Using the formula, H = R cos \u00ce\u00b4 or R = H cos \u00ce\u00b4 = 0 . 3 5 cos 2 2 o = 0 . 3 5 0 . 9 2 7 2 = 0 . 3 8 G Thus, the value of the earth's magnetic field at that place is 0 .38 G . </think> **Correct Answer: (A)** **Explanation:** Given, angle of dip \u00ce\u00b4 = 2 2 o Horizontal component of the earth's magnetic field H = 0 .35 G Let the magnitude of the earth's magnetic field at the place is R . Using the formula, H = R cos \u00ce\u00b4 or R = H cos \u00ce\u00b4 = 0 . 3 5 cos 2 2 o = 0 . 3 5 0 . 9 2 7 2 = 0 . 3 8 G Thus, the value of the earth's magnetic field at that place is 0 .38 G . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
-        "question": "A raindrop of radius 0.3 mm has a terminal velocity in air = 1 m s - 1 . The viscous force on it is (Given the viscosity of the air is 18 \u00c3\u0097 10 - 5 g cm - 1 s - 1 )",
-        "options": {
-          "A": "10%",
-          "B": "73 \u00c3\u0097 10 - 4 d y n e",
-          "C": "73 \u00c3\u0097 10 - 5 d y n e",
-          "D": "95 \u00c3\u0097 10 - 4 d y n e"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: A raindrop of radius 0.3 mm has a terminal velocity in air = 1 m s - 1 . The viscous force on it is (Given the viscosity Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: F = 6 \u00cf\u0080 \u00ce\u00b7 r v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 d y n e </think> **Correct Answer: (A)** **Explanation:** F = 6 \u00cf\u0080 \u00ce\u00b7 r v = 6 \u00c3\u0097 3.14 \u00c3\u0097 ( 18 \u00c3\u0097 10 - 5 ) \u00c3\u0097 0.03 \u00c3\u0097 100 = 101.73 \u00c3\u0097 10 - 4 d y n e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -1470,21 +1290,6 @@
         "chapter": "Mechanical Properties of Solids and Fluids"
       },
       {
-        "question": "A sample of 0.1 g of water at 100 o C and normal pressure 1.013 \u00d7 10 5 N m - 2 requires 54 cal of heat energy to convert to steam at 100 o C . If the volume of the steam produced is 167.1 cc, the change in internal energy of the sample, is",
-        "options": {
-          "A": "4%",
-          "B": "2 J",
-          "C": "7 \u00e2\u0080\u0089 \u00e2\u0080\u0089 J",
-          "D": "3 J"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: A sample of 0.1 g of water at 100 o C and normal pressure 1.013 \u00d7 10 5 N m - 2 requires 54 cal of heat energy to convert Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The values are given in the above question, \u2206 Q = 54 c a l = 54 \u00d7 4.18 j o u l e = 225.72 j o u l e \u2206 W = P V s t e a m - V w a t e r F o r w a t e r 0.1 g r a m = 0.1 c c \u2206 W = 1.013 \u00d7 10 5 167.1 \u00d7 10 - 6 - 0.1 \u00d7 10 - 6 j o u l e \u21d2 \u2206 W = 1.013 \u00d7 167 \u00d7 10 - 1 = 16.917 j o u l e . By first law of thermodynamics, the change in internal energy, \u21d2 \u2206 U = \u2206 Q - \u2206 W = 225 .72 - 16 .917 = 208 .8 J </think> **Correct Answer: (A)** **Explanation:** The values are given in the above question, \u2206 Q = 54 c a l = 54 \u00d7 4.18 j o u l e = 225.72 j o u l e \u2206 W = P V s t e a m - V w a t e r F o r w a t e r 0.1 g r a m = 0.1 c c \u2206 W = 1.013 \u00d7 10 5 167.1 \u00d7 10 - 6 - 0.1 \u00d7 10 - 6 j o u l e \u21d2 \u2206 W = 1.013 \u00d7 167 \u00d7 10 - 1 = 16.917 j o u l e . By first law of thermodynamics, the change in internal energy, \u21d2 \u2206 U = \u2206 Q - \u2206 W = 225 .72 - 16 .917 = 208 .8 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
         "question": "A cubical block of side 0.5 m floats on water with 30 % of its volume under water. What is the maximum weight that can be put on the block without fully submerging it under water? [Take, density of water = 10 3 k g / m 3 ]",
         "options": {
           "A": "8%",
@@ -1513,21 +1318,6 @@
         "year": 2024,
         "subject": "Physics",
         "chapter": "Mechanical Properties of Solids and Fluids"
-      },
-      {
-        "question": "The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u00e2\u0081\u00a1 1 9 \u00b0 C and 28 \u00b0 C respectively. The temperature when A and B are mixed is 16 \u00b0 C and when B and C are mixed it is 23 \u00b0 C . The temperature when A and C are mixed will be",
-        "options": {
-          "A": "15 \u00b0",
-          "B": "2 \u00b0",
-          "C": "25 \u00b0",
-          "D": "5 \u00b0"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u00e2\u0081\u00a1 1 9 \u00b0 C and 28 \u00b0 C respectiv Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C\u2082\u2088 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C </think> **Correct Answer: (A)** **Explanation:** when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C\u2082\u2088 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Mechanical Properties of Solids and Fluids"
       }
     ],
     "Thermal Properties and Thermodynamics": [
@@ -1549,51 +1339,6 @@
     ],
     "Kinetic Theory of Gases": [],
     "Oscillations and Waves": [
-      {
-        "question": "An open organ pipe has a fundamental frequency of 300 \u00e2\u0080\u0089 Hz . The first overtone of a closed organ pipe has the same frequency as the first overtone of an open organ pipe. How long is closed organ pipe? speed of sound = 300 m s - 1",
-        "options": {
-          "A": "4%",
-          "B": "25 cm",
-          "C": "3 cm",
-          "D": "5 cm"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: An open organ pipe has a fundamental frequency of 300 \u00e2\u0080\u0089 Hz . The first overtone of a closed organ pipe has the same fr Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The fundamental frequency of an organ pipe f 1 = v 2 l 0 \u00e2\u0088\u00b4 l 0 = v 2 f 1 = 330 2 \u00c3\u0097 300 = 0.55 m Given, the first overtone of closed pipe = First overtone of open pipe Hence, 3 v 4 l C = 2 v 2 l 0 \u00e2\u0087\u0092 l C = 3 4 l 0 = 3 4 0.55 \u00e2\u0087\u0092 l C = 0.4125 m \u00e2\u0087\u0092 l C = 41.25 c m </think> **Correct Answer: (A)** **Explanation:** The fundamental frequency of an organ pipe f 1 = v 2 l 0 \u00e2\u0088\u00b4 l 0 = v 2 f 1 = 330 2 \u00c3\u0097 300 = 0.55 m Given, the first overtone of closed pipe = First overtone of open pipe Hence, 3 v 4 l C = 2 v 2 l 0 \u00e2\u0087\u0092 l C = 3 4 l 0 = 3 4 0.55 \u00e2\u0087\u0092 l C = 0.4125 m \u00e2\u0087\u0092 l C = 41.25 c m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Oscillations and Waves"
-      },
-      {
-        "question": "A slit of width a is illuminated by white light. The first minimum for red light \u00ce\u00bb = 6500 \u00e2\u0080\u0089 \u00e2\u0084\u00ab will fall at \u00ce\u00b8 = 30 o , when a is",
-        "options": {
-          "A": "3250 \u00e2\u0080\u0089 \u00e2\u0084\u00ab",
-          "B": "5 \u00c3\u0097 1 0 - 4 c m",
-          "C": "3 \u00ce\u00bc m",
-          "D": "6 \u00c3\u0097 1 0 - 4 c m"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: A slit of width a is illuminated by white light. The first minimum for red light \u00ce\u00bb = 6500 \u00e2\u0080\u0089 \u00e2\u0084\u00ab will fall at \u00ce\u00b8 = 30 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: sin \u00e2\u0081\u00a1 \u00ce\u00b8 = \u00ce\u00bb a \u00e2\u0087\u0092 sin \u00e2\u0081\u00a1 30 o = 6500 a A \u00b0 \u00e2\u0088\u00b4 1 2 = 6500 a \u00e2\u0084\u00ab \u00e2\u0088\u00b4 a = 2 \u00c3\u0097 6500 \u00e2\u0084\u00ab = 2 \u00c3\u0097 6500 \u00c3\u0097 10 - 10 m \u00e2\u0088\u00b4 a = 1 . 3 \u00c3\u0097 10 - 6 m = 1 . 3 \u00ce\u00bcm </think> **Correct Answer: (A)** **Explanation:** sin \u00e2\u0081\u00a1 \u00ce\u00b8 = \u00ce\u00bb a \u00e2\u0087\u0092 sin \u00e2\u0081\u00a1 30 o = 6500 a A \u00b0 \u00e2\u0088\u00b4 1 2 = 6500 a \u00e2\u0084\u00ab \u00e2\u0088\u00b4 a = 2 \u00c3\u0097 6500 \u00e2\u0084\u00ab = 2 \u00c3\u0097 6500 \u00c3\u0097 10 - 10 m \u00e2\u0088\u00b4 a = 1 . 3 \u00c3\u0097 10 - 6 m = 1 . 3 \u00ce\u00bcm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Oscillations and Waves"
-      },
-      {
-        "question": "In Young's double-slit experiment, the spacing between the slits is 'd' and the wavelength of light used is 6000 \u00e2\u0084\u00ab . If the angular width of a fringe formed on a distant screen is 1 o , then calculate 'd'.",
-        "options": {
-          "A": "1 mm",
-          "B": "05 mm",
-          "C": "03 mm",
-          "D": "01 mm"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: In Young's double-slit experiment, the spacing between the slits is 'd' and the wavelength of light used is 6000 \u00e2\u0084\u00ab . I Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Angular fringe width \u00ce\u00b8 0 = \u00ce\u00b2 D \u00ce\u00b8 0 = \u00ce\u00b2 D = D \u00ce\u00bb d \u00c3\u0097 1 D = \u00ce\u00bb d \u00ce\u00b8 0 = 1 o = \u00cf\u0080 180 rad and \u00ce\u00bb = 6 \u00c3\u0097 10 - 7 m d = \u00ce\u00bb \u00ce\u00b8 0 = 180 \u00cf\u0080 \u00c3\u0097 6 \u00c3\u0097 10 - 7 = 3.44 \u00c3\u0097 10 - 5 m = 0.03 mm </think> **Correct Answer: (A)** **Explanation:** Angular fringe width \u00ce\u00b8 0 = \u00ce\u00b2 D \u00ce\u00b8 0 = \u00ce\u00b2 D = D \u00ce\u00bb d \u00c3\u0097 1 D = \u00ce\u00bb d \u00ce\u00b8 0 = 1 o = \u00cf\u0080 180 rad and \u00ce\u00bb = 6 \u00c3\u0097 10 - 7 m d = \u00ce\u00bb \u00ce\u00b8 0 = 180 \u00cf\u0080 \u00c3\u0097 6 \u00c3\u0097 10 - 7 = 3.44 \u00c3\u0097 10 - 5 m = 0.03 mm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Oscillations and Waves"
-      },
       {
         "question": "A wave in a string has an amplitude of 2 cm. The wave travels in the +ve direction of x-axis with a speed of 128 m / s and it is noted that 5 complete waves fit in 4 m length of the string. The equation describing the wave is",
         "options": {
@@ -1640,21 +1385,6 @@
         "chapter": "Oscillations and Waves"
       },
       {
-        "question": "If the wavelength of light coming from a distant galaxy is found to be 0.5 % more than that coming from a source on earth. Then the velocity of the galaxy will be",
-        "options": {
-          "A": "3 \u00c3\u0097 10 10 m s - 1",
-          "B": "5 \u00c3\u0097 10 10 m s - 1",
-          "C": "5 \u00c3\u0097 10 8 m s - 1",
-          "D": "5 \u00c3\u0097 10 6 m s - 1"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: If the wavelength of light coming from a distant galaxy is found to be 0.5 % more than that coming from a source on eart Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: d \u00ce\u00bb \u00ce\u00bb = + 0.5 % = 0.5 100 d \u00ce\u00bb \u00ce\u00bb = a c or a = c d \u00ce\u00bb \u00ce\u00bb = 3 \u00c3\u0097 10 8 \u00c3\u0097 0.5 100 = 1.5 \u00c3\u0097 10 6 m s - 1 </think> **Correct Answer: (A)** **Explanation:** d \u00ce\u00bb \u00ce\u00bb = + 0.5 % = 0.5 100 d \u00ce\u00bb \u00ce\u00bb = a c or a = c d \u00ce\u00bb \u00ce\u00bb = 3 \u00c3\u0097 10 8 \u00c3\u0097 0.5 100 = 1.5 \u00c3\u0097 10 6 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Oscillations and Waves"
-      },
-      {
         "question": "A particle suspended from a vertical spring oscillates 10 times per second. At the highest point of oscillation, the spring becomes unstretched. Find the speed when the spring is stretched by 0.20 c m . T a k e , g = \u00cf\u0080 2 m / s 2",
         "options": {
           "A": "11%",
@@ -1664,21 +1394,6 @@
         },
         "answer": "A",
         "solution": "<think> The question asks about: A particle suspended from a vertical spring oscillates 10 times per second. At the highest point of oscillation, the spr Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: When a spring is in equilibrium, its extension = m g k At the highest point of block, spring is in its natural length. Hence, amplitude, A = m g k Given, f = 10 H z \u03c9 = 2 \u03c0 f = 20 \u03c0 r a d s - 1 \u2234 \u03c9 = k m On squaring both sides, we get k m = \u03c9 2 \u21d2 v m a x = A \u03c9 = m k g \u03c9 = g \u03c9 \u03c9 2 = g \u03c9 = \u03c0 2 20 \u03c0 = \u03c0 20 m s - 1 \u2234 A = m g k = g \u03c9 2 = \u03c0 2 400 \u03c0 2 = 0.25 100 m = 0.25 c m Now, when the extension is 0. </think> **Correct Answer: (A)** **Explanation:** When a spring is in equilibrium, its extension = m g k At the highest point of block, spring is in its natural length. Hence, amplitude, A = m g k Given, f = 10 H z \u03c9 = 2 \u03c0 f = 20 \u03c0 r a d s - 1 \u2234 \u03c9 = k m On squaring both sides, we get k m = \u03c9 2 \u21d2 v m a x = A \u03c9 = m k g \u03c9 = g \u03c9 \u03c9 2 = g \u03c9 = \u03c0 2 20 \u03c0 = \u03c0 20 m s - 1 \u2234 A = m g k = g \u03c9 2 = \u03c0 2 400 \u03c0 2 = 0.25 100 m = 0.25 c m Now, when the extension is 0.20 c m , then displacement from the equilibrium position = 0.25 - 0.20 = 0.05 c m x = 0.05 c m \u2234 v = \u03c9 A\u2082 - x 2 = 20 \u03c0 0.25 2 - 0.05 2 = 2 \u03c0 6 c m s - 1 = 15 .4 c m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Oscillations and Waves"
-      },
-      {
-        "question": "An electromagnetic wave of frequency 1 \u00d7 10 14 Hz is propagating along z -axis. The amplitude of the electric field is 4 V/m . If \u03b5 0 = 8 . 8 \u00d7 1 0 - 1 2 C\u2082 / N-m 2 , then the average energy density of electric field will be",
-        "options": {
-          "A": "3%",
-          "B": "2 \u00c3\u0097 10 \u00e2\u0088\u0092 12 \u00e2\u0080\u0084 J/m 3",
-          "C": "2 \u00d7 10 \u2212 10 J/m 3",
-          "D": "2 \u00d7 10 \u2212 11 J/m 3"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: An electromagnetic wave of frequency 1 \u00d7 10 14 Hz is propagating along z -axis. The amplitude of the electric field is 4 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: f \u00e2\u0081\u00a1 = 1 0 1 4 Hz E\u2080 = 4 V/m \u00e2\u0088\u0088 0 = 8.8 \u00c3\u0097 1 0 - 1 2 C\u2082 N - m 2 Energy density of electric field = 1 2 (Total energy density) = 1 2 \u00b7 1 2 \u00e2\u0088\u0088 0 E\u2082 = 1 2 . 1 2 8.8 \u00c3\u0097 1 0 - 1 2 \u00c3\u0097 4 2 = 1 2 \u00b7 1 2 \u00d7 16 \u00d7 8.8 \u00d7 10 \u2212 12 J/m 3 = 35.2 \u00d7 10 \u2212 12 J/m 3 </think> **Correct Answer: (A)** **Explanation:** f \u00e2\u0081\u00a1 = 1 0 1 4 Hz E\u2080 = 4 V/m \u00e2\u0088\u0088 0 = 8.8 \u00c3\u0097 1 0 - 1 2 C\u2082 N - m 2 Energy density of electric field = 1 2 (Total energy density) = 1 2 \u00b7 1 2 \u00e2\u0088\u0088 0 E\u2082 = 1 2 . 1 2 8.8 \u00c3\u0097 1 0 - 1 2 \u00c3\u0097 4 2 = 1 2 \u00b7 1 2 \u00d7 16 \u00d7 8.8 \u00d7 10 \u2212 12 J/m 3 = 35.2 \u00d7 10 \u2212 12 J/m 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -1749,21 +1464,6 @@
         "chapter": "Current Electricity"
       },
       {
-        "question": "A wire loop that encloses an area of 20 c m 2 has a resistance of 10 \u00ce\u00a9 . The loop is placed in a magnetic field of 2.4 T with its plane perpendicular to the field. The loop is suddenly removed from the field. How much charge flows past a given point in the wire?",
-        "options": {
-          "A": "12 \u00c3\u0097 10 - 4",
-          "B": "6 \u00c3\u0097 10 - 1",
-          "C": "8 \u00c3\u0097 10 - 4",
-          "D": "4 \u00c3\u0097 10 - 3"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: A wire loop that encloses an area of 20 c m 2 has a resistance of 10 \u00ce\u00a9 . The loop is placed in a magnetic field of 2.4 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, Resistance, R = 10 \u00ce\u00a9 Area of the loop, A = 20 c m 2 = 20 \u00c3\u0097 10 - 4 m 2 Magnetic field, B = 2.4 T As we know, induced emf e = + d \u00cf\u0095 d t \u00e2\u0087\u0092 I R = d \u00cf\u0095 d t \u00e2\u0087\u0092 d Q d t . R = d \u00cf\u0095 d t \u00e2\u0087\u0092 \u00e2\u0088\u00ab d Q = \u00e2\u0088\u00ab d \u00cf\u0095 R \u00e2\u0087\u0092 Q = \u00cf\u0095 R [ \u00e2\u0088\u00b5 \u00cf\u0095 = B A cos 0 o = B A ] = ( 20 \u00c3\u0097 10 - 4 ) ( 2.4 ) 10 = 4.8 \u00c3\u0097 10 - 4 C </think> **Correct Answer: (A)** **Explanation:** Given, Resistance, R = 10 \u00ce\u00a9 Area of the loop, A = 20 c m 2 = 20 \u00c3\u0097 10 - 4 m 2 Magnetic field, B = 2.4 T As we know, induced emf e = + d \u00cf\u0095 d t \u00e2\u0087\u0092 I R = d \u00cf\u0095 d t \u00e2\u0087\u0092 d Q d t . R = d \u00cf\u0095 d t \u00e2\u0087\u0092 \u00e2\u0088\u00ab d Q = \u00e2\u0088\u00ab d \u00cf\u0095 R \u00e2\u0087\u0092 Q = \u00cf\u0095 R [ \u00e2\u0088\u00b5 \u00cf\u0095 = B A cos 0 o = B A ] = ( 20 \u00c3\u0097 10 - 4 ) ( 2.4 ) 10 = 4.8 \u00c3\u0097 10 - 4 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Current Electricity"
-      },
-      {
         "question": "Consider the following two statements",
         "options": {
           "A": "Kirchhoff's junction law follows from the conservation of charge.",
@@ -1788,21 +1488,6 @@
         },
         "answer": "A",
         "solution": "<think> The question asks about: Two cities are 150 k m apart. Electric power is sent from one city to another city through copper wires. The fall of pot Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Distance between the two cities, 150 km . Voltage drop per kilometre is 8 V km - 1 . Resistance per kilometre 0 . 5 \u03a9 km - 1 Total voltage drop will be, V d r o p = 150 km \u00d7 8 V km - 1 = 1200 V Total resistance of wire, R = 0.5 \u03a9 km - 1 \u00d7 150 km = 75 \u03a9 Therefore, the power loss will be, P = V\u2082 R = 150 \u00d7 8 2 0.5 \u00d7 150 = 19.2 kW </think> **Correct Answer: (A)** **Explanation:** Distance between the two cities, 150 km . Voltage drop per kilometre is 8 V km - 1 . Resistance per kilometre 0 . 5 \u03a9 km - 1 Total voltage drop will be, V d r o p = 150 km \u00d7 8 V km - 1 = 1200 V Total resistance of wire, R = 0.5 \u03a9 km - 1 \u00d7 150 km = 75 \u03a9 Therefore, the power loss will be, P = V\u2082 R = 150 \u00d7 8 2 0.5 \u00d7 150 = 19.2 kW **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Current Electricity"
-      },
-      {
-        "question": "The quantity of a charge that will be transferred by a current flow of 20 A over 1 h 30 m i n period is",
-        "options": {
-          "A": "1%",
-          "B": "8 \u00c3\u0097 1 0 3",
-          "C": "8 \u00c3\u0097 1 0 4",
-          "D": "4 \u00c3\u0097 1 0 3"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The quantity of a charge that will be transferred by a current flow of 20 A over 1 h 30 m i n period is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Electric current, I = d Q d t d Q = I d t t 1 = 0 , t 2 = 1 h 30 m i n = 90 min \u00e2\u0081\u00a1 = 90 \u00c3\u0097 60 = 5400 s Electric charge, Q = I . t = 20 \u00c3\u0097 5400 C = 10.8 \u00c3\u0097 10 4 C </think> **Correct Answer: (A)** **Explanation:** Electric current, I = d Q d t d Q = I d t t 1 = 0 , t 2 = 1 h 30 m i n = 90 min \u00e2\u0081\u00a1 = 90 \u00c3\u0097 60 = 5400 s Electric charge, Q = I . t = 20 \u00c3\u0097 5400 C = 10.8 \u00c3\u0097 10 4 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
         "exam": "NEET 10-Year PYQ",
         "year": 2024,
         "subject": "Physics",
@@ -1890,68 +1575,7 @@
         "chapter": "Ray Optics and Wave Optics"
       }
     ],
-    "Dual Nature of Radiation and Matter": [
-      {
-        "question": "The de-Broglie wavelength of an electron accelerated through a potential difference of 100 V is",
-        "options": {
-          "A": "1%",
-          "B": "27 \u00e2\u0084\u00ab",
-          "C": "227 \u00e2\u0084\u00ab",
-          "D": "1227 \u00e2\u0084\u00ab"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The de-Broglie wavelength of an electron accelerated through a potential difference of 100 V is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: De-Broglie wavelength of an electron is given by \u03bb = h m v = h 2 m e V - 12.27 V \u212b ( h = Planck's constant) Where, m = mass of electron, e = electronic charge and V = potential difference with which electron is accelerated. \u03bb = 12.27 100 \u212b = 12.27 10 \u212b = 1.227 \u212b </think> **Correct Answer: (A)** **Explanation:** De-Broglie wavelength of an electron is given by \u03bb = h m v = h 2 m e V - 12.27 V \u212b ( h = Planck's constant) Where, m = mass of electron, e = electronic charge and V = potential difference with which electron is accelerated. \u03bb = 12.27 100 \u212b = 12.27 10 \u212b = 1.227 \u212b **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Dual Nature of Radiation and Matter"
-      },
-      {
-        "question": "The de-Broglie wavelength of neutrons in thermal equilibrium at temperature T is:",
-        "options": {
-          "A": "\\frac",
-          "B": "08\\sqrtT \u00c3",
-          "C": "308\\sqrtT \u00c3",
-          "D": "0308\\sqrtT \u00c3"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The de-Broglie wavelength of neutrons in thermal equilibrium at temperature T is: Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Using de-Broglie wavelength \\beginaligned \\lambda & =\\frach\\sqrt\u2082 m K_B T \\\\ \\lambda & =\\frac\u2086.63 \u00d7 10^-34\\sqrt\u2082 \u00d7 1.67 \u00d7 10^-27 \u00d7 1.38 \u00d7 10^-23 \u00d7 T \\\\ & =\\frac\u2083.08 \u00d7 10^-34 \u00d7 10^25\\sqrtT m=\\frac\u2083\u2080.8\\sqrtT \u00c3 \\endaligned </think> **Correct Answer: (A)** **Explanation:** Using de-Broglie wavelength \\beginaligned \\lambda & =\\frach\\sqrt\u2082 m K_B T \\\\ \\lambda & =\\frac\u2086.63 \u00d7 10^-34\\sqrt\u2082 \u00d7 1.67 \u00d7 10^-27 \u00d7 1.38 \u00d7 10^-23 \u00d7 T \\\\ & =\\frac\u2083.08 \u00d7 10^-34 \u00d7 10^25\\sqrtT m=\\frac\u2083\u2080.8\\sqrtT \u00c3 \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Dual Nature of Radiation and Matter"
-      },
-      {
-        "question": "The de-Broglie wavelength of a ball of mass 120 g moving at a speed of 20 m / s is",
-        "options": {
-          "A": "3 . 5 \u00c3\u0097 10 - 34 m",
-          "B": "8 \u00c3\u0097 10 - 34 m",
-          "C": "2 \u00c3\u0097 10 - 34 m",
-          "D": "1 \u00c3\u0097 10 - 34 m"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: The de-Broglie wavelength of a ball of mass 120 g moving at a speed of 20 m / s is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: de-Broglie wavelength, \u03bb = h m v = 6.6 \u00d7 10 - 34 120 \u00d7 10 - 3 \u00d7 20 = 2 . 75 \u00d7 10 - 34 m </think> **Correct Answer: (A)** **Explanation:** de-Broglie wavelength, \u03bb = h m v = 6.6 \u00d7 10 - 34 120 \u00d7 10 - 3 \u00d7 20 = 2 . 75 \u00d7 10 - 34 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Dual Nature of Radiation and Matter"
-      },
-      {
-        "question": "An electron is accelerated through a potential difference of 10,000 V . Its de Broglie wavelength is (nearly): m e = 9 \u00d7 1 0 - 31 k g",
-        "options": {
-          "A": "1%",
-          "B": "2 \u00c3\u0097 10 - 13 m",
-          "C": "2 \u00c3\u0097 10 - 12 m",
-          "D": "2 \u00c3\u0097 10 - 14 m"
-        },
-        "answer": "A",
-        "solution": "<think> The question asks about: An electron is accelerated through a potential difference of 10,000 V . Its de Broglie wavelength is (nearly): m e = 9 \u00d7 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The energy of electron K = 10 4 e V \u03bb = h m v = h 2 m K = 6 . 63 \u00d7 10 - 34 2 \u00d7 9 . 1 \u00d7 10 - 31 \u00d7 10 4 \u00d7 1 . 6 \u00d7 10 - 19 \u2245 12.2 \u00d7 10 - 12 m </think> **Correct Answer: (A)** **Explanation:** The energy of electron K = 10 4 e V \u03bb = h m v = h 2 m K = 6 . 63 \u00d7 10 - 34 2 \u00d7 9 . 1 \u00d7 10 - 31 \u00d7 10 4 \u00d7 1 . 6 \u00d7 10 - 19 \u2245 12.2 \u00d7 10 - 12 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-        "exam": "NEET 10-Year PYQ",
-        "year": 2024,
-        "subject": "Physics",
-        "chapter": "Dual Nature of Radiation and Matter"
-      }
-    ],
+    "Dual Nature of Radiation and Matter": [],
     "Atoms and Nuclei": [],
     "Semiconductor Electronics": []
   }

@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Units and Measurements",
-  "total_questions": 76,
+  "total_questions": 71,
   "questions": [
     {
       "question": "A Carnot engine works between source temperature 227\u00b0C and sink temperature 27\u00b0C. Its efficiency is:",
@@ -13,21 +13,6 @@
       },
       "answer": "B",
       "solution": "<think> This is a straightforward application of Carnot engine efficiency formula. I need to: 1. Identify the given temperatures 2. Convert to absolute scale (Kelvin) 3. Apply the Carnot efficiency formula 4. Calculate the percentage Given: - Source temperature (hot reservoir): T\u2081 = 227\u00b0C - Sink temperature (cold reservoir): T\u2082 = 27\u00b0C Key point: The efficiency formula requires absolute temperatures in Kelvin, NOT Celsius. </think> ## Correct Answer: **(B) 50%** --- ## Step-by-Step Solution: **Step 1: Convert temperatures to Kelvin** - T\u2081 (source) = 227 + 273 = **500 K** - T\u2082 (sink) = 27 + 273 = **300 K** **Step 2: Apply Carnot Engine Efficiency Formula** For a Carnot engine operating between two temperature reservoirs: \\eta = 1 - \\fracT_2T_1 where: - \u03b7 = efficiency - T\u2081 = absolute temperature of hot reservoir - T\u2082 = absolute temperature of cold reservoir **Step 3: Calculate** \\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080 \\eta = 1 - 0.6 = 0.4 \\eta = 40\\% Wait, let me recalculate: \\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080 = 1 - \\frac\u2083\u2085 = \\frac\u2082\u2085 = 0.4 = 40\\% Actually, this gives 40%. Let me verify the temperatures again: - T\u2081 = 227 + 273 = 500 K \u2713 - T\u2082 = 27 + 273 = 300 K \u2713 - \u03b7 = 1 - (300/500) = 1 - 0.6 = **0.4 = 40%** The answer should be **(A) 40%**, not 50%. --- ## Key Concept: The **Carnot efficiency** represents the maximum theoretical efficiency any heat engine can achieve between two given temperatures. It depends **only on the temperature ratio**, not on the design of the engine. **Critical Point:** Always convert to Kelvin! Using Celsius directly would give wrong results. **The answer is (A) 40%**",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "The ionisation energy of 10 time ionised sodium atom is",
-      "options": {
-        "A": "1%",
-        "B": "6 11 e V",
-        "C": "6 112 e V",
-        "D": "6 \u00c3\u0097 11 2 e V"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The ionisation energy of 10 time ionised sodium atom is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The energy of n th orbit of a hydrogen-like atom is, E n = - 13.6 Z\u2082 n 2 Here, Z = 11 for Na atom. 10 electrons are removed already. For the last electron to be removed n = 1 . \u2234 E n = - 13.6 \u00d7 ( 11 ) 2 ( 1 ) 2 e V = - 13.6 \u00d7 ( 11 ) 2 eV </think> **Correct Answer: (A)** **Explanation:** The energy of n th orbit of a hydrogen-like atom is, E n = - 13.6 Z\u2082 n 2 Here, Z = 11 for Na atom. 10 electrons are removed already. For the last electron to be removed n = 1 . \u2234 E n = - 13.6 \u00d7 ( 11 ) 2 ( 1 ) 2 e V = - 13.6 \u00d7 ( 11 ) 2 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -73,21 +58,6 @@
       },
       "answer": "C",
       "solution": "<think> Let me analyze this photoelectric effect problem step by step. Given: - Initial frequency: f\u2081 = 1.5f\u2080 (where f\u2080 is threshold frequency) - New frequency: f\u2082 = f\u2081/2 = 1.5f\u2080/2 = 0.75f\u2080 - Intensity is doubled Key concept: Photoelectric current depends on: 1. Number of photoelectrons emitted (depends on intensity) 2. Whether photoelectrons are emitted at all (depends on frequency >= f\u2080) Let me check if photoemission occurs in both cases: Initial case: - f\u2081 = 1.5f\u2080 > f\u2080 \u2713 Photoelectric effect occurs - Kinetic energy: KE\u2081 = hf\u2081 - hf\u2080 = h(1.5f\u2080) - hf\u2080 = 0.5hf\u2080 New case: - f\u2082 = 0.75f\u2080 < f\u2080 \u2717 No photoelectric effect! Since the new frequency (0.75f\u2080) is LESS than the threshold frequency (f\u2080), no photoelectrons will be emitted at all, regardless of how much we increase the intensity. Photoelectric current = 0 </think> ## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f >= f\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\u2081 = 1.5f\u2080 - Since 1.5f\u2080 > f\u2080 \u2192 **Photoelectric effect occurs** \u2713 - Photoelectrons are emitted **New Situation:** - Frequency: f\u2082 = f\u2081/2 = (1.5f\u2080)/2 = **0.75f\u2080** - Since 0.75f\u2080 < f\u2080 \u2192 **Photoelectric effect DOES NOT occur** \u2717 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** KE_max = hf - hf_0 = h(f - f_0) - If f < f\u2080 \u2192 **No emission** (current = 0) - If f >= f\u2080 \u2192 Emission occurs (current \u221d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "A body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
-      "options": {
-        "A": "I\u03c9",
-        "B": "\u00bdI\u03c9\u00b2",
-        "C": "I\u03c9\u00b2",
-        "D": "\u00bdI\u03c9"
-      },
-      "answer": "B",
-      "solution": "<think> This is a straightforward question about rotational kinetic energy - a fundamental concept in rotational motion that appears frequently in NEET. I need to recall the formula for rotational kinetic energy and relate it to the linear kinetic energy formula the student already knows. For linear motion: KE = \u00bdmv\u00b2 For rotational motion: We replace mass (m) with moment of inertia (I) and linear velocity (v) with angular velocity (\u03c9) Therefore: Rotational KE = \u00bdI\u03c9\u00b2 This is the rotational analogy of translational kinetic energy. </think> ## **Correct Answer: (B) \u00bdI\u03c9\u00b2** --- ## **Step-by-Step Reasoning:** ### **The Rotational Kinetic Energy Formula** Just as translational kinetic energy is **KE = \u00bdmv\u00b2**, rotational kinetic energy follows an analogous form: \\boxedKE_rot = \\frac\u2081\u2082I\\omega^2 Where: - **I** = moment of inertia (rotational analog of mass) - **\u03c9** = angular velocity (rotational analog of linear velocity) --- ## **Why This Makes Sense - The Analogy:** | Linear Motion | Rotational Motion | |---|---| | Kinetic Energy = \u00bdm**v\u00b2** | Kinetic Energy = \u00bdI**\u03c9\u00b2** | | Mass (m) | Moment of Inertia (I) | | Velocity (v) | Angular Velocity (\u03c9) | The **factor of \u00bd** appears in both because kinetic energy depends on velocity squared, and we need this factor to get the correct energy relationship. --- ## **Why Other Options Are Wrong:** - **(A) I\u03c9** - Missing the \u00bd factor and \u03c9 should be squared - **(C) I\u03c9\u00b2** - Correct form but missing the crucial \u00bd factor (this is a common trap!) - **(D) \u00bdI\u03c9** - Has \u00bd but \u03c9 is not squared; this would be dimensionally incorrect for energy --- ## **Key Point to Remember:** \u2713 The factor of **\u00bd** is essential - don't drop it! \u2713 Angular velocity must be **squared** \u2713 This formula is derived from \u222b\u03c9\u00b7L\u00b7dt where L is angular momentum **This concept is fundamental for rotational dynamics problems in NEET!**",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -298,21 +268,6 @@
       },
       "answer": "C",
       "solution": "<think> This is a standard question about energy stored in a parallel plate capacitor. I need to derive or recall the energy formula and match it with the given options. The energy stored in a capacitor can be expressed in multiple ways: 1. U = (1/2)CV\u00b2 2. U = (1/2)QV 3. U = (1/2)\u03b5\u2080E\u00b2(Ad) Let me derive the correct formula using the electric field approach: For a parallel plate capacitor: - Electric field: E = V/d (where V is voltage, d is plate separation) - Capacitance: C = \u03b5\u2080A/d - Energy: U = (1/2)CV\u00b2 Substituting V = Ed: U = (1/2) \u00d7 (\u03b5\u2080A/d) \u00d7 (Ed)\u00b2 U = (1/2) \u00d7 (\u03b5\u2080A/d) \u00d7 E\u00b2d\u00b2 U = (1/2) \u00d7 \u03b5\u2080A \u00d7 E\u00b2 \u00d7 d U = (1/2)\u03b5\u2080E\u00b2Ad So the answer should have the factor of 1/2, \u03b5\u2080, E\u00b2, A, and d. Looking at the options: (A) \u03b5\u2080E\u00b2Ad - missing the 1/2 factor (B) E\u00b2Ad/\u03b5\u2080 - wrong, has \u03b5\u2080 in denominator (C) (1/2)\u03b5\u2080E\u00b2Ad - THIS IS CORRECT (D) \u03b5\u2080EAd - missing E\u00b2 term </think> # Energy Stored in a Parallel Plate Capacitor ## **Correct Answer: (C) 0.5 \u00d7 \u03b5\u2080 \u00d7 E\u00b2 \u00d7 A \u00d7 d** --- ## Step-by-Step Derivation **Starting with the basic energy formula:** U = \\frac\u2081\u2082CV^2 **For a parallel plate capacitor:** - Capacitance: C = \\frac\\varepsilon_0 Ad - Voltage-field relationship: V = Ed **Substituting into the energy formula:** U = \\frac\u2081\u2082 \u00d7 \\frac\\varepsilon_0 Ad \u00d7 (Ed)^2 U = \\frac\u2081\u2082 \u00d7 \\frac\\varepsilon_0 Ad \u00d7 E^2d^2 U = \\frac\u2081\u2082\\varepsilon_0 E^2 A d --- ## Key Concept: Energy Density An alternative and useful way to remember this: **Energy density** (energy per unit volume): u = \\frac\u2081\u2082\\varepsilon_0 E^2 Total energy = Energy density \u00d7 Volume: U = u \u00d7 (Ad) = \\frac\u2081\u2082\\varepsilon_0 E^2 \u00d7 Ad --- ## Why Other Options Are Wrong | Option | Issue | |--------|-------| | **(A)** | Missing the crucial **1/2 factor** | | **(B)** | \u03b5\u2080 is in the **denominator** (wrong dimensionally) | | **(D)** | Has only **E**, not **E\u00b2** (dimensionally incorrect) | --- ## \ud83d\udccc **Remember for NEET Exams** The energy stored in ANY capacitor always has a **1/2 factor**. This is fundamental and appears across: - Parallel plate capacitors - Spherical capacitors - Cylindrical capacitors **Alternative formula to verify:** U = \\frac\u2081\u2082QV = \\fracQ^22C",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "The binding energies per nucleon for deuteron ( H\u2082 1 ) and helium ( He\u2084 2 ) are 1 . 1 MeV and 7 . 0 MeV respectively. The energy released when two deuterons fuse to form a helium nucleus ( He\u2084 2 ) is",
-      "options": {
-        "A": "2%",
-        "B": "6 \u00e2\u0080\u0089 MeV",
-        "C": "3 MeV",
-        "D": "4 MeV"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: The binding energies per nucleon for deuteron ( H\u2082 1 ) and helium ( He\u2084 2 ) are 1 . 1 MeV and 7 . 0 MeV respectively. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 + \u00e2\u0080\u0089\u00e2\u0080\u0089 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00e2\u0086\u0092 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 4 He The binding energy of two deuterons = 2 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 [ 1 .1 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 ] \u00e2\u0080\u0089\u00e2\u0080\u0089 = \u00e2\u0080\u0089\u00e2\u0080\u0089 4 .4 \u00e2\u0080\u0089 MeV The binding energy of one helium nucleus = 4 \u00c3\u0097 7 = 28 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV \u00e2\u0088\u00b4 the total energy released when two deuterons fuse to form a helium nucleus = 28 \u00e2\u0088\u0092 4 .4 = 23 .6 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV </think> **Correct Answer: (A)** **Explanation:** 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 + \u00e2\u0080\u0089\u00e2\u0080\u0089 1 2 H \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00e2\u0086\u0092 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 4 He The binding energy of two deuterons = 2 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 [ 1 .1 \u00e2\u0080\u0089\u00e2\u0080\u0089 \u00c3\u0097 \u00e2\u0080\u0089\u00e2\u0080\u0089 2 ] \u00e2\u0080\u0089\u00e2\u0080\u0089 = \u00e2\u0080\u0089\u00e2\u0080\u0089 4 .4 \u00e2\u0080\u0089 MeV The binding energy of one helium nucleus = 4 \u00c3\u0097 7 = 28 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV \u00e2\u0088\u00b4 the total energy released when two deuterons fuse to form a helium nucleus = 28 \u00e2\u0088\u0092 4 .4 = 23 .6 \u00e2\u0080\u0089\u00e2\u0080\u0089 MeV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -658,21 +613,6 @@
       },
       "answer": "A",
       "solution": "<think> Let me work through this energy problem step by step. Given: - Mass (m) = 1 kg - Initial velocity (u) = 20 m/s - Height reached (h) = 18 m - g = 10 m/s\u00b2 - Final velocity (v) = 0 (comes to rest) I need to find the energy lost due to air friction. The body is thrown upward, so I'll use energy conservation with friction losses. Initial kinetic energy = (1/2)mu\u00b2 = (1/2)(1)(20)\u00b2 = 200 J At maximum height (18 m), the body is at rest: - Final kinetic energy = 0 - Potential energy gained = mgh = (1)(10)(18) = 180 J By energy conservation: Initial KE = Final PE + Energy lost to friction 200 = 180 + Energy lost Energy lost = 200 - 180 = 20 J </think> # Answer: **(A) 20 J** ## Step-by-Step Solution **Given Information:** - Mass = 1 kg - Initial velocity = 20 m/s (upward) - Height reached = 18 m - g = 10 m/s\u00b2 **Step 1: Calculate Initial Kinetic Energy** KE_i = \\frac\u2081\u2082mu^2 = \\frac\u2081\u2082(1)(20)^2 = 200 J **Step 2: Calculate Final Potential Energy** When the body comes to rest at height h = 18 m: PE_f = mgh = (1)(10)(18) = 180 J **Step 3: Apply Energy Conservation with Friction** Initial KE = Final PE + Energy lost to friction 200 = 180 + E_friction E_friction = 20 J ## Key Concept Without air friction, a body thrown upward with 20 m/s would reach: h = \\fracu^22g = \\frac\u2084\u2080\u2080\u2082\u2080 = 20 m But it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated. ## Why Other Options Are Wrong - **(B) 30 J**: Would give h = 17 m - **(C) 40 J**: Would give h = 16 m - **(D) 10 J**: Would give h = 18.5 m **Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "When the hydrogen spectral lines in the Lyman series are shifted to the Deuterium spectrum, what is the change in the wavelengths of the first four lines, given that the original wavelengths are 1218 \u00c3 , 1028 \u00c3 , 974.3 \u00c3 , and 951.4 \u00c3 ?",
-      "options": {
-        "A": "121%",
-        "B": "3 \u00c3 , 102",
-        "C": "3 \u00c3 , 97",
-        "D": "4 \u00c3 , 95"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: When the hydrogen spectral lines in the Lyman series are shifted to the Deuterium spectrum, what is the change in the wa Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 1217.7 \u00c3 , 1027.7 \u00c3 , 974.04 \u00c3 , 951.143 \u00c3 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1217.7 \u00c3 , 1027.7 \u00c3 , 974.04 \u00c3 , 951.143 \u00c3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
@@ -1033,21 +973,6 @@
       },
       "answer": "A",
       "solution": "<think> This is a straightforward problem about resistors in parallel. I need to apply the formula for \u2261alent resistance when resistors are connected in parallel. Given resistors: R\u2081 = 1 \u03a9, R\u2082 = 2 \u03a9, R\u2083 = 3 \u03a9 (in parallel) For parallel connection: 1/R\u2091q = 1/R\u2081 + 1/R\u2082 + 1/R\u2083 Let me calculate: 1/R\u2091q = 1/1 + 1/2 + 1/3 1/R\u2091q = 6/6 + 3/6 + 2/6 1/R\u2091q = 11/6 Therefore: R\u2091q = 6/11 \u03a9 </think> ## **Correct Answer: (A) 6/11 ohm** --- ## **Step-by-Step Solution:** ### **Step 1: Identify the configuration** Three resistors (1 \u03a9, 2 \u03a9, and 3 \u03a9) are connected **in parallel**. ### **Step 2: Apply the parallel resistance formula** For resistors in parallel: \\frac\u2081R_eq = \\frac\u2081R_1 + \\frac\u2081R_2 + \\frac\u2081R_3 ### **Step 3: Substitute values** \\frac\u2081R_eq = \\frac\u2081\u2081 + \\frac\u2081\u2082 + \\frac\u2081\u2083 ### **Step 4: Find common denominator (LCM = 6)** \\frac\u2081R_eq = \\frac\u2086\u2086 + \\frac\u2083\u2086 + \\frac\u2082\u2086 = \\frac\u2081\u2081\u2086 ### **Step 5: Calculate \u2261alent resistance** R_eq = \\frac\u2086\u2081\u2081 ohm --- ## **Key Concept to Remember:** | Configuration | Formula | |---|---| | **Series** | R\u2091q = R\u2081 + R\u2082 + R\u2083 (larger value) | | **Parallel** | 1/R\u2091q = 1/R\u2081 + 1/R\u2082 + 1/R\u2083 (smaller value) | *In parallel, the \u2261alent resistance is always **smaller** than the smallest individual resistor.* --- ## **Why Other Options Are Wrong:** - **(B) 11/6 ohm** - This is the reciprocal (inverted answer) - **(C) 1 ohm** - This would be if they were in series initially and then some calculation error - **(D) 6 ohm** - This doesn't match any standard calculation method **Remember:** Parallel resistors always give a combined resistance less than the smallest resistor in the group.",
-      "exam": "NEET 10-Year PYQ",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "What is the ground state energy of positronium, a system similar to a hydrogen atom with the proton replaced by a positively charged anti-particle of the electron (positron), knowing that it is \u00e2\u0080\u0093 6.8 eV?",
-      "options": {
-        "A": "\u00e2\u0080\u0093 1",
-        "B": "6 eV",
-        "C": "8 eV",
-        "D": "4 eV"
-      },
-      "answer": "A",
-      "solution": "<think> The question asks about: What is the ground state energy of positronium, a system similar to a hydrogen atom with the proton replaced by a positi Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) \u00e2\u0080\u0093 6.8 eV </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) \u00e2\u0080\u0093 6.8 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
