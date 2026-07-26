@@ -49,6 +49,9 @@ def audit_file(filepath):
 
 def main():
     files = [
+        'neet_pyq/chemistry_pyqs.json',
+        'neet_pyq/physics_pyqs.json',
+        'neet_pyq/biology_pyqs.json',
         'dataset/chemistry/chemistry_pyqs_dataset.json',
         'dataset/physics/physics_pyqs_dataset.json',
         'dataset/biology/biology_pyqs_dataset.json',
