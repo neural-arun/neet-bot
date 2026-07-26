@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "total_questions": 44,
+  "total_questions": 41,
   "questions": [
     {
       "question": "Examine the Carbonyl reaction mechanism diagram below (Figure 90). What product is formed when Benzaldehyde (C\u2086H\u2085CHO) reacts with 50% concentrated NaOH (Cannizzaro Reaction)?",
@@ -167,10 +167,10 @@
       "question": "Examine the organic reaction scheme below. What essential structural feature must an aldehyde or ketone possess to undergo self-Aldol condensation in dilute alkali?",
       "image_path": "dataset2/images/chem_aldol_condensation.png",
       "options": {
-        "A": "t least one \u03b1-hydrogen atom",
+        "A": "T least one \u03b1-hydrogen atom",
         "B": "No \u03b1-hydrogen atoms",
-        "C": "halogen substituent on benzene ring",
-        "D": "terminal triple bond"
+        "C": "Halogen substituent on benzene ring",
+        "D": "Terminal triple bond"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Organic Chemistry:** Aldol condensation requires aldehydes or ketones containing at least one \\alpha-hydrogen atom. Dilute alkali depolymerizes the \\alpha-hydrogen to form an enolate ion nucleophile.",
@@ -197,13 +197,13 @@
     {
       "question": "[NEET 2019 | Chemistry] Tollens' reagent is used to distinguish between:",
       "options": {
-        "A": "ldehydes and ketones",
+        "A": "Ldehydes and ketones",
         "B": "Primary and secondary alcohols",
         "C": "Alkane and alkene",
         "D": "Organic acids and esters"
       },
       "answer": "A",
-      "solution": "## **Answer: (A) Aldehydes and Ketones** --- ## **Step-by-Step Explanation** ### What is Tollens' Reagent? - **Composition**: Ammoniacal silver nitrate solution [Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a - **Function**: A mild oxidizing agent that selectively oxidizes certain organic compounds ### The Reaction with Aldehydes ``` R-CHO + 2[Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a + 2OH\\u\u2082\u2080\u2087b \\u\u2082\u2081\u2089\u2082 R-COO\\u\u2082\u2080\u2087b + 2Ag\\u\u2082\u2081\u2089\u2083 + 3NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O (Silver mirror) ``` - **Result**: Bright silver mirror forms on the test tube wall - **Positive Test**: Indicates presence of aldehyde group (-CHO) ### Why Ketones Don't React ``` R-CO-R' + Tollens' reagent \\u\u2082\u2081\u2089\u2082 NO REACTION ``` - Ketones have the carbonyl group between two alkyl groups - They lack an \\u\u2080\u2083b\u2081-hydrogen adjacent to the carbonyl that can be oxidized - Cannot be oxidized by mild oxidizing agents like Tollens' reagent --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(B) Alcohols** | Lucas test or Jones oxidation is used for this distinction | | **(C) Alkanes & Alkenes** | Bromine water or KMnO\\u\u2082\u2080\u2088\u2084 test distinguishes these | | **(D) Acids & Esters** | Sodium bicarbonate test (CO\\u\u2082\u2080\u2088\u2082 gas evolution) is used | --- ## **Key Point to Remember** \\U\u2080\u2080\u2080\u2081f\u2083af **\"Tollens test is the aldehyde-specific test\"** - Only aldehydes give the characteristic silver mirror with Tollens' reagent.",
+      "solution": "## **Answer: (A) Aldehydes and Ketones** --- ## **Step-by-Step Explanation** ### What is Tollens' Reagent? - **Composition**: Ammoniacal silver nitrate solution [Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a - **Function**: A mild oxidizing agent that selectively oxidizes certain organic compounds ### The Reaction with Aldehydes ``` R-CHO + 2[Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a + 2OH\\u\u2082\u2080\u2087b \\u\u2082\u2081\u2089\u2082 R-COO\\u\u2082\u2080\u2087b + 2Ag\\u\u2082\u2081\u2089\u2083 + 3NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O (Silver mirror) ``` - **Result**: B silver mirror forms on the test tube wall - **Positive Test**: Indicates presence of aldehyde group (-CHO) ### Why Ketones Don't React ``` R-CO-R' + Tollens' reagent \\u\u2082\u2081\u2089\u2082 NO REACTION ``` - Ketones have the carbonyl group between two alkyl groups - They lack an \\u\u2080\u2083b\u2081-hydrogen adjacent to the carbonyl that can be oxidized - Cannot be oxidized by mild oxidizing agents like Tollens' reagent --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(B) Alcohols** | Lucas test or Jones oxidation is used for this distinction | | **(C) Alkanes & Alkenes** | Bromine water or KMnO\\u\u2082\u2080\u2088\u2084 test distinguishes these | | **(D) Acids & Esters** | Sodium bicarbonate test (CO\\u\u2082\u2080\u2088\u2082 gas evolution) is used | --- ## **Key Point to Remember** \\U\u2080\u2080\u2080\u2081f\u2083af **\"Tollens test is the aldehyde-specific test\"** - Only aldehydes give the characteristic silver mirror with Tollens' reagent.",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -228,7 +228,7 @@
       "question": "The increasing order of the reactivity of the following compound in nucleophilic addition reaction is : <br/><br/>Propanal, Benzaldehyde, Propanone, Butanone",
       "options": {
         "A": "Butanone < Propanone < Benzaldehyde < Propanal",
-        "B": "enzaldehyde < Butanone < Propanone < Propanal",
+        "B": "Enzaldehyde < Butanone < Propanone < Propanal",
         "C": "Propanal < Propanone < Butanone < Benzaldehyde",
         "D": "Benzaldehyde < Propanal < Propanone < Butanone"
       },
@@ -236,21 +236,6 @@
       "solution": "<b>Rate of Nucleophilic addition :</b> <br><br>1. Aldehyde > Ketone <br><br>2. Aliphatic aldehyde > Aromatic aldehyde <br><br> \\therefore Correct order of nucleophilic addition reaction is : <br> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2089\u2084\u2083/exam_images/cxtxjnwcvlj\u2085fgmkqybe.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2089\u2086/exam_images/e\u2087lgjptjiunftcxnx\u2081l\u2084.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2082\u2085/exam_images/t\u2080hpiudq\u2084\u2084qr\u2087ast\u2087xly.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 146 English Explanation\">",
       "exam": "JEE Main 2020",
       "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
-    },
-    {
-      "question": "Assertion A : Enol form of acetone [CH<sub>3</sub>COCH<sub>3</sub>] exists in < 0.1% quantity. However, the enol form of acetyl acetone [CH<sub>3</sub>COCH<sub>2</sub>OCCH<sub>3</sub>] exists in approximately 15% quantity.<br/><br/>Reason R : Enol form of acetyl acetone is stabilized by intramolecular hydrogen bonding, which is not possible in enol form of acetone.<br/><br/>Choose the correct statement :",
-      "options": {
-        "A": "Both A and R are true but R is not the correct explanation of",
-        "B": "is true but R is false",
-        "C": "is false but R is true",
-        "D": "Both A and R are true and R is the correct explanation of"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2087\u2086\u2082/exam_images/e\u2088\u2089gnvqyyvcrdqvnzaph.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 16th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 121 English Explanation\"><br> Acetyl acetone in enol form have intramolecular H-bonding, which is absent in acetone.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
       "subject": "Chemistry",
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
@@ -270,7 +255,7 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : The nucleophilic addition of sodium hydrogen sulphite to an aldehyde or a ketone involves proton transfer to form a stable ion.<br/><br/>Statement II : The nucleophilic addition of hydrogen cyanide to an aldehyde or a ketone yields amine as final product.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements :<br/><br/>Statement I : The nucleophilic addition of sodium hydrogen sulphite to an aldehyde or a ketone involves proton transfer to form a stable ion.<br/><br/>Statement II : The nucleophilic addition of hydrogen cyanide to an aldehyde or a ketone yields amine as final product.<br/><br/>\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement are true.",
         "B": "Statement I is true but Statement II is false.",
@@ -285,7 +270,7 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Given below are two statements : Statements I : Acidity of \\alpha-hydrogens of aldehydes and ketones is responsible for Aldol reaction. Statement II : Reaction between benzaldehyde and ethanal will NOT give Cross - Aldol product. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statements I : Acidity of \\alpha-hydrogens of aldehydes and ketones is responsible for Aldol reaction. Statement II : Reaction between benzaldehyde and ethanal will NOT give Cross - Aldol product. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are incorrect",
         "B": "Statement I is correct but Statement II is incorrect",
@@ -300,7 +285,7 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "The correct match between Item-I (starting material) and Item-II (reagent) for the preparation of benzaldehyde is : <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top <thead> <th class=\"tg-baqh\"><b>Item-I</b></th> <th class=\"tg-baqh\"><b>Item-II</b></th> </thead> <tbody> (I) Benzene (P) HCl and SnCl<sub>2</sub>, H<sub>3</sub>O<sup>+</sup> (II) Benzonitrile (Q) H<sub>2</sub>, Pd-BaSO<sub>4</sub>, S and quinoline (III) Benzoyl Chloride (R) CO, HCl and AlCl<sub>3</sub> </tbody>",
+      "question": "The correct match between Item-I (starting material) and Item-II (reagent) for the preparation of benzaldehyde is : <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqh-align:center;vertical-align:top <thead> <th class=\"tg-baqh\"><b>Item-I</b></th> <th class=\"tg-baqh\"><b>Item-II</b></th> </thead> <tbody> (I) Benzene (P) HCl and SnCl<sub>2</sub>, H<sub>3</sub>O<sup>+</sup> (II) Benzonitrile (Q) H<sub>2</sub>, Pd-BaSO<sub>4</sub>, S and quinoline (III) Benzoyl Chloride (R) CO, HCl and AlCl<sub>3</sub> </tbody>",
       "options": {
         "A": "(I) - (R), (II) - (P) and (III) - (Q)",
         "B": "(I) - (P), (II) - (Q) and (III) - (R)",
@@ -317,10 +302,10 @@
     {
       "question": "Which one of the following reactions will not form acetaldehyde?",
       "options": {
-        "A": "CH_3CH_2OH\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_573K^Cu",
-        "B": "CH_3CH_2OH\\buildrel CrO_3 - H_2SO_4 \\over \\longrightarrow",
-        "C": "CH_2 = CH_2 + O_2\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_H_2O^Pd(II)/Cu(II)",
-        "D": "CH_3CN\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_ii)\\,H_2O^i)\\,DIBAL - H"
+        "A": "CH_3CH_2OH\\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_573K^Cu",
+        "B": "CH_3CH_2OH\\buildrel CrO_3 - H_2SO_4 \\over \\longarrow",
+        "C": "H_2 = CH_2 + O_2\\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_H_2O^Pd(II)/Cu(II)",
+        "D": "CH_3CN\\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_ii)\\,H_2O^i)\\,DIBAL - H"
       },
       "answer": "B",
       "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2088\u2082\u2082/exam_images/zt\u2086na\u2087p\u2081ou\u2089eucpeqigr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 130 English Explanation\">",
@@ -333,7 +318,7 @@
       "question": "The predominant intermolecular forces present in ethyl acetate, a liquid, are:",
       "options": {
         "A": "Dipole-dipole and hydrogen bonding",
-        "B": "hydrogen bonding and London dispersion",
+        "B": "Hydrogen bonding and London dispersion",
         "C": "London dispersion, dipole-dipole and hydrogen bonding",
         "D": "London dispersion and dipole-dipole"
       },
@@ -345,11 +330,11 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Which of the following reagent is used for the following reaction ?<br/><br/> CH_3 CH_2 CH_3 ?\\longrightarrow CH_3 CH_2 CHO",
+      "question": "Which of the following reagent is used for the following reaction ?<br/><br/> CH_3 CH_2 CH_3 ?\\longarrow CH_3 CH_2 CHO",
       "options": {
         "A": "Molybdenum oxide",
         "B": "Manganese acetate",
-        "C": "opper at high temperature and pressure",
+        "C": "Opper at high temperature and pressure",
         "D": "Potassium permanganate"
       },
       "answer": "A",
@@ -393,7 +378,7 @@
       "question": "The correct sequential addition of reagents in the preparation of 3-nitrobenzoic acid from benzene is :",
       "options": {
         "A": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>",
-        "B": "r<sub>2</sub>/AlBr<sup>3</sup>, NaCN, H<sub>3</sub>O<sup>+</sup>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>",
+        "B": "R<sub>2</sub>/AlBr<sup>3</sup>, NaCN, H<sub>3</sub>O<sup>+</sup>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>",
         "C": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, NaCN, H<sub>3</sub>O<sup>+</sup>",
         "D": "HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Br<sub>2</sub>/AlBr<sub>3</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>"
       },
@@ -423,7 +408,7 @@
       "question": "Two statements are given below : Statement I : The melting point of monocarboxylic acid with even number of carbon atoms is higher than that of with odd number of carbon atoms acid immediately below and above it in the series. Statement II : The solubility of monocarboxylic acids in water decreases with increase in molar mass. Choose the most appropriate option :",
       "options": {
         "A": "Both Statement I and Statement II are correct.",
-        "B": "oth Statement I and Statement II are incorrect.",
+        "B": "Both Statement I and Statement II are incorrect.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Statement I is incorrect but Statement II is correct."
       },
@@ -435,12 +420,12 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : A solution of the product obtained by heating a mole of glycine with a mole of chlorine in presence of red phosphorous generates chiral carbon atom. Reason R : A molecule with 2 chiral carbons is always optically active. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R. Assertion A : A solution of the product obtained by heating a mole of glycine with a mole of chlorine in presence of red phosphorous generates chiral carbon atom. Reason R : A molecule with 2 chiral carbons is always optically active. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
-        "A": "Both A and R are true and R is the correct explanation of",
-        "B": "oth A and R are true but R is NOT the correct explanation of",
-        "C": "is true but R is false",
-        "D": "is false but R is true"
+        "A": "Both",
+        "B": "Oth",
+        "C": "Is true but R is false",
+        "D": "Is false but R is true"
       },
       "answer": "C",
       "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1libm\u2085ngg/24f\u2082\u2088c\u2085\u2080-e\u2082c\u2082-4a\u2085\u2087-aafa-ce\u2086edaa\u2081\u2087\u2085\u2085\u2081/c\u2087edc\u2080\u2080\u2080-ffa\u2084-11ed-b\u2086d\u2084-23f\u2087\u2084\u2083\u2085f\u2085\u2081f\u2082/file-1libm\u2085ngh.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1libm\u2085ngg/24f\u2082\u2088c\u2085\u2080-e\u2082c\u2082-4a\u2085\u2087-aafa-ce\u2086edaa\u2081\u2087\u2085\u2085\u2081/c\u2087edc\u2080\u2080\u2080-ffa\u2084-11ed-b\u2086d\u2084-23f\u2087\u2084\u2083\u2085f\u2085\u2081f\u2082/file-1libm\u2085ngh.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 11th April Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 36 English Explanation\"> <br><br>As for Reason R, it is false. A molecule with 2 chiral carbons is not necessarily optically active. It may be if the molecule is not superimposable on its mirror image (i.e., it's chiral). But if the molecule is superimposable on its mirror image (i.e., it's achiral), then it will not be optically active. This can occur if the molecule has a plane of symmetry, in which case it is a meso compound.",
@@ -454,7 +439,7 @@
       "options": {
         "A": "CH_3 CH_2 CH_2 CH_2-OH",
         "B": "CH_3 CH_2 CH_2 CH_3",
-        "C": "CH_3 CH_2 CH_2 CHO",
+        "C": "H_3 CH_2 CH_2 CHO",
         "D": "H_5 C_2-O-C_2 H_5"
       },
       "answer": "A",
@@ -469,7 +454,7 @@
       "options": {
         "A": "C_2 H_4 O_2",
         "B": "C_2 H_2 O_2",
-        "C": "CH_2 O",
+        "C": "H_2 O",
         "D": "C_3 H_6 O_2"
       },
       "answer": "A",
@@ -495,7 +480,7 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "The correct match between <b>Item I</b> and <b>Item II</b> is : <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;text-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;text-align:center <tbody> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - I</th> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - II</th> (A) Benzaldehyde (P) Mobile phase (B) Alumina (Q) Adsorbent (C) Acetonitrile (R) Adsorbate </tbody>",
+      "question": "The correct match between <b>Item I</b> and <b>Item II</b> is : <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;-align:center <tbody> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - I</th> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - II</th> (A) Benzaldehyde (P) Mobile phase (B) Alumina (Q) Adsorbent (C) Acetonitrile (R) Adsorbate </tbody>",
       "options": {
         "A": "(A) \\to (Q); (B) \\to (P); (C) \\to (R)",
         "B": "(A) \\to (R); (B) \\to (Q); (C) \\to (P)",
@@ -512,10 +497,10 @@
     {
       "question": "2, 4-DNP test can be used to identify :",
       "options": {
-        "A": "ether",
-        "B": "amine",
-        "C": "aldehyde",
-        "D": "halogens"
+        "A": "Ether",
+        "B": "Amine",
+        "C": "Aldehyde",
+        "D": "Halogens"
       },
       "answer": "C",
       "solution": "2,4 DNP test is used to identify \\\u2013 (CO) \\\u2013 group. It gives addition reaction with carbonyl compounds. So, it can be used to identify aldehyde in the given option. It gives yellow/ orange ppt with carbonyl containing compounds. <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2086\u2088\u2087/exam_images/dgz\u2084kaenmlgfyszjbim\u2087.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 123 English Explanation\">",
@@ -525,37 +510,7 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Which of the following compounds will give silver mirror with ammoniacal silver nitrate? A. Formic acid B. Formaldehyde C. Benzaldehyde D. Acetone Choose the correct answer from the options given below :",
-      "options": {
-        "A": "and C only",
-        "B": "and D only",
-        "C": "A, B and C only",
-        "D": "only"
-      },
-      "answer": "C",
-      "solution": "The reaction involved here is the Tollen's test, which detects aldehydes and alpha-hydroxy ketones, as they are able to reduce the ammoniacal silver nitrate solution to metallic silver, producing a mirror-like coating on the glassware. This test specifically distinguishes these reducing sugars from non-reducing sugars and is often used to identify the presence of an aldehyde functional group. Let's analyze each option: A. Formic acid - Formic acid (HCOOH) is a carboxylic acid but importantly, it can also reduce silver ions to metallic silver because it can act as a reducing agent just like aldehydes. Thus, it will give a positive Tollen's test. B. Formaldehyde (HCHO) is the simplest aldehyde, and aldehydes are known to give positive results with the Tollen's test since they can be oxidized to carboxylic acids, reducing the silver ions in the process to metallic silver. C. Benzaldehyde (C_6H_5CHO) is an aromatic aldehyde and, similar to formaldehyde, it can be oxidized to an acid, thereby reducing the silver ions to silver in the Tollen's test, giving a positive result. D. Acetone (CH_3COCH_3) is a ketone. Generally, ketones do not undergo oxidation easily and do not reduce ammoniacal silver nitrate, and thus, do not give a silver mirror with the Tollen's reagent. Therefore, the compounds that will give a silver mirror with ammoniacal silver nitrate (positive Tollen's test) are Formic acid, Formaldehyde, and Benzaldehyde, but not Acetone. The correct answer from the options given is therefore: Option C: A, B, and C only.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
-    },
-    {
-      "question": "The descending order of acidity for the following carboxylic acid is- A. CH_3 COOH B. F_3 C-COOH C. ClCH_2-COOH D. FCH_2-COOH E. BrCH_2-COOH Choose the correct answer from the options given below:",
-      "options": {
-        "A": "> C > D > E >",
-        "B": "> B > A > E >",
-        "C": "> D > C > E >",
-        "D": "E > D > B > A >"
-      },
-      "answer": "C",
-      "solution": "The acidity of carboxylic acids is influenced by the electron-withdrawing ability of the groups attached to the carboxylic acid. The stronger the electron-withdrawing ability of the group, the more it stabilizes the carboxylate anion (formed after losing the acidic proton), and hence the stronger the acid. Let's look at the groups attached to the carboxylic acid in each option: A. CH_3-: Methyl group. It's electron-donating due to the hyperconjugation effect. B. F_3C-: Trifluoromethyl group. Strong electron-withdrawing group due to the electronegativity of fluorine atoms and inductive effect. C. ClCH_2-: Chloromethyl group. It has some electron-withdrawing ability due to the electronegativity of the chlorine atom, but it's less than that of fluorine. D. FCH_2-: Fluoromethyl group. It has electron-withdrawing ability due to the electronegativity of the fluorine atom, but less than that of the trifluoromethyl group. E. BrCH_2-: Bromomethyl group. It has some electron-withdrawing ability due to the electronegativity of the bromine atom, but it's less than that of chlorine and fluorine. So the order of acidity will be: B > D > C > E > A",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
-    },
-    {
-      "question": "Match List I with List II .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top <colgroup> <col style=\"width: 51px\"/> <col style=\"width: 226px\"/> <col style=\"width: 46px\"/> <col style=\"width: 273px\"/> </colgroup> <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </thead> <tbody> Test Functional group / Class of Compound A. Molisch's Test I. Peptide B. Biuret Test II. Carbohydrate C. Carbylamine Test III. Primary amine D. Schiff's Test IV. Aldehyde </tbody> Choose the correct answer from the options given below :",
+      "question": "Match List I with List II .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;-align:left;vertical-align:top <colgroup> <col style=\"width: 51px\"/> <col style=\"width: 226px\"/> <col style=\"width: 46px\"/> <col style=\"width: 273px\"/> </colgroup> <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </thead> <tbody> Test Functional group / Class of Compound A. Molisch's Test I. Peptide B. Biuret Test II. Carbohydrate C. Carbylamine Test III. Primary amine D. Schiff's Test IV. Aldehyde </tbody> Choose the correct answer from the options given below :",
       "options": {
         "A": "(A) - III, (B) - IV, (C) - II, (D) - I",
         "B": "(A) - II, (B) - I, (C) - III, (D) - IV",
@@ -572,20 +527,20 @@
     {
       "question": "At\u2085\u2081\u2088<sup>o</sup>C the rate of decomposition of a sample of gaseous acetaldehyde initially at a pressure of 363 Torr, was 1.00 Torr s<sup>\\\u20131</sup> when 5% had reacted and 0.5 Torr s<sup>\\\u20131</sup> when 33% had reacted. The order of the reaction is",
       "options": {
-        "A": "0",
-        "B": "2",
-        "C": "3",
-        "D": "1"
+        "A": "0%",
+        "B": "2%",
+        "C": "3%",
+        "D": "1%"
       },
       "answer": "B",
-      "solution": "For a n<sup>th</sup> order reaction, the rate of reaction at time t , <br><br>Rate = K [P<sub>t</sub>] <sup>n</sup> <br><br>Here P<sub>t</sub> = pressure at time t, k = constant. <br><br><b><u>Note :</u></b> <br><br>Here instead of concentration of product, pressure of product is given. <br><br>When 5% is reacted at a rate 1 Toss S<sup>-1</sup> <br><br>Then un-reacted is 95%.. <br><br>As initial pressure is 363 Torr <br><br>then after 5% reaction completed the pressure will be <br><br>= 363 \u00d7 95 \\over 100 Torr. <br><br>\\therefore\\,\\,\\, 1 = K \\left[ 363 \u00d7 95 \\over 100 \\right]^n . . . . . . . .(1) <br><br>When 33% is reacted at a rate 0.5 , Torr S<sup>-1</sup> then un-reacted is 67% <br><br>So, after 33% reaction completion, the pressure is = 363 \u00d7 67 \\over 100 Torr. <br><br>\\therefore\\,\\,\\, 0.5 = K \\left[ 363 \u00d7 67 \\over 100 \\right]^n....... (2) <br><br>Dividing (1) by (2), we get <br><br>1 \\over 0.5 = \\left[ 363 \u00d7 95 \\over 100 \\right]^n \\over \\left[ 363 \u00d7 67 \\over 100 \\right]^n <br><br> \\Rightarrow \\,\\,2 = \\left[ 95 \\over 67 \\right]^n <br><br> \\Rightarrow \\,\\, 2 = \\left[ 1.41 \\right]^n <br><br> \\Rightarrow \\,\\, 2 = \\left[ \\sqrt 2 \\right]^n <br><br> \\Rightarrow \\,\\,\\,\\,2 = 2^n \\over 2 <br><br>\\therefore\\,\\,\\, n \\over 2 = 1 <br><br> \\Rightarrow \\,\\,\\,\\, n = 2 <br><br>This is a 2nd order reaction.",
+      "solution": "For a n<sup>th</sup> order reaction, the rate of reaction at time t , <br><br>Rate = K [P<sub>t</sub>] <sup>n</sup> <br><br>Here P<sub>t</sub> = pressure at time t, k = constant. <br><br><b><u>Note :</u></b> <br><br>Here instead of concentration of product, pressure of product is given. <br><br>When 5% is reacted at a rate 1 Toss S<sup>-1</sup> <br><br>Then un-reacted is 95%.. <br><br>As initial pressure is 363 Torr <br><br>then after 5% reaction completed the pressure will be <br><br>= 363 \u00d7 95 \\over 100 Torr. <br><br>\\therefore\\,\\,\\, 1 = K \\left[ 363 \u00d7 95 \\over 100 \\]^n . . . . . . . .(1) <br><br>When 33% is reacted at a rate 0.5 , Torr S<sup>-1</sup> then un-reacted is 67% <br><br>So, after 33% reaction completion, the pressure is = 363 \u00d7 67 \\over 100 Torr. <br><br>\\therefore\\,\\,\\, 0.5 = K \\left[ 363 \u00d7 67 \\over 100 \\]^n....... (2) <br><br>Dividing (1) by (2), we get <br><br>1 \\over 0.5 = \\left[ 363 \u00d7 95 \\over 100 \\]^n \\over \\left[ 363 \u00d7 67 \\over 100 \\]^n <br><br> \\Rightarrow \\,\\,2 = \\left[ 95 \\over 67 \\]^n <br><br> \\Rightarrow \\,\\, 2 = \\left[ 1.41 \\]^n <br><br> \\Rightarrow \\,\\, 2 = \\left[ \\sqrt 2 \\]^n <br><br> \\Rightarrow \\,\\,\\,\\,2 = 2^n \\over 2 <br><br>\\therefore\\,\\,\\, n \\over 2 = 1 <br><br> \\Rightarrow \\,\\,\\,\\, n = 2 <br><br>This is a 2nd order reaction.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : CeO<sub>2</sub> can be used for oxidation of aldehydes and ketones.<br/><br/>Statement II : Aqueous solution of EuSO<sub>4</sub> is a strong reducing agent.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements :<br/><br/>Statement I : CeO<sub>2</sub> can be used for oxidation of aldehydes and ketones.<br/><br/>Statement II : Aqueous solution of EuSO<sub>4</sub> is a strong reducing agent.<br/><br/>\nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Statement I is true but Statement II is false.",
         "B": "Statement I is false but Statement II is true",
@@ -600,10 +555,10 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "Given below are two Statements: Statement I : Classical smog occurs in cool humid climate. It is a reducing mixture of smoke, fog and sulphur dioxide. Statement II : Photochemical smog has components, ozone, nitric oxide, acrolein, formaldehyde, PAN etc. In the light of the above statements, choose the most appropriate answer from the options given below.",
+      "question": "Given below are two Statements: Statement I : Classical smog occurs in cool humid climate. It is a reducing mixture of smoke, fog and sulphur dioxide. Statement II : Photochemical smog has components, ozone, nitric oxide, acrolein, formaldehyde, PAN etc. \nIn the light of the above statements, choose the most appropriate answer from the options given below.",
       "options": {
         "A": "Both Statement I and Statement II are correct.",
-        "B": "oth Statement I and Statement II are incorrect.",
+        "B": "Both Statement I and Statement II are incorrect.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Statement I is incorrect but Statement II is correct."
       },
@@ -618,8 +573,8 @@
       "question": "Two isomers 'A' and 'B' with molecular formula C<sub>4</sub>H<sub>8</sub> give different products on oxidation with KMnO<sub>4</sub> in acidic medium. Isomer 'A' on reaction with KMnO<sub>4</sub>/H<sup>+</sup> results in effervescence of a gas and gives ketone. The compound 'A' is",
       "options": {
         "A": "But-1-ene.",
-        "B": "cis-But-2-ene.",
-        "C": "trans-But-2-ene.",
+        "B": "Cis-But-2-ene.",
+        "C": "Trans-But-2-ene.",
         "D": "2-methyl propene."
       },
       "answer": "D",
@@ -632,9 +587,9 @@
     {
       "question": "hydrocarbon ' X ' with formula C_6 H_8 uses two moles of H_2 on catalytic hydrogenation of its one mole. On ozonolysis, ' X ' yields two moles of methane dicarbaldehyde. The hydrocarbon ' X ' is:",
       "options": {
-        "A": "hexa-1, 3, 5-triene",
-        "B": "cyclohexa-1, 4-diene",
-        "C": "yclohexa - 1,3 - diene",
+        "A": "Hexa-1, 3, 5-triene",
+        "B": "Cyclohexa-1, 4-diene",
+        "C": "Yclohexa - 1,3 - diene",
         "D": "1-methylcyclopenta-1, 4-diene"
       },
       "answer": "B",
@@ -648,9 +603,9 @@
       "question": "Bakelite is a cross-linked polymer of formaldehyde and :",
       "options": {
         "A": "PHBV",
-        "B": "una-S",
+        "B": "Una-S",
         "C": "Novolac",
-        "D": "acron"
+        "D": "Acron"
       },
       "answer": "C",
       "solution": "Novolac (phenol formaldehyde Resin) \\to Bakelite",

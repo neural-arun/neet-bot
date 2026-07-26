@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "p-Block Elements",
-  "total_questions": 89,
+  "total_questions": 88,
   "questions": [
     {
       "question": "[NEET 2019 | Chemistry] Decreasing acid strength of oxyacids of phosphorus:",
@@ -52,9 +52,9 @@
       "question": "What is the general outer electronic configuration of d and p block elements?",
       "options": {
         "A": "(n)d 1-10 (n+",
-        "B": "s 0-2 and ns 2 (n+",
-        "C": "p 1-6 B (n-",
-        "D": "1-20 ns 0-3 and ns 1 np 1-6 C (n-"
+        "B": "S 0-2 and ns 2 (n+",
+        "C": "P 1-6",
+        "D": "1-20 ns 0-3 and ns 1 np 1-6"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) (n-1)d 1-10 ns 0-2 and ns 2 np 1-6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -66,7 +66,7 @@
     {
       "question": "What are the C-C distances in a C\u2086\u2080 molecule for single and double bonds?",
       "options": {
-        "A": "13",
+        "A": "13%",
         "B": "5 pm for single bonds and 14",
         "C": "3 pm for double bonds B\u2081\u2083",
         "D": "3 pm for single bonds and 14"
@@ -81,10 +81,10 @@
     {
       "question": "In Carius method of estimation of halogens, 250 mg of an organic compound gave 141 mg of AgBr. The percentage of bromine in the compound is: (at. Mass Ag = 108; Br = 80)",
       "options": {
-        "A": "48",
-        "B": "60",
-        "C": "36",
-        "D": "24"
+        "A": "48%",
+        "B": "60%",
+        "C": "36%",
+        "D": "24%"
       },
       "answer": "D",
       "solution": "Mass of substance =250 mg =0.250 g <br><br>Mass of AgBr =141 mg=0.141 g <br><br>1 mole of AgBr =1 g atom of Br <br><br>188 g of AgBr =80 g of Br <br><br>188 g of AgBr contain bromine =80 g <br><br>0.141 g of AgBr contain bromine = 80 \\over 188 \u00d7 0.141 <br><br>This much amount of bromine present in 0.250 g of organic compound <br><br>\\therefore \\% of bromine = 80 \\over 188 \u00d7 0.414 \\over 0.250 \u00d7 100 = 24\\%",
@@ -124,24 +124,9 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : In TlI<sub>3</sub>, isomorphous to CsI<sub>3</sub>, the metal is present in +1 oxidation state.<br/><br/>Reason R : Tl metal has fourteen f electrons in its electronic configuration.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "is correct but R is not correct",
-        "B": "is not correct but R is correct",
-        "C": "Both A and R are correct but R is NOT the correct explanation of",
-        "D": "Both A and R are correct and R is the correct explanation of"
-      },
-      "answer": "C",
-      "solution": ": Due to inert pair effect, Tl is more stable in +1 oxidation state<br> Hence TlI<sub>3</sub> and CSI<sub>3</sub> are isomorphous<br><br> R : Electronic configuration of Tl (81) = [Xe] 4f<sup>14</sup> 5d<sup>10</sup> 6s<sup>2</sup> 6p<sup>1</sup><br><br> Both A and R are correct but R is not the correct explanation of A.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "p-Block Elements"
-    },
-    {
       "question": "Choose the correct stability order of group 13 elements in their + 1 oxidation state :",
       "options": {
-        "A": "l < Ga < In < Tl",
+        "A": "L < Ga < In < Tl",
         "B": "Tl < In < Ga < Al",
         "C": "Al < Ga < Tl < In",
         "D": "Al < Tl < Ga < In"
@@ -154,15 +139,15 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements :<br/><br/> <b>Statement I:</b> Upon heating a borax bead dipped in cupric sulphate in a luminous flame, the colour of the bead becomes green<br/><br/> <b>Statement II:</b> The green colour observed is due to the formation of copper(I) metaborate<br/><br/> In light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements :<br/><br/> <b>\nStatement I:</b> Upon heating a borax bead dipped in cupric sulphate in a luminous flame, the colour of the bead becomes green<br/><br/> <b>\nStatement II:</b> The green colour observed is due to the formation of copper(I) metaborate<br/><br/> In light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are false",
-        "B": "oth Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are true",
         "C": "Statement I is false but Statement II is true",
         "D": "Statement I is true but Statement II is false"
       },
       "answer": "A",
-      "solution": "On treatment with metal salt, boric anhydride forms metaborate of the metal which gives different colours in oxidising and reducing flame. For example, in the case of copper sulphate, following reactions occur. <br/><br/> CuSO_4+B_2 O_3 \\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_\\left( Oxidation \\right)^Non - lu\\min ous\\,flame Cu\\left(BO_2\\right)_2+SO_3 <br/><br/>Two reactions may take place in reducing flame (Luminous flame) <br/><br/>(i) The blue-green Cu\\left(BO_2\\right)_2 is reduced to colourless cuprous metaborate as : <br/><br/> \\beginaligned & 2 Cu\\left(BO_2\\right)_2+2 NaBO_2+C \\text Luminous \\longrightarrow \\\\\\\\ & 2 CuBO_2+Na_2 B_4 O_7+CO \\endaligned <br/><br/>(ii) Cupric metaborate may be reduced to metallic copper and bead appears red opaque. <br/><br/> \\beginaligned & 2 Cu\\left(BO_2\\right)_2+4 NaBO_2+2 C \\underset\\text flame \\text Luminous \\longrightarrow \\\\\\\\ & 2 Cu+2 Na_2 B_4 O_7+2 CO \\endaligned",
+      "solution": "On treatment with metal salt, boric anhydride forms metaborate of the metal which gives different colours in oxidising and reducing flame. For example, in the case of copper sulphate, following reactions occur. <br/><br/> CuSO_4+B_2 O_3 \\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_( Oxidation \\)^Non - lu\\min ous\\,flame Cu(BO_2\\)_2+SO_3 <br/><br/>Two reactions may take place in reducing flame (Luminous flame) <br/><br/>(i) The blue-green Cu(BO_2\\)_2 is reduced to colourless cuprous metaborate as : <br/><br/> \\beginaligned & 2 Cu(BO_2\\)_2+2 NaBO_2+C Luminous \\longarrow \\\\\\\\ & 2 CuBO_2+Na_2 B_4 O_7+CO \\endaligned <br/><br/>(ii) Cupric metaborate may be reduced to metallic copper and bead appears red opaque. <br/><br/> \\beginaligned & 2 Cu(BO_2\\)_2+4 NaBO_2+2 C \\underset flame Luminous \\longarrow \\\\\\\\ & 2 Cu+2 Na_2 B_4 O_7+2 CO \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -177,14 +162,14 @@
         "D": "+ 3 to + 1"
       },
       "answer": "C",
-      "solution": "K_2 Cr_2 O_7 acts as a strong oxidising agent in acidic medium. During this process, oxidation state of Cr changes from +6 to +3. Cr_2 O_7^2-+14 H^++6 e^- \\rightarrow 2 Cr^3++7 H_2 O",
+      "solution": "K_2 Cr_2 O_7 acts as a strong oxidising agent in acidic medium. During this process, oxidation state of Cr changes from +6 to +3. Cr_2 O_7^2-+14 H^++6 e^- \\arrow 2 Cr^3++7 H_2 O",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "The covalency and oxidation state respectively of boron in \\left[BF_4\\right]^-, are :",
+      "question": "The covalency and oxidation state respectively of boron in \\left[BF_4\\]^-, are :",
       "options": {
         "A": "3 and 4",
         "B": "4 and 3",
@@ -192,14 +177,14 @@
         "D": "3 and 5"
       },
       "answer": "B",
-      "solution": "In the tetrafluoroborate anion (\\left[BF_4\\right]^-), boron is bonded to four fluorine atoms through covalent bonds. Therefore, the covalency of boron in this ion is 4. <br/><br/> The oxidation state of boron can be calculated by considering the charges on the atoms involved in the anion. Fluorine has an oxidation state of -1, and there are four fluorine atoms in the anion, which contributes a total of -4. Since the overall charge on the tetrafluoroborate anion is -1, the oxidation state of boron must be +3 in order to balance the charges. <br/><br/> So, the covalency and oxidation state of boron in \\left[BF_4\\right]^- are 4 and 3, respectively.",
+      "solution": "In the tetrafluoroborate anion (\\left[BF_4\\]^-), boron is bonded to four fluorine atoms through covalent bonds. Therefore, the covalency of boron in this ion is 4. <br/><br/> The oxidation state of boron can be calculated by considering the charges on the atoms involved in the anion. Fluorine has an oxidation state of -1, and there are four fluorine atoms in the anion, which contributes a total of -4. Since the overall charge on the tetrafluoroborate anion is -1, the oxidation state of boron must be +3 in order to balance the charges. <br/><br/> So, the covalency and oxidation state of boron in \\left[BF_4\\]^- are 4 and 3, respectively.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : Statement I : Boron is extremely hard indicating its high lattice energy. Statement II : Boron has highest melting and boiling point compared to its other group members. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statement I : Boron is extremely hard indicating its high lattice energy. Statement II : Boron has highest melting and boiling point compared to its other group members. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are incorrect",
         "B": "Statement I is incorrect but Statement II is correct",
@@ -229,27 +214,27 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements: <b>Statement I</b> : Group 13 trivalent halides get easily hydrolyzed by water due to their covalent nature. <b>Statement II</b> : AlCl_3 upon hydrolysis in acidified aqueous solution forms octahedral \\left[Al\\left(H_2 O\\right)_6\\right]^3+ ion. In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements: <b>Statement I</b> : Group 13 trivalent halides get easily hydrolyzed by water due to their covalent nature. <b>Statement II</b> : AlCl_3 upon hydrolysis in acidified aqueous solution forms octahedral \\left[Al(H_2 O\\)_6\\]^3+ ion. \nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Statement I is false but statement II is true",
-        "B": "oth statement I and statement II are true",
+        "B": "Oth statement I and statement II are true",
         "C": "Both statement I and statement II are false",
         "D": "Statement I is true but statement II is false"
       },
       "answer": "B",
-      "solution": "In trivalent state most of the compounds being covalent are hydrolysed in water. Trichlorides on hydrolysis in water form tetrahedral \\left[M(OH)_4\\right]^- species, the hybridisation state of element M is sp^3. In case of aluminium, acidified aqueous solution forms octahedral \\left[Al\\left(H_2 O\\right)_6\\right]^3+ ion.",
+      "solution": "In trivalent state most of the compounds being covalent are hydrolysed in water. Trichlorides on hydrolysis in water form tetrahedral \\left[M(OH)_4\\]^- species, the hybridisation state of element M is sp^3. In case of aluminium, acidified aqueous solution forms octahedral \\left[Al(H_2 O\\)_6\\]^3+ ion.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Give below are two statements: One is labelled as Assertion A and the other is labelled as Reason R: Assertion A: The stability order of +1 oxidation state of Ga, In and Tl is Ga < In < Tl. Reason R: The inert pair effect stabilizes the lower oxidation state down the group. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Give below are two statements: One is labelled as Assertion A and the other is labelled as Reason R: Assertion A: The stability order of +1 oxidation state of Ga, In and Tl is Ga < In < Tl. Reason R: The inert pair effect stabilizes the lower oxidation state down the group. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
-        "A": "is true but R is false.",
-        "B": "oth A and R are true but R is NOT the correct explanation of A.",
-        "C": "is false but R is true.",
-        "D": "Both A and R are true and R is the correct explanation of A."
+        "A": "Is true but R is false.",
+        "B": "Oth",
+        "C": "Is false but R is true.",
+        "D": "Both"
       },
       "answer": "D",
       "solution": "To evaluate the statements provided, let's first understand the concepts involved: <b>Assertion A:</b> The stability order of the +1 oxidation state of Ga, In, and Tl is Ga < In < Tl. <b>Reason R:</b> The inert pair effect stabilizes the lower oxidation state down the group. The elements Ga (Gallium), In (Indium), and Tl (Thallium) belong to Group 13 of the periodic table. As we move down this group, the +3 oxidation state becomes less stable while the +1 oxidation state becomes more stable. This trend is attributed to the inert pair effect. The inert pair effect refers to the reluctance of the s-electrons to participate in bonding as we move down the group in the periodic table. For Group 13 elements, this effect causes the lower +1 oxidation state to be more stable compared to the +3 oxidation state down the group. Given this, the Reason R correctly explains why the +1 oxidation state is more stable for Tl compared to Ga and In. Therefore, the stability order of the +1 oxidation state should indeed be Ga < In < Tl. <b>Conclusion:</b> Both Assertion A and Reason R are true, and Reason R is the correct explanation for Assertion A. Therefore, the correct answer is: <b>Option D:</b> Both A and R are true and R is the correct explanation of A.",
@@ -261,13 +246,13 @@
     {
       "question": "The number of neutrons present in the more abundant isotope of boron is 'x'. Amorphous boron upon heating with air forms a product, in which the oxidation state of boron is 'y'. The value of x+y is _________ .",
       "options": {
-        "A": "9",
-        "B": "6",
-        "C": "4",
-        "D": "3"
+        "A": "9%",
+        "B": "6%",
+        "C": "4%",
+        "D": "3%"
       },
       "answer": "A",
-      "solution": "The most abundant isotope of Boron is _5 B^11. No. of neutrons in it =x=6 2 B(s)+N_2(g) \\xrightarrow\\Delta 2 BN(s) Oxidation state of boron in BN=y=+3 So, x+y=6+3 =9",
+      "solution": "The most abundant isotope of Boron is _5 B^11. No. of neutrons in it =x=6 2 B(s)+N_2(g) \\xarrow\\Delta 2 BN(s) Oxidation state of boron in BN=y=+3 So, x+y=6+3 =9",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -282,14 +267,14 @@
         "D": "(A) and (C) only"
       },
       "answer": "B",
-      "solution": "(A) Group-13 size : B<Ga<Al<In \\simeq TI (B) In Group-13, Al has exceptional lower EN EN: B>TI>In>Ga>Al \\beginaligned \\text(C) \\quad & 2 Al+6 HCl \\rightarrow 2 AlCl_3+3 H_2 \\\\ & Al+HNO_3 \\rightarrow \\text No reaction (Due to protective oxide layer) \\endaligned (D) +1 oxidation state is observed mainly for heavier Group-13 element like TI. B and Al do not show +1 oxidation state (E) \\left[Al\\left(H_2 O\\right)_6\\right]^3+ \\rightarrow Hybridisation : s p^3 d^2",
+      "solution": "(A) Group-13 size : B<Ga<Al<In \\simeq TI (B) In Group-13, Al has exceptional lower EN EN: B>TI>In>Ga>Al \\beginaligned (C) \\quad & 2 Al+6 HCl \\arrow 2 AlCl_3+3 H_2 \\\\ & Al+HNO_3 \\arrow No reaction (Due to protective oxide layer) \\endaligned (D) +1 oxidation state is observed mainly for heavier Group-13 element like TI. B and Al do not show +1 oxidation state (E) \\left[Al(H_2 O\\)_6\\]^3+ \\arrow Hybridisation : s p^3 d^2",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : Statement I : Gallium is used in the manufacturing of thermometers. Statement II : A thermometer containing gallium is useful for measuring the freezing point (256 K) of brine solution. In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements : Statement I : Gallium is used in the manufacturing of thermometers. Statement II : A thermometer containing gallium is useful for measuring the freezing point (256 K) of brine solution. \nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are true",
         "B": "Statement I is true but Statement II is false",
@@ -321,10 +306,10 @@
     {
       "question": "The one that is extensively used as a piezoelectric material is :",
       "options": {
-        "A": "tridymite",
-        "B": "amorphous silica",
-        "C": "quartz",
-        "D": "mica"
+        "A": "Tridymite",
+        "B": "Amorphous silica",
+        "C": "Quartz",
+        "D": "Mica"
       },
       "answer": "C",
       "solution": "Those materials which produce electricity under mechanical stress are called piezoelectric material. <br><br>Quartz is an example of piezoelectric material.",
@@ -366,10 +351,10 @@
     {
       "question": "In liquation process used for tin (Sn), the metal :",
       "options": {
-        "A": "is reacted with acid.",
-        "B": "is dissolved in water.",
-        "C": "is brought to molten form which is made to flow on a slope.",
-        "D": "is fused with NaOH"
+        "A": "Is reacted with acid.",
+        "B": "Is dissolved in water.",
+        "C": "Is brought to molten form which is made to flow on a slope.",
+        "D": "Is fused with NaOH"
       },
       "answer": "C",
       "solution": "<b>Liquation</b><br/><br/> In this method a low melting metal like tin can be made to flow on a sloping surface. In this way it is separated from higher melting impurities",
@@ -382,7 +367,7 @@
       "question": "Given below are two statements. Statement I : Stannane is an example of a molecular hydride. Statement II : Stannane is a planar molecule. In the light of the above statement, choose the most appropriate answer from the options given below.",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "oth Statement I and Statement II are false.",
+        "B": "Both Statement I and Statement II are false.",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false but Statement II is true."
       },
@@ -396,10 +381,10 @@
     {
       "question": "During water-gas shift reaction",
       "options": {
-        "A": "water is evaporated in presence of catalyst.",
-        "B": "carbon monoxide is oxidized to carbon dioxide.",
-        "C": "arbon is oxidized to carbon monoxide.",
-        "D": "carbon dioxide is reduced to carbon monoxide."
+        "A": "Water is evaporated in presence of catalyst.",
+        "B": "Carbon monoxide is oxidized to carbon dioxide.",
+        "C": "Arbon is oxidized to carbon monoxide.",
+        "D": "Carbon dioxide is reduced to carbon monoxide."
       },
       "answer": "B",
       "solution": "During the water-gas shift reaction, carbon monoxide (CO) + H<sub>2</sub> reacts with steam (H<sub>2</sub>O) to produce carbon dioxide (CO<sub>2</sub>) and hydrogen gas (H<sub>2</sub>). The chemical equation for the reaction is : <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgqbl\u2089ek/9851b\u2088bd-933a-49ee-a\u2085\u2082\u2080-be\u2088\u2089\u2082\u2086\u2085cb\u2089ab/c\u2088\u2089\u2085\u2082\u2081c\u2080-e\u2080\u2082\u2082-11ed-bd\u2081\u2082-57a\u2084\u2088\u2085ef\u2088\u2089\u2088\u2088/file-1lgqbl\u2089el.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgqbl\u2089ek/9851b\u2088bd-933a-49ee-a\u2085\u2082\u2080-be\u2088\u2089\u2082\u2086\u2085cb\u2089ab/c\u2088\u2089\u2085\u2082\u2081c\u2080-e\u2080\u2082\u2082-11ed-bd\u2081\u2082-57a\u2084\u2088\u2085ef\u2088\u2089\u2088\u2088/file-1lgqbl\u2089el.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Chemistry - p-Block Elements Question 50 English Explanation\"> Therefore, option B is correct, which states that carbon monoxide is oxidized to carbon dioxide. This reaction is typically catalyzed by metal catalysts such as iron, nickel, or copper, which promote the reaction rate by providing a surface for the reactants to adsorb and react. Option A is not correct as water is not evaporated during the reaction, but rather reacts with carbon monoxide to produce hydrogen gas and carbon dioxide. Option C is not correct as carbon is not directly involved in the reaction. Option D is also not correct as carbon dioxide is not reduced to carbon monoxide during the water-gas shift reaction.",
@@ -409,15 +394,15 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : <br/><br/><b>Statement (I) </b>: SiO_2 and GeO_2 are acidic while SnO and PbO are amphoteric in nature. <br/><br/><b>Statement (II)</b> : Allotropic forms of carbon are due to property of catenation and p \\pi-d \\pi bond formation. <br/><br/> In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : <br/><br/><b>Statement (I) </b>: SiO_2 and GeO_2 are acidic while SnO and PbO are amphoteric in nature. <br/><br/><b>Statement (II)</b> : Allotropic forms of carbon are due to property of catenation and p \\pi-d \\pi bond formation. <br/><br/> \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement I is false but Statement II is true",
-        "B": "oth Statement I and Statement II are false",
+        "B": "Both Statement I and Statement II are false",
         "C": "Both Statement I and Statement II are true",
         "D": "Statement I is true but Statement II is false"
       },
       "answer": "D",
-      "solution": "Both statements need to be evaluated to determine which (if any) are true: <br/><br/> <b>Statement (I)</b> : SiO_2 and GeO_2 are acidic while SnO and PbO are amphoteric in nature. <br/><br/> This statement is generally true. The oxides of silicon (SiO_2) and germanium (GeO_2) are indeed acidic. These elements belong to group 14 of the periodic table and as you move down the group, the acidic character of the oxides decreases while the basic character increases. Tin oxide (SnO) and lead oxide (PbO) are lower in the group and they are amphoteric, which means they show both acidic and basic properties depending on the reacting substance. <br/><br/> <b>Statement (II)</b> : Allotropic forms of carbon are due to the property of catenation and p \\pi-d \\pi bond formation. <br/><br/> This statement is false. Catenation is indeed the property that carbon has to form long chains and rings with other carbon atoms, which is responsible for the vast number of organic compounds. However, in the context of pure carbon allotropes\\\u2014such as diamond, graphite, and fullerene\\\u2014the different physical structures and properties are mainly due to the sp^3, sp^2, and sp hybridizations of carbon, not to p \\pi-d \\pi bonding. Carbon does not use d-orbitals in forming the allotropes. The p \\pi-d \\pi bonding is typically discussed in the context of transition metal complexes, not allotropic forms of carbon. <br/><br/> Thus, the correct answer is <b>Option D</b> : Statement I is true but Statement II is false.",
+      "solution": "Both statements need to be evaluated to determine which (if any) are true: <br/><br/> <b>Statement (I)</b> : SiO_2 and GeO_2 are acidic while SnO and PbO are amphoteric in nature. <br/><br/> This statement is generally true. The oxides of silicon (SiO_2) and germanium (GeO_2) are indeed acidic. These elements belong to group 14 of the periodic table and as you move down the group, the acidic character of the oxides decreases while the basic character increases. Tin oxide (SnO) and lead oxide (PbO) are lower in the group and they are amphoteric, which means they show both acidic and basic properties depending on the reacting substance. <br/><br/> <b>Statement (II)</b> : Allotropic forms of carbon are due to the property of catenation and p \\pi-d \\pi bond formation. <br/><br/> This statement is false. Catenation is indeed the property that carbon has to form long chains and rings with other carbon atoms, which is responsible for the vast number of organic compounds. However, in the con of pure carbon allotropes\\\u2014such as diamond, graphite, and fullerene\\\u2014the different physical structures and properties are mainly due to the sp^3, sp^2, and sp hybridizations of carbon, not to p \\pi-d \\pi bonding. Carbon does not use d-orbitals in forming the allotropes. The p \\pi-d \\pi bonding is typically discussed in the con of transition metal complexes, not allotropic forms of carbon. <br/><br/> Thus, the correct answer is <b>Option D</b> : Statement I is true but Statement II is false.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -441,13 +426,13 @@
     {
       "question": "The compound that is white in color is",
       "options": {
-        "A": "mmonium sulphide",
-        "B": "ammonium arsinomolybdate",
-        "C": "lead iodide",
-        "D": "lead sulphate"
+        "A": "Mmonium sulphide",
+        "B": "Ammonium arsinomolybdate",
+        "C": "Lead iodide",
+        "D": "Lead sulphate"
       },
       "answer": "D",
-      "solution": "Lead sulphate-white Ammonium sulphide-soluble Lead iodide-Bright yellow Ammonium arsinomolybdate-yellow",
+      "solution": "Lead sulphate-white Ammonium sulphide-soluble Lead iodide-B yellow Ammonium arsinomolybdate-yellow",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -462,7 +447,7 @@
         "D": "(C) and (D) Only"
       },
       "answer": "C",
-      "solution": "(A) Covalent radius of group 14 elements increases from C to Pb. (B) Electronegativity decreases from C to Si and thereafter it remains more or less constant. (C) Maximum covalency of C is 4 as the outermost shell of C is 2^\\text nd shell and it cannot expand its octet. But other elements can expand their covalency due to the availability of vacant d-orbitals. (D) Heavier elements do not form p \\pi-p \\pi bonds due to their larger atomic size. (E) Carbon can show negative oxidation states when it is covalently bonded to less electronegative elements like CH_4.",
+      "solution": "(A) Covalent radius of group 14 elements increases from C to Pb. (B) Electronegativity decreases from C to Si and thereafter it remains more or less constant. (C) Maximum covalency of C is 4 as the outermost shell of C is 2^ nd shell and it cannot expand its octet. But other elements can expand their covalency due to the availability of vacant d-orbitals. (D) Heavier elements do not form p \\pi-p \\pi bonds due to their larger atomic size. (E) Carbon can show negative oxidation states when it is covalently bonded to less electronegative elements like CH_4.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -487,7 +472,7 @@
       "question": "metal \\u\u2082\u2080\u2081\u2088M\\u\u2082\u2080\u2081\u2089 reacts with nitrogen gas to afford \\u\u2082\u2080\u2081\u2088M<sub>3</sub>N\\u\u2082\u2080\u2081\u2089. \\u\u2082\u2080\u2081\u2088M<sub>3</sub>N\\u\u2082\u2080\u2081\u2089 on heating at high temperature gives back \\u\u2082\u2080\u2081\u2088M\\u\u2082\u2080\u2081\u2089 and on reaction with water produces a gas \\u\u2082\u2080\u2081\u2088B\\u\u2082\u2080\u2081\u2089. Gas \\u\u2082\u2080\u2081\u2088B\\u\u2082\u2080\u2081\u2089 reacts with aqueous solution of CuSO<sub>4</sub> to form a deep blue compound. \\u\u2082\u2080\u2081\u2088M\\u\u2082\u2080\u2081\u2089 and \\u\u2082\u2080\u2081\u2088B\\u\u2082\u2080\u2081\u2089 respectively are :",
       "options": {
         "A": "Li and NH<sub>3</sub>",
-        "B": "a and N<sub>2</sub>",
+        "B": "A and N<sub>2</sub>",
         "C": "Na and NH<sub>3</sub>",
         "D": "Al and N<sub>2</sub>"
       },
@@ -502,12 +487,12 @@
       "question": "The compound that does not produce nitrogen gas by the thermal decomposition is :",
       "options": {
         "A": "(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>",
-        "B": "a(N<sub>3</sub>)<sub>2</sub>",
+        "B": "A(N<sub>3</sub>)<sub>2</sub>",
         "C": "(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>",
         "D": "NH<sub>4</sub>NO<sub>2</sub>"
       },
       "answer": "A",
-      "solution": "Thermal decomposition reaction of the given compounds are . . . <br><br>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> \\buildrel \\Delta \\over \\longrightarrow 2 NH<sub>3</sub>(g) + H<sub>2</sub>SO<sub>4</sub> <br><br>Ba (N<sub>3</sub>)<sub>2</sub> \\buildrel \\Delta \\over \\longrightarrow Ba + 3N<sub>2</sub>(g) <br><br>NH<sub>4</sub>NO<sub>2</sub> \\buildrel \\Delta \\over \\longrightarrow N<sub>2</sub>(g) + 2H<sub>2</sub>O <br><br>(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> \\buildrel \\Delta \\over \\longrightarrow N<sub>2</sub>(g) + 4H<sub>2</sub>O + Cr<sub>2</sub>O<sub>3</sub> <br><br>So, here you can see only (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> does not give N<sub>2</sub> by thermal decomposition it gives NH<sub>3</sub> while other give N<sub>2</sub> gas",
+      "solution": "Thermal decomposition reaction of the given compounds are . . . <br><br>(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> \\buildrel \\Delta \\over \\longarrow 2 NH<sub>3</sub>(g) + H<sub>2</sub>SO<sub>4</sub> <br><br>Ba (N<sub>3</sub>)<sub>2</sub> \\buildrel \\Delta \\over \\longarrow Ba + 3N<sub>2</sub>(g) <br><br>NH<sub>4</sub>NO<sub>2</sub> \\buildrel \\Delta \\over \\longarrow N<sub>2</sub>(g) + 2H<sub>2</sub>O <br><br>(NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> \\buildrel \\Delta \\over \\longarrow N<sub>2</sub>(g) + 4H<sub>2</sub>O + Cr<sub>2</sub>O<sub>3</sub> <br><br>So, here you can see only (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> does not give N<sub>2</sub> by thermal decomposition it gives NH<sub>3</sub> while other give N<sub>2</sub> gas",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -522,7 +507,7 @@
         "D": "Mg and Mg(NO<sub>3</sub>)<sub>2</sub>"
       },
       "answer": "C",
-      "solution": "3Mg(A) + N<sub>2</sub> \\buildrel \\Delta \\over \\longrightarrow Mg<sub>3</sub>N<sub>2</sub>(B) \\buildrel 6H_2O \\over \\longrightarrow <br>3Mg(OH)<sub>2</sub> + 2NH<sub>3</sub> (colourless gas) <br><br>CuSO + 4NH<sub>3</sub> \\to [Cu(NH<sub>3</sub>)<sub>4</sub>]SO<sub>4</sub> (deep blue solution)",
+      "solution": "3Mg(A) + N<sub>2</sub> \\buildrel \\Delta \\over \\longarrow Mg<sub>3</sub>N<sub>2</sub>(B) \\buildrel 6H_2O \\over \\longarrow <br>3Mg(OH)<sub>2</sub> + 2NH<sub>3</sub> (colourless gas) <br><br>CuSO + 4NH<sub>3</sub> \\to [Cu(NH<sub>3</sub>)<sub>4</sub>]SO<sub>4</sub> (deep blue solution)",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -532,9 +517,9 @@
       "question": "The correct statement with respect to dinitrogen is :",
       "options": {
         "A": "N<sub>2</sub> is paramagnetic in nature",
-        "B": "it can be used as an inert diluent for reactive chemicals",
-        "C": "it can combine with dioxygen at 25<sup>o</sup>C",
-        "D": "liquid dinitrogen is not used in cryosurgery"
+        "B": "It can be used as an inert diluent for reactive chemicals",
+        "C": "It can combine with dioxygen at 25<sup>o</sup>C",
+        "D": "Liquid dinitrogen is not used in cryosurgery"
       },
       "answer": "B",
       "solution": "(1) N<sub>2</sub> is diamagnetic, with no unpaired elctrons. <br><br>(2) In iron and chemical Industry because of its inertness it is used where an inert atmosphere is required. <br><br>(3) N<sub>2</sub> does not combine with oxygen, hydrogen or most other elements. Nitrogen will combine with oxygen, however in the presence of lightining or a spark. <br><br>(4) Liquid nitrogen is used as a refrigerant to preserve biological material food items and in cryosurgery.",
@@ -546,7 +531,7 @@
     {
       "question": "Find A, B and C in the following reactions :<br/><br/>NH_3 + A + CO_2 \\to (NH_4)_2CO_3<br/><br/>(NH_4)_2CO_3 + H_2O + B \\to NH_4HCO_3<br/><br/>NH_4HCO_3 + NaCl \\to NH_4Cl + C",
       "options": {
-        "A": "A - O_2;B - CO_2;C - Na_2CO_3",
+        "A": "- O_2;B - CO_2;C - Na_2CO_3",
         "B": "A - H_2O;B - O_2;C - NaHCO_3",
         "C": "A - H_2O;B - O_2;C - Na_2CO_3",
         "D": "A - H_2O;B - CO_2;C - NaHCO_3"
@@ -576,8 +561,8 @@
     {
       "question": "Which one of the following group-15 hydride is the strongest reducing agent?",
       "options": {
-        "A": "sH<sub>3</sub>",
-        "B": "iH<sub>3</sub>",
+        "A": "SH<sub>3</sub>",
+        "B": "IH<sub>3</sub>",
         "C": "PH<sub>3</sub>",
         "D": "SbH<sub>3</sub>"
       },
@@ -592,12 +577,12 @@
       "question": "Nitrogen gas is obtained by thermal decomposition of :",
       "options": {
         "A": "Ba(NO<sub>3</sub>)<sub>2</sub>",
-        "B": "a(N<sub>3</sub>)<sub>2</sub>",
+        "B": "A(N<sub>3</sub>)<sub>2</sub>",
         "C": "NaNO<sub>2</sub>",
         "D": "NaNO<sub>3</sub>"
       },
       "answer": "B",
-      "solution": "Ba\\left(N_3\\right)_2 \\Delta\\longrightarrow Ba+3 N_2",
+      "solution": "Ba(N_3\\)_2 \\Delta\\longarrow Ba+3 N_2",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -621,10 +606,10 @@
     {
       "question": "PCl<sub>5</sub> is well known, but NCl<sub>5</sub> is not. because,",
       "options": {
-        "A": "nitrogen is less reactive than phosphorus.",
-        "B": "nitrogen doesn't have d-orbitals in its valence shell.",
-        "C": "atenation tendency is weaker in nitrogen than phosphorus.",
-        "D": "size of phosphorus is larger than nitrogen."
+        "A": "Nitrogen is less reactive than phosphorus.",
+        "B": "Nitrogen doesn't have d-orbitals in its valence shell.",
+        "C": "Atenation tendency is weaker in nitrogen than phosphorus.",
+        "D": "Size of phosphorus is larger than nitrogen."
       },
       "answer": "B",
       "solution": "PCl_5 is well known but NCl_5 is not because nitrogen does not have vacant d-orbitals in its valence shell.<br/><br/> So, nitrogen cannot expand its octet. On the other hand, phosphorus has vacant d-orbitals in its valence shell which enables it to expand its octet.",
@@ -649,12 +634,12 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "A \\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_^573\\,K Red phosphorus \\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_under\\,pressure^heat\\,;\\,803\\,K B Red phosphorus is obtained by heating \"A\" at 573 K, and can be converted to \"B\" by heating at 803 K under pressure. A and B, respectively, are",
+      "question": "A \\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_^573\\,K Red phosphorus \\mathrel\\mathop\\kern\u2080pt\\longarrow \\limits_under\\,pressure^heat\\,;\\,803\\,K B Red phosphorus is obtained by heating \"A\" at 573 K, and can be converted to \"B\" by heating at 803 K under pressure. A and B, respectively, are",
       "options": {
         "A": "\\beta-black phosphorus and white phosphorus.",
-        "B": "white phosphorus and \\beta-black phosphorus.",
+        "B": "White phosphorus and \\beta-black phosphorus.",
         "C": "\\alpha-black phosphorus and white phosphorus.",
-        "D": "white phosphorus and \\alpha-black phosphorus."
+        "D": "White phosphorus and \\alpha-black phosphorus."
       },
       "answer": "D",
       "solution": "Red phosphrous is obtained by heating white phosphorous at 573 K in inert atmosphere. When red phosphorous is heated in a sealed tube at 803 K, we get \\alpha-black phosphorous. <br/><br/> \\beta-Black phosphorous is prepared by heating white phosphorous at 473 K under high pressure.",
@@ -664,7 +649,7 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Match List - I with List - II. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I<br/>(Processes / Reactions)</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II<br/>(Catalyst)</th> </thead> <tbody> (A) 2SO_2(g) + O_2(g) \\to 2SO_3(g) (I) Fe(s) (B) 4NH_3(g) + 5O_2(g) \\to 4NO(g) + 6H_2O(g) (II) Pt(s) - Rh(s) (C) N_2(g) + 3H_2(g) \\to 2NH_3(g) (III) V_2O_5 (D) Vegetable oil(l) + H_2 \\to Vegetable ghee(s) (IV) Ni(s) </tbody> Choose the correct answer from the options given below :",
+      "question": "Match List - I with List - II. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;-align:left;vertical-align:top <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I<br/>(Processes / Reactions)</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II<br/>(Catalyst)</th> </thead> <tbody> (A) 2SO_2(g) + O_2(g) \\to 2SO_3(g) (I) Fe(s) (B) 4NH_3(g) + 5O_2(g) \\to 4NO(g) + 6H_2O(g) (II) Pt(s) - Rh(s) (C) N_2(g) + 3H_2(g) \\to 2NH_3(g) (III) V_2O_5 (D) Vegetable oil(l) + H_2 \\to Vegetable ghee(s) (IV) Ni(s) </tbody> Choose the correct answer from the options given below :",
       "options": {
         "A": "(A)-(III),(B)-(I),(C)-(II),(D)-(IV)",
         "B": "(A)-(III),(B)-(II),(C)-(I),(D)-(IV)",
@@ -672,7 +657,7 @@
         "D": "(A)-(IV),(B)-(II),(C)-(III),(D)-(I)"
       },
       "answer": "B",
-      "solution": "(A) 2 SO_2(g)+O_2(g) V_2 O_5\\longrightarrow 2 SO_3 <br/><br/> (B) 4 NH_3(g)+5 O_2(g) Pt(s)-Rh(s)\\longrightarrow 4 NO(g)+6 H_2 O(g) <br/><br/> (C) N_2(g)+3 H_2(g) Fe(s)\\longrightarrow 2 NH_3(g) <br/><br/> (D) Vegetable oil(I) +H_2 Ni(s)\\longrightarrow Vegetable ghee(s)",
+      "solution": "(A) 2 SO_2(g)+O_2(g) V_2 O_5\\longarrow 2 SO_3 <br/><br/> (B) 4 NH_3(g)+5 O_2(g) Pt(s)-Rh(s)\\longarrow 4 NO(g)+6 H_2 O(g) <br/><br/> (C) N_2(g)+3 H_2(g) Fe(s)\\longarrow 2 NH_3(g) <br/><br/> (D) Vegetable oil(I) +H_2 Ni(s)\\longarrow Vegetable ghee(s)",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -687,17 +672,17 @@
         "D": "The reaction is endothermic and require very high temperature."
       },
       "answer": "D",
-      "solution": "N_2 is unreactive, its reaction with oxides is endothermic and require very high temperature.<br/><br/> N_2+O_2 \\overset(1483-2000 K)\\leftrightharpoons 2 NO <br/><br/> (Endothermic and feasible at high temperature)",
+      "solution": "N_2 is unreactive, its reaction with oxides is endothermic and require very high temperature.<br/><br/> N_2+O_2 \\overset(1483-2000 K)\\leftharpoons 2 NO <br/><br/> (Endothermic and feasible at high temperature)",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : Statement I : SbCl_5 is more covalent than SbCl_3 Statement II: The higher oxides of halogens also tend to be more stable than the lower ones. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statement I : SbCl_5 is more covalent than SbCl_3 \nStatement II: The higher oxides of halogens also tend to be more stable than the lower ones. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both statement I and Statement II are correct",
-        "B": "oth Statement I and Statement II are incorrect",
+        "B": "Both Statement I and Statement II are incorrect",
         "C": "Statement I is correct but Statement II is incorrect",
         "D": "Statement I is incorrect but Statement II is correct"
       },
@@ -717,7 +702,7 @@
         "D": "PH_3"
       },
       "answer": "C",
-      "solution": "The reducing strength of a substance is generally associated with its ability to donate electrons to other substances. In the context of hydrides of Group 15 elements, such as SbH_3, NH_3, BiH_3, and PH_3, the reducing strength can be considered based on their chemical reactivity, stability, and tendency to donate electrons. In general, the stability of hydrides decreases as we move down the group in the periodic table, which means that heavier hydrides are less stable and hence act as stronger reducing agents. This trend is primarily due to the increase in the size of the central atom as we move down the group, leading to weaker bonds between the central atom and hydrogen in the hydride. As the bond strength decreases, the hydrides can more readily release hydrogen in the form of protons (H<sup>+</sup>) or hydride ions (H<sup>\\u\u2082\u2082\u2081\u2082</sup>), making them stronger reducing agents. The order of reducing strength for Group 15 hydrides is typically as follows: BiH_3 > SbH_3 > PH_3 > NH_3 Among the options given, BiH_3 (bismuthine) is the strongest reducing agent. It is the least stable of the listed hydrides, due to the large size and low electronegativity of bismuth compared to antimony, phosphorus, and nitrogen. This makes BiH_3 more prone to releasing electrons and acting as a reducing agent. In contrast, NH_3 (ammonia) is the most stable among the given hydrides and, therefore, the weakest reducing agent. Its bond with hydrogen is comparatively stronger, and nitrogen's higher electronegativity makes the molecule more resistant to donating electrons. Thus, the correct answer is Option C, BiH_3.",
+      "solution": "The reducing strength of a substance is generally associated with its ability to donate electrons to other substances. In the con of hydrides of Group 15 elements, such as SbH_3, NH_3, BiH_3, and PH_3, the reducing strength can be considered based on their chemical reactivity, stability, and tendency to donate electrons. In general, the stability of hydrides decreases as we move down the group in the periodic table, which means that heavier hydrides are less stable and hence act as stronger reducing agents. This trend is primarily due to the increase in the size of the central atom as we move down the group, leading to weaker bonds between the central atom and hydrogen in the hydride. As the bond strength decreases, the hydrides can more readily release hydrogen in the form of protons (H<sup>+</sup>) or hydride ions (H<sup>\\u\u2082\u2082\u2081\u2082</sup>), making them stronger reducing agents. The order of reducing strength for Group 15 hydrides is typically as follows: BiH_3 > SbH_3 > PH_3 > NH_3 Among the options given, BiH_3 (bismuthine) is the strongest reducing agent. It is the least stable of the listed hydrides, due to the large size and low electronegativity of bismuth compared to antimony, phosphorus, and nitrogen. This makes BiH_3 more prone to releasing electrons and acting as a reducing agent. In contrast, NH_3 (ammonia) is the most stable among the given hydrides and, therefore, the weakest reducing agent. Its bond with hydrogen is comparatively stronger, and nitrogen's higher electronegativity makes the molecule more resistant to donating electrons. Thus, the correct answer is Option C, BiH_3.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -732,7 +717,7 @@
         "D": "H_2 S"
       },
       "answer": "C",
-      "solution": "Nessler's Reagent Reaction : \\underset\\text (Nessler's Reagent) 2 K_2 HgI_4+NH_3+3 KOH \\rightarrow \\underset\\substack\\text (lodine of Millon's base \\\\ \\text (Brown precipitate HgO . Hg\\left(NH_2\\right) I+7 KI+2 H_2 O",
+      "solution": "Nessler's Reagent Reaction : \\underset (Nessler's Reagent) 2 K_2 HgI_4+NH_3+3 KOH \\arrow \\underset\\substack (lodine of Millon's base \\\\ (Brown precipitate HgO . Hg(NH_2\\) I+7 KI+2 H_2 O",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -757,9 +742,9 @@
       "question": "In qualitative test for identification of presence of phosphorous, the compound is heated with an oxidising agent. Which is further treated with nitric acid and ammonium molybdate respectively. The yellow coloured precipitate obtained is :",
       "options": {
         "A": "Na_3 PO_4 \u00b7 12 MoO_3",
-        "B": "\\left(NH_4\\right)_3 PO_4 \u00b7 12\\left(NH_4\\right)_2 MoO_4",
+        "B": "(NH_4\\)_3 PO_4 \u00b7 12(NH_4\\)_2 MoO_4",
         "C": "MoPO_4 \u00b7 21 NH_4 NO_3",
-        "D": "\\left(NH_4\\right)_3 PO_4 \u00b7 12 MoO_3"
+        "D": "(NH_4\\)_3 PO_4 \u00b7 12 MoO_3"
       },
       "answer": "D",
       "solution": "For test of phosphorus: H_3PO_4 + 12(NH_4)_2MoO_4 + 21HNO_3 \\to \\mathop (NH_4)_3\\,.\\,12MoO_3\\limits_(Yellow\\,ppt) + 21NH_4NO_3 + 12H_2O",
@@ -772,7 +757,7 @@
       "question": "<b>Assertion :</b> Nitrogen and Oxygen are the main components in the atmosphere but these do not react to form oxides of nitrogen.<br/><br> <b>Reason :</b> The reaction between nitrogen and oxygen requires high temperature. </br>",
       "options": {
         "A": "Both assertion and reason are correct, and the reason is the correct explanation for the assertion",
-        "B": "oth assertion and reason are correct, but the reason is not the correct explanation for the assertion",
+        "B": "Oth assertion and reason are correct, but the reason is not the correct explanation for the assertion",
         "C": "The assertion is incorrect, but the reason is correct",
         "D": "Both the assertion and reason are incorrect"
       },
@@ -799,12 +784,12 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statement : one is labelled as Assertion A and the other is labelled as Reason R. <br/><br/><b>Assertion A</b> : SO<sub>2</sub>(g) is absorbed to a large extent than H<sub>2</sub>(g) on activated charcoal.<br/><br/><b>Reason R</b> : SO<sub>2</sub>(g) has a higher critical temperature than H<sub>2</sub>(g).<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below.",
+      "question": "Given below are two statement : one is labelled as Assertion A and the other is labelled as Reason R. <br/><br/><b>Assertion A</b> : SO<sub>2</sub>(g) is absorbed to a large extent than H<sub>2</sub>(g) on activated charcoal.<br/><br/><b>Reason R</b> : SO<sub>2</sub>(g) has a higher critical temperature than H<sub>2</sub>(g).<br/><br/>\nIn the light of the above statements, choose the most appropriate answer from the options given below.",
       "options": {
-        "A": "Both A and R are correct but R is not the correct explanation of A.",
-        "B": "oth A and R are correct and R is the correct explanation of A.",
-        "C": "is not correct but R is correct.",
-        "D": "is correct but R is not correct."
+        "A": "Both",
+        "B": "Oth",
+        "C": "Is not correct but R is correct.",
+        "D": "Is correct but R is not correct."
       },
       "answer": "B",
       "solution": "Gases having higher critical temperature absorb to a greater extent.",
@@ -814,7 +799,7 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Match List - I with List - II :<br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - I<br/>(compound)</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - II<br/>(effect/affected species)</th> </thead> <tbody> (a) Carbon monoxide (i) Carcinogenic (b) Sulphur dioxide (ii) Metabolized by pyrus plants (c) Polychlorinated biphenyls (iii) haemoglobin (d) Oxides of Nitrogen (iv) Stiffness of flower buds </tbody> <br/><br/>Choose the correct answer from the options given below :",
+      "question": "Match List - I with List - II :<br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-7bttborder-color:inherit;font-weight:bold;-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;-align:left;vertical-align:top <thead> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - I<br/>(compound)</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - II<br/>(effect/affected species)</th> </thead> <tbody> (a) Carbon monoxide (i) Carcinogenic (b) Sulphur dioxide (ii) Metabolized by pyrus plants (c) Polychlorinated biphenyls (iii) haemoglobin (d) Oxides of Nitrogen (iv) Stiffness of flower buds </tbody> <br/><br/>Choose the correct answer from the options given below :",
       "options": {
         "A": "(a) - (iii), (b) - (iv), (c) - (i), (d) - (ii)",
         "B": "(a) - (iv), (b) - (i), (c) - (iii), (d) - (ii)",
@@ -852,7 +837,7 @@
         "D": "2SO<sub>2</sub> + O<sub>2</sub> + 2H<sub>2</sub>O \\to 2H<sub>2</sub>SO<sub>4</sub>"
       },
       "answer": "D",
-      "solution": "2\\textSO_2 +\\textO_2 +\\text\u2082H_2 \\textO \\longrightarrow \\text\u2082H_2 \\textSO_4 Acid rain occurs due to increased concentration of oxides of sulphur and Nitrogen.",
+      "solution": "2SO_2 +O_2 +\u2082H_2 O \\longarrow \u2082H_2 SO_4 Acid rain occurs due to increased concentration of oxides of sulphur and Nitrogen.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -904,10 +889,10 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : Statement (I) : Oxygen being the first member of group 16 exhibits only -2 oxidation state. Statement (II) : Down the group 16 stability of +4 oxidation state decreases and +6 oxidation state increases. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statement (I) : Oxygen being the first member of group 16 exhibits only -2 oxidation state. Statement (II) : Down the group 16 stability of +4 oxidation state decreases and +6 oxidation state increases. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement I is correct but Statement II is incorrect",
-        "B": "oth Statement I and Statement II are incorrect",
+        "B": "Both Statement I and Statement II are incorrect",
         "C": "Statement I is incorrect but Statement II is correct",
         "D": "Both Statement I and Statement II are correct"
       },
@@ -919,27 +904,27 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements: <b>Statement I</b> : S_8 solid undergoes disproportionation reaction under alkaline conditions to form S^2- and S_2 O_3 ^2-. <b>Statement II</b> : ClO_4^- can undergo disproportionation reaction under acidic condition. In the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :",
+      "question": "Given below are two statements: <b>Statement I</b> : S_8 solid undergoes disproportionation reaction under alkaline conditions to form S^2- and S_2 O_3 ^2-. <b>Statement II</b> : ClO_4^- can undergo disproportionation reaction under acidic condition. \nIn the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :",
       "options": {
         "A": "Statement I is correct but statement II is incorrect",
-        "B": "oth statement I and statement II are incorrect",
+        "B": "Oth statement I and statement II are incorrect",
         "C": "Statement I is incorrect but statement II is correct",
         "D": "Both statement I and statement II are correct"
       },
       "answer": "A",
-      "solution": "S_1: S_8+12 OH^\u207b \\rightarrow 4 S^2-+2 S_2 O_3^2-+6 H_2 O S_2: ClO_4^\u207b cannot undergo disproportionation reaction as chlorine is present in it's highest oxidation state.",
+      "solution": "S_1: S_8+12 OH^\u207b \\arrow 4 S^2-+2 S_2 O_3^2-+6 H_2 O S_2: ClO_4^\u207b cannot undergo disproportionation reaction as chlorine is present in it's highest oxidation state.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "p-Block Elements"
     },
     {
-      "question": "A and B formed in the following reactions are: \\beginaligned & CrO_2 Cl_2+4 NaOH \\rightarrow A+2 NaCl+2 H_2 O, \\\\ & A+2 HCl+2 H_2 O_2 \\rightarrow B+3 H_2 O \\endaligned",
+      "question": "A and B formed in the following reactions are: \\beginaligned & CrO_2 Cl_2+4 NaOH \\arrow A+2 NaCl+2 H_2 O, \\\\ & A+2 HCl+2 H_2 O_2 \\arrow B+3 H_2 O \\endaligned",
       "options": {
-        "A": "A=Na_2 Cr_2 O_7, B=CrO_5",
-        "B": "A=Na_2 CrO_4, B=CrO_5",
-        "C": "A=Na_2 Cr_2 O_4, B=CrO_4",
-        "D": "A=Na_2 Cr_2 O_7, B=CrO_3"
+        "A": "=Na_2 Cr_2 O_7,",
+        "B": "A=Na_2 CrO_4,",
+        "C": "A=Na_2 Cr_2 O_4,",
+        "D": "A=Na_2 Cr_2 O_7,"
       },
       "answer": "B",
       "solution": "CrO_2 + 4NaOH \\to \\mathop Na_2CrO_4\\limits_(A) + 2NaCl + 2H_2O Na_2CrO_4 + 2H_2O_2 + 2HCl \\to \\mathop CrO_5\\limits_(B) + \\mathop 2NaCl\\limits_(Mis\\sin g\\,from\\,balanced\\,equation) + 3H_2O",
@@ -949,7 +934,7 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Given below are two statements : Statement (I) : The gas liberated on warming a salt with dil H_2 SO_4, turns a piece of paper dipped in lead acetate into black, it is a confirmatory test for sulphide ion. Statement (II) : In statement-I the colour of paper turns black because of formation of lead sulphite. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statement (I) : The gas liberated on warming a salt with dil H_2 SO_4, turns a piece of paper dipped in lead acetate into black, it is a confirmatory test for sulphide ion. Statement (II) : In statement-I the colour of paper turns black because of formation of lead sulphite. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are false",
         "B": "Statement I is true but Statement II is false",
@@ -957,7 +942,7 @@
         "D": "Statement I is false but Statement II is true"
       },
       "answer": "B",
-      "solution": "Na_2 S+H_2 SO_4 \\rightarrow Na_2 SO_4+H_2 S (CH_3COO)_2Pb + H_2S \\to \\mathop PbS\\limits_Black\\,lead\\,sulphide + 2CH_3COOH",
+      "solution": "Na_2 S+H_2 SO_4 \\arrow Na_2 SO_4+H_2 S (CH_3COO)_2Pb + H_2S \\to \\mathop PbS\\limits_Black\\,lead\\,sulphide + 2CH_3COOH",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -972,7 +957,7 @@
         "D": "Nitrous oxide"
       },
       "answer": "D",
-      "solution": "When lead sulphide (PbS) reacts with dilute nitric acid, the reaction is a redox process where lead sulphide is oxidized and nitric acid is reduced. The overall reaction involves the transformation of PbS and HNO<sub>3</sub> to form lead nitrate (Pb(NO<sub>3</sub>)<sub>2</sub>), sulphur, and nitrogen oxides, along with water. The specific nitrogen oxide formed depends on the reaction conditions, including the concentration of nitric acid and the temperature. Typically, with dilute nitric acid, nitric oxide (NO) and nitrogen dioxide (NO<sub>2</sub>) are more common products than nitrous oxide (N<sub>2</sub>O). The general reaction can be represented as: \\textPbS + 4\\textHNO_3 \\rightarrow \\textPb(NO_3\\text)_2 + \\textSO_2 + 2\\textH_2\\textO + 2\\textNO Or, under some conditions, sulphur (S) may also be one of the products instead of or in addition to SO<sub>2</sub>: \\textPbS + 2\\textHNO_3 \\rightarrow \\textPb(NO_3\\text)_2 + \\textS + 2\\textH_2\\textO From the reaction above, you can see: <ul> <li>Sulphur (<b>Option A</b>) can be formed depending on the specific conditions of the reaction, making it a potentially correct product.</li> <li>Nitric oxide (<b>Option B</b>) is typically produced when dilute nitric acid reacts with PbS, making it a correct product.</li> <li>Lead nitrate (<b>Option C</b>) is definitely formed in the reaction, making it a correct product.</li> <li>However, Nitrous oxide (<b>Option D</b>) is <b>not</b> a typical product of the reaction of lead sulphide with dilute nitric acid. It could be formed under special circumstances in reactions involving nitrogen compounds, but it's not a standard outcome for the conditions described.</li> </ul> Therefore, the correct answer to the question is <b>Option D: Nitrous oxide</b>. It is not a typical product of the reaction of lead sulphide with dilute nitric acid under normal conditions.",
+      "solution": "When lead sulphide (PbS) reacts with dilute nitric acid, the reaction is a redox process where lead sulphide is oxidized and nitric acid is reduced. The overall reaction involves the transformation of PbS and HNO<sub>3</sub> to form lead nitrate (Pb(NO<sub>3</sub>)<sub>2</sub>), sulphur, and nitrogen oxides, along with water. The specific nitrogen oxide formed depends on the reaction conditions, including the concentration of nitric acid and the temperature. Typically, with dilute nitric acid, nitric oxide (NO) and nitrogen dioxide (NO<sub>2</sub>) are more common products than nitrous oxide (N<sub>2</sub>O). The general reaction can be represented as: PbS + 4HNO_3 \\arrow Pb(NO_3)_2 + SO_2 + 2H_2O + 2NO Or, under some conditions, sulphur (S) may also be one of the products instead of or in addition to SO<sub>2</sub>: PbS + 2HNO_3 \\arrow Pb(NO_3)_2 + S + 2H_2O From the reaction above, you can see: <ul> <li>Sulphur (<b>Option A</b>) can be formed depending on the specific conditions of the reaction, making it a potentially correct product.</li> <li>Nitric oxide (<b>Option B</b>) is typically produced when dilute nitric acid reacts with PbS, making it a correct product.</li> <li>Lead nitrate (<b>Option C</b>) is definitely formed in the reaction, making it a correct product.</li> <li>However, Nitrous oxide (<b>Option D</b>) is <b>not</b> a typical product of the reaction of lead sulphide with dilute nitric acid. It could be formed under special circumstances in reactions involving nitrogen compounds, but it's not a standard outcome for the conditions described.</li> </ul> Therefore, the correct answer to the question is <b>Option D: Nitrous oxide</b>. It is not a typical product of the reaction of lead sulphide with dilute nitric acid under normal conditions.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -987,7 +972,7 @@
         "D": "(A) and (C) only"
       },
       "answer": "D",
-      "solution": "Let's analyze each statement provided about p-block elements and determine their correctness: <strong>(A) Non metals have higher electronegativity than metals.</strong> This statement is correct. Non-metals, especially those in the upper right of the periodic table like fluorine, oxygen, and nitrogen, have higher electronegativity values compared to metals. <strong>(B) Non metals have lower ionisation enthalpy than metals.</strong> This statement is incorrect. Non-metals generally have higher ionization enthalpy compared to metals because they hold onto their electrons more tightly due to higher nuclear charge and smaller atomic radii. <strong>(C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic.</strong> This statement is correct. Highly reactive nonmetals (like halogens) tend to gain electrons while highly reactive metals (like alkali metals and alkaline earth metals) tend to lose electrons, resulting in the formation of ionic compounds. <strong>(D) The non-metal oxides are generally basic in nature.</strong> This statement is incorrect. Non-metal oxides are generally acidic in nature. They react with bases to form salts and water. <strong>(E) The metal oxides are generally acidic or neutral in nature.</strong> This statement is incorrect. Metal oxides are usually basic in nature, although some metal oxides can be amphoteric (both acidic and basic). Most metal oxides react with acids to form salts and water. After evaluating all the statements, the correct statements are (A) and (C). Therefore, the correct answer is: <strong>Option D: (A) and (C) only</strong>",
+      "solution": "Let's analyze each statement provided about p-block elements and determine their correctness: <strong>(A) Non metals have higher electronegativity than metals.</strong> This statement is correct. Non-metals, especially those in the upper of the periodic table like fluorine, oxygen, and nitrogen, have higher electronegativity values compared to metals. <strong>(B) Non metals have lower ionisation enthalpy than metals.</strong> This statement is incorrect. Non-metals generally have higher ionization enthalpy compared to metals because they hold onto their electrons more tightly due to higher nuclear charge and smaller atomic radii. <strong>(C) Compounds formed between highly reactive nonmetals and highly reactive metals are generally ionic.</strong> This statement is correct. Highly reactive nonmetals (like halogens) tend to gain electrons while highly reactive metals (like alkali metals and alkaline earth metals) tend to lose electrons, resulting in the formation of ionic compounds. <strong>(D) The non-metal oxides are generally basic in nature.</strong> This statement is incorrect. Non-metal oxides are generally acidic in nature. They react with bases to form salts and water. <strong>(E) The metal oxides are generally acidic or neutral in nature.</strong> This statement is incorrect. Metal oxides are usually basic in nature, although some metal oxides can be amphoteric (both acidic and basic). Most metal oxides react with acids to form salts and water. After evaluating all the statements, the correct statements are (A) and (C). Therefore, the correct answer is: <strong>Option D: (A) and (C) only</strong>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -998,7 +983,7 @@
       "options": {
         "A": "Oxygen",
         "B": "Iodine",
-        "C": "hlorine",
+        "C": "Hlorine",
         "D": "Fluorine"
       },
       "answer": "D",
@@ -1027,7 +1012,7 @@
       "question": "The species given below that does NOT show disproportionation reaction is :",
       "options": {
         "A": "BrO_4^ -",
-        "B": "BrO^ -",
+        "B": "RO^ -",
         "C": "BrO_2^ -",
         "D": "BrO_3^ -"
       },
@@ -1047,7 +1032,7 @@
         "D": "[Ag(NH<sub>3</sub>)Cl]Cl"
       },
       "answer": "C",
-      "solution": "AgCl +2NH_3 \\rightarrow \\begingathered\\left[ Ag \\left( NH_3 \\right)_2 \\right]^+ Cl^- \\\\ \\textSoluble \\endgathered",
+      "solution": "AgCl +2NH_3 \\arrow \\begingathered\\left[ Ag ( NH_3 \\)_2 \\]^+ Cl^- \\\\ Soluble \\endgathered",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -1062,7 +1047,7 @@
         "D": "\\Delta_eg H(Se)<\\Delta_eg H(S)"
       },
       "answer": "C",
-      "solution": "\\Delta H_eg(Cl)=-349 kJ / \\text mole <br/><br/>\\Delta H_eg(F)=-333 kJ / mole <br/><br/> \\Delta H_eg(I)=-296 kJ / mole <br/><br/> \\Delta H_eg(Se)=-195 kJ / mole <br/><br/> \\Delta H_eg(S)=-200 kJ / \\text mole <br/><br/> \\Delta H_eg(Te)=-190 kJ / mole <br/><br/> \\Delta H_eg(Po)=-174 kJ / mole <br/><br/>Electron gain enthalpy of Se is less negative than that of sulphur. <br/><br/>Option A: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(I) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(At) <br/><br/>Iodine (I) is above Astatine (At) in Group 17 (Halogens), so \\u\u2080\u2083\u2089\u2084egH(I) should be more negative than \\u\u2080\u2083\u2089\u2084egH(At). This statement is correct. <br/><br/>Option B: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Te) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Po) <br/><br/>Tellurium (Te) is above Polonium (Po) in Group 16 (Chalcogens), so \\u\u2080\u2083\u2089\u2084egH(Te) should be more negative than \\u\u2080\u2083\u2089\u2084egH(Po). This statement is correct. <br/><br/>Option C: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Cl) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(F) <br/><br/>Chlorine (Cl) is below Fluorine (F) in Group 17 (Halogens). However, the electron gain enthalpy of Chlorine is more negative than that of Fluorine. So, this statement is incorrect. <br/><br/>Option D: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Se) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(S) <br/><br/>Selenium (Se) is below Sulfur (S) in Group 16 (Chalcogens), so \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Se) should be less negative (higher) than \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(S). This statement is correct. <br/><br/><b>Note :</b> Although the general trend across a period in the periodic table is for the electron gain enthalpy to become more negative, there is an exception between Fluorine (F) and Chlorine (Cl) in the halogen group (Group 17). The electron gain enthalpy of Chlorine is more negative than that of Fluorine for the following reasons: <ol> <li> <strong>Small atomic size of Fluorine</strong>: Fluorine has the smallest atomic size among all the elements in the halogen group. As a result, the electron-electron repulsion in the 2p orbital of Fluorine is significant when an extra electron is added. This repulsion reduces the energy released during the electron gain process, leading to a less negative electron gain enthalpy value for Fluorine compared to Chlorine. </li> <li> <strong>High effective nuclear charge in Fluorine</strong>: Fluorine has a higher effective nuclear charge than Chlorine, which means the positively charged nucleus attracts the negatively charged electrons more strongly in Fluorine. The high effective nuclear charge in Fluorine also contributes to the electron-electron repulsion in the 2p orbital, further reducing the energy released when gaining an electron. </li> </ol> Despite the general trend of electron gain enthalpy becoming more negative across a period, the combination of Fluorine's small atomic size and high effective nuclear charge results in Chlorine having a more negative electron gain enthalpy than Fluorine.",
+      "solution": "\\Delta H_eg(Cl)=-349 kJ / mole <br/><br/>\\Delta H_eg(F)=-333 kJ / mole <br/><br/> \\Delta H_eg(I)=-296 kJ / mole <br/><br/> \\Delta H_eg(Se)=-195 kJ / mole <br/><br/> \\Delta H_eg(S)=-200 kJ / mole <br/><br/> \\Delta H_eg(Te)=-190 kJ / mole <br/><br/> \\Delta H_eg(Po)=-174 kJ / mole <br/><br/>Electron gain enthalpy of Se is less negative than that of sulphur. <br/><br/>Option A: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(I) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(At) <br/><br/>Iodine (I) is above Astatine (At) in Group 17 (Halogens), so \\u\u2080\u2083\u2089\u2084egH(I) should be more negative than \\u\u2080\u2083\u2089\u2084egH(At). This statement is correct. <br/><br/>Option B: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Te) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Po) <br/><br/>Tellurium (Te) is above Polonium (Po) in Group 16 (Chalcogens), so \\u\u2080\u2083\u2089\u2084egH(Te) should be more negative than \\u\u2080\u2083\u2089\u2084egH(Po). This statement is correct. <br/><br/>Option C: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Cl) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(F) <br/><br/>Chlorine (Cl) is below Fluorine (F) in Group 17 (Halogens). However, the electron gain enthalpy of Chlorine is more negative than that of Fluorine. So, this statement is incorrect. <br/><br/>Option D: \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Se) < \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(S) <br/><br/>Selenium (Se) is below Sulfur (S) in Group 16 (Chalcogens), so \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(Se) should be less negative (higher) than \\u\u2080\u2083\u2089\u2084<sub>eg</sub>H(S). This statement is correct. <br/><br/><b>Note :</b> Although the general trend across a period in the periodic table is for the electron gain enthalpy to become more negative, there is an exception between Fluorine (F) and Chlorine (Cl) in the halogen group (Group 17). The electron gain enthalpy of Chlorine is more negative than that of Fluorine for the following reasons: <ol> <li> <strong>Small atomic size of Fluorine</strong>: Fluorine has the smallest atomic size among all the elements in the halogen group. As a result, the electron-electron repulsion in the 2p orbital of Fluorine is significant when an extra electron is added. This repulsion reduces the energy released during the electron gain process, leading to a less negative electron gain enthalpy value for Fluorine compared to Chlorine. </li> <li> <strong>High effective nuclear charge in Fluorine</strong>: Fluorine has a higher effective nuclear charge than Chlorine, which means the positively charged nucleus attracts the negatively charged electrons more strongly in Fluorine. The high effective nuclear charge in Fluorine also contributes to the electron-electron repulsion in the 2p orbital, further reducing the energy released when gaining an electron. </li> </ol> Despite the general trend of electron gain enthalpy becoming more negative across a period, the combination of Fluorine's small atomic size and high effective nuclear charge results in Chlorine having a more negative electron gain enthalpy than Fluorine.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -1073,7 +1058,7 @@
       "options": {
         "A": "Bromine",
         "B": "Iodine",
-        "C": "hlorine",
+        "C": "Hlorine",
         "D": "Fluorine"
       },
       "answer": "D",
@@ -1086,9 +1071,9 @@
     {
       "question": "Identify the incorrect pair from the following :",
       "options": {
-        "A": "Fluoroapatite -3 Ca_3\\left(PO_4\\right)_2 \u00b7 CaF_2",
+        "A": "Fluoroapatite -3 Ca_3(PO_4\\)_2 \u00b7 CaF_2",
         "B": "Carnallite -KCl \u00b7 MgCl_2 \u00b7 6 H_2 O",
-        "C": "ryolite -Na_3 AlF_6",
+        "C": "Ryolite -Na_3 AlF_6",
         "D": "Fluorspar -BF_3"
       },
       "answer": "D",
@@ -1114,7 +1099,7 @@
       "chapter": "p-Block Elements"
     },
     {
-      "question": "Among the following halogens F_2, Cl_2, Br_2 \\text and I_2 Which can undergo disproportionation reactions?",
+      "question": "Among the following halogens F_2, Cl_2, Br_2 and I_2 Which can undergo disproportionation reactions?",
       "options": {
         "A": "F_2 and Cl_2",
         "B": "Cl_2, Br_2 and I_2",
@@ -1122,7 +1107,7 @@
         "D": "F_2, Cl_2 and Br_2"
       },
       "answer": "B",
-      "solution": "To determine which halogens among F_2, Cl_2, Br_2, and I_2 can undergo disproportionation reactions, we need to understand what a disproportionation reaction is. In a disproportionation reaction, a single substance is simultaneously oxidized and reduced, forming two different products. The halogen X<sub>2</sub> disproportionates in water as follows: X_2 + H_2O \\rightarrow HX + HXO Here, X represents a halogen. Let's analyze each halogen to see if disproportionation is possible: <strong>Fluorine (F_2):</strong> Fluorine is the most electronegative element and has a very high oxidation potential. It does not undergo disproportionation because it prefers to remain in the -1 oxidation state and does not form higher oxidation states easily. Therefore, F_2 cannot undergo a disproportionation reaction. <strong>Chlorine (Cl_2):</strong> Chlorine can undergo disproportionation. In water, chlorine disproportionates as follows: Cl_2 + H_2O \\rightarrow HCl + HOCl Here, chlorine is both reduced to HCl (chloride, -1 oxidation state) and oxidized to HOCl (hypochlorite, +1 oxidation state). <strong>Bromine (Br_2):</strong> Bromine can also undergo disproportionation. In water, bromine disproportionates as follows: Br_2 + H_2O \\rightarrow HBr + HOBr Here, bromine is both reduced to HBr (bromide, -1 oxidation state) and oxidized to HOBr (hypobromite, +1 oxidation state). <strong>Iodine (I_2):</strong> Iodine can also undergo disproportionation. In alkaline solutions, iodine disproportionates as follows: I_2 + OH^- \\rightarrow I^- + IO^- Here, iodine is both reduced to I^- (iodide, -1 oxidation state) and oxidized to IO^- (hypoiodite, +1 oxidation state). Based on the above analysis, all halogens except F_2 can undergo disproportionation. Therefore, the correct answer is: Option B <strong>Cl_2, Br_2 and I_2</strong>",
+      "solution": "To determine which halogens among F_2, Cl_2, Br_2, and I_2 can undergo disproportionation reactions, we need to understand what a disproportionation reaction is. In a disproportionation reaction, a single substance is simultaneously oxidized and reduced, forming two different products. The halogen X<sub>2</sub> disproportionates in water as follows: X_2 + H_2O \\arrow HX + HXO Here, X represents a halogen. Let's analyze each halogen to see if disproportionation is possible: <strong>Fluorine (F_2):</strong> Fluorine is the most electronegative element and has a very high oxidation potential. It does not undergo disproportionation because it prefers to remain in the -1 oxidation state and does not form higher oxidation states easily. Therefore, F_2 cannot undergo a disproportionation reaction. <strong>Chlorine (Cl_2):</strong> Chlorine can undergo disproportionation. In water, chlorine disproportionates as follows: Cl_2 + H_2O \\arrow HCl + HOCl Here, chlorine is both reduced to HCl (chloride, -1 oxidation state) and oxidized to HOCl (hypochlorite, +1 oxidation state). <strong>Bromine (Br_2):</strong> Bromine can also undergo disproportionation. In water, bromine disproportionates as follows: Br_2 + H_2O \\arrow HBr + HOBr Here, bromine is both reduced to HBr (bromide, -1 oxidation state) and oxidized to HOBr (hypobromite, +1 oxidation state). <strong>Iodine (I_2):</strong> Iodine can also undergo disproportionation. In alkaline solutions, iodine disproportionates as follows: I_2 + OH^- \\arrow I^- + IO^- Here, iodine is both reduced to I^- (iodide, -1 oxidation state) and oxidized to IO^- (hypoiodite, +1 oxidation state). Based on the above analysis, all halogens except F_2 can undergo disproportionation. Therefore, the correct answer is: Option B <strong>Cl_2, Br_2 and I_2</strong>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -1191,10 +1176,10 @@
     {
       "question": "In comparison to boron, berylium has :",
       "options": {
-        "A": "lesser nuclear charge and greater first ionisation enthalpy",
-        "B": "greater nuclear charge and greater first ionisation enthalpy",
-        "C": "greater nuclear charge and lesser first ionisation enthalpy",
-        "D": "lesser nuclear charge and lesser first ionisation ethalpy"
+        "A": "Lesser nuclear charge and greater first ionisation enthalpy",
+        "B": "Greater nuclear charge and greater first ionisation enthalpy",
+        "C": "Greater nuclear charge and lesser first ionisation enthalpy",
+        "D": "Lesser nuclear charge and lesser first ionisation ethalpy"
       },
       "answer": "A",
       "solution": "Electronic configuration of Be(4) = 1s<sup>2</sup>2s<sup>2</sup> <br>Electronic configuration of B(5) = 1s<sup>2</sup>2s<sup>2</sup>2p<sup>1</sup> <br><br>Removing electron from outer most shell of Be is harder compare to B, as for Be\u2082s orbital is full filled so it is stable therefore required more ionization enthalpy to remove an electron. <br>We know in a period from left to righ effective nuclear charge increases, so B will have more nuclear charge.",
@@ -1268,11 +1253,11 @@
       "options": {
         "A": "HNO<sub>3</sub>",
         "B": "AgNO<sub>3</sub>",
-        "C": "uSO<sub>4</sub>",
+        "C": "USO<sub>4</sub>",
         "D": "BaSO<sub>4</sub>"
       },
       "answer": "B",
-      "solution": "Organic compound is heated with fuming nitric acid in the presence of silver nitrate in carius method.<br><br>Lunar caustic (AgNO<sub>3</sub>) is used as reagent hare to distinguish Cl<sup>-</sup>, Br<sup>-</sup> and I<sup>-</sup> respectively as follows.<br><br>Cl^ - (aq)\\buildrel AgNO_3 \\over \\longrightarrow AgCl \\downarrow _ppt white<br><br>Br^ - (aq)\\buildrel AgNO_3 \\over \\longrightarrow AgBr \\downarrow _ppt pale yellow<br><br>I^ - (aq)\\buildrel AgNO_3 \\over \\longrightarrow AgI \\downarrow _ppt Dark yellow",
+      "solution": "Organic compound is heated with fuming nitric acid in the presence of silver nitrate in carius method.<br><br>Lunar caustic (AgNO<sub>3</sub>) is used as reagent hare to distinguish Cl<sup>-</sup>, Br<sup>-</sup> and I<sup>-</sup> respectively as follows.<br><br>Cl^ - (aq)\\buildrel AgNO_3 \\over \\longarrow AgCl \\downarrow _ppt white<br><br>Br^ - (aq)\\buildrel AgNO_3 \\over \\longarrow AgBr \\downarrow _ppt pale yellow<br><br>I^ - (aq)\\buildrel AgNO_3 \\over \\longarrow AgI \\downarrow _ppt Dark yellow",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -1283,7 +1268,7 @@
       "options": {
         "A": "NH_2OH.HCl",
         "B": "N_2H_4.HCl",
-        "C": "CH_3NH_2.HCl",
+        "C": "H_3NH_2.HCl",
         "D": "NH_4Cl"
       },
       "answer": "C",
@@ -1296,10 +1281,10 @@
     {
       "question": "During halogen test, sodium fusion extract is boiled with concentrated HNO<sub>3</sub> to",
       "options": {
-        "A": "remove unreacted sodium",
-        "B": "decompose cyanide or sulphide of sodium",
-        "C": "extract halogen from organic compound",
-        "D": "maintain the pH of extract."
+        "A": "Remove unreacted sodium",
+        "B": "Decompose cyanide or sulphide of sodium",
+        "C": "Extract halogen from organic compound",
+        "D": "Maintain the pH of extract."
       },
       "answer": "B",
       "solution": "During test for halogen, if nitrogen or sulphur is also present in the compound, then sodium fusion extract is first boiled with concentrated nitric acid to decompose cyanide or sulphide of sodium formed during Lassaigne's test.",

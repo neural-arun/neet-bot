@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "States of Matter and Thermodynamics",
-  "total_questions": 113,
+  "total_questions": 98,
   "questions": [
     {
       "question": "Refer to the Face-Centered Cubic (FCC) unit cell lattice diagram. Calculate the total number of effective atoms per unit cell in an FCC crystal structure:",
@@ -25,7 +25,7 @@
         "A": "T = t BT = t + 27",
         "B": "15 CT = t - 27",
         "C": "15 DT = t * 27",
-        "D": "15"
+        "D": "15%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** The relationship between the Kelvin and Celsius temperature scales is that T = t + 273.15. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -43,7 +43,7 @@
         "D": "None of these"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Step-by-Step Reasoning **The Key Relationship:** \\Delta H = \\Delta U + \\Delta nRT Where: - \\u\u2080\u2083\u2089\u2084H = enthalpy change - \\u\u2080\u2083\u2089\u2084U = internal energy change - \\u\u2080\u2083\u2089\u2084n = change in number of moles of gas - R = gas constant (always positive) - T = temperature in Kelvin (always positive) **Calculate \\u\u2080\u2083\u2089\u2084n:** - **Gaseous reactants:** N\\u\u2082\u2080\u2088\u2082(g) + 3H\\u\u2082\u2080\u2088\u2082(g) = **4 moles** - **Gaseous products:** 2NH\\u\u2082\u2080\u2088\u2083(g) = **2 moles** - **\\u\u2080\u2083\u2089\u2084n = 2 - 4 = -2** (negative!) **Substitute:** \\Delta H = \\Delta U + (-2)RT \\Delta H = \\Delta U - 2RT Since 2RT is a **positive quantity**: \\Delta H = \\Delta U - \\text(positive value) Therefore: **\\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Why This Happens In this reaction, **4 moles of gas become 2 moles of gas**\\\u2014there's a decrease in the number of gas molecules. This means: - Work is done **on the system** by surroundings (compression) - The system loses energy as work - \\u\u2080\u2083\u2089\u2084U > \\u\u2080\u2083\u2089\u2084H by exactly \\u\u2080\u2083\u2089\u2084(nRT) ## Why Other Options Are Wrong - **(A) \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U:** Only true when \\u\u2080\u2083\u2089\u2084n = 0 (no change in moles of gas) - **(B) \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U:** Would only be true if \\u\u2080\u2083\u2089\u2084n were positive (increasing moles of gas) - **(D) None of these:** Wrong because (C) is correct ## Key Formula to Remember \\boxed\\Delta H = \\Delta U + \\Delta n_gasRT **For NEET:** Always check \\u\u2080\u2083\u2089\u2084n = (moles of gaseous products) - (moles of gaseous reactants) to determine whether \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U, \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U, or \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U",
+      "solution": "# Answer: **(C) \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Step-by-Step Reasoning **The Key Relationship:** \\Delta H = \\Delta U + \\Delta nRT Where: - \\u\u2080\u2083\u2089\u2084H = enthalpy change - \\u\u2080\u2083\u2089\u2084U = internal energy change - \\u\u2080\u2083\u2089\u2084n = change in number of moles of gas - R = gas constant (always positive) - T = temperature in Kelvin (always positive) **Calculate \\u\u2080\u2083\u2089\u2084n:** - **Gaseous reactants:** N\\u\u2082\u2080\u2088\u2082(g) + 3H\\u\u2082\u2080\u2088\u2082(g) = **4 moles** - **Gaseous products:** 2NH\\u\u2082\u2080\u2088\u2083(g) = **2 moles** - **\\u\u2080\u2083\u2089\u2084n = 2 - 4 = -2** (negative!) **Substitute:** \\Delta H = \\Delta U + (-2)RT \\Delta H = \\Delta U - 2RT Since 2RT is a **positive quantity**: \\Delta H = \\Delta U - (positive value) Therefore: **\\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Why This Happens In this reaction, **4 moles of gas become 2 moles of gas**\\\u2014there's a decrease in the number of gas molecules. This means: - Work is done **on the system** by surroundings (compression) - The system loses energy as work - \\u\u2080\u2083\u2089\u2084U > \\u\u2080\u2083\u2089\u2084H by exactly \\u\u2080\u2083\u2089\u2084(nRT) ## Why Other Options Are Wrong - **(A) \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U:** Only true when \\u\u2080\u2083\u2089\u2084n = 0 (no change in moles of gas) - **(B) \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U:** Would only be true if \\u\u2080\u2083\u2089\u2084n were positive (increasing moles of gas) - **(D) None of these:** Wrong because (C) is correct ## Key Formula to Remember \\boxed\\Delta H = \\Delta U + \\Delta n_gasRT **For NEET:** Always check \\u\u2080\u2083\u2089\u2084n = (moles of gaseous products) - (moles of gaseous reactants) to determine whether \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U, \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U, or \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Chemistry",
@@ -52,7 +52,7 @@
     {
       "question": "1 mol of ice is converted to liquid at 273 K; H\u2082 O (s) and H\u2082 O (l) have entropies 38.20 and 60.03 J m o l - 1 d e g . Enthalpy changes in the conversion will be",
       "options": {
-        "A": "5",
+        "A": "5%",
         "B": "59 J/mol B\u2085\u2089\u2085",
         "C": "59 J/mol C\u2085\u2089",
         "D": "959 J/mol"
@@ -68,9 +68,9 @@
       "question": "The lattice energy of solid NaCl is 180 kcal/mol. The dissolution of the solid in water in the form of ions is endothermic to the extent of 1 kcal/mol. If the hydration energies of Na + and Cl - are in the ratio 6 : 5, what is the enthalpy of hydration of Na + ion ?",
       "options": {
         "A": "-",
-        "B": "5 kcal mol -1 B - 9",
-        "C": "64 kcal mol -1 C + 8",
-        "D": "6 kcal mol -1 D + 100 kcal mol -1"
+        "B": "5 kcal mol -1",
+        "C": "64 kcal mol -1",
+        "D": "6 kcal mol -1"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H solu = \u0394 H hydration + \u0394 H Lattice 1 = \u0394 H hydration + 18 0 \u0394 H hydration = - 17 9 kcal mol - 1 \u0394 H hyd Na + + \u0394 H hyd cl - = -17 9 kcal mol - 1 \u0394 H hyd Na + = - 17 9 \u00d7 61 1 = - 97 \u00b7 64 kcal mol - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -83,7 +83,7 @@
       "question": "Which change must result in an increase in the average kinetic energy of the molecules of a sample of N\u2082 ( g ) ?",
       "options": {
         "A": "The pressure changes from",
-        "B": "5 atmosphere to 1 atm B The volume changes from 1 L to 2 LC The temperature changes from 20 \u00b0 C to 30 \u00b0 CD The density changes from",
+        "B": "5 atmosphere to 1 atm",
         "C": "0 g/L to",
         "D": "5 g/L"
       },
@@ -97,10 +97,10 @@
     {
       "question": "The \u0394 H f 0 for C O\u2082 ( g ) , CO ( g ) and H\u2082 O ( g ) are - 393.5 , - 110.5 and - 241.8 k J m o l - 1 respectively. The standard enthalpy changes ( i n k J ) for the reaction C O\u2082 g + H\u2082 g \u2192 CO g + H\u2082 O ( g ) is",
       "options": {
-        "A": "52",
-        "B": "1",
-        "C": "2 C - 26",
-        "D": "5 D \u2013"
+        "A": "52%",
+        "B": "1%",
+        "C": "2%",
+        "D": "5%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H r e a c t i o n \u00b0 = \u0394 H f \u00b0 CO + \u0394 H f \u00b0 H\u2082 O , g - \u0394 H f \u00b0 C O\u2082 , g = \u2013 110.5 \u2013 241.8 + 393.5 = 41.2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -113,9 +113,9 @@
       "question": "Calculate \u0394 f G \u2218 for (NH 4 Cl, s) at 310 K. Given : \u0394 f H \u2218 NH 4 Cl, s = - 314.5 kJ/mol ; \u0394 r C p = 0 S N\u2082 g \u2218 = 192 JK -1 mol -1 ; S H\u2082 g \u2218 = 130.5 JK -1 mol -1 ; S Cl\u2082 g \u2218 = 233 JK -1 mol -1 ; S NH 4 Cl s \u2218 = 99.5 JK -1 mol -1 All given data at 300 K.",
       "options": {
         "A": "- 19",
-        "B": "56 kJ/mol B - 42",
-        "C": "7 kJ/mol C - 20",
-        "D": "3 kJ/mol D None of these"
+        "B": "56 kJ/mol",
+        "C": "7 kJ/mol",
+        "D": "3 kJ/mol"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \u00e2\u0088\u0086 f S\u2080 N H\u2084 C l , s a t 300 K = SN H\u2084 C l ( S ) 0 \u00e2\u0088\u0092 [ 12 S N\u2082\u2080 + 2 S H\u2082\u2080 + 12 SC l 20 ] = - 374 JK - 1 m o l - 1 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f C p = 0 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f S\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 r S\u2083\u2080\u2080\u2080 = - 374 JK - 1 m o l - 1 \u00e2\u0088\u0086 f H\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 f H\u2083\u2080\u2080\u2080 = - 314.5 \u00e2\u0088\u0086 f G\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 f H\u2080 - 310 \u00e2\u0088\u0086 f S\u2080 = - 314.5 - 310 - 3741000 - 198.56 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -127,28 +127,13 @@
     {
       "question": "The enthalpy of atomisation for the reaction CH 4 (g)\u2192 C(g) + 4H (g) is 1665 kJ mol \u20131 . What is the bond energy of C\u2013H bond?",
       "options": {
-        "A": "41",
+        "A": "41%",
         "B": "2 kJ mol \u20131 B\u2084\u2086",
         "C": "4 kJ mol \u20131 C\u2083\u2086",
         "D": "3 kJ mol \u20131 D\u2085\u2083"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 416.2 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The difference between heats of reaction at constant pressure and constant volume for the reaction, 2 C\u2086 H\u2086 ( l ) + 15 O\u2082 ( g ) \u2192 12 C O\u2082 ( g ) + 6 H\u2082 O ( l ) at 25 \u00b0 C in kJ is",
-      "options": {
-        "A": "+",
-        "B": "43 B -",
-        "C": "72 C +",
-        "D": "72 D -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394n g = 12 \u2212 15 = \u2212 3 \u0394H = \u0394E + \u0394n g RT or \u0394H \u2212 \u0394E = \u0394n g RT = \u2212 3 \u00d7 8.314 Jmol \u2212 1 K \u2212 1 \u00d7 298 K = - 7.43 k J m o l - 1 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -173,8 +158,8 @@
       "question": "The bond dissociation energies for C l 2 , I\u2082 and IC l are 242.3 , 151 and 211.3 k J / m o l respectively. The enthalpy of sublimation of iodine is 62.8 k J / m o l . What is the standard enthalpy of formation of IC I ( g ) ?",
       "options": {
         "A": "- 21",
-        "B": "3 k J / m o l B -",
-        "C": "6 k J / m o l C -",
+        "B": "3 k J / m o l",
+        "C": "6 k J / m o l",
         "D": "8 k J / m o l"
       },
       "answer": "A",
@@ -187,7 +172,7 @@
     {
       "question": "non-stoichiometric compound Cu\u2081.8 S is formed due to the incorporation of Cu\u2082+ ions in the lattice. What is the mole percentage of Cu\u2082+ present in the compound?",
       "options": {
-        "A": "8",
+        "A": "8%",
         "B": "88 B\u2088",
         "C": "8 C\u2086",
         "D": "5%"
@@ -203,9 +188,9 @@
       "question": "On F e 2 O\u2083 ( s ) + 32 C ( s ) \u2192 32 C O\u2082 ( g ) + 2 F e ( s ) ; \u0394 H \u00b0 = + 234.1 k JC ( s ) + O\u2082 ( g ) \u2192 C O\u2082 ( g ) ; \u0394 H \u00b0 = - 393.5 kJ Use these equations and \u0394 H \u00b0 values to calculate \u0394 H \u00b0 for this reaction 4 F e ( s ) + 3 O\u2082 ( g ) \u2192 2 F e 2 O\u2083 ( s )",
       "options": {
         "A": "-164",
-        "B": "7 kJ B -125",
-        "C": "3 kJ C -102",
-        "D": "2 kJ D -12"
+        "B": "7 kJ",
+        "C": "3 kJ",
+        "D": "2 kJ"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** 2 F e ( s ) + 32 C O\u2082 ( g ) \u2192 F e 2 O\u2083 ( s ) + 32 C ( s ) ; \u0394 H \u00b0 = - 234.1 k J \u2026(i) C ( s ) + O\u2082 ( g ) \u2192 C O\u2082 ( g ) ( \u0394 H \u00b0 = - 393.5 k J ) \u2026(ii) Multiplying eq. (i) by 2 and eq. (ii) by 3 and on adding both equations, we get 4 F e ( s ) + 3 O\u2082 ( g ) \u2192 2 F e 2 O\u2083 ( s ) ; \u0394 H \u00b0 = ( - 234.1 \u00d7 2 ) + ( - 3 \u00d7 393.5 ) = - 1648.7 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -218,9 +203,9 @@
       "question": "What will happen to the volume of a bubble of air found underwater in a lake, where the temperature is 15 o C and the pressure is 1.5 atm, if the bubble then rises to the surface where the temperature is 25 o C and the pressure is 1.0 atm?",
       "options": {
         "A": "Its volume will become greater by a factor of",
-        "B": "4 B Its volume will become greater by a factor of",
-        "C": "55 C Its volume will become greater by a factor of",
-        "D": "2 D Its volume will become smaller by a factor of"
+        "B": "4%",
+        "C": "55%",
+        "D": "2%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** P\u2081 V i T\u2081 = P\u2082 V f T\u2082 V f = P\u2081 T\u2082 P\u2082 T\u2081 . V f V i = volume of water bubble under water V f = volume of water bubble at the surface V f = 1.5 \u00d7 298 V i 1 \u00d7 288 = 447288 V i = 1.55 Vi The volume becomes greater by a factor of 1.55. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -232,7 +217,7 @@
     {
       "question": "balloon weighing 50 kg is filled with 685.2 kg of helium at 1 atm pressure and 25 o C. What will be its pay load if it displaced 5108 kg of air ?",
       "options": {
-        "A": "437",
+        "A": "437%",
         "B": "8 kg B\u2084\u2084\u2082",
         "C": "8 kg C\u2085\u2087\u2089",
         "D": "2 kg D\u2085\u2088\u2084"
@@ -247,7 +232,7 @@
     {
       "question": "gas expands from 3 d m 3 to 5 d m 3 against a constant pressure of 3 atm. The work done during expansion is used to heat 10 mole of water at temperature 290 K. Calculate final temperature of water. Specific heat of water = 4.184 J/ g/K. [Given: 1 atm = 101.33 J]",
       "options": {
-        "A": "29",
+        "A": "29%",
         "B": "81 K B\u2082\u2089",
         "C": "61 K C\u2082\u2089",
         "D": "41 K D\u2082\u2089"
@@ -264,7 +249,7 @@
       "options": {
         "A": "\u2013 20",
         "B": "6 kJ",
-        "C": "22 kJ C \u2013 810 kJ D \u2013",
+        "C": "22 kJ",
         "D": "96 kJ"
       },
       "answer": "A",
@@ -277,7 +262,7 @@
     {
       "question": "Find the entropy change for vaporisation of water to steam at 100 \u00b0 C in JK - 1 m o l - 1 if heat of vaporisation is 40.8 kJ m o l - 1 .",
       "options": {
-        "A": "10",
+        "A": "10%",
         "B": "38 B\u2081\u2080",
         "C": "38 C\u2081\u2081",
         "D": "38 D\u2081\u2082"
@@ -292,43 +277,13 @@
     {
       "question": "Calculate the radius of X e atom, If the edge of the unit cell FCC is 620 p m .",
       "options": {
-        "A": "18",
+        "A": "18%",
         "B": "37 p m B\u2082\u2080",
         "C": "87 p m C\u2082\u2081",
         "D": "25 p m D\u2082\u2083"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** In FC C arrangement surface diagonal is given by 2 a Hence, 4 r = 2 a r = a 22 ; r = 6202 2 = 219.25 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Standard enthalpy and standard entropy changes for the oxidation of ammonia at 298 K are -382.64 kJ mol^-1 and -145.6 JK^-1 mol^-1, respectively. Standard Gibbs energy change for the same reaction at 298 K is:",
-      "options": {
-        "A": "-22",
-        "B": "1 kJ mol^-1 B -33",
-        "C": "3 kJ mol^-1 C -43",
-        "D": "3 kJ mol^-1 D -52"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \\Delta G=\\Delta H-T \\Delta S=-382.64-298 \\left(\\frac-145.61000\\right) \\beginaligned & =-382.64+43.38 \\\\ & =-339.3 kJ mol^-1 \\endaligned Related Theory Free energy is an extensive quantity, but the standard free energy is an intensive quantity. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The compressibility of a gas is less than unity at STP therefore",
-      "options": {
-        "A": "V m >",
-        "B": "4 litre BV m <",
-        "C": "4 litre CV m =",
-        "D": "4 litre DV m ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The compressibility factor (Z) = P \u00d7 22.4 RT = 1 (for ideal gas) ( Z ) = P \u00d7 V m RT < 1 (for real gas) So\u2082\u2082.4 V m > 1 or V m < 22.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -352,7 +307,7 @@
     {
       "question": "gas cylinder containing cooking gas can withstand a pressure at 14.9 atm. The pressure gauge of the cylinder indicates 12 atm. at 27 \u00b0 C . Due to a sudden fire in the building its temperature starts rising. At what temperature will the cylinder explode?",
       "options": {
-        "A": "37",
+        "A": "37%",
         "B": "5 K",
         "C": "725 K",
         "D": "25 KD None of these"
@@ -367,10 +322,10 @@
     {
       "question": "Lithium metal crystallizes in a body centred cubic crystal. If the length of the side of the unit cell of lithium is 351 pm, the atomic radius of lithium will be :",
       "options": {
-        "A": "30",
-        "B": "5 pm B 24",
-        "C": "8 pm C 15",
-        "D": "8 pm D 7"
+        "A": "30%",
+        "B": "5 pm B\u2082\u2084",
+        "C": "8 pm C\u2081\u2085",
+        "D": "8 pm D\u2087"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** For bcc type of unit cell \\beginaligned \\sqrt\u2083 a & =4 r \\\\ r & =\\frac\\sqrt\u2083\u2084 a \\\\ & =\\frac\u2081.732 \u00d7 3514 \\\\ & =151.98 \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -383,9 +338,9 @@
       "question": "Enthalpy of combustion of carbon to CO 2 is \u2013393.5 kJ mol \u20131 . Calculate the heat released upon formation of 35.2 g of CO 2 from carbon and dioxygen gas.",
       "options": {
         "A": "\u201347",
-        "B": "2 kJ B \u201341",
-        "C": "8 kJ C \u201335",
-        "D": "4 kJ D \u201331"
+        "B": "2 kJ",
+        "C": "8 kJ",
+        "D": "4 kJ"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) \u2013314.8 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -412,10 +367,10 @@
     {
       "question": "Lithium metal crystallises in a body centred cubic crystal. If the length of the side of the unit cell of lithium is 351 pm, the atomic radius of the lithium will be",
       "options": {
-        "A": "24",
-        "B": "8 pm B 15",
-        "C": "98 pm C 7",
-        "D": "5 pm D 30"
+        "A": "24%",
+        "B": "8 pm B\u2081\u2085",
+        "C": "98 pm C\u2087",
+        "D": "5 pm D\u2083\u2080"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** In case of body centred cubic (bcc) crystal, a \\sqrt\u2083=4 r Hence, atomic radius of lithium, r=\\fraca \\sqrt\u2083\u2084 \\beginaligned & =\\frac\u2083\u2085\u2081 \u00d7 1.7324 \\\\ & =151.98 pm \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -427,7 +382,7 @@
     {
       "question": "What is the amount of heat, in joules, required to raise the temperature of 2.0 \u00d7 10^-2 kg of nitrogen (at room temperature) by 45 \u00b0C at constant pressure? (Molecular mass of N_2 = 28; R = 8.3 J mol^-1K^-1.)",
       "options": {
-        "A": "84",
+        "A": "84%",
         "B": "22 J B\u2088\u2084",
         "C": "25 J C\u2089\u2083",
         "D": "38 J D\u2089\u2089"
@@ -443,9 +398,9 @@
       "question": "Calculate the entropy change in surroundings when 1.00 mol of H\u2082 O(l) is formed under standard conditions. (\u2206 f H \u2296 = \u2013286 kJ mol \u20131 )",
       "options": {
         "A": "\u2206S surr = 95",
-        "B": "73 JK \u20131 B \u2206S surr = 91",
-        "C": "42 JK \u20131 C \u2206S surr = 45",
-        "D": "84 JK \u20131 D \u2206S surr = 49"
+        "B": "73 JK \u20131",
+        "C": "42 JK \u20131",
+        "D": "84 JK \u20131"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u2206S surr = 959.73 JK \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -455,24 +410,9 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The absolute enthalpy of neutralisation of the reaction: : MgO_(s)+2 HCl_(a q) \\rightarrow MgCl_2(a q)+H_2 O_(\\cap will be:",
-      "options": {
-        "A": "-5",
-        "B": "33 kJ mol^-1 B greater than -5",
-        "C": "33 kJ mol^-1 C less than -5",
-        "D": "33 kJ mol^-1 D 5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** MgO is salt of weak base. Thus, enthalpy of neutralisation for MgO will be less than -57.33 kJ mol^-1. Related Theory The enthalpy of neutralization of any strong acid with a strong base is always the same, i.e., 57.1 kJ. This is because the strong acids, strong bases and the salts they form, are all completely ionized in dilute aqueous solution. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "PbS has NaCl type structure. The distance between P b 2 + and S\u2082 - ions is 297 pm. What is the volume of unit cell of PbS?",
       "options": {
-        "A": "20",
+        "A": "20%",
         "B": "6 \u00d7 10 - 24 c m 3 B\u2082\u2080",
         "C": "8 \u00d7 10 - 23 c m 3",
         "D": "3 \u00d7 10 - 23 c m 3 D\u2082\u2080"
@@ -487,13 +427,13 @@
     {
       "question": "The volume occupied by 1.8 g of water vapour at 374^\\circ C and 1 bar pressure will be [Use R=0.083 bar LK^-1 mol^-1 ]",
       "options": {
-        "A": "9",
-        "B": "66 L B 5",
+        "A": "9%",
+        "B": "66 L B\u2085",
         "C": "87 L",
         "D": "10 L"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to ideal gas equation, \\beginaligned & pV=nRT \\\\ & V=\\fracnRTp=\\fracw\\text M.wt \\fracRTp \\ldots(i)\\left[\\because n=\\fracwM \u00b7 wt\\right] \\endaligned Given, w=1.8 g, T=374^\\circ C =(374+273) K=647 K p=1 \\text bar, R=0.083 bar LK^-1 mol^-1 On substituting the given values in Eq. (i), we get \\beginaligned V & =\\frac\u2081.8 g\u2081\u2088 g mol^-1 \u00d7 \\frac\u2080.083 bar LK^-1 mol^-1 \u00d7 647 K\u2081 bar \\\\ & =5.37 L \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** According to ideal gas equation, \\beginaligned & pV=nRT \\\\ & V=\\fracnRTp=\\fracw M.wt \\fracRTp \\ldots(i)\\left[\\because n=\\fracwM \u00b7 wt\\] \\endaligned Given, w=1.8 g, T=374^\\circ C =(374+273) K=647 K p=1 bar, R=0.083 bar LK^-1 mol^-1 On substituting the given values in Eq. (i), we get \\beginaligned V & =\\frac\u2081.8 g\u2081\u2088 g mol^-1 \u00d7 \\frac\u2080.083 bar LK^-1 mol^-1 \u00d7 647 K\u2081 bar \\\\ & =5.37 L \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -502,7 +442,7 @@
     {
       "question": "Two litres of an ideal gas at a pressure of 10 atm expands isothermally at 25 \u00b0C into a vacuum until its total volume is 10 litres. Consider the expansion given in problem,for 1 mol of an ideal gas conducted reversibly.How much heat is absorbed in the expansion?",
       "options": {
-        "A": "54",
+        "A": "54%",
         "B": "23 L atm B\u2083\u2089",
         "C": "66 L atm C\u2084\u2086",
         "D": "75 L atm D\u2086\u2082"
@@ -517,28 +457,13 @@
     {
       "question": "KF has NaCl structure. The edge length of its unit cell has been found to be 537.6 pm. The distance between K + and F - in KF is",
       "options": {
-        "A": "53",
+        "A": "53%",
         "B": "6 pm B\u2081\u2080\u2087",
         "C": "2 pm C\u2082\u2086",
-        "D": "5 pm D None of these"
+        "D": "5 pm"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** For Nacl type crystals a = 2 r cation + r anion \\u\u2082\u2081d\u2082 r cation + r anion = a 2 = 5372 = 268.5 pm . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "sample of ferrous oxide has actual formula Fe\u2080.93 O\u2081.00 . In this sample what fraction of metal ions are Fe\u2082+ ions? What type of non stoichiometric defect is present in this sample?",
-      "options": {
-        "A": "Fraction of Fe\u2082+ =",
-        "B": "81 and Metal deficiency defect is present in this sample. B Fraction of Fe\u2082+ =",
-        "C": "81 and Metal excess defect is present in this sample. C Fraction of Fe\u2082+ =",
-        "D": "56 and Metal deficiency defect is present in this sample. D Fraction of Fe\u2082+ ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) Fraction of Fe\u2082+ = 0.81 and Metal deficiency defect is present in this sample. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -549,7 +474,7 @@
       "options": {
         "A": "1 :",
         "B": "92 :",
-        "C": "70",
+        "C": "70%",
         "D": "70 :"
       },
       "answer": "A",
@@ -560,15 +485,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Enthalpy change for the reaction, 4 H(g) \\longrightarrow 2 H_2(g) \\text is -869.6 kJ The dissociation energy of H-H bond is",
+      "question": "Enthalpy change for the reaction, 4 H(g) \\longarrow 2 H_2(g) is -869.6 kJ The dissociation energy of H-H bond is",
       "options": {
         "A": "-86",
-        "B": "6 kJ B +43",
-        "C": "8 kJ C +21",
-        "D": "4 kJ D -43"
+        "B": "6 kJ",
+        "C": "8 kJ",
+        "D": "4 kJ"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \\beginarrayll 4 H(g) & \\rightarrow 2 H_2(g) ; \\Delta H=-869.6 kJ \\\\ 2 H_2(g) & \\rightarrow 4 H(g) ; \\Delta H=869.6 kJ \\\\ H_2(g) & \\rightarrow 2 H(g) ; \\Delta H=\\frac\u2088\u2086\u2089.62=434.8 kJ \\endarray **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \\beginarrayll 4 H(g) & \\arrow 2 H_2(g) ; \\Delta H=-869.6 kJ \\\\ 2 H_2(g) & \\arrow 4 H(g) ; \\Delta H=869.6 kJ \\\\ H_2(g) & \\arrow 2 H(g) ; \\Delta H=\\frac\u2088\u2086\u2089.62=434.8 kJ \\endarray **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -578,9 +503,9 @@
       "question": "Calculate the enthalpy change on freezing of 1.0 mol of water at 10.0\u00b0C to ice at \u201310.0\u00b0C. (\u2206 fus H = 6.03 kJ mol \u20131 at 0\u00b0C , C p [H\u2082 O(l)] = 75.3 J mol \u20131 K \u20131 , C p [H\u2082 O(s)] = 36.8 J mol \u20131 K \u20131 )",
       "options": {
         "A": "\u2013",
-        "B": "543 kJ mol -1 B \u2013",
-        "C": "151 kJ mol \u20131 C \u2013",
-        "D": "582 kJ mol -1 D \u2013"
+        "B": "543 kJ mol -1",
+        "C": "151 kJ mol \u20131",
+        "D": "582 kJ mol -1"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) \u20137.151 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -590,27 +515,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "One mole of an ideal gas CV = 20 \u00e2\u0080\u0089 JK \u00e2\u0088\u0092 1 mol \u00e2\u0088\u0092 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be",
-      "options": {
-        "A": "W = 0 ; q =",
-        "B": "46 k JB W = 0 ; q = 0 CW = -",
-        "C": "46 k J ; q =",
-        "D": "46 k JD W ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** One mole of an ideal gas initially at STP is heated at constant volume to twice the initial temperature, Therefore W = -P \u2206 V = -P \u00d7 0 = 0 Q = C v \u2206 T = 20 \u00d7 273 = 5460 J = 5.46 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "solid compound XY has NaCl structure. If the radius of the cation is 100 pm, the radius of the anion ( Y^-) will be",
       "options": {
-        "A": "27",
-        "B": "1 pm B 32",
-        "C": "5 pm C 24",
-        "D": "5 pm D 16"
+        "A": "27%",
+        "B": "1 pm B\u2083\u2082",
+        "C": "5 pm C\u2082\u2084",
+        "D": "5 pm D\u2081\u2086"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Radius ratio of NaCl like crystal =\\fracr^+r^-=0.414 or r^-=\\frac\u2081\u2080\u2080\u2080.414=241.5 pm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -628,7 +538,7 @@
         "D": "26%"
       },
       "answer": "A",
-      "solution": "# Packing Efficiency of FCC Unit Cell ## **Answer: (C) 74%** --- ## Step-by-Step Solution ### **Step 1: Determine atoms per FCC unit cell** - Corner atoms: 8 \u00d7 (1/8) = 1 atom - Face-centered atoms: 6 \u00d7 (1/2) = 3 atoms - **Total = 4 atoms per unit cell** ### **Step 2: Relate atomic radius (r) to lattice parameter (a)** In FCC, atoms touch along the **face diagonal**: - Face diagonal length = a\u221a2 - This diagonal contains: 4 radii (2r + 2r) a\\sqrt\u2082 = 4r a = \\frac\u2084r\\sqrt\u2082 = 2\\sqrt\u2082r ### **Step 3: Calculate volumes** **Volume occupied by atoms:** V_atoms = 4 \u00d7 \\frac\u2084\u2083\\pi r^3 = \\frac\u2081\u2086\\pi r^33 **Total volume of unit cell:** V_cell = a^3 = (2\\sqrt\u2082r)^3 = 16\\sqrt\u2082r^3 ### **Step 4: Calculate packing efficiency** \\textPacking Efficiency = \\fracV_atomsV_cell \u00d7 100 = \\frac\\frac\u2081\u2086\\pi r^3316\\sqrt\u2082r^3 \u00d7 100 = \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100 = \\frac\u2083.141594.243 \u00d7 100 = 74\\% --- ## Key Formula to Remember \\boxed\\textPacking Efficiency (FCC) = \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100 = 74\\% --- ## Why Other Options Are Wrong | Option | Why Incorrect | |--------|---------------| | **(A) 52.4%** | This is the packing efficiency of **Simple Cubic (SC)** | | **(B) 68%** | Close but incorrect calculation | | **(D) 26%** | This represents the **void space** in FCC, not packing efficiency | **Key Insight:** FCC is one of the most efficient packing arrangements with 74% efficiency, leaving 26% void space.",
+      "solution": "# Packing Efficiency of FCC Unit Cell ## **Answer: (C) 74%** --- ## Step-by-Step Solution ### **Step 1: Determine atoms per FCC unit cell** - Corner atoms: 8 \u00d7 (1/8) = 1 atom - Face-centered atoms: 6 \u00d7 (1/2) = 3 atoms - **Total = 4 atoms per unit cell** ### **Step 2: Relate atomic radius (r) to lattice parameter (a)** In FCC, atoms touch along the **face diagonal**: - Face diagonal length = a\u221a2 - This diagonal contains: 4 radii (2r + 2r) a\\sqrt\u2082 = 4r a = \\frac\u2084r\\sqrt\u2082 = 2\\sqrt\u2082r ### **Step 3: Calculate volumes** **Volume occupied by atoms:** V_atoms = 4 \u00d7 \\frac\u2084\u2083\\pi r^3 = \\frac\u2081\u2086\\pi r^33 **Total volume of unit cell:** V_cell = a^3 = (2\\sqrt\u2082r)^3 = 16\\sqrt\u2082r^3 ### **Step 4: Calculate packing efficiency** Packing Efficiency = \\fracV_atomsV_cell \u00d7 100 = \\frac\\frac\u2081\u2086\\pi r^3316\\sqrt\u2082r^3 \u00d7 100 = \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100 = \\frac\u2083.141594.243 \u00d7 100 = 74\\% --- ## Key Formula to Remember \\boxedPacking Efficiency (FCC) = \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100 = 74\\% --- ## Why Other Options Are Wrong | Option | Why Incorrect | |--------|---------------| | **(A) 52.4%** | This is the packing efficiency of **Simple Cubic (SC)** | | **(B) 68%** | Close but incorrect calculation | | **(D) 26%** | This represents the **void space** in FCC, not packing efficiency | **Key Insight:** FCC is one of the most efficient packing arrangements with 74% efficiency, leaving 26% void space.",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -643,7 +553,7 @@
         "D": "Si"
       },
       "answer": "A",
-      "solution": "# Answer: **(D) Si** ## Step-by-Step Reasoning: **General Trend Across Period 3:** Ionization enthalpy generally **increases from left to right** across a period because: - Nuclear charge increases (more protons) - Number of shells remains constant - Shielding effect remains relatively constant **Electron Configurations:** - Na: [Ne]3s\u00b9 - Mg: [Ne]3s\u00b2 - Al: [Ne]3s\u00b23p\u00b9 - Si: [Ne]3s\u00b23p\u00b2 ## Key Exceptions to Remember: **Mg \u2192 Al anomaly:** Despite Al having higher nuclear charge, Mg has slightly higher ionization enthalpy because: - Mg has a completely **filled 3s\u00b2 orbital** (extra stability) - Al has only one electron in 3p orbital (easier to remove) This creates the order: **Na < Al < Mg < Si** ## Why Si Has the Highest: \u2713 Highest nuclear charge (14 protons) among the four \u2713 No orbital stability anomaly \u2713 More electrons to hold strongly ## Approximate Values (kJ/mol): | Element | IE\u2081 | |---------|-----| | Na | 495.8 | | Al | 577.5 | | Mg | 737.7 | | Si | **786.5** | ## Key Formula to Remember: **IE \u221d (Nuclear charge)/(Distance from nucleus)** Since all are in Period 3, distance is constant, so highest nuclear charge = highest IE.",
+      "solution": "# Answer: **(D) Si** ## Step-by-Step Reasoning: **General Trend Across Period 3:** Ionization enthalpy generally **increases from left to ** across a period because: - Nuclear charge increases (more protons) - Number of shells remains constant - Shielding effect remains relatively constant **Electron Configurations:** - Na: [Ne]3s\u00b9 - Mg: [Ne]3s\u00b2 - Al: [Ne]3s\u00b23p\u00b9 - Si: [Ne]3s\u00b23p\u00b2 ## Key Exceptions to Remember: **Mg \u2192 Al anomaly:** Despite Al having higher nuclear charge, Mg has slightly higher ionization enthalpy because: - Mg has a completely **filled 3s\u00b2 orbital** (extra stability) - Al has only one electron in 3p orbital (easier to remove) This creates the order: **Na < Al < Mg < Si** ## Why Si Has the Highest: \u2713 Highest nuclear charge (14 protons) among the four \u2713 No orbital stability anomaly \u2713 More electrons to hold strongly ## Approximate Values (kJ/mol): | Element | IE\u2081 | |---------|-----| | Na | 495.8 | | Al | 577.5 | | Mg | 737.7 | | Si | **786.5** | ## Key Formula to Remember: **IE \u221d (Nuclear charge)/(Distance from nucleus)** Since all are in Period 3, distance is constant, so highest nuclear charge = highest IE.",
       "exam": "NEET 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -665,57 +575,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "neon-dioxygen mixture contains 70.6 g dioxygen and 167.5 g neon. If pressure of the mixture of gases in the cylinder is 25 bar. What is the partial pressure of dioxygen and neon in the mixture?",
-      "options": {
-        "A": "Partial pressure of Oxygen =",
-        "B": "75 bar , Partial pressure of Neon =",
-        "C": "25 bar B Partial pressure of Oxygen =",
-        "D": "84 bar , Partial pressure of Neon ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Partial pressure of Oxygen = 5.25 bar , Partial pressure of Neon = 19.75 bar **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The value of \u2206 f H \u2296 for NH 3 is \u2013 91.8 kJ mol \u20131 . Calculate enthalpy change for the following reaction : 2NH 3 (g) \u2192 N\u2082 (g) + 3H 2 (g)",
-      "options": {
-        "A": "\u2206 r H \u2296 = -8",
-        "B": "6 kJ mol \u20131 B \u2206 r H \u2296 = -9",
-        "C": "8 kJ mol \u20131 C \u2206 r H \u2296 = +8",
-        "D": "6 kJ mol \u20131 D \u2206 r H \u2296 = +9"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) \u2206 r H \u2296 = +91.8 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Use the following data to calculate \u2206 lattice H \u2296 for NaBr. \u2206 sub H \u2296 for sodium metal = 108.4 kJ mol \u20131 Ionization enthalpy of sodium = 496 kJ mol \u20131 Electron gain enthalpy of bromine = \u2013 325 kJ mol \u20131 Bond dissociation enthalpy of bromine = 192 kJ mol \u20131 \u2206 f H \u2296 for NaBr (s) = \u2013 360.1 kJ mol \u20131",
-      "options": {
-        "A": "\u2206 lattice H \u2296 (NaBr) = +70",
-        "B": "5 kJmol -1 B \u2206 lattice H \u2296 (NaBr) = +78",
-        "C": "5 kJmol -1 C \u2206 lattice H \u2296 (NaBr) = +73",
-        "D": "5 kJmol -1 D \u2206 lattice H \u2296 (NaBr) = +81"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) \u2206 lattice H \u2296 (NaBr) = +735.5 kJmol -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "What is the standard enthalpy of vaporization (\u2206 vap H) for water?",
       "options": {
         "A": "\u2206 vap H= +",
-        "B": "79 kJ mol\u20131 B \u2206 vap H= \u2013 39",
-        "C": "5 kJ mol\u20131 C \u2206 vap H= \u2013 280",
-        "D": "0 kJ mol\u20131 D \u2206 vap H= 43"
+        "B": "79 kJ mol\u20131",
+        "C": "5 kJ mol\u20131",
+        "D": "0 kJ mol\u20131"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** The standard enthalpy of vaporization (\u2206 vap H) for water is \u2206 vap H = + 40.79 kJ mol\u20131. This represents the heat required to vaporize one mole of water at its boiling point under standard pressure. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -728,9 +593,9 @@
       "question": "Enthalpies of formation of CO(g), CO 2 (g), N\u2082 O(g) and N\u2082 O\u2084 (g) are \u2013110, \u2013 393, 81 and 9.7 kJ mol \u20131 respectively. Find the value of \u2206 r H for the reaction: N\u2082 O\u2084 (g) + 3CO(g) \u2192 N\u2082 O(g) + 3CO 2 (g)",
       "options": {
         "A": "\u201377",
-        "B": "7 kJ mol -1 B \u201386",
-        "C": "4 kJ mol -1 C \u201364",
-        "D": "3 kJ mol -1 D \u201357"
+        "B": "7 kJ mol -1",
+        "C": "4 kJ mol -1",
+        "D": "3 kJ mol -1"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u2013777.7 kJ mol -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -742,7 +607,7 @@
     {
       "question": "Pay load is defined as the difference between the mass of displaced air and the mass of the balloon. Calculate the Pay load when a balloon of radius 10 m, mass 100 kg is filled with helium at 1.66 bar at 27\u00b0C. (Density of air = 1.2 kg m \u20133 and R = 0.083 bar dm 3 K \u20131 mol \u20131 ).",
       "options": {
-        "A": "381",
+        "A": "381%",
         "B": "1 kg B\u2083\u2089\u2088",
         "C": "2 kg C\u2083\u2084\u2088",
         "D": "1 kg D\u2083\u2082\u2085"
@@ -757,10 +622,10 @@
     {
       "question": "bubble of air is underwater at temperature 15\u00b0C and the pressure 1.5 bar. If the bubble rises to the surface where the temperature is 25\u00b0C and the pressure is 1.0 bar, what will happen to the volume of the bubble?",
       "options": {
-        "A": "volume will become greater by a factor of",
-        "B": "6 B volume will become greater by a factor of",
-        "C": "1 C volume will become smaller by a factor of",
-        "D": "70 D volume will become greater by a factor of"
+        "A": "Volume will become greater by a factor of",
+        "B": "6%",
+        "C": "1%",
+        "D": "70%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** We know that from ideal equation, V \u221d TP Given T\u2081 = 15 + 273 = 288 , P\u2081 = 1.5 bar T\u2082 = 25 + 273 = 298 , P\u2082 = 1 bar V\u2081 \u221d 2881.5 i . e . V\u2081 \u221d 192 and V\u2082 \u221d 2981 V\u2082 V\u2081 = 298192 = 1.55 \\u\u2082\u2082\u2084\u2085\u2081.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -785,27 +650,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "If the temperature of an ideal gas in a sealed, rigid container is increased to 1.5 times the initial value ( i n K ) , the density of gas",
-      "options": {
-        "A": "becomes",
-        "B": "5 times the initial value B becomes 1 /",
-        "C": "5 times the initial value C becomes",
-        "D": "25 times the initial value D remains same"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** D e n s i t y = m a s s v o l u m e For a sealed rigid container mass as well as volume remains a constant hence the density remains same even if the temperature changes. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "N H\u2084 C l crystallizes in a body-centred cubic lattice with edge length of unit cell equal to 387 pm. If the radius of the C l - ion is 181 pm, radius for N H\u2084 + ion is",
       "options": {
-        "A": "15",
+        "A": "15%",
         "B": "1 pm B\u2089",
         "C": "6 pm C\u2083\u2086",
-        "D": "3 pm D None of these"
+        "D": "3 pm"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** In body centered cubic lattice, oppositely charged ions touch each other along the cube 2 r c + 2 r a = 3 a r c + r a = 32 a = 32 \u00d7 387 = 335.15 p m given r a = 181 p m r c = 335.15 - 181.0 = 154.15 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -819,7 +669,7 @@
       "options": {
         "A": "1:",
         "B": "128:",
-        "C": "224",
+        "C": "224%",
         "D": "128:1:"
       },
       "answer": "A",
@@ -832,13 +682,13 @@
     {
       "question": "The enthalpy of fusion of water is 1.435 kcal / mol. The molar entropy change for the melting of ice at 0^\\circ C is",
       "options": {
-        "A": "1",
-        "B": "52 cal /(mol K) B 2",
+        "A": "1%",
+        "B": "52 cal /(mol K) B\u2082",
         "C": "04 cal /(mol K)",
         "D": "260 cal /(mol K)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Molar entropy change for the melting of ice, \\beginaligned \\Delta S_\\text melt & =\\frac\\Delta H_\\text fusion T \\\\ & =\\frac\u2081.435 kcal / mol(0+273) K \\\\ & =5.26 \u00d7 10^-3 kcal / mol K \\\\ & =5.26 cal / mol K \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Molar entropy change for the melting of ice, \\beginaligned \\Delta S_ melt & =\\frac\\Delta H_ fusion T \\\\ & =\\frac\u2081.435 kcal / mol(0+273) K \\\\ & =5.26 \u00d7 10^-3 kcal / mol K \\\\ & =5.26 cal / mol K \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -848,9 +698,9 @@
       "question": "bubble of air is underwater at temperature 15^\\circ C and the pressure 1.5 bar. If the bubble rises to the surface where the temperature is 25^\\circ C and the pressure is 1.0 bar, what will happen to the volume of the bubble?",
       "options": {
         "A": "Volume will become greater by a factor of",
-        "B": "6 B Volume will become greater by a factor of",
-        "C": "1 C Volume will become smaller by a factor of",
-        "D": "70 D Volume will become greater by a factor of"
+        "B": "6%",
+        "C": "1%",
+        "D": "70%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \\because \\quad \\fracp_1 V_1T_1=\\fracp_2 V_2T_2 (By ideal gas equation) or \\frac\u2081.5 \u00d7 V_1288=\\frac\u2081 \u00d7 V_2298 \\therefore \\quad V_2=1.55 V_1 i.e., volume of bubble will be almost 1.6 times to initial volume of bubble. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -862,10 +712,10 @@
     {
       "question": "Two gases A and B having the same volume diffuse through a porous partition in 20 and 10 seconds respectively. The molecular mass of A is 49 u. Molecular mass of B will be",
       "options": {
-        "A": "1",
+        "A": "1%",
         "B": "25 u",
-        "C": "50 u C 2",
-        "D": "00 u D 5"
+        "C": "50 u C\u2082",
+        "D": "00 u D\u2085"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \\fracr_Ar_B=\\sqrt\\fracM_BM_A or \\fracV_At_A \u00d7 \\fract_BV_B=\\sqrt\\fracM_BM_A or \\quad \\frac\u2081\u2080\u2082\u2080=\\sqrt\\fracM_B\u2084\u2089 or \\quad \\frac\u2081\u2084=\\fracM_B\u2084\u2089 \\therefore \\quad M_B=\\frac\u2084\u2089\u2084=12.25 u. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -877,10 +727,10 @@
     {
       "question": "The \u0394 f H \u00b0 for C O\u2082 ( g ) , CO ( g ) and H\u2082 O ( g ) are -393.5, -110.5 and -241.8 k J m o l - 1 respectively. The standard enthalpy change (in kJ) for the reaction C O\u2082 ( g ) + H\u2082 ( g ) \u2192 CO ( g ) + H\u2082 O ( g ) is",
       "options": {
-        "A": "52",
-        "B": "1",
-        "C": "2 C -26",
-        "D": "5 D -4"
+        "A": "52%",
+        "B": "1%",
+        "C": "2%",
+        "D": "5%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** \u0394 r H = \u03a3 \u0394 f H o Products - \u03a3 \u0394 f H o Reactants = \u0394 f HC O g o + \u0394 f H H\u2082 O g o - \u0394 f HC O\u2082 g o = - 110.5 + - 241.5 - - 393.5 = + 41.2 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -890,25 +740,10 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "5 moles of an ideal gas at 27 \u00b0 C expands isothermally and reversibly from a volume of 5 L to 50 L . The work done by the system is",
-      "options": {
-        "A": "-",
-        "B": "7 KJ B -",
-        "C": "72 KJ",
-        "D": "72 KJ D - 5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** W = - 2.303 n RT l o g V\u2082 V\u2081 = - 2.303 \u00d7 5 \u00d7 8.314 \u00d7 300 \u00d7 l o g 505 = \u201328.72 KJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "The enthalpies of combustion of carbon and carbon monoxide are - 393.5 and - 283 k J m o l - 1 respectively. The enthalpy of formation of carbon monoxide per mole is",
       "options": {
         "A": "\u201367",
-        "B": "5 kJ B \u201311",
+        "B": "5 kJ",
         "C": "5 kJ C\u2081\u2081",
         "D": "5 kJ D\u2086\u2087"
       },
@@ -920,54 +755,9 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "One mole of an ideal gas CV = 20 JK - 1 m o l - 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be-",
-      "options": {
-        "A": "W = 0 ; q =",
-        "B": "46 k JB W = 0 ; q = 0 CW = -",
-        "C": "46 k J ; q =",
-        "D": "46 k JD W ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** T\u2081 = 273 K T\u2082 = 2 \u00d7 273 K \\u\u2082\u2081d\u2082 \u2206 T = 273 Volume is constant So, \u2206 V = 0 W = P \u0394 V = P \u00d7 0 = 0 q = n CV \u0394 T = 20 \u00d7 273 = 5460 J = 5.46 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The following two reactions are known \\beginaligned & Fe_2 O_3( s)+3 CO(g) \\longrightarrow 2 Fe(s)+3 CO_2( g), \\\\ & \\Delta H=-26.8 kJ \\\\ & FeO(s)+CO(g) \\longrightarrow Fe(s)+CO_2( g) \\\\ & \\Delta H=-16.5 kJ \\endaligned The value of \\Delta H for the following reaction Fe_2 O_3( s)+CO(g) \\longrightarrow 2 FeO(s)+CO_2( g) is",
-      "options": {
-        "A": "+1",
-        "B": "3 kJ B -4",
-        "C": "3 kJ C -1",
-        "D": "3 kJ D +"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, (I) Fe_2 O_3( s)+3 CO(g) \\longrightarrow 2 Fe(s)+3 CO_2( g); \\Delta H=-26.8 kJ (II) FeO (s) +CO(g) \\longrightarrow Fe(s)+CO_2( g); \\Delta H=-16.5 kJ On multiplying Eq (II) with 2, we get (III) 2 FeO(s)+2 CO(g) \\longrightarrow 2 Fe(s)+2 CO_2( g); \\Delta H=-33 kJ On subtracting Eq (III) from I, we get \\beginarrayr Fe_2 O_3( s)+CO(g) \\longrightarrow 2 FeO(s)+CO_2( g) ; \\\\ \\Delta H=-26.8-(-33) \\\\ =+6.2 kJ \\endarray **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The compressibility factor of a gas is less than unity at STP. Therefore",
-      "options": {
-        "A": "Vm >",
-        "B": "4 litres B Vm <",
-        "C": "4 litres C Vm =",
-        "D": "4 litres D Vm ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Z = PV / n RT Given Z < 1 PV / n RT < 1 or PV < n RT ( 1 a t m ) \u00c3\u0097 V < 1 m o l \u00c3\u0097 ( 0.0821 L a t m K - 1 m o l - 1 ) \u00c3\u0097 ( 273 K ) V m < 0.0821 \u00d7 273 LV m < 22.4 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "At STP, 0.48 g of O\u2082 diffused through a porous partition in 1200 seconds. What volume of CO 2 will diffuse in the same time and under the same conditions ?",
       "options": {
-        "A": "28",
+        "A": "28%",
         "B": "5 mL B\u2083\u2084",
         "C": "7 mL C\u2081\u2081",
         "D": "2 mL D\u2082\u2082"
@@ -983,9 +773,9 @@
       "question": "The reaction of cyanamide, NH 2 CN (s), with dioxygen was carried out in a bomb calorimeter, and \u2206U was found to be \u2013742.7 kJ mol \u20131 at 298 K. What is the enthalpy change for the reaction at 298 K? NH 2 CN (g) + 3/2 O\u2082 (g) \u2192 N\u2082 (g) + CO 2 (g) + H\u2082 O(l)",
       "options": {
         "A": "\u201374",
-        "B": "9 kJ B \u201378",
-        "C": "4 kJ C \u201364",
-        "D": "8 kJ D \u201369"
+        "B": "9 kJ",
+        "C": "4 kJ",
+        "D": "8 kJ"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u00e2\u0080\u0093743.9 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -999,7 +789,7 @@
       "options": {
         "A": "1:1:1 B\u2081:",
         "B": "128:",
-        "C": "224",
+        "C": "224%",
         "D": "224:1:"
       },
       "answer": "A",
@@ -1012,7 +802,7 @@
     {
       "question": "At\u2082\u2085\u00b0C and 760 mm of Hg pressure, a gas occupies 600 mL volume. What will be its pressure at a height where the temperature is 10\u00b0C and the volume of the gas is 640 mL?",
       "options": {
-        "A": "65",
+        "A": "65%",
         "B": "8 mm Hg B\u2086\u2087",
         "C": "6 mm Hg C\u2086\u2082",
         "D": "4 mm Hg D\u2086\u2089"
@@ -1027,7 +817,7 @@
     {
       "question": "What is the value of the bond dissociation enthalpy for the dissociation of HCl into H and Cl atoms?",
       "options": {
-        "A": "43",
+        "A": "43%",
         "B": "0 J mol-1 B\u2084\u2083",
         "C": "0 kJ C\u2084\u2083",
         "D": "0 kJ mol-1 D\u2084\u2083\u2081\u2080 J"
@@ -1042,7 +832,7 @@
     {
       "question": "If silver crystallizes in an fcc lattice with an edge length of 4.07 \u00d7 10 \u20138 cm and a density of 10.5 g/cm\u00b3, what is the atomic mass of silver?",
       "options": {
-        "A": "10",
+        "A": "10%",
         "B": "87 g/mol B\u2081\u2082",
         "C": "45 g/mol C\u2081\u2083",
         "D": "47 g/mol D\u2081\u2086"
@@ -1057,10 +847,10 @@
     {
       "question": "The structure of PCl<sub>5</sub> in the solid state is :",
       "options": {
-        "A": "square pyramidal",
-        "B": "tetrahedral [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>\\\u2013</sup>",
-        "C": "square planar [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>\\\u2013</sup>",
-        "D": "trigonal bipyramidal"
+        "A": "Square pyramidal",
+        "B": "Tetrahedral [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>\\\u2013</sup>",
+        "C": "Square planar [PCl<sub>4</sub>]<sup>+</sup> and octahedral [PCl<sub>6</sub>]<sup>\\\u2013</sup>",
+        "D": "Trigonal bipyramidal"
       },
       "answer": "B",
       "solution": "In solid state PCl<sub>5</sub> exist in Ionpair i.e. [PCl<sub>4</sub>] <sup>+</sup> and [PCl<sub>6</sub>] <sup>\\\u2013</sup> <br><br>[PCl<sub>4</sub>]<sup>+</sup> is tetrahedral. <br>[PCl<sub>6</sub>]<sup>\\\u2013</sup> is octahedral.",
@@ -1070,7 +860,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A : In the Ellingham diagram, a sharp change in slope of the line is observed for Mg \\rightarrow MgO at \\sim 1120^\\circ C Reason R: There is a large change of entropy associated with the change of state In the light of the above statements, choose the correct answer from the options given below",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A : In the Ellingham diagram, a sharp change in slope of the line is observed for Mg \\arrow MgO at \\sim 1120^\\circ C Reason R: There is a large change of entropy associated with the change of state \nIn the light of the above statements, choose the correct answer from the options given below",
       "options": {
         "A": "Both \\mathbfA and \\mathbfR are true and \\mathbfR is the correct explanation of \\mathbfA",
         "B": "\\mathbfA is false but \\mathbfR is true",
@@ -1100,7 +890,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The following reaction is performed at 298 K<br/> 2NO(g) + O<sub>2</sub> (g) \\leftrightharpoons 2NO<sub>2</sub> (g)<br/> The standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy of formation of NO<sub>2</sub>(g) at 298 K? (KP = 1.6 \u00d7 10<sup>12</sup>)",
+      "question": "The following reaction is performed at 298 K<br/> 2NO(g) + O<sub>2</sub> (g) \\leftharpoons 2NO<sub>2</sub> (g)<br/> The standard free energy of formation of NO(g) is 86.6 kJ/mol at 298 K. What is the standard free energy of formation of NO<sub>2</sub>(g) at 298 K? (KP = 1.6 \u00d7 10<sup>12</sup>)",
       "options": {
         "A": "86600 + R(298) ln(1.6 \u00d7 10<sup>12</sup>)",
         "B": "86600 - ln (1.6 \u00d7 10^12) \\over R (298)",
@@ -1108,7 +898,7 @@
         "D": "R(298) ln(1.6\u00d710<sup>12</sup>) \u2013 86600"
       },
       "answer": "C",
-      "solution": "\\Delta G^ \\circ _NO\\left( g \\right) <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 86.6kJ/mol = 86600J/mol; <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,G^ \\circ _NO_2\\left( g \\right) = x\\,J/mol <br><br>T = 298,\\,K_p = 1.6 \u00d7 10^12 <br><br>\\Delta G^ \\circ = - RT\\,\\ln \\,K_p <br><br>Given equation, <br><br>2NO\\left( g \\right) + O_2\\left( g \\right)\\,\\rightleftharpoons\\,2NO_2\\left( g \\right) <br><br>2\\Delta G^ \\circ _NO_2 - 2\\Delta G^ \\circ _NO <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = - R\\left( 298 \\right)\\ln \\left( 1.6 \u00d7 10^12 \\right) <br><br>2\\Delta G^ \\circ _NO_2 - 2 \u00d7 86600 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = - R\\left( 298 \\right)\\ln \\left( 1.6 \u00d7 10^12 \\right) <br><br>2\\Delta G^ \\circ _NO_2 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 2 \u00d7 86600 - R\\left( 298 \\right)\\ln \\left( 1.6 \u00d7 10^12 \\right) <br><br>\\Delta G^ \\circ _NO_2 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 1 \\over 2\\left[ 2 \u00d7 86600 - R\\left( 298 \\right)\\ln \\left( 1.6 \u00d7 10^12 \\right) \\right] <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 0.5\\left[ 2 \u00d7 86600 - R\\left( 298 \\right)\\ln \\left( 1.6 \u00d7 10^12 \\right) \\right]",
+      "solution": "\\Delta G^ \\circ _NO( g \\) <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 86.6kJ/mol = 86600J/mol; <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,G^ \\circ _NO_2( g \\) = x\\,J/mol <br><br>T = 298,\\,K_p = 1.6 \u00d7 10^12 <br><br>\\Delta G^ \\circ = - RT\\,\\ln \\,K_p <br><br>Given equation, <br><br>2NO( g \\) + O_2( g \\)\\,\\leftharpoons\\,2NO_2( g \\) <br><br>2\\Delta G^ \\circ _NO_2 - 2\\Delta G^ \\circ _NO <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = - R( 298 \\)\\ln ( 1.6 \u00d7 10^12 \\) <br><br>2\\Delta G^ \\circ _NO_2 - 2 \u00d7 86600 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = - R( 298 \\)\\ln ( 1.6 \u00d7 10^12 \\) <br><br>2\\Delta G^ \\circ _NO_2 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 2 \u00d7 86600 - R( 298 \\)\\ln ( 1.6 \u00d7 10^12 \\) <br><br>\\Delta G^ \\circ _NO_2 <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 1 \\over 2\\left[ 2 \u00d7 86600 - R( 298 \\)\\ln ( 1.6 \u00d7 10^12 \\) \\] <br><br>\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\, = 0.5\\left[ 2 \u00d7 86600 - R( 298 \\)\\ln ( 1.6 \u00d7 10^12 \\) \\]",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Chemistry",
@@ -1118,7 +908,7 @@
       "question": "reaction at 1 bar is non-spontaneous at low temperature but becomes spontaneous at high temperature. Identify the correct statement about the reaction among the following :",
       "options": {
         "A": "Both \\Delta H and \\Delta S are negative.",
-        "B": "oth \\Delta H and \\Delta S are positive.",
+        "B": "Oth \\Delta H and \\Delta S are positive.",
         "C": "\\Delta H is positive while \\Delta S is negative.",
         "D": "\\Delta H is negative while \\Delta S is positive."
       },
@@ -1132,13 +922,13 @@
     {
       "question": "At\u2083\u2082\u2080 K, a gas A<sub>2</sub> is 20% dissociated to A(g). The standard free energy change at 320 K and 1 atm in J mol<sup>-1</sup> is approximately : (R = 8.314 JK<sup>-1</sup> mol<sup>-1</sup>; ln\u2082 = 0.693; ln 3 = 1.098)",
       "options": {
-        "A": "4763",
-        "B": "2068",
-        "C": "1844",
-        "D": "4281"
+        "A": "4763%",
+        "B": "2068%",
+        "C": "1844%",
+        "D": "4281%"
       },
       "answer": "D",
-      "solution": "A<sub>2</sub> (g) \\rightleftharpoons 2 A (g) <br><br>Assume initially concentration of A<sub>2</sub> = [A<sub>2</sub>] = 1 m <br><br>at equilibrium [A<sub>2</sub>] = 1 \u00d7 80 \\over 100 = 0.8 M <br><br>and 20% of [A<sub>2</sub>] = 1 \u00d7 20 \\over 100 = 0.2 M <br><br>\\therefore\\,\\,\\,\\, [A] = 2 \u00d7 0.2 = 0.4 M <br><br>Equilibrium constant <br><br>K = [A]^2 \\over [A_2] = \\left[ 0.4 \\right]^2 \\over \\left[ 0.8 \\right] = 0.2 <br><br>\\Delta G<sup>o</sup> = - RT \\ell nK <br><br>= - 8.314 \u00d7 320 \u00d7 \\ell n(0.2) <br><br>= 4281 J/mol.",
+      "solution": "A<sub>2</sub> (g) \\leftharpoons 2 A (g) <br><br>Assume initially concentration of A<sub>2</sub> = [A<sub>2</sub>] = 1 m <br><br>at equilibrium [A<sub>2</sub>] = 1 \u00d7 80 \\over 100 = 0.8 M <br><br>and 20% of [A<sub>2</sub>] = 1 \u00d7 20 \\over 100 = 0.2 M <br><br>\\therefore\\,\\,\\,\\, [A] = 2 \u00d7 0.2 = 0.4 M <br><br>Equilibrium constant <br><br>K = [A]^2 \\over [A_2] = \\left[ 0.4 \\]^2 \\over \\left[ 0.8 \\] = 0.2 <br><br>\\Delta G<sup>o</sup> = - RT \\ell nK <br><br>= - 8.314 \u00d7 320 \u00d7 \\ell n(0.2) <br><br>= 4281 J/mol.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -1149,11 +939,11 @@
       "options": {
         "A": "H<sub>2</sub>(g) \\to 2H(g)",
         "B": "N<sub>2</sub>(g, 1 atm) \\to N<sub>2</sub>(g, 5 atm)",
-        "C": "(diamond) \\to C(graphite)",
+        "C": "(diamond) \\to",
         "D": "N<sub>2</sub>(g, 273 K) \\to N<sub>2</sub>(g, 300 K)"
       },
       "answer": "B",
-      "solution": "N<sub>2</sub>(g, 1 atom) \\buildrel \\, \\over \\longrightarrow N<sub>2</sub>(g, 5 atom) <br><br>Here pressure increases. When pressure increases then the molecules of will come closer and intermoleculer distance decreases, so entropy will also decreases and \\Delta S\\, < \\,0.",
+      "solution": "N<sub>2</sub>(g, 1 atom) \\buildrel \\, \\over \\longarrow N<sub>2</sub>(g, 5 atom) <br><br>Here pressure increases. When pressure increases then the molecules of will come closer and intermoleculer distance decreases, so entropy will also decreases and \\Delta S\\, < \\,0.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -1168,7 +958,7 @@
         "D": "- 208.0 kJ mol<sup>-1</sup>"
       },
       "answer": "B",
-      "solution": "Given <br><br>(i) 2Fe<sub>2</sub>O<sub>3</sub>(s) \\to 4Fe(s) + 3O<sub>2</sub>(g); <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = + 1487.0 kJ mol<sup>-1</sup> <br><br>(ii) 2CO(g) + O<sub>2</sub>(g) \\to 2CO<sub>2</sub>(g); <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = - 514.4 kJ mol<sup>-1</sup> <br><br>Multiply reaction (ii) with 3 and we get, <br><br>(iii) 6CO(g) + 3O<sub>2</sub> (g) \\buildrel \\, \\over \\longrightarrow 6CO<sub>2</sub>(g) ; <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = 3 \u00d7 - 514.4 = - 1543.2 kJ mol<sup>-1</sup> <br><br>Now add reaction (i) with (iii), we get <br><br>2Fe<sub>2</sub>O<sub>3</sub>(s) + 6CO(g) \\buildrel \\, \\over \\longrightarrow 4Fe(s) + 6CO<sub>2</sub>(g) <br><br>\\therefore\\,\\,\\, Free energy change of the reaction, <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = 1487.0 - 1543.2 = - 56.2 kJ/mol",
+      "solution": "Given <br><br>(i) 2Fe<sub>2</sub>O<sub>3</sub>(s) \\to 4Fe(s) + 3O<sub>2</sub>(g); <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = + 1487.0 kJ mol<sup>-1</sup> <br><br>(ii) 2CO(g) + O<sub>2</sub>(g) \\to 2CO<sub>2</sub>(g); <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = - 514.4 kJ mol<sup>-1</sup> <br><br>Multiply reaction (ii) with 3 and we get, <br><br>(iii) 6CO(g) + 3O<sub>2</sub> (g) \\buildrel \\, \\over \\longarrow 6CO<sub>2</sub>(g) ; <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = 3 \u00d7 - 514.4 = - 1543.2 kJ mol<sup>-1</sup> <br><br>Now add reaction (i) with (iii), we get <br><br>2Fe<sub>2</sub>O<sub>3</sub>(s) + 6CO(g) \\buildrel \\, \\over \\longarrow 4Fe(s) + 6CO<sub>2</sub>(g) <br><br>\\therefore\\,\\,\\, Free energy change of the reaction, <br><br>\\Delta <sub>r</sub>G<sup>o</sup> = 1487.0 - 1543.2 = - 56.2 kJ/mol",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -1183,7 +973,7 @@
         "D": "100 atm"
       },
       "answer": "A",
-      "solution": "S(l) \\buildrel \\, \\over \\longrightarrow S(g) <br><br>\\Delta G<sup>o</sup> = \\Delta <sub>f</sub>G<sup>o</sup> (Vapour) - \\Delta <sub>f</sub> G<sup>o</sup> (liquid) <br><br>= 103 - 100.7 <br><br>= 2.3 kcal / mol <br><br>= 2.3 \u00d7 10<sup>3</sup> cal/mol. <br><br>\\Delta G<sup>o</sup> = - RTlnk <br><br> \\Rightarrow \\,\\,\\, 2.3 \u00d7 10<sup>3</sup> = - 2.303 \u00d7 2 \u00d7 500 log K <br><br> \\Rightarrow \\,\\,\\, log K = - 1 <br><br> \\Rightarrow \\,\\,\\, K = 0.1 atm",
+      "solution": "S(l) \\buildrel \\, \\over \\longarrow S(g) <br><br>\\Delta G<sup>o</sup> = \\Delta <sub>f</sub>G<sup>o</sup> (Vapour) - \\Delta <sub>f</sub> G<sup>o</sup> (liquid) <br><br>= 103 - 100.7 <br><br>= 2.3 kcal / mol <br><br>= 2.3 \u00d7 10<sup>3</sup> cal/mol. <br><br>\\Delta G<sup>o</sup> = - RTlnk <br><br> \\Rightarrow \\,\\,\\, 2.3 \u00d7 10<sup>3</sup> = - 2.303 \u00d7 2 \u00d7 500 log K <br><br> \\Rightarrow \\,\\,\\, log K = - 1 <br><br> \\Rightarrow \\,\\,\\, K = 0.1 atm",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -1205,7 +995,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "For the chemical reaction X \\rightleftharpoons Y, the standard reaction Gibbs energy depends on temperature T (in K) as \\Delta <sub>r</sub>G<sup>o</sup> (in kJ mol<sup>\\\u20131</sup>) = 120 - 3 \\over 8 T. <br/><br/>The major component of the reaction mixture at T is :",
+      "question": "For the chemical reaction X \\leftharpoons Y, the standard reaction Gibbs energy depends on temperature T (in K) as \\Delta <sub>r</sub>G<sup>o</sup> (in kJ mol<sup>\\\u20131</sup>) = 120 - 3 \\over 8 T. <br/><br/>The major component of the reaction mixture at T is :",
       "options": {
         "A": "Y if T = 300 K",
         "B": "Y if T = 280 K",
@@ -1213,7 +1003,7 @@
         "D": "X if T = 315 K"
       },
       "answer": "D",
-      "solution": "X \\rightleftharpoons Y <br><br>K<sub>eq</sub> = \\left[ Y \\right] \\over \\left[ X \\right] <br><br>If K<sub>eq</sub> > 1 \\Rightarrow [Y] > [X] <br><br>and K<sub>eq</sub> < 1 \\Rightarrow [Y] < [X] <br><br>We know, \\Delta G<sup>o</sup> = -RT ln(K<sub>eq</sub>) <br><br>So when K<sub>eq</sub> > 1 then \\Delta G<sup>o</sup> < 0 and Y is major. <br><br>And when K<sub>eq</sub> < 1 then \\Delta G<sup>o</sup> > 0 and X is major. <br><br>Temperature at which G<sup>o</sup> = 0 is <br><br>120 - 3 \\over 8 T = 0 <br><br> \\Rightarrow T = 320 K <br><br>For T > 320 K <br><br>\\Delta G<sup>o</sup> < 0 and Y is major. <br><br>For T < 320 K <br><br>\\Delta G<sup>o</sup> > 0 and X is major.",
+      "solution": "X \\leftharpoons Y <br><br>K<sub>eq</sub> = \\left[ Y \\] \\over \\left[ X \\] <br><br>If K<sub>eq</sub> > 1 \\Rightarrow [Y] > [X] <br><br>and K<sub>eq</sub> < 1 \\Rightarrow [Y] < [X] <br><br>We know, \\Delta G<sup>o</sup> = -RT ln(K<sub>eq</sub>) <br><br>So when K<sub>eq</sub> > 1 then \\Delta G<sup>o</sup> < 0 and Y is major. <br><br>And when K<sub>eq</sub> < 1 then \\Delta G<sup>o</sup> > 0 and X is major. <br><br>Temperature at which G<sup>o</sup> = 0 is <br><br>120 - 3 \\over 8 T = 0 <br><br> \\Rightarrow T = 320 K <br><br>For T > 320 K <br><br>\\Delta G<sup>o</sup> < 0 and Y is major. <br><br>For T < 320 K <br><br>\\Delta G<sup>o</sup> > 0 and X is major.",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1229,21 +1019,6 @@
       },
       "answer": "A",
       "solution": "We know, <br><br>\\Delta G<sup>o</sup> = \\Delta H<sup>o</sup> - T\\Delta S<sup>o</sup> <br><br>For a reaction to be spontaneous \\Delta G<sup>o</sup> must be negative i.e., <br>T\\Delta S<sup>o</sup> > \\Delta H<sup>o</sup> <br><br> \\Rightarrow T > \\Delta H^\\circ \\over \\Delta S^\\circ <br><br> \\Rightarrow T > 491.1 \u00d7 1000 \\over 198 <br><br> \\Rightarrow T > 2480.3 K",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The standard reaction Gibbs energy for a chemical reaction at an absolute temperature T is given by \\Delta <sub>r</sub>G<sup>o</sup> = A \\\u2013 BT <br/><br/>Where A and B are non-zero constants. Which of the following is TRUE about this reaction?",
-      "options": {
-        "A": "Exothermic if B < 0",
-        "B": "Endothermic if A > 0",
-        "C": "Exothermic if A > 0 and B < 0",
-        "D": "Endothermic if A < 0 and B > 0"
-      },
-      "answer": "B",
-      "solution": "\\Delta G<sup>o</sup> = \\Delta H<sup>o</sup> - T\\Delta S<sup>o</sup> <br><br>Given that A and B are non-zero constants, i.e., A = \\Delta H<sup>o</sup>, B = \\Delta S<sup>o</sup> <br><br>If \\Delta H<sup>o</sup> is positive means reaction is endothermic.",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1267,10 +1042,10 @@
     {
       "question": "For a reaction, <br/>4M(s) + nO<sub>2</sub>(g) \\to 2M<sub>2</sub>O<sub>n</sub>(s) <br/>the free energy change is plotted as a function of temperature. The temperature below which the oxide is stable could be inferred from the plot as the point at which :",
       "options": {
-        "A": "the free energy change shows a change from negative to positive value",
-        "B": "the slope changes from positive to negative",
-        "C": "the slope changes from negative to positive",
-        "D": "the slope changes from positive to zero"
+        "A": "The free energy change shows a change from negative to positive value",
+        "B": "The slope changes from positive to negative",
+        "C": "The slope changes from negative to positive",
+        "D": "The slope changes from positive to zero"
       },
       "answer": "A",
       "solution": "\\Delta G = \\Delta H \\\u2013 T\\Delta S <br><br>\\Delta G = \\\u2013ve (stable oxide) <br><br>\\Delta G = +ve (unstable oxide)",
@@ -1288,19 +1063,19 @@
         "D": "For isothermal process w_reversible = - nRT\\ln V_f \\over V_i"
       },
       "answer": "B",
-      "solution": "Option (b) is incorrect.<br><br>\\DeltaG^\\circ = -RT ln K<br><br>\\DeltaH^\\circ - T\\DeltaS^\\circ = -RT ln K<br><br>ln K = \\left[ \\Delta H^\\circ - \\Delta S^\\circ \\over RT \\right]",
+      "solution": "Option (b) is incorrect.<br><br>\\DeltaG^\\circ = -RT ln K<br><br>\\DeltaH^\\circ - T\\DeltaS^\\circ = -RT ln K<br><br>ln K = \\left[ \\Delta H^\\circ - \\Delta S^\\circ \\over RT \\]",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Given below are two statements: One is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A : The reduction of a metal oxide is easier if the metal formed is in liquid state than solid state. Reason \\mathbfR : The value of \\Delta G ^\\Theta becomes more on negative side as entropy is higher in liquid state than solid state. In the light of the above statements, choose the most appropriate answer from the options given below",
+      "question": "Given below are two statements: One is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A : The reduction of a metal oxide is easier if the metal formed is in liquid state than solid state. Reason \\mathbfR : The value of \\Delta G ^\\Theta becomes more on negative side as entropy is higher in liquid state than solid state. \nIn the light of the above statements, choose the most appropriate answer from the options given below",
       "options": {
-        "A": "Both A and R are correct and R is the correct explanation of",
-        "B": "oth A and R are correct but R is NOT the correct explanation of",
-        "C": "is correct but R is not correct",
-        "D": "is not correct but R is correct"
+        "A": "Both",
+        "B": "Oth",
+        "C": "Is correct but R is not correct",
+        "D": "Is not correct but R is correct"
       },
       "answer": "A",
       "solution": "Reduction of a metal oxide is easier if the metal is formed in a liquid state at the temperature of reduction because the entropy is higher if the metal is in a liquid state.",
@@ -1325,15 +1100,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "If\u2081\u2080\u2080 mole of H<sub>2</sub>O<sub>2</sub> decompose at 1 bar and 300 K, the work done (kJ) by one mole of O<sub>2</sub>(g) as it expands against 1 bar pressure is : <br/><br/>2H<sub>2</sub>O<sub>2</sub>(l) \\rightleftharpoons 2H<sub>2</sub>O(l) + O<sub>2</sub>(g) <br/><br/>(R = 8.3 JK <sup>-1</sup> mol<sup>-1</sup>)",
+      "question": "If\u2081\u2080\u2080 mole of H<sub>2</sub>O<sub>2</sub> decompose at 1 bar and 300 K, the work done (kJ) by one mole of O<sub>2</sub>(g) as it expands against 1 bar pressure is : <br/><br/>2H<sub>2</sub>O<sub>2</sub>(l) \\leftharpoons 2H<sub>2</sub>O(l) + O<sub>2</sub>(g) <br/><br/>(R = 8.3 JK <sup>-1</sup> mol<sup>-1</sup>)",
       "options": {
-        "A": "62.25",
-        "B": "124.50",
-        "C": "249.00",
-        "D": "498.00"
+        "A": "62.25%",
+        "B": "124.50%",
+        "C": "249.00%",
+        "D": "498.00%"
       },
       "answer": "C",
-      "solution": "For reaction : 2H<sub>2</sub>O<sub>2</sub>(1) \\rightleftharpoons 2H<sub>2</sub>O(1) + O<sub>2</sub>(g) Given, p = 1 bar, T = 300 K, n = 100 mol, R = 8.3 JK<sup>-</sup> mol<sup>-1</sup> We know that w = p\\DeltaV = nRT = 100 \u00d7 8.3 \u00d7 300 = 249000 J or 249 kJ",
+      "solution": "For reaction : 2H<sub>2</sub>O<sub>2</sub>(1) \\leftharpoons 2H<sub>2</sub>O(1) + O<sub>2</sub>(g) Given, p = 1 bar, T = 300 K, n = 100 mol, R = 8.3 JK<sup>-</sup> mol<sup>-1</sup> We know that w = p\\DeltaV = nRT = 100 \u00d7 8.3 \u00d7 300 = 249000 J or 249 kJ",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
@@ -1387,7 +1162,7 @@
     {
       "question": "Which one of the following equations does not correctly represent the first law of thermodynamics for the given processes involving an ideal gas? (Assume non-expansion work is zero)",
       "options": {
-        "A": "diabatic process : \\Delta U= \\\u2013 w",
+        "A": "Diabatic process : \\Delta U= \\\u2013 w",
         "B": "Cyclic process : q = \\\u2013w",
         "C": "Isochoric process : \\Delta U= q",
         "D": "Isothermal process : q = \\\u2013 w"
@@ -1417,10 +1192,10 @@
     {
       "question": "Choose the correct option for free expansion of an ideal gas under adiabatic condition from the following :",
       "options": {
-        "A": "q=0, \\Delta T=0, w=0",
-        "B": "q=0, \\Delta T \\neq 0, w=0",
-        "C": "q \\neq 0, \\Delta T=0, w=0",
-        "D": "q=0, \\Delta T<0, w \\neq 0"
+        "A": "Q=0, \\Delta T=0, w=0",
+        "B": "Q=0, \\Delta T \\neq 0, w=0",
+        "C": "Q \\neq 0, \\Delta T=0, w=0",
+        "D": "Q=0, \\Delta T<0, w \\neq 0"
       },
       "answer": "A",
       "solution": "Let's analyze what happens during a free (or unrestrained) expansion of an ideal gas under adiabatic conditions: <ul> <li>Adiabatic process : By definition, in an adiabatic process, no heat is transferred between the system and its surroundings. Thus, q = 0 .</li> <br/><li>Free expansion : In a free expansion, the gas expands into a vacuum or against zero external pressure. Since work ( w ) is defined as the product of pressure ( P ) and volume change ( \\Delta V ), and since the external pressure is zero, we conclude that w = 0 .</li> <br/><li>Temperature change ( \\Delta T ) : Since work is zero and no heat is transferred, the first law of thermodynamics tells us that the change in internal energy ( \\Delta U ) is zero as well. For an ideal gas, internal energy is a function of temperature only; thus, if the internal energy does not change, the temperature does not change. Therefore, \\Delta T = 0 .</li> </ul> Based on the above points, the free expansion of an ideal gas under adiabatic conditions is characterized by no heat transfer ( q = 0 ), no work done ( w = 0 ), and no change in temperature ( \\Delta T = 0 ). Therefore, the correct option is: Option A : q = 0, \\Delta T = 0, w = 0",
@@ -1432,13 +1207,13 @@
     {
       "question": "An ideal gas undergoes isothermal expansion at constant pressure. During the process :",
       "options": {
-        "A": "enthalpy increases but entropy decreases.",
-        "B": "enthalpy remains constant but entropy increases.",
-        "C": "enthalpy decreases but entropy increases.",
+        "A": "Enthalpy increases but entropy decreases.",
+        "B": "Enthalpy remains constant but entropy increases.",
+        "C": "Enthalpy decreases but entropy increases.",
         "D": "Both enthalpy and entropy remain constant."
       },
       "answer": "B",
-      "solution": "In an isothermal expansion process, the temperature of the system remains constant throughout the process. Since, for an ideal gas, U depends only on temperature, we have \\DeltaU = 0. The enthalpy change of the system in isothermal expansion is also zero as \\DeltaH = \\DeltaU + nR\\DeltaT = 0 + 0 = 0 The entropy change foe an isothermal process is given by \\Delta S = nR\\ln \\left( V_f \\over V_i \\right) \\ge 0",
+      "solution": "In an isothermal expansion process, the temperature of the system remains constant throughout the process. Since, for an ideal gas, U depends only on temperature, we have \\DeltaU = 0. The enthalpy change of the system in isothermal expansion is also zero as \\DeltaH = \\DeltaU + nR\\DeltaT = 0 + 0 = 0 The entropy change foe an isothermal process is given by \\Delta S = nR\\ln ( V_f \\over V_i \\) \\ge 0",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
@@ -1475,7 +1250,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Match List-I with List-II. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-1wigfont-weight:bold;text-align:left;vertical-align:top .tg .tg-0laxtext-align:left;vertical-align:top <colgroup> <col style=\"width: 44px\"/> <col style=\"width: 313px\"/> <col style=\"width: 42px\"/> <col style=\"width: 317px\"/> </colgroup> <thead> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - I</th> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - II</th> </thead> <tbody> (A) Spontaneous process (I) \\Delta H < 0 (B) Process with \\Delta P = 0, \\Delta T = 0 (II) \\Delta G_T,P < 0 (C) \\Delta H_reaction (III) Isothermal and isobaric process (D) Exothermic Process (IV) [Bond energies of molecules in reactants] - [Bond energies of product molecules </tbody> Choose the correct answer from the options given below :",
+      "question": "Match List-I with List-II. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-1wigfont-weight:bold;-align:left;vertical-align:top .tg .tg-0lax-align:left;vertical-align:top <colgroup> <col style=\"width: 44px\"/> <col style=\"width: 313px\"/> <col style=\"width: 42px\"/> <col style=\"width: 317px\"/> </colgroup> <thead> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - I</th> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - II</th> </thead> <tbody> (A) Spontaneous process (I) \\Delta H < 0 (B) Process with \\Delta P = 0, \\Delta T = 0 (II) \\Delta G_T,P < 0 (C) \\Delta H_reaction (III) Isothermal and isobaric process (D) Exothermic Process (IV) [Bond energies of molecules in reactants] - [Bond energies of product molecules </tbody> Choose the correct answer from the options given below :",
       "options": {
         "A": "(A) - (III), (B) - (II), (C) - (IV), (D) - (I)",
         "B": "(A) - (II), (B) - (III), (C) - (IV), (D) - (I)",
@@ -1494,7 +1269,7 @@
       "options": {
         "A": "\\Delta H=\\Delta U-P \\Delta V",
         "B": "\\Delta U=q+W",
-        "C": "\\Delta S_\\text sys +\\Delta S_\\text surr \\geqslant 0",
+        "C": "\\Delta S_ sys +\\Delta S_ surr \\geqslant 0",
         "D": "\\Delta G=\\Delta H-T \\Delta S"
       },
       "answer": "A",
@@ -1507,13 +1282,13 @@
     {
       "question": "The heats of combustion of carbon and carbon monoxide are \\\u2013393.5 and \\\u2013283.5 kJ mol<sup>\\\u20131</sup>, respectively. The heat of formation (in kJ) of carbon monoxide per mole is :",
       "options": {
-        "A": "676.5",
+        "A": "676.5%",
         "B": "-676.5",
         "C": "\\\u2013110",
-        "D": "110.5"
+        "D": "110.5%"
       },
       "answer": "C",
-      "solution": "Given <br><br>C\\left( s \\right) + O_2\\left( g \\right) \\to CO_2\\left( g \\right); <br><br>\\Delta H = - 393.5\\,\\,kJ\\,mol^ - 1......\\left( i \\right) <br><br>CO\\left( g \\right) + 1 \\over 2O_2\\left( g \\right) \\to CO_2\\left( g \\right); <br><br>\\Delta H = - 283.5\\,kJ\\,mol^ - 1\\,\\,\\,\\,\\,....\\left( ii \\right) <br><br>\\therefore Heat of formation of <br><br>Co = eqn\\left( i \\right) - eqn\\left( ii \\right) <br><br> = - 393.5 - \\left( - 283.5 \\right) <br><br> = - 110\\,kJ",
+      "solution": "Given <br><br>C( s \\) + O_2( g \\) \\to CO_2( g \\); <br><br>\\Delta H = - 393.5\\,\\,kJ\\,mol^ - 1......( i \\) <br><br>CO( g \\) + 1 \\over 2O_2( g \\) \\to CO_2( g \\); <br><br>\\Delta H = - 283.5\\,kJ\\,mol^ - 1\\,\\,\\,\\,\\,....( ii \\) <br><br>\\therefore Heat of formation of <br><br>Co = eqn( i \\) - eqn( ii \\) <br><br> = - 393.5 - ( - 283.5 \\) <br><br> = - 110\\,kJ",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
@@ -1524,11 +1299,11 @@
       "options": {
         "A": "\\Delta H = \\Delta U \\ne O",
         "B": "\\Delta H = \\Delta U = O",
-        "C": "\\left| \\right.\\Delta H\\left| \\right. < \\left| \\right.\\Delta U\\left| \\right.",
-        "D": "\\left| \\right.\\Delta H\\left| \\right. > \\left| \\right.\\Delta U\\left| \\right."
+        "C": "\\left| \\.\\Delta H\\left| \\. < \\left| \\.\\Delta U\\left| \\.",
+        "D": "\\left| \\.\\Delta H\\left| \\. > \\left| \\.\\Delta U\\left| \\."
       },
       "answer": "D",
-      "solution": "Given reaction, <br><br>A(g) \\to A(l) ; <br><br>We know, <br><br>\\Delta H = \\Delta V + \\Delta n<sub>g</sub> RT <br><br>Given, \\Delta H = -3RT <br><br>From reaction, <br><br>\\Delta n<sub>g</sub> = 0- 1 = -1 <br><br>\\therefore\\,\\,\\, \\Delta H = \\Delta U - RT <br><br> \\Rightarrow \\,\\,\\, - 3RT = \\Delta U - RT <br><br> \\Rightarrow \\,\\,\\, \\Delta U = - 2RT <br><br>\\therefore\\,\\,\\, \\left| \\Delta U \\right| = 2RT <br><br>and \\left| \\Delta H \\right| = 3RT <br><br>\\therefore\\,\\,\\, \\left| \\Delta H \\right| > \\left| \\Delta U \\right|",
+      "solution": "Given reaction, <br><br>A(g) \\to A(l) ; <br><br>We know, <br><br>\\Delta H = \\Delta V + \\Delta n<sub>g</sub> RT <br><br>Given, \\Delta H = -3RT <br><br>From reaction, <br><br>\\Delta n<sub>g</sub> = 0- 1 = -1 <br><br>\\therefore\\,\\,\\, \\Delta H = \\Delta U - RT <br><br> \\Rightarrow \\,\\,\\, - 3RT = \\Delta U - RT <br><br> \\Rightarrow \\,\\,\\, \\Delta U = - 2RT <br><br>\\therefore\\,\\,\\, \\left| \\Delta U \\| = 2RT <br><br>and \\left| \\Delta H \\| = 3RT <br><br>\\therefore\\,\\,\\, \\left| \\Delta H \\| > \\left| \\Delta U \\|",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
@@ -1573,7 +1348,7 @@
         "D": "21 KJ"
       },
       "answer": "A",
-      "solution": "Give that, <br><br>n = 3 <br><br>T<sub>1</sub> = 300 <br><br>T<sub>2</sub> = 1000 <br><br>C<sub>p</sub> = 23 + 0.01T <br><br>We know, <br><br>\\Delta H = \\int\\limits_T_1^T_2 nC_pdT <br><br>= \\int\\limits_300^10003\\left( 23 + T \\over 100 \\right)dT <br><br>= 3\\left[ 23T + T^2 \\over 200 \\right]_300^1000 <br><br>= 3[ 23(1000 - 300 + 1 \\over 200((1000)<sup>2</sup> - (300)<sup>2</sup>)] <br><br>= 3[ 23 \u00d7 700 + 700 \u00d7 1300 \\over 200 ] <br><br>= 61950 J <br><br>= 61.95 kJ <br><br> \\simeq 62 kJ",
+      "solution": "Give that, <br><br>n = 3 <br><br>T<sub>1</sub> = 300 <br><br>T<sub>2</sub> = 1000 <br><br>C<sub>p</sub> = 23 + 0.01T <br><br>We know, <br><br>\\Delta H = \\int\\limits_T_1^T_2 nC_pdT <br><br>= \\int\\limits_300^10003( 23 + T \\over 100 \\)dT <br><br>= 3\\left[ 23T + T^2 \\over 200 \\]_300^1000 <br><br>= 3[ 23(1000 - 300 + 1 \\over 200((1000)<sup>2</sup> - (300)<sup>2</sup>)] <br><br>= 3[ 23 \u00d7 700 + 700 \u00d7 1300 \\over 200 ] <br><br>= 61950 J <br><br>= 61.95 kJ <br><br> \\simeq 62 kJ",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1597,13 +1372,13 @@
     {
       "question": "Enthalpy of sublimation of iodine is 24 cal g<sup>\\\u20131 </sup> at 200 <sup>o</sup>C. If specific heat of I<sub>2</sub>(s) and l<sub>2</sub> (vap) are 0.055 and 0.031 cal g<sup>\\\u20131</sup>K <sup>\\\u20131</sup> respectively, then enthalpy of sublimation of iodine at 250 <sup>o</sup>C in cal g<sup>\\\u20131</sup> is :",
       "options": {
-        "A": "2.85",
-        "B": "22.8",
-        "C": "11.4",
-        "D": "5.7"
+        "A": "2.85%",
+        "B": "22.8%",
+        "C": "11.4%",
+        "D": "5.7%"
       },
       "answer": "B",
-      "solution": "Kirchoff's Equation : <br><br>\\Delta H_T_2 - \\Delta H_T_1 \\over T_2 - T_1 = \\Delta \\left( C_p \\right) <br><br>Sublimation of iodine : <br><br>I<sub>2</sub>(s) \\to I<sub>2</sub>(g) <br><br>\\Delta H_250^\\circ C - \\Delta H_200^\\circ C \\over 250 - 200 = C_p\\left[ I_2(g) \\right] - C_p\\left[ I_2(s) \\right] <br><br>\\Delta H_250^\\circ C - 24 \\over 50 = \\left( 0.031 - 0.055 \\right) <br><br> \\Rightarrow \\Delta H_250^\\circ C = 22.8 cal g<sup>\\\u20131</sup>",
+      "solution": "Kirchoff's Equation : <br><br>\\Delta H_T_2 - \\Delta H_T_1 \\over T_2 - T_1 = \\Delta ( C_p \\) <br><br>Sublimation of iodine : <br><br>I<sub>2</sub>(s) \\to I<sub>2</sub>(g) <br><br>\\Delta H_250^\\circ C - \\Delta H_200^\\circ C \\over 250 - 200 = C_p\\left[ I_2(g) \\] - C_p\\left[ I_2(s) \\] <br><br>\\Delta H_250^\\circ C - 24 \\over 50 = ( 0.031 - 0.055 \\) <br><br> \\Rightarrow \\Delta H_250^\\circ C = 22.8 cal g<sup>\\\u20131</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1627,7 +1402,7 @@
     {
       "question": "The process that is NOT endothermic in nature is :",
       "options": {
-        "A": "r(g) + e<sup>-</sup> \\to Ar<sup>-</sup>(g)",
+        "A": "R(g) + e<sup>-</sup> \\to Ar<sup>-</sup>(g)",
         "B": "H(g) + e<sup>-</sup> \\to H<sup>-</sup>(g)",
         "C": "Na(g) \\to Na<sup>+</sup>(g) + e<sup>-</sup>",
         "D": "O<sup>-</sup>(g) + e<sup>-</sup> \\to O<sup>2-</sup>(g)"
@@ -1642,10 +1417,10 @@
     {
       "question": "If enthalpy of atomisation for Br<sub>2(1)</sub> is x kJ/mol and bond enthalpy for Br<sub>2</sub> is y kJ/mol, the relation between them :",
       "options": {
-        "A": "does not exist",
-        "B": "is x < y",
-        "C": "is x > y",
-        "D": "is x = y"
+        "A": "Does not exist",
+        "B": "Is x < y",
+        "C": "Is x > y",
+        "D": "Is x = y"
       },
       "answer": "C",
       "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2089\u2087/exam_images/xnctexndos\u2085letrbgfdr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 9th January Morning Slot Chemistry - Thermodynamics Question 104 English Explanation\"> <br><br> \\therefore \\Delta H<sub>atomisation</sub> = \\Delta H<sub>Vap</sub> + Bond Energy <br><br> \\Rightarrow x = \\Delta H<sub>Vap</sub> + y <br><br> \\Rightarrow x > y",
@@ -1663,7 +1438,7 @@
         "D": "9.26 kJ kg<sup>-1</sup> K<sup>-1</sup>"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2080\u2082/exam_images/q\u2081qp\u2082jvtfgwib\u2089loqjwo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Thermodynamics Question 129 English Explanation\"> <br>\\Delta S_1 = \\Delta H_fusion \\over 273 = 334 \\over 273 = 1.22 <br><br>\\Delta S_2 = 4.2\\ell N\\left( 363 \\over 273 \\right) = 1.31 <br><br>\\Delta S_3 = \\Delta H_vap \\over 373 = 2491 \\over 373 = 6.67 <br><br>\\Delta S_4 = 2.0\\ell n\\left( 383 \\over 373 \\right) = 0.05 <br><br>\\Delta S_total = 9.26\\, kJ Kg<sup>-1</sup><sup></sup> K<sup>-1</sup>",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2080\u2082/exam_images/q\u2081qp\u2082jvtfgwib\u2089loqjwo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Thermodynamics Question 129 English Explanation\"> <br>\\Delta S_1 = \\Delta H_fusion \\over 273 = 334 \\over 273 = 1.22 <br><br>\\Delta S_2 = 4.2\\ell N( 363 \\over 273 \\) = 1.31 <br><br>\\Delta S_3 = \\Delta H_vap \\over 373 = 2491 \\over 373 = 6.67 <br><br>\\Delta S_4 = 2.0\\ell n( 383 \\over 373 \\) = 0.05 <br><br>\\Delta S_total = 9.26\\, kJ Kg<sup>-1</sup><sup></sup> K<sup>-1</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1678,7 +1453,7 @@
         "D": "Sublimation of dry ice"
       },
       "answer": "C",
-      "solution": "N<sub>2</sub>(g) + 3H<sub>2</sub>(g) \\rightleftharpoons 2NH<sub>3</sub>(g); \\Delta n<sub>g</sub> < 0",
+      "solution": "N<sub>2</sub>(g) + 3H<sub>2</sub>(g) \\leftharpoons 2NH<sub>3</sub>(g); \\Delta n<sub>g</sub> < 0",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1688,7 +1463,7 @@
       "question": "The true statement amongst the following is :",
       "options": {
         "A": "S is a function of temperature but \\Delta S is not a function of temperature.",
-        "B": "oth S and \\Delta S are not functions of temperature.",
+        "B": "Oth S and \\Delta S are not functions of temperature.",
         "C": "Both \\Delta S and S are functions of temperature.",
         "D": "S is not a function of temperature but \\Delta S is a function of temperature."
       },

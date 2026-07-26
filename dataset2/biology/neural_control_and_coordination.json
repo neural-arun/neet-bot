@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Neural Control and Coordination",
-  "total_questions": 148,
+  "total_questions": 135,
   "questions": [
     {
       "question": "Examine the diagram of a myelinated motor neuron below. What are the unmyelinated gaps between adjacent Schwann cell myelin sheaths along the axon termed?",
@@ -10,7 +10,7 @@
         "A": "Nodes of Ranvier",
         "B": "Synaptic Cleft",
         "C": "Nissl's Granules",
-        "D": "endritic Spines"
+        "D": "Endritic Spines"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **NCERT Neuroanatomy:** The gaps between adjacent myelin sheaths along the axon are called Nodes of Ranvier. In myelinated nerve fibers, action potentials jump rapidly from node to node in a process known as saltatory conduction.",
@@ -35,42 +35,12 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Select the correct statement/s with respect to mechanism of sex determination in Grasshopper. (A) It is an example of female heterogamety. (B) Male produces two different types of gametes either with or without X chromosome. (C) Total number of chromosomes (autosomes and sex chromosomes) is same in both males and females. (D) All eggs bear an additional X chromosome besides the autosomes. Choose the correct answer from the options given below :",
-      "options": {
-        "A": "(",
-        "B": "only B (",
-        "C": "and (",
-        "D": "only C ("
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Grasshopper shows male heterogamety and chromosomal constituent of male is AA + XO and female is AA+XX Males have lesser number of sex chromosomes as compared to females. Male produce two types of gametes (A+X) and (A+O) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "person works in a silicon manufacturing industry for the past 20 years. Since a few years he has started feeling quite breathless and has cough all the time. His doctor says that this is because of his occupation as he is exposed constantly to silica dust. What must have been the size of the particles to cause such an issue?",
-      "options": {
-        "A": "PM",
-        "B": "5 B PM",
-        "C": "75 C PM 5 D PM",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** As stated by Central Pollution Control Board (CPCB), particulate size 2.5 micrometers or less in diameter (PM 2.5) cause greatest injury to health of humans. These particles when inhaled cause multiple respiratory problems such as breathing problems, inflammation and irritation, damage to the lungs resulting in premature deaths. Particulates of such a small size cannot be removed by electrostatic precipitator also. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "Tropical rain forests once covered more than ____a____ percent of the Earth surface, now covers not more than ___b___percent.",
       "options": {
         "A": "-30, b-1",
-        "B": "8 B a-",
-        "C": "l, b-",
-        "D": "4 C a-l\u2084,b-6 D a-1"
+        "B": "8%",
+        "C": "L, b-",
+        "D": "4%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** The region near the middle of the Earth between the Tropic of Cancer and Tropic of Capricon is considered as the Tropic region. This region receives the most amount of solar energy which leads to better productivity and higher species diversity. Also, the seasonal variations in such regions are low and environment mainly remains the same supporting high species richness and promoting niche specialization. Tropical rain forests used to cover more than 14 per cent of the Earth surface. Now due to human activities leading to destruction of habitat and pushing many species to the brink of extinction has tropical rainforests cover no more than 6 percent. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -95,22 +65,7 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "What are the potential drawbacks in adoption of the IVF method? A. High fatality risk to mother B. Expensive instruments and reagents C. Husband/wife necessary for being donors D. Less adoption of orphans E. Not available in India F. Possibility that the early embryo does not survive Choose the correct answer from the options given below:",
-      "options": {
-        "A": ", B, C, D only",
-        "B": "A, B, C, E, F only",
-        "C": "B, D, F only",
-        "D": "A, C, D, F only M Medi M MedicNE Med MedicNE Med Med ET cNEET MedicNEE Medi edicNEET MT"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A, B, C, D only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "Given below are two statements : Statement I : The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA. Statement II : Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel. In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : Statement I : The DNA fragments extracted from gel electrophoresis can be used in construction of recombinant DNA. Statement II : Smaller size DNA fragments are observed near anode while larger fragments are found near the wells in an agarose gel. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement I is correct but statement II is incorrect",
         "B": "Statement I is incorrect but statement II is correct",
@@ -127,9 +82,9 @@
     {
       "question": "Which one of the following equations represents the Verhulst-Pearl Logistic Growth of population?",
       "options": {
-        "A": "dN/dt = rN((N-K)/N)",
-        "B": "dN/dt = N((r-K)/K)",
-        "C": "dN/dt = r((K-N)/K)",
+        "A": "DN/dt = rN((N-K)/N)",
+        "B": "DN/dt = N((r-K)/K)",
+        "C": "DN/dt = r((K-N)/K)",
         "D": "N/dt = rN((K-N)/K)"
       },
       "answer": "A",
@@ -260,21 +215,6 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Match the items given in Column I with those in Column II and select the correct option: (Out of syllabus, but asked in NEET earlier) Column IA. Herbarium B. Key C. Museum D. Catalogue Column II (i) It is a place having a collection of preserved plants and animals (ii) A list that enumerates methodically all the species found in an area with brief description aiding identification (iii) Is a place where dried and pressed plant specimens mounted on sheets are kept (iv) A booklet containing a list of characters and their alternates which are helpful in identification of various taxa Choose the correct option:",
-      "options": {
-        "A": "-(ii), B-(iv), C-(iii), D-(i)",
-        "B": "A-(iii), B-(ii), C-(i), D-(iv)",
-        "C": "A-(i), B-(iv), C-(iii), D-(ii)",
-        "D": "A-(iii), B-(iv), C-(i), D-(ii)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-(ii), B-(iv), C-(iii), D-(i)** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "(Out of syllabus but asked in last 3 years) Plants having little or no secondary growth are",
       "options": {
         "A": "Conifers",
@@ -292,7 +232,7 @@
     {
       "question": "(Out of syllabus but asked in last 3 years) Which of the statements given below is not true about formation of Annual Rings in trees?",
       "options": {
-        "A": "nnual ring is a combination of spring wood and autumn wood produced in a year",
+        "A": "Nnual ring is a combination of spring wood and autumn wood produced in a year",
         "B": "Differential activity of cambium causes light and dark bands of tissue early and late wood respectively.",
         "C": "Activity of cambium depends upon variation in climate.",
         "D": "Annual rings are not prominent in trees of temperate region."
@@ -322,10 +262,10 @@
     {
       "question": "The Earth Summit held in Rio de Janeiro in 1992 was called",
       "options": {
-        "A": "to reduce CO\u2082 emissions and global warming",
-        "B": "for conservation of biodiversity and sustainable utilization of its benefits",
-        "C": "to assess threat posed to native species by invasive weed species",
-        "D": "for immediate steps to discontinue use of CFCs that were damaging the ozone layer"
+        "A": "To reduce CO\u2082 emissions and global warming",
+        "B": "For conservation of biodiversity and sustainable utilization of its benefits",
+        "C": "To assess threat posed to native species by invasive weed species",
+        "D": "For immediate steps to discontinue use of CFCs that were damaging the ozone layer"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) to reduce CO\u2082 emissions and global warming** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
@@ -383,9 +323,9 @@
       "question": "The recombination frequency between the genes a & c is 5%, b & c is 15%, b & d is 9%, a & b is 20%, c & d is 24% and a & d is 29%. What will be the sequence of these genes on a linear chromosome?",
       "options": {
         "A": ", d, b, c",
-        "B": "d, b, a, c",
-        "C": "a, b, c, d",
-        "D": "a, c, b, d"
+        "B": "D, b, a, c",
+        "C": "A, b, c, d",
+        "D": "A, c, b, d"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) a, d, b, c** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
@@ -399,7 +339,7 @@
       "options": {
         "A": "The membranes of presynaptic and postsynaptic neurons are in close proximity in an electrical synapse.",
         "B": "Electrical current can flow directly from one neuron into the other across the electrical synapse.",
-        "C": "hemical synapse use neurotransmitters",
+        "C": "Hemical synapse use neurotransmitters",
         "D": "Impulse transmission across a chemical synapse is always faster than that across an electrical synapse"
       },
       "answer": "A",
@@ -440,21 +380,6 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Identify the correct statements: A. Detritivores perform fragmentation. B. The humus is further degraded by some microbes during mineralisation. C. Water soluble inorganic nutrients go down into the soil and get precipitated by a process called leaching. D. The detritus food chain begins with living organisms. E. Earthworms break down detritus into smaller particles by a process called catabolism. Choose the correct answer from the options given below:",
-      "options": {
-        "A": ", B, C only",
-        "B": ", C, D only",
-        "C": ", D, E only",
-        "D": ", E, A only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A, B, C only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "Spraying of which of the following phytohormone on juvenile conifers helps in hastening the maturity period, that leads to early seed production?",
       "options": {
         "A": "Indole-3-butyric Acid",
@@ -487,60 +412,15 @@
     {
       "question": "If there are 250 snails in a pond, and within a year their number increases to 2500 by reproduction. What should be their birth rate per snail per year? (NEET 2023 (Phase 2))",
       "options": {
-        "A": "25",
-        "B": "15",
-        "C": "10",
-        "D": "9"
+        "A": "25%",
+        "B": "15%",
+        "C": "10%",
+        "D": "9%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 25** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2023",
       "year": 2023,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "Which one of the following can be explained on the basis of Mendel's law of Dominance? A. Out of one pair of factors one is dominant and the other is recessive. B. Alleles do not show any expression and both the character appear as such in F\u2082 generation. C. Factors occur in pairs in normal diploid plants. D. The discrete unit controlling a particular character is called factor. E. The expression of only one of the parental characters is found in a monohybrid cross. Choose the correct answer from the options given below:",
-      "options": {
-        "A": ", C, D and E only",
-        "B": ", C, and D only",
-        "C": "A, B, C, D and E",
-        "D": "A, B and C only"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A, C, D and E only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "Match List I with List II. List IA. The structures used for storing of food. B. Ring 6-8 blind tubules at junction of foregut and midgut. C. Ring of 100-150 yellow coloured thin filaments at junction of midgut and hindgut. D. The structures used for grinding the food. List II I. Gizzard II. Gastric Caeca III. Malpighian tubules IV. Crop Choose the correct answer from the options given below: (Out of syllabus but asked in last 3 years)",
-      "options": {
-        "A": "-I, B-II, C-III, D-IV",
-        "B": "A-IV, B-III, C-II, D-I",
-        "C": "A-III, B-II, C-IV, D-I",
-        "D": "A-IV, B-II, C-III, D-I"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-I, B-II, C-III, D-IV** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "Match List-I with List-II: List-I (Sub Phases of Prophase I) A. Diakinesis B. Pachytene C. Zygotene D. Leptotene List-II (Specific characters) I. Synaptonemal complex formation II. Completion of terminalisation of chiasmata III. Chromosomes look like thin threads IV. Appearance of recombination nodules Choose the correct answer from the options given below:",
-      "options": {
-        "A": "-I, B-II, C-IV, D-III",
-        "B": "A-II, B-IV, C-I, D-III",
-        "C": "A-IV, B-III, C-II, D-I",
-        "D": "A-IV, B-II, C-III, D-I MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-I, B-II, C-IV, D-III** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
       "subject": "Biology",
       "chapter": "Neural Control and Coordination"
     },
@@ -560,27 +440,12 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Match List I with List II. List IA. Exophthalmic goiter B. Acromegaly C. Cushing's syndrome D. Cretinism List II I. Excess secretion of cortisol, moon face & hyperglycemia II. Hypo-secretion of thyroid hormone and stunted growth III. Hyper secretion of thyroid hormone & protruding eye balls IV. Excessive secretion of growth hormone Choose the correct answer from the options given below",
-      "options": {
-        "A": "-IV, B-II, C-I, D-III",
-        "B": "A-III, B-IV, C-II, D-I",
-        "C": "A-III, B-IV, C-I, D-II",
-        "D": "A-I, B-III, C-II, D-IV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-IV, B-II, C-I, D-III** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Neural Control and Coordination*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "Biodiversity Act of India was passed by the Parliament in the year",
       "options": {
-        "A": "1996",
-        "B": "1992",
-        "C": "2002",
-        "D": "2000"
+        "A": "1996%",
+        "B": "1992%",
+        "C": "2002%",
+        "D": "2000%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 2002** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (C) is the accurate scientific choice.",
@@ -667,10 +532,10 @@
     {
       "question": "In which year, convention on the biodiversity came into force?",
       "options": {
-        "A": "1993",
-        "B": "1992",
-        "C": "1994",
-        "D": "1995"
+        "A": "1993%",
+        "B": "1992%",
+        "C": "1994%",
+        "D": "1995%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) 1992** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (B) is the accurate scientific choice.",
@@ -698,7 +563,7 @@
       "question": "The part of earth in which life exists, is known as",
       "options": {
         "A": "Lithosphere",
-        "B": "iosphere",
+        "B": "Iosphere",
         "C": "Atmosphere",
         "D": "Hydrosphere"
       },
@@ -892,10 +757,10 @@
     {
       "question": "The message from nuclear DNA for the synthesis of specific cytoplasmic protein is carried by:",
       "options": {
-        "A": "mRNA",
-        "B": "t-RNA",
-        "C": "s-RNA",
-        "D": "r-RNA"
+        "A": "MRNA",
+        "B": "T-RNA",
+        "C": "S-RNA",
+        "D": "R-RNA"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) mRNA** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1072,10 +937,10 @@
     {
       "question": "I. Radiation from nuclear waste is \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 at a very high rate",
       "options": {
-        "A": "-lethal; B-cancer",
-        "B": "A-cancer; B-mutation",
-        "C": "A-mutation; B-down syndrome",
-        "D": "A-down syndrome; B-cancer"
+        "A": "-lethal;",
+        "B": "A-cancer;",
+        "C": "A-mutation;",
+        "D": "A-down syndrome;"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A-lethal; B-cancer** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1147,10 +1012,10 @@
     {
       "question": "The thymus is a lobed organ located near the \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 and beneath the \\u\u2082\u2080\u2082\u2086B\\u\u2082\u2080\u2082\u2086 . The most appropriate",
       "options": {
-        "A": "-heart; B-breast bone",
-        "B": "A-liver; B-ribs",
-        "C": "A-heart; B-ribs",
-        "D": "A-intestine; B-ribs"
+        "A": "-heart;",
+        "B": "A-liver;",
+        "C": "A-heart;",
+        "D": "A-intestine;"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A-heart; B-breast bone** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1179,7 +1044,7 @@
       "options": {
         "A": "Cerbrum",
         "B": "Olfactory lobe",
-        "C": "erebellum",
+        "C": "Erebellum",
         "D": "Medulla oblongata"
       },
       "answer": "C",
@@ -1223,7 +1088,7 @@
       "question": "person is suffering from frequent episodes of nasal discharge, nasal congestion, reddening of eyes and",
       "options": {
         "A": "Cyanosis",
-        "B": "ronchitis",
+        "B": "Ronchitis",
         "C": "Rhinitis",
         "D": "Bronchial carcinoma"
       },
@@ -1237,7 +1102,7 @@
     {
       "question": "Which of the following is used in eye inflammation and for curing night blindness?",
       "options": {
-        "A": "tropa belladonna",
+        "A": "Tropa belladonna",
         "B": "Cichorium intybus",
         "C": "Eclipta alba",
         "D": "Emilia sonchifolia"
@@ -1447,10 +1312,10 @@
     {
       "question": "IVF in which the early zygote with up to \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 blastomere is transferred to the Fallopian tube is called \\u\u2082\u2080\u2082\u2086B\\u\u2082\u2080\u2082\u2086",
       "options": {
-        "A": "-8; B-ZIFT",
-        "B": "A-16; B-ZIFT",
-        "C": "A-32; B-ZIFT",
-        "D": "A-64; B-ZIF"
+        "A": "-8;",
+        "B": "A-16;",
+        "C": "A-32;",
+        "D": "A-64;"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A-8; B-ZIFT** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1475,21 +1340,6 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Match List I with List II : \\beginarray|l|l|l|l|\\hline & List I & & List II \\\\\\hline A. & Exophthalmic goiter & I. & Excess secretion of cortisol, moon face \\& hypergylcemia. \\\\\\hline B. & Acromegaly & II. & Hypo-secretion of thyroid hormone and stunted growth. \\\\\\hline C. & Cushing's syndrome & III. & Hyper secretion of thyroid hormone \\& protruding eye balls. \\\\\\hline D. & Cretinism & IV. & Excessive secretion of growth hormone. \\\\\\hline\\endarray Choose the correct answer from the options given below :",
-      "options": {
-        "A": "-IV, B-II, C-I, D-III",
-        "B": "A-III, B-IV, C-II, D-I",
-        "C": "A-III, B-IV, C-I, D-II",
-        "D": "A-I, B-III, C-II, D-IV"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) A-III, B-IV, C-I, D-II** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "chemical signal that has both endocrine and neural roles is:",
       "options": {
         "A": "Melatonin",
@@ -1507,10 +1357,10 @@
     {
       "question": "Feeling the tremors of an earthquake a scared resident of seventh floor of a multistoryed building starts climbing down the stairs rapidly. Which hormone initiated this action?",
       "options": {
-        "A": "drenaline",
-        "B": "glucagon",
-        "C": "gastrin",
-        "D": "thyroxine."
+        "A": "Drenaline",
+        "B": "Glucagon",
+        "C": "Gastrin",
+        "D": "Thyroxine."
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) adrenaline** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1524,7 +1374,7 @@
       "options": {
         "A": "Corpus callosum and thalamus",
         "B": "Limbic system & hypothalmus",
-        "C": "orpora quadrigemina & hippocampus",
+        "C": "Orpora quadrigemina & hippocampus",
         "D": "Brain stem & epithalamus"
       },
       "answer": "B",
@@ -1535,26 +1385,11 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "Match List I with List II : [Image: https://cdn-question-pool.getmarks.app/pyq/neet/2BZbE\u2086c\u2086DtcxNa\u2085eqD\u2081\u2087btEe\u2080fDeMrS\u2086\u2080dmsxmaKwak.original.fullsize.png] Choose the correct answer from the options given below :",
-      "options": {
-        "A": "-III, B-IV, C-II, D-I",
-        "B": "A-I, B-III, C-II, D-IV",
-        "C": "A-II, B-I, C-III, D-IV",
-        "D": "A-II, B-III, C-I, D-IV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-III, B-IV, C-II, D-I** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "Which part of the brain is responsible for thermoregulation?",
       "options": {
         "A": "Cerebrum",
         "B": "Hypothalamus",
-        "C": "orpus callosum",
+        "C": "Orpus callosum",
         "D": "Medulla oblongata"
       },
       "answer": "B",
@@ -1570,7 +1405,7 @@
         "A": "Hypothalamus : Production of releasing hormones and regulation of temperature, hunger and thirst",
         "B": "Limbic system : Consists of fibre tracts that interconnect different regions of brain; controls movement",
         "C": "Medulla oblongata : Controls respiration and cardiovascular reflexes",
-        "D": "Corpus callosum : Band of fibers connecting left and right cerebral hemispheres"
+        "D": "Corpus callosum : Band of fibers connecting left and cerebral hemispheres"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Limbic system : Consists of fibre tracts that interconnect different regions of brain; controls movement** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (B) is the accurate scientific choice.",
@@ -1629,7 +1464,7 @@
       "options": {
         "A": "Medulla oblongata - homeostatic control",
         "B": "Cerebellum - language comprehension",
-        "C": "orpus callosum - communication between the left and right cerebral cortices",
+        "C": "Orpus callosum - communication between the left and cerebral cortices",
         "D": "Cerebrum - calculation and contemplation"
       },
       "answer": "B",
@@ -1642,10 +1477,10 @@
     {
       "question": "Injury localized to the hypothalamus would most likely disrupt",
       "options": {
-        "A": "short-term memory",
-        "B": "co - ordination during locomotion",
-        "C": "executive functions, such as decision making",
-        "D": "regulation of body temperature"
+        "A": "Short-term memory",
+        "B": "Co - ordination during locomotion",
+        "C": "Executive functions, such as decision making",
+        "D": "Regulation of body temperature"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) regulation of body temperature** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (D) is the accurate scientific choice.",
@@ -1660,7 +1495,7 @@
         "A": "-Action potential, c - Neurotransmitter",
         "B": "- Neurotransmitter, d - Receptor capsules",
         "C": "- Receptor, d - Synaptic vesicles",
-        "D": "a - Axon terminal, b - Serotonin complex"
+        "D": "A - Axon terminal, b - Serotonin complex"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) c - Receptor, d - Synaptic vesicles** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (C) is the accurate scientific choice.",
@@ -1672,10 +1507,10 @@
     {
       "question": "sagittal section of human brain is shown here. Identify at least two labels from a-d. [Image: https://cdn-question-pool.getmarks.app/pyq/neet/R\u2086QB\u2082\u2082DFToXF_-NxSvgH-xmCcmL\u2086hsTPCx\u2086LZumxB_E.original.fullsize.png]",
       "options": {
-        "A": "c-Mid brain, d-Cerebellum",
-        "B": "a-Cerebrum, c-Pons",
-        "C": "b-Corpus callosum, d-Medulla",
-        "D": "a-Cerebral hemispheres, b-Cercbellum"
+        "A": "C-Mid brain, d-Cerebellum",
+        "B": "A-Cerebrum, c-Pons",
+        "C": "B-Corpus callosum, d-Medulla",
+        "D": "A-Cerebral hemispheres, b-Cercbellum"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) a-Cerebrum, c-Pons** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (B) is the accurate scientific choice.",
@@ -1687,10 +1522,10 @@
     {
       "question": "diagram showing axon terminal and synapse is given. Identify correctly at least two of A-D [Image: https://cdn-question-pool.getmarks.app/pyq/neet/xMxKPWDloXtVioGVV\u2086TqXBh\u2084xgE\u2088VHDGYsk\u2084jKYI\u2082\u2086Y.original.fullsize.png]",
       "options": {
-        "A": "-Receptor C-Synaptic vesicles",
-        "B": "-Synaptic connection D-K^+",
-        "C": "A-Neurotransmitter B-Synaptic cleft",
-        "D": "C-Neurotransmitter D-Ca^2+"
+        "A": "-Receptor",
+        "B": "-Synaptic connection",
+        "C": "A-Neurotransmitter",
+        "D": "C-Neurotransmitter"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A-Receptor C-Synaptic vesicles** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1718,9 +1553,9 @@
       "question": "The human hindbrain comprises three parts, one of which is",
       "options": {
         "A": "spinal cord",
-        "B": "corpus callosum",
-        "C": "erebellum",
-        "D": "hypothalamus"
+        "B": "Corpus callosum",
+        "C": "Erebellum",
+        "D": "Hypothalamus"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) cerebellum** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (C) is the accurate scientific choice.",
@@ -1732,10 +1567,10 @@
     {
       "question": "When a neuron is an resting state, i e, not conducting any impulse, the axonal membrane is",
       "options": {
-        "A": "equally permeable to both Na^+and K^+ions",
-        "B": "impermeable to both Na^+and K^+ions",
-        "C": "omparatively more permeable to K^+ions and nearly impermeable to Na^+ions",
-        "D": "comparatively more permeable to Na^+ions and nearly impermeable to K^+ions"
+        "A": "Equally permeable to both Na^+and K^+ions",
+        "B": "Impermeable to both Na^+and K^+ions",
+        "C": "Omparatively more permeable to K^+ions and nearly impermeable to Na^+ions",
+        "D": "Comparatively more permeable to Na^+ions and nearly impermeable to K^+ions"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) comparatively more permeable to K^+ions and nearly impermeable to Na^+ions** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (C) is the accurate scientific choice.",
@@ -1747,10 +1582,10 @@
     {
       "question": "The nerve centres which control the body temperature and the urge for eating are contained in",
       "options": {
-        "A": "hypothalamus",
-        "B": "pons",
-        "C": "erebellum",
-        "D": "thalamus"
+        "A": "Hypothalamus",
+        "B": "Pons",
+        "C": "Erebellum",
+        "D": "Thalamus"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) hypothalamus** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1764,7 +1599,7 @@
       "options": {
         "A": "Medulla oblongata",
         "B": "Cerebellum",
-        "C": "erebrum",
+        "C": "Erebrum",
         "D": "Hypothalamus"
       },
       "answer": "D",
@@ -1777,9 +1612,9 @@
     {
       "question": "Alzhimer disease in humans is associated with the deficiency of",
       "options": {
-        "A": "dopamine",
-        "B": "glutamic acid",
-        "C": "acetylcholine",
+        "A": "Dopamine",
+        "B": "Glutamic acid",
+        "C": "Acetylcholine",
         "D": "Gamma Amino Butyric Acid (GABA)"
       },
       "answer": "C",
@@ -1807,10 +1642,10 @@
     {
       "question": "During the transmission of nerve impulse through a nerve fibre, the potential on the inner side of the plasma membrane has which type of electric change?",
       "options": {
-        "A": "first positive, then negative and continue to be negative",
-        "B": "first negative, then positive and continue to be positive",
-        "C": "first positive, then negative and again back to positive",
-        "D": "first negative, then positive and again back to negative."
+        "A": "First positive, then negative and continue to be negative",
+        "B": "First negative, then positive and continue to be positive",
+        "C": "First positive, then negative and again back to positive",
+        "D": "First negative, then positive and again back to negative."
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) first negative, then positive and again back to negative.** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (D) is the accurate scientific choice.",
@@ -1822,10 +1657,10 @@
     {
       "question": "Which of the following is an example of negative feedback loop in humans?",
       "options": {
-        "A": "secretion of tears after falling of sand particles into the eye",
-        "B": "salivation of mouth at the sight of delicious food",
-        "C": "secretion of sweat glands and constriction of skin blood vessels when it is too hot",
-        "D": "constriction of skin blood vessels and contraction of skeletal muscles when it is too cold."
+        "A": "Secretion of tears after falling of sand particles into the eye",
+        "B": "Salivation of mouth at the sight of delicious food",
+        "C": "Secretion of sweat glands and constriction of skin blood vessels when it is too hot",
+        "D": "Constriction of skin blood vessels and contraction of skeletal muscles when it is too cold."
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) constriction of skin blood vessels and contraction of skeletal muscles when it is too cold.** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (D) is the accurate scientific choice.",
@@ -1837,10 +1672,10 @@
     {
       "question": "Which one of the following statements is correct?",
       "options": {
-        "A": "endocrine glands regulate neural activity, but not vice versa",
-        "B": "neurons regulate endocrine activity, but not vice versa",
-        "C": "endocrine glands regulate neural activity, and nervous system regulates endocrine glands",
-        "D": "neither hormones control neural activity nor the neurons control endocrine activity"
+        "A": "Endocrine glands regulate neural activity, but not vice versa",
+        "B": "Neurons regulate endocrine activity, but not vice versa",
+        "C": "Endocrine glands regulate neural activity, and nervous system regulates endocrine glands",
+        "D": "Neither hormones control neural activity nor the neurons control endocrine activity"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) neurons regulate endocrine activity, but not vice versa** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (B) is the accurate scientific choice.",
@@ -1852,10 +1687,10 @@
     {
       "question": "Bowman's glands are found in:",
       "options": {
-        "A": "juxtamedullary nephrons",
-        "B": "olfactory epithelium",
-        "C": "external auditory canal",
-        "D": "cortical nephrons only"
+        "A": "Juxtamedullary nephrons",
+        "B": "Olfactory epithelium",
+        "C": "External auditory canal",
+        "D": "Cortical nephrons only"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) olfactory epithelium** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (B) is the accurate scientific choice.",
@@ -1867,9 +1702,9 @@
     {
       "question": "Parkinson's disease (characterized by tremors and progressive rigidity of limbs) is caused by degeneration of brain neurons that are involved in movement control and make use of neurotransmitter:",
       "options": {
-        "A": "cetylcholine",
-        "B": "norepinephrine",
-        "C": "dopamine",
+        "A": "Cetylcholine",
+        "B": "Norepinephrine",
+        "C": "Dopamine",
         "D": "GABA"
       },
       "answer": "C",
@@ -1882,10 +1717,10 @@
     {
       "question": "Injury to vagus nerve in humans is not likely to affect:",
       "options": {
-        "A": "tongue movements",
-        "B": "gastrointestinal movements",
-        "C": "pancreatic secretion",
-        "D": "cardiac movements."
+        "A": "Tongue movements",
+        "B": "Gastrointestinal movements",
+        "C": "Pancreatic secretion",
+        "D": "Cardiac movements."
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) tongue movements** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1925,27 +1760,12 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "NEET 2026 (1) Match List I with List II related to embryonic development at various months of pregnancy: List-IA. The foetus movement starts and hair appears on the head B. The foetus develops limbs and digits C. The foetus develops external genital organs D. The foetus body is covered with fine hair; eyelids separate and eyelashes are formed List-II (I) 24 weeks of pregnancy (II) 20 weeks of pregnancy (III) 8 weeks of pregnancy (IV) 12 weeks of pregnancy Choose the correct answer from the options given below: (NEET 2026)",
-      "options": {
-        "A": "-IV, B-II, C-III, D-I",
-        "B": "A-II, B-III, C-IV, D-I",
-        "C": "A-III, B-II, C-IV, D-I",
-        "D": "A-II, B-IV, C-III, D-I"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-IV, B-II, C-III, D-I** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
       "question": "frequency between the genes a & c is 5%, b & c is 15%, b & d is 9%, a & b is 20%, c & d is 24% and a & d is 29%. What will be the sequence of these genes on a linear chromosome?",
       "options": {
         "A": ", d, b, c",
-        "B": "d, b, a, c",
-        "C": "a, b, c, d",
-        "D": "a, c, b, d"
+        "B": "D, b, a, c",
+        "C": "A, b, c, d",
+        "D": "A, c, b, d"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) a, d, b, c** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -1972,9 +1792,9 @@
     {
       "question": "of the following can be explained on the basis of Mendel's law of Dominance? A. Out of one pair of factors one is dominant and the other is recessive. B. Alleles do not show any expression and both the character appear as such in F\u2082 generation. C. Factors occur in pairs in normal diploid plants. D. The discrete unit controlling a particular character is called factor. E. The expression of only one of the parental characters is found in a monohybrid cross. Choose the correct answer from the options given below:",
       "options": {
-        "A": ", C,",
-        "B": "and",
-        "C": "only",
+        "A": ",",
+        "B": "And",
+        "C": "Only",
         "D": "A,"
       },
       "answer": "A",
@@ -1987,10 +1807,10 @@
     {
       "question": "NEET 2026 (1) In a population of a grasshopper species, the chromosome number of some members is 23 and some other members possess 24 chromosomes. The 23 and 24 chromosome-bearing members in this species are ______.",
       "options": {
-        "A": "females and males, respectively",
-        "B": "all males",
-        "C": "males and females, respectively",
-        "D": "all females"
+        "A": "Females and males, respectively",
+        "B": "All males",
+        "C": "Males and females, respectively",
+        "D": "All females"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) females and males, respectively** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -2017,7 +1837,7 @@
     {
       "question": "2 The chronological order of human evolution from early to the recent is",
       "options": {
-        "A": "ustralopithecus \\u\u2082\u2081\u2089\u2082 Ramapithecus \\u\u2082\u2081\u2089\u2082 Homo habilis \\u\u2082\u2081\u2089\u2082 Homo erectus",
+        "A": "Ustralopithecus \\u\u2082\u2081\u2089\u2082 Ramapithecus \\u\u2082\u2081\u2089\u2082 Homo habilis \\u\u2082\u2081\u2089\u2082 Homo erectus",
         "B": "Ramapithecus \\u\u2082\u2081\u2089\u2082 Australopithecus \\u\u2082\u2081\u2089\u2082 Homo habilis \\u\u2082\u2081\u2089\u2082 Homo erectus",
         "C": "Ramapithecus \\u\u2082\u2081\u2089\u2082 Homo habilis \\u\u2082\u2081\u2089\u2082 Australopithecus \\u\u2082\u2081\u2089\u2082 Homo erectus",
         "D": "Australopithecus \\u\u2082\u2081\u2089\u2082 Homo habilis \\u\u2082\u2081\u2089\u2082 Ramapithecus \\u\u2082\u2081\u2089\u2082 Homo erectus"
@@ -2075,25 +1895,10 @@
       "chapter": "Neural Control and Coordination"
     },
     {
-      "question": "NEET 2026 (1) Match List I with List II with respect to chronology of evolution of life forms List-IA. About 65 mya B. About 500 mya C. About 350 mya D. About 320 mya List-II (I) Jawless fish probably evolved (II) The dinosaurs suddenly disappeared from the earth (III) Seaweeds and few plants probably existed (IV) Invertebrates were formed and became active Choose the correct answer from the options given below:",
-      "options": {
-        "A": "(III), B(IV), C(I), D(II)",
-        "B": "A(I), B(II), C(III), D(IV)",
-        "C": "A(II), B(IV), C(III), D(I)",
-        "D": "A(II), B(IV), C(I), D(III)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A(III), B(IV), C(I), D(II)** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Neural Control and Coordination"
-    },
-    {
-      "question": "I: Modern Homo sapiens arose in Australia and moved across continents. Statement II: Homo sapiens arose around 75,000 to 10,000 years ago. Choose the most appropriate answer:",
+      "question": "I: Modern Homo sapiens arose in Australia and moved across continents. \nStatement II: Homo sapiens arose around 75,000 to 10,000 years ago. Choose the most appropriate answer:",
       "options": {
         "A": "Both Statement I and Statement II are correct",
-        "B": "oth Statement I and Statement II are incorrect",
+        "B": "Both Statement I and Statement II are incorrect",
         "C": "Statement I is correct but Statement II is incorrect",
         "D": "Statement I is incorrect but Statement II is correct"
       },
@@ -2107,10 +1912,10 @@
     {
       "question": "2 If there are 250 snails in a pond, and within a year their number increases to 2500 by reproduction. What should be their birth rate per snail per year? (NEET 2023 (Phase 2))",
       "options": {
-        "A": "25",
-        "B": "15",
-        "C": "10",
-        "D": "9"
+        "A": "25%",
+        "B": "15%",
+        "C": "10%",
+        "D": "9%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 25** **Explanation:** Based on NCERT Biology principles for *Neural Control and Coordination*, option (A) is the accurate scientific choice.",
@@ -2137,9 +1942,9 @@
     {
       "question": "of the following equations represents the Verhulst-Pearl Logistic Growth of population? (NEET 2025)",
       "options": {
-        "A": "dN/dt = rN((N-K)/N)",
-        "B": "dN/dt = N((r-K)/K)",
-        "C": "dN/dt = r((K-N)/K)",
+        "A": "DN/dt = rN((N-K)/N)",
+        "B": "DN/dt = N((r-K)/K)",
+        "C": "DN/dt = r((K-N)/K)",
         "D": "N/dt = rN((K-N)/K)"
       },
       "answer": "A",
@@ -2152,9 +1957,9 @@
     {
       "question": "NEET 2026 (1) Which of the following equations depicts Verhulst-Pearl logistic population growth?",
       "options": {
-        "A": "dN/dt = rN [ (K + N) / K ]",
-        "B": "dN/dt = rN [ (K \\\u2013 N) / K ]",
-        "C": "dN/dt = rN [ (K \\\u2013 N) / N ]",
+        "A": "DN/dt = rN [ (K + N) / K ]",
+        "B": "DN/dt = rN [ (K \\\u2013 N) / K ]",
+        "C": "DN/dt = rN [ (K \\\u2013 N) / N ]",
         "D": "N/dt = rN [ K / (K \\\u2013 N) ]"
       },
       "answer": "A",
@@ -2169,7 +1974,7 @@
       "options": {
         "A": "Medulla oblongata",
         "B": "Hypothalamus",
-        "C": "erebellum",
+        "C": "Erebellum",
         "D": "Cerebrum"
       },
       "answer": "B",
@@ -2184,7 +1989,7 @@
       "options": {
         "A": "Medulla oblongata",
         "B": "Hypothalamus",
-        "C": "erebellum",
+        "C": "Erebellum",
         "D": "Pineal gland"
       },
       "answer": "B",

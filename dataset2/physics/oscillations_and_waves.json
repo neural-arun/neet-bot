@@ -1,13 +1,13 @@
 {
   "subject": "Physics",
   "chapter": "Oscillations and Waves",
-  "total_questions": 145,
+  "total_questions": 139,
   "questions": [
     {
       "question": "Examine the displacement-time graph of a particle executing Simple Harmonic Motion (SHM). At what positions is the velocity of the particle maximum?",
       "image_path": "dataset2/images/phys_shm_wave.png",
       "options": {
-        "A": "t the mean position (x = 0)",
+        "A": "T the mean position (x = 0)",
         "B": "At the positive extreme position (x = +A)",
         "C": "At the negative extreme position (x = -A)",
         "D": "At x = +A/2"
@@ -16,21 +16,6 @@
       "solution": "**Correct Answer: (A)** **SHM Kinematics:** Velocity in SHM is v = \\omega \\sqrtA^2 - x^2. At the mean position (x = 0), velocity is maximum (v_max = \\omega A). At the extreme positions (x = \\pm A), velocity drops to zero.",
       "exam": "NEET CBT Physics Oscillations Diagram PYQ",
       "year": 2024,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
-      "question": "The wave described by y=0.25 \\sin (10 \\pi x-2 \\pi t), where x and y are in metre and t in second, is a wave travelling along the",
-      "options": {
-        "A": "- ve x direction with frequency 1 Hz B +ve x direction with frequency \\pi Hz and wavelength \\lambda=",
-        "B": "2 m C + ve x direction with frequency 1 Hz and wavelength \\lambda=",
-        "C": "2 m D -ve x direction with amplitude",
-        "D": "25 m and wavelength \\lambda="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Key Idea : The sign between two terms in argument of sine will define its direction. Writing the given wave equation y=0.25 \\sin (10 \\pi x-2 \\pi t) The minus (-) between (10 \\pi x) and (2 \\pi t) implies that the wave is travelling along positive x direction. Now comparing Eq. (i) with standard wave equation y=a \\sin (k x-\\omega t) We have \\beginarrayl a=0.25 m, \\omega=2 \\pi, k=10 \\pi m \\\\ \\therefore \\frac\u2082 \\piT=2 \\pi \\\\ \\Rightarrow f=1 Hz \\endarray Also, \\lambda=\\frac\u2082 \\pik=\\frac\u2082 \\pi\u2081\u2080 \\pi=0.2 m Therefore, the wave is travelling along +ve x direction with frequency 1 Hz and wavelength 0.2 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Oscillations and Waves"
     },
@@ -52,28 +37,13 @@
     {
       "question": "wave in a string has an amplitude of 2 cm. The wave travels in the +ve direction of x-axis with a speed of 128 m / s and it is noted that 5 complete waves fit in 4 m length of the string. The equation describing the wave is",
       "options": {
-        "A": "y=(",
-        "B": "0",
-        "C": "m \\sin (",
-        "D": "58 x-1005 t) B y=("
+        "A": "Y=(",
+        "B": "0%",
+        "C": "M \\sin (",
+        "D": "58 x-1005 t)"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** 5 \\lambda=4 \\lambda=\\frac\u2084\u2085 k=\\frac\u2082 \\pi\\lambda=\\frac\u2081\u2080 \\pi\u2084=7.85 wave moves along positive X-direction **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
-      "question": "The amplitude and time period in SHM are 0.8 c m and 0.2 s e c respectively. If the initial phase is \u03c0 2 radian, then the equation representing SHM is",
-      "options": {
-        "A": "y =",
-        "B": "8 cos \u2061 10 \u03c0 t B y =",
-        "C": "8 sin \u2061 \u03c0 t C y = 3 \u00d7",
-        "D": "8 sin \u2061 \u03c0 t D y ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** y = a sin \u2061 \u03c9 t + \u03d5 y = 0.8 sin \u2061 2 \u03c0 t 0.2 + \u03c0 2 y = 0.8 cos \u2061 10 \u03c0 t **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -88,31 +58,16 @@
         "D": "720 Hz"
       },
       "answer": "A",
-      "solution": "## Answer: **(A) 660 Hz** --- ## Step-by-Step Solution **Given Information:** - Source frequency: f\u2080 = 600 Hz - Source velocity: v\u209b = 30 m/s (toward observer) - Speed of sound: v = 330 m/s - Observer: stationary **Doppler Effect Formula (Source Moving, Observer Stationary):** f' = f_0 \u00d7 \\fracvv - v_s **Substituting values:** f' = 600 \u00d7 \\frac\u2083\u2083\u2080\u2083\u2083\u2080 - 30 f' = 600 \u00d7 \\frac\u2083\u2083\u2080\u2083\u2080\u2080 f' = 600 \u00d7 1.1 = 660 \\text Hz --- ## Concept Explanation **Doppler Effect:** When a sound source moves toward an observer, sound waves get compressed (wavelength decreases), causing the observer to hear a **higher frequency**. - **Source approaching:** f' > f\u2080 (frequency increases) - **Source receding:** f' < f\u2080 (frequency decreases) --- ## Why Other Options Are Wrong | Option | Reason | |--------|--------| | **(B) 600 Hz** | This would be the frequency if there was no relative motion | | **(C) 540 Hz** | This would occur if source was moving AWAY from observer | | **(D) 720 Hz** | Incorrect calculation; doesn't follow Doppler formula | --- ## Key Formula to Remember \\boxedf' = f_0 \u00d7 \\fracvv \\mp v_s - Use **minus (-)** when source moves **toward** observer \u2192 higher frequency - Use **plus (+)** when source moves **away** from observer \u2192 lower frequency",
+      "solution": "## Answer: **(A) 660 Hz** --- ## Step-by-Step Solution **Given Information:** - Source frequency: f\u2080 = 600 Hz - Source velocity: v\u209b = 30 m/s (toward observer) - Speed of sound: v = 330 m/s - Observer: stationary **Doppler Effect Formula (Source Moving, Observer Stationary):** f' = f_0 \u00d7 \\fracvv - v_s **Substituting values:** f' = 600 \u00d7 \\frac\u2083\u2083\u2080\u2083\u2083\u2080 - 30 f' = 600 \u00d7 \\frac\u2083\u2083\u2080\u2083\u2080\u2080 f' = 600 \u00d7 1.1 = 660 Hz --- ## Concept Explanation **Doppler Effect:** When a sound source moves toward an observer, sound waves get compressed (wavelength decreases), causing the observer to hear a **higher frequency**. - **Source approaching:** f' > f\u2080 (frequency increases) - **Source receding:** f' < f\u2080 (frequency decreases) --- ## Why Other Options Are Wrong | Option | Reason | |--------|--------| | **(B) 600 Hz** | This would be the frequency if there was no relative motion | | **(C) 540 Hz** | This would occur if source was moving AWAY from observer | | **(D) 720 Hz** | Incorrect calculation; doesn't follow Doppler formula | --- ## Key Formula to Remember \\boxedf' = f_0 \u00d7 \\fracvv \\mp v_s - Use **minus (-)** when source moves **toward** observer \u2192 higher frequency - Use **plus (+)** when source moves **away** from observer \u2192 lower frequency",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "wave travelling in the positive x-direction with amplitude A=0.2 m, velocity v=360 ms^-1 and wavelength \\lambda =60 m, then the correct expression for the wave is:",
-      "options": {
-        "A": "y=",
-        "B": "2 \\sin \\left[2 \\pi\\left(6 t+\\fracx\u2086\u2080\\right)\\right] B y=",
-        "C": "2 \\sin \\left[\\pi\\left(6 t+\\fracx\u2086\u2080\\right)\\right] C y=",
-        "D": "2 \\sin \\left[2 \\pi\\left(6 t-\\fracx\u2086\u2080\\right)\\right] D y="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The general equation of wave travelling in x-direction is given as y=A \\sin \\left[\\frac\u2082 \\pi\\lambda(V t-x)\\right] Where A=0.2 m, v=360 ms^-1, \\lambda= 60 m \\therefore The equation becomes \\beginaligned & y=0.2 \\sin \\left[\\frac\u2082 \\pi\u2086\u2080(360 t-x)\\right] \\\\ & y=0.2 \\sin \\left[2 \\pi\\left(6 t-\\fracx\u2086\u2080\\right)\\right] \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
       "question": "tunnel is dug along the diameter of the earth. A mass m is dropped into it. How much time does it take to cross the earth?",
       "options": {
-        "A": "16",
+        "A": "16%",
         "B": "2 m i n B\u2088",
         "C": "6 m i n",
         "D": "2 m i n"
@@ -127,7 +82,7 @@
     {
       "question": "particle suspended from a vertical spring oscillates 10 times per second. At the highest point of oscillation, the spring becomes unstretched. Find the speed when the spring is stretched by 0.20 c m . T a k e , g = \u03c0 2 m / s 2",
       "options": {
-        "A": "11",
+        "A": "11%",
         "B": "25 c m s - 1",
         "C": "14 c m s - 1",
         "D": "4 c m s - 1"
@@ -140,30 +95,15 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "The wave described by y=0.25 \\sin (10 \\pi x-2 \\pi t), where x and y are in meters and t in seconds, is a wave travelling along the",
-      "options": {
-        "A": "-ve x direction with amplitude",
-        "B": "25 m and wavelength \\lambda=",
-        "C": "2 m B -ve x direction with frequency 1 Hz C +ve x direction with frequency \\pi Hz and wavelength \\lambda=",
-        "D": "2 m D +ve x direction with frequency 1 Hz and wavelength \\lambda="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Give, y=0.25 \\sin (10 \\pi x-2 \\pi t) Comparing with y=A \\sin \\left(\\frac\u2082 \\pi\\lambda \u00b7 x-2 \\pi n t\\right), we get, \\beginaligned & \\lambda=0.2 m \\\\ & n=1 Hz \\endaligned -ve sign indicates, the x direction. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
       "question": "signal is to be transmitted through a wave of wavelength \\lambda , using a linear antenna. The length l of the antenna and effective power radiated P<sub>eff</sub> will be given respectively as : <br/><br/>(K is a constant of proportionality)",
       "options": {
-        "A": "\\lambda , P<sub>eff</sub> = K \\left( 1 \\over \\lambda \\right)<sup>2</sup>",
-        "B": "\\lambda \\over 8, P<sub>eff</sub> = K \\left( 1 \\over \\lambda \\right)",
-        "C": "\\lambda \\over 16, P<sub>eff</sub> = K \\left( 1 \\over \\lambda \\right)<sup>3</sup>",
-        "D": "\\lambda \\over 5, P<sub>eff</sub> = K \\left( 1 \\over \\lambda \\right)\\left( 1 \\over \\lambda \\right)^1 \\over 2"
+        "A": "\\lambda , P<sub>eff</sub> = K ( 1 \\over \\lambda \\)<sup>2</sup>",
+        "B": "\\lambda \\over 8, P<sub>eff</sub> = K ( 1 \\over \\lambda \\)",
+        "C": "\\lambda \\over 16, P<sub>eff</sub> = K ( 1 \\over \\lambda \\)<sup>3</sup>",
+        "D": "\\lambda \\over 5, P<sub>eff</sub> = K ( 1 \\over \\lambda \\)( 1 \\over \\lambda \\)^1 \\over 2"
       },
       "answer": "A",
-      "solution": "We know that for a linear antenna of length l, (i) it's length of antenna is comparable to the wavelength of the signal and (ii) the power radiated is proportional to 1/\\lambda<sup>2</sup>. That is, the power radiated for the antenna increases with decreasing \\lambda thereby increasing the frequency. Power of the antenna P = \\mu \\left( 1 \\over l \\right)^2 Here, \\mu = K; hence, the correct option is (D).",
+      "solution": "We know that for a linear antenna of length l, (i) it's length of antenna is comparable to the wavelength of the signal and (ii) the power radiated is proportional to 1/\\lambda<sup>2</sup>. That is, the power radiated for the antenna increases with decreasing \\lambda thereby increasing the frequency. Power of the antenna P = \\mu ( 1 \\over l \\)^2 Here, \\mu = K; hence, the correct option is (D).",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -187,10 +127,10 @@
     {
       "question": "A\u2082\u2085 m long antenna is mounted on an antenna tower. The height of the antenna tower is 75 m. The wavelength (in meter) of the signal transmitted by this antenna would be :",
       "options": {
-        "A": "200",
-        "B": "400",
-        "C": "100",
-        "D": "300"
+        "A": "200%",
+        "B": "400%",
+        "C": "100%",
+        "D": "300%"
       },
       "answer": "C",
       "solution": "Given that, height of peak of antenna : H = 25 m.<br><br>As, we know that<br><br>\\lambda = 4H<br><br> \\therefore \\lambda = 4 \u00d7 25<br><br> \\Rightarrow \\lambda = 100 m",
@@ -217,7 +157,7 @@
     {
       "question": "We do not transmit low frequency signal to long distances because- (a) The size of the antenna should be comparable to signal wavelength which is unreal solution for a signal of longer wavelength. (b) Effective power radiated by a long wavelength baseband signal would be high. (c) We want to avoid mixing up signals transmitted by different transmitter simultaneously. (d) Low frequency signal can be sent to long distances by superimposing with a high frequency wave as well. Therefore, the most suitable option will be :",
       "options": {
-        "A": "ll statements are true",
+        "A": "Ll statements are true",
         "B": "(a), (b) and (c) are true only",
         "C": "(a), (c) and (d) are true only",
         "D": "(b), (c) and (d) are true only"
@@ -247,7 +187,7 @@
     {
       "question": "The power radiated from a linear antenna of length l is proportional to (Given, \\lambda= Wavelength of wave):",
       "options": {
-        "A": "\\left(\\fracl\\lambda\\right)^2",
+        "A": "(\\fracl\\lambda\\)^2",
         "B": "\\fracl\\lambda^2",
         "C": "\\fracl^2\\lambda",
         "D": "\\fracl\\lambda"
@@ -277,10 +217,10 @@
     {
       "question": "An audio signal consists of two distinct sounds : one a human speech signal in the frequency band of 200 Hz to 2700 Hz, while the other is a high frequency music signal in the frequency band of 10200 Hz to 15200 Hz. The ratio of the AM signal bandwidth required to send both the signals together to the AM signal bandwidth required to send just the human speech is :",
       "options": {
-        "A": "3",
-        "B": "5",
-        "C": "6",
-        "D": "2"
+        "A": "3%",
+        "B": "5%",
+        "C": "6%",
+        "D": "2%"
       },
       "answer": "C",
       "solution": "To calculate the ratio of the AM signal bandwidth required to send both the signals together to the AM signal bandwidth required to send just the human speech, we need to consider the frequency range covered by both signals. For the human speech signal, the frequency band is from 200 Hz to 2700 Hz. Therefore, the bandwidth required to send just the human speech is : Bandwidth for speech = 2700 Hz - 200 Hz = 2500 Hz For the high-frequency music signal, the frequency band is from 10200 Hz to 15200 Hz. So, the bandwidth required to send the music signal is : Bandwidth for music = 15200 Hz - 10200 Hz = 5000 Hz To send both signals together, we need to consider the combined frequency range. The combined frequency range covers from 200 Hz to 15200 Hz. Hence, the bandwidth required to send both signals together is : Total bandwidth = 15200 Hz - 200 Hz = 15000 Hz Now, let's calculate the ratio : Ratio = Total bandwidth / Bandwidth for speech <br/><br/> \\Rightarrow Ratio = 15000 Hz / 2500 Hz <br/><br/> \\Rightarrow Ratio = 6 Therefore, the correct answer is Option C : 6.",
@@ -322,10 +262,10 @@
     {
       "question": "A\u2081\u2080\u2080 V carrier wave is made to vary between 160 V and 40 V by a modulating signal. What is the modulation index ?",
       "options": {
-        "A": "0.5",
-        "B": "0.6",
-        "C": "0.4",
-        "D": "0.3"
+        "A": "0.5%",
+        "B": "0.6%",
+        "C": "0.4%",
+        "D": "0.3%"
       },
       "answer": "B",
       "solution": "E<sub>m</sub> + E<sub>c</sub> = 160 <br><br>E<sub>m</sub> + 100 = 160 <br><br>E<sub>m</sub> = 60 <br><br>\\mu = E_m \\over E_C = 60 \\over 100 <br><br>\\mu = 0.6",
@@ -382,10 +322,10 @@
     {
       "question": "If a message signal of frequency 'f<sub>m</sub>' is amplitude modulated with a carrier signal of frequency 'f<sub>c</sub>' and radiated through an antenna, the wavelength of the corresponding signal in air is :",
       "options": {
-        "A": "c \\over f_c + f_m",
-        "B": "c \\over f_c",
-        "C": "c \\over f_c - f_m",
-        "D": "c \\over f_m"
+        "A": "C \\over f_c + f_m",
+        "B": "C \\over f_c",
+        "C": "\\over f_c - f_m",
+        "D": "C \\over f_m"
       },
       "answer": "B",
       "solution": "Given frequency of massage signal = f<sub>m</sub><br><br>Frequency of carrier signal = f<sub>c</sub><br><br>The wavelength of the corresponding signal in air is \\Rightarrow \\lambda = c \\over f_c",
@@ -412,10 +352,10 @@
     {
       "question": "A sinusoidal wave y(t) = 40sin(10 \u00d7 10<sup>6</sup> \\pit) is amplitude modulated by another sinusoidal wave x(t) = 20sin (1000 \\pit). The amplitude of minimum frequency component of modulated signal is :",
       "options": {
-        "A": "0.5",
-        "B": "0.25",
-        "C": "20",
-        "D": "10"
+        "A": "0.5%",
+        "B": "0.25%",
+        "C": "20%",
+        "D": "10%"
       },
       "answer": "D",
       "solution": "Modulate signal s(t) \u2261 [1 + 20\\sin (1000\\pi t)]\\sin (10^7\\pi t) \u2261 \\sin (10^7\\pi t) + 10\\cos (10^7\\pi t - 10^3\\pi t) + 10\\cos (10^7\\pi t + 10^3\\pi t) \\Rightarrow Required amplitude = 10",
@@ -433,7 +373,7 @@
         "D": "13.75 V"
       },
       "answer": "A",
-      "solution": "A_\\min =A_C-A_m <br/><br/> =(44-11) \\text volt =33 \\text volt",
+      "solution": "A_\\min =A_C-A_m <br/><br/> =(44-11) volt =33 volt",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -472,10 +412,10 @@
     {
       "question": "Find the modulation index of an AM wave having 8 V variation where maximum amplitude of the AM wave is 9 V.",
       "options": {
-        "A": "0.8",
-        "B": "0.5",
-        "C": "0.2",
-        "D": "0.1"
+        "A": "0.8%",
+        "B": "0.5%",
+        "C": "0.2%",
+        "D": "0.1%"
       },
       "answer": "A",
       "solution": "In an Amplitude Modulated (AM) signal, the amplitude of the carrier signal is varied in accordance with the information being sent. The extent of this variation is given by the modulation index, often denoted by \\mu. In the problem statement, we are given a peak-to-peak variation in the signal of 8V. This is essentially twice the amplitude of the modulating signal, because the peak-to-peak value represents the total variation from the minimum to the maximum. Thus, we find the amplitude of the modulating signal (A_m) as follows: A_m = \\frac\u2088V\u2082 = 4V The maximum amplitude of the AM wave is 9V. This includes the amplitude of the carrier signal and the amplitude of the modulating signal. We therefore find the amplitude of the carrier signal (A_c) as follows: A_c = 9V - A_m = 9V - 4V = 5V Finally, the modulation index \\mu is defined as the ratio of the amplitude of the modulating signal to the amplitude of the carrier signal: \\mu = \\fracA_mA_c = \\frac\u2084V\u2085V = 0.8 Thus, the modulation index of the AM signal is 0.8, meaning that the amplitude of the carrier signal is varied by 80% of its original amplitude to encode the information being sent. The correct answer among the provided options is therefore Option A: 0.8.",
@@ -487,13 +427,13 @@
     {
       "question": "The modulation index for an A.M. wave having maximum and minimum peak-to-peak voltages of 14 mV and 6 mV respectively is-",
       "options": {
-        "A": "0.4",
-        "B": "0.6",
-        "C": "1.4",
-        "D": "0.2"
+        "A": "0.4%",
+        "B": "0.6%",
+        "C": "1.4%",
+        "D": "0.2%"
       },
       "answer": "A",
-      "solution": "The modulation index (m) of an amplitude-modulated wave is defined as the ratio of the amplitude of the modulating signal to the amplitude of the carrier wave. It is a measure of the degree of modulation of the carrier wave and is given by the following equation: m = \\fracV_max - V_minV_max + V_min <br/><br/> Where V_max is the maximum peak-to-peak voltage and V_min is the minimum peak-to-peak voltage. <br/><br/> Plugging in the values from the question, we have: <br/><br/> m = \\frac\u2081\u2084 \\text mV - 6 \\text mV\u2081\u2084 \\text mV + 6 \\text mV = \\frac\u2088 \\text mV\u2082\u2080 \\text mV = 0.4 <br/><br/> So, the modulation index is 0.4, which means the degree of modulation is 0.4.",
+      "solution": "The modulation index (m) of an amplitude-modulated wave is defined as the ratio of the amplitude of the modulating signal to the amplitude of the carrier wave. It is a measure of the degree of modulation of the carrier wave and is given by the following equation: m = \\fracV_max - V_minV_max + V_min <br/><br/> Where V_max is the maximum peak-to-peak voltage and V_min is the minimum peak-to-peak voltage. <br/><br/> Plugging in the values from the question, we have: <br/><br/> m = \\frac\u2081\u2084 mV - 6 mV\u2081\u2084 mV + 6 mV = \\frac\u2088 mV\u2082\u2080 mV = 0.4 <br/><br/> So, the modulation index is 0.4, which means the degree of modulation is 0.4.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -517,9 +457,9 @@
     {
       "question": "A carrier wave of amplitude 15 V is modulated by a sinusoidal base band signal of magnitude 3 V. The ratio of maximum amplitude to minimum amplitude in an amplitude modulated wave is",
       "options": {
-        "A": "1",
-        "B": "5",
-        "C": "2",
+        "A": "1%",
+        "B": "5%",
+        "C": "2%",
         "D": "\\frac\u2083\u2082"
       },
       "answer": "D",
@@ -538,7 +478,7 @@
         "D": "15 V"
       },
       "answer": "B",
-      "solution": "In the case of Amplitude Modulation, the modulation index (\u00b5) can also be represented as: \\mu = \\fracA_\\max - A_\\minA_\\max + A_\\min where: <ul> <li>A_\\max is the maximum amplitude of the modulated wave,</li> <li>A_\\min is the minimum amplitude of the modulated wave.</li> </ul> Given that the modulation index is 60% or 0.6 and the minimum amplitude A_\\min is 3 V, we can rearrange this formula to solve for the maximum amplitude A_\\max: 0.6 = \\fracA_\\max - 3A_\\max + 3 Solving this equation gives: A_\\max = 12 \\, \\textV So, the correct answer is 12 V.",
+      "solution": "In the case of Amplitude Modulation, the modulation index (\u00b5) can also be represented as: \\mu = \\fracA_\\max - A_\\minA_\\max + A_\\min where: <ul> <li>A_\\max is the maximum amplitude of the modulated wave,</li> <li>A_\\min is the minimum amplitude of the modulated wave.</li> </ul> Given that the modulation index is 60% or 0.6 and the minimum amplitude A_\\min is 3 V, we can rearrange this formula to solve for the maximum amplitude A_\\max: 0.6 = \\fracA_\\max - 3A_\\max + 3 Solving this equation gives: A_\\max = 12 \\, V So, the correct answer is 12 V.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -553,7 +493,7 @@
         "D": "\\lambda _A \\over \\lambda _B = 1 \\over 2"
       },
       "answer": "B",
-      "solution": "From question, m<sub>A</sub> = M; m<sub>B</sub> = m \\over 2 <br><br>u<sub>A</sub> = V and u<sub>B</sub> = 0 <br><br>Let after collision velocity of A = V<sub>1</sub> and <br><br>velocity of B = V<sub>2</sub> <br><br>Applying law of conservation of momentum, <br><br>mu = mv<sub>1</sub> + \\left( m \\over 2 \\right)v_2 <br><br> \\Rightarrow 24= 2v<sub>1</sub> + v<sub>2</sub> ........(i) <br><br>By law of collision <br><br>e = v_2 - v_1 \\over u - 0 <br><br> \\Rightarrow u = v<sub>2</sub> - v<sub>1</sub> ..........(ii) <br><br>[As collision is elastic, e = 1] <br><br>using eqns (i) and (ii) <br><br>v<sub>1</sub> = 4 \\over 3 and v<sub>2</sub> = 4 \\over 3v <br><br>We know, de-Broglie wavelength \\lambda = h \\over p <br><br> \\therefore \\lambda _A \\over \\lambda _B = P_B \\over P_A = m \\over 2 \u00d7 4 \\over 3u \\over m \u00d7 4 \\over 3 = 2",
+      "solution": "From question, m<sub>A</sub> = M; m<sub>B</sub> = m \\over 2 <br><br>u<sub>A</sub> = V and u<sub>B</sub> = 0 <br><br>Let after collision velocity of A = V<sub>1</sub> and <br><br>velocity of B = V<sub>2</sub> <br><br>Applying law of conservation of momentum, <br><br>mu = mv<sub>1</sub> + ( m \\over 2 \\)v_2 <br><br> \\Rightarrow 24= 2v<sub>1</sub> + v<sub>2</sub> ........(i) <br><br>By law of collision <br><br>e = v_2 - v_1 \\over u - 0 <br><br> \\Rightarrow u = v<sub>2</sub> - v<sub>1</sub> ..........(ii) <br><br>[As collision is elastic, e = 1] <br><br>using eqns (i) and (ii) <br><br>v<sub>1</sub> = 4 \\over 3 and v<sub>2</sub> = 4 \\over 3v <br><br>We know, de-Broglie wavelength \\lambda = h \\over p <br><br> \\therefore \\lambda _A \\over \\lambda _B = P_B \\over P_A = m \\over 2 \u00d7 4 \\over 3u \\over m \u00d7 4 \\over 3 = 2",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -578,12 +518,12 @@
       "question": "particle 'P' is formed due to a completely inelastic collision of particles 'x' and 'y' having de-Broglie wavelengths '\\lambda <sub>x</sub>' and '\\lambda <sub>y</sub>' respectively. If x and y were moving in opposite directions, then the de-Broglie wavelength of 'P' is :-",
       "options": {
         "A": "\\lambda _x - \\lambda _y",
-        "B": "\\lambda _x\\lambda _y \\over \\left| \\lambda _x - \\lambda _y \\right|",
+        "B": "\\lambda _x\\lambda _y \\over \\left| \\lambda _x - \\lambda _y \\|",
         "C": "\\lambda _x + \\lambda _y",
         "D": "\\lambda _x\\lambda _y \\over \\lambda _x + \\lambda _y"
       },
       "answer": "B",
-      "solution": "Conservation of momentum<br><br> \\overrightarrow p_x + \\overrightarrow p_y = \\overrightarrow p _final<br><br> m<sub>x</sub>v<sub>x</sub> \\\u2013 m<sub>y</sub>v<sub>y</sub> = (m<sub>x</sub> + m<sub>y</sub>) V<br><br> h \\over \\lambda _x - h \\over \\lambda _y = h \\over \\lambda <br><br> \\Rightarrow \\lambda = \\lambda _x\\lambda _y \\over \\left| \\lambda _x - \\lambda _y \\right|",
+      "solution": "Conservation of momentum<br><br> \\overarrow p_x + \\overarrow p_y = \\overarrow p _final<br><br> m<sub>x</sub>v<sub>x</sub> \\\u2013 m<sub>y</sub>v<sub>y</sub> = (m<sub>x</sub> + m<sub>y</sub>) V<br><br> h \\over \\lambda _x - h \\over \\lambda _y = h \\over \\lambda <br><br> \\Rightarrow \\lambda = \\lambda _x\\lambda _y \\over \\left| \\lambda _x - \\lambda _y \\|",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -592,10 +532,10 @@
     {
       "question": "Assuming the nitrogen molecule is moving with r.m.s. velocity at 400 K, the de-Broglie wavelength of nitrogen molecule is close to : <br/>(Given : nitrogen molecule weight : 4.64 \u00d7 10<sup>\\\u201326</sup> kg, <br/>Boltzman constant: 1.38 \u00d7 10<sup>\\\u201323</sup> J/K, <br/>Planck constant : 6.63 \u00d7 10<sup>\\\u201334</sup> J.s)",
       "options": {
-        "A": "0.44 \\mathop A\\limits^o",
-        "B": "0.34 \\mathop A\\limits^o",
-        "C": "0.20 \\mathop A\\limits^o",
-        "D": "0.24 \\mathop A\\limits^o"
+        "A": "0.44 \\mathop",
+        "B": "0.34 \\mathop",
+        "C": "0.20 \\mathop",
+        "D": "0.24 \\mathop"
       },
       "answer": "D",
       "solution": "We know, the de-Broglie wavelength<br><br> \\lambda = h \\over mv_rms <br><br>also V<sub>rms</sub> = \\sqrt 3kT \\over m <br><br> \\therefore \\lambda = h \\over \\sqrt 3mkT <br><br>= 6.63 \u00d7 10^ - 34 \\over \\sqrt 3 \u00d7 4.6 \u00d7 10^ - 26 \u00d7 1.38 \u00d7 10^ - 23 \u00d7 400 <br><br>= 2.4 \u00d7 10<sup>-11</sup> m <br><br>= 0.24 \\mathop A\\limits^o",
@@ -613,7 +553,7 @@
         "D": "\\lambda <sub>e</sub> < \\lambda <sub>He<sup>++</sup></sub> = \\lambda <sub>p</sub>"
       },
       "answer": "C",
-      "solution": "\\lambda = h \\over P = h \\over \\sqrt 2m\\left( KE \\right) <br><br> \\therefore \\lambda \\propto 1 \\over \\sqrt m <br><br>m<sub>He<sup>++</sup></sub> > m<sub>p</sub> > m<sub>e</sub> <br><br> \\therefore \\lambda <sub>e</sub> > \\lambda <sub>p</sub> > \\lambda <sub>He<sup>++</sup></sub>",
+      "solution": "\\lambda = h \\over P = h \\over \\sqrt 2m( KE \\) <br><br> \\therefore \\lambda \\propto 1 \\over \\sqrt m <br><br>m<sub>He<sup>++</sup></sub> > m<sub>p</sub> > m<sub>e</sub> <br><br> \\therefore \\lambda <sub>e</sub> > \\lambda <sub>p</sub> > \\lambda <sub>He<sup>++</sup></sub>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -628,7 +568,7 @@
         "D": "9.7 \u00d7 10<sup>\\\u201328</sup> kg"
       },
       "answer": "D",
-      "solution": "Let mass of particle = m <br><br>Let speed of e<sup>\\\u2013</sup> = V <br><br> \\therefore speed of particle = 5V <br><br>de-broglie wavelength \\lambda <sub>d</sub> = h \\over P = h \\over mv <br><br> \\therefore (\\lambda <sub>d</sub>)<sub>P</sub> = h \\over m\\left( 5V \\right) ....(1) <br><br>and (\\lambda <sub>d</sub>)<sub>e</sub> = h \\over m_e\\left( V \\right) ....(1) <br><br>According to question <br><br>\\left( \\lambda _d \\right)_P \\over \\left( \\lambda _d \\right)_e = m_e \\over 5m = 1.878 \u00d7 10<sup>\\\u20134</sup> <br><br> \\Rightarrow m = m_e \\over 5 \u00d7 1.874 \u00d7 10^ - 4 <br><br>= 9.1 \u00d7 10^ - 31 \\over 5 \u00d7 1.874 \u00d7 10^ - 4 <br><br>= 9.7 \u00d7 10<sup>\\\u201328</sup> kg",
+      "solution": "Let mass of particle = m <br><br>Let speed of e<sup>\\\u2013</sup> = V <br><br> \\therefore speed of particle = 5V <br><br>de-broglie wavelength \\lambda <sub>d</sub> = h \\over P = h \\over mv <br><br> \\therefore (\\lambda <sub>d</sub>)<sub>P</sub> = h \\over m( 5V \\) ....(1) <br><br>and (\\lambda <sub>d</sub>)<sub>e</sub> = h \\over m_e( V \\) ....(1) <br><br>According to question <br><br>( \\lambda _d \\)_P \\over ( \\lambda _d \\)_e = m_e \\over 5m = 1.878 \u00d7 10<sup>\\\u20134</sup> <br><br> \\Rightarrow m = m_e \\over 5 \u00d7 1.874 \u00d7 10^ - 4 <br><br>= 9.1 \u00d7 10^ - 31 \\over 5 \u00d7 1.874 \u00d7 10^ - 4 <br><br>= 9.7 \u00d7 10<sup>\\\u201328</sup> kg",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -643,7 +583,7 @@
         "D": "\\Delta \\lambda = 4\\lambda <sub>0</sub>"
       },
       "answer": "D",
-      "solution": "Applying momentum conservation <br><br>m \\over 2 \u00d7 V_0 + m \\over 3 \u00d7 0 = m \\over 2V_A + m \\over 3V_B <br><br> \\Rightarrow V_0 \\over 2 = V_A \\over 2 + V_B \\over 3 .....(1) <br><br>Since, collision is elastic (e = 1) <br><br>e = 1 = V_B - V_A \\over V_0 <br><br> \\Rightarrow V<sub>0</sub> = V<sub>B</sub> \\\u2013 V<sub>A</sub> .....(2) <br><br>On solving (1) & (2) : <br><br>V<sub>A</sub> = V_0 \\over 5 <br><br>Now, De-Broglie wavelength of A before collision : <br><br>\\lambda <sub>0</sub> = h \\over m_AV_0 <br><br>= h \\over \\left( m \\over 2 \\right)V_0 <br><br>= 2h \\over mV_0 <br><br>Final De-Broglie wavelength : <br><br>\\lambda <sub>f</sub> = h \\over m_AV_A <br><br>= h \\over \\left( m \\over 2 \\right)\\left( V_0 \\over 5 \\right) = 10h \\over mV_0 <br><br>Now, \\Delta \\lambda = \\lambda <sub>f</sub> - \\lambda <sub>0</sub> <br><br>= 10h \\over mV_0 - 2h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 8h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 4 \u00d7 2h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 4\\lambda <sub>0</sub>",
+      "solution": "Applying momentum conservation <br><br>m \\over 2 \u00d7 V_0 + m \\over 3 \u00d7 0 = m \\over 2V_A + m \\over 3V_B <br><br> \\Rightarrow V_0 \\over 2 = V_A \\over 2 + V_B \\over 3 .....(1) <br><br>Since, collision is elastic (e = 1) <br><br>e = 1 = V_B - V_A \\over V_0 <br><br> \\Rightarrow V<sub>0</sub> = V<sub>B</sub> \\\u2013 V<sub>A</sub> .....(2) <br><br>On solving (1) & (2) : <br><br>V<sub>A</sub> = V_0 \\over 5 <br><br>Now, De-Broglie wavelength of A before collision : <br><br>\\lambda <sub>0</sub> = h \\over m_AV_0 <br><br>= h \\over ( m \\over 2 \\)V_0 <br><br>= 2h \\over mV_0 <br><br>Final De-Broglie wavelength : <br><br>\\lambda <sub>f</sub> = h \\over m_AV_A <br><br>= h \\over ( m \\over 2 \\)( V_0 \\over 5 \\) = 10h \\over mV_0 <br><br>Now, \\Delta \\lambda = \\lambda <sub>f</sub> - \\lambda <sub>0</sub> <br><br>= 10h \\over mV_0 - 2h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 8h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 4 \u00d7 2h \\over mV_0 <br><br> \\Rightarrow \\Delta \\lambda = 4\\lambda <sub>0</sub>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -673,7 +613,7 @@
         "D": "1 \\over 8 times the mass of e<sup>-</sup>"
       },
       "answer": "D",
-      "solution": "\\lambda = h \\over p<br><br>\\lambda _p \\over \\lambda _e = p_e \\over p_p = m_ev_e \\over m_pv_p<br><br>2 = m_e \\over m_p\\left( v_e \\over 4v_e \\right)<br><br> \\therefore m_p = m_e \\over 8",
+      "solution": "\\lambda = h \\over p<br><br>\\lambda _p \\over \\lambda _e = p_e \\over p_p = m_ev_e \\over m_pv_p<br><br>2 = m_e \\over m_p( v_e \\over 4v_e \\)<br><br> \\therefore m_p = m_e \\over 8",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -682,10 +622,10 @@
     {
       "question": "An electron having de-Broglie wavelength \\lambda is incident on a target in a X-ray tube. Cut-off wavelength of emitted X-ray is :",
       "options": {
-        "A": "0",
+        "A": "0%",
         "B": "2m^2c^2\\lambda ^2 \\over h^2",
         "C": "2mc\\lambda ^2 \\over h",
-        "D": "hc \\over mc"
+        "D": "Hc \\over mc"
       },
       "answer": "C",
       "solution": "\\lambda = h \\over mv<br><br>kinetic energy, P^2 \\over 2m = h^2 \\over 2m\\lambda ^2 = hc \\over \\lambda _c<br><br>\\lambda _c = 2mc\\lambda ^2 \\over h",
@@ -733,7 +673,7 @@
         "D": "16 \\over 9E"
       },
       "answer": "B",
-      "solution": "\\lambda = h \\over mv = h \\over \\sqrt 2mE , mv = \\sqrt 2mE <br><br>\\lambda \\propto 1 \\over \\sqrt E <br><br>\\lambda _2 \\over \\lambda _1 = \\sqrt E_1 \\over E_2 = 3 \\over 4, \\lambda _2 = 0.75\\lambda _1<br><br>E_1 \\over E_2 = \\left( 3 \\over 4 \\right)^2<br><br>E_2 = 16 \\over 9E_1 = 16 \\over 9E (E<sub>1</sub> = E)<br><br>Extra energy given = 16 \\over 9E - E = 7 \\over 9E",
+      "solution": "\\lambda = h \\over mv = h \\over \\sqrt 2mE , mv = \\sqrt 2mE <br><br>\\lambda \\propto 1 \\over \\sqrt E <br><br>\\lambda _2 \\over \\lambda _1 = \\sqrt E_1 \\over E_2 = 3 \\over 4, \\lambda _2 = 0.75\\lambda _1<br><br>E_1 \\over E_2 = ( 3 \\over 4 \\)^2<br><br>E_2 = 16 \\over 9E_1 = 16 \\over 9E (E<sub>1</sub> = E)<br><br>Extra energy given = 16 \\over 9E - E = 7 \\over 9E",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -868,7 +808,7 @@
         "D": "1: \\frac\u2081\\sqrt\u2081\u2088\u2083\u2086"
       },
       "answer": "C",
-      "solution": "To solve for the ratio of the kinetic energies of a proton and an electron with the same de-Broglie wavelength, let us first recall the relationship between kinetic energy, momentum, and the de-Broglie wavelength. The de-Broglie wavelength \\lambda is given by: \\lambda = \\frachp where h is Planck\\u\u2082\u2080\u2081\u2089s constant and p is the momentum. Since the proton and the electron have the same de-Broglie wavelength, their momenta must be equal: \\lambda_\\textelectron = \\lambda_\\textproton \\implies \\frachp_\\texte = \\frachp_\\textp \\implies p_\\texte = p_\\textp Next, the kinetic energy K of a particle is related to its momentum p and mass m by the following formula: K = \\fracp^22m Given that the momentum p is the same for both the proton and the electron, we can write the kinetic energies as: K_\\texte = \\fracp^22m_\\texte K_\\textp = \\fracp^22m_\\textp The ratio of the kinetic energies is therefore: \\fracK_\\texteK_\\textp = \\frac\\fracp^22m_\\texte\\fracp^22m_\\textp = \\fracm_\\textpm_\\texte Given that the mass of the proton m_\\textp is 1836 times the mass of the electron m_\\texte, we have: \\fracm_\\textpm_\\texte = 1836 Thus, the ratio of the kinetic energies is: \\fracK_\\texteK_\\textp = 1836 Therefore, the correct answer is: Option C 1: 1836",
+      "solution": "To solve for the ratio of the kinetic energies of a proton and an electron with the same de-Broglie wavelength, let us first recall the relationship between kinetic energy, momentum, and the de-Broglie wavelength. The de-Broglie wavelength \\lambda is given by: \\lambda = \\frachp where h is Planck\\u\u2082\u2080\u2081\u2089s constant and p is the momentum. Since the proton and the electron have the same de-Broglie wavelength, their momenta must be equal: \\lambda_electron = \\lambda_proton \\implies \\frachp_e = \\frachp_p \\implies p_e = p_p Next, the kinetic energy K of a particle is related to its momentum p and mass m by the following formula: K = \\fracp^22m Given that the momentum p is the same for both the proton and the electron, we can write the kinetic energies as: K_e = \\fracp^22m_e K_p = \\fracp^22m_p The ratio of the kinetic energies is therefore: \\fracK_eK_p = \\frac\\fracp^22m_e\\fracp^22m_p = \\fracm_pm_e Given that the mass of the proton m_p is 1836 times the mass of the electron m_e, we have: \\fracm_pm_e = 1836 Thus, the ratio of the kinetic energies is: \\fracK_eK_p = 1836 Therefore, the correct answer is: Option C\u2081: 1836",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -877,10 +817,10 @@
     {
       "question": "Radiation of wavelength \\lambda , is incident on a photocell. The fastest emitted electron has speed v. If the wavelength is changed to 3\\lambda \\over 4, the speed of the fastest emitted electron will be:",
       "options": {
-        "A": "= v\\left( 4 \\over 3 \\right)^1 \\over 2",
-        "B": "= v\\left( 3 \\over 4 \\right)^1 \\over 2",
-        "C": "> v\\left( 4 \\over 3 \\right)^1 \\over 2",
-        "D": "< v\\left( 4 \\over 3 \\right)^1 \\over 2"
+        "A": "= v( 4 \\over 3 \\)^1 \\over 2",
+        "B": "= v( 3 \\over 4 \\)^1 \\over 2",
+        "C": "> v( 4 \\over 3 \\)^1 \\over 2",
+        "D": "< v( 4 \\over 3 \\)^1 \\over 2"
       },
       "answer": "C",
       "solution": "hv_0^2 - hv_0 = 1 \\over 2mv^2 <br><br>\\therefore 4 \\over 3hv_0 - hv_0 = 1 \\over 2mv'^2 <br><br>\\therefore v'^2 \\over v^2 = 4 \\over 3v - v_0 \\over v - v_0 <br><br>\\therefore v' = v\\sqrt 4 \\over 3v - v_0 \\over v - v_0 <br><br>\\therefore v' > v\\sqrt 4 \\over 3",
@@ -898,7 +838,7 @@
         "D": "1.5 V"
       },
       "answer": "B",
-      "solution": "kE_\\max = hc \\over \\lambda _i + \\phi <br><br>or eV_o = hc \\over \\lambda _i + \\phi <br><br>when \\lambda<sub>i</sub> = 670.5 nm ; V<sub>o</sub> = 0.48<br><br>when \\lambda<sub>i</sub> = 474.6 nm ; V<sub>o</sub> = ?<br><br>So, <br><br>e(0.48) = 1240 \\over 670.5 + \\phi ..... (1)<br><br>e(V_o) = 1240 \\over 474.6 + \\phi .....(2)<br><br>(2) - (1)<br><br>e(V_o - 0.48) = 1240\\left( 1 \\over 474.6 - 1 \\over 670.5 \\right)eV<br><br>V_o = 0.48 + 1240\\left( 670.5 - 474.6 \\over 474.6 \u00d7 670.5 \\right) Volts<br><br>V<sub>o</sub> = 0.48 + 0.76<br><br>V<sub>o</sub> = 1.24 V \\simeq 1.25 V",
+      "solution": "kE_\\max = hc \\over \\lambda _i + \\phi <br><br>or eV_o = hc \\over \\lambda _i + \\phi <br><br>when \\lambda<sub>i</sub> = 670.5 nm ; V<sub>o</sub> = 0.48<br><br>when \\lambda<sub>i</sub> = 474.6 nm ; V<sub>o</sub> = ?<br><br>So, <br><br>e(0.48) = 1240 \\over 670.5 + \\phi ..... (1)<br><br>e(V_o) = 1240 \\over 474.6 + \\phi .....(2)<br><br>(2) - (1)<br><br>e(V_o - 0.48) = 1240( 1 \\over 474.6 - 1 \\over 670.5 \\)eV<br><br>V_o = 0.48 + 1240( 670.5 - 474.6 \\over 474.6 \u00d7 670.5 \\) Volts<br><br>V<sub>o</sub> = 0.48 + 0.76<br><br>V<sub>o</sub> = 1.24 V \\simeq 1.25 V",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -925,7 +865,7 @@
         "A": "\\frachcE \\lambda-hc",
         "B": "\\frachc \\lambdaE \\lambda+hc",
         "C": "\\frach \\lambdaE \\lambda+hc",
-        "D": "\\frac\\text hc \\lambdaE \\lambda-hc"
+        "D": "\\frac hc \\lambdaE \\lambda-hc"
       },
       "answer": "B",
       "solution": "k = hc \\over \\lambda - \\phi = E and, 2k = hc \\over \\lambda _2 - \\phi = 2E \\Rightarrow hc \\over \\lambda - E = hc \\over \\lambda _2 - 2E \\Rightarrow hc \\over \\lambda _2 = hc \\over \\lambda + E \\Rightarrow \\lambda _2 = hc\\lambda \\over hc + \\lambda E",
@@ -935,7 +875,7 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "An electron is constrained to move along the y-axis with a speed of 0.1 c (c is the speed of light) in the presence of electromagnetic wave, whose electric field is <br/>\\overrightarrow E = 30\\widehat j\\sin \\left( 1.5 \u00d7 10^7t - 5 \u00d7 10^ - 2x \\right) V/m. <br/>The maximum magnetic force experienced by the electron will be : <br/>(given c = 3 \u00d7 10<sup>8</sup> ms<sup>\\\u20131</sup> and electron charge = 1.6 \u00d7 10<sup>\\\u201319</sup> C)",
+      "question": "An electron is constrained to move along the y-axis with a speed of 0.1 c (c is the speed of light) in the presence of electromagnetic wave, whose electric field is <br/>\\overarrow E = 30\\widehat j\\sin ( 1.5 \u00d7 10^7t - 5 \u00d7 10^ - 2x \\) V/m. <br/>The maximum magnetic force experienced by the electron will be : <br/>(given c = 3 \u00d7 10<sup>8</sup> ms<sup>\\\u20131</sup> and electron charge = 1.6 \u00d7 10<sup>\\\u201319</sup> C)",
       "options": {
         "A": "4.8 \u00d7 10<sup>\\\u201319</sup> N",
         "B": "2.4 \u00d7 10<sup>\\\u201318</sup> N",
@@ -943,7 +883,7 @@
         "D": "1.6 \u00d7 10<sup>\\\u201318</sup> N"
       },
       "answer": "A",
-      "solution": "\\overrightarrow E = 30\\widehat j\\sin (1.5 \u00d7 10^7t - 5 \u00d7 10^ - 2x)V/m <br><br>V = 1.5 \u00d7 10^2 \\over 5 \u00d7 10^ - 2 = 3 \u00d7 10<sup>8</sup> = C <br><br> \\Rightarrow B = E/C = 30 \\over 1.5 \u00d7 10^7 \u00d7 5 \u00d7 10^ - 2<br><br> = 10^ - 7Tesla<br><br> \\Rightarrow F_max = q\\left( \\overrightarrow V \u00d7 \\overrightarrow B \\right) = \\left| qVB \\right|<br><br> = 1.6 \u00d7 10^ - 19 \u00d7 0.1 \u00d7 3 \u00d7 10^8 \u00d7 10^ - 7<br><br> = 4.8 \u00d7 10^ - 19N",
+      "solution": "\\overarrow E = 30\\widehat j\\sin (1.5 \u00d7 10^7t - 5 \u00d7 10^ - 2x)V/m <br><br>V = 1.5 \u00d7 10^2 \\over 5 \u00d7 10^ - 2 = 3 \u00d7 10<sup>8</sup> = C <br><br> \\Rightarrow B = E/C = 30 \\over 1.5 \u00d7 10^7 \u00d7 5 \u00d7 10^ - 2<br><br> = 10^ - 7Tesla<br><br> \\Rightarrow F_max = q( \\overarrow V \u00d7 \\overarrow B \\) = \\left| qVB \\|<br><br> = 1.6 \u00d7 10^ - 19 \u00d7 0.1 \u00d7 3 \u00d7 10^8 \u00d7 10^ - 7<br><br> = 4.8 \u00d7 10^ - 19N",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -958,14 +898,14 @@
         "D": "5.33 \u00d7 10<sup>7</sup> m/s"
       },
       "answer": "C",
-      "solution": "The speed of light in a medium is given by the equation: v = \\fracc\\sqrt\\varepsilon_r \\mu_r where: <ul> <li>c is the speed of light in vacuum (approximately 3 \u00d7 10^8 m/s),</li> <li>\\varepsilon_r is the relative permittivity of the medium (in this case, distilled water, and is given as 81),</li> <li>\\mu_r is the relative permeability of the medium (given as 1 for distilled water).</li> </ul> Substituting the given values into the equation, we get: v = \\frac\u2083 \u00d7 10^8 \\, \\textm/s\\sqrt\u2088\u2081 \u00d7 1 v = \\frac\u2083 \u00d7 10^8 \\, \\textm/s\u2089 v = 3.33 \u00d7 10^7 \\, \\textm/s So, the speed of light in distilled water is 3.33 \u00d7 10^7 m/s.",
+      "solution": "The speed of light in a medium is given by the equation: v = \\fracc\\sqrt\\varepsilon_r \\mu_r where: <ul> <li>c is the speed of light in vacuum (approximately 3 \u00d7 10^8 m/s),</li> <li>\\varepsilon_r is the relative permittivity of the medium (in this case, distilled water, and is given as 81),</li> <li>\\mu_r is the relative permeability of the medium (given as 1 for distilled water).</li> </ul> Substituting the given values into the equation, we get: v = \\frac\u2083 \u00d7 10^8 \\, m/s\\sqrt\u2088\u2081 \u00d7 1 v = \\frac\u2083 \u00d7 10^8 \\, m/s\u2089 v = 3.33 \u00d7 10^7 \\, m/s So, the speed of light in distilled water is 3.33 \u00d7 10^7 m/s.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "light beam is described by E = 800\\sin \\omega \\left( t - x \\over c \\right). An electron is allowed to move normal to the propagation of light beam with a speed of 3 \u00d7 10<sup>7</sup> ms<sup>-1</sup>. What is the maximum magnetic force exerted on the electron?",
+      "question": "light beam is described by E = 800\\sin \\omega ( t - x \\over c \\). An electron is allowed to move normal to the propagation of light beam with a speed of 3 \u00d7 10<sup>7</sup> ms<sup>-1</sup>. What is the maximum magnetic force exerted on the electron?",
       "options": {
         "A": "1.28 \u00d7 10<sup>-18</sup> N",
         "B": "1.28 \u00d7 10<sup>-21</sup> N",
@@ -982,9 +922,9 @@
     {
       "question": "The ratio of average electric energy density and total average energy density of electromagnetic wave is :",
       "options": {
-        "A": "1",
-        "B": "3",
-        "C": "2",
+        "A": "1%",
+        "B": "3%",
+        "C": "2%",
         "D": "\\frac\u2081\u2082"
       },
       "answer": "D",
@@ -997,10 +937,10 @@
     {
       "question": "The energy of an electromagnetic wave contained in a small volume oscillates with",
       "options": {
-        "A": "double the frequency of the wave",
-        "B": "the frequency of the wave",
-        "C": "half the frequency of the wave",
-        "D": "zero frequency"
+        "A": "Double the frequency of the wave",
+        "B": "The frequency of the wave",
+        "C": "Half the frequency of the wave",
+        "D": "Zero frequency"
       },
       "answer": "A",
       "solution": "The energy of an electromagnetic wave contained in a small volume oscillates with double the frequency of the wave. <b>Here's why</b>: The electromagnetic wave consists of oscillating electric and magnetic fields. The energy density of the wave is proportional to the square of the amplitude of these fields. Since the square of a sinusoidal function oscillates with twice the frequency of the original function, the energy density of the electromagnetic wave also oscillates with twice the frequency of the wave.",
@@ -1012,9 +952,9 @@
     {
       "question": "For the plane electromagnetic wave given by E=E_0 \\sin (\\omega t-k x) and B=B_0 \\sin (\\omega t-k x), the ratio of average electric energy density to average magnetic energy density is",
       "options": {
-        "A": "1",
-        "B": "4",
-        "C": "2",
+        "A": "1%",
+        "B": "4%",
+        "C": "2%",
         "D": "1/2"
       },
       "answer": "A",
@@ -1025,7 +965,7 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "A plane electromagnetic wave propagating in x-direction is described by E_y=\\left(200 Vm^-1\\right) \\sin \\left[1.5 \u00d7 10^7 t-0.05 x\\right] \\text ; The intensity of the wave is : (Use \\epsilon_0=8.85 \u00d7 10^-12 C^2 N^-1 m^-2)",
+      "question": "A plane electromagnetic wave propagating in x-direction is described by E_y=(200 Vm^-1\\) \\sin \\left[1.5 \u00d7 10^7 t-0.05 x\\] ; The intensity of the wave is : (Use \\epsilon_0=8.85 \u00d7 10^-12 C^2 N^-1 m^-2)",
       "options": {
         "A": "35.4 Wm^-2",
         "B": "53.1 Wm^-2",
@@ -1042,10 +982,10 @@
     {
       "question": "In the given electromagnetic wave E_y=600 \\sin (\\omega t-kx) Vm^-1, intensity of the associated light beam is (in W / m^2 : (Given \\epsilon_0=9 \u00d7 10^-12 C^2 N^-1 m^-2 )",
       "options": {
-        "A": "486",
-        "B": "729",
-        "C": "243",
-        "D": "972"
+        "A": "486%",
+        "B": "729%",
+        "C": "243%",
+        "D": "972%"
       },
       "answer": "A",
       "solution": "To find the intensity of the given electromagnetic wave, we need to use the formula for the intensity of an electromagnetic wave: I = \\frac\u2081\u2082 \\epsilon_0 c E_0^2 where: <ul> <li>I is the intensity in W / m^2</li> <li>\\epsilon_0 is the permittivity of free space, given as 9 \u00d7 10^-12 C^2 N^-1 m^-2</li> <li>c is the speed of light in vacuum, approximately 3 \u00d7 10^8 m/s</li> <li>E_0 is the peak electric field, given as 600 Vm^-1</li> </ul> Now, substitute these values into the formula: I = \\frac\u2081\u2082 \u00d7 9 \u00d7 10^-12 \u00d7 3 \u00d7 10^8 \u00d7 (600)^2 Simplify the expression step-by-step: I = \\frac\u2081\u2082 \u00d7 9 \u00d7 10^-12 \u00d7 3 \u00d7 10^8 \u00d7 360000 First, calculate 9 \u00d7 3 \u00d7 360000: I = \\frac\u2081\u2082 \u00d7 9.72 \u00d7 10^-4 \u00d7 360000 Combine 9 and 3 into 27, giving you: I = 13.5 \u00d7 10^-4 \u00d7 360000 Then, calculate the multiplication: I = 13.5 \u00d7 36 Finally, multiply the remaining values: I = 486 \u00d7 10^-4 The final value is: The intensity, I, is 486 W / m^2. Therefore, the correct option is: Option A: 486",
@@ -1057,10 +997,10 @@
     {
       "question": "Arrange the following electromagnetic radiations per quantum in the order of increasing energy : <br/><br/>A : Blue light B : Yellow light <br/><br/>C : X-ray D : Radiowave.",
       "options": {
-        "A": "C, A, B,",
-        "B": ", A, D,",
-        "C": "D, B, A,",
-        "D": "A, B, D,"
+        "A": "C,",
+        "B": ",",
+        "C": "D,",
+        "D": "A,"
       },
       "answer": "C",
       "solution": "Energy is in terms of increasing wavelength, we have \\lambda<sub>X-rays</sub> < \\lambda<sub>Blue light</sub> < \\lambda<sub>Yellow light</sub> < \\lambda<sub>Radio waves</sub> Since E = hc \\over \\lambda Therefore, order of increasing energy is E<sub>Radio waves</sub> < E<sub>Yellow light</sub> < E<sub>Blue light</sub> < E<sub>X-rays</sub>",
@@ -1100,7 +1040,7 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "Arrange the following in the ascending order of wavelength: A. Gamma rays \\left(\\lambda_1\\right) B. x - rays \\left(\\lambda_2\\right) C. Infrared waves \\left(\\lambda_3\\right) D. Microwaves \\left(\\lambda_4\\right) Choose the most appropriate answer from the options given below",
+      "question": "Arrange the following in the ascending order of wavelength: A. Gamma rays (\\lambda_1\\) B. x - rays (\\lambda_2\\) C. Infrared waves (\\lambda_3\\) D. Microwaves (\\lambda_4\\) Choose the most appropriate answer from the options given below",
       "options": {
         "A": "\\lambda_1<\\lambda_2<\\lambda_3<\\lambda_4",
         "B": "\\lambda_2<\\lambda_1<\\lambda_4<\\lambda_3",
@@ -1132,10 +1072,10 @@
     {
       "question": "Sound travels in a mixture of two moles of helium and n moles of hydrogen. If rms speed of gas molecules in the mixture is \\sqrt\u2082 times the speed of sound, then the value of n will be :",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "4"
+        "A": "1%",
+        "B": "2%",
+        "C": "3%",
+        "D": "4%"
       },
       "answer": "B",
       "solution": "Molar mass M - 2 \u00d7 4 + n \u00d7 1 \\over 2 + n ..... (i) Also, \\gamma = n_1C_P_1 + n_2C_P_2 \\over n_1C_V_1 + n_2C_V_2 = 2 \u00d7 5R + n \u00d7 7R \\over 2 \u00d7 3R + n \u00d7 5R \\Rightarrow \\gamma = 10 + 7n \\over 6 + 5n ...... (ii) Given that V_rms = \\sqrt 2 \\,V_sound \\Rightarrow \\sqrt 3RT \\over M = \\sqrt 2 \\sqrt \\gamma RT \\over M \\Rightarrow \\gamma = 3 \\over 2 \\Rightarrow n = 2",
@@ -1153,7 +1093,7 @@
         "D": "4: 1"
       },
       "answer": "D",
-      "solution": "The speed of sound in a gas is given by the formula: v = \\sqrt\\frac\\gamma RTM where v is the speed of sound, \\gamma is the adiabatic index, R is the universal gas constant, T is the temperature, and M is the molar mass of the gas. For diatomic gases, such as hydrogen (H\\u\u2082\u2080\u2088\u2082) and oxygen (O\\u\u2082\u2080\u2088\u2082), the adiabatic index \\gamma is the same, approximately equal to \\frac\u2087\u2085, and the temperature is given as the same for both gases. Let's denote the speed of sound in hydrogen as v_\\textH and in oxygen as v_\\textO. The ratio of the speeds can be calculated as: \\fracv_\\textHv_\\textO = \\sqrt\\fracM_\\textOM_\\textH The molar mass of hydrogen (H\\u\u2082\u2080\u2088\u2082) is 2\\, \\textg/mol, and the molar mass of oxygen (O\\u\u2082\u2080\u2088\u2082) is 32\\, \\textg/mol. Now, we can calculate the ratio of the speeds: \\fracv_\\textHv_\\textO = \\sqrt\\frac\u2083\u2082\u2082 = \\sqrt\u2081\u2086 = 4 This means the ratio of the speed of sound in hydrogen gas to the speed of sound in oxygen gas at the same temperature is 4:1. Therefore, the correct answer is 4:1.",
+      "solution": "The speed of sound in a gas is given by the formula: v = \\sqrt\\frac\\gamma RTM where v is the speed of sound, \\gamma is the adiabatic index, R is the universal gas constant, T is the temperature, and M is the molar mass of the gas. For diatomic gases, such as hydrogen (H\\u\u2082\u2080\u2088\u2082) and oxygen (O\\u\u2082\u2080\u2088\u2082), the adiabatic index \\gamma is the same, approximately equal to \\frac\u2087\u2085, and the temperature is given as the same for both gases. Let's denote the speed of sound in hydrogen as v_H and in oxygen as v_O. The ratio of the speeds can be calculated as: \\fracv_Hv_O = \\sqrt\\fracM_OM_H The molar mass of hydrogen (H\\u\u2082\u2080\u2088\u2082) is 2\\, g/mol, and the molar mass of oxygen (O\\u\u2082\u2080\u2088\u2082) is 32\\, g/mol. Now, we can calculate the ratio of the speeds: \\fracv_Hv_O = \\sqrt\\frac\u2083\u2082\u2082 = \\sqrt\u2081\u2086 = 4 This means the ratio of the speed of sound in hydrogen gas to the speed of sound in oxygen gas at the same temperature is 4:1. Therefore, the correct answer is 4:1.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1175,15 +1115,15 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "pendulum clock loses 12 s a day if the temperature is 40^ \\circ C and gains 4 s a day if the temperature is 20^ \\circ C. The temperature at which the clock will show correct time, and the co-efficient of linear expansion \\left( \\alpha \\right) of the metal of the pendulum shaft are respectively :",
+      "question": "pendulum clock loses 12 s a day if the temperature is 40^ \\circ C and gains 4 s a day if the temperature is 20^ \\circ C. The temperature at which the clock will show correct time, and the co-efficient of linear expansion ( \\alpha \\) of the metal of the pendulum shaft are respectively :",
       "options": {
-        "A": "30^ \\circ C;\\,\\,\\alpha = 1.85 \u00d7 10^ - 3/^ \\circ C",
-        "B": "55^ \\circ C;\\,\\,\\alpha = 1.85 \u00d7 10^ - 2/^ \\circ C",
-        "C": "25^ \\circ C;\\,\\,\\alpha = 1.85 \u00d7 10^ - 5/^ \\circ C",
-        "D": "60^ \\circ C;\\,\\,\\alpha = 1.85 \u00d7 10^ - 4/^ \\circ C"
+        "A": "30^ \\circ",
+        "B": "55^ \\circ",
+        "C": "25^ \\circ",
+        "D": "60^ \\circ"
       },
       "answer": "C",
-      "solution": "Time lost/gained per day = 1 \\over 2 \\propto \\Delta \\theta \u00d7 86400 second <br><br/>12 = 1 \\over 2\\alpha \\left( 40 - \\theta \\right) \u00d7 86400\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( i \\right) <br><br/>4 = 1 \\over 2\\alpha \\left( \\theta - 20 \\right) \u00d7 86400\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...\\left( ii \\right) <br><br/>On dividing we get, \\,\\,\\,3 = 40 - \\theta \\over \\theta - 20 <br><br/>3\\theta - 60 = 40 - \\theta <br><br/>4\\theta = 100 \\Rightarrow \\theta = 25^ \\circ C",
+      "solution": "Time lost/gained per day = 1 \\over 2 \\propto \\Delta \\theta \u00d7 86400 second <br><br/>12 = 1 \\over 2\\alpha ( 40 - \\theta \\) \u00d7 86400\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...( i \\) <br><br/>4 = 1 \\over 2\\alpha ( \\theta - 20 \\) \u00d7 86400\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,\\,...( ii \\) <br><br/>On dividing we get, \\,\\,\\,3 = 40 - \\theta \\over \\theta - 20 <br><br/>3\\theta - 60 = 40 - \\theta <br><br/>4\\theta = 100 \\Rightarrow \\theta = 25^ \\circ C",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -1198,19 +1138,19 @@
         "D": "1 \\over \\alpha"
       },
       "answer": "A",
-      "solution": "Change of length of wire with temperature, <br><br>\\Delta \\ell = \\alpha \\ell \\Delta \\theta <br><br>Time period of pendulum at temperature \\theta , <br><br>T<sub>\\theta </sub> = 2\\pi \\sqrt \\ell + \\Delta \\ell \\over g <br><br>= 2\\pi \\sqrt \\ell \\left( 1 + \\alpha \\Delta \\theta \\right) \\over g <br><br>= 2\\pi \\sqrt \\ell \\over g \\left( 1 + \\alpha \\Delta \\theta \\right)^1 \\over 2 <br><br>= 2\\pi \\sqrt \\ell \\over g \\left( 1 + \\Delta \\ell \\over \\ell \\right)^1 \\over 2 <br><br> \\simeq T<sub>0</sub> \\left( 1 + \\Delta \\ell \\over 2\\ell \\right) <br><br>Here T<sub>0</sub> = time period at temperature 0<sup>o</sup>C. <br><br> \\therefore Change in time period, <br><br>\\Delta T = T<sub>\\theta </sub> - T<sub>0</sub> <br><br>= T_0\\Delta \\ell \\over 2\\ell <br><br>= T_0\\left( \\alpha \\ell \\Delta \\theta \\right) \\over 2\\ell <br><br> \\therefore \\Delta T \\over \\Delta \\theta = T_0\\alpha \\over 2 <br><br>Given that T<sub>0</sub> = 2, <br><br> \\therefore \\Delta T \\over \\Delta \\theta = 2\\alpha \\over 2 = \\alpha <br><br>\\Delta T \\over \\Delta \\theta is the shape of \\Delta T and \\Delta \\theta <br><br>curve = S (given) <br><br> \\therefore S = \\alpha",
+      "solution": "Change of length of wire with temperature, <br><br>\\Delta \\ell = \\alpha \\ell \\Delta \\theta <br><br>Time period of pendulum at temperature \\theta , <br><br>T<sub>\\theta </sub> = 2\\pi \\sqrt \\ell + \\Delta \\ell \\over g <br><br>= 2\\pi \\sqrt \\ell ( 1 + \\alpha \\Delta \\theta \\) \\over g <br><br>= 2\\pi \\sqrt \\ell \\over g ( 1 + \\alpha \\Delta \\theta \\)^1 \\over 2 <br><br>= 2\\pi \\sqrt \\ell \\over g ( 1 + \\Delta \\ell \\over \\ell \\)^1 \\over 2 <br><br> \\simeq T<sub>0</sub> ( 1 + \\Delta \\ell \\over 2\\ell \\) <br><br>Here T<sub>0</sub> = time period at temperature 0<sup>o</sup>C. <br><br> \\therefore Change in time period, <br><br>\\Delta T = T<sub>\\theta </sub> - T<sub>0</sub> <br><br>= T_0\\Delta \\ell \\over 2\\ell <br><br>= T_0( \\alpha \\ell \\Delta \\theta \\) \\over 2\\ell <br><br> \\therefore \\Delta T \\over \\Delta \\theta = T_0\\alpha \\over 2 <br><br>Given that T<sub>0</sub> = 2, <br><br> \\therefore \\Delta T \\over \\Delta \\theta = 2\\alpha \\over 2 = \\alpha <br><br>\\Delta T \\over \\Delta \\theta is the shape of \\Delta T and \\Delta \\theta <br><br>curve = S (given) <br><br> \\therefore S = \\alpha",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "person standing on an open ground hears the sound of a jet aeroplane, coming from north at an angle 60<sup>o</sup> with ground level. But he finds the aeroplane right vertically above his position. If v is the speed of sound, speed of the plane is :",
+      "question": "person standing on an open ground hears the sound of a jet aeroplane, coming from north at an angle 60<sup>o</sup> with ground level. But he finds the aeroplane vertically above his position. If v is the speed of sound, speed of the plane is :",
       "options": {
         "A": "\\sqrt 3 \\over 2v",
         "B": "2v \\over \\sqrt 3",
         "C": "v",
-        "D": "v \\over 2"
+        "D": "V \\over 2"
       },
       "answer": "D",
       "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2084\u2089\u2085/exam_images/nowpqlkptjtdzln\u2084xnnn.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Motion in a Plane Question 60 English Explanation\"> <br>AB = V<sub>P</sub> \u00d7 t <br><br>BC = Vt <br><br>cos\u2086\u2080<sup>o</sup> = AB \\over BC <br><br>1 \\over 2 = V_P \u00d7 t \\over Vt <br><br>V<sub>P</sub> = V \\over 2",
@@ -1222,10 +1162,10 @@
     {
       "question": "An object of mass m is suspended at the end of a massless wire of length L and area of crosssection A. Young modulus of the material of the wire is Y. If the mass is pulled down slightly its frequency of oscillation along the vertical direction is :",
       "options": {
-        "A": "f = 1 \\over 2\\pi \\sqrt YA \\over mL",
-        "B": "f = 1 \\over 2\\pi \\sqrt mL \\over YA",
-        "C": "f = 1 \\over 2\\pi \\sqrt YL \\over mA",
-        "D": "f = 1 \\over 2\\pi \\sqrt mA \\over YL"
+        "A": "F = 1 \\over 2\\pi \\sqrt YA \\over mL",
+        "B": "F = 1 \\over 2\\pi \\sqrt mL \\over YA",
+        "C": "F = 1 \\over 2\\pi \\sqrt YL \\over mA",
+        "D": "F = 1 \\over 2\\pi \\sqrt mA \\over YL"
       },
       "answer": "A",
       "solution": "An elastic wire can be treated as a spring with <br><br>k = YA \\over l <br><br>T = 2\\pi \\sqrt m \\over k <br><br> \\Rightarrow f = 1 \\over 2\\pi \\sqrt k \\over m = 1 \\over 2\\pi \\sqrt YA \\over ml",
@@ -1258,7 +1198,7 @@
         "D": "2T\\sqrt 1 \\over 14"
       },
       "answer": "C",
-      "solution": "For a simple pendulum T = 2\\pi \\sqrt L \\over g_err <br><br> Situation 1: when pendulum is in air \\to g<sub>eff</sub> = g<br> Situation 2:when pendulum is in liquid<br> \\to g<sub>eff</sub> = \\left( 1 - \\rho _liquid \\over \\rho _body \\right) = g\\left( 1 - 1 \\over 16 \\right) = 15g \\over 16<br><br> So, T^' \\over T = 2\\pi \\sqrt L \\over 15g/16 \\over 2\\pi \\sqrt L \\over g <br><br> \\Rightarrow T^' = 4T \\over \\sqrt 15",
+      "solution": "For a simple pendulum T = 2\\pi \\sqrt L \\over g_err <br><br> Situation 1: when pendulum is in air \\to g<sub>eff</sub> = g<br> Situation 2:when pendulum is in liquid<br> \\to g<sub>eff</sub> = ( 1 - \\rho _liquid \\over \\rho _body \\) = g( 1 - 1 \\over 16 \\) = 15g \\over 16<br><br> So, T^' \\over T = 2\\pi \\sqrt L \\over 15g/16 \\over 2\\pi \\sqrt L \\over g <br><br> \\Rightarrow T^' = 4T \\over \\sqrt 15",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1297,13 +1237,13 @@
     {
       "question": "particle executes simple harmonic motion and is located at x = a, b and c at times t<sub>0</sub>, 2t<sub>0</sub> and 3t<sub>0</sub> respectively. The freqquency of the oscillation is :",
       "options": {
-        "A": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1\\left( a + c \\over 2b \\right)",
-        "B": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1\\left( a + b \\over 2c \\right)",
-        "C": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1\\left( 2a + 3c \\over b \\right)",
-        "D": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1\\left( a + 2b \\over 3c \\right)"
+        "A": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1( a + c \\over 2b \\)",
+        "B": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1( a + b \\over 2c \\)",
+        "C": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1( 2a + 3c \\over b \\)",
+        "D": "1 \\over 2\\,\\pi \\,t_0\\cos ^ - 1( a + 2b \\over 3c \\)"
       },
       "answer": "A",
-      "solution": "In general equation of simple harmonic motion, y = A sin \\omega t <br><br>\\therefore\\,\\,\\, a = A sin \\omega t<sub>0</sub> <br><br>\\,\\,\\,\\,\\,\\, b = A sin 2\\omega t<sub>0</sub> <br><br>\\,\\,\\,\\,\\,\\,\\,c = A sin 3\\omega t<sub>0</sub> <br><br>a + c = A[sin \\omega t<sub>0</sub> + sin 3\\omega t<sub>0</sub>] <br><br>= 2A sin 2\\omega t<sub>0</sub> cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\,a + c = 2 b cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\, a + c \\over b = 2 cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\, \\omega = 1 \\over t_0 cos<sup>-1</sup> \\left( a + c \\over 2b \\right) <br><br>\\therefore\\,\\,\\, f = \\omega \\over 2\\pi <br><br>= 1 \\over 2\\pi t_0 cos<sup>-1</sup> \\left( a + c \\over 2b \\right)",
+      "solution": "In general equation of simple harmonic motion, y = A sin \\omega t <br><br>\\therefore\\,\\,\\, a = A sin \\omega t<sub>0</sub> <br><br>\\,\\,\\,\\,\\,\\, b = A sin 2\\omega t<sub>0</sub> <br><br>\\,\\,\\,\\,\\,\\,\\,c = A sin 3\\omega t<sub>0</sub> <br><br>a + c = A[sin \\omega t<sub>0</sub> + sin 3\\omega t<sub>0</sub>] <br><br>= 2A sin 2\\omega t<sub>0</sub> cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\,a + c = 2 b cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\, a + c \\over b = 2 cos\\omega t<sub>0</sub> <br><br> \\Rightarrow \\,\\,\\, \\omega = 1 \\over t_0 cos<sup>-1</sup> ( a + c \\over 2b \\) <br><br>\\therefore\\,\\,\\, f = \\omega \\over 2\\pi <br><br>= 1 \\over 2\\pi t_0 cos<sup>-1</sup> ( a + c \\over 2b \\)",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -1348,7 +1288,7 @@
         "D": "2\\sqrt 3 s"
       },
       "answer": "D",
-      "solution": "\\because g = GM \\over R^2 <br><br>g_p \\over g_e = M_e \\over M_e\\left( \\mathop\\rm R\\nolimits _e \\over R_p \\right)^2 = 3\\left( 1 \\over 3 \\right)^2 = 1 \\over 3 <br><br>Also T \\propto 1 \\over \\sqrt g <br><br> \\Rightarrow T_p \\over T_e = \\sqrt g_e \\over g_p = \\sqrt 3 <br><br> \\Rightarrow T<sub>p</sub> = 2\\sqrt 3 s",
+      "solution": "\\because g = GM \\over R^2 <br><br>g_p \\over g_e = M_e \\over M_e( \\mathop\\rm R\\nolimits _e \\over R_p \\)^2 = 3( 1 \\over 3 \\)^2 = 1 \\over 3 <br><br>Also T \\propto 1 \\over \\sqrt g <br><br> \\Rightarrow T_p \\over T_e = \\sqrt g_e \\over g_p = \\sqrt 3 <br><br> \\Rightarrow T<sub>p</sub> = 2\\sqrt 3 s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1385,7 +1325,7 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : A second's pendulum has a time period of 1 second.<br/><br/>Statement II : It takes precisely one second to move between the two extreme positions.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements :<br/><br/>Statement I : A second's pendulum has a time period of 1 second.<br/><br/>Statement II : It takes precisely one second to move between the two extreme positions.<br/><br/>\nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are false",
         "B": "Statement I is false but Statement II is true",
@@ -1438,7 +1378,7 @@
         "D": "2 \\pi \\sqrtL /(g \\tan \\alpha)"
       },
       "answer": "A",
-      "solution": "\\left| g_eff \\right| = \\left| \\overline g - \\overline a \\right| \\Rightarrow g_eff = g\\cos \\theta \\Rightarrow T = 2\\pi \\sqrt l \\over g_eff = 2\\pi = \\sqrt L \\over g\\cos \\theta",
+      "solution": "\\left| g_eff \\| = \\left| \\overline g - \\overline a \\| \\Rightarrow g_eff = g\\cos \\theta \\Rightarrow T = 2\\pi \\sqrt l \\over g_eff = 2\\pi = \\sqrt L \\over g\\cos \\theta",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1447,13 +1387,13 @@
     {
       "question": "The de-Broglie wavelength associated with a particle of mass m and energy E is h / \\sqrt\u2082 m E. The dimensional formula for Planck's constant is :",
       "options": {
-        "A": "\\left[M^2 L^2 T^-2\\right]",
-        "B": "\\left[ML^-1 T^-2\\right]",
-        "C": "\\left[ML^2 T^-1\\right]",
-        "D": "\\left[MLT^-2\\right]"
+        "A": "\\left[M^2 L^2 T^-2\\]",
+        "B": "\\left[ML^-1 T^-2\\]",
+        "C": "\\left[ML^2 T^-1\\]",
+        "D": "\\left[MLT^-2\\]"
       },
       "answer": "C",
-      "solution": "To determine the dimensional formula for Planck's constant, we will start by analyzing the given de-Broglie wavelength equation: \\lambda = \\frach\\sqrt\u2082 m E Here, \\lambda is the wavelength, h is the Planck's constant, m is the mass of the particle, and E is the energy of the particle. First, let's derive the dimensional formula for each term involved: 1. Wavelength \\lambda has the dimensional formula of length [L]. 2. Mass m has the dimensional formula [\\textM]. 3. Energy E has the dimensional formula of work, which is force times distance: [E] = [F][L] = [\\textMLT^-2][L] = [\\textML^2\\textT^-2]. Now, let's rewrite the equation in terms of the dimensions: [L] = \\frac[h]\\sqrt\u2082 [\\textM] [\\textML^2\\textT^-2] Simplifying inside the square root: [L] = \\frac[h]\\sqrt\u2082 [\\textM] [\\textM] [\\textL^2\\textT^-2] [L] = \\frac[h]\\sqrt\u2082 [\\textM^2] [\\textL^2\\textT^-2] Since the constants like 2 do not affect the dimensional formula, we can simplify further: [L] = \\frac[h][\\textM LT^-1] Cross multiplying to solve for the dimensional formula of h: [h] = [L] [\\textM LT^-1] [h] = [\\textM L^2 \\textT^-1] Therefore, the dimensional formula for Planck's constant h is: \\left[\\textML^2\\textT^-1\\right] Hence, the correct option is: Option C \\left[ML^2 T^-1\\right]",
+      "solution": "To determine the dimensional formula for Planck's constant, we will start by analyzing the given de-Broglie wavelength equation: \\lambda = \\frach\\sqrt\u2082 m E Here, \\lambda is the wavelength, h is the Planck's constant, m is the mass of the particle, and E is the energy of the particle. First, let's derive the dimensional formula for each term involved: 1. Wavelength \\lambda has the dimensional formula of length [L]. 2. Mass m has the dimensional formula [M]. 3. Energy E has the dimensional formula of work, which is force times distance: [E] = [F][L] = [MLT^-2][L] = [ML^2T^-2]. Now, let's rewrite the equation in terms of the dimensions: [L] = \\frac[h]\\sqrt\u2082 [M] [ML^2T^-2] Simplifying inside the square root: [L] = \\frac[h]\\sqrt\u2082 [M] [M] [L^2T^-2] [L] = \\frac[h]\\sqrt\u2082 [M^2] [L^2T^-2] Since the constants like 2 do not affect the dimensional formula, we can simplify further: [L] = \\frac[h][M LT^-1] Cross multiplying to solve for the dimensional formula of h: [h] = [L] [M LT^-1] [h] = [M L^2 T^-1] Therefore, the dimensional formula for Planck's constant h is: \\left[ML^2T^-1\\] Hence, the correct option is: Option C \\left[ML^2 T^-1\\]",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1498,7 +1438,7 @@
         "D": "4.623 s"
       },
       "answer": "B",
-      "solution": "To find the arithmetic mean of the time periods recorded, we need to sum up the values and then divide by the number of readings. Let's calculate the sum first: 4.62 s + 4.632 s + 4.6 s + 4.64 s Adding these values together: 4.62 + 4.632 + 4.6 + 4.64 = 18.492 s Now, we divide this sum by the number of readings, which is 4: \\frac\u2081\u2088.492 s\u2084 = 4.623 s So, the arithmetic mean of these readings is 4.623 s. However, we need to consider the significant figures. The least number of significant figures among the readings is 2 (from 4.6 s). Hence, the mean should also be represented with 2 significant figures. In this case, the correct answer with proper significant figures is: Option B 4.6 s",
+      "solution": "To find the arithmetic mean of the time periods recorded, we need to sum up the values and then divide by the number of readings. Let's calculate the sum first: 4.62 s + 4.632 s + 4.6 s + 4.64 s Adding these values together: 4.62 + 4.632 + 4.6 + 4.64 = 18.492 s Now, we divide this sum by the number of readings, which is 4: \\frac\u2081\u2088.492 s\u2084 = 4.623 s So, the arithmetic mean of these readings is 4.623 s. However, we need to consider the significant figures. The least number of significant figures among the readings is 2 (from 4.6 s). Hence, the mean should also be represented with 2 significant figures. In this case, the correct answer with proper significant figures is: Option B\u2084.6 s",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1618,7 +1558,7 @@
         "D": "11\u00b0C"
       },
       "answer": "C",
-      "solution": "Speed of wave from wave equation<br><br> v = - \\left( coeffecient\\rm of\\rm t \\right) \\over \\left( coeffecient\\rm of\\rm x \\right)\\rm <br><br> v = - 1000 \\over ( - 3) = 1000 \\over 3<br><br> Since speed of wave \\propto \\sqrt T <br><br> So = 1000 \\over 3 \\over 336 = \\sqrt 273 \\over T <br><br> \\Rightarrow T = 277.41 K<br><br/> T = 4.41\u00b0C",
+      "solution": "Speed of wave from wave equation<br><br> v = - ( coeffecient\\rm of\\rm t \\) \\over ( coeffecient\\rm of\\rm x \\)\\rm <br><br> v = - 1000 \\over ( - 3) = 1000 \\over 3<br><br> Since speed of wave \\propto \\sqrt T <br><br> So = 1000 \\over 3 \\over 336 = \\sqrt 273 \\over T <br><br> \\Rightarrow T = 277.41 K<br><br/> T = 4.41\u00b0C",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1633,7 +1573,7 @@
         "D": "30 cm"
       },
       "answer": "C",
-      "solution": "Sound level = 10\\log _10\\left( I \\over I_0 \\right) <br><br> \\Rightarrow 120 = 10\\log _10\\left( I \\over 10^ - 12 \\right) <br><br> \\Rightarrow 12 = \\log _10\\left( I \\over 10^ - 12 \\right) <br><br> \\Rightarrow 10<sup>12</sup> = I \\over 10^ - 12 <br><br> \\Rightarrow I = 1 W/m<sup>2</sup> <br><br>Also we know, <br><br>I = P \\over 4\\pi r^2 <br><br> \\Rightarrow 1 = 2 \\over 4\\pi r^2 <br><br> \\Rightarrow r = 40 cm",
+      "solution": "Sound level = 10\\log _10( I \\over I_0 \\) <br><br> \\Rightarrow 120 = 10\\log _10( I \\over 10^ - 12 \\) <br><br> \\Rightarrow 12 = \\log _10( I \\over 10^ - 12 \\) <br><br> \\Rightarrow 10<sup>12</sup> = I \\over 10^ - 12 <br><br> \\Rightarrow I = 1 W/m<sup>2</sup> <br><br>Also we know, <br><br>I = P \\over 4\\pi r^2 <br><br> \\Rightarrow 1 = 2 \\over 4\\pi r^2 <br><br> \\Rightarrow r = 40 cm",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1642,10 +1582,10 @@
     {
       "question": "Two identical strings X and Z made of same material have tension T<sub>X</sub> and T<sub>Z</sub> in them. If their fundamental frequencies are 450 Hz and 300 Hz, respectively, then the ratio T<sub>X</sub>/T<sub>Z</sub> is",
       "options": {
-        "A": "2.25",
-        "B": "0.44",
-        "C": "1.25",
-        "D": "1.5"
+        "A": "2.25%",
+        "B": "0.44%",
+        "C": "1.25%",
+        "D": "1.5%"
       },
       "answer": "A",
       "solution": "f = 1 \\over 2l\\sqrt T \\over \\mu <br><br>For identical string l and \\mu will be same <br><br>f \\propto \\sqrt T <br><br> \\therefore 450 \\over 300 = \\sqrt T_x \\over T_y <br><br> \\Rightarrow T_x \\over T_y = 9 \\over 4 = 2.25",
@@ -1693,29 +1633,14 @@
         "D": "1 \\over 2,1 \\over 4,1 \\over 6,"
       },
       "answer": "B",
-      "solution": "1.5 = \\left( 2n_1 + 1 \\right)\\lambda \\over 2 ......(1) <br><br>5 = n<sub>2</sub>\\lambda .....(2) <br><br>(1) \\div (2) <br><br>1.5 \\over 5 = \\left( 2n_1 + 1 \\right) \\over 2n_2 <br><br> \\Rightarrow 3n<sub>2</sub> = 10n<sub>1</sub> + 5 <br><br>n<sub>1</sub> = 1 ; n<sub>2</sub> = 5 \\Rightarrow \\lambda = 1 <br><br>n<sub>1</sub> = 4 ; n<sub>2</sub> = 15 \\Rightarrow \\lambda = 1/3 <br><br>n<sub>1</sub> = 7 ; n<sub>2</sub> = 25 \\Rightarrow \\lambda = 1/5",
+      "solution": "1.5 = ( 2n_1 + 1 \\)\\lambda \\over 2 ......(1) <br><br>5 = n<sub>2</sub>\\lambda .....(2) <br><br>(1) \\div (2) <br><br>1.5 \\over 5 = ( 2n_1 + 1 \\) \\over 2n_2 <br><br> \\Rightarrow 3n<sub>2</sub> = 10n<sub>1</sub> + 5 <br><br>n<sub>1</sub> = 1 ; n<sub>2</sub> = 5 \\Rightarrow \\lambda = 1 <br><br>n<sub>1</sub> = 4 ; n<sub>2</sub> = 15 \\Rightarrow \\lambda = 1/3 <br><br>n<sub>1</sub> = 7 ; n<sub>2</sub> = 25 \\Rightarrow \\lambda = 1/5",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "Which of the following equations represents a travelling wave?",
-      "options": {
-        "A": "y = Ae<sup>x</sup>cos(\\omegat - \\theta)",
-        "B": "y = Ae<sup>-x<sup>2</sup></sup>(vt + \\theta)",
-        "C": "y = A sin (15x - 2t)",
-        "D": "y = A sinx cos\\omegat"
-      },
-      "answer": "C",
-      "solution": "Y = F(x, t)<br><br>For travelling wave y should be linear function of x and t and they must exist as (x \\pm vt)<br><br>Y = A sin (15x - 2t) \\to linear function in x and t.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
-      "question": "A longitudinal wave is represented by x = 10\\sin 2\\pi \\left( nt - x \\over \\lambda \\right) cm. The maximum particle velocity will be four times the wave velocity if the determined value of wavelength is equal to :",
+      "question": "A longitudinal wave is represented by x = 10\\sin 2\\pi ( nt - x \\over \\lambda \\) cm. The maximum particle velocity will be four times the wave velocity if the determined value of wavelength is equal to :",
       "options": {
         "A": "2\\pi",
         "B": "5\\pi",
@@ -1730,27 +1655,12 @@
       "chapter": "Oscillations and Waves"
     },
     {
-      "question": "Which of the following equations correctly represents a travelling wave having wavelength \\lambda = 4.0 cm, frequency v = 100 Hz and travelling in positive x-axis direction?",
-      "options": {
-        "A": "y = A\\sin [(0.50\\,\\pi \\,cm^ - 1)x - (100\\,\\pi \\,s^ - 1)t]",
-        "B": "y = A\\sin \\,\\,2\\pi [(0.25\\,\\,cm^ - 1)x - (50\\,s^ - 1)t]",
-        "C": "y = A\\sin \\left[ \\left( 2\\pi \\over 4\\,cm^ - 1 \\right)x - \\left( 2\\pi \\over 100\\,s^ - 1 \\right)t \\right]",
-        "D": "y = A\\sin \\,\\pi [(0.5\\,\\,cm^ - 1)x - (200\\,\\,s^ - 1)t]"
-      },
-      "answer": "D",
-      "solution": "We know, equation of wave travelling in positive x-direction is - y = A\\sin (kx - wt) where k = 2\\pi \\over \\lambda and w = 2\\pi f Here given \\lambda = 4 cm and frequency (f) = 100 Hz \\therefore k = 2\\pi \\over 4 = 0.5\\pi cm<sup>-1</sup> and w = 2\\pi \u00d7 100 = 200\\pi s<sup>-1</sup> \\therefore Equation of travelling wave, y = A\\sin (0.5\\pi x - 200\\pi t)",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Oscillations and Waves"
-    },
-    {
       "question": "A transverse wave is represented by y=2 \\sin (\\omega t-k x)\\, cm. The value of wavelength (in cm) for which the wave velocity becomes equal to the maximum particle velocity, will be :",
       "options": {
         "A": "4\\pi",
         "B": "2\\pi",
         "C": "\\pi",
-        "D": "2"
+        "D": "2%"
       },
       "answer": "A",
       "solution": "\\omega \\over k = A\\omega \\Rightarrow k = 1 \\over A = 1 \\over 2\\,cm \\Rightarrow 2\\pi \\over \\lambda = 1 \\over 2\\,cm \\Rightarrow \\lambda = 4\\pi \\,cm",
@@ -1783,7 +1693,7 @@
         "D": "0.5 ms^-1"
       },
       "answer": "D",
-      "solution": "\\because y(x, t)=[0.05 \\sin (8 x-4 t)] m <br/><br/> \\beginaligned \\text Speed of wave & =\\left|\\frac\\text Coefficient of t\\text Coefficient of x\\right| \\\\\\\\ & =\\frac\u2084\u2088=0.5 ms^-1 \\endaligned",
+      "solution": "\\because y(x, t)=[0.05 \\sin (8 x-4 t)] m <br/><br/> \\beginaligned Speed of wave & =\\left|\\frac Coefficient of t Coefficient of x\\| \\\\\\\\ & =\\frac\u2084\u2088=0.5 ms^-1 \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1792,13 +1702,13 @@
     {
       "question": "For a periodic motion represented by the equation y=\\sin \\omega t+\\cos \\omega t the amplitude of the motion is",
       "options": {
-        "A": "1",
+        "A": "1%",
         "B": "\\sqrt\u2082",
-        "C": "0.5",
-        "D": "2"
+        "C": "0.5%",
+        "D": "2%"
       },
       "answer": "B",
-      "solution": "We can write the given equation as: y = \\sqrt(\\sin\\omega t)^2 + (\\cos\\omega t)^2 \\cos\\left(\\omega t - \\arctan\\frac\\sin\\omega t\\cos\\omega t\\right) Using the identity \\sin^2\\theta + \\cos^2\\theta = 1, we get: y = \\sqrt\u2081 + \\sin 2\\omega t \\cos\\left(\\omega t - \\frac\\pi\u2084\\right) The amplitude of the motion is the maximum value of |y|, which occurs when \\sin 2\\omega t = 1, i.e., at t = \\frac\\pi\u2084\\omega + \\fracn\\pi\\omega, where n is an integer. Substituting this value of t in the above equation, we get: |y_\\textmax| = \\sqrt\u2081 + \\sin \\frac\\pi\u2082 = \\sqrt\u2082 Therefore, the amplitude of the motion is \\sqrt\u2082",
+      "solution": "We can write the given equation as: y = \\sqrt(\\sin\\omega t)^2 + (\\cos\\omega t)^2 \\cos(\\omega t - \\arctan\\frac\\sin\\omega t\\cos\\omega t\\) Using the identity \\sin^2\\theta + \\cos^2\\theta = 1, we get: y = \\sqrt\u2081 + \\sin 2\\omega t \\cos(\\omega t - \\frac\\pi\u2084\\) The amplitude of the motion is the maximum value of |y|, which occurs when \\sin 2\\omega t = 1, i.e., at t = \\frac\\pi\u2084\\omega + \\fracn\\pi\\omega, where n is an integer. Substituting this value of t in the above equation, we get: |y_max| = \\sqrt\u2081 + \\sin \\frac\\pi\u2082 = \\sqrt\u2082 Therefore, the amplitude of the motion is \\sqrt\u2082",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1828,7 +1738,7 @@
         "D": "165 Hz"
       },
       "answer": "C",
-      "solution": "To find the frequency of the plane progressive wave given by the equation y = 2 \\cos 2 \\pi(330 t - x) m, we start by analyzing the general form of a wave equation. The general form of a wave equation is: y = A \\cos (2 \\pi ft - kx + \\phi) where: <ul> <li>A is the amplitude of the wave.</li> <li>f is the frequency of the wave.</li> <li>t is the time variable.</li> <li>k is the wave number, defined as \\frac\u2082 \\pi\\lambda where \\lambda is the wavelength.</li> <li>x is the spatial variable.</li> <li>\\phi is the phase constant.</li> </ul> By comparing the given wave equation with the general form, we have: y = 2 \\cos 2 \\pi (330 t - x) We observe that the term 2 \\pi(330t - x) corresponds to 2 \\pi ft - kx in the general form. From this, it is clear that: <ul> <li>2 \\pi ft \\rightarrow 2 \\pi \u00b7 330 t</li> <li>Therefore, f = 330 Hz</li> </ul> So, the frequency of the wave is 330 Hz. Thus, the correct answer is: <strong>Option C: 330 Hz</strong>",
+      "solution": "To find the frequency of the plane progressive wave given by the equation y = 2 \\cos 2 \\pi(330 t - x) m, we start by analyzing the general form of a wave equation. The general form of a wave equation is: y = A \\cos (2 \\pi ft - kx + \\phi) where: <ul> <li>A is the amplitude of the wave.</li> <li>f is the frequency of the wave.</li> <li>t is the time variable.</li> <li>k is the wave number, defined as \\frac\u2082 \\pi\\lambda where \\lambda is the wavelength.</li> <li>x is the spatial variable.</li> <li>\\phi is the phase constant.</li> </ul> By comparing the given wave equation with the general form, we have: y = 2 \\cos 2 \\pi (330 t - x) We observe that the term 2 \\pi(330t - x) corresponds to 2 \\pi ft - kx in the general form. From this, it is clear that: <ul> <li>2 \\pi ft \\arrow 2 \\pi \u00b7 330 t</li> <li>Therefore, f = 330 Hz</li> </ul> So, the frequency of the wave is 330 Hz. Thus, the correct answer is: <strong>Option C: 330 Hz</strong>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1843,7 +1753,7 @@
         "D": "170 Hz"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2088\u2080/exam_images/b\u2080i\u2089i\u2082scgvchdl\u2083mnqwi.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 10th April Morning Slot Physics - Waves Question 98 English Explanation\"> <br><br>Let the frequency of the horn = f <br><br>Apparent frequency heared by the observer directly, <br><br>f_dir = \\left( V \\over V - V_s \\right)f = \\left( 340 \\over 340 - 5 \\right)f = 340 \\over 335f <br><br>Apparent frequency heared by the observer on reflection from the wall, <br><br>f_ind = \\left( V \\over V + V_s \\right)f = \\left( 340 \\over 340 + 5 \\right)f = 340 \\over 345f <br><br>Also, given that, <br><br>f<sub>ind</sub> - f<sub>dir</sub> = 5 <br><br> \\Rightarrow 340f \\over 345 - 340f \\over 335 = 5 <br><br> \\Rightarrow f = 5 \\over 340 \u00d7 335 \u00d7 345 \\over 10 <br><br>= 169.9 \\simeq 170 Hz",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2088\u2080/exam_images/b\u2080i\u2089i\u2082scgvchdl\u2083mnqwi.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 10th April Morning Slot Physics - Waves Question 98 English Explanation\"> <br><br>Let the frequency of the horn = f <br><br>Apparent frequency heared by the observer directly, <br><br>f_dir = ( V \\over V - V_s \\)f = ( 340 \\over 340 - 5 \\)f = 340 \\over 335f <br><br>Apparent frequency heared by the observer on reflection from the wall, <br><br>f_ind = ( V \\over V + V_s \\)f = ( 340 \\over 340 + 5 \\)f = 340 \\over 345f <br><br>Also, given that, <br><br>f<sub>ind</sub> - f<sub>dir</sub> = 5 <br><br> \\Rightarrow 340f \\over 345 - 340f \\over 335 = 5 <br><br> \\Rightarrow f = 5 \\over 340 \u00d7 335 \u00d7 345 \\over 10 <br><br>= 169.9 \\simeq 170 Hz",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -1888,7 +1798,7 @@
         "D": "333 Hz"
       },
       "answer": "A",
-      "solution": "Frequency of sound wave produce by flute <br><br>= 2V_S \\over 2\\ell <br><br>= 2 \u00d7 330 \\over 2 \u00d7 50 \u00d7 10^ - 2 <br><br>= 660 Hz <br><br>Speed of the observer <br><br>= 10km/hr <br><br>= 10 \u00d7 5 \\over 18 m/s <br><br>= 25 \\over 9 m/s <br><br>Frequency heard by the observer, <br><br>f' = \\left( V_S + V_o \\over V_S \\right)f <br><br>= \\left( 330 + 25 \\over 9 \\over 330 \\right) \u00d7 660 <br><br>= 666 Hz",
+      "solution": "Frequency of sound wave produce by flute <br><br>= 2V_S \\over 2\\ell <br><br>= 2 \u00d7 330 \\over 2 \u00d7 50 \u00d7 10^ - 2 <br><br>= 660 Hz <br><br>Speed of the observer <br><br>= 10km/hr <br><br>= 10 \u00d7 5 \\over 18 m/s <br><br>= 25 \\over 9 m/s <br><br>Frequency heard by the observer, <br><br>f' = ( V_S + V_o \\over V_S \\)f <br><br>= ( 330 + 25 \\over 9 \\over 330 \\) \u00d7 660 <br><br>= 666 Hz",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1903,7 +1813,7 @@
         "D": "18/17"
       },
       "answer": "A",
-      "solution": "f<sub>app</sub> = f<sub>0</sub> \\left[ v_2 \\pm v_0 \\over v_2 \\pm v_s \\right] <br><br>f<sub>1</sub> = f<sub>0</sub> \\left[ 340 \\over 340 - 34 \\right] <br><br>f<sub>2</sub> = f<sub>0</sub> \\left[ 340 \\over 340 - 17 \\right] <br><br>f_1 \\over f_2 = 340 - 17 \\over 340 - 34 = 323 \\over 306 \\Rightarrow f_1 \\over f_2 = 19 \\over 18",
+      "solution": "f<sub>app</sub> = f<sub>0</sub> \\left[ v_2 \\pm v_0 \\over v_2 \\pm v_s \\] <br><br>f<sub>1</sub> = f<sub>0</sub> \\left[ 340 \\over 340 - 34 \\] <br><br>f<sub>2</sub> = f<sub>0</sub> \\left[ 340 \\over 340 - 17 \\] <br><br>f_1 \\over f_2 = 340 - 17 \\over 340 - 34 = 323 \\over 306 \\Rightarrow f_1 \\over f_2 = 19 \\over 18",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1918,7 +1828,7 @@
         "D": "8, 18"
       },
       "answer": "A",
-      "solution": "v = v + v_o \\over vv_o<br><br> \\Rightarrow v_o = \\left( v \\over v_o - 1 \\right)v<br><br> v_o = \\left( 530 \\over 500 - 1 \\right)\u2083\u2080\u2080 = 18\\,m/s<br><br> v_o = \\left| \\left( 480 \\over 500 - 1 \\right)\u2083\u2080\u2080 \\right| = 12\\,m/s",
+      "solution": "v = v + v_o \\over vv_o<br><br> \\Rightarrow v_o = ( v \\over v_o - 1 \\)v<br><br> v_o = ( 530 \\over 500 - 1 \\)\u2083\u2080\u2080 = 18\\,m/s<br><br> v_o = \\left| ( 480 \\over 500 - 1 \\)\u2083\u2080\u2080 \\| = 12\\,m/s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1948,7 +1858,7 @@
         "D": "504 Hz"
       },
       "answer": "B",
-      "solution": "f<sub>1</sub> (frequency received by A)<br><br> = v_0\\left[ 1500 - 5 \\over 1500 - 7.5 \\right]<br><br> f<sub>2</sub> [frequency received by B]<br><br> = v_01495 \\over 1492.5 \u00d7 1507.5 \\over 1505<br><br> = 502\\,Hz",
+      "solution": "f<sub>1</sub> (frequency received by A)<br><br> = v_0\\left[ 1500 - 5 \\over 1500 - 7.5 \\]<br><br> f<sub>2</sub> [frequency received by B]<br><br> = v_01495 \\over 1492.5 \u00d7 1507.5 \\over 1505<br><br> = 502\\,Hz",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1963,7 +1873,7 @@
         "D": "2.5 m/s"
       },
       "answer": "D",
-      "solution": "As observer goes away from source S<sub>1</sub> so apparent frequency, <br> f_1 = \\left( v - u \\over v \\right)f <br>here v = speed of sound, u = speed of observer <br><br>As observer goes towards source S<sub>2</sub> so apparent frequency, <br>f_2 = \\left( v + u \\over v \\right)f <br><br>Beat frequency = f_2 - f_1 = 10 <br> \\Rightarrow \\left( v + u \\over v \\right)f - \\left( v - u \\over v \\right)f = 10 <br> \\Rightarrow f\\left( v - u - v + u \\over v \\right) = 10 <br> \\Rightarrow f\\left( 2u \\over v \\right) = 10 <br> \\Rightarrow u = 10v \\over 2f = 10 \u00d7 330 \\over 2 \u00d7 660 = 2.5 m/s",
+      "solution": "As observer goes away from source S<sub>1</sub> so apparent frequency, <br> f_1 = ( v - u \\over v \\)f <br>here v = speed of sound, u = speed of observer <br><br>As observer goes towards source S<sub>2</sub> so apparent frequency, <br>f_2 = ( v + u \\over v \\)f <br><br>Beat frequency = f_2 - f_1 = 10 <br> \\Rightarrow ( v + u \\over v \\)f - ( v - u \\over v \\)f = 10 <br> \\Rightarrow f( v - u - v + u \\over v \\) = 10 <br> \\Rightarrow f( 2u \\over v \\) = 10 <br> \\Rightarrow u = 10v \\over 2f = 10 \u00d7 330 \\over 2 \u00d7 660 = 2.5 m/s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1978,7 +1888,7 @@
         "D": "0%"
       },
       "answer": "A",
-      "solution": "f' = f_0\\left[ v - v_0 \\over v - v_s \\right] \\Rightarrow f' = f_0\\left[ v + v \\over 5 \\over v \\right] \\Rightarrow f' = 6f_0 \\over 5 \\Rightarrow % change = 20",
+      "solution": "f' = f_0\\left[ v - v_0 \\over v - v_s \\] \\Rightarrow f' = f_0\\left[ v + v \\over 5 \\over v \\] \\Rightarrow f' = 6f_0 \\over 5 \\Rightarrow % change = 20",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1993,7 +1903,7 @@
         "D": "471 Hz"
       },
       "answer": "C",
-      "solution": "Using the Doppler effect formula: f = f_0\\left(\\fracc + v_0c + v_s\\right) where <ul> <li>f is the observed frequency (frequency heard by the passenger in car Q)</li> <li>f_0 is the source frequency (400 Hz)</li> <li>c is the speed of sound (360 m/s)</li> <li>v_0 is the velocity of the observer (passenger in car Q) relative to the medium (air) in the direction of the source (40 m/s)</li> <li>v_s is the velocity of the source (car P) relative to the medium (air) in the direction of the observer (20 m/s, since it's moving in the same direction as car Q)</li> </ul> Plugging in the values: f = 400\\left(\\frac\u2083\u2086\u2080 + 40360 + 20\\right)<br/><br/> f = 400\\left(\\frac\u2084\u2080\u2080\u2083\u2088\u2080\\right)<br/><br/> f = 421 So, the observed frequency is 421 Hz.",
+      "solution": "Using the Doppler effect formula: f = f_0(\\fracc + v_0c + v_s\\) where <ul> <li>f is the observed frequency (frequency heard by the passenger in car Q)</li> <li>f_0 is the source frequency (400 Hz)</li> <li>c is the speed of sound (360 m/s)</li> <li>v_0 is the velocity of the observer (passenger in car Q) relative to the medium (air) in the direction of the source (40 m/s)</li> <li>v_s is the velocity of the source (car P) relative to the medium (air) in the direction of the observer (20 m/s, since it's moving in the same direction as car Q)</li> </ul> Plugging in the values: f = 400(\\frac\u2083\u2086\u2080 + 40360 + 20\\)<br/><br/> f = 400(\\frac\u2084\u2080\u2080\u2083\u2088\u2080\\)<br/><br/> f = 421 So, the observed frequency is 421 Hz.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -2019,11 +1929,11 @@
       "options": {
         "A": "2f",
         "B": "f",
-        "C": "f \\over 2",
+        "C": "F \\over 2",
         "D": "3f \\over 4"
       },
       "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2088\u2086iub\u2087w/acfb\u2088cc\u2082-3aa\u2080-40d\u2089-b\u2087e\u2082-606784b\u2086ac\u2086e/bc\u2082\u2086b\u2088c\u2080-36dd-11ed-a\u2089f\u2080-f\u2085\u2086\u2081\u2082\u2084f\u2087\u2084cf\u2084/file-1l\u2088\u2086iub\u2087x.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2088\u2086iub\u2087w/acfb\u2088cc\u2082-3aa\u2080-40d\u2089-b\u2087e\u2082-606784b\u2086ac\u2086e/bc\u2082\u2086b\u2088c\u2080-36dd-11ed-a\u2089f\u2080-f\u2085\u2086\u2081\u2082\u2084f\u2087\u2084cf\u2084/file-1l\u2088\u2086iub\u2087x.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Offline) Physics - Waves Question 109 English Explanation\"><br>The fundamental frequency in case (a) is f = v \\over 2\\ell <br><br>The fundamental frequency in case (b) is <br><br>f'v \\over 4\\left( \\ell /2 \\right) = u \\over 2\\ell = f",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2088\u2086iub\u2087w/acfb\u2088cc\u2082-3aa\u2080-40d\u2089-b\u2087e\u2082-606784b\u2086ac\u2086e/bc\u2082\u2086b\u2088c\u2080-36dd-11ed-a\u2089f\u2080-f\u2085\u2086\u2081\u2082\u2084f\u2087\u2084cf\u2084/file-1l\u2088\u2086iub\u2087x.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2088\u2086iub\u2087w/acfb\u2088cc\u2082-3aa\u2080-40d\u2089-b\u2087e\u2082-606784b\u2086ac\u2086e/bc\u2082\u2086b\u2088c\u2080-36dd-11ed-a\u2089f\u2080-f\u2085\u2086\u2081\u2082\u2084f\u2087\u2084cf\u2084/file-1l\u2088\u2086iub\u2087x.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Offline) Physics - Waves Question 109 English Explanation\"><br>The fundamental frequency in case (a) is f = v \\over 2\\ell <br><br>The fundamental frequency in case (b) is <br><br>f'v \\over 4( \\ell /2 \\) = u \\over 2\\ell = f",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -2083,7 +1993,7 @@
         "D": "I<sub>0</sub>"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2085\u2089/exam_images/snh\u2085yrmauvkx\u2081yba\u2085vej.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 9th January Morning Slot Physics - Waves Question 73 English Explanation\"> <br><br>I<sub>0</sub> = CA<sup>2</sup> <br><br>A<sub>R</sub> = A + A\\sqrt 2 = A(1 + \\sqrt 2 ) <br><br>I<sub>R</sub> = CA_R^2 <br><br> \\therefore I<sub>R</sub> = CA<sup>2</sup>\\left( \\sqrt 2 + 1 \\right)^2 = 5.8 I<sub>0</sub>",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2085\u2089/exam_images/snh\u2085yrmauvkx\u2081yba\u2085vej.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 9th January Morning Slot Physics - Waves Question 73 English Explanation\"> <br><br>I<sub>0</sub> = CA<sup>2</sup> <br><br>A<sub>R</sub> = A + A\\sqrt 2 = A(1 + \\sqrt 2 ) <br><br>I<sub>R</sub> = CA_R^2 <br><br> \\therefore I<sub>R</sub> = CA<sup>2</sup>( \\sqrt 2 + 1 \\)^2 = 5.8 I<sub>0</sub>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",

@@ -1,14 +1,14 @@
 {
   "subject": "Physics",
   "chapter": "Units and Measurements",
-  "total_questions": 162,
+  "total_questions": 154,
   "questions": [
     {
       "question": "What is the angular speed and linear speed of an insect trapped in a circular groove of radius 12 cm, which moves steadily and completes 7 revolutions in 100 s?",
       "options": {
-        "A": "ngular speed:",
+        "A": "Ngular speed:",
         "B": "44 rad/s, Linear speed:",
-        "C": "28 cm/s B Angular speed:",
+        "C": "28 cm/s",
         "D": "22 rad/s, Linear speed:"
       },
       "answer": "A",
@@ -22,8 +22,8 @@
       "question": "public park, in the form of a square, has an area of 100 \u00b1 0.2 m 2 . The side of park is",
       "options": {
         "A": "( 10 \u00b1",
-        "B": "01 ) m B ( 10 \u00b1",
-        "C": "1 ) m C (",
+        "B": "01 ) m",
+        "C": "1 ) m",
         "D": "0 \u00b1"
       },
       "answer": "A",
@@ -36,13 +36,13 @@
     {
       "question": "[NEET 2016 | Physics] The density of a material in CGS system is 4 g/cm\u2083. In a system where unit of length is 10 cm and unit of mass is 100 g, the value of density will be:",
       "options": {
-        "A": "0.04",
-        "B": "0.4",
-        "C": "40",
-        "D": "400"
+        "A": "0.04%",
+        "B": "0.4%",
+        "C": "40%",
+        "D": "400%"
       },
       "answer": "A",
-      "solution": "# Solution: Unit Conversion of Density ## Correct Answer: **(C) 40** --- ## Step-by-Step Solution **Understanding the Problem:** We're converting density from CGS to a completely new unit system. **Given Information:** - Density in CGS: \u03c1 = 4 g/cm\u00b3 - New unit of mass: 100 g - New unit of length: 10 cm **Key Insight:** Density = Mass/Volume, so when units change, we need to convert both mass and volume. **Conversion Process:** **For the numerator (mass):** - 4 g = 4/100 = **0.04 new mass units** **For the denominator (volume):** - Original volume: 1 cm\u00b3 - New unit of volume: (10 cm)\u00b3 = 1000 cm\u00b3 - 1 cm\u00b3 = 1/1000 = **0.001 new volume units** **Density in new system:** \\rho_new = \\frac\u2080.04 \\text new mass units\u2080.001 \\text new volume units = \\frac\u2080.040.001 = 40 --- ## General Formula to Remember \\rho_new = \\rho_old \u00d7 \\fracM_oldM_new \u00d7 \\fracV_newV_old = 4 \u00d7 \\frac\u2081\u2081\u2080\u2080 \u00d7 \\frac\u2081\u2080\u2080\u2080\u2081 = 4 \u00d7 0.01 \u00d7 1000 = 40 --- ## Why Other Options Are Wrong - **(A) 0.04**: This is just the mass conversion, forgetting volume change - **(B) 0.4**: Incomplete calculation - **(D) 400**: Wrong direction of volume conversion (multiplied instead of divided) **Key Takeaway:** When converting density, remember that volume changes as the cube of linear dimension change!",
+      "solution": "# Solution: Unit Conversion of Density ## Correct Answer: **(C) 40** --- ## Step-by-Step Solution **Understanding the Problem:** We're converting density from CGS to a completely new unit system. **Given Information:** - Density in CGS: \u03c1 = 4 g/cm\u00b3 - New unit of mass: 100 g - New unit of length: 10 cm **Key Insight:** Density = Mass/Volume, so when units change, we need to convert both mass and volume. **Conversion Process:** **For the numerator (mass):** - 4 g = 4/100 = **0.04 new mass units** **For the denominator (volume):** - Original volume: 1 cm\u00b3 - New unit of volume: (10 cm)\u00b3 = 1000 cm\u00b3 - 1 cm\u00b3 = 1/1000 = **0.001 new volume units** **Density in new system:** \\rho_new = \\frac\u2080.04 new mass units\u2080.001 new volume units = \\frac\u2080.040.001 = 40 --- ## General Formula to Remember \\rho_new = \\rho_old \u00d7 \\fracM_oldM_new \u00d7 \\fracV_newV_old = 4 \u00d7 \\frac\u2081\u2081\u2080\u2080 \u00d7 \\frac\u2081\u2080\u2080\u2080\u2081 = 4 \u00d7 0.01 \u00d7 1000 = 40 --- ## Why Other Options Are Wrong - **(A) 0.04**: This is just the mass conversion, forgetting volume change - **(B) 0.4**: Incomplete calculation - **(D) 400**: Wrong direction of volume conversion (multiplied instead of divided) **Key Takeaway:** When converting density, remember that volume changes as the cube of linear dimension change!",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Physics",
@@ -53,26 +53,11 @@
       "options": {
         "A": "\\frac\u2081(n+",
         "B": "(n-",
-        "C": "m B \\frac\u2081n cm C \\frac\u2081n^2 cm D \\frac\u2081n(n+",
+        "C": "m",
         "D": "cm"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** As it is given that n divisions of vernier scale coincide with (n-1) divisions of main scale i.e. \\beginaligned & n(VSD)=(n-l) \\text MSD \\\\ & \\Rightarrow \\quad \\text IVSD =\\frac(n-l)n MSD \\\\ & \\endaligned The least count is the difference between one main scale division (MSD) and one vernier scale division (VSD). \\beginaligned & \\therefore \\text Least Count (LC)=1 MSD-1 lVSD \\\\ & =1 MSD-\\frac(n-l)n MSD \\\\ & =\\left(1-\\frac(n-l)n\\right) MSD=\\frac\u2081n \\text MSD \\\\ & \\text Here, 1 MSD=\\frac\u2081n cm \\\\ & \\Rightarrow \\quad LC=\\fracln \u00d7 \\fracln cm=\\fracln^2 cm \\\\ & \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "The position of a particle is given by r=3.0t\\hati+2.0t^2\\hatj+5.0\\hatk where t is in seconds and the coefficients have the proper units for r to be in meters. Find v(t) and a(t) of the particle.",
-      "options": {
-        "A": "a\\left( t \\right)=",
-        "B": "0\\hatj , v\\left( t \\right)=",
-        "C": "0\\hati+",
-        "D": "0\\hatj B a\\left( t \\right)="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) a\\left( t \\right)= 4.0\\hatj , v\\left( t \\right)= 3.0\\hati+4.0\\hatj **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** As it is given that n divisions of vernier scale coincide with (n-1) divisions of main scale i.e. \\beginaligned & n(VSD)=(n-l) MSD \\\\ & \\Rightarrow \\quad IVSD =\\frac(n-l)n MSD \\\\ & \\endaligned The least count is the difference between one main scale division (MSD) and one vernier scale division (VSD). \\beginaligned & \\therefore Least Count (LC)=1 MSD-1 lVSD \\\\ & =1 MSD-\\frac(n-l)n MSD \\\\ & =(1-\\frac(n-l)n\\) MSD=\\frac\u2081n MSD \\\\ & Here, 1 MSD=\\frac\u2081n cm \\\\ & \\Rightarrow \\quad LC=\\fracln \u00d7 \\fracln cm=\\fracln^2 cm \\\\ & \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -94,27 +79,12 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "The position of a particle is given by r=3.0t-2.0t^2\\hatj+4.0\\hatk where t is in seconds and the coefficients have the proper units for r to be in meters. Find the v and a of the particle?",
-      "options": {
-        "A": "a\\left( t \\right)=-",
-        "B": "0\\hatj , v\\left( t \\right)=",
-        "C": "0\\hati+",
-        "D": "0\\hatj B a\\left( t \\right)="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) a\\left( t \\right)= -4.0\\hatj , v\\left( t \\right)= 3.0\\hati-4.0\\hatj **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
       "question": "Match List - I with List - II<br/><br/> <thead> <th></th> <th>List - I</th> <th></th> <th>List - II</th> </thead> <tbody> (a) \\omega L > 1 \\over \\omega C (i) Current is in phase with emf (b) \\omega L = 1 \\over \\omega C (ii) Current lags behind the applied emf (c) \\omega L < 1 \\over \\omega C (iii) Maximum current occurs (d) Resonant frequency (iv) Current leads the emf </tbody> <br/><br/>Choose the correct answer from the options given below",
       "options": {
         "A": "(ii), b(i), c(iv), d(iii)",
-        "B": "a(ii), b(i), c(iii), d(iv)",
-        "C": "a(iii), b(i), c(iv), d(ii)",
-        "D": "a(iv), b(iii), c(ii), d(i)"
+        "B": "A(ii), b(i), c(iii), d(iv)",
+        "C": "A(iii), b(i), c(iv), d(ii)",
+        "D": "A(iv), b(iii), c(ii), d(i)"
       },
       "answer": "A",
       "solution": "\\omega L = 1 \\over \\omega C,X_L = X_C<br><br>So current in phase with EMF<br><br>At resonance, current have maximum value.",
@@ -141,28 +111,28 @@
     {
       "question": "An emf of 20 V is applied at time t = 0 to a circuit containing in series 10 mH inductor and 5 \\Omega resistor. The ratio of the currents at time t = \\infty and at t = 40 s is close to : (Take e<sup>2</sup> = 7.389)",
       "options": {
-        "A": "1.06",
-        "B": "0.84",
-        "C": "1.15",
-        "D": "1.46"
+        "A": "1.06%",
+        "B": "0.84%",
+        "C": "1.15%",
+        "D": "1.46%"
       },
       "answer": "A",
-      "solution": "i = i<sub>0</sub>(1 - e^ - Rt \\over L) <br><br>i<sub>\\infty </sub> = i<sub>0</sub>(1 - e^ - \\infty ) = i<sub>0</sub> <br><br> \\therefore i_\\infty \\over i_40s = i_0 \\over i_0\\left( 1 - e^ - 5 \u00d7 40 \\over 10 \u00d7 10^ - 3 \\right) <br><br> = 1 \\over \\left( 1 - e^ - 2000 \\right) \\approx 1 <br><br>Then most appropriate option is 1.06",
+      "solution": "i = i<sub>0</sub>(1 - e^ - Rt \\over L) <br><br>i<sub>\\infty </sub> = i<sub>0</sub>(1 - e^ - \\infty ) = i<sub>0</sub> <br><br> \\therefore i_\\infty \\over i_40s = i_0 \\over i_0( 1 - e^ - 5 \u00d7 40 \\over 10 \u00d7 10^ - 3 \\) <br><br> = 1 \\over ( 1 - e^ - 2000 \\) \\approx 1 <br><br>Then most appropriate option is 1.06",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "rod of length L has non-uniform linear mass <br/>density given by \\rho (x) = a + b\\left( x \\over L \\right)^2 , where a <br/>and b are constants and 0 \\le x \\le L. The value <br/>of x for the centre of mass of the rod is at :",
+      "question": "rod of length L has non-uniform linear mass <br/>density given by \\rho (x) = a + b( x \\over L \\)^2 , where a <br/>and b are constants and 0 \\le x \\le L. The value <br/>of x for the centre of mass of the rod is at :",
       "options": {
-        "A": "3 \\over 2\\left( a + b \\over 2a + b \\right)L",
-        "B": "4 \\over 3\\left( a + b \\over 2a + 3b \\right)L",
-        "C": "3 \\over 4\\left( 2a + b \\over 3a + b \\right)L",
-        "D": "3 \\over 2\\left( 2a + b \\over 3a + b \\right)L"
+        "A": "3 \\over 2( a + b \\over 2a + b \\)L",
+        "B": "4 \\over 3( a + b \\over 2a + 3b \\)L",
+        "C": "3 \\over 4( 2a + b \\over 3a + b \\)L",
+        "D": "3 \\over 2( 2a + b \\over 3a + b \\)L"
       },
       "answer": "C",
-      "solution": "\\rho = a + b\\left( x \\over L \\right)^2 <br><br>dm = \\rho dx = \\left( a + bx^2 \\over L^2 \\right)dx <br><br>M = \\int dm = \\int\\limits_0^L \\left( a + bx^2 \\over L^2 \\right)dx <br><br>X<sub>com</sub> = \\int xdm \\over \\int dm <br><br>= \\int\\limits_0^L \\left( a + bx^2 \\over L^2 \\right)xdx \\over \\int\\limits_0^L \\left( a + bx^2 \\over L^2 \\right)dx <br><br>= aL^2 \\over 2 + b \\over L^2.L^4 \\over 4 \\over aL + b \\over L^2.L^3 \\over 3 <br><br>= \\left( 4a + 2a \\over 8 \\right)L \\over \\left( 3a + b \\over 3 \\right) <br><br>= 3 \\over 4\\left( 2a + b \\over 3a + b \\right)L",
+      "solution": "\\rho = a + b( x \\over L \\)^2 <br><br>dm = \\rho dx = ( a + bx^2 \\over L^2 \\)dx <br><br>M = \\int dm = \\int\\limits_0^L ( a + bx^2 \\over L^2 \\)dx <br><br>X<sub>com</sub> = \\int xdm \\over \\int dm <br><br>= \\int\\limits_0^L ( a + bx^2 \\over L^2 \\)xdx \\over \\int\\limits_0^L ( a + bx^2 \\over L^2 \\)dx <br><br>= aL^2 \\over 2 + b \\over L^2.L^4 \\over 4 \\over aL + b \\over L^2.L^3 \\over 3 <br><br>= ( 4a + 2a \\over 8 \\)L \\over ( 3a + b \\over 3 \\) <br><br>= 3 \\over 4( 2a + b \\over 3a + b \\)L",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -177,7 +147,7 @@
         "D": "4.70 \u00d7 10<sup>2</sup> N m<sup>-2</sup>"
       },
       "answer": "A",
-      "solution": "Considering one hydrogen molecule : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2085\u2083\u2086/exam_images/hyykblaoxaijojoyenag.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Offline) Physics - Center of Mass and Collision Question 100 English Explanation\"> <br><br>As collision is elastic so, e = 1 <br><br>Initial momentum, <br><br>\\overrightarrow P_i = mv \\over \\sqrt 2 \\widehat i - mv \\over \\sqrt 2 \\widehat j <br><br>Final momentum, <br><br>\\overrightarrow P_f = mv \\over \\sqrt 2 \\left( - \\widehat i \\right) - mv \\over \\sqrt 2 \\widehat j <br><br>\\therefore\\,\\,\\, Change in momentum for single H molecule, <br><br>\\Delta P = \\overrightarrow P_f - \\overrightarrow P_i <br><br>= 2mv \\over \\sqrt 2 \\left( - \\widehat i \\right) <br><br>\\therefore\\,\\,\\, \\left| \\Delta P \\right| = 2mv \\over \\sqrt 2 <br><br>Now for n hydrogen molecule total momentum changes per second, <br><br>= \\left( 2mv \\over \\sqrt 2 \\right) \u00d7 n <br><br>As we know, <br><br>Force (F) = \\Delta P \\over \\Delta t <br><br>= 2mv \\over \\sqrt 2 \u00d7 n <br><br>\\therefore\\,\\,\\, As direction of \\Delta P is towards negative i so force on the molecule will also be towards negative i direction. From Newton's third law, the reaction force will be on the wall in positive i direction with same magnitude. <br><br>\\therefore\\,\\,\\, Force on the wall = 2mv \\over \\sqrt 2 \u00d7 n <br><br>\\therefore\\,\\,\\, Pressure on the wall, P = F \\over A <br><br>= 2mv\\,n \\over \\sqrt 2 A <br><br>= 2 \u00d7 3.32 \u00d7 10^ - 27 \u00d7 10^3 \u00d7 10^23 \\over \\sqrt 2 \u00d7\u2082\u00d7 10^ - 4 <br><br>= 2.35 \u00d7 10<sup>3</sup> N m<sup>-2</sup>",
+      "solution": "Considering one hydrogen molecule : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2085\u2083\u2086/exam_images/hyykblaoxaijojoyenag.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Offline) Physics - Center of Mass and Collision Question 100 English Explanation\"> <br><br>As collision is elastic so, e = 1 <br><br>Initial momentum, <br><br>\\overarrow P_i = mv \\over \\sqrt 2 \\widehat i - mv \\over \\sqrt 2 \\widehat j <br><br>Final momentum, <br><br>\\overarrow P_f = mv \\over \\sqrt 2 ( - \\widehat i \\) - mv \\over \\sqrt 2 \\widehat j <br><br>\\therefore\\,\\,\\, Change in momentum for single H molecule, <br><br>\\Delta P = \\overarrow P_f - \\overarrow P_i <br><br>= 2mv \\over \\sqrt 2 ( - \\widehat i \\) <br><br>\\therefore\\,\\,\\, \\left| \\Delta P \\| = 2mv \\over \\sqrt 2 <br><br>Now for n hydrogen molecule total momentum changes per second, <br><br>= ( 2mv \\over \\sqrt 2 \\) \u00d7 n <br><br>As we know, <br><br>Force (F) = \\Delta P \\over \\Delta t <br><br>= 2mv \\over \\sqrt 2 \u00d7 n <br><br>\\therefore\\,\\,\\, As direction of \\Delta P is towards negative i so force on the molecule will also be towards negative i direction. From Newton's third law, the reaction force will be on the wall in positive i direction with same magnitude. <br><br>\\therefore\\,\\,\\, Force on the wall = 2mv \\over \\sqrt 2 \u00d7 n <br><br>\\therefore\\,\\,\\, Pressure on the wall, P = F \\over A <br><br>= 2mv\\,n \\over \\sqrt 2 A <br><br>= 2 \u00d7 3.32 \u00d7 10^ - 27 \u00d7 10^3 \u00d7 10^23 \\over \\sqrt 2 \u00d7\u2082\u00d7 10^ - 4 <br><br>= 2.35 \u00d7 10<sup>3</sup> N m<sup>-2</sup>",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -199,15 +169,15 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "A stationary particle breaks into two parts of masses m_A and m_B which move with velocities v_A and v_B respectively. The ratio of their kinetic energies \\left(K_B: K_A\\right) is :",
+      "question": "A stationary particle breaks into two parts of masses m_A and m_B which move with velocities v_A and v_B respectively. The ratio of their kinetic energies (K_B: K_A\\) is :",
       "options": {
-        "A": "v_B: v_A",
+        "A": "V_B: v_A",
         "B": "1: 1",
-        "C": "m_B v_B: m_A v_A",
-        "D": "m_B: m_A"
+        "C": "M_B v_B: m_A v_A",
+        "D": "M_B: m_A"
       },
       "answer": "A",
-      "solution": "A stationary particle breaks into two parts with masses m_A and m_B, which then move with velocities v_A and v_B, respectively. We need to determine the ratio of their kinetic energies K_A and K_B. Since the initial momentum of the particle is zero, the momentum of the two parts must be equal and opposite to conserve momentum: m_A v_A = m_B v_B Here, the ratio of kinetic energies is given by: \\fracK_AK_B = \\frac\\frac\u2081\u2082 m_A v_A^2\\frac\u2081\u2082 m_B v_B^2 = \\fracm_A v_A^2m_B v_B^2 However, using the momentum relationship, we can substitute m_A v_A = m_B v_B into the kinetic energy ratio, leading us to simplify: \\fracK_AK_B = \\fracv_Av_B Therefore, the ratio of their kinetic energies \\left(K_B: K_A\\right) is: \\fracK_BK_A = \\fracv_Bv_A",
+      "solution": "A stationary particle breaks into two parts with masses m_A and m_B, which then move with velocities v_A and v_B, respectively. We need to determine the ratio of their kinetic energies K_A and K_B. Since the initial momentum of the particle is zero, the momentum of the two parts must be equal and opposite to conserve momentum: m_A v_A = m_B v_B Here, the ratio of kinetic energies is given by: \\fracK_AK_B = \\frac\\frac\u2081\u2082 m_A v_A^2\\frac\u2081\u2082 m_B v_B^2 = \\fracm_A v_A^2m_B v_B^2 However, using the momentum relationship, we can substitute m_A v_A = m_B v_B into the kinetic energy ratio, leading us to simplify: \\fracK_AK_B = \\fracv_Av_B Therefore, the ratio of their kinetic energies (K_B: K_A\\) is: \\fracK_BK_A = \\fracv_Bv_A",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -267,7 +237,7 @@
         "D": "7.2 \u00d7 10<sup>8</sup> s"
       },
       "answer": "B",
-      "solution": "R = l \\over \\theta <br><br>Time = 4 \u00d7 2\\pi R \\over v = 4 \u00d7 2\\pi \\over v\\left( l \\over \\theta \\right)<br><br>put l = 4.4 \u00d7 9.46 \u00d7 10<sup>15</sup><br><br>v = 8 \u00d7 1.5 \u00d7 10<sup>11</sup><br><br>\\theta = 4 \\over 3600 \u00d7 \\pi \\over 180 rad.<br><br>we get time = 4.5 \u00d7 10<sup>10</sup> sec.",
+      "solution": "R = l \\over \\theta <br><br>Time = 4 \u00d7 2\\pi R \\over v = 4 \u00d7 2\\pi \\over v( l \\over \\theta \\)<br><br>put l = 4.4 \u00d7 9.46 \u00d7 10<sup>15</sup><br><br>v = 8 \u00d7 1.5 \u00d7 10<sup>11</sup><br><br>\\theta = 4 \\over 3600 \u00d7 \\pi \\over 180 rad.<br><br>we get time = 4.5 \u00d7 10<sup>10</sup> sec.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -276,13 +246,13 @@
     {
       "question": "particle moving in a circle of radius R with uniform speed takes time T to complete one revolution.<br/><br/> If this particle is projected with the same speed at an angle \\theta to the horizontal, the maximum height attained by it is equal to 4 R. The angle of projection \\theta is then given by :",
       "options": {
-        "A": "\\sin ^-1\\left[\\frac\u2082 gT^2\\pi^2 R\\right]^\\frac\u2081\u2082",
-        "B": "\\sin ^-1\\left[\\frac\\pi^2 R\u2082 gT^2\\right]^\\frac\u2081\u2082",
-        "C": "\\cos ^-1\\left[\\frac\\pi R\u2082 gT^2\\right]^\\frac\u2081\u2082",
-        "D": "\\cos ^-1\\left[\\frac\u2082 gT^2\\pi^2 R\\right]^\\frac\u2081\u2082"
+        "A": "\\sin ^-1\\left[\\frac\u2082 gT^2\\pi^2 R\\]^\\frac\u2081\u2082",
+        "B": "\\sin ^-1\\left[\\frac\\pi^2 R\u2082 gT^2\\]^\\frac\u2081\u2082",
+        "C": "\\cos ^-1\\left[\\frac\\pi R\u2082 gT^2\\]^\\frac\u2081\u2082",
+        "D": "\\cos ^-1\\left[\\frac\u2082 gT^2\\pi^2 R\\]^\\frac\u2081\u2082"
       },
       "answer": "A",
-      "solution": "To solve for the angle of projection \\theta, we will first establish the relationship between the variables given and then derive the formula using kinematics. The time T for one revolution at speed v in a circle of radius R is related to the circumference of the circle by the formula: v = \\frac\u2082\\pi RT When the particle is projected with the same speed v at an angle \\theta to the horizontal, its vertical component of velocity is given by v_y=v\\sin\\theta. The maximum height H reached by the projectile can be found from the kinematic equation: H = \\fracv_y^22g = \\frac(v\\sin\\theta)^22g We are given that the maximum height attained H is equal to 4R, so: 4R = \\frac(v\\sin\\theta)^22g Substitute v from the first equation into the second one: 4R = \\frac((\\frac\u2082\\pi RT)\\sin\\theta)^22g 4R = \\frac(2\\pi R\\sin\\theta)^22gT^2 4R = \\frac\u2084\\pi^2 R^2 \\sin^2\\theta\u2082gT^2 2gT^2 = \\pi^2 R \\sin^2\\theta Now solve for \\sin\\theta: \\sin\\theta =\\left[\\frac\u2082gT^2\\pi^2 R\\right]^1/2 Finally, to solve for \\theta, take the inverse sine of both sides: \\theta = \\sin^-1\\left(\\left[\\frac\u2082gT^2\\pi^2 R\\right]^1/2\\right) Therefore, the correct answer is: Option A \\sin^-1\\left[\\frac\u2082gT^2\\pi^2 R\\right]^1/2",
+      "solution": "To solve for the angle of projection \\theta, we will first establish the relationship between the variables given and then derive the formula using kinematics. The time T for one revolution at speed v in a circle of radius R is related to the circumference of the circle by the formula: v = \\frac\u2082\\pi RT When the particle is projected with the same speed v at an angle \\theta to the horizontal, its vertical component of velocity is given by v_y=v\\sin\\theta. The maximum height H reached by the projectile can be found from the kinematic equation: H = \\fracv_y^22g = \\frac(v\\sin\\theta)^22g We are given that the maximum height attained H is equal to 4R, so: 4R = \\frac(v\\sin\\theta)^22g Substitute v from the first equation into the second one: 4R = \\frac((\\frac\u2082\\pi RT)\\sin\\theta)^22g 4R = \\frac(2\\pi R\\sin\\theta)^22gT^2 4R = \\frac\u2084\\pi^2 R^2 \\sin^2\\theta\u2082gT^2 2gT^2 = \\pi^2 R \\sin^2\\theta Now solve for \\sin\\theta: \\sin\\theta =\\left[\\frac\u2082gT^2\\pi^2 R\\]^1/2 Finally, to solve for \\theta, take the inverse sine of both sides: \\theta = \\sin^-1(\\left[\\frac\u2082gT^2\\pi^2 R\\]^1/2\\) Therefore, the correct answer is: Option A \\sin^-1\\left[\\frac\u2082gT^2\\pi^2 R\\]^1/2",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -306,13 +276,13 @@
     {
       "question": "A clock has 75 cm, 60 cm long second hand and minute hand respectively. In\u2083\u2080 minutes duration the tip of second hand will travel x distance more than the tip of minute hand. The value of x in meter is nearly (Take \\pi=3.14) :",
       "options": {
-        "A": "118.9",
-        "B": "140.5",
-        "C": "139.4",
-        "D": "220.0"
+        "A": "118.9%",
+        "B": "140.5%",
+        "C": "139.4%",
+        "D": "220.0%"
       },
       "answer": "C",
-      "solution": "To determine the distance traveled by the tips of the second hand and the minute hand, we need to calculate the circumference of the circles they make. Let's start by calculating the distances traveled by both hands over a period of 30 minutes. First, the circumference formula is given by: C = 2\\pi r For the second hand: The length of the second hand is 75 \\space \\textcm. The second hand completes one full revolution every 60 seconds, so in 1 minute, the second hand travels: \\textDistance per minute = 2\\pi \u00d7 75 \\text cm In\u2083\u2080 minutes, the second hand will travel: \\textTotal distance traveled by second hand = 30 \u00d7 2\\pi \u00d7 75 \\text cm Now, let's calculate it with \\pi = 3.14: \\textTotal distance traveled by second hand = 30 \u00d7 2 \u00d7 3.14 \u00d7 75 \\text cm \\textTotal distance traveled by second hand = 30 \u00d7 471 \\text cm = 14130 \\text cm For the minute hand: The length of the minute hand is 60 \\text cm. The minute hand completes one full revolution every 60 minutes, so in 30 minutes, the minute hand travels: \\textTotal distance traveled by minute hand = 0.5 \u00d7 2\\pi \u00d7 60 \\text cm Again, let's calculate it with \\pi = 3.14: \\textTotal distance traveled by minute hand = 0.5 \u00d7 2 \u00d7 3.14 \u00d7 60 \\text cm \\textTotal distance traveled by minute hand = 0.5 \u00d7 376.8 \\text cm = 188.4 \\text cm The difference in distance x is: x = 14130 \\text cm - 1884 \\text cm x = 13941.6 \\text cm Convert this distance into meters: x = 13941.6 \\text cm \u00d7 \\frac\u2081 \\text meter\u2081\u2080\u2080 \\text cm x \\approx 139.4 \\text meters Thus, the value of x in meters is nearly 139.4 meters, making the correct option: Option C",
+      "solution": "To determine the distance traveled by the tips of the second hand and the minute hand, we need to calculate the circumference of the circles they make. Let's start by calculating the distances traveled by both hands over a period of 30 minutes. First, the circumference formula is given by: C = 2\\pi r For the second hand: The length of the second hand is 75 \\space cm. The second hand completes one full revolution every 60 seconds, so in 1 minute, the second hand travels: Distance per minute = 2\\pi \u00d7 75 cm In\u2083\u2080 minutes, the second hand will travel: Total distance traveled by second hand = 30 \u00d7 2\\pi \u00d7 75 cm Now, let's calculate it with \\pi = 3.14: Total distance traveled by second hand = 30 \u00d7 2 \u00d7 3.14 \u00d7 75 cm Total distance traveled by second hand = 30 \u00d7 471 cm = 14130 cm For the minute hand: The length of the minute hand is 60 cm. The minute hand completes one full revolution every 60 minutes, so in 30 minutes, the minute hand travels: Total distance traveled by minute hand = 0.5 \u00d7 2\\pi \u00d7 60 cm Again, let's calculate it with \\pi = 3.14: Total distance traveled by minute hand = 0.5 \u00d7 2 \u00d7 3.14 \u00d7 60 cm Total distance traveled by minute hand = 0.5 \u00d7 376.8 cm = 188.4 cm The difference in distance x is: x = 14130 cm - 1884 cm x = 13941.6 cm Convert this distance into meters: x = 13941.6 cm \u00d7 \\frac\u2081 meter\u2081\u2080\u2080 cm x \\approx 139.4 meters Thus, the value of x in meters is nearly 139.4 meters, making the correct option: Option C",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -327,7 +297,7 @@
         "D": "80 km"
       },
       "answer": "B",
-      "solution": "Maximum distance upto which signal can be broadcasted is <br><br>d<sub>max</sub> = \\sqrt 2Rh_T + \\sqrt 2Rh_R <br><br>where h<sub>T</sub> and h<sub>R</sub> are heights of transmitter tower and height of reserver respectively. Putting all values - <br><br>d<sub>max</sub> = \\sqrt 2 \u00d7 6.4 \u00d7 106 \\left[ \\sqrt 104 + \\sqrt 40 \\right] <br><br>on solving, d<sub>max</sub> = 65 km",
+      "solution": "Maximum distance upto which signal can be broadcasted is <br><br>d<sub>max</sub> = \\sqrt 2Rh_T + \\sqrt 2Rh_R <br><br>where h<sub>T</sub> and h<sub>R</sub> are heights of transmitter tower and height of reserver respectively. Putting all values - <br><br>d<sub>max</sub> = \\sqrt 2 \u00d7 6.4 \u00d7 106 \\left[ \\sqrt 104 + \\sqrt 40 \\] <br><br>on solving, d<sub>max</sub> = 65 km",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -336,8 +306,8 @@
     {
       "question": "To double the covering range of a TV transmittion tower, its height should be multiplied by :",
       "options": {
-        "A": "4",
-        "B": "2",
+        "A": "4%",
+        "B": "2%",
         "C": "\\sqrt 2",
         "D": "1 \\over \\sqrt 2"
       },
@@ -366,10 +336,10 @@
     {
       "question": "The physical sizes of the transmitter and receiver antenna in a communication system are :-",
       "options": {
-        "A": "proportional to carrier frequency",
-        "B": "inversely proportional to carrier frequency",
-        "C": "inversely proportional to modulation frequency",
-        "D": "independent of both carrier and modulation frequency"
+        "A": "Proportional to carrier frequency",
+        "B": "Inversely proportional to carrier frequency",
+        "C": "Inversely proportional to modulation frequency",
+        "D": "Independent of both carrier and modulation frequency"
       },
       "answer": "B",
       "solution": "The physical size of antenna of receiver and transmitter both are inversely proportional to carrier frequency.",
@@ -402,7 +372,7 @@
         "D": "57.28 km"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2080\u2088/exam_images/r\u2088\u2083onjxtatbp\u2084zew\u2089\u2088ss.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Communication Systems Question 53 English Explanation\"> <br><br>d_t = \\sqrt 2Rh_1 + \\sqrt 2Rh_2 <br><br> = \\sqrt 2R \\left( \\sqrt h_1 + \\sqrt h_2 \\right)<br><br> = (2 \u00d7 6400 \u00d7 10^3)^1/2(\\sqrt 50 + \\sqrt 80 )<br><br> = 3578(7.07 + 8.94)<br><br> = 57.28 km",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2080\u2088/exam_images/r\u2088\u2083onjxtatbp\u2084zew\u2089\u2088ss.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Communication Systems Question 53 English Explanation\"> <br><br>d_t = \\sqrt 2Rh_1 + \\sqrt 2Rh_2 <br><br> = \\sqrt 2R ( \\sqrt h_1 + \\sqrt h_2 \\)<br><br> = (2 \u00d7 6400 \u00d7 10^3)^1/2(\\sqrt 50 + \\sqrt 80 )<br><br> = 3578(7.07 + 8.94)<br><br> = 57.28 km",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -501,13 +471,13 @@
     {
       "question": "modulated signal C<sub>m</sub>(t) has the form C<sub>m</sub>(t) = 30 sin 300 \\pi t + 10 (cos 200 \\pi t \\u\u2082\u2082\u2081\u2082cos 400 \\pi t). The carrier frequency c, the modulating frequency (message frequency) f<sub>\\omega </sub>, and the modulation index \\mu are respectively given by :",
       "options": {
-        "A": "f<sub>c</sub> = 200 Hz; f<sub>\\omega </sub> = 50 Hz; \\mu = 1 \\over 2",
-        "B": "f<sub>c</sub> = 150 Hz; f<sub>\\omega </sub> = 50 Hz; \\mu = 2 \\over 3",
-        "C": "f<sub>c</sub> = 150 Hz; f<sub>\\omega </sub> = 30 Hz; \\mu = 1 \\over 3",
-        "D": "f<sub>c</sub> = 200 Hz; f<sub>\\omega </sub> = 30 Hz; \\mu = 1 \\over 2"
+        "A": "F<sub>c</sub> = 200 Hz; f<sub>\\omega </sub> = 50 Hz; \\mu = 1 \\over 2",
+        "B": "F<sub>c</sub> = 150 Hz; f<sub>\\omega </sub> = 50 Hz; \\mu = 2 \\over 3",
+        "C": "F<sub>c</sub> = 150 Hz; f<sub>\\omega </sub> = 30 Hz; \\mu = 1 \\over 3",
+        "D": "F<sub>c</sub> = 200 Hz; f<sub>\\omega </sub> = 30 Hz; \\mu = 1 \\over 2"
       },
       "answer": "B",
-      "solution": "Given, <br><br>C<sub>m</sub>(t) = 30 sin 300\\pi t + 10 (cos 200 \\pi t - cos 400 \\pi t) <br><br>Standard equation of amplitude modulated wave, <br><br>C<sub>m</sub>(t) = A<sub>c</sub> sin (\\omega <sub>c</sub>t) - \\mu A_c \\over 2 cos \\left( \\omega _c + \\omega _m \\right) t + \\mu A_c \\over 2 cos \\left( \\omega _c - \\omega _m \\right) t <br><br>By comparing we get, <br><br>A<sub>c</sub> = 30 V <br><br>\\omega <sub>c</sub> = 300 \\pi <br><br> \\Rightarrow 2\\pi f<sub>c</sub> = 300 \\pi <br><br> \\Rightarrow f<sub>c</sub> = 150 Hz <br><br>\\omega <sub>c</sub> - \\omega <sub>s</sub> = 200 \\pi <br><br> \\Rightarrow 2\\pi (f<sub>c</sub> - f<sub>\\omega </sub>) = 200 \\pi <br><br> \\Rightarrow f<sub>c</sub> - f<sub>\\omega </sub> = 100 Hz <br><br> \\therefore f<sub>\\omega </sub> = 150 - 100 = 50 Hz <br><br>and \\mu A_c \\over 2 = 10 <br><br> \\Rightarrow \\mu \u00d7 30 \\over 2 = 10 <br><br> \\Rightarrow \\mu = 10 \\over 15 = 2 \\over 3",
+      "solution": "Given, <br><br>C<sub>m</sub>(t) = 30 sin 300\\pi t + 10 (cos 200 \\pi t - cos 400 \\pi t) <br><br>Standard equation of amplitude modulated wave, <br><br>C<sub>m</sub>(t) = A<sub>c</sub> sin (\\omega <sub>c</sub>t) - \\mu A_c \\over 2 cos ( \\omega _c + \\omega _m \\) t + \\mu A_c \\over 2 cos ( \\omega _c - \\omega _m \\) t <br><br>By comparing we get, <br><br>A<sub>c</sub> = 30 V <br><br>\\omega <sub>c</sub> = 300 \\pi <br><br> \\Rightarrow 2\\pi f<sub>c</sub> = 300 \\pi <br><br> \\Rightarrow f<sub>c</sub> = 150 Hz <br><br>\\omega <sub>c</sub> - \\omega <sub>s</sub> = 200 \\pi <br><br> \\Rightarrow 2\\pi (f<sub>c</sub> - f<sub>\\omega </sub>) = 200 \\pi <br><br> \\Rightarrow f<sub>c</sub> - f<sub>\\omega </sub> = 100 Hz <br><br> \\therefore f<sub>\\omega </sub> = 150 - 100 = 50 Hz <br><br>and \\mu A_c \\over 2 = 10 <br><br> \\Rightarrow \\mu \u00d7 30 \\over 2 = 10 <br><br> \\Rightarrow \\mu = 10 \\over 15 = 2 \\over 3",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -522,17 +492,17 @@
         "D": "178.5 and 171.5"
       },
       "answer": "B",
-      "solution": "V(t) = 10 + 3 \\over 2 [2cos A sinB] <br><br>= 10 + 3 \\over 2 [sin(A+B) - sin(A - B)] <br><br>= 10+3 \\over 2[sin (57.2 \u00d7 10<sup>4</sup> t) - sin(52.8 \u00d7 10<sup>4</sup> t)] <br><br>\\omega <sub>1</sub> = 57.2 \u00d7 10<sup>4</sup> = 2\\pi f<sub>1</sub> <br><br>f<sub>1</sub> = 57.2 \u00d7 10^4 \\over 2 \u00d7 \\left( 22 \\over 7 \\right) = 9.1 \u00d7 10^4 <br><br> \\simeq 91KHz <br><br>f<sub>2</sub> = 52.8 \u00d7 10^4 \\over 2 \u00d7 \\left( 22 \\over 7 \\right) <br><br> \\simeq 84 KHz <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2081\u2089\u2082/exam_images/cui\u2088xqelobmon\u2088hkehmk.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 11th January Morning Slot Physics - Communication Systems Question 84 English Explanation\"> <br><br>Side band frequency are <br><br>f<sub>1</sub> = f<sub>c</sub> - f<sub>w</sub> = 52.8 \u00d7 10^4 \\over 2\\pi \\simeq 85.00 kHz <br><br>f<sub>2</sub> = f<sub>c</sub> + f<sub>w</sub> = 57.2 \u00d7 10^4 \\over 2\\pi \\simeq 90.00 kHz",
+      "solution": "V(t) = 10 + 3 \\over 2 [2cos A sinB] <br><br>= 10 + 3 \\over 2 [sin(A+B) - sin(A - B)] <br><br>= 10+3 \\over 2[sin (57.2 \u00d7 10<sup>4</sup> t) - sin(52.8 \u00d7 10<sup>4</sup> t)] <br><br>\\omega <sub>1</sub> = 57.2 \u00d7 10<sup>4</sup> = 2\\pi f<sub>1</sub> <br><br>f<sub>1</sub> = 57.2 \u00d7 10^4 \\over 2 \u00d7 ( 22 \\over 7 \\) = 9.1 \u00d7 10^4 <br><br> \\simeq 91KHz <br><br>f<sub>2</sub> = 52.8 \u00d7 10^4 \\over 2 \u00d7 ( 22 \\over 7 \\) <br><br> \\simeq 84 KHz <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2081\u2089\u2082/exam_images/cui\u2088xqelobmon\u2088hkehmk.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 11th January Morning Slot Physics - Communication Systems Question 84 English Explanation\"> <br><br>Side band frequency are <br><br>f<sub>1</sub> = f<sub>c</sub> - f<sub>w</sub> = 52.8 \u00d7 10^4 \\over 2\\pi \\simeq 85.00 kHz <br><br>f<sub>2</sub> = f<sub>c</sub> + f<sub>w</sub> = 57.2 \u00d7 10^4 \\over 2\\pi \\simeq 90.00 kHz",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : A speech signal of 2 kHz is used to modulate a carrier signal of 1 MHz. The bandwidth requirement for the signal is 4 kHz.<br/><br/>Statement II : The side band frequencies are 1002 kHz and 998 kHz.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements :<br/><br/>Statement I : A speech signal of 2 kHz is used to modulate a carrier signal of 1 MHz. The bandwidth requirement for the signal is 4 kHz.<br/><br/>Statement II : The side band frequencies are 1002 kHz and 998 kHz.<br/><br/>\nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Statement I is false but Statement II is true",
-        "B": "oth Statement I and Statement II are false",
+        "B": "Both Statement I and Statement II are false",
         "C": "Statement I is true but Statement II is false",
         "D": "Both Statement I and Statement II are true"
       },
@@ -564,7 +534,7 @@
         "A": "200 kHz",
         "B": "50 kHz",
         "C": "100 kHz",
-        "D": "0"
+        "D": "0%"
       },
       "answer": "A",
       "solution": "Bandwidth = 2 \u00d7 f<sub>m</sub><br><br>= 2 \u00d7 10<sup>5</sup> HZ = 200 KHZ",
@@ -576,7 +546,7 @@
     {
       "question": "Choose the correct statement for amplitude modulation :",
       "options": {
-        "A": "mplitude of modulating signal is varied in accordance with the information signal.",
+        "A": "Mplitude of modulating signal is varied in accordance with the information signal.",
         "B": "Amplitude of modulated signal is varied in accordance with the information signal.",
         "C": "Amplitude of carrier signal is varied in accordance with the information signal.",
         "D": "Amplitude of modulated signal is varied in accordance with the modulating signal."
@@ -672,7 +642,7 @@
         "D": "5 kHz"
       },
       "answer": "A",
-      "solution": "Given<br/><br/> Signal frequency f<sub>m</sub> = 5kHz<br/><br/> Carrier wave frequency f_c=2 MHz f_c=2000 KHz <br/><br/> The resultant signal will have band width of frequency given by<br/><br/> \\beginaligned & \\left[\\left(f_c+f_m\\right)-\\left(f_c-f_m\\right)\\right] \\\\\\\\ & \\Rightarrow[(2000+5)-(2000-5)] kHz \\\\\\\\ & \\Rightarrow 10 kHz \\endaligned",
+      "solution": "Given<br/><br/> Signal frequency f<sub>m</sub> = 5kHz<br/><br/> Carrier wave frequency f_c=2 MHz f_c=2000 KHz <br/><br/> The resultant signal will have band width of frequency given by<br/><br/> \\beginaligned & \\left[(f_c+f_m\\)-(f_c-f_m\\)\\] \\\\\\\\ & \\Rightarrow[(2000+5)-(2000-5)] kHz \\\\\\\\ & \\Rightarrow 10 kHz \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -696,10 +666,10 @@
     {
       "question": "Drift speed of electrons, when 1.5 A of current flows in a copper wire of cross section 5 mm<sup>2</sup>, is \\upsilon . If the electron density in copper is 9 \u00d7 10<sup>28</sup>/m<sup>3</sup> the value of \\upsilon . in mm/s is close to (Take charge of electron to be = 1.6 \u00d7 10<sup>-19</sup>C)",
       "options": {
-        "A": "0.02",
-        "B": "3",
-        "C": "2",
-        "D": "0.2"
+        "A": "0.02%",
+        "B": "3%",
+        "C": "2%",
+        "D": "0.2%"
       },
       "answer": "A",
       "solution": "We know, <br><br>I = neAV<sub>d</sub> <br><br> \\therefore V<sub>d</sub> = \\rm I \\over neA <br><br>= 1.5 \\over 9 \u00d7 10^28 \u00d7 1.6 \u00d7 ^ - 19 \u00d7 5 \u00d7 10^ - 6 <br><br>= 0.02 m/s",
@@ -711,13 +681,13 @@
     {
       "question": "current through a wire depends on time as <br/><br/>i = \\alpha<sub>0</sub>t + \\betat<sup>2</sup><br/><br/>where \\alpha<sub>0</sub> = 20 A/s and \\beta = 8 As<sup>-2</sup>. Find the charge crossed through a section of the wire in 15 s.",
       "options": {
-        "A": "2250",
-        "B": "2100",
-        "C": "260",
-        "D": "11250"
+        "A": "2250%",
+        "B": "2100%",
+        "C": "260%",
+        "D": "11250%"
       },
       "answer": "D",
-      "solution": "Given, i = \\alpha _0t + \\beta t^2<br/><br/>where, \\alpha<sub>0</sub> = 20 A/s, \\beta = 8 A/s<sup>2</sup><br/><br/>We know that, i = dq \\over dt<br/><br/> \\Rightarrow dq \\over dt = i = \\alpha _0t + \\beta t^2 = 20t + 8t^2<br/><br/> \\Rightarrow dq = (20t + 8t^2)dt<br/><br/>On integrating both sides, we get<br/><br/>\\int\\limits_0^q dq = \\int\\limits_0^15 (2t + 8t^2)dt <br/><br/>q = \\left[ 20t^2 \\over 2 + 8t^3 \\over 3 \\right]_0^15 = 10 \u00d7 (15)^2 + 8 \\over 3 \u00d7 (15)^3<br/><br/>\\therefore q = 11250",
+      "solution": "Given, i = \\alpha _0t + \\beta t^2<br/><br/>where, \\alpha<sub>0</sub> = 20 A/s, \\beta = 8 A/s<sup>2</sup><br/><br/>We know that, i = dq \\over dt<br/><br/> \\Rightarrow dq \\over dt = i = \\alpha _0t + \\beta t^2 = 20t + 8t^2<br/><br/> \\Rightarrow dq = (20t + 8t^2)dt<br/><br/>On integrating both sides, we get<br/><br/>\\int\\limits_0^q dq = \\int\\limits_0^15 (2t + 8t^2)dt <br/><br/>q = \\left[ 20t^2 \\over 2 + 8t^3 \\over 3 \\]_0^15 = 10 \u00d7 (15)^2 + 8 \\over 3 \u00d7 (15)^3<br/><br/>\\therefore q = 11250",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -726,13 +696,13 @@
     {
       "question": "Which of the following physical quantities have the same dimensions?",
       "options": {
-        "A": "Electric displacement (\\overrightarrowD) and surface charge density",
+        "A": "Electric displacement (\\overarrowD) and surface charge density",
         "B": "Displacement current and electric field",
-        "C": "urrent density and surface charge density",
+        "C": "Urrent density and surface charge density",
         "D": "Electric potential an"
       },
       "answer": "A",
-      "solution": "Electric displacement (\\overrightarrow D ) = \\varepsilon _0\\overrightarrow E \\Rightarrow [\\overline D ] = [\\varepsilon _0][\\overline E ] = [M^ - 1L^ - 3T^4A^2][M^1L^1A^ - 1T^ - 3] [\\overline D ] = [L^ - 2T^1A^1] [Surface charge density] = [Q] \\over [A] [\\sigma ] = [ATL^ - 2] \\Rightarrow \\overrightarrow D and [\\sigma ] have same dimensions",
+      "solution": "Electric displacement (\\overarrow D ) = \\varepsilon _0\\overarrow E \\Rightarrow [\\overline D ] = [\\varepsilon _0][\\overline E ] = [M^ - 1L^ - 3T^4A^2][M^1L^1A^ - 1T^ - 3] [\\overline D ] = [L^ - 2T^1A^1] [Surface charge density] = [Q] \\over [A] [\\sigma ] = [ATL^ - 2] \\Rightarrow \\overarrow D and [\\sigma ] have same dimensions",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -747,7 +717,7 @@
         "D": "\\alpha-\\frac\\gamma^23 \\beta"
       },
       "answer": "C",
-      "solution": "Q(t) = \\alpha t - \\beta t^2 + \\gamma t^3 i(t) = \\alpha - 2\\beta t + 3\\gamma t^2 di \\over dt = - 2\\beta + 6\\gamma t = 0 (for max/min of i) at t = \\beta \\over 3r (i is minimum as i is an upward parabola) i\\left( \\beta \\over 3\\gamma \\right) = \\alpha - 2\\beta \\left( \\beta \\over 3\\gamma \\right) + 3\\gamma \\beta ^2 \\over 9\\gamma ^2 = \\alpha - \\beta ^2 \\over 3\\gamma",
+      "solution": "Q(t) = \\alpha t - \\beta t^2 + \\gamma t^3 i(t) = \\alpha - 2\\beta t + 3\\gamma t^2 di \\over dt = - 2\\beta + 6\\gamma t = 0 (for max/min of i) at t = \\beta \\over 3r (i is minimum as i is an upward parabola) i( \\beta \\over 3\\gamma \\) = \\alpha - 2\\beta ( \\beta \\over 3\\gamma \\) + 3\\gamma \\beta ^2 \\over 9\\gamma ^2 = \\alpha - \\beta ^2 \\over 3\\gamma",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -756,13 +726,13 @@
     {
       "question": "The electric current through a wire varies with time as I=I_0+\\beta t, where I_0=20 A and \\beta=3 A / s. The amount of electric charge crossed through a section of the wire in 20 s is :",
       "options": {
-        "A": "80",
-        "B": "800",
-        "C": "1000",
-        "D": "1600"
+        "A": "80%",
+        "B": "800%",
+        "C": "1000%",
+        "D": "1600%"
       },
       "answer": "C",
-      "solution": "To calculate the amount of electric charge Q that crosses through a section of the wire over a period of 20 seconds, given the current varies with time as I = I_0 + \\beta t, where I_0 = 20 A (initial current) and \\beta = 3 A/s (rate of change of current with time), we use the concept of integration from calculus because the current is not constant but changes linearly with time. The electric charge Q is the integral of current I over the time interval from 0 to 20 seconds. The formula for Q is given by: Q = \\int_0^TI(t) \\, dt Where I(t) = I_0 + \\beta t and T = 20 s. Substituting the given values: Q = \\int_0^20 (20 + 3t) \\, dt This integral can be solved in two parts: 1. The integral of the constant term 20: \\int 20 \\, dt = 20t 2. The integral of the linear term 3t: \\int 3t \\, dt = \\frac\u2083\u2082t^2 Thus, combining these and evaluating from 0 to 20 seconds: Q = \\left[20t + \\frac\u2083\u2082t^2\\right]_0^20 Q = \\left[20(20) + \\frac\u2083\u2082(20)^2\\right] - \\left[20(0) + \\frac\u2083\u2082(0)^2\\right] Q = 400 + 600 = 1000 C Therefore, the amount of electric charge that crosses through a section of the wire in 20 seconds is 1000 C.",
+      "solution": "To calculate the amount of electric charge Q that crosses through a section of the wire over a period of 20 seconds, given the current varies with time as I = I_0 + \\beta t, where I_0 = 20 A (initial current) and \\beta = 3 A/s (rate of change of current with time), we use the concept of integration from calculus because the current is not constant but changes linearly with time. The electric charge Q is the integral of current I over the time interval from 0 to 20 seconds. The formula for Q is given by: Q = \\int_0^TI(t) \\, dt Where I(t) = I_0 + \\beta t and T = 20 s. Substituting the given values: Q = \\int_0^20 (20 + 3t) \\, dt This integral can be solved in two parts: 1. The integral of the constant term 20: \\int 20 \\, dt = 20t 2. The integral of the linear term 3t: \\int 3t \\, dt = \\frac\u2083\u2082t^2 Thus, combining these and evaluating from 0 to 20 seconds: Q = \\left[20t + \\frac\u2083\u2082t^2\\]_0^20 Q = \\left[20(20) + \\frac\u2083\u2082(20)^2\\] - \\left[20(0) + \\frac\u2083\u2082(0)^2\\] Q = 400 + 600 = 1000 C Therefore, the amount of electric charge that crosses through a section of the wire in 20 seconds is 1000 C.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -777,7 +747,7 @@
         "D": "56%"
       },
       "answer": "B",
-      "solution": "\\beginaligned & P=i^2 R \\\\ & P_\\text int =I_\\text int ^2 R \\\\ & P_\\text final =\\left(0.8 I_\\text int \\right)^2 R \\endaligned % change in power = \\fracP_\\text final -P_\\text int P_\\text int \u00d7 100=(0.64-1) \u00d7 100=-36 \\%",
+      "solution": "\\beginaligned & P=i^2 R \\\\ & P_ int =I_ int ^2 R \\\\ & P_ final =(0.8 I_ int \\)^2 R \\endaligned % change in power = \\fracP_ final -P_ int P_ int \u00d7 100=(0.64-1) \u00d7 100=-36 \\%",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -801,10 +771,10 @@
     {
       "question": "galvanometer is used in laboratory for detecting the null point in electrical experiments. If, on passing a current of 6 mA it produces a deflection of 2<sup>o</sup>, its figure of merit is close to :",
       "options": {
-        "A": "6 \u00d7 10<sup>\\\u20133</sup> A/div",
-        "B": "666<sup>o</sup> A/div",
-        "C": "3 \u00d7 10<sup>\\\u20133</sup> A/div",
-        "D": "333<sup>o</sup> A/div"
+        "A": "6 \u00d7 10<sup>\\\u20133</sup>",
+        "B": "666<sup>o</sup>",
+        "C": "3 \u00d7 10<sup>\\\u20133</sup>",
+        "D": "333<sup>o</sup>"
       },
       "answer": "C",
       "solution": "figure of merit = I \\over \\theta <br><br>= 6 \u00d7 10^ - 3 \\over 2 <br><br>= 3 \u00d7 10<sup>\\\u20133</sup> A/div",
@@ -822,7 +792,7 @@
         "D": "50 \\%"
       },
       "answer": "A",
-      "solution": "Current sensitivity = Voltage sensitivity \u00d7 R <br/><br/>Current sensitivity is made 1.5 times. <br/><br/>R also increase 1.5 times. <br/><br/>Hence voltage sensitivity =\\frac\u2081.5 \u00d7 \\text current sensitivity 1.5 \u00d7 R <br/><br/> =\\text no change",
+      "solution": "Current sensitivity = Voltage sensitivity \u00d7 R <br/><br/>Current sensitivity is made 1.5 times. <br/><br/>R also increase 1.5 times. <br/><br/>Hence voltage sensitivity =\\frac\u2081.5 \u00d7 current sensitivity 1.5 \u00d7 R <br/><br/> = no change",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -834,7 +804,7 @@
         "A": "Kirchhoff\\u\u2082\u2080\u2081\u2089s second law represents energy conservation.",
         "B": "Wheatstone bridge is the most sensitive when all the four resistances are of the same order of magnitude.",
         "C": "In a balanced wheatstone bridge if the cell and the galvanometer are exchanged, the null point is disturbed.",
-        "D": "rheostat can be used as a potential divider."
+        "D": "Rheostat can be used as a potential divider."
       },
       "answer": "C",
       "solution": "There is no change in null point, if the cell and the galvanometer are exchanged in a balanced wheatstone bridge.",
@@ -876,10 +846,10 @@
     {
       "question": "Two identical photocathodes receive the light of frequencies f<sub>1</sub> and f<sub>2</sub> respectively. If the velocities of the photo-electrons coming out are v<sub>1</sub> and v<sub>2</sub> respectively, then",
       "options": {
-        "A": "v_1 - v_2 = \\left[ 2h \\over m(f_1 - f_2) \\right]^1 \\over 2",
-        "B": "v_1^2 + v_2^2 = 2h \\over m[f_1 + f_2]",
-        "C": "v_1 + v_2 = \\left[ 2h \\over m(f_1 + f_2) \\right]^1 \\over 2",
-        "D": "v_1^2 - v_2^2 = 2h \\over m[f_1 - f_2]"
+        "A": "V_1 - v_2 = \\left[ 2h \\over m(f_1 - f_2) \\]^1 \\over 2",
+        "B": "V_1^2 + v_2^2 = 2h \\over m[f_1 + f_2]",
+        "C": "V_1 + v_2 = \\left[ 2h \\over m(f_1 + f_2) \\]^1 \\over 2",
+        "D": "V_1^2 - v_2^2 = 2h \\over m[f_1 - f_2]"
       },
       "answer": "D",
       "solution": "1 \\over 2mv_1^2 = hf_1 - \\phi ___________(1)<br><br>1 \\over 2mv_2^2 = hf_2 - \\phi ___________(2)<br><br>Subtracting equation (1) by equation (2)<br><br>1 \\over 2mv_1^2 - 1 \\over 2mv_2^2 = hf_1 - hf_2<br><br>v_1^2 - v_2^2 = 2h \\over m(f_1 - f_2)",
@@ -919,7 +889,7 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements: Statement I : If the number of turns in the coil of a moving coil galvanometer is doubled then the current sensitivity becomes double. Statement II : Increasing current sensitivity of a moving coil galvanometer by only increasing the number of turns in the coil will also increase its voltage sensitivity in the same ratio In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements: Statement I : If the number of turns in the coil of a moving coil galvanometer is doubled then the current sensitivity becomes double. Statement II : Increasing current sensitivity of a moving coil galvanometer by only increasing the number of turns in the coil will also increase its voltage sensitivity in the same ratio \nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Statement I is true but Statement II is false",
         "B": "Statement I is false but Statement II is true",
@@ -934,27 +904,12 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements: one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A: A bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with same geometry and mass. Reason R: For the magnetic bar, Eddy currents are produced in the metallic pipe which oppose the motion of the magnetic bar. In the light of the above statements, choose the correct answer from the options given below",
-      "options": {
-        "A": "is true but R is false",
-        "B": "is false but R is true",
-        "C": "Both A and R are true but R is NOT the correct explanation of",
-        "D": "Both A and R are true and R is the correct explanation of"
-      },
-      "answer": "D",
-      "solution": "<b>Assertion A</b> is true because a bar magnet dropped through a metallic cylindrical pipe takes more time to come down compared to a non-magnetic bar with the same geometry and mass. This is due to the effect of the magnet's magnetic field on the metallic pipe. <b>Reason R</b> is also true because when the magnetic bar moves through the metallic pipe, it induces a changing magnetic field in the pipe. This changing magnetic field, in turn, induces Eddy currents in the pipe. According to Lenz's law, these Eddy currents produce their own magnetic field, which opposes the motion of the magnetic bar, causing it to fall more slowly through the pipe. Since both Assertion A and Reason R are true and R provides the correct explanation for A, the correct answer is Both A and R are true and R is the correct explanation of A.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
       "question": "Certain galvanometers have a fixed core made of non magnetic metallic material. The function of this metallic material is",
       "options": {
-        "A": "to bring the coil to rest quickly",
-        "B": "to produce large deflecting torque on the coil",
-        "C": "to oscillate the coil in magnetic field for longer period of time",
-        "D": "to make the magnetic field radial"
+        "A": "To bring the coil to rest quickly",
+        "B": "To produce large deflecting torque on the coil",
+        "C": "To oscillate the coil in magnetic field for longer period of time",
+        "D": "To make the magnetic field radial"
       },
       "answer": "A",
       "solution": "The function of the non-magnetic metallic core in a galvanometer is to provide a path for the induced current generated by the moving coil in the magnetic field. This induced current opposes the motion of the coil and brings it to rest quickly due to the effect known as eddy current damping. When the coil swings past its equilibrium position, a change in magnetic flux occurs. According to Faraday's law of electromagnetic induction, this change in magnetic flux generates an induced current, known as an eddy current. The eddy current creates its own magnetic field which opposes the original change in flux, causing the coil to quickly come to rest.",
@@ -967,27 +922,12 @@
       "question": "Statement I : When a Si sample is doped with Boron, it becomes P type and when doped by Arsenic it becomes N-type semi conductor such that P-type has excess holes and N-type has excess electrons. Statement II : When such P-type and N-type semi-conductors, are fused to make a junction, a current will automatically flow which can be detected with an externally connected ameter. In the light of above statements, choose the most appropriate answer from the options given below",
       "options": {
         "A": "Statement I is incorrect but statement II is correct",
-        "B": "oth Statement I and statement II are correct",
+        "B": "Both Statement I and statement II are correct",
         "C": "Statement I is correct but statement II is incorrect",
         "D": "Both Statement I and Statement II are incorrect"
       },
       "answer": "C",
       "solution": "Statement I is correct but in statement II we cannot detect the current through ammeter thus the statement II is incorrect.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R Assertion A: Diffusion current in a p-n junction is greater than the drift current in magnitude if the junction is forward biased. Reason R: Diffusion current in a p-n junction is from the n-side to the p-side if the junction is forward biased. In the light of the above statements, choose the most appropriate answer from the options given below",
-      "options": {
-        "A": "Both A and R are correct but R is NOT the correct explanation of",
-        "B": "is correct but R is not correct",
-        "C": "is not correct but R is correct",
-        "D": "Both A and R are correct and R is the correct explanation of"
-      },
-      "answer": "B",
-      "solution": "p-n junction consists of a p-type semiconductor (which has an excess of holes) in contact with an n-type semiconductor (which has an excess of electrons). In a forward-biased p-n junction, an external voltage is applied such that the positive terminal is connected to the p-side and the negative terminal is connected to the n-side. This configuration promotes the flow of majority charge carriers (holes from the p-side and electrons from the n-side) across the junction. <br/><br/> There are two types of currents in a p-n junction: drift current and diffusion current. Drift current is caused by the electric field due to the built-in potential, which opposes the flow of majority charge carriers. Diffusion current is caused by the concentration gradient of the charge carriers, which promotes the flow of majority charge carriers. <br/><br/> When the p-n junction is forward biased, the applied voltage reduces the potential barrier, allowing more majority charge carriers to flow across the junction. This results in an increase in the diffusion current. In a forward-biased p-n junction, the diffusion current is indeed greater than the drift current in magnitude, so <b>Assertion A</b> is correct. <br/><br/> Regarding <b>Reason R</b>: The diffusion current in a p-n junction is actually from the p-side to the n-side, as holes (majority charge carriers in the p-side) move from the p-side to the n-side, and electrons (majority charge carriers in the n-side) move from the n-side to the p-side. Therefore, Reason R is incorrect.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1011,10 +951,10 @@
     {
       "question": "If an emitter current is changed by 4 mA, the collector current changes by 3.5 mA. The value of \\beta will be :",
       "options": {
-        "A": "0.875",
-        "B": "0.5",
-        "C": "3.5",
-        "D": "7"
+        "A": "0.875%",
+        "B": "0.5%",
+        "C": "3.5%",
+        "D": "7%"
       },
       "answer": "D",
       "solution": "Given, emitter current, I<sub>E</sub> = 4 mA<br/><br/>Collector current, I<sub>C</sub> = 3.5 mA<br/><br/>Current gain in common base amplifier,<br/><br/>\\alpha = I_C \\over I_E<br/><br/> \\Rightarrow \\alpha = 3.5 \\over 4 = 7 \\over 8<br/><br/>Also, current gain in common emitter amplifier, <br/><br/>\\beta = \\alpha \\over 1 - \\alpha <br/><br/> \\Rightarrow \\beta = 7/8 \\over 1 - 7/8<br/><br/>\\beta = 7",
@@ -1062,7 +1002,7 @@
         "D": "\\sqrt\u2082 : \\sqrt\u2083: 1"
       },
       "answer": "A",
-      "solution": "Given that the bodies A, B, and C have equal kinetic energies, we can use the relationship between kinetic energy (K.E.) and linear momentum (p) to find the ratio of their momenta. Recall the formula for kinetic energy is K.E. = \\frac\u2081\u2082mv^2 and the formula for momentum is p = mv, where m is the mass and v is the velocity of the object. First, from the kinetic energy formula, we can express the velocity in terms of kinetic energy and mass: v = \\sqrt\\frac\u2082 \u00b7 K.E.m. The momentum can then be rewritten using the velocity expression obtained from the kinetic energy equation: p = m\\sqrt\\frac\u2082 \u00b7 K.E.m = \\sqrt\u2082m \u00b7 K.E.. Given that the kinetic energies are the same for all three bodies, we can ignore the kinetic energy term when comparing the ratios, simplifying our comparison to the square root of their masses: p \\propto \\sqrtm. Now, we calculate the ratio of their linear momenta using their masses. Note that the masses should be in consistent units for a valid comparison, so we'll use kilograms for all: <ul> <li>Mass of A = 400 g = 0.4 kg</li><br> <li>Mass of B = 1.2 kg</li><br> <li>Mass of C = 1.6 kg</li> </ul> Thus, the ratio of their momenta will be proportional to the square root of their masses: \\textRatio of momenta = \\sqrt\u2080.4 : \\sqrt\u2081.2 : \\sqrt\u2081.6 = \\sqrt\\frac\u2084\u2081\u2080 : \\sqrt\\frac\u2081\u2082\u2081\u2080 : \\sqrt\\frac\u2081\u2086\u2081\u2080 = \\sqrt\\frac\u2082\u2085 : \\sqrt\\frac\u2086\u2085 : \\sqrt\\frac\u2088\u2085. Simplifying these we get: \\textRatio of momenta = \\frac\\sqrt\u2082\\sqrt\u2085 : \\frac\\sqrt\u2086\\sqrt\u2085 : \\frac\\sqrt\u2088\\sqrt\u2085 = \\sqrt\u2082 : \\sqrt\u2086 : \\sqrt\u2088. Recognizing that \\sqrt\u2086 is \u2261alent to \\sqrt\u2082 \u00b7 \\sqrt\u2083 and that \\sqrt\u2088 is \u2261alent to \\sqrt\u2082 \u00b7 \\sqrt\u2082 \u00b7 \\sqrt\u2082 = 2\\sqrt\u2082, we see this can also be expressed as: \\sqrt\u2082 : \\sqrt\u2082 \u00b7 \\sqrt\u2083 : 2\\sqrt\u2082. Dividing through by \\sqrt\u2082 to simplify the ratio, the final ratio of their linear momenta is: 1 : \\sqrt\u2083 : 2, which matches <strong>Option A</strong> 1: \\sqrt\u2083: 2.",
+      "solution": "Given that the bodies A, B, and C have equal kinetic energies, we can use the relationship between kinetic energy (K.E.) and linear momentum (p) to find the ratio of their momenta. Recall the formula for kinetic energy is K.E. = \\frac\u2081\u2082mv^2 and the formula for momentum is p = mv, where m is the mass and v is the velocity of the object. First, from the kinetic energy formula, we can express the velocity in terms of kinetic energy and mass: v = \\sqrt\\frac\u2082 \u00b7 K.E.m. The momentum can then be rewritten using the velocity expression obtained from the kinetic energy equation: p = m\\sqrt\\frac\u2082 \u00b7 K.E.m = \\sqrt\u2082m \u00b7 K.E.. Given that the kinetic energies are the same for all three bodies, we can ignore the kinetic energy term when comparing the ratios, simplifying our comparison to the square root of their masses: p \\propto \\sqrtm. Now, we calculate the ratio of their linear momenta using their masses. Note that the masses should be in consistent units for a valid comparison, so we'll use kilograms for all: <ul> <li>Mass of A = 400 g = 0.4 kg</li><br> <li>Mass of B = 1.2 kg</li><br> <li>Mass of C = 1.6 kg</li> </ul> Thus, the ratio of their momenta will be proportional to the square root of their masses: Ratio of momenta = \\sqrt\u2080.4 : \\sqrt\u2081.2 : \\sqrt\u2081.6 = \\sqrt\\frac\u2084\u2081\u2080 : \\sqrt\\frac\u2081\u2082\u2081\u2080 : \\sqrt\\frac\u2081\u2086\u2081\u2080 = \\sqrt\\frac\u2082\u2085 : \\sqrt\\frac\u2086\u2085 : \\sqrt\\frac\u2088\u2085. Simplifying these we get: Ratio of momenta = \\frac\\sqrt\u2082\\sqrt\u2085 : \\frac\\sqrt\u2086\\sqrt\u2085 : \\frac\\sqrt\u2088\\sqrt\u2085 = \\sqrt\u2082 : \\sqrt\u2086 : \\sqrt\u2088. Recognizing that \\sqrt\u2086 is \u2261alent to \\sqrt\u2082 \u00b7 \\sqrt\u2083 and that \\sqrt\u2088 is \u2261alent to \\sqrt\u2082 \u00b7 \\sqrt\u2082 \u00b7 \\sqrt\u2082 = 2\\sqrt\u2082, we see this can also be expressed as: \\sqrt\u2082 : \\sqrt\u2082 \u00b7 \\sqrt\u2083 : 2\\sqrt\u2082. Dividing through by \\sqrt\u2082 to simplify the ratio, the final ratio of their linear momenta is: 1 : \\sqrt\u2083 : 2, which matches <strong>Option A</strong> 1: \\sqrt\u2083: 2.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1071,10 +1011,10 @@
     {
       "question": "A bar magnet is released from rest along the axis of a very long vertical copper tube. After some time the magnet will",
       "options": {
-        "A": "move down with almost constant speed",
-        "B": "move down with an acceleration equal to g",
-        "C": "move down with an acceleration greater than g",
-        "D": "oscillate inside the tube"
+        "A": "Move down with almost constant speed",
+        "B": "Move down with an acceleration equal to g",
+        "C": "Move down with an acceleration greater than g",
+        "D": "Oscillate inside the tube"
       },
       "answer": "A",
       "solution": "When a bar magnet is released from rest along the axis of a very long vertical copper tube, it will move down with an almost constant speed after some time. As the magnet falls, it moves through the copper tube, inducing eddy currents in the tube. These eddy currents, in turn, create an opposing magnetic field that opposes the motion of the magnet. The opposing force generated by the eddy currents acts as a damping force, which slows down the magnet's acceleration. Eventually, the magnet reaches a terminal velocity, at which point the gravitational force pulling the magnet downward is balanced by the opposing force from the eddy currents. At this terminal velocity, the magnet moves down with an almost constant speed.",
@@ -1092,7 +1032,7 @@
         "D": "\\tan ^ - 1\\sqrt 3 \\over 2"
       },
       "answer": "D",
-      "solution": "A\\tan \\delta = \\tan \\delta '\\cos \\theta <br><br> = \\tan 45^\\circ \\cos 30^\\circ <br><br>\\tan \\delta = 1 \u00d7 \\sqrt 3 \\over 2<br><br>\\delta = \\tan ^ - 1\\left( \\sqrt 3 \\over 2 \\right)",
+      "solution": "A\\tan \\delta = \\tan \\delta '\\cos \\theta <br><br> = \\tan 45^\\circ \\cos 30^\\circ <br><br>\\tan \\delta = 1 \u00d7 \\sqrt 3 \\over 2<br><br>\\delta = \\tan ^ - 1( \\sqrt 3 \\over 2 \\)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1131,10 +1071,10 @@
     {
       "question": "In a ferromagnetic material, below the curie temperature, a domain is defined as :",
       "options": {
-        "A": "macroscopic region with zero magnetization.",
-        "B": "a macroscopic region with saturation magnetization.",
-        "C": "a macroscopic region with randomly oriented magnetic dipoles.",
-        "D": "a macroscopic region with consecutive magnetic dipoles oriented in opposite direction."
+        "A": "Macroscopic region with zero magnetization.",
+        "B": "A macroscopic region with saturation magnetization.",
+        "C": "A macroscopic region with randomly oriented magnetic dipoles.",
+        "D": "A macroscopic region with consecutive magnetic dipoles oriented in opposite direction."
       },
       "answer": "B",
       "solution": "In a ferromagnetic material, below the curie temperature a domain is defined as a macroscopic region with saturation magnetization.",
@@ -1144,7 +1084,7 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Statement I : The ferromagnetic property depends on temperature. At high temperature, ferromagnet becomes paramagnet.<br/><br/>Statement II : At high temperature, the domain wall area of a ferromagnetic substance increases.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Statement I : The ferromagnetic property depends on temperature. At high temperature, ferromagnet becomes paramagnet.<br/><br/>Statement II : At high temperature, the domain wall area of a ferromagnetic substance increases.<br/><br/>\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement I is false but Statement II is true",
         "B": "Statement I is true but Statement II is false",
@@ -1161,10 +1101,10 @@
     {
       "question": "The soft-iron is a suitable material for making an electromagnet. This is because soft-iron has",
       "options": {
-        "A": "low coercivity and high retentivity.",
-        "B": "low coercivity and low permeability.",
-        "C": "high permeability and low retentivity.",
-        "D": "high permeability and high retentivity."
+        "A": "Low coercivity and high retentivity.",
+        "B": "Low coercivity and low permeability.",
+        "C": "High permeability and low retentivity.",
+        "D": "High permeability and high retentivity."
       },
       "answer": "C",
       "solution": "Electromagnet requires high permeability and low retentivity.",
@@ -1206,13 +1146,13 @@
     {
       "question": "square loop is carrying a steady current I and the magnitude of its magnetic dipole moment is m. if this square loop is changed to a circular loop and it carries the same current, the magnitude of the magnetic dipole moment of circular loop will be:",
       "options": {
-        "A": "m \\over \\pi",
+        "A": "M \\over \\pi",
         "B": "3m \\over \\pi",
         "C": "2m \\over \\pi",
         "D": "4m \\over \\pi"
       },
       "answer": "D",
-      "solution": "Let the given square loop has side a, then its magnetic dipole moment will be <br><br> m=I a^2 <br><br>When square is converted into a circular loop of radius r, <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086j/203e\u2088b\u2081\u2080-11ee-48e\u2089-971d-90abd\u2082\u2088ae\u2089\u2084\u2086/da\u2087\u2085\u2081bb\u2080-1075-11ee-a\u2088\u2086a-a\u2085\u2085b\u2083\u2080b\u2084\u2085\u2080d\u2082/file-6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086j/203e\u2088b\u2081\u2080-11ee-48e\u2089-971d-90abd\u2082\u2088ae\u2089\u2084\u2086/da\u2087\u2085\u2081bb\u2080-1075-11ee-a\u2088\u2086a-a\u2085\u2085b\u2083\u2080b\u2084\u2085\u2080d\u2082/file-6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086k.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh; vertical-align: baseline;\" alt=\"JEE Main 2019 (Online) 10th April Evening Slot Physics - Magnetic Effect of Current Question 137 English Explanation\"> <br>Then, wire length will be same in both area, <br><br> \\Rightarrow 4 a=2 \\pi r \\Rightarrow r=\\frac\u2084 a\u2082 \\pi=\\frac\u2082 a\\pi <br><br>Hence, area of circular loop formed is, A^\\prime=\\pi r^2 <br><br> =\\pi\\left(\\frac\u2082 a\\pi\\right)^2=\\frac\u2084 a^2\\pi <br><br>Magnitude of magnetic dipole moment of circular loop will be <br><br> m^\\prime=IA^\\prime=I \\frac\u2084 a^2\\pi <br><br>Ratio of magnetic dipole moments of both shapes is, <br><br> \\beginaligned \\fracm^\\primem=\\fracI \u00b7 \\frac\u2084 a^2\\piI a^2=\\frac\u2084\\pi \\\\\\\\ \\Rightarrow m^\\prime =\\frac\u2084 m\\pi(A-m) \\endaligned",
+      "solution": "Let the given square loop has side a, then its magnetic dipole moment will be <br><br> m=I a^2 <br><br>When square is converted into a circular loop of radius r, <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086j/203e\u2088b\u2081\u2080-11ee-48e\u2089-971d-90abd\u2082\u2088ae\u2089\u2084\u2086/da\u2087\u2085\u2081bb\u2080-1075-11ee-a\u2088\u2086a-a\u2085\u2085b\u2083\u2080b\u2084\u2085\u2080d\u2082/file-6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086j/203e\u2088b\u2081\u2080-11ee-48e\u2089-971d-90abd\u2082\u2088ae\u2089\u2084\u2086/da\u2087\u2085\u2081bb\u2080-1075-11ee-a\u2088\u2086a-a\u2085\u2085b\u2083\u2080b\u2084\u2085\u2080d\u2082/file-6y\u2083zli\u2081lj\u2086\u2087\u2080g\u2086k.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh; vertical-align: baseline;\" alt=\"JEE Main 2019 (Online) 10th April Evening Slot Physics - Magnetic Effect of Current Question 137 English Explanation\"> <br>Then, wire length will be same in both area, <br><br> \\Rightarrow 4 a=2 \\pi r \\Rightarrow r=\\frac\u2084 a\u2082 \\pi=\\frac\u2082 a\\pi <br><br>Hence, area of circular loop formed is, A^\\prime=\\pi r^2 <br><br> =\\pi(\\frac\u2082 a\\pi\\)^2=\\frac\u2084 a^2\\pi <br><br>Magnitude of magnetic dipole moment of circular loop will be <br><br> m^\\prime=IA^\\prime=I \\frac\u2084 a^2\\pi <br><br>Ratio of magnetic dipole moments of both shapes is, <br><br> \\beginaligned \\fracm^\\primem=\\fracI \u00b7 \\frac\u2084 a^2\\piI a^2=\\frac\u2084\\pi \\\\\\\\ \\Rightarrow m^\\prime =\\frac\u2084 m\\pi(A-m) \\endaligned",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1227,7 +1167,7 @@
         "D": "N_A I_A=4 N_B I_B"
       },
       "answer": "D",
-      "solution": "M_A=M_B I_AN_A\\left( \\pi r_A^2 \\right) = I_BN_B\\left( \\pi r_B^2 \\right) I_AN_A = 4I_BN_B",
+      "solution": "M_A=M_B I_AN_A( \\pi r_A^2 \\) = I_BN_B( \\pi r_B^2 \\) I_AN_A = 4I_BN_B",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1251,13 +1191,13 @@
     {
       "question": "A car travels a distance of 'x' with speed v_1 and then same distance 'x' with speed v_2 in the same direction. The average speed of the car is :",
       "options": {
-        "A": "v_1v_2 \\over 2(v_1 + v_2)",
+        "A": "V_1v_2 \\over 2(v_1 + v_2)",
         "B": "2v_1v_2 \\over v_1 + v_2",
         "C": "2x \\over v_1 + v_2",
-        "D": "v_1 + v_2 \\over 2"
+        "D": "V_1 + v_2 \\over 2"
       },
       "answer": "B",
-      "solution": "\\beginaligned & \\text Average velocity =\\frac\\text Total displacement \\text Total time \\\\\\\\ & =\\fracx+x\\fracxv_1+\\fracxv_2=\\frac\u2082 v_1 v_2v_1+v_2 \\endaligned",
+      "solution": "\\beginaligned & Average velocity =\\frac Total displacement Total time \\\\\\\\ & =\\fracx+x\\fracxv_1+\\fracxv_2=\\frac\u2082 v_1 v_2v_1+v_2 \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1287,7 +1227,7 @@
         "D": "160\\, m"
       },
       "answer": "D",
-      "solution": "An automobile traveling at 40 km/h can be stopped within a distance of 40 meters by using brakes. If the same automobile is traveling at 80 km/h, we need to determine the minimum stopping distance in meters, assuming no skidding occurs. <h\u2083>First Case</h\u2083> <ul> <li>Initial speed, u_1 = 40 \\, \\textkm/h </li><br> <li>Final speed, v_1 = 0 \\, \\textm/s </li><br> <li>Stopping distance, s_1 = 40 \\, \\textm </li> </ul> Using the equation: v^2 - u^2 = 2as For the first case: 0^2 - 40^2 = 2a \u00d7 40 -1600 = 80a a = -20 \\, \\textm/s^2 <h\u2083>Second Case</h\u2083> <ul> <li>Initial speed, u_2 = 80 \\, \\textkm/h </li><br> <li>Final speed, v_2 = 0 \\, \\textm/s </li> </ul> Similarly, using the same equation: 0^2 - 80^2 = 2a s_2 -6400 = 2a s_2 Since a = -20 \\, \\textm/s^2 , divide both sides of the equation for the second case by the first case: \\fracs_240 = \\frac\u2088\u2080^240^2 s_2 = \\frac\u2088\u2080 \u00d7 8040 s_2 = 160 \\, \\textm Thus, the minimum stopping distance when the automobile is traveling at 80 km/h is 160 meters.",
+      "solution": "An automobile traveling at 40 km/h can be stopped within a distance of 40 meters by using brakes. If the same automobile is traveling at 80 km/h, we need to determine the minimum stopping distance in meters, assuming no skidding occurs. <h\u2083>First Case</h\u2083> <ul> <li>Initial speed, u_1 = 40 \\, km/h </li><br> <li>Final speed, v_1 = 0 \\, m/s </li><br> <li>Stopping distance, s_1 = 40 \\, m </li> </ul> Using the equation: v^2 - u^2 = 2as For the first case: 0^2 - 40^2 = 2a \u00d7 40 -1600 = 80a a = -20 \\, m/s^2 <h\u2083>Second Case</h\u2083> <ul> <li>Initial speed, u_2 = 80 \\, km/h </li><br> <li>Final speed, v_2 = 0 \\, m/s </li> </ul> Similarly, using the same equation: 0^2 - 80^2 = 2a s_2 -6400 = 2a s_2 Since a = -20 \\, m/s^2 , divide both sides of the equation for the second case by the first case: \\fracs_240 = \\frac\u2088\u2080^240^2 s_2 = \\frac\u2088\u2080 \u00d7 8040 s_2 = 160 \\, m Thus, the minimum stopping distance when the automobile is traveling at 80 km/h is 160 meters.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -1302,7 +1242,7 @@
         "D": "7.35 m"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2083\u2086/exam_images/n\u2086z\u2080\u2086ntq\u2080mibulyfw\u2081u\u2084.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Evening Shift Physics - Motion in a Straight Line Question 54 English Explanation\"><br>H = 1 \\over 2gt<sup>2</sup><br><br>9.8 \u00d7 2 \\over 9.8 = t<sup>2</sup><br><br>t = \\sqrt 2 sec<br><br>\\Deltat : time interval between drops<br><br>h = 1 \\over 2g(\\sqrt 2 - 2\\Deltat)<sup>2</sup><br><br>\\Deltat = 1 \\over \\sqrt 2 <br><br>h = 1 \\over 2g\\left( \\sqrt 2 - 1 \\over \\sqrt 2 \\right)^2 = 1 \\over 2 \u00d7 9.8 \u00d7 1 \\over 2 = 9.8 \\over 4 = 2.45 m<br><br>H - h = 9.8 - 2.45<br><br>= 7.35 m",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2083\u2086/exam_images/n\u2086z\u2080\u2086ntq\u2080mibulyfw\u2081u\u2084.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Evening Shift Physics - Motion in a Straight Line Question 54 English Explanation\"><br>H = 1 \\over 2gt<sup>2</sup><br><br>9.8 \u00d7 2 \\over 9.8 = t<sup>2</sup><br><br>t = \\sqrt 2 sec<br><br>\\Deltat : time interval between drops<br><br>h = 1 \\over 2g(\\sqrt 2 - 2\\Deltat)<sup>2</sup><br><br>\\Deltat = 1 \\over \\sqrt 2 <br><br>h = 1 \\over 2g( \\sqrt 2 - 1 \\over \\sqrt 2 \\)^2 = 1 \\over 2 \u00d7 9.8 \u00d7 1 \\over 2 = 9.8 \\over 4 = 2.45 m<br><br>H - h = 9.8 - 2.45<br><br>= 7.35 m",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1317,7 +1257,7 @@
         "D": "24.5 m"
       },
       "answer": "A",
-      "solution": "A NCC parade is moving at a steady speed of 9 km/h under a mango tree where a monkey is perched at a height of 19.6 meters. Suddenly, the monkey drops a mango. To determine which cadet will catch the mango, we need to calculate the distance of the cadet from the tree at the moment the mango is dropped, considering the acceleration due to gravity g = 9.8 \\, \\textm/s^2 . First, we use the formula to find the time t it takes for the mango to fall: H = \\frac\u2081\u2082\\,g\\,t^2 Substituting the given values: 19.6 = 4.9\\,t^2 Solving for t : t^2 = \\frac\u2081\u2089.64.9 t^2 = 4 t = 2 \\, \\textsec Next, we need to find the distance D the cadet travels in these 2 seconds: D = \\textspeed \u00d7 \\texttime Since the speed is given in km/h, we first convert it to m/s: 9 \\, \\textkm/h = 9 \u00d7 \\frac\u2081\u2080\u2080\u2080\u2083\u2086\u2080\u2080 \\, \\textm/s = 2.5 \\, \\textm/s So, the distance covered by the cadet is: D = 2.5 \\, \\textm/s \u00d7 2 \\, \\textsec = 5 \\, \\textm Thus, the cadet who is 5 meters away from the tree at the moment the mango is dropped will catch the mango.",
+      "solution": "A NCC parade is moving at a steady speed of 9 km/h under a mango tree where a monkey is perched at a height of 19.6 meters. Suddenly, the monkey drops a mango. To determine which cadet will catch the mango, we need to calculate the distance of the cadet from the tree at the moment the mango is dropped, considering the acceleration due to gravity g = 9.8 \\, m/s^2 . First, we use the formula to find the time t it takes for the mango to fall: H = \\frac\u2081\u2082\\,g\\,t^2 Substituting the given values: 19.6 = 4.9\\,t^2 Solving for t : t^2 = \\frac\u2081\u2089.64.9 t^2 = 4 t = 2 \\, sec Next, we need to find the distance D the cadet travels in these 2 seconds: D = speed \u00d7 time Since the speed is given in km/h, we first convert it to m/s: 9 \\, km/h = 9 \u00d7 \\frac\u2081\u2080\u2080\u2080\u2083\u2086\u2080\u2080 \\, m/s = 2.5 \\, m/s So, the distance covered by the cadet is: D = 2.5 \\, m/s \u00d7 2 \\, sec = 5 \\, m Thus, the cadet who is 5 meters away from the tree at the moment the mango is dropped will catch the mango.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1326,10 +1266,10 @@
     {
       "question": "A ball is released from a height h. If t_1 and t_2 be the time required to complete first half and second half of the distance respectively. Then, choose the correct relation between t_1 and t_2.",
       "options": {
-        "A": "t_1=(\\sqrt\u2082) t_2",
-        "B": "t_1=(\\sqrt\u2082-1) t_2",
-        "C": "t_2=(\\sqrt\u2082+1) t_1",
-        "D": "t_2=(\\sqrt\u2082-1) t_1"
+        "A": "T_1=(\\sqrt\u2082) t_2",
+        "B": "T_1=(\\sqrt\u2082-1) t_2",
+        "C": "T_2=(\\sqrt\u2082+1) t_1",
+        "D": "T_2=(\\sqrt\u2082-1) t_1"
       },
       "answer": "D",
       "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2087e\u2089ofih/3261b\u2088\u2080\u2084-62c\u2084-4278-80a\u2086-960f\u2084\u2086\u2088fdcec/f\u2084\u2084\u2084\u2087\u2087\u2089\u2080-2753-11ed-a\u2080\u2087\u2087-1f\u2081e\u2083\u2089\u2088\u2089e\u2087\u2089\u2088/file-1l\u2087e\u2089ofii.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2087e\u2089ofih/3261b\u2088\u2080\u2084-62c\u2084-4278-80a\u2086-960f\u2084\u2086\u2088fdcec/f\u2084\u2084\u2084\u2087\u2087\u2089\u2080-2753-11ed-a\u2080\u2087\u2087-1f\u2081e\u2083\u2089\u2088\u2089e\u2087\u2089\u2088/file-1l\u2087e\u2089ofii.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th July Evening Shift Physics - Motion in a Straight Line Question 37 English Explanation\"> For first h \\over 2 distance, h \\over 2 = 1 \\over 2 gt_1^2 \\Rightarrow h = gt_1^2 For total distance h, h = 1 \\over 2g(t_1 + t_2)^2 \\Rightarrow gt_1^2 = 1 \\over 2g(t_1 + t_2)^2 \\Rightarrow 2t_1^2 = (t_1 + t_2)^2 \\Rightarrow \\sqrt 2 t_1 = t_1 + t_2 \\Rightarrow (\\sqrt 2 - 1)t_1 = t_2",
@@ -1356,13 +1296,13 @@
     {
       "question": "particle is moving with speed v = b\\sqrt x along positive x-axis. Calculate the speed of the particle at time t = \\tau (assume that the particle is at origin t = 0)",
       "options": {
-        "A": "b^2\\tau \\over \\sqrt 2",
-        "B": "b^2\\tau",
-        "C": "b^2\\tau \\over 2",
-        "D": "b^2\\tau \\over 4"
+        "A": "B^2\\tau \\over \\sqrt 2",
+        "B": "^2\\tau",
+        "C": "B^2\\tau \\over 2",
+        "D": "B^2\\tau \\over 4"
       },
       "answer": "C",
-      "solution": "v = b\\sqrt x <br> \\Rightarrow dx \\over dt = b\\sqrt x <br> \\Rightarrow \\int\\limits_0^x dx \\over \\sqrt x = \\int\\limits_0^t bdt <br> \\Rightarrow \\left[ x^ - 1 \\over 2 + 1 \\over - 1 \\over 2 + 1 \\right]_0^x = b\\left[ t \\right]_0^t <br> \\Rightarrow x^1 \\over 2 = bt \\over 2 <br> \\Rightarrow x = b^2t^2 \\over 4 <br><br> \\therefore v = dx \\over dt = b^2 \\over 4 \u00d7 2t = b^2t \\over 2 <br>When t = \\tau then speed v = b^2\\tau \\over 2",
+      "solution": "v = b\\sqrt x <br> \\Rightarrow dx \\over dt = b\\sqrt x <br> \\Rightarrow \\int\\limits_0^x dx \\over \\sqrt x = \\int\\limits_0^t bdt <br> \\Rightarrow \\left[ x^ - 1 \\over 2 + 1 \\over - 1 \\over 2 + 1 \\]_0^x = b\\left[ t \\]_0^t <br> \\Rightarrow x^1 \\over 2 = bt \\over 2 <br> \\Rightarrow x = b^2t^2 \\over 4 <br><br> \\therefore v = dx \\over dt = b^2 \\over 4 \u00d7 2t = b^2t \\over 2 <br>When t = \\tau then speed v = b^2\\tau \\over 2",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1377,7 +1317,7 @@
         "D": "2.9 m"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2082\u2083/exam_images/acylrfqpyefqghujddnj.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Properties of Matter Question 209 English Explanation\"> <br><br>Here water level is kept same all the time. So, the amount of water remove from the hole put in the tank the top to keep the water level same. <br><br> \\therefore Inflow volume role = outflow volume <br><br> \\Rightarrow 0.74 \\over 60 = Av <br><br> \\Rightarrow 0.74 \\over 60 = \\pi r^2\\left( \\sqrt 2gh \\right) <br><br> \\Rightarrow 0.74 \\over 60 = \\pi \\left( 4 \u00d7 10^ - 4 \\right) \u00d7 \\sqrt 2gh <br><br> \\Rightarrow \\sqrt 2gh = 740 \\over 24\\pi <br><br> \\Rightarrow 2gh = 740 \u00d7 740 \\over 24 \u00d7 24 \u00d7 \\pi ^2 <br><br> \\Rightarrow h = 4.8 m",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2082\u2083/exam_images/acylrfqpyefqghujddnj.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Properties of Matter Question 209 English Explanation\"> <br><br>Here water level is kept same all the time. So, the amount of water remove from the hole put in the tank the top to keep the water level same. <br><br> \\therefore Inflow volume role = outflow volume <br><br> \\Rightarrow 0.74 \\over 60 = Av <br><br> \\Rightarrow 0.74 \\over 60 = \\pi r^2( \\sqrt 2gh \\) <br><br> \\Rightarrow 0.74 \\over 60 = \\pi ( 4 \u00d7 10^ - 4 \\) \u00d7 \\sqrt 2gh <br><br> \\Rightarrow \\sqrt 2gh = 740 \\over 24\\pi <br><br> \\Rightarrow 2gh = 740 \u00d7 740 \\over 24 \u00d7 24 \u00d7 \\pi ^2 <br><br> \\Rightarrow h = 4.8 m",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1407,7 +1347,7 @@
         "D": "1 \u00d7 10<sup>\u20135</sup> m<sup>2</sup>"
       },
       "answer": "C",
-      "solution": "Using Bernoullie\\u\u2082\u2080\u2081\u2089s equation v_2 = \\sqrt v_1^2 + 2gh <br><br> Equation of continuity<br> A<sub>1</sub>V<sub>1</sub> = A<sub>2</sub>V<sub>2</sub><br><br> (1 cm<sup>3</sup>)(1m/s) = \\left( A_2 \\right)\\left( \\sqrt \\left( 1 \\right)^2 + 2 \u00d7 10 \u00d7 15 \\over 100 \\right)<br><br> \\Rightarrow A_2\\left( \\ln cm^2 \\right) = 1 \\over 2<br><br> \\Rightarrow A_2 = 5 \u00d7 10^ - 5m^2",
+      "solution": "Using Bernoullie\\u\u2082\u2080\u2081\u2089s equation v_2 = \\sqrt v_1^2 + 2gh <br><br> Equation of continuity<br> A<sub>1</sub>V<sub>1</sub> = A<sub>2</sub>V<sub>2</sub><br><br> (1 cm<sup>3</sup>)(1m/s) = ( A_2 \\)( \\sqrt ( 1 \\)^2 + 2 \u00d7 10 \u00d7 15 \\over 100 \\)<br><br> \\Rightarrow A_2( \\ln cm^2 \\) = 1 \\over 2<br><br> \\Rightarrow A_2 = 5 \u00d7 10^ - 5m^2",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1437,14 +1377,14 @@
         "D": "81 \\over 256"
       },
       "answer": "B",
-      "solution": "Using equation of continuity <br><br>A<sub>1</sub>V<sub>1</sub> = A<sub>2</sub>V<sub>2</sub> <br><br> \\Rightarrow V_1 \\over V_2 = A_2 \\over A_1 = \\left( 4.8 \\over 6.4 \\right)^2 = 9 \\over 16",
+      "solution": "Using equation of continuity <br><br>A<sub>1</sub>V<sub>1</sub> = A<sub>2</sub>V<sub>2</sub> <br><br> \\Rightarrow V_1 \\over V_2 = A_2 \\over A_1 = ( 4.8 \\over 6.4 \\)^2 = 9 \\over 16",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "A hydraulic automobile lift is designed to lift vehicles of mass 5000 kg. The area of cross section of the cylinder carrying the load is 250 cm^2. The maximum pressure the smaller piston would have to bear is \\left[\\right. Assume \\left.g=10 m / s^2\\right]",
+      "question": "A hydraulic automobile lift is designed to lift vehicles of mass 5000 kg. The area of cross section of the cylinder carrying the load is 250 cm^2. The maximum pressure the smaller piston would have to bear is \\left[\\. Assume \\left.g=10 m / s^2\\]",
       "options": {
         "A": "20 \u00d7 10^+6 Pa",
         "B": "200 \u00d7 10^+6 Pa",
@@ -1452,7 +1392,7 @@
         "D": "2 \u00d7 10^+6 Pa"
       },
       "answer": "D",
-      "solution": "A hydraulic lift works based on Pascal's principle, which states that the pressure applied at one point in an incompressible fluid is transmitted equally in all directions. The force exerted by the car on the hydraulic fluid is equal to the weight of the car, which is F = mg, where m is the mass of the car and g is the acceleration due to gravity. Substituting the given values, we get: F = 5000 \\, \\textkg \u00d7 10 \\, \\textm/s^2 = 50000 \\, \\textN The pressure exerted by the car on the hydraulic fluid is equal to the force divided by the area over which the force is distributed, which is P = \\fracFA, where A is the cross-sectional area of the cylinder carrying the load. However, the given area is in cm\u00b2, so we need to convert it to m\u00b2. We know that 1 m\u00b2 = 10,000 cm\u00b2, so: A = 250 \\, \\textcm^2 \u00d7 \\frac\u2081 \\, \\textm^210000 \\, \\textcm^2 = 0.025 \\, \\textm^2 Substituting the values of force and area into the formula for pressure, we get: P = \\frac\u2085\u2080\u2080\u2080\u2080 \\, \\textN\u2080.025 \\, \\textm^2 = 2 \u00d7 10^6 \\, \\textPa",
+      "solution": "A hydraulic lift works based on Pascal's principle, which states that the pressure applied at one point in an incompressible fluid is transmitted equally in all directions. The force exerted by the car on the hydraulic fluid is equal to the weight of the car, which is F = mg, where m is the mass of the car and g is the acceleration due to gravity. Substituting the given values, we get: F = 5000 \\, kg \u00d7 10 \\, m/s^2 = 50000 \\, N The pressure exerted by the car on the hydraulic fluid is equal to the force divided by the area over which the force is distributed, which is P = \\fracFA, where A is the cross-sectional area of the cylinder carrying the load. However, the given area is in cm\u00b2, so we need to convert it to m\u00b2. We know that 1 m\u00b2 = 10,000 cm\u00b2, so: A = 250 \\, cm^2 \u00d7 \\frac\u2081 \\, m^210000 \\, cm^2 = 0.025 \\, m^2 Substituting the values of force and area into the formula for pressure, we get: P = \\frac\u2085\u2080\u2080\u2080\u2080 \\, N\u2080.025 \\, m^2 = 2 \u00d7 10^6 \\, Pa",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1462,12 +1402,12 @@
       "question": "load of mass M kg is suspended from a steel wire of length 2m and radius 1.0 mm in Searle's apparatus experiment. The increase in length produced in the wire is 4.0 mm. Now the load is fully immersed in a liquid of relative density 2. The relative density of the material of load is 8. <br/><br/>The new value of increase in length of the steel wire is:",
       "options": {
         "A": "5.0 mm",
-        "B": "zero",
+        "B": "Zero",
         "C": "3.0 mm",
         "D": "4.0 mm"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2083\u2080\u2082/exam_images/jfkxesusfreh\u2089xf\u2085embo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Properties of Matter Question 206 English Explanation\"> <br>F \\over A = y.\\Delta \\ell \\over \\ell <br><br>\\Delta \\ell \\propto F . . .. (i) <br><br>T = mg <br><br>T = mg - f<sub>B</sub> = mg - m \\over \\rho _b.\\rho _\\ell .g <br><br> = \\left( 1 - \\rho _\\ell \\over \\rho _b \\right) mg <br><br> = \\left( 1 - 2 \\over 8 \\right) mg <br><br>T' = 3 \\over 4 mg <br><br>From (i) <br><br>\\Delta \\ell ' \\over \\Delta \\ell = T' \\over T = 3 \\over 4 <br><br>\\Delta \\ell ' = 3 \\over 4.\\Delta \\ell = 3 mm",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2083\u2080\u2082/exam_images/jfkxesusfreh\u2089xf\u2085embo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Properties of Matter Question 206 English Explanation\"> <br>F \\over A = y.\\Delta \\ell \\over \\ell <br><br>\\Delta \\ell \\propto F . . .. (i) <br><br>T = mg <br><br>T = mg - f<sub>B</sub> = mg - m \\over \\rho _b.\\rho _\\ell .g <br><br> = ( 1 - \\rho _\\ell \\over \\rho _b \\) mg <br><br> = ( 1 - 2 \\over 8 \\) mg <br><br>T' = 3 \\over 4 mg <br><br>From (i) <br><br>\\Delta \\ell ' \\over \\Delta \\ell = T' \\over T = 3 \\over 4 <br><br>\\Delta \\ell ' = 3 \\over 4.\\Delta \\ell = 3 mm",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1491,13 +1431,13 @@
     {
       "question": "cube of metal is subjected to a hydrostatic pressure of 4 GPa. The percentage change in the length of the side of the cube is close to : <br/>(Given bulk modulus of metal, B = 8 \u00d7 10<sup>10</sup> Pa)",
       "options": {
-        "A": "0.6",
-        "B": "20",
-        "C": "1.67",
-        "D": "5"
+        "A": "0.6%",
+        "B": "20%",
+        "C": "1.67%",
+        "D": "5%"
       },
       "answer": "C",
-      "solution": "Bulk Modulus, B = \\left( - \\right)\\Delta P \\over \\Delta V/V <br><br>\\Delta P = -\\left( \\Delta V \\over V \\right).B<br><br> = -3\\Delta L \\over L \u00d7 B<br><br> \\therefore |\\Delta L \\over L| = \\Delta P \\over 3B <br><br> \\therefore % change, \\Delta L \\over L \u00d7 100\\% <br><br>= 1 \\over 3\\Delta P \\over B \u00d7 100 <br><br>= 4 \u00d7 10^9 \\over 8 \u00d7 10^10 \u00d7 100 <br><br>= 1 \\over 60 \u00d7 100 = 1.67",
+      "solution": "Bulk Modulus, B = ( - \\)\\Delta P \\over \\Delta V/V <br><br>\\Delta P = -( \\Delta V \\over V \\).B<br><br> = -3\\Delta L \\over L \u00d7 B<br><br> \\therefore |\\Delta L \\over L| = \\Delta P \\over 3B <br><br> \\therefore % change, \\Delta L \\over L \u00d7 100\\% <br><br>= 1 \\over 3\\Delta P \\over B \u00d7 100 <br><br>= 4 \u00d7 10^9 \\over 8 \u00d7 10^10 \u00d7 100 <br><br>= 1 \\over 60 \u00d7 100 = 1.67",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1527,7 +1467,7 @@
         "D": "12 \u00d7 10<sup>8</sup> Nm<sup>-2</sup>"
       },
       "answer": "C",
-      "solution": "\\because B = \\Delta P \\over \\left( - \\Delta V \\over V \\right) \\Rightarrow \\Delta P = 3 \u00d7 10^10 \u00d7 (0.02) = 6 \u00d7 10^8 N/m<sup>2</sup>",
+      "solution": "\\because B = \\Delta P \\over ( - \\Delta V \\over V \\) \\Rightarrow \\Delta P = 3 \u00d7 10^10 \u00d7 (0.02) = 6 \u00d7 10^8 N/m<sup>2</sup>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1557,7 +1497,7 @@
         "D": "43<sup>o</sup>C"
       },
       "answer": "D",
-      "solution": "Time taken to cool from 60^\\circC to 50^\\circC = 10 minutes Temperature of surroundings = 25^\\circC Temperature of body in next 10 minutes = T Therefore, 60 - 50 \\over 10\\,\\min = k_B\\left[ 60 + 50 \\over 2 - 25 \\right] \\Rightarrow k_B\u2083\u2080 = 1 ...... (1) and 60 - T \\over 20\\,\\min = k_B\\left[ 60 + T \\over 2 - 25 \\right] = k_B\\left[ 60 + T - 50 \\over 2 \\right] ..... (2) Taking ratio of Eqs. (1) and (2), we get 20 \\over 60 - T = 30k_B \\over k_B\\left( 10 + T \\over 2 \\right) \\Rightarrow 20 \\over 60 - T = 30 \\over 5 + T/2 \\Rightarrow 20\\left( 5 + T \\over 2 \\right) = 30(60 - T) \\Rightarrow 100 + T\u2081\u2080 = 1800 - 30T \\Rightarrow 1800 - 100 = 30T + 10T \\Rightarrow 1700 = 40T \\Rightarrow T = 1700 \\over 40 = 42.5^\\circ C \\sim 43^\\circ C",
+      "solution": "Time taken to cool from 60^\\circC to 50^\\circC = 10 minutes Temperature of surroundings = 25^\\circC Temperature of body in next 10 minutes = T Therefore, 60 - 50 \\over 10\\,\\min = k_B\\left[ 60 + 50 \\over 2 - 25 \\] \\Rightarrow k_B\u2083\u2080 = 1 ...... (1) and 60 - T \\over 20\\,\\min = k_B\\left[ 60 + T \\over 2 - 25 \\] = k_B\\left[ 60 + T - 50 \\over 2 \\] ..... (2) Taking ratio of Eqs. (1) and (2), we get 20 \\over 60 - T = 30k_B \\over k_B( 10 + T \\over 2 \\) \\Rightarrow 20 \\over 60 - T = 30 \\over 5 + T/2 \\Rightarrow 20( 5 + T \\over 2 \\) = 30(60 - T) \\Rightarrow 100 + T\u2081\u2080 = 1800 - 30T \\Rightarrow 1800 - 100 = 30T + 10T \\Rightarrow 1700 = 40T \\Rightarrow T = 1700 \\over 40 = 42.5^\\circ C \\sim 43^\\circ C",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -1572,7 +1512,7 @@
         "D": "28<sup>o</sup>C"
       },
       "answer": "C",
-      "solution": "\\Delta T \\over \\Delta t = k\\left( T_f + T_i \\over 2 - T_0 \\right)<br><br> \\Rightarrow 50 - 40 \\over 300 = k\\left( 90 \\over 2 - 20 \\right)<br><br> \\Rightarrow 40 - T \\over 300 = k\\left( 40 + T \\over 2 - 20 \\right)<br><br> \\Rightarrow 10 \\over 40 - T = 25 \u00d7 2 \\over 40 + T - 40<br><br> \\Rightarrow 1 \\over 40 - T = 5 \\over T<br><br> \\Rightarrow T = 200 - 5T<br><br> \\Rightarrow 6T = 200<br><br> \\Rightarrow T = 33^\\circ C",
+      "solution": "\\Delta T \\over \\Delta t = k( T_f + T_i \\over 2 - T_0 \\)<br><br> \\Rightarrow 50 - 40 \\over 300 = k( 90 \\over 2 - 20 \\)<br><br> \\Rightarrow 40 - T \\over 300 = k( 40 + T \\over 2 - 20 \\)<br><br> \\Rightarrow 10 \\over 40 - T = 25 \u00d7 2 \\over 40 + T - 40<br><br> \\Rightarrow 1 \\over 40 - T = 5 \\over T<br><br> \\Rightarrow T = 200 - 5T<br><br> \\Rightarrow 6T = 200<br><br> \\Rightarrow T = 33^\\circ C",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1587,7 +1527,7 @@
         "D": "6 min."
       },
       "answer": "D",
-      "solution": "\\Delta T \\over \\Delta t = K(T_t - T_s)<br><br>T<sub>t</sub> = average temp.<br><br><sub>T</sub> = surrounding temp.<br><br>61 - 59 \\over 4 = K\\left( 61 + 59 \\over 2 - 30 \\right) ..... (1)<br><br>51 - 49 \\over t = K\\left( 51 + 49 \\over 2 - 30 \\right) ..... (2)<br><br>Divide (1) & (2)<br><br>t \\over 4 = 60 - 30 \\over 50 - 30 = 30 \\over 20<br><br>So, t = 6 minutes.",
+      "solution": "\\Delta T \\over \\Delta t = K(T_t - T_s)<br><br>T<sub>t</sub> = average temp.<br><br><sub>T</sub> = surrounding temp.<br><br>61 - 59 \\over 4 = K( 61 + 59 \\over 2 - 30 \\) ..... (1)<br><br>51 - 49 \\over t = K( 51 + 49 \\over 2 - 30 \\) ..... (2)<br><br>Divide (1) & (2)<br><br>t \\over 4 = 60 - 30 \\over 50 - 30 = 30 \\over 20<br><br>So, t = 6 minutes.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1602,7 +1542,7 @@
         "D": "1 minute"
       },
       "answer": "C",
-      "solution": "From Newton's law of cooling. <br/><br/> \\fracd Td t=-k\\left(T-T_s\\right) <br/><br/> Case I: d T=12^\\circ C, d t=2 \\min <br/><br/> \\frac\u2081\u2082\u2082=-k\\left[92-22^\\circ\\right]=-k 70 <br/><br/> Case II : d T=6^\\circ C <br/><br/> \\frac\u2086d t=-k[72-22]=-k 50 <br/><br/> From (1) and (2) <br/><br/> d t=1.4 min",
+      "solution": "From Newton's law of cooling. <br/><br/> \\fracd Td t=-k(T-T_s\\) <br/><br/> Case I: d T=12^\\circ C, d t=2 \\min <br/><br/> \\frac\u2081\u2082\u2082=-k\\left[92-22^\\circ\\]=-k 70 <br/><br/> Case II : d T=6^\\circ C <br/><br/> \\frac\u2086d t=-k[72-22]=-k 50 <br/><br/> From (1) and (2) <br/><br/> d t=1.4 min",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1624,15 +1564,15 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "The number density of molecules of a gas depends on their distance r from the origin as, n\\left( r \\right) = n_0e^ - \\alpha r^4. Then the total number of molecules is proportional to :",
+      "question": "The number density of molecules of a gas depends on their distance r from the origin as, n( r \\) = n_0e^ - \\alpha r^4. Then the total number of molecules is proportional to :",
       "options": {
-        "A": "n_0\\alpha ^ - 3/4",
-        "B": "n_0\\alpha ^ - 3",
-        "C": "n_0\\alpha ^1/4",
+        "A": "N_0\\alpha ^ - 3/4",
+        "B": "N_0\\alpha ^ - 3",
+        "C": "N_0\\alpha ^1/4",
         "D": "\\sqrt n_0 \\alpha ^1/2"
       },
       "answer": "A",
-      "solution": "Lets take an element hollow sphere of thickness dr <br><br>Vol. of element dV = 4\\pi r<sup>2</sup>dr <br><br>Total number of molecules, <br><br>N = \\int\\limits_0^\\infty n\\,dV <br><br> = \\int\\limits_0^\\infty n_0e^ - \\alpha r^4\\,4\\pi r^2dr <br><br>Let e^ - \\alpha r^4 = t ......................(1) <br><br> \\therefore - 4\\alpha e^ - \\alpha r^4r^3dr = dt <br><br> \\Rightarrow dt \\over - 4\\alpha r = e^ - \\alpha r^4r^2dr .....................(2) <br><br>Taking \\ln to the both sides of the equation (1), we get <br><br>\\ln\\left( t \\right) = - \\alpha r^4 <br><br> \\Rightarrow r = \\left( \\ln t \\over - \\alpha \\right)^1 \\over 4 .......(3) <br><br>Putting this value of r in equation (2), <br><br>dt \\over - 4\\alpha \\left( \\ln t \\over - \\alpha \\right)^1 \\over 4 = e^ - \\alpha r^4r^2dr <br><br> \\Rightarrow \\alpha ^ - 3 \\over 4dt \\over - 4\\left( - \\ln t \\right)^1 \\over 4 = e^ - \\alpha r^4r^2dr <br><br>Putting in the integration, we get <br><br>N = n_04\\pi \\int\\limits_1^0 \\alpha ^ - 3 \\over 4dt \\over - 4\\left( - \\ln t \\right)^1 \\over 4 <br><br> = - n_0\\alpha ^ - 3 \\over 4\\pi \\int\\limits_1^0 dt \\over \\left( - \\ln t \\right)^1 \\over 4 <br><br> \\therefore N \\propto n_0\\alpha ^ - 3 \\over 4",
+      "solution": "Lets take an element hollow sphere of thickness dr <br><br>Vol. of element dV = 4\\pi r<sup>2</sup>dr <br><br>Total number of molecules, <br><br>N = \\int\\limits_0^\\infty n\\,dV <br><br> = \\int\\limits_0^\\infty n_0e^ - \\alpha r^4\\,4\\pi r^2dr <br><br>Let e^ - \\alpha r^4 = t ......................(1) <br><br> \\therefore - 4\\alpha e^ - \\alpha r^4r^3dr = dt <br><br> \\Rightarrow dt \\over - 4\\alpha r = e^ - \\alpha r^4r^2dr .....................(2) <br><br>Taking \\ln to the both sides of the equation (1), we get <br><br>\\ln( t \\) = - \\alpha r^4 <br><br> \\Rightarrow r = ( \\ln t \\over - \\alpha \\)^1 \\over 4 .......(3) <br><br>Putting this value of r in equation (2), <br><br>dt \\over - 4\\alpha ( \\ln t \\over - \\alpha \\)^1 \\over 4 = e^ - \\alpha r^4r^2dr <br><br> \\Rightarrow \\alpha ^ - 3 \\over 4dt \\over - 4( - \\ln t \\)^1 \\over 4 = e^ - \\alpha r^4r^2dr <br><br>Putting in the integration, we get <br><br>N = n_04\\pi \\int\\limits_1^0 \\alpha ^ - 3 \\over 4dt \\over - 4( - \\ln t \\)^1 \\over 4 <br><br> = - n_0\\alpha ^ - 3 \\over 4\\pi \\int\\limits_1^0 dt \\over ( - \\ln t \\)^1 \\over 4 <br><br> \\therefore N \\propto n_0\\alpha ^ - 3 \\over 4",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1647,14 +1587,14 @@
         "D": "46.3 kg"
       },
       "answer": "B",
-      "solution": "Given \\left( 50 \\right)^3 \u00d7 30 \\over 100 \u00d7 \\left( 1 \\right) \u00d7 g = M_cubeg ...(i)<br><br> Let m mass should be placed<br><br> Hence (50)<sup>3</sup> \u00d7 (1) \u00d7 g = (M<sub>cube</sub> + m)g \u2026(ii)<br><br> equation (ii) \u2013 equation (i)<br><br> \\Rightarrow mg = (50)<sup>3</sup> \u00d7 g(1 \u2013 0.3) = 125 \u00d7 0.7 \u00d7 10<sup>3</sup> g<br><br> \\Rightarrow m = 87.5 kg",
+      "solution": "Given ( 50 \\)^3 \u00d7 30 \\over 100 \u00d7 ( 1 \\) \u00d7 g = M_cubeg ...(i)<br><br> Let m mass should be placed<br><br> Hence (50)<sup>3</sup> \u00d7 (1) \u00d7 g = (M<sub>cube</sub> + m)g \u2026(ii)<br><br> equation (ii) \u2013 equation (i)<br><br> \\Rightarrow mg = (50)<sup>3</sup> \u00d7 g(1 \u2013 0.3) = 125 \u00d7 0.7 \u00d7 10<sup>3</sup> g<br><br> \\Rightarrow m = 87.5 kg",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Consider a solid sphere of radius R and mass density<br/> \\rho \\left( r \\right) = \\rho _0\\left( 1 - r^2 \\over R^2 \\right) , 0 < r \\le R<br/> The minimum density of a liquid in which it will float is :",
+      "question": "Consider a solid sphere of radius R and mass density<br/> \\rho ( r \\) = \\rho _0( 1 - r^2 \\over R^2 \\) , 0 < r \\le R<br/> The minimum density of a liquid in which it will float is :",
       "options": {
         "A": "2\\rho _0 \\over 3",
         "B": "2\\rho _0 \\over 5",
@@ -1662,7 +1602,7 @@
         "D": "\\rho _0 \\over 3"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2082\u2082/exam_images/v\u2081wrvn\u2083pphz\u2080japnird\u2080.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Properties of Matter Question 186 English Explanation\"> <br>Mass of solid = \\int\\limits_0^R \\rho dV <br><br>= \\int\\limits_0^R \\rho _0\\left( 1 - r^2 \\over R^2 \\right)\u2084\\pi r^2dr <br><br>= \\rho _04\\pi \\left[ \\int\\limits_0^R r^2dr - 1 \\over R^2\\int\\limits_0^R r^4dr \\right] <br><br>= \\rho _04\\pi \\left[ R^3 \\over 3 - R^5 \\over 5 \\right] <br><br>= \\rho _08\\pi R^3 \\over 15 <br><br>For minimum density of liquid, solid sphere has to float (completely immersed) in the liquid. <br><br>So Weight of the sphere = Buoyant force <br><br>mg = F<sub>b</sub> <br><br> \\Rightarrow \\rho _08\\pi R^3 \\over 15g = \\rho _l\u2084 \\over 3\\pi R^3g <br><br> \\Rightarrow \\rho _l = 2\\rho _0 \\over 5",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2082\u2082/exam_images/v\u2081wrvn\u2083pphz\u2080japnird\u2080.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Properties of Matter Question 186 English Explanation\"> <br>Mass of solid = \\int\\limits_0^R \\rho dV <br><br>= \\int\\limits_0^R \\rho _0( 1 - r^2 \\over R^2 \\)\u2084\\pi r^2dr <br><br>= \\rho _04\\pi \\left[ \\int\\limits_0^R r^2dr - 1 \\over R^2\\int\\limits_0^R r^4dr \\] <br><br>= \\rho _04\\pi \\left[ R^3 \\over 3 - R^5 \\over 5 \\] <br><br>= \\rho _08\\pi R^3 \\over 15 <br><br>For minimum density of liquid, solid sphere has to float (completely immersed) in the liquid. <br><br>So Weight of the sphere = Buoyant force <br><br>mg = F<sub>b</sub> <br><br> \\Rightarrow \\rho _08\\pi R^3 \\over 15g = \\rho _l\u2084 \\over 3\\pi R^3g <br><br> \\Rightarrow \\rho _l = 2\\rho _0 \\over 5",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1677,14 +1617,14 @@
         "D": "278 kPa"
       },
       "answer": "D",
-      "solution": "P_\\text in =270 kPa, T_\\text in =27^\\circ C <br/><br/> =300 K <br/><br/> T_\\text final =36^\\circ C=309 K <br/><br/> Hence we can consider process to be isochoric volume constant <br/><br/> \\therefore P \\propto T <br/><br/> \\fracP_\\text in P_f=\\fracT_\\text in T_f \\Rightarrow P_f=278 kPa",
+      "solution": "P_ in =270 kPa, T_ in =27^\\circ C <br/><br/> =300 K <br/><br/> T_ final =36^\\circ C=309 K <br/><br/> Hence we can consider process to be isochoric volume constant <br/><br/> \\therefore P \\propto T <br/><br/> \\fracP_ in P_f=\\fracT_ in T_f \\Rightarrow P_f=278 kPa",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements: Statement I : Pressure in a reservoir of water is same at all points at the same level of water. Statement II : The pressure applied to enclosed water is transmitted in all directions equally. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements: Statement I : Pressure in a reservoir of water is same at all points at the same level of water. Statement II : The pressure applied to enclosed water is transmitted in all directions equally. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both Statement I and Statement II are false",
         "B": "Statement I is false but Statement II is true",
@@ -1744,10 +1684,10 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements: Statement I : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in hot water. Statement II : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in cold water. In the light of the above statements, choose the most appropriate from the options given below",
+      "question": "Given below are two statements: Statement I : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in hot water. Statement II : If a capillary tube is immersed first in cold water and then in hot water, the height of capillary rise will be smaller in cold water. \nIn the light of the above statements, choose the most appropriate from the options given below",
       "options": {
         "A": "Both Statement I and Statement II are false",
-        "B": "oth Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are true",
         "C": "Statement I is true but Statement II is false",
         "D": "Statement I is false but Statement II is true"
       },
@@ -1767,7 +1707,7 @@
         "D": "1: 3"
       },
       "answer": "B",
-      "solution": "To find the ratio between the volumes of the first and the second soap bubble, we need to understand the relation between the excess pressure inside a soap bubble and its volume. The excess pressure (P) inside a soap bubble is given by the formula: P = \\frac\u2084Tr where T is the surface tension of the soap solution, and r is the radius of the soap bubble. For a soap bubble, the factor of 4 comes from having two surfaces (inner and outer), each contributing 2T/r to the pressure. Given that the excess pressure inside the first soap bubble (P_1) is thrice the excess pressure inside the second soap bubble (P_2), we can write: P_1 = 3P_2 Substituting the formula for excess pressure, we get: \\frac\u2084Tr_1 = 3 \u00d7 \\frac\u2084Tr_2 \\Rightarrow \\frac\u2081r_1 = 3 \u00d7 \\frac\u2081r_2 \\Rightarrow \\fracr_2r_1 = 3 Next, we calculate the ratio between their volumes. The volume (V) of a sphere (or a bubble) is given by: V = \\frac\u2084\u2083\\pi r^3 Thus, the volume ratio of the first bubble (V_1) to the second bubble (V_2) is: \\fracV_1V_2 = \\frac\\frac\u2084\u2083\\pi r_1^3\\frac\u2084\u2083\\pi r_2^3 = \\left(\\fracr_1r_2\\right)^3 Since we found that \\fracr_2r_1 = 3, it then follows that: \\fracV_1V_2 = \\left(\\frac\u2081\u2083\\right)^3 = \\frac\u2081\u2082\u2087 Therefore, the correct option is: Option B: 1: 27",
+      "solution": "To find the ratio between the volumes of the first and the second soap bubble, we need to understand the relation between the excess pressure inside a soap bubble and its volume. The excess pressure (P) inside a soap bubble is given by the formula: P = \\frac\u2084Tr where T is the surface tension of the soap solution, and r is the radius of the soap bubble. For a soap bubble, the factor of 4 comes from having two surfaces (inner and outer), each contributing 2T/r to the pressure. Given that the excess pressure inside the first soap bubble (P_1) is thrice the excess pressure inside the second soap bubble (P_2), we can write: P_1 = 3P_2 Substituting the formula for excess pressure, we get: \\frac\u2084Tr_1 = 3 \u00d7 \\frac\u2084Tr_2 \\Rightarrow \\frac\u2081r_1 = 3 \u00d7 \\frac\u2081r_2 \\Rightarrow \\fracr_2r_1 = 3 Next, we calculate the ratio between their volumes. The volume (V) of a sphere (or a bubble) is given by: V = \\frac\u2084\u2083\\pi r^3 Thus, the volume ratio of the first bubble (V_1) to the second bubble (V_2) is: \\fracV_1V_2 = \\frac\\frac\u2084\u2083\\pi r_1^3\\frac\u2084\u2083\\pi r_2^3 = (\\fracr_1r_2\\)^3 Since we found that \\fracr_2r_1 = 3, it then follows that: \\fracV_1V_2 = (\\frac\u2081\u2083\\)^3 = \\frac\u2081\u2082\u2087 Therefore, the correct option is: Option B: 1: 27",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1776,10 +1716,10 @@
     {
       "question": "closed organ pipe has a fundamental frequency of 1.5 kHz. The number of overtones that can be distinctly heard by a person with this organ pipe will be (Assume that the highest frequency a person can hear is 20,000 Hz)",
       "options": {
-        "A": "4",
-        "B": "7",
-        "C": "6",
-        "D": "5"
+        "A": "4%",
+        "B": "7%",
+        "C": "6%",
+        "D": "5%"
       },
       "answer": "B",
       "solution": "For closed organ pipe, resonate frequency is odd multiple of fundamental frequency. <br><br> \\therefore (2n + 1) f<sub>0</sub> \\le 20,000 <br><br>(f<sub>0</sub> is fundamental frequency = 1.5 KHz) <br><br> \\therefore n = 6 <br><br> \\therefore Total number of overtone that can be heared is 7. (0 to 6)",
@@ -1804,21 +1744,6 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Two simple harmonic motions, as shown below, are at right angles. They are combined to form Lissajous figures. <br/>x(t) = A sin (at + \\delta ) <br/>y(t) = B sin (bt) <br/><br/>Identify the <b>correct</b> match below.",
-      "options": {
-        "A": "<b>Parameters</b> A \\ne B, a = b; \\delta = 0; <br><b>Curve</b> Parabola",
-        "B": "<b>Parameters</b> A = B, a = b; \\delta = \\raise\u2080.5ex\\hbox\\scriptstyle \\pi \\kern-0.1em/\\kern-0.15em \\lower\u2080.25ex\\hbox\\scriptstyle 2 <br><b>Curve</b> Line",
-        "C": "<b>Parameters</b> A \\ne B, a = b; \\delta = \\raise\u2080.5ex\\hbox\\scriptstyle \\pi \\kern-0.1em/\\kern-0.15em \\lower\u2080.25ex\\hbox\\scriptstyle 2 <br><b>Curve</b> Ellipse",
-        "D": "<b>Parameters</b> A = B, a = 2b; \\delta = \\raise\u2080.5ex\\hbox\\scriptstyle \\pi \\kern-0.1em/\\kern-0.15em \\lower\u2080.25ex\\hbox\\scriptstyle 2 <br><b>Curve</b> Circle"
-      },
-      "answer": "C",
-      "solution": "The given simple harmonic motions to form Lissajous figures are x(t) = A\\sin (at + \\delta ) and y(t) = B\\sin (bt). For parabola, conditions should be A = B or A \\ne B, a = 2b, \\delta = \\pi/2 For line, conditions should be A = B, a = b, \\delta = \\pi For circle, condition should be A = B, a = b; \\delta = \\pi/2 For ellipse, condition should be A \\ne B, a = b; \\delta = \\pi/2 Therefore, we obtain an ellipse.",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
       "question": "simple harmonic motion is represented by : <br/><br/>y = 5 (sin 3 \\pi t + \\sqrt 3 cos 3 \\pi t) cm <br/><br/>The amplitude and time period of the motion are :",
       "options": {
         "A": "10 cm, 3 \\over 2 s",
@@ -1827,7 +1752,7 @@
         "D": "10 cm, 2 \\over 3 s"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2085\u2086/exam_images/ceb\u2085njc\u2080\u2086hlkaw\u2086tbqxd.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Simple Harmonic Motion Question 102 English Explanation\"> <br><br>y = 5[sin(3\\pi t) + \\sqrt 3 cos(3\\pi t)] <br><br>= 10sin \\left( 3\\pi t + \\pi \\over 3 \\right) <br><br>Amplitude = 10 cm <br><br>T = 2\\pi \\over w = 2\\pi \\over 3\\pi = 2 \\over 3 sec",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2085\u2086/exam_images/ceb\u2085njc\u2080\u2086hlkaw\u2086tbqxd.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Simple Harmonic Motion Question 102 English Explanation\"> <br><br>y = 5[sin(3\\pi t) + \\sqrt 3 cos(3\\pi t)] <br><br>= 10sin ( 3\\pi t + \\pi \\over 3 \\) <br><br>Amplitude = 10 cm <br><br>T = 2\\pi \\over w = 2\\pi \\over 3\\pi = 2 \\over 3 sec",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1836,10 +1761,10 @@
     {
       "question": "The function of time representing a simple harmonic motion with a period of \\pi \\over \\omega is :",
       "options": {
-        "A": "cos(\\omegat) + cos(2\\omegat) + cos(3\\omegat)",
-        "B": "sin<sup>2</sup>(\\omegat)",
-        "C": "sin(\\omegat) + cos(\\omegat)",
-        "D": "3cos\\left( \\pi \\over 4 - 2\\omega t \\right)"
+        "A": "Cos(\\omegat) + cos(2\\omegat) + cos(3\\omegat)",
+        "B": "Sin<sup>2</sup>(\\omegat)",
+        "C": "Sin(\\omegat) + cos(\\omegat)",
+        "D": "3cos( \\pi \\over 4 - 2\\omega t \\)"
       },
       "answer": "D",
       "solution": "General equation of SHM<br><br>x = A sin(\\omega't \\pm \\phi)<br><br>We know, \\omega = 2\\pi \\over T<br><br>Given, T = \\pi \\over \\omega <br><br> \\therefore \\omega' = 2\\pi \\over \\pi \\over \\omega = 2\\omega<br><br> \\therefore Equation becomes,<br><br>x = a sin(2\\omegat \\pm \\phi)<br><br>Here coefficient of t is 2\\omega.<br><br>you can see only option (D) has coefficient 2\\omega.",
@@ -1849,7 +1774,7 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "The equation of a particle executing simple harmonic motion is given by x = \\sin \\pi \\left( t + 1 \\over 3 \\right)m. At t = 1s, the speed of particle will be (Given : \\pi = 3.14)",
+      "question": "The equation of a particle executing simple harmonic motion is given by x = \\sin \\pi ( t + 1 \\over 3 \\)m. At t = 1s, the speed of particle will be (Given : \\pi = 3.14)",
       "options": {
         "A": "0 cm s<sup>-1</sup>",
         "B": "157 cm s<sup>-1</sup>",
@@ -1857,7 +1782,7 @@
         "D": "314 cm s<sup>-1</sup>"
       },
       "answer": "B",
-      "solution": "x = \\sin \\left( \\pi t + \\pi \\over 3 \\right)m \\Rightarrow dx \\over dt = \\pi \\cos \\left( \\pi t + \\pi \\over 3 \\right) = \\pi \\cos \\left( \\pi + \\pi \\over 3 \\right) at t = 1\\,s = - \\pi \\over 2 m/s or \\left| dx \\over dt \\right| = 157 cm/s",
+      "solution": "x = \\sin ( \\pi t + \\pi \\over 3 \\)m \\Rightarrow dx \\over dt = \\pi \\cos ( \\pi t + \\pi \\over 3 \\) = \\pi \\cos ( \\pi + \\pi \\over 3 \\) at t = 1\\,s = - \\pi \\over 2 m/s or \\left| dx \\over dt \\| = 157 cm/s",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1872,7 +1797,7 @@
         "D": "7.90 rad s<sup>-1</sup>"
       },
       "answer": "D",
-      "solution": "Restoring force due to pressing the bottle with small amount x, <br><br>F = - \\left( \\rho Ax \\right)g <br><br> \\Rightarrow ma = - \\left( \\rho Ax \\right)g <br><br> \\Rightarrow a = - \\left( \\rho Ag \\over m \\right)x <br><br> \\therefore \\omega ^2 = \\rho Ag \\over m = \\rho \\left( \\pi r^2 \\right)g \\over m <br><br> \\Rightarrow \\omega = \\sqrt 10^3 \u00d7 \\pi \u00d7 \\left( 2.5 \u00d7 10^ - 2 \\right)^2 \u00d7 10 \\over 310 \u00d7 10^ - 3 = 7.90 rad/s",
+      "solution": "Restoring force due to pressing the bottle with small amount x, <br><br>F = - ( \\rho Ax \\)g <br><br> \\Rightarrow ma = - ( \\rho Ax \\)g <br><br> \\Rightarrow a = - ( \\rho Ag \\over m \\)x <br><br> \\therefore \\omega ^2 = \\rho Ag \\over m = \\rho ( \\pi r^2 \\)g \\over m <br><br> \\Rightarrow \\omega = \\sqrt 10^3 \u00d7 \\pi \u00d7 ( 2.5 \u00d7 10^ - 2 \\)^2 \u00d7 10 \\over 310 \u00d7 10^ - 3 = 7.90 rad/s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1902,7 +1827,7 @@
         "D": "M<sup>-1</sup> L<sup>-3</sup> T<sup>3</sup> I"
       },
       "answer": "C",
-      "solution": "We know. resistivity (\\rho ) = RA \\over L <br><br>and conductivity = 1 \\over \\rho = 1 \\over RA <br><br>As R = V \\over \\rm I <br><br> \\therefore conductivity = L\\rm I \\over VA <br><br>Also V = \\omega \\over q = \\omega \\over it = \\left[ ML^2T^ - 2 \\right] \\over \\left[ \\rm I \\right]\\left[ T \\right] = \\left[ ML^2T^ - 3\\rm I^ - 1 \\right] <br><br> \\therefore Conductivity = \\left[ \\rmL \\right]\\left[ \\rm I \\right] \\over \\left[ ML^2T^ - 3\\rmI^ - 1 \\right]\\left[ L^2 \\right] <br><br>= \\left[ M^ - 1L^ - 3T^3\\rm I^2 \\right]",
+      "solution": "We know. resistivity (\\rho ) = RA \\over L <br><br>and conductivity = 1 \\over \\rho = 1 \\over RA <br><br>As R = V \\over \\rm I <br><br> \\therefore conductivity = L\\rm I \\over VA <br><br>Also V = \\omega \\over q = \\omega \\over it = \\left[ ML^2T^ - 2 \\] \\over \\left[ \\rm I \\]\\left[ T \\] = \\left[ ML^2T^ - 3\\rm I^ - 1 \\] <br><br> \\therefore Conductivity = \\left[ \\rmL \\]\\left[ \\rm I \\] \\over \\left[ ML^2T^ - 3\\rmI^ - 1 \\]\\left[ L^2 \\] <br><br>= \\left[ M^ - 1L^ - 3T^3\\rm I^2 \\]",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -1917,7 +1842,7 @@
         "D": "AT<sup>2</sup>M<sup>\\\u20131</sup>L<sup>\\\u20131</sup>"
       },
       "answer": "B",
-      "solution": "\\sqrt \\in _0 \\over \\mu _0 = \\in _0 \\over \\sqrt \\mu _0 \\in _0 = c \u00d7 \\in _0 <br><br> \\therefore \\left[ \\sqrt \\in _0 \\over \\mu _0 \\right] = \\left[ LT^ - 1 \\right] \u00d7 \\left[ \\in _0 \\right] <br><br>We know, F = 1 \\over 4\\pi \\in _0q^2 \\over r^2 <br><br> \\therefore \\in _0 = q^2 \\over 4\\pi r^2F <br><br> \\Rightarrow \\left[ \\in _0 \\right] = \\left[ AT \\right]^2 \\over \\left[ MLT^ - 2 \\right] \u00d7 \\left[ L^2 \\right] = \\left[ A^2M^ - 1L^ - 3T^4 \\right] <br><br> \\therefore \\left[ \\sqrt \\in _0 \\over \\mu _0 \\right] = \\left[ LT^ - 1 \\right] \u00d7 \\left[ A^2M^ - 1L^ - 3T^4 \\right] <br><br> = [A<sup>2</sup>T<sup>3</sup>M<sup>\\\u20131</sup>L<sup>\\\u20132</sup>]",
+      "solution": "\\sqrt \\in _0 \\over \\mu _0 = \\in _0 \\over \\sqrt \\mu _0 \\in _0 = c \u00d7 \\in _0 <br><br> \\therefore \\left[ \\sqrt \\in _0 \\over \\mu _0 \\] = \\left[ LT^ - 1 \\] \u00d7 \\left[ \\in _0 \\] <br><br>We know, F = 1 \\over 4\\pi \\in _0q^2 \\over r^2 <br><br> \\therefore \\in _0 = q^2 \\over 4\\pi r^2F <br><br> \\Rightarrow \\left[ \\in _0 \\] = \\left[ AT \\]^2 \\over \\left[ MLT^ - 2 \\] \u00d7 \\left[ L^2 \\] = \\left[ A^2M^ - 1L^ - 3T^4 \\] <br><br> \\therefore \\left[ \\sqrt \\in _0 \\over \\mu _0 \\] = \\left[ LT^ - 1 \\] \u00d7 \\left[ A^2M^ - 1L^ - 3T^4 \\] <br><br> = [A<sup>2</sup>T<sup>3</sup>M<sup>\\\u20131</sup>L<sup>\\\u20132</sup>]",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1954,7 +1879,7 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "An expression for a dimensionless quantity P is given by P = \\alpha \\over \\beta \\log _e\\left( kt \\over \\beta x \\right); where \\alpha and \\beta are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of \\alpha will be :",
+      "question": "An expression for a dimensionless quantity P is given by P = \\alpha \\over \\beta \\log _e( kt \\over \\beta x \\); where \\alpha and \\beta are constants, x is distance; k is Boltzmann constant and t is the temperature. Then the dimensions of \\alpha will be :",
       "options": {
         "A": "[M<sup>0</sup> L<sup>-1</sup> T<sup>0</sup>]",
         "B": "[ML<sup>0</sup> T<sup>-2</sup>]",
@@ -1962,7 +1887,7 @@
         "D": "[ML<sup>2</sup> T<sup>-2</sup>]"
       },
       "answer": "C",
-      "solution": "Given, P=\\frac\\alpha\\beta \\log _e\\left[\\frack t\\beta x\\right] <br/><br/>The logarithmic term is dimensionless. <br/><br/>Thus, [k t / \\beta x] is also dimensionless. <br/><br/>i.e. \\frac[k][t][\\beta][x]=\\left[M^0 L^0 T^0\\right] .......(i) <br/><br/>We have, E=k t <br/><br/>Thus, Eq. (i) becomes, <br/><br/> \\beginarrayr \\frac\\left[M^1 L^2 T^-2\\right][\\beta]\\left[L^1\\right]=\\left[M^0 L^0 T^0\\right] \\\\\\\\ [\\beta]=\\left[MLT^-2\\right] \\endarray <br/><br/>Since, P is also a dimensionless quantity. <br/><br/> \\beginaligned &\\frac[\\alpha][\\beta]=\\left[M^0 L^0 T^0\\right] \\\\\\\\ &[\\alpha]=[\\beta]\\left[M^0 L^0 T^0\\right] \\\\\\\\ &[\\alpha]=\\left[M^1 L^1 T^-2\\right]=\\left[MLT^-2\\right] \\endaligned",
+      "solution": "Given, P=\\frac\\alpha\\beta \\log _e\\left[\\frack t\\beta x\\] <br/><br/>The logarithmic term is dimensionless. <br/><br/>Thus, [k t / \\beta x] is also dimensionless. <br/><br/>i.e. \\frac[k][t][\\beta][x]=\\left[M^0 L^0 T^0\\] .......(i) <br/><br/>We have, E=k t <br/><br/>Thus, Eq. (i) becomes, <br/><br/> \\beginarrayr \\frac\\left[M^1 L^2 T^-2\\][\\beta]\\left[L^1\\]=\\left[M^0 L^0 T^0\\] \\\\\\\\ [\\beta]=\\left[MLT^-2\\] \\endarray <br/><br/>Since, P is also a dimensionless quantity. <br/><br/> \\beginaligned &\\frac[\\alpha][\\beta]=\\left[M^0 L^0 T^0\\] \\\\\\\\ &[\\alpha]=[\\beta]\\left[M^0 L^0 T^0\\] \\\\\\\\ &[\\alpha]=\\left[M^1 L^1 T^-2\\]=\\left[MLT^-2\\] \\endaligned",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1971,10 +1896,10 @@
     {
       "question": "Identify the pair of physical quantities that have same dimensions:",
       "options": {
-        "A": "velocity gradient and decay constant",
+        "A": "Velocity gradient and decay constant",
         "B": "Wien's constant and Stefan constant",
-        "C": "angular frequency and angular momentum",
-        "D": "wave number and Avogadro number"
+        "C": "Angular frequency and angular momentum",
+        "D": "Wave number and Avogadro number"
       },
       "answer": "A",
       "solution": "Velocity gradient = dv \\over dx \\Rightarrow Dimensions are [LT^ - 1] \\over [L] = [T^ - 1] Decay constant \\lambda has dimensions of [T^ - 1] because of the relation dN \\over dt = - \\lambda N \\Rightarrow Velocity gradient and decay constant have same dimensions.",
@@ -1988,7 +1913,7 @@
       "options": {
         "A": "Wave number and Rydberg's constant",
         "B": "Stress and Coefficient of elasticity",
-        "C": "oercivity and Magnetisation",
+        "C": "Oercivity and Magnetisation",
         "D": "Specific heat capacity and Latent heat"
       },
       "answer": "D",
@@ -1999,15 +1924,15 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "The equation of a circle is given by x^2+y^2=a^2, where a is the radius. If the equation is modified to change the origin other than (0, 0), then find out the correct dimensions of A and B in a new equation : (x - At)^2 + \\left( y - t \\over B \\right)^2 = a^2. The dimensions of t is given as [T^-1].",
+      "question": "The equation of a circle is given by x^2+y^2=a^2, where a is the radius. If the equation is modified to change the origin other than (0, 0), then find out the correct dimensions of A and B in a new equation : (x - At)^2 + ( y - t \\over B \\)^2 = a^2. The dimensions of t is given as [T^-1].",
       "options": {
-        "A": "A=[L^-1T^-1],B=[LT^-1]",
+        "A": "=[L^-1T^-1],B=[LT^-1]",
         "B": "A=[L^-1T^-1],B=[LT]",
         "C": "A=[LT],B=[L^-1T^-1]",
         "D": "A=[L^-1T],B=[LT^-1]"
       },
       "answer": "C",
-      "solution": "Here, At is distance, so dimensions of [At] = [x] = [L] Given. The dimensions of t is [T^-1] \\left[A \u00d7 T^-1\\right]=[L] \\Rightarrow[A]=[LT] \\left[ t \\over B \\right] = [y] = [L] \\Rightarrow \\fracT^-1[B]=[L] \\Rightarrow B=\\left[L^-1 T^-1\\right]",
+      "solution": "Here, At is distance, so dimensions of [At] = [x] = [L] Given. The dimensions of t is [T^-1] \\left[A \u00d7 T^-1\\]=[L] \\Rightarrow[A]=[LT] \\left[ t \\over B \\] = [y] = [L] \\Rightarrow \\fracT^-1[B]=[L] \\Rightarrow B=\\left[L^-1 T^-1\\]",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -2016,13 +1941,13 @@
     {
       "question": "The dimensional formula of angular impulse is :",
       "options": {
-        "A": "\\left[ML^2 T^-2\\right]",
-        "B": "\\left[ML^-2 T^-1\\right]",
-        "C": "\\left[ML^2 T^-1\\right]",
-        "D": "\\left[ML T^-1\\right]"
+        "A": "\\left[ML^2 T^-2\\]",
+        "B": "\\left[ML^-2 T^-1\\]",
+        "C": "\\left[ML^2 T^-1\\]",
+        "D": "\\left[ML T^-1\\]"
       },
       "answer": "C",
-      "solution": "Angular impulse is given when a torque is applied for a certain amount of time. The angular impulse changes the angular momentum of an object and has the same dimensions as angular momentum. The dimensional formula for torque \\tau is the same as that for work, since torque is a kind of rotational work, which is given by force times distance (or in rotational terms, it can be considered as force times lever arm). The dimensional formula for force is \\left[ML T^-2\\right], and when multiplied by distance \\left[L\\right], we get: \\left[Torque\\right] = \\left[ML T^-2\\right] \u00d7 \\left[L\\right] = \\left[ML^2 T^-2\\right] Now, angular impulse is torque times time, so we multiply the dimension of torque by time \\left[T\\right]: \\left[Angular\\ Impulse\\right] = \\left[ ML^2 T^-2\\right] \u00d7 \\left[T\\right] = \\left[ML^2 T^-1\\right] So the correct dimensional formula for angular impulse is given by Option C, which is \\left[ML^2 T^-1\\right].",
+      "solution": "Angular impulse is given when a torque is applied for a certain amount of time. The angular impulse changes the angular momentum of an object and has the same dimensions as angular momentum. The dimensional formula for torque \\tau is the same as that for work, since torque is a kind of rotational work, which is given by force times distance (or in rotational terms, it can be considered as force times lever arm). The dimensional formula for force is \\left[ML T^-2\\], and when multiplied by distance \\left[L\\], we get: \\left[Torque\\] = \\left[ML T^-2\\] \u00d7 \\left[L\\] = \\left[ML^2 T^-2\\] Now, angular impulse is torque times time, so we multiply the dimension of torque by time \\left[T\\]: \\left[Angular\\ Impulse\\] = \\left[ ML^2 T^-2\\] \u00d7 \\left[T\\] = \\left[ML^2 T^-1\\] So the correct dimensional formula for angular impulse is given by Option C, which is \\left[ML^2 T^-1\\].",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2034,10 +1959,10 @@
         "A": "1/3",
         "B": "-1/3",
         "C": "1/2",
-        "D": "2"
+        "D": "2%"
       },
       "answer": "C",
-      "solution": "\\beginaligned & m=kc^PG^-1 / 2 h^1 / 2 \\\\ & M^1 L^0 T^0=\\left[LT^-1\\right]^P\\left[M^-1 L^3 T^-2\\right]^-1 / 2\\left[ML^2 T^-1\\right]^1 / 2 \\endaligned By comparing P=1 / 2",
+      "solution": "\\beginaligned & m=kc^PG^-1 / 2 h^1 / 2 \\\\ & M^1 L^0 T^0=\\left[LT^-1\\]^P\\left[M^-1 L^3 T^-2\\]^-1 / 2\\left[ML^2 T^-1\\]^1 / 2 \\endaligned By comparing P=1 / 2",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2067,24 +1992,9 @@
         "D": "4260 \\pm 80 cm<sup>3</sup>"
       },
       "answer": "D",
-      "solution": "Volume of cylinder(V) = \\pi r<sup>2</sup>h <br><br>= \\pi d^2 \\over 4h <br><br>= 3.14 \u00d7 \\left( 12.6 \\right)^2 \\over 4 \u00d7 34.2 <br><br> = 4260 <br><br>\\Delta V \\over V = 2\\Delta d \\over d + \\Delta h \\over h = 2\\left( 0.1 \\over 12.6 \\right) + 0.1 \\over 34.2 = 0.0188 <br><br> \\therefore \\Delta V = 0.0188 \u00d7 4260 = 80",
+      "solution": "Volume of cylinder(V) = \\pi r<sup>2</sup>h <br><br>= \\pi d^2 \\over 4h <br><br>= 3.14 \u00d7 ( 12.6 \\)^2 \\over 4 \u00d7 34.2 <br><br> = 4260 <br><br>\\Delta V \\over V = 2\\Delta d \\over d + \\Delta h \\over h = 2( 0.1 \\over 12.6 \\) + 0.1 \\over 34.2 = 0.0188 <br><br> \\therefore \\Delta V = 0.0188 \u00d7 4260 = 80",
       "exam": "JEE Main 2019",
       "year": 2019,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "For the four sets of three measured physical quantities as given below. Which of the following options is correct ? <br/>(i) A<sub>1</sub> = 24.36, B<sub>1</sub> = 0.0724, C<sub>1</sub> = 256.2 <br/>(ii) A<sub>2</sub> = 24.44, B<sub>2</sub> = 16.082, C<sub>2</sub> = 240.2 <br/>(iii) A<sub>3</sub> = 25.2, B<sub>3</sub> = 19.2812, C<sub>3</sub> = 236.183 <br/>(iv) A<sub>4</sub> = 25, B<sub>4</sub> = 236.191, C<sub>4</sub> = 19.5",
-      "options": {
-        "A": "<sub>1</sub> + B<sub>1</sub> + C<sub>1</sub> = A<sub>2</sub> + B<sub>2</sub> + C<sub>2</sub> = A<sub>3</sub> + B<sub>3</sub> + C<sub>3</sub> = A<sub>4</sub> + B<sub>4</sub> + C<sub>4</sub>",
-        "B": "A<sub>4</sub> + B<sub>4</sub> + C<sub>4</sub> < A<sub>1</sub> + B<sub>1</sub> + C<sub>1</sub> < A<sub>3</sub> + B<sub>3</sub> + C<sub>3</sub> < A<sub>2</sub> + B<sub>2</sub> + C<sub>2</sub>",
-        "C": "A<sub>4</sub> + B<sub>4</sub> + C<sub>4</sub> < A<sub>1</sub> + B<sub>1</sub> + C<sub>1</sub> = A<sub>2</sub> + B<sub>2</sub> + C<sub>2</sub> = A<sub>3</sub> + B<sub>3</sub> + C<sub>3</sub>",
-        "D": "A<sub>4</sub> + B<sub>4</sub> + C<sub>4</sub> > A<sub>3</sub> + B<sub>3</sub> + C<sub>3</sub> = A<sub>2</sub> + B<sub>2</sub> + C<sub>2</sub> > A<sub>1</sub> + B<sub>1</sub> + C<sub>1</sub>"
-      },
-      "answer": "D",
-      "solution": "A<sub>1</sub> + B<sub>1</sub> + C<sub>1</sub> = 24.36 + 0.0724 + 256.2 <br>= 280.6324 = 280.6 (After rounding off) <br><br> A<sub>2</sub> + B<sub>2</sub> + C<sub>2</sub> = 24.44 + 16.082 + 240.2 <br>= 280.722 = 280.7 (After rounding off)<br><br> A<sub>3</sub> + B<sub>3</sub> + C<sub>3</sub> = 25.2 + 19.2812 + 236.183 <br>= 280.6642 = 280.7 (After rounding off) <br><br>A<sub>4</sub> + B<sub>4</sub> + C<sub>4</sub> = 25 + 236.191 + 19.5 <br>= 280.691 = 281 (After rounding off)",
-      "exam": "JEE Main 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
@@ -2097,7 +2007,7 @@
         "D": "12.25%"
       },
       "answer": "B",
-      "solution": "z = a^2b^2 \\over 3 \\over \\sqrt c d^3 <br><br> \\Rightarrow dz \\over z \u00d7 100 = \\left( 2da \\over a + 2 \\over 3db \\over b + 1 \\over 2dc \\over c + 3d\\left( d \\right) \\over d \\right) \u00d7 100 <br><br>% error in z <br><br>= \\left( 2 \u00d7 2 + 2 \\over 3 \u00d7 1.5 + 1 \\over 2 \u00d7 4 + 3 \u00d7 2.5 \\right) % <br><br>= ( 4 + 1 + 2 + 7.5 ) % <br><br>= 14.5 %",
+      "solution": "z = a^2b^2 \\over 3 \\over \\sqrt c d^3 <br><br> \\Rightarrow dz \\over z \u00d7 100 = ( 2da \\over a + 2 \\over 3db \\over b + 1 \\over 2dc \\over c + 3d( d \\) \\over d \\) \u00d7 100 <br><br>% error in z <br><br>= ( 2 \u00d7 2 + 2 \\over 3 \u00d7 1.5 + 1 \\over 2 \u00d7 4 + 3 \u00d7 2.5 \\) % <br><br>= ( 4 + 1 + 2 + 7.5 ) % <br><br>= 14.5 %",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -2127,22 +2037,7 @@
         "D": "7%"
       },
       "answer": "A",
-      "solution": "\\rho = m \\over V = m \\over \\pi r^2 \u00d7 l \\therefore % error in \\rho = \\left( 0.006 \\over 0.6 + 2 \u00d7 0.005 \\over 0.5 + 0.04 \\over 4 \\right) \u00d7 100 = 4\\%",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
-      "question": "If Z = A^2B^3 \\over C^4, then the relative error in Z will be :",
-      "options": {
-        "A": "\\Delta A \\over A + \\Delta B \\over B + \\Delta C \\over C",
-        "B": "2\\Delta A \\over A + 3\\Delta B \\over B - 4\\Delta C \\over C",
-        "C": "2\\Delta A \\over A + 3\\Delta B \\over B + 4\\Delta C \\over C",
-        "D": "\\Delta A \\over A + \\Delta B \\over B - \\Delta C \\over C"
-      },
-      "answer": "C",
-      "solution": "Z = A^2B^3 \\over C^4 \\therefore \\Delta Z \\over Z = 2\\Delta A \\over A + 3 \u00d7 \\Delta B \\over B + 4\\Delta C \\over C",
+      "solution": "\\rho = m \\over V = m \\over \\pi r^2 \u00d7 l \\therefore % error in \\rho = ( 0.006 \\over 0.6 + 2 \u00d7 0.005 \\over 0.5 + 0.04 \\over 4 \\) \u00d7 100 = 4\\%",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -2157,7 +2052,7 @@
         "D": "14%"
       },
       "answer": "B",
-      "solution": "The percentage error in a quantity that is a product or quotient of other quantities is given by the sum of the percentage errors in those quantities, each multiplied by the power to which it is raised in the expression for the quantity. Given the physical quantity P as P = \\fraca^2b^3c\\sqrtd The percentage error in P, denoted as \\Delta P/P, is given by: \\frac\\Delta PP = 2 \\left(\\frac\\Delta aa\\right) + 3 \\left(\\frac\\Delta bb\\right) + \\left(\\frac\\Delta cc\\right) + \\frac\u2081\u2082 \\left(\\frac\\Delta dd\\right) Substituting the given percentage errors for a, b, c, and d: \\frac\\Delta PP = 2(0.01) + 3(0.02) + 0.03 + \\frac\u2081\u2082(0.04) = 0.02 + 0.06 + 0.03 + 0.02 = 0.13 Therefore, the percentage error in P is 13%.",
+      "solution": "The percentage error in a quantity that is a product or quotient of other quantities is given by the sum of the percentage errors in those quantities, each multiplied by the power to which it is raised in the expression for the quantity. Given the physical quantity P as P = \\fraca^2b^3c\\sqrtd The percentage error in P, denoted as \\Delta P/P, is given by: \\frac\\Delta PP = 2 (\\frac\\Delta aa\\) + 3 (\\frac\\Delta bb\\) + (\\frac\\Delta cc\\) + \\frac\u2081\u2082 (\\frac\\Delta dd\\) Substituting the given percentage errors for a, b, c, and d: \\frac\\Delta PP = 2(0.01) + 3(0.02) + 0.03 + \\frac\u2081\u2082(0.04) = 0.02 + 0.06 + 0.03 + 0.02 = 0.13 Therefore, the percentage error in P is 13%.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -2187,7 +2082,7 @@
         "D": "4%"
       },
       "answer": "A",
-      "solution": "To determine the spring constant k of a spring experimentally, we can use the formula derived from Hooke's Law and the period of oscillation for a mass-spring system: T = 2 \\pi \\sqrt\\fracmk Here, T is the period of oscillation, m is the mass, and k is the spring constant. Rearranging the formula to solve for k, we get: k = \\frac\u2084 \\pi^2 mT^2 To find the error in k, we have to consider the errors in both the measurements of T and m. Let's denote the percentage errors as follows: \\Delta T / T \u00b7 100\\% = 2\\% (positive error) \\Delta m / m \u00b7 100\\% = -1\\% (negative error) According to the rules of error propagation, the relative error in k can be found by adding the relative errors in the measurements, each multiplied by the respective powers to which they affect k. Since T is squared in the denominator and m is linear in the numerator, the calculation is as follows: \\frac\\Delta kk = \\left| -2 \u00b7 \\frac\\Delta TT \\right| + \\left| 1 \u00b7 \\frac\\Delta mm \\right| Substituting the percentage errors: \\frac\\Delta kk = \\left| -2 \u00b7 0.02 \\right| + \\left| 1 \u00b7 (-0.01) \\right| \\frac\\Delta kk = 0.04 + 0.01 \\frac\\Delta kk = 0.05 Thus, the percentage error in determining the value of k is: \\frac\\Delta kk \u00b7 100\\% = 5\\% The correct answer is Option A: 5%",
+      "solution": "To determine the spring constant k of a spring experimentally, we can use the formula derived from Hooke's Law and the period of oscillation for a mass-spring system: T = 2 \\pi \\sqrt\\fracmk Here, T is the period of oscillation, m is the mass, and k is the spring constant. Rearranging the formula to solve for k, we get: k = \\frac\u2084 \\pi^2 mT^2 To find the error in k, we have to consider the errors in both the measurements of T and m. Let's denote the percentage errors as follows: \\Delta T / T \u00b7 100\\% = 2\\% (positive error) \\Delta m / m \u00b7 100\\% = -1\\% (negative error) According to the rules of error propagation, the relative error in k can be found by adding the relative errors in the measurements, each multiplied by the respective powers to which they affect k. Since T is squared in the denominator and m is linear in the numerator, the calculation is as follows: \\frac\\Delta kk = \\left| -2 \u00b7 \\frac\\Delta TT \\| + \\left| 1 \u00b7 \\frac\\Delta mm \\| Substituting the percentage errors: \\frac\\Delta kk = \\left| -2 \u00b7 0.02 \\| + \\left| 1 \u00b7 (-0.01) \\| \\frac\\Delta kk = 0.04 + 0.01 \\frac\\Delta kk = 0.05 Thus, the percentage error in determining the value of k is: \\frac\\Delta kk \u00b7 100\\% = 5\\% The correct answer is Option A: 5%",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2211,10 +2106,10 @@
     {
       "question": "The least count of the main scale of a screw gauge is 1 mm. The minimum number of divisions on its circular scale required to measure 5 \\mu m diameter of a wire is :",
       "options": {
-        "A": "500",
-        "B": "100",
-        "C": "200",
-        "D": "50"
+        "A": "500%",
+        "B": "100%",
+        "C": "200%",
+        "D": "50%"
       },
       "answer": "C",
       "solution": "Least count = Pitch \\over Number\\,\\,of\\,\\,division\\,\\,on\\,\\,circular\\,scale <br><br>5 \u00d7 10<sup>-6</sup> = 10^ - 3 \\over N <br><br>N = 200",
@@ -2247,7 +2142,7 @@
         "D": "3.35 mm"
       },
       "answer": "C",
-      "solution": "<ol> <li><strong>Pitch of the screw gauge</strong>: 1 mm</li><br> <li><strong>Number of divisions on the circular scale</strong>: 100 divisions</li><br> <li><strong>Zero error</strong>: The zero of the circular scale lies 5 divisions below the reference line, indicating a positive zero error.</li><br> <li><strong>Measurement data</strong>:</li> </ol> <ul> <li>4 linear scale divisions are visible.</li><br> <li>60 divisions on the circular scale coincide with the reference line.</li> </ul> Step-by-Step Calculation <ol> <li><strong>Least Count of the screw gauge</strong>:</li> </ol> \\textLeast Count = \\frac\\textPitch\\textNumber of Divisions on Circular Scale = \\frac\u2081 \\text mm\u2081\u2080\u2080 = 0.01 \\text mm <ol> <li><strong>Main Scale Reading (MSR)</strong>:</li> </ol> The linear scale shows 4 divisions, so the main scale reading is: \\textMSR = 4 \\text mm <ol> <li><strong>Circular Scale Reading (CSR)</strong>:</li> </ol> 60 divisions coincide with the reference line, so the circular scale reading is: \\textCSR = 60 \u00d7 \\textLeast Count = 60 \u00d7 0.01 \\text mm = 0.60 \\text mm <ol> <li><strong>Zero Error</strong>:</li> </ol> The zero error is 5 divisions below the reference line, indicating a positive zero error: \\textZero Error = +5 \u00d7 \\textLeast Count = +5 \u00d7 0.01 \\text mm = +0.05 \\text mm <ol> <li><strong>Total Reading without considering zero error</strong>:</li> </ol> \\textTotal Reading (without zero error) = \\textMSR + \\textCSR = 4 \\text mm + 0.60 \\text mm = 4.60 \\text mm <ol> <li><strong>Corrected Reading considering zero error</strong>:</li> </ol> Since the zero error is positive, we subtract it from the total reading: \\textCorrected Reading = \\textTotal Reading (without zero error) - \\textZero Error = 4.60 \\text mm - 0.05 \\text mm = 4.55 \\text mm Conclusion The diameter of the wire is: Option C: 4.55 mm",
+      "solution": "<ol> <li><strong>Pitch of the screw gauge</strong>: 1 mm</li><br> <li><strong>Number of divisions on the circular scale</strong>: 100 divisions</li><br> <li><strong>Zero error</strong>: The zero of the circular scale lies 5 divisions below the reference line, indicating a positive zero error.</li><br> <li><strong>Measurement data</strong>:</li> </ol> <ul> <li>4 linear scale divisions are visible.</li><br> <li>60 divisions on the circular scale coincide with the reference line.</li> </ul> Step-by-Step Calculation <ol> <li><strong>Least Count of the screw gauge</strong>:</li> </ol> Least Count = \\fracPitchNumber of Divisions on Circular Scale = \\frac\u2081 mm\u2081\u2080\u2080 = 0.01 mm <ol> <li><strong>Main Scale Reading (MSR)</strong>:</li> </ol> The linear scale shows 4 divisions, so the main scale reading is: MSR = 4 mm <ol> <li><strong>Circular Scale Reading (CSR)</strong>:</li> </ol> 60 divisions coincide with the reference line, so the circular scale reading is: CSR = 60 \u00d7 Least Count = 60 \u00d7 0.01 mm = 0.60 mm <ol> <li><strong>Zero Error</strong>:</li> </ol> The zero error is 5 divisions below the reference line, indicating a positive zero error: Zero Error = +5 \u00d7 Least Count = +5 \u00d7 0.01 mm = +0.05 mm <ol> <li><strong>Total Reading without considering zero error</strong>:</li> </ol> Total Reading (without zero error) = MSR + CSR = 4 mm + 0.60 mm = 4.60 mm <ol> <li><strong>Corrected Reading considering zero error</strong>:</li> </ol> Since the zero error is positive, we subtract it from the total reading: Corrected Reading = Total Reading (without zero error) - Zero Error = 4.60 mm - 0.05 mm = 4.55 mm Conclusion The diameter of the wire is: Option C: 4.55 mm",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2256,40 +2151,25 @@
     {
       "question": "The density of a material in SI units is 128 kg m<sup>\\\u20133</sup> . In certain units in which the unit of length is 25 cm and the unit of mass is 50 g, the numerical value of density of the material is -",
       "options": {
-        "A": "40",
-        "B": "640",
-        "C": "16",
-        "D": "410"
+        "A": "40%",
+        "B": "640%",
+        "C": "16%",
+        "D": "410%"
       },
       "answer": "A",
-      "solution": "Here given that <br><br>density of a material in SI units is 128 kg m<sup>\\\u20133</sup> <br><br>And a new unit system is introduced where 1 unit of length = 25 cm and 1 unit of mass = 50 g <br><br>You should know that, physical quantity is same in any unit system. And to calculate a physical quantity yo should know two things <br><br>(1) numerical value of the physical quantity (n) <br><br>(2) unit of the physical quantity (u) <br><br>And n \u00d7 u = constant in any unit system. <br><br>Here in SI unit system, <br><br> n<sub>1</sub> = 128 <br><br>u<sub>1</sub> = kg/m<sup>3</sup> <br><br>And in new unit system, <br><br>n<sub>2</sub> = ? <br><br>u<sub>2</sub> = 50gm/(25cm)<sup>3</sup> <br><br>As n<sub>1</sub>u<sub>1</sub> = n<sub>2</sub>u<sub>2</sub> <br><br> \\therefore 128 \u00d7 (kg/m<sup>3</sup>) = n<sub>2</sub> \u00d7 50gm/(25cm)<sup>3</sup> <br><br> \\Rightarrow 128 \u00d7 1000\\,gm \\over \\left( 100\\,cm \\right)^3 = n<sub>2</sub> \u00d7 50\\,gm \\over \\left( 25\\,cm \\right)^3 <br><br> \\Rightarrow n<sub>2</sub> = 128 \u00d7 20 \\over 4^3 = 40",
+      "solution": "Here given that <br><br>density of a material in SI units is 128 kg m<sup>\\\u20133</sup> <br><br>And a new unit system is introduced where 1 unit of length = 25 cm and 1 unit of mass = 50 g <br><br>You should know that, physical quantity is same in any unit system. And to calculate a physical quantity yo should know two things <br><br>(1) numerical value of the physical quantity (n) <br><br>(2) unit of the physical quantity (u) <br><br>And n \u00d7 u = constant in any unit system. <br><br>Here in SI unit system, <br><br> n<sub>1</sub> = 128 <br><br>u<sub>1</sub> = kg/m<sup>3</sup> <br><br>And in new unit system, <br><br>n<sub>2</sub> = ? <br><br>u<sub>2</sub> = 50gm/(25cm)<sup>3</sup> <br><br>As n<sub>1</sub>u<sub>1</sub> = n<sub>2</sub>u<sub>2</sub> <br><br> \\therefore 128 \u00d7 (kg/m<sup>3</sup>) = n<sub>2</sub> \u00d7 50gm/(25cm)<sup>3</sup> <br><br> \\Rightarrow 128 \u00d7 1000\\,gm \\over ( 100\\,cm \\)^3 = n<sub>2</sub> \u00d7 50\\,gm \\over ( 25\\,cm \\)^3 <br><br> \\Rightarrow n<sub>2</sub> = 128 \u00d7 20 \\over 4^3 = 40",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "Given below are two statements : Statements I : Astronomical unit (Au), Parsec (Pc) and Light year (ly) are units for measuring astronomical distances. Statements II : Au < Parsec (Pc) < ly In the light of the above statements, choose the most appropriate answer from the options given below:",
-      "options": {
-        "A": "Both Statements I an",
-        "B": "oth Statements I an",
-        "C": "Statements I is incorrect but Statements II is correct.",
-        "D": "Statements I is correct but Statements II is incorrect."
-      },
-      "answer": "D",
-      "solution": "Statement I is correct. Astronomical unit (AU), parsec (pc), and light year (ly) are indeed units for measuring astronomical distances. <br><br> However, Statement II is incorrect. The correct order of these units is: <br><br> AU < ly < Parsec (Pc) <br><br> 1 AU is the average distance from the Earth to the Sun, which is about 93 million miles or 150 million kilometers. <br><br> 1 light year is the distance that light travels in one year in a vacuum, which is approximately 9.461 trillion kilometers (5.878 trillion miles). <br><br> 1 parsec is equal to about 3.26 light years, or approximately 30.9 trillion kilometers (19.2 trillion miles). Parsec (parallax of one arcsecond) is the distance at which an arc of length 1 Au subtends an angle of one arcsecond (1 Pc=3.26 ly). <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lq\u2083ejfpx/abd\u2084e\u2084\u2085\u2082-3758-4b\u2089c-8df\u2081-0cf\u2087b\u2086\u2087ceb\u2086\u2087/74170d\u2081\u2080-9982-11ee-a\u2085bb-83125883f\u2088\u2088\u2081/file-6y\u2083zli\u2081lq\u2083ejfq\u2089.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lq\u2083ejfpx/abd\u2084e\u2084\u2085\u2082-3758-4b\u2089c-8df\u2081-0cf\u2087b\u2086\u2087ceb\u2086\u2087/74170d\u2081\u2080-9982-11ee-a\u2085bb-83125883f\u2088\u2088\u2081/file-6y\u2083zli\u2081lq\u2083ejfq\u2089.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh; vertical-align: baseline;\" alt=\"JEE Main 2023 (Online) 11th April Morning Shift Physics - Units & Measurements Question 40 English Explanation\"> <br><br> So, the correct answer is Statement I is correct but Statement II is incorrect.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Units and Measurements"
-    },
-    {
       "question": "In an expression a \u00d7 10^b :",
       "options": {
-        "A": "a is order of magnitude for b \\leq 5",
-        "B": "b is order of magnitude for a \\leq 5",
-        "C": "b is order of magnitude for a \\geq 5",
-        "D": "b is order of magnitude for 5< a \\leq 10"
+        "A": "Is order of magnitude for b \\leq 5",
+        "B": "Is order of magnitude for a \\leq 5",
+        "C": "B is order of magnitude for a \\geq 5",
+        "D": "B is order of magnitude for 5< a \\leq 10"
       },
       "answer": "B",
       "solution": "In expression a \u00d7 10^b, If a \\leq 5 ; a \\approx 1 by round off \\Rightarrow Order B",
@@ -2318,11 +2198,11 @@
       "options": {
         "A": "10a \\over n",
         "B": "10na \\over (n - 1)",
-        "C": "\\left( n - 1 \\over 10n \\right)a",
+        "C": "( n - 1 \\over 10n \\)a",
         "D": "10a \\over (n - 1)"
       },
       "answer": "A",
-      "solution": "n VSD = (n - 1) MSD<br><br>1 VSD = \\left( n - 1 \\over n \\right)MSD<br><br>L.C. = 1 MSD - 1 VSD<br><br>= 1 MSD - \\left( n - 1 \\over n \\right)MSD<br><br>= 1 MSD - 1 MSD + MSD \\over n<br><br>= MSD \\over n<br><br>= a \\over n cm<br><br>= 10a \\over n mm",
+      "solution": "n VSD = (n - 1) MSD<br><br>1 VSD = ( n - 1 \\over n \\)MSD<br><br>L.C. = 1 MSD - 1 VSD<br><br>= 1 MSD - ( n - 1 \\over n \\)MSD<br><br>= 1 MSD - 1 MSD + MSD \\over n<br><br>= MSD \\over n<br><br>= a \\over n cm<br><br>= 10a \\over n mm",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -2352,14 +2232,14 @@
         "D": "0.005 cm"
       },
       "answer": "C",
-      "solution": "1 MSD = 1 \\over 20 cm 1 VSD = 24 \\over 25 \u00d7 1 \\over 20 cm \\therefore Least count = 1 MSD - 1 VSD = 1 \\over 20\\left( 1 - 24 \\over 25 \\right) cm = 1 \\over 20 \u00d7 1 \\over 25 cm = 0.002 cm",
+      "solution": "1 MSD = 1 \\over 20 cm 1 VSD = 24 \\over 25 \u00d7 1 \\over 20 cm \\therefore Least count = 1 MSD - 1 VSD = 1 \\over 20( 1 - 24 \\over 25 \\) cm = 1 \\over 20 \u00d7 1 \\over 25 cm = 0.002 cm",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "In an experiment with vernier callipers of least count 0.1 mm, when two jaws are joined together the zero of vernier scale lies right to the zero of the main scale and 6th division of vernier scale coincides with the main scale division. While measuring the diameter of a spherical bob, the zero of vernier scale lies in between 3.2 cm and 3.3 cm marks, and 4th division of vernier scale coincides with the main scale division. The diameter of bob is measured as",
+      "question": "In an experiment with vernier callipers of least count 0.1 mm, when two jaws are joined together the zero of vernier scale lies to the zero of the main scale and 6th division of vernier scale coincides with the main scale division. While measuring the diameter of a spherical bob, the zero of vernier scale lies in between 3.2 cm and 3.3 cm marks, and 4th division of vernier scale coincides with the main scale division. The diameter of bob is measured as",
       "options": {
         "A": "3 .18 cm",
         "B": "3.22 cm",
@@ -2367,7 +2247,7 @@
         "D": "3.25 cm"
       },
       "answer": "A",
-      "solution": "In this experiment, the vernier callipers have a least count of 0.1 mm, which is equal to 0.01 cm. First, let's calculate the zero error since the zero of the vernier scale does not coincide with the zero of the main scale when the two jaws are joined together. The zero error can be found using the formula: Zero Error = (Number of divisions coinciding) \u00d7 Least Count Zero Error = 6 \u00d7 0.01 cm = 0.06 cm Since the zero of the vernier scale lies to the right of the main scale zero, the zero error is positive. Now, let's find the main scale reading (MSR) when measuring the diameter of the spherical bob. The MSR is the value just before the zero of the vernier scale, which is 3.2 cm in this case. Next, let's find the vernier scale reading (VSR) when measuring the diameter. The VSR is the product of the coinciding division number and the least count: VSR = (Number of divisions coinciding) \u00d7 Least Count VSR = 4 \u00d7 0.01 cm = 0.04 cm Now, we can find the total reading, which is the sum of the MSR and VSR: Total Reading = MSR + VSR = 3.2 cm + 0.04 cm = 3.24 cm Since there is a positive zero error, we need to subtract it from the total reading to get the corrected diameter: Corrected Diameter = Total Reading - Zero Error = 3.24 cm - 0.06 cm = 3.18 cm So, the diameter of the bob is measured as 3.18 cm.",
+      "solution": "In this experiment, the vernier callipers have a least count of 0.1 mm, which is equal to 0.01 cm. First, let's calculate the zero error since the zero of the vernier scale does not coincide with the zero of the main scale when the two jaws are joined together. The zero error can be found using the formula: Zero Error = (Number of divisions coinciding) \u00d7 Least Count Zero Error = 6 \u00d7 0.01 cm = 0.06 cm Since the zero of the vernier scale lies to the of the main scale zero, the zero error is positive. Now, let's find the main scale reading (MSR) when measuring the diameter of the spherical bob. The MSR is the value just before the zero of the vernier scale, which is 3.2 cm in this case. Next, let's find the vernier scale reading (VSR) when measuring the diameter. The VSR is the product of the coinciding division number and the least count: VSR = (Number of divisions coinciding) \u00d7 Least Count VSR = 4 \u00d7 0.01 cm = 0.04 cm Now, we can find the total reading, which is the sum of the MSR and VSR: Total Reading = MSR + VSR = 3.2 cm + 0.04 cm = 3.24 cm Since there is a positive zero error, we need to subtract it from the total reading to get the corrected diameter: Corrected Diameter = Total Reading - Zero Error = 3.24 cm - 0.06 cm = 3.18 cm So, the diameter of the bob is measured as 3.18 cm.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -2389,7 +2269,7 @@
       "chapter": "Units and Measurements"
     },
     {
-      "question": "One main scale division of a vernier caliper is equal to m units. If n^\\text th division of main scale coincides with (n+1)^\\text th division of vernier scale, the least count of the vernier caliper is :",
+      "question": "One main scale division of a vernier caliper is equal to m units. If n^ th division of main scale coincides with (n+1)^ th division of vernier scale, the least count of the vernier caliper is :",
       "options": {
         "A": "\\frac\u2081(n+1)",
         "B": "\\fracm(n+1)",
@@ -2397,7 +2277,7 @@
         "D": "\\fracmn(n+1)"
       },
       "answer": "B",
-      "solution": "The least count of a vernier caliper is defined as the smallest distance that it can measure and is calculated by the difference in length between one main scale division and one vernier scale division. It can be represented as: \\textLeast Count = \\textMain scale division - \\textVernier scale division Given that one main scale division is equal to m units and the n^\\text th division of main scale coincides with the (n+1)^\\text th division of the vernier scale, this means that n divisions on the main scale is equal to (n+1) divisions on the vernier scale. Since one main scale division is m units, n divisions on the main scale would be n \u00d7 m units. If n divisions on the main scale are equal to (n+1) divisions on the vernier scale, we can determine the length of one vernier scale division as \\textLength of one vernier scale division = \\fracn \u00d7 mn+1 Thus, the least count, which is the difference between one main scale division and one vernier scale division, is: \\textLeast Count = m - \\fracn \u00d7 mn+1 = m \\left(1 - \\fracnn+1 \\right) = m \\left( \\fracn+1-nn+1 \\right) = m \\left( \\frac\u2081n+1 \\right) This simplifies to: \\textLeast Count = \\fracmn + 1 Therefore, the correct option is: Option B: \\fracmn+1",
+      "solution": "The least count of a vernier caliper is defined as the smallest distance that it can measure and is calculated by the difference in length between one main scale division and one vernier scale division. It can be represented as: Least Count = Main scale division - Vernier scale division Given that one main scale division is equal to m units and the n^ th division of main scale coincides with the (n+1)^ th division of the vernier scale, this means that n divisions on the main scale is equal to (n+1) divisions on the vernier scale. Since one main scale division is m units, n divisions on the main scale would be n \u00d7 m units. If n divisions on the main scale are equal to (n+1) divisions on the vernier scale, we can determine the length of one vernier scale division as Length of one vernier scale division = \\fracn \u00d7 mn+1 Thus, the least count, which is the difference between one main scale division and one vernier scale division, is: Least Count = m - \\fracn \u00d7 mn+1 = m (1 - \\fracnn+1 \\) = m ( \\fracn+1-nn+1 \\) = m ( \\frac\u2081n+1 \\) This simplifies to: Least Count = \\fracmn + 1 Therefore, the correct option is: Option B: \\fracmn+1",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2412,22 +2292,22 @@
         "D": "2.5 g / cm^3"
       },
       "answer": "B",
-      "solution": "To find the density of the sphere, we need to calculate its volume using the measured diameter. Then, using the mass of the sphere, we can calculate the density using the formula for density, which is \\textDensity = \\frac\\textMass\\textVolume. Let's start by finding the accurate measurement of the diameter using the given vernier calipers readings. The least count (LC) of the vernier calipers can be calculated using the formula: \\textLC = \\frac\\textValue of one main scale division (MSD)\\textNumber of vernier scale divisions (VSD) that match with the main scale Given that 9 divisions of the main scale are equal to 10 divisions of the vernier scale and the shortest division on the main scale is equal to 1\\, mm, we find: \\textLC = \\frac\u2081\\, mm\u2081\u2080 = 0.1\\, mm = 0.01\\, cm For the main scale reading (MSR) of 2\\, cm and the second division of the vernier scale coinciding with a division on the main scale, the vernier scale reading (VSR) can be expressed as \\textVSR = 2 \u00d7 \\textLC. So, \\textVSR = 2 \u00d7 0.01\\, cm = 0.02\\, cm. The total measurement of the diameter (D) can be found by adding MSR and VSR: D = \\textMSR + \\textVSR D = 2\\, cm + 0.02\\, cm = 2.02\\, cm Now, we can calculate the volume (V) of the sphere using its diameter with the formula V = \\frac\u2084\u2083\\pi r^3, where r is the radius of the sphere. Remembering that the radius is half of the diameter, r = \\fracD\u2082 = \\frac\u2082.02\\, cm\u2082 = 1.01\\, cm. Therefore, V = \\frac\u2084\u2083\\pi (1.01\\, cm)^3, Calculating the volume, V = \\frac\u2084\u2083\\pi (1.01)^3\\, cm^3 \\approx \\frac\u2084\u2083 \u00d7 3.1416 \u00d7 1.0303\\, cm^3 = \\frac\u2084\u2083 \u00d7 3.1416 \u00d7 1.0303\\, cm^3 \\approx 4.3434\\, cm^3 Now to find the density (\\rho) using the mass (M = 8.635\\, g) and volume (V = 4.3434\\, cm^3) calculated, \\rho = \\fracMV = \\frac\u2088.635\\, g\u2084.3434\\, cm^3 \\approx 1.988\\, g/cm^3 Comparing this result to the given options, the closest value is: Option B 2.0\\, g/cm^3",
+      "solution": "To find the density of the sphere, we need to calculate its volume using the measured diameter. Then, using the mass of the sphere, we can calculate the density using the formula for density, which is Density = \\fracMassVolume. Let's start by finding the accurate measurement of the diameter using the given vernier calipers readings. The least count (LC) of the vernier calipers can be calculated using the formula: LC = \\fracValue of one main scale division (MSD)Number of vernier scale divisions (VSD) that match with the main scale Given that 9 divisions of the main scale are equal to 10 divisions of the vernier scale and the shortest division on the main scale is equal to 1\\, mm, we find: LC = \\frac\u2081\\, mm\u2081\u2080 = 0.1\\, mm = 0.01\\, cm For the main scale reading (MSR) of 2\\, cm and the second division of the vernier scale coinciding with a division on the main scale, the vernier scale reading (VSR) can be expressed as VSR = 2 \u00d7 LC. So, VSR = 2 \u00d7 0.01\\, cm = 0.02\\, cm. The total measurement of the diameter (D) can be found by adding MSR and VSR: D = MSR + VSR D = 2\\, cm + 0.02\\, cm = 2.02\\, cm Now, we can calculate the volume (V) of the sphere using its diameter with the formula V = \\frac\u2084\u2083\\pi r^3, where r is the radius of the sphere. Remembering that the radius is half of the diameter, r = \\fracD\u2082 = \\frac\u2082.02\\, cm\u2082 = 1.01\\, cm. Therefore, V = \\frac\u2084\u2083\\pi (1.01\\, cm)^3, Calculating the volume, V = \\frac\u2084\u2083\\pi (1.01)^3\\, cm^3 \\approx \\frac\u2084\u2083 \u00d7 3.1416 \u00d7 1.0303\\, cm^3 = \\frac\u2084\u2083 \u00d7 3.1416 \u00d7 1.0303\\, cm^3 \\approx 4.3434\\, cm^3 Now to find the density (\\rho) using the mass (M = 8.635\\, g) and volume (V = 4.3434\\, cm^3) calculated, \\rho = \\fracMV = \\frac\u2088.635\\, g\u2084.3434\\, cm^3 \\approx 1.988\\, g/cm^3 Comparing this result to the given options, the closest value is: Option B\u2082.0\\, g/cm^3",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Units and Measurements"
     },
     {
-      "question": "A vernier callipers has 20 divisions on the vernier scale, which coincides with 19^\\text th division on the main scale. The least count of the instrument is 0.1 mm. One main scale division is equal to ________ mm.",
+      "question": "A vernier callipers has 20 divisions on the vernier scale, which coincides with 19^ th division on the main scale. The least count of the instrument is 0.1 mm. One main scale division is equal to ________ mm.",
       "options": {
-        "A": "5",
-        "B": "2",
-        "C": "1",
-        "D": "0.5"
+        "A": "5%",
+        "B": "2%",
+        "C": "1%",
+        "D": "0.5%"
       },
       "answer": "B",
-      "solution": "To determine the value of one main scale division (MSD) for the given vernier calipers, we'll analyze the relationship between the main scale divisions, vernier scale divisions, and the least count of the instrument. <h\u2083><strong>Given:</strong></h\u2083> <strong>Number of vernier scale divisions (n):</strong> 20 <strong>Vernier scale coincides with the 19th division on the main scale.</strong> <strong>Least count (LC):</strong> 0.1 \\, \\textmm <h\u2083><strong>Understanding the Vernier Calipers Configuration:</strong></h\u2083> <strong>Relation between Vernier and Main Scale Divisions:</strong> The total length of the vernier scale (comprising 20 divisions) coincides with the length of 19 main scale divisions. Mathematically, this is expressed as: n \u00d7 \\textVSD = (n - 1) \u00d7 \\textMSD where: \\textVSD is the value of one vernier scale division. \\textMSD is the value of one main scale division. <strong>Calculating the Value of One Vernier Scale Division ( \\textVSD ):</strong> \\textVSD = \\frac(n - 1) \u00d7 \\textMSDn <strong>Least Count (LC):</strong> The least count is the smallest measurement that can be accurately read using the instrument. It is calculated as: \\textLC = \\textMSD - \\textVSD Substituting \\textVSD from step 2: \\textLC = \\textMSD - \\left( \\frac(n - 1) \u00d7 \\textMSDn \\right) \\textLC = \\textMSD \\left( 1 - \\fracn - 1n \\right) \\textLC = \\textMSD \\left( \\fracn - (n - 1)n \\right) \\textLC = \\textMSD \\left( \\frac\u2081n \\right) <strong>Solving for One Main Scale Division ( \\textMSD ):</strong> Rearranging the equation: \\textLC = \\frac\\textMSDn \\textMSD = \\textLC \u00d7 n Substituting the given values ( \\textLC = 0.1 \\, \\textmm, n = 20 ): \\textMSD = 0.1 \\, \\textmm \u00d7 20 \\textMSD = 2 \\, \\textmm <h\u2083><strong>Conclusion:</strong></h\u2083> The value of one main scale division is <strong>2 mm</strong>, which corresponds to <strong>Option B</strong>.",
+      "solution": "To determine the value of one main scale division (MSD) for the given vernier calipers, we'll analyze the relationship between the main scale divisions, vernier scale divisions, and the least count of the instrument. <h\u2083><strong>Given:</strong></h\u2083> <strong>Number of vernier scale divisions (n):</strong> 20 <strong>Vernier scale coincides with the 19th division on the main scale.</strong> <strong>Least count (LC):</strong> 0.1 \\, mm <h\u2083><strong>Understanding the Vernier Calipers Configuration:</strong></h\u2083> <strong>Relation between Vernier and Main Scale Divisions:</strong> The total length of the vernier scale (comprising 20 divisions) coincides with the length of 19 main scale divisions. Mathematically, this is expressed as: n \u00d7 VSD = (n - 1) \u00d7 MSD where: VSD is the value of one vernier scale division. MSD is the value of one main scale division. <strong>Calculating the Value of One Vernier Scale Division ( VSD ):</strong> VSD = \\frac(n - 1) \u00d7 MSDn <strong>Least Count (LC):</strong> The least count is the smallest measurement that can be accurately read using the instrument. It is calculated as: LC = MSD - VSD Substituting VSD from step 2: LC = MSD - ( \\frac(n - 1) \u00d7 MSDn \\) LC = MSD ( 1 - \\fracn - 1n \\) LC = MSD ( \\fracn - (n - 1)n \\) LC = MSD ( \\frac\u2081n \\) <strong>Solving for One Main Scale Division ( MSD ):</strong> Rearranging the equation: LC = \\fracMSDn MSD = LC \u00d7 n Substituting the given values ( LC = 0.1 \\, mm, n = 20 ): MSD = 0.1 \\, mm \u00d7 20 MSD = 2 \\, mm <h\u2083><strong>Conclusion:</strong></h\u2083> The value of one main scale division is <strong>2 mm</strong>, which corresponds to <strong>Option B</strong>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",

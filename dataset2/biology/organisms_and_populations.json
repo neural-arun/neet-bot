@@ -1,13 +1,13 @@
 {
   "subject": "Biology",
   "chapter": "Organisms and Populations",
-  "total_questions": 61,
+  "total_questions": 60,
   "questions": [
     {
       "question": "[NEET 2020 | Biology] The logistic growth model is represented by the equation:",
       "options": {
-        "A": "dN/dt = rN",
-        "B": "dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K",
+        "A": "DN/dt = rN",
+        "B": "DN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K",
         "C": "N = N\\u\u2082\u2080\u2088\u2080e\\u\u2080\u2082b\u2083\\u\u2081d\u2085\u2087",
         "D": "N = K/(1+e^(\\u\u2082\u2082\u2081\u2082rt))"
       },
@@ -23,11 +23,11 @@
       "options": {
         "A": "Mycorrhizae are commensalism",
         "B": "Lichen is mutualism",
-        "C": "olonisation of bare rock is primary succession",
+        "C": "Olonisation of bare rock is primary succession",
         "D": "Predation is symbiosis"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) Lichen is mutualism** --- ## Why This Is Correct \\u\u2082\u2087\u2081\u2083 **Lichens** are composite organisms formed by a **symbiotic association between**: - **Algae or Cyanobacteria** (photosynthetic partner) - **Fungus** (structural partner) **Benefits to both partners:** | Partner | Benefit | |---------|---------| | **Algae/Cyanobacteria** | Protected from harsh conditions; access to water and minerals | | **Fungus** | Food (carbohydrates) from photosynthesis | This is a **textbook example of MUTUALISM** where both organisms benefit equally. --- ## Why Others Are Wrong \\u\u2082\u2087\u2081\u2087 | Option | Issue | |--------|-------| | **(A) Mycorrhizae = commensalism** | Mycorrhizae are **mutualism**, not commensalism. Both fungi and plant roots benefit mutually. | | **(C) Bare rock colonisation** | While this IS primary succession, the statement is incomplete/vague compared to option B's clarity. | | **(D) Predation = symbiosis** | **False relationship.** Predation is antagonistic (+/\\u\u2082\u2082\u2081\u2082), not symbiosis. Symbiosis requires organisms living together beneficially. | --- ## Key Formula to Remember **Types of Symbiosis:** - **Mutualism:** (+/+) Both benefit \\u\u2082\u2081\u2089\u2082 Lichen, Mycorrhizae, Nitrogen-fixing bacteria in legumes - **Commensalism:** (+/0) One benefits, other unaffected \\u\u2082\u2081\u2089\u2082 Remoras on sharks - **Parasitism:** (+/\\u\u2082\u2082\u2081\u2082) One benefits, other harmed \\u\u2082\u2081\u2089\u2082 Tapeworms, mosquitoes - **Predation:** (+/\\u\u2082\u2082\u2081\u2082) Not symbiosis; one kills the other",
+      "solution": "# Answer: **(B) Lichen is mutualism** --- ## Why This Is Correct \\u\u2082\u2087\u2081\u2083 **Lichens** are composite organisms formed by a **symbiotic association between**: - **Algae or Cyanobacteria** (photosynthetic partner) - **Fungus** (structural partner) **Benefits to both partners:** | Partner | Benefit | |---------|---------| | **Algae/Cyanobacteria** | Protected from harsh conditions; access to water and minerals | | **Fungus** | Food (carbohydrates) from photosynthesis | This is a **book example of MUTUALISM** where both organisms benefit equally. --- ## Why Others Are Wrong \\u\u2082\u2087\u2081\u2087 | Option | Issue | |--------|-------| | **(A) Mycorrhizae = commensalism** | Mycorrhizae are **mutualism**, not commensalism. Both fungi and plant roots benefit mutually. | | **(C) Bare rock colonisation** | While this IS primary succession, the statement is incomplete/vague compared to option B's clarity. | | **(D) Predation = symbiosis** | **False relationship.** Predation is antagonistic (+/\\u\u2082\u2082\u2081\u2082), not symbiosis. Symbiosis requires organisms living together beneficially. | --- ## Key Formula to Remember **Types of Symbiosis:** - **Mutualism:** (+/+) Both benefit \\u\u2082\u2081\u2089\u2082 Lichen, Mycorrhizae, Nitrogen-fixing bacteria in legumes - **Commensalism:** (+/0) One benefits, other unaffected \\u\u2082\u2081\u2089\u2082 Remoras on sharks - **Parasitism:** (+/\\u\u2082\u2082\u2081\u2082) One benefits, other harmed \\u\u2082\u2081\u2089\u2082 Tapeworms, mosquitoes - **Predation:** (+/\\u\u2082\u2082\u2081\u2082) Not symbiosis; one kills the other",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Biology",
@@ -96,10 +96,10 @@
     {
       "question": "In a growing population of a country,",
       "options": {
-        "A": "reproductive and pre-reproductive individuals are equal in number.",
-        "B": "reproductive individuals are less than the post- reproductive individuals.",
-        "C": "pre-reproductive individuals are more than the reproductive individuals.",
-        "D": "pre-reproductive individuals are less than the reproductive individuals."
+        "A": "Reproductive and pre-reproductive individuals are equal in number.",
+        "B": "Reproductive individuals are less than the post- reproductive individuals.",
+        "C": "Pre-reproductive individuals are more than the reproductive individuals.",
+        "D": "Pre-reproductive individuals are less than the reproductive individuals."
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) reproductive and pre-reproductive individuals are equal in number.** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
@@ -233,7 +233,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "ommensalism",
+        "C": "Ommensalism",
         "D": "Competition"
       },
       "answer": "A",
@@ -246,30 +246,15 @@
     {
       "question": "If '8' Drosophila in a laboratory population of '80' died during a week, the death rate in the population is __ individuals per Drosophila per week.",
       "options": {
-        "A": "0.1",
-        "B": "10",
-        "C": "1.0",
+        "A": "0.1%",
+        "B": "10%",
+        "C": "1.0%",
         "D": "Zero"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 0.1** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "Match List I with List II: List I (Interaction) A. Mutualism B. Commensalism C. Amensalism D. Parasitism List II (Effect on Species A and B) I. + (A), 0 (B) II. \\\u2013 (A), 0 (B) III. + (A), \\\u2013 (B) IV. + (A), + (B) Choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
-      "options": {
-        "A": "-IV, B-II, C-I, D-III",
-        "B": "A-IV, B-I, C-II, D-III",
-        "C": "A-IV, B-III, C-I, D-II",
-        "D": "A-III, B-I, C-IV, D-II"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-IV, B-II, C-I, D-III** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2023",
-      "year": 2023,
       "subject": "Biology",
       "chapter": "Organisms and Populations"
     },
@@ -309,7 +294,7 @@
         "A": "Biota",
         "B": "Flora",
         "C": "Fauna",
-        "D": "iversity"
+        "D": "Iversity"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Biota** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -368,7 +353,7 @@
       "options": {
         "A": "Bentinckia nicobarica and red panda",
         "B": "Tamarind and rhesus monkey",
-        "C": "inchona and leopard",
+        "C": "Inchona and leopard",
         "D": "Banyan and black buck"
       },
       "answer": "B",
@@ -397,7 +382,7 @@
       "question": "The cause of decline in the population of reptiles and birds is",
       "options": {
         "A": "DDT",
-        "B": "iofertilizer",
+        "B": "Iofertilizer",
         "C": "Bioinsecticides",
         "D": "Sewage"
       },
@@ -428,7 +413,7 @@
       "options": {
         "A": "Nitrogen oxides",
         "B": "Pathogens",
-        "C": "hemical fertilizers",
+        "C": "Hemical fertilizers",
         "D": "Pesticides"
       },
       "answer": "D",
@@ -489,7 +474,7 @@
         "A": "Cow",
         "B": "Dogs",
         "C": "Snow leopard",
-        "D": "olphin"
+        "D": "Olphin"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Cow** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -548,7 +533,7 @@
       "options": {
         "A": "Mutualism",
         "B": "Amensalism",
-        "C": "ommensalism",
+        "C": "Ommensalism",
         "D": "Parasitism"
       },
       "answer": "A",
@@ -591,10 +576,10 @@
     {
       "question": "growing population of a country,",
       "options": {
-        "A": "reproductive and pre-reproductive individuals are equal in number.",
-        "B": "reproductive individuals are less than the post-reproductive individuals.",
-        "C": "pre-reproductive individuals are more than the reproductive individuals.",
-        "D": "pre-reproductive individuals are less than the reproductive individuals."
+        "A": "Reproductive and pre-reproductive individuals are equal in number.",
+        "B": "Reproductive individuals are less than the post-reproductive individuals.",
+        "C": "Pre-reproductive individuals are more than the reproductive individuals.",
+        "D": "Pre-reproductive individuals are less than the reproductive individuals."
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) reproductive and pre-reproductive individuals are equal in number.** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -683,7 +668,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "ommensalism",
+        "C": "Ommensalism",
         "D": "Competition"
       },
       "answer": "A",
@@ -696,9 +681,9 @@
     {
       "question": "'8' Drosophila in a laboratory population of '80' died during a week, the death rate in the population is __ individuals per Drosophila per week. (NEET 2022)",
       "options": {
-        "A": "0.1",
-        "B": "10",
-        "C": "1.0",
+        "A": "0.1%",
+        "B": "10%",
+        "C": "1.0%",
         "D": "Zero"
       },
       "answer": "A",
@@ -711,10 +696,10 @@
     {
       "question": "1 Match List I with List II: List I (Interaction) A. Mutualism B. Commensalism C. Amensalism D. Parasitism List II (Effect on Species",
       "options": {
-        "A": "(a) A-IV, B-II, C-I, D-III",
-        "B": "(b) A-IV, B-I, C-II, D-III",
-        "C": "(c) A-IV, B-III, C-I, D-II",
-        "D": "(d) A-III, B-I, C-IV, D-II"
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) (a) A-IV, B-II, C-I, D-III** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -724,10 +709,10 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "1 Given below are two statements: Statement I: Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventually. Statement II: In general, carnivores are more adversely affected by competition than herbivores. In the light of the above statements, choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
+      "question": "1 Given below are two statements: \nStatement I: Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventually. \nStatement II: In general, carnivores are more adversely affected by competition than herbivores. \nIn the light of the above statements, choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "oth Statement I and Statement II are false.",
+        "B": "Both Statement I and Statement II are false.",
         "C": "Statement I is correct but Statement II is false.",
         "D": "Statement I is incorrect but Statement II is true."
       },
@@ -741,10 +726,10 @@
     {
       "question": "1 Match List I with List II: List I (Interacting species) A.",
       "options": {
-        "A": "(a) A-I, B-II, C-III, D-IV",
-        "B": "(b) A-I, B-II, C-IV, D-III",
-        "C": "(c) A-III, B-IV, C-I, D-II",
-        "D": "(d) A-II, B-III, C-I, D-IV"
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) (a) A-I, B-II, C-III, D-IV** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -756,10 +741,10 @@
     {
       "question": "1 Match List I with List II: List IA. Logistic growth B. Exponential growth C. Expanding age pyramid D. Stable age pyramid List II I. Unlimited resource availability condition II. Limited resource availability condition III. The percent individuals of pre-reproductive age is largest, followed by reproductive and post-reproductive age groups IV. The percent individuals of pre-reproductive and reproductive age groups are same Choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
       "options": {
-        "A": "(a) A-II, B-I, C-III, D-IV",
-        "B": "(b) A-II, B-III, C-I, D-IV",
-        "C": "(c) A-II, B-IV, C-I, D-III",
-        "D": "(d) A-II, B-IV, C-III, D-I"
+        "A": "(a)",
+        "B": "(b)",
+        "C": "(c)",
+        "D": "(d)"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) (a) A-II, B-I, C-III, D-IV** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -771,10 +756,10 @@
     {
       "question": "2 For chemical defence against herbivores, Calotropis has (NEET 2023 (Phase 2))",
       "options": {
-        "A": "toxic ricin",
-        "B": "distasteful quinine",
-        "C": "ardiac glycosides",
-        "D": "strychnine"
+        "A": "Toxic ricin",
+        "B": "Distasteful quinine",
+        "C": "Ardiac glycosides",
+        "D": "Strychnine"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) toxic ricin** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -814,7 +799,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "1 \u00b7 NEET 2024 Given below are two statements: Statement I: Gause's competitive exclusion principle states that two closely related species competing for different resources cannot exist indefinitely. Statement II: According to Gause's principle, during competition, the inferior will be eliminated. This may be true if resources are limiting. In the light of the above statements, choose the correct answer from the options given below: (NEET 2024)",
+      "question": "1 \u00b7 NEET 2024 Given below are two statements: \nStatement I: Gause's competitive exclusion principle states that two closely related species competing for different resources cannot exist indefinitely. \nStatement II: According to Gause's principle, during competition, the inferior will be eliminated. This may be true if resources are limiting. \nIn the light of the above statements, choose the correct answer from the options given below: (NEET 2024)",
       "options": {
         "A": "Both Statement I and Statement II are false.",
         "B": "Statement I is true but Statement II is false.",
@@ -833,7 +818,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "ommensalism",
+        "C": "Ommensalism",
         "D": "Mutualism"
       },
       "answer": "A",
@@ -844,7 +829,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "are two statements: Statement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. Statement II: Fig wasp and fig tree exhibit a mutual relationship, as the fig fruit provides the wasp a place to lay eggs and the fig gets pollinated by the fig wasp. In the light of the above statements, choose the most appropriate answer from the options given below: (NEET 2025)",
+      "question": "are two statements: \nStatement I: Fig fruit is a non-vegetarian fruit as it has enclosed fig wasps in it. \nStatement II: Fig wasp and fig tree exhibit a mutual relationship, as the fig fruit provides the wasp a place to lay eggs and the fig gets pollinated by the fig wasp. \nIn the light of the above statements, choose the most appropriate answer from the options given below: (NEET 2025)",
       "options": {
         "A": "Statement I is correct but statement II is incorrect",
         "B": "Statement I is incorrect but statement II is correct",
@@ -891,8 +876,8 @@
     {
       "question": "NEET 2021 (Out of NEET 2026 syllabus \\\u2014 rationalised 'adaptations' topic) Given below are two statements labelled as Assertion (A) and Reason (R): Assertion (A):",
       "options": {
-        "A": "is true but (R) is false",
-        "B": "is false but (R) is true",
+        "A": "Is true but (R) is false",
+        "B": "Is false but (R) is true",
         "C": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
         "D": "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
       },

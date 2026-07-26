@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "Organic Chemistry: Basic Principles",
-  "total_questions": 26,
+  "total_questions": 23,
   "questions": [
     {
       "question": "Examine the Organic Chemistry GOC reaction intermediate scheme below (Figure 20). What is the relative stability order of the carbocation intermediate formed during this transformation?",
@@ -29,7 +29,7 @@
         "D": "Nitrate anion (NO\u2083\u207b)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, H_2SO_4 acts as a stronger acid and protonates HNO_3 to form the nitronium ion electrophile: HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic ring.",
+      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, H_2SO_4 acts as a stronger acid and protonates HNO_3 to form the nitronium ion electrophile: HNO_3 + 2H_2SO_4 \\arrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic ring.",
       "exam": "NEET Organic Chemistry Diagram PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -45,7 +45,7 @@
         "D": "Hydronium ion (H\u2083O\u207a)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, sulfuric acid acts as a proton donor to nitric acid, generating the powerful nitronium electrophile: HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic benzene ring.",
+      "solution": "**Correct Answer: (A)** **Mechanism:** In nitration of benzene, sulfuric acid acts as a proton donor to nitric acid, generating the powerful nitronium electrophile: HNO_3 + 2H_2SO_4 \\arrow NO_2^+ + H_3O^+ + 2HSO_4^-. The nitronium ion NO_2^+ attacks the aromatic benzene ring.",
       "exam": "NEET Organic Chemistry Diagram PYQ",
       "year": 2024,
       "subject": "Chemistry",
@@ -54,28 +54,13 @@
     {
       "question": "In sulphur estimation, 0.157 g of an organic compound gave 0.4813 g of barium sulphate. What is the percentage of sulphur in the compound?",
       "options": {
-        "A": "Percentage of sulphur= 7",
+        "A": "7%",
         "B": "36%",
         "C": "18%",
         "D": "10%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Percentage of sulphur= 42.10% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Organic Chemistry: Basic Principles"
-    },
-    {
-      "question": "What is the name of the compound?",
-      "options": {
-        "A": "Spiro [",
-        "B": "4] octane",
-        "C": "5] octane",
-        "D": "5] octane D None of these"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Spiro [3.4] octane **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -99,28 +84,13 @@
     {
       "question": "In Carius method of estimation of halogen, 0.15 g of an organic compound gave 0.12 g of AgBr. Find out the percentage of bromine in the compound.",
       "options": {
-        "A": "Percentage of bromine=3",
+        "A": "3%",
         "B": "04%",
         "C": "25%",
         "D": "89%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) Percentage of bromine=34.04% **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Organic Chemistry: Basic Principles"
-    },
-    {
-      "question": "In the estimation of sulphur by Carius method, 0.468 g of an organic sulphur compound afforded 0.668 g of barium sulphate. Find out the percentage of sulphur in the given compound.",
-      "options": {
-        "A": "% of sulphur = 8",
-        "B": "35 B % of sulphur =",
-        "C": "12 C % of sulphur =",
-        "D": "66 D % of sulphur ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) % of sulphur = 19.66 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -138,21 +108,6 @@
       "solution": "# Lassaigne's Test for Nitrogen - Blue Color Explanation ## **Correct Answer: (A) Fe\u2084[Fe(CN)\u2086]\u2083** --- ## **Step-by-Step Reasoning:** ### **What happens in Lassaigne's test:** 1. **Organic compound + Na (heated)** - Nitrogen in the organic compound converts to **NaCN** (sodium cyanide) 2. **Addition of FeSO\u2084 (iron(II) salt)** - CN\u207b ions combine with Fe\u00b2\u207a to form **ferrocyanide complex**: [Fe(CN)\u2086]\u2074\u207b 3. **Oxidation and Blue Complex Formation** - Some Fe\u00b2\u207a oxidizes to Fe\u00b3\u207a - Fe\u00b3\u207a ions react with [Fe(CN)\u2086]\u2074\u207b to form the blue precipitate ### **The Blue Complex - Prussian Blue:** **Fe\u2084[Fe(CN)\u2086]\u2083** (Ferric ferrocyanide) - **4 Fe\u00b3\u207a atoms** = +12 charge - **3 [Fe(CN)\u2086]\u2074\u207b groups** = -12 charge - **Net charge = 0** \u2713 (neutral compound) --- ## **Why Other Options Are Wrong:** | Option | Why Incorrect | |--------|---| | **(B) Fe\u2082[Fe(CN)\u2086]** | Incorrect stoichiometry; doesn't give the characteristic deep blue color | | **(C) Fe\u2083[Fe(CN)\u2086]\u2084** | Has excess negative charge; not the actual complex formed | | **(D) Fe[Fe(CN)\u2086]** | Doesn't balance charge; not the product | --- ## **Key Fact to Remember:** \u2728 **Prussian Blue (Fe\u2084[Fe(CN)\u2086]\u2083)** is a deep blue precipitate formed when Fe\u00b3\u207a reacts with [Fe(CN)\u2086]\u2074\u207b. This is the basis of identifying nitrogen in Lassaigne's test in NEET exams.",
       "exam": "NEET 2017",
       "year": 2017,
-      "subject": "Chemistry",
-      "chapter": "Organic Chemistry: Basic Principles"
-    },
-    {
-      "question": "0.3780 g of an organic chloro compound gave 0.5740 g of silver chloride in Carius estimation. Calculate the percentage of chlorine present in the compound.",
-      "options": {
-        "A": "% of chlorine =",
-        "B": "76 B % of chlorine =",
-        "C": "57 C % of chlorine = 6",
-        "D": "25 D % of chlorine = 7"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) % of chlorine = 37.57 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Chemistry",
       "chapter": "Organic Chemistry: Basic Principles"
     },
@@ -187,7 +142,7 @@
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : Hyperconjugation is a permanent effect.<br/><br/>Statement II : Hyperconjugation in ethyl cation \\left( CH_3 - \\mathop C\\limits^ + H_2 \\right) involves the overlapping of C_sp^2 - H_1s bond with empty 2p orbital of other carbon.<br/><br/>Choose the correct option :",
+      "question": "Given below are two statements :<br/><br/>Statement I : Hyperconjugation is a permanent effect.<br/><br/>Statement II : Hyperconjugation in ethyl cation ( CH_3 - \\mathop C\\limits^ + H_2 \\) involves the overlapping of C_sp^2 - H_1s bond with empty 2p orbital of other carbon.<br/><br/>Choose the correct option :",
       "options": {
         "A": "Both statement I and statement II are false",
         "B": "Statement I is incorrect but statement II is true",
@@ -232,7 +187,7 @@
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "Given below are two statements: Statement I: IUPAC name of HO-CH_2-\\left(CH_2\\right)_3-CH_2-COCH_3 is 7-hydroxyheptan-2-one. Statement II: 2-oxoheptan-7-ol is the correct IUPAC name for above compound. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "question": "Given below are two statements: \nStatement I: IUPAC name of HO-CH_2-(CH_2\\)_3-CH_2-COCH_3 is 7-hydroxyheptan-2-one. \nStatement II: 2-oxoheptan-7-ol is the correct IUPAC name for above compound. \nIn the light of the above statements, choose the most appropriate answer from the options given below:",
       "options": {
         "A": "Statement I is incorrect but Statement II is correct.",
         "B": "Statement I is correct but Statement II is incorrect.",
@@ -249,10 +204,10 @@
     {
       "question": "A species having carbon with sextet of electrons and can act as electrophile is called",
       "options": {
-        "A": "pentavalent carbon",
-        "B": "carbon free radical",
-        "C": "arbanion",
-        "D": "carbocation"
+        "A": "Pentavalent carbon",
+        "B": "Carbon free radical",
+        "C": "Arbanion",
+        "D": "Carbocation"
       },
       "answer": "D",
       "solution": "The species described as having a carbon atom with a sextet of electrons\\\u2014that is, six electrons in its valence shell\\\u2014capable of acting as an electrophile (an electron-pair acceptor) is called a carbocation. Therefore, the correct answer is: Option D carbocation <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsofds\u2084\u2083/3e\u2089\u2081c\u2080\u2086\u2081-7b\u2085\u2081-4310-9f\u2080\u2087-7b\u2088\u2081\u2081e\u2083e\u2087cfa/a\u2084\u2085\u2083\u2088e\u2083\u2080-ccaa-11ee-aa\u2089\u2088-13f\u2084\u2085\u2086b\u2088f\u2087af/file-6y\u2083zli\u2081lsofds\u2084\u2084.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 31st January Morning Shift Chemistry - Basics of Organic Chemistry Question 40 English Explanation\"> Here's a brief explanation of each option: Option A: Pentavalent carbon - This term is not commonly used in organic chemistry, and it refers incorrectly to a carbon with five bonds, which contradicts the tetravalency of carbon. Option B: Carbon free radical - This species has a carbon atom with an unpaired electron (a septet, or seven valence electrons). It is highly reactive but is not typically classified as an electrophile because it seeks to pair its single unpaired electron rather than accepting a pair of electrons. Option C: Carbanion - This anion has a carbon atom with three bonds and a pair of electrons, which in total gives eight valence electrons. It is nucleophilic (electron-pair donor) rather than electrophilic. Option D: Carbocation - A carbocation is indeed a carbon species with only six valence electrons and thus has an empty p-orbital that can accept a pair of electrons, making it electrophilic. Carbocations are usually trigonal planar in structure and carry a positive charge.",
@@ -264,10 +219,10 @@
     {
       "question": "The shape of carbocation is :",
       "options": {
-        "A": "tetrahedral",
-        "B": "diagonal pyramidal",
-        "C": "diagonal",
-        "D": "trigonal planar"
+        "A": "Tetrahedral",
+        "B": "Diagonal pyramidal",
+        "C": "Diagonal",
+        "D": "Trigonal planar"
       },
       "answer": "D",
       "solution": "Carbocation is s p^2 hybridised hence it's shape is trigonal planar <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lw\u2085\u2087\u2082fuz/7d\u2089\u2082\u2080da\u2089-b\u2082af-44a\u2082-8fce-743980ccd\u2087\u2085b/191aa\u2089b\u2080-1148-11ef-b\u2085fc-89359a\u2082\u2080\u2086\u2083\u2087a/file-1lw\u2085\u2087\u2082fv\u2080.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 8th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 14 English Explanation\">",
@@ -279,10 +234,10 @@
     {
       "question": "The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is",
       "options": {
-        "A": "electromeri",
-        "B": "resonance energy",
-        "C": "ionization energy",
-        "D": "hyperconjugation energy"
+        "A": "Electromeri",
+        "B": "Resonance energy",
+        "C": "Ionization energy",
+        "D": "Hyperconjugation energy"
       },
       "answer": "B",
       "solution": "The difference in energy between the actual structure and the lowest energy resonance structure for the given compound is known as resonance energy.",
@@ -297,10 +252,10 @@
         "A": "Hexaaqua chromium (III) chloride",
         "B": "Tetraaquadichlorido chromium(IV) chloride dihydrate",
         "C": "Tetraaquadichlorido chromium (III) chloride dihydrate",
-        "D": "ichloridotetraaqua chromium (IV) chloride dihydrate"
+        "D": "Ichloridotetraaqua chromium (IV) chloride dihydrate"
       },
       "answer": "C",
-      "solution": "Given complex Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub> <br><br>As the magnetic mement is 3.83 BM then <br><br>Spin only magnetic moment = \\sqrt n\\left( n + 2 \\right) BM = 3.83 <br><br> \\Rightarrow n = 3 <br><br>Chromium in +3 oxidation state so molecular formula is Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub>. <br><br> \\therefore This formula have following isomers <br><br>(a) [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub> : react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(b) [Cr(H<sub>2</sub>O)<sub>5</sub>Cl]Cl<sub>2</sub>.H<sub>2</sub>O react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(c) [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl.2H<sub>2</sub>O react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>(d) [Cr(H<sub>2</sub>O)<sub>3</sub>Cl<sub>3</sub>].3H<sub>2</sub>O does not react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>Compound will be [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>] Cl.2H<sub>2</sub>O <br><br>IUPAC NAME : Tetraaquadichlorido chromium(III) chloride dihydrate",
+      "solution": "Given complex Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub> <br><br>As the magnetic mement is 3.83 BM then <br><br>Spin only magnetic moment = \\sqrt n( n + 2 \\) BM = 3.83 <br><br> \\Rightarrow n = 3 <br><br>Chromium in +3 oxidation state so molecular formula is Cr(H<sub>2</sub>O)<sub>6</sub>Cl<sub>n</sub>. <br><br> \\therefore This formula have following isomers <br><br>(a) [Cr(H<sub>2</sub>O)<sub>6</sub>]Cl<sub>3</sub> : react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(b) [Cr(H<sub>2</sub>O)<sub>5</sub>Cl]Cl<sub>2</sub>.H<sub>2</sub>O react with AgNO<sub>3</sub> but does not show geometrical isomerism. <br><br>(c) [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>]Cl.2H<sub>2</sub>O react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>(d) [Cr(H<sub>2</sub>O)<sub>3</sub>Cl<sub>3</sub>].3H<sub>2</sub>O does not react with AgNO<sub>3</sub> & show geometrical isomerism. <br><br>Compound will be [Cr(H<sub>2</sub>O)<sub>4</sub>Cl<sub>2</sub>] Cl.2H<sub>2</sub>O <br><br>IUPAC NAME : Tetraaquadichlorido chromium(III) chloride dihydrate",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -310,9 +265,9 @@
       "question": "The IUPAC name of complex [Pt(NH<sub>3</sub>)<sub>2</sub>Cl(NH<sub>2</sub>CH<sub>3</sub>)]Cl is:",
       "options": {
         "A": "Diamminechlorido (methanamine) platinum(II)chloride.",
-        "B": "iasmmine (methanamine)chlorido platinum(II)chloride.",
+        "B": "Iasmmine (methanamine)chlorido platinum(II)chloride.",
         "C": "Diamminechlorido (amminomethane) platinum(II) chloride.",
-        "D": "iammine (methanamine) chlorido platinum(II)Chloride."
+        "D": "Iammine (methanamine) chlorido platinum(II)Chloride."
       },
       "answer": "A",
       "solution": "[Pt(NH<sub>3</sub>)<sub>2</sub>Cl(NH<sub>2</sub>CH<sub>3</sub>)]Cl <br><br>x + 0 \\\u2013 1 + 0 = +1 <br><br>x = +2 <br><br>So Pt present in Pt<sup>+2</sup> form. <br><br> \\therefore Correct IUPAC form <br><br>Diamminechlorido (methanamine) platinum(II)chloride.",
@@ -322,7 +277,7 @@
       "chapter": "Organic Chemistry: Basic Principles"
     },
     {
-      "question": "The IUPAC name of K_3\\left[Co\\left(C_2 O_4\\right)_3\\right] is:-",
+      "question": "The IUPAC name of K_3\\left[Co(C_2 O_4\\)_3\\] is:-",
       "options": {
         "A": "Potassium tris(oxalato)cobalt(III)",
         "B": "Potassium tris(oxalato)cobaltate(III)",
@@ -339,10 +294,10 @@
     {
       "question": "The correct IUPAC name of [PtBr_2(PMe_3)_2] is :",
       "options": {
-        "A": "bis(trimethylphosphine)dibromoplatinum(II)",
-        "B": "dibromodi(trimethylphosphine)platinum(II)",
-        "C": "dibromobis(trimethylphosphine)platinum(II)",
-        "D": "bis[bromo(trimethylphosphine)]platinum(II)"
+        "A": "Bis(trimethylphosphine)dibromoplatinum(II)",
+        "B": "Dibromodi(trimethylphosphine)platinum(II)",
+        "C": "Dibromobis(trimethylphosphine)platinum(II)",
+        "D": "Bis[bromo(trimethylphosphine)]platinum(II)"
       },
       "answer": "C",
       "solution": "The correct IUPAC name of [PtBr_2(PMe_3)_2] is dibromobis(trimethylphosphine)platinum(II).",
@@ -369,10 +324,10 @@
     {
       "question": "The IUPAC symbol for the element with atomic number 119 would be :",
       "options": {
-        "A": "uun",
-        "B": "une",
-        "C": "uue",
-        "D": "unh"
+        "A": "Uun",
+        "B": "Une",
+        "C": "Uue",
+        "D": "Unh"
       },
       "answer": "C",
       "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2081\u2089/exam_images/cldq\u2089i\u2083yigvqhbjuaeqn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2088\u2081/exam_images/efbfk\u2088nfrct\u2084lg\u2085vtw\u2082j.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Periodic Table & Periodicity Question 97 English Explanation\">",
@@ -390,7 +345,7 @@
         "D": "Unniltrium"
       },
       "answer": "D",
-      "solution": "The element with electronic configuration [Rn] 5 f^146 d^17 s^2 has atomic number \\rightarrow 103 <br/><br/> \\therefore Its IUPAC name is: Unniltrium",
+      "solution": "The element with electronic configuration [Rn] 5 f^146 d^17 s^2 has atomic number \\arrow 103 <br/><br/> \\therefore Its IUPAC name is: Unniltrium",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",

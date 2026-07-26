@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Work, Energy, and Power",
-  "total_questions": 45,
+  "total_questions": 44,
   "questions": [
     {
       "question": "[NEET 2022 | Physics] Body 0.5 kg with v = 5*x^(3/2) m/s. Work done from x=0 to x=2m:",
@@ -12,7 +12,7 @@
         "D": "100 J"
       },
       "answer": "B",
-      "solution": "# Solution: Work Done by Variable Force ## **Correct Answer: (B) 50 J** --- ## Step-by-Step Solution ### **Given Information:** - Mass: m = 0.5 kg - Velocity: v = 5x^(3/2) m/s - Displacement: x = 0 to x = 2m ### **Strategy: Use Work-Energy Theorem** The most efficient approach is: W = \\Delta KE = \\frac\u2081\u2082m(v_f^2 - v_i^2) ### **Step 1: Find initial velocity (at x = 0)** v_0 = 5(0)^3/2 = 0 \\text m/s ### **Step 2: Find final velocity (at x = 2m)** v_2 = 5(2)^3/2 = 5 \u00d7 2\\sqrt\u2082 = 10\\sqrt\u2082 \\text m/s ### **Step 3: Calculate v\u2082\u00b2** v_2^2 = (10\\sqrt\u2082)^2 = 100 \u00d7 2 = 200 \\text m^2/\\texts^2 ### **Step 4: Apply Work-Energy Theorem** W = \\frac\u2081\u2082 \u00d7 0.5 \u00d7 (200 - 0) W = 0.25 \u00d7 200 W = 50 \\text J --- ## Key Concept to Remember **Work-Energy Theorem:** When dealing with variable forces where you know the velocity-position relationship, always use: W = \\Delta KE = \\frac\u2081\u2082m(v_f^2 - v_i^2) This avoids the complexity of finding the force function F(x) and integrating. --- ## Why Other Options Are Wrong - **(A) 15 J**: Incorrect calculation of velocities - **(C) 10 J**: Underestimation of final kinetic energy - **(D) 100 J**: Would require double the mass or different velocity relation",
+      "solution": "# Solution: Work Done by Variable Force ## **Correct Answer: (B) 50 J** --- ## Step-by-Step Solution ### **Given Information:** - Mass: m = 0.5 kg - Velocity: v = 5x^(3/2) m/s - Displacement: x = 0 to x = 2m ### **Strategy: Use Work-Energy Theorem** The most efficient approach is: W = \\Delta KE = \\frac\u2081\u2082m(v_f^2 - v_i^2) ### **Step 1: Find initial velocity (at x = 0)** v_0 = 5(0)^3/2 = 0 m/s ### **Step 2: Find final velocity (at x = 2m)** v_2 = 5(2)^3/2 = 5 \u00d7 2\\sqrt\u2082 = 10\\sqrt\u2082 m/s ### **Step 3: Calculate v\u2082\u00b2** v_2^2 = (10\\sqrt\u2082)^2 = 100 \u00d7 2 = 200 m^2/s^2 ### **Step 4: Apply Work-Energy Theorem** W = \\frac\u2081\u2082 \u00d7 0.5 \u00d7 (200 - 0) W = 0.25 \u00d7 200 W = 50 J --- ## Key Concept to Remember **Work-Energy Theorem:** When dealing with variable forces where you know the velocity-position relationship, always use: W = \\Delta KE = \\frac\u2081\u2082m(v_f^2 - v_i^2) This avoids the complexity of finding the force function F(x) and integrating. --- ## Why Other Options Are Wrong - **(A) 15 J**: Incorrect calculation of velocities - **(C) 10 J**: Underestimation of final kinetic energy - **(D) 100 J**: Would require double the mass or different velocity relation",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Physics",
@@ -57,7 +57,7 @@
         "D": "10 J"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) 20 J** ## Step-by-Step Solution **Given Information:** - Mass = 1 kg - Initial velocity = 20 m/s (upward) - Height reached = 18 m - g = 10 m/s\u00b2 **Step 1: Calculate Initial Kinetic Energy** KE_i = \\frac\u2081\u2082mu^2 = \\frac\u2081\u2082(1)(20)^2 = 200 \\text J **Step 2: Calculate Final Potential Energy** When the body comes to rest at height h = 18 m: PE_f = mgh = (1)(10)(18) = 180 \\text J **Step 3: Apply Energy Conservation with Friction** \\textInitial KE = \\textFinal PE + \\textEnergy lost to friction 200 = 180 + E_\\textfriction E_\\textfriction = 20 \\text J ## Key Concept Without air friction, a body thrown upward with 20 m/s would reach: h = \\fracu^22g = \\frac\u2084\u2080\u2080\u2082\u2080 = 20 \\text m But it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated. ## Why Other Options Are Wrong - **(B) 30 J**: Would give h = 17 m - **(C) 40 J**: Would give h = 16 m - **(D) 10 J**: Would give h = 18.5 m **Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
+      "solution": "# Answer: **(A) 20 J** ## Step-by-Step Solution **Given Information:** - Mass = 1 kg - Initial velocity = 20 m/s (upward) - Height reached = 18 m - g = 10 m/s\u00b2 **Step 1: Calculate Initial Kinetic Energy** KE_i = \\frac\u2081\u2082mu^2 = \\frac\u2081\u2082(1)(20)^2 = 200 J **Step 2: Calculate Final Potential Energy** When the body comes to rest at height h = 18 m: PE_f = mgh = (1)(10)(18) = 180 J **Step 3: Apply Energy Conservation with Friction** Initial KE = Final PE + Energy lost to friction 200 = 180 + E_friction E_friction = 20 J ## Key Concept Without air friction, a body thrown upward with 20 m/s would reach: h = \\fracu^22g = \\frac\u2084\u2080\u2080\u2082\u2080 = 20 m But it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated. ## Why Other Options Are Wrong - **(B) 30 J**: Would give h = 17 m - **(C) 40 J**: Would give h = 16 m - **(D) 10 J**: Would give h = 18.5 m **Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Physics",
@@ -72,14 +72,14 @@
         "D": "150%"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) 125%** ## Step-by-Step Solution: **Step 1: Recall the relationship between KE and momentum** \\textKE = \\fracp^22m This shows that kinetic energy is **directly proportional to the square of momentum**. **Step 2: Apply the 50% increase to momentum** - Initial momentum: p - Final momentum: p' = 1.5p (50% increase means multiplying by 1.5) **Step 3: Calculate the new kinetic energy** \\textKE_\\textfinal = \\frac(1.5p)^22m = \\frac\u2082.25p^22m \\textKE_\\textfinal = 2.25 \u00d7 \\textKE_\\textinitial **Step 4: Find percentage increase** \\textPercentage increase = \\frac\\textKE_\\textfinal - \\textKE_\\textinitial\\textKE_\\textinitial \u00d7 100\\% = \\frac\u2082.25 - 11 \u00d7 100\\% = 1.25 \u00d7 100\\% = \\boxed\u2081\u2082\u2085\\% ## Key Concept: Since KE \u221d p\u00b2, if momentum increases by a factor of **k**, kinetic energy increases by a factor of **k\u00b2**. | Change in p | Factor | Change in KE | Factor | |---|---|---|---| | \u00d71.5 | 1.5\u00b2 | = \u00d72.25 | **125% increase** | ## Why other options are wrong: - **(B) 100%**: This would happen if KE \u221d p directly (incorrect relationship) - **(C) 225%**: This confuses 2.25 times with percentage directly - **(D) 150%**: This equals 1.5 \u00d7 100%, again treating it linearly",
+      "solution": "# Answer: **(A) 125%** ## Step-by-Step Solution: **Step 1: Recall the relationship between KE and momentum** KE = \\fracp^22m This shows that kinetic energy is **directly proportional to the square of momentum**. **Step 2: Apply the 50% increase to momentum** - Initial momentum: p - Final momentum: p' = 1.5p (50% increase means multiplying by 1.5) **Step 3: Calculate the new kinetic energy** KE_final = \\frac(1.5p)^22m = \\frac\u2082.25p^22m KE_final = 2.25 \u00d7 KE_initial **Step 4: Find percentage increase** Percentage increase = \\fracKE_final - KE_initialKE_initial \u00d7 100\\% = \\frac\u2082.25 - 11 \u00d7 100\\% = 1.25 \u00d7 100\\% = \\boxed\u2081\u2082\u2085\\% ## Key Concept: Since KE \u221d p\u00b2, if momentum increases by a factor of **k**, kinetic energy increases by a factor of **k\u00b2**. | Change in p | Factor | Change in KE | Factor | |---|---|---|---| | \u00d71.5 | 1.5\u00b2 | = \u00d72.25 | **125% increase** | ## Why other options are wrong: - **(B) 100%**: This would happen if KE \u221d p directly (incorrect relationship) - **(C) 225%**: This confuses 2.25 times with percentage directly - **(D) 150%**: This equals 1.5 \u00d7 100%, again treating it linearly",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "In an a.c. circuit, the instantaneous e.m.f. and current are given by <br/> e = 100 sin 30 t<br/> i = 20 sin \\left( 30t - \\pi \\over 4 \\right)<br/> In one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively",
+      "question": "In an a.c. circuit, the instantaneous e.m.f. and current are given by <br/> e = 100 sin 30 t<br/> i = 20 sin ( 30t - \\pi \\over 4 \\)<br/> In one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively",
       "options": {
         "A": "50, 0",
         "B": "50, 10",
@@ -117,7 +117,7 @@
         "D": "50\\%"
       },
       "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2089\u2081oguxy/85d\u2081\u2082\u2084a\u2088-cb\u2082\u2081-4c\u2089b-ad\u2088d-99746c\u2083\u2081\u2087\u2086de/08f\u2087\u2087b\u2087\u2080-4800-11ed-8757-0f\u2088\u2086\u2089\u2085\u2089\u2083f\u2084\u2081f/file-1l\u2089\u2081oguxz.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2089\u2081oguxy/85d\u2081\u2082\u2084a\u2088-cb\u2082\u2081-4c\u2089b-ad\u2088d-99746c\u2083\u2081\u2087\u2086de/08f\u2087\u2087b\u2087\u2080-4800-11ed-8757-0f\u2088\u2086\u2089\u2085\u2089\u2083f\u2084\u2081f/file-1l\u2089\u2081oguxz.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 112 English Explanation\"> <br>Applying conservation of linear momentum in x direction <br><br>2mv = \\left( 2m + m \\right)V_x <br><br> \\Rightarrow V_x = 2 \\over 3v <br><br>Applying conservation of linear momentum in y direction <br><br>2mv = \\left( 2m + m \\right)V_y <br><br> \\Rightarrow V_y = 2 \\over 3v <br><br>Final speed of 3m mass, V_f = \\sqrt V_x^2 + V_y^2 <br><br>= \\sqrt 4v^2 \\over 9 + 4v^2 \\over 9 <br><br>= \\sqrt 8v^2 \\over 9 <br><br>Initial kinetic energy <br><br>E_i = 1 \\over 2m\\left( 2v \\right)^2 + 1 \\over 2\\left( 2m \\right)\\left( v \\right)^2 <br><br> = 2mv^2 + mv^2 <br><br>= 3mv^2 <br><br>Final kinetic energy, <br><br>E_f = 1 \\over 2\\left( 3m \\right)V_f^2 <br><br> = 3m \\over 2\\left[ 8v^2 \\over 9 \\right] <br><br> = 4mv^2 \\over 3 <br><br>Energy loss = E_i - E_f <br><br>= 3mv^2 - 4mv^2 \\over 3 <br><br>= 5mv^2 \\over 3 <br><br>Percentage loss in the energy during the collision <br><br>= E_i - E_f \\over E_i \u00d7 100 <br><br>= 5mv^2 \\over 3 \\over 3mv^2 \u00d7 100 <br><br>= 5 \\over 9 \u00d7 100 <br><br> \\simeq 56\\%",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2089\u2081oguxy/85d\u2081\u2082\u2084a\u2088-cb\u2082\u2081-4c\u2089b-ad\u2088d-99746c\u2083\u2081\u2087\u2086de/08f\u2087\u2087b\u2087\u2080-4800-11ed-8757-0f\u2088\u2086\u2089\u2085\u2089\u2083f\u2084\u2081f/file-1l\u2089\u2081oguxz.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2089\u2081oguxy/85d\u2081\u2082\u2084a\u2088-cb\u2082\u2081-4c\u2089b-ad\u2088d-99746c\u2083\u2081\u2087\u2086de/08f\u2087\u2087b\u2087\u2080-4800-11ed-8757-0f\u2088\u2086\u2089\u2085\u2089\u2083f\u2084\u2081f/file-1l\u2089\u2081oguxz.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 112 English Explanation\"> <br>Applying conservation of linear momentum in x direction <br><br>2mv = ( 2m + m \\)V_x <br><br> \\Rightarrow V_x = 2 \\over 3v <br><br>Applying conservation of linear momentum in y direction <br><br>2mv = ( 2m + m \\)V_y <br><br> \\Rightarrow V_y = 2 \\over 3v <br><br>Final speed of 3m mass, V_f = \\sqrt V_x^2 + V_y^2 <br><br>= \\sqrt 4v^2 \\over 9 + 4v^2 \\over 9 <br><br>= \\sqrt 8v^2 \\over 9 <br><br>Initial kinetic energy <br><br>E_i = 1 \\over 2m( 2v \\)^2 + 1 \\over 2( 2m \\)( v \\)^2 <br><br> = 2mv^2 + mv^2 <br><br>= 3mv^2 <br><br>Final kinetic energy, <br><br>E_f = 1 \\over 2( 3m \\)V_f^2 <br><br> = 3m \\over 2\\left[ 8v^2 \\over 9 \\] <br><br> = 4mv^2 \\over 3 <br><br>Energy loss = E_i - E_f <br><br>= 3mv^2 - 4mv^2 \\over 3 <br><br>= 5mv^2 \\over 3 <br><br>Percentage loss in the energy during the collision <br><br>= E_i - E_f \\over E_i \u00d7 100 <br><br>= 5mv^2 \\over 3 \\over 3mv^2 \u00d7 100 <br><br>= 5 \\over 9 \u00d7 100 <br><br> \\simeq 56\\%",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Physics",
@@ -126,13 +126,13 @@
     {
       "question": "In a collinear collision, a particle with an initial speed v<sub>0</sub> strikes a stationary particle of the same mass. If the final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative velocity between the two particles, after collision, is :",
       "options": {
-        "A": "v_0 \\over \\sqrt 2",
-        "B": "v_0 \\over 4",
+        "A": "V_0 \\over \\sqrt 2",
+        "B": "V_0 \\over 4",
         "C": "\\sqrt 2 v_0",
-        "D": "v_0 \\over 2"
+        "D": "V_0 \\over 2"
       },
       "answer": "C",
-      "solution": "From conservation of linear momentum, <br><br>mv<sub>0</sub> = mv<sub>1</sub> + mv<sub>2</sub> <br><br>or v<sub>0</sub> = v<sub>1</sub> + v<sub>2</sub> ........(1) <br><br>According to the question, <br><br>K<sub>f</sub> = 3 \\over 2K<sub>i</sub> <br><br> \\Rightarrow 1 \\over 2mv_1^2 + 1 \\over 2mv_2^2 = 3 \\over 2 \u00d7 1 \\over 2mv_0^2 <br><br> \\Rightarrow v_1^2 + v_2^2 = 3 \\over 2v_0^2 <br><br>Using eq (1) \\left( v_1 + v_2 \\right)^2 = v_0^2 <br><br> \\Rightarrow v_1^2 + v_2^2 + 2v_1v_2 = v_0^2 <br><br> \\Rightarrow 2v_1v_2 = v_0^2 - 3 \\over 2v_0^2 = - 1 \\over 2v_0^2 <br><br>Now, \\left( v_1 - v_2 \\right)^2 = \\left( v_1 + v_2 \\right)^2 - 4v_1v_2 <br><br>= v_0^2 - \\left( - v_0^2 \\right) = 2v_0^2 <br><br>\\therefore v_1 - v_2 = \\sqrt 2 v_0",
+      "solution": "From conservation of linear momentum, <br><br>mv<sub>0</sub> = mv<sub>1</sub> + mv<sub>2</sub> <br><br>or v<sub>0</sub> = v<sub>1</sub> + v<sub>2</sub> ........(1) <br><br>According to the question, <br><br>K<sub>f</sub> = 3 \\over 2K<sub>i</sub> <br><br> \\Rightarrow 1 \\over 2mv_1^2 + 1 \\over 2mv_2^2 = 3 \\over 2 \u00d7 1 \\over 2mv_0^2 <br><br> \\Rightarrow v_1^2 + v_2^2 = 3 \\over 2v_0^2 <br><br>Using eq (1) ( v_1 + v_2 \\)^2 = v_0^2 <br><br> \\Rightarrow v_1^2 + v_2^2 + 2v_1v_2 = v_0^2 <br><br> \\Rightarrow 2v_1v_2 = v_0^2 - 3 \\over 2v_0^2 = - 1 \\over 2v_0^2 <br><br>Now, ( v_1 - v_2 \\)^2 = ( v_1 + v_2 \\)^2 - 4v_1v_2 <br><br>= v_0^2 - ( - v_0^2 \\) = 2v_0^2 <br><br>\\therefore v_1 - v_2 = \\sqrt 2 v_0",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -147,7 +147,7 @@
         "D": "1.5 kg"
       },
       "answer": "A",
-      "solution": "By conservation of linear momentum:<br><br> 2v_0 = 2\\left( v_0 \\over 4 \\right) + mv \\Rightarrow 2v_0 = v_0 \\over 2 + mv<br><br> \\Rightarrow 3v_0 \\over 2 = mv\\,\\,...(1)<br><br> Since collision is elastic<br><br> V_separation = V_approch<br><br> \\Rightarrow v - v_0 \\over 4 = v_0 \\Rightarrow m = 6 \\over 5 = 1.2\\,kg",
+      "solution": "By conservation of linear momentum:<br><br> 2v_0 = 2( v_0 \\over 4 \\) + mv \\Rightarrow 2v_0 = v_0 \\over 2 + mv<br><br> \\Rightarrow 3v_0 \\over 2 = mv\\,\\,...(1)<br><br> Since collision is elastic<br><br> V_separation = V_approch<br><br> \\Rightarrow v - v_0 \\over 4 = v_0 \\Rightarrow m = 6 \\over 5 = 1.2\\,kg",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -156,10 +156,10 @@
     {
       "question": "body of mass m<sub>1</sub> moving with an unknown velocity of v_1\\mathop i\\limits^ \\wedge , undergoes a collinear collision with a body of mass m<sub>2</sub> moving with a velocity v_2\\mathop i\\limits^ \\wedge . After collision, m<sub>1</sub> and m<sub>2</sub> move with velocities of v_3\\mathop i\\limits^ \\wedge and v_4\\mathop i\\limits^ \\wedge , respectively. If m<sub>2</sub> = 0.5 m<sub>1</sub> and v<sub>3</sub> = 0.5 v<sub>1</sub>, then v<sub>1</sub> is :-",
       "options": {
-        "A": "v_4 - v_2 \\over 2",
-        "B": "v_4 - v_2 \\over 4",
-        "C": "v_4 - v_2",
-        "D": "v_4 + v_2"
+        "A": "V_4 - v_2 \\over 2",
+        "B": "V_4 - v_2 \\over 4",
+        "C": "V_4 - v_2",
+        "D": "V_4 + v_2"
       },
       "answer": "C",
       "solution": "Applying linear momentum conservation<br><br> m_1v_1\\widehat i + m_2v_2\\widehat i = m_1v_3\\widehat i + m_2v_4\\widehat i<br><br> m<sub>1</sub>v<sub>1</sub> + 0.5 m<sub>1</sub>v<sub>2</sub> = m<sub>1</sub>(0.5 v<sub>1</sub>) + 0.5 m<sub>1</sub>v<sub>4</sub><br><br> 0.5 m<sub>1</sub>v<sub>1</sub> = 0.5 m<sub>1</sub>(v<sub>4</sub> - v<sub>2</sub>)<br><br> v<sub>1</sub> = v<sub>4</sub> - v<sub>2</sub>",
@@ -169,7 +169,7 @@
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Two particles of equal mass m have respective <br/>initial velocities u\\widehat i and u\\left( \\widehat i + \\widehat j \\over 2 \\right). <br/>They collide completely inelastically. The energy lost in the process is :",
+      "question": "Two particles of equal mass m have respective <br/>initial velocities u\\widehat i and u( \\widehat i + \\widehat j \\over 2 \\). <br/>They collide completely inelastically. The energy lost in the process is :",
       "options": {
         "A": "1 \\over 3mu^2",
         "B": "1 \\over 8mu^2",
@@ -177,7 +177,7 @@
         "D": "\\sqrt 2 \\over 3 mu^2"
       },
       "answer": "B",
-      "solution": "\\overrightarrow P_i = \\overrightarrow P_f <br><br> \\Rightarrow mu\\widehat i + m\\left( u \\over 2\\widehat i + u \\over 2\\widehat j \\right) = 2m\\overrightarrow v <br><br>Compare both side <br><br>\\overrightarrow v = 3u \\over 4\\widehat i + u \\over 4\\widehat j <br><br> \\Rightarrow \\left| \\overrightarrow v \\right|^2 = 10u^2 \\over 16 <br><br>\\Delta KE = KE<sub>f</sub> \\\u2013 KE<sub>i</sub> <br><br>= 1 \\over 22m \u00d7 10u^2 \\over 16 - 1 \\over 2mu^2 - 1 \\over 2m\\left( u \\over \\sqrt 2 \\right)^2 <br><br>= - 1 \\over 8mu^2",
+      "solution": "\\overarrow P_i = \\overarrow P_f <br><br> \\Rightarrow mu\\widehat i + m( u \\over 2\\widehat i + u \\over 2\\widehat j \\) = 2m\\overarrow v <br><br>Compare both side <br><br>\\overarrow v = 3u \\over 4\\widehat i + u \\over 4\\widehat j <br><br> \\Rightarrow \\left| \\overarrow v \\|^2 = 10u^2 \\over 16 <br><br>\\Delta KE = KE<sub>f</sub> \\\u2013 KE<sub>i</sub> <br><br>= 1 \\over 22m \u00d7 10u^2 \\over 16 - 1 \\over 2mu^2 - 1 \\over 2m( u \\over \\sqrt 2 \\)^2 <br><br>= - 1 \\over 8mu^2",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -186,30 +186,15 @@
     {
       "question": "particle of mass m with an initial velocity u\\widehat i collides perfectly elastically with a mass 3 m at rest. It moves with a velocity v\\widehat j after collision, then, v is given by :",
       "options": {
-        "A": "v = \\sqrt 2 \\over 3 u",
-        "B": "v = u \\over \\sqrt 3",
-        "C": "v = u \\over \\sqrt 2",
-        "D": "v = 1 \\over \\sqrt 6 u"
+        "A": "V = \\sqrt 2 \\over 3 u",
+        "B": "V = u \\over \\sqrt 3",
+        "C": "V = u \\over \\sqrt 2",
+        "D": "V = 1 \\over \\sqrt 6 u"
       },
       "answer": "C",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2087\u2088\u2088/exam_images/poqdjc\u2081xnmmdiphatyez.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2089\u2083\u2084/exam_images/utvlhagwigwe\u2084k\u2088ngxgy.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2087\u2081\u2087/exam_images/nwijf\u2089rwaqeaylnr\u2088\u2089dj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Center of Mass and Collision Question 68 English Explanation\"> <br><br>From momentum conservation <br><br>m(u)\\widehat i + 3m(0) = mv\\widehat j + 3m\\overrightarrow v' <br><br> \\Rightarrow 3m\\overrightarrow v' = m(u)\\widehat i - mv\\widehat j <br><br> \\Rightarrow \\overrightarrow v' = u\\widehat i - v\\widehat j \\over 3 <br><br> \\therefore \\left| \\overrightarrow v' \\right| = \\sqrt u^2 + v^2 \\over 3 <br><br> \\Rightarrow \\left| \\overrightarrow v' \\right|^2 = u^2 + v^2 \\over 9 ......(1) <br><br>As collision is perfectely elastic hence <br><br>KE<sub>i</sub> = KE<sub>j</sub> <br><br> \\Rightarrow 1 \\over 2mu^2 + 1 \\over 2\\left( 3m \\right) \u00d7 0^2 = 1 \\over 2mv^2 + 1 \\over 23m\\left( v' \\right)^2 <br><br> \\Rightarrow u<sup>2</sup> = v<sup>2</sup> + 3\\left( v' \\right)^2 <br><br> \\Rightarrow u<sup>2</sup> = v<sup>2</sup> + 3\\left( u^2 + v^2 \\over 9 \\right) <br><br> \\Rightarrow 3u<sup>2</sup> = 3v<sup>2</sup> + u<sup>2</sup> + v<sup>2</sup> <br><br> \\Rightarrow 2u<sup>2</sup> = 4v<sup>2</sup> <br><br> \\Rightarrow v = u \\over \\sqrt 2",
+      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2087\u2088\u2088/exam_images/poqdjc\u2081xnmmdiphatyez.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2089\u2083\u2084/exam_images/utvlhagwigwe\u2084k\u2088ngxgy.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2087\u2081\u2087/exam_images/nwijf\u2089rwaqeaylnr\u2088\u2089dj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Center of Mass and Collision Question 68 English Explanation\"> <br><br>From momentum conservation <br><br>m(u)\\widehat i + 3m(0) = mv\\widehat j + 3m\\overarrow v' <br><br> \\Rightarrow 3m\\overarrow v' = m(u)\\widehat i - mv\\widehat j <br><br> \\Rightarrow \\overarrow v' = u\\widehat i - v\\widehat j \\over 3 <br><br> \\therefore \\left| \\overarrow v' \\| = \\sqrt u^2 + v^2 \\over 3 <br><br> \\Rightarrow \\left| \\overarrow v' \\|^2 = u^2 + v^2 \\over 9 ......(1) <br><br>As collision is perfectely elastic hence <br><br>KE<sub>i</sub> = KE<sub>j</sub> <br><br> \\Rightarrow 1 \\over 2mu^2 + 1 \\over 2( 3m \\) \u00d7 0^2 = 1 \\over 2mv^2 + 1 \\over 23m( v' \\)^2 <br><br> \\Rightarrow u<sup>2</sup> = v<sup>2</sup> + 3( v' \\)^2 <br><br> \\Rightarrow u<sup>2</sup> = v<sup>2</sup> + 3( u^2 + v^2 \\over 9 \\) <br><br> \\Rightarrow 3u<sup>2</sup> = 3v<sup>2</sup> + u<sup>2</sup> + v<sup>2</sup> <br><br> \\Rightarrow 2u<sup>2</sup> = 4v<sup>2</sup> <br><br> \\Rightarrow v = u \\over \\sqrt 2",
       "exam": "JEE Main 2020",
       "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : Body 'P' having mass M moving with speed 'u' has head-on collision elastically with another body 'Q' having mass 'm' initially at rest. If m << M, body 'Q' will have a maximum speed equal to '2u' after collision.<br/><br/>Reason R : During elastic collision, the momentum and kinetic energy are both conserved.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "is correct but R is not correct.",
-        "B": "is not correct but R is correct.",
-        "C": "Both A and R are correct and R is the correct explanation of A.",
-        "D": "Both A and R are correct but R is NOT the correct explanation of A."
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2085\u2082/exam_images/hynytorlgqmtqikmstpj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Morning Shift Physics - Center of Mass and Collision Question 55 English Explanation\"> <br><br>m < < M<br><br>e = v_2 - v_1 \\over u_1 - u_2<br><br>For elastic collision \\to e = 1<br><br>1 = v_2 - u \\over u - 0<br><br>u = v<sub>2</sub> - u<br><br>v<sub>2</sub> = 2u<br><br>In elastic collision kinetic energy & momentum are conserved.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
@@ -231,10 +216,10 @@
     {
       "question": "body of mass M moving at speed V<sub>0</sub> collides elastically with a mass 'm' at rest. After the collision, the two masses move at angles \\theta<sub>1</sub> and \\theta<sub>2</sub> with respect to the initial direction of motion of the body of mass M. The largest possible value of the ratio M/m, for which the angles \\theta<sub>1</sub> and \\theta<sub>2</sub> will be equal, is :",
       "options": {
-        "A": "4",
-        "B": "1",
-        "C": "3",
-        "D": "2"
+        "A": "4%",
+        "B": "1%",
+        "C": "3%",
+        "D": "2%"
       },
       "answer": "C",
       "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2081\u2089/exam_images/mcdijut\u2081xrwp\u2083d\u2085\u2087papi.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Center of Mass and Collision Question 38 English Explanation\"><br>Given \\theta<sub>1</sub> = \\theta<sub>2</sub> = \\theta<br><br>from momentum conservation<br><br>in x-direction MV<sub>0</sub> = MV<sub>1</sub> cos\\theta + mV<sub>2</sub> cos\\theta<br><br>in y-direction 0 = MV<sub>1</sub> sin\\theta - mV<sub>2</sub> sin\\theta<br><br>Solving above equations<br><br>V_2 = MV_1 \\over m, V<sub>0</sub> = 2V<sub>1</sub> cos\\theta<br><br>From energy conservation<br><br>1 \\over 2MV_0^2 = 1 \\over 2MV_1^2 + 1 \\over 2MV_2^2<br><br>Substituting value of V<sub>2</sub> & V<sub>0</sub>, we will get<br><br>M \\over m + 1 = 4\\cos ^2\\theta \\le 4<br><br>M \\over m \\le 3<br><br>Option (c)",
@@ -252,7 +237,7 @@
         "D": "33.3%"
       },
       "answer": "C",
-      "solution": "For a head on elastic collision v_2 = mu_1 \\over m + 5m + mu_1 \\over m + 5m = 2u_1 \\over 6 or u_1 \\over 3 Initial kinetic energy of first mass = 1 \\over 2mu_1^2 Final kinetic energy of second mass = 1 \\over 2 \u00d7 5m\\left( u_1 \\over 3 \\right)^2 = 5 \\over 9\\left( 1 \\over 2mu_1^2 \\right) \\Rightarrow kinetic energy transferred = 55% of initial kinetic energy of first colliding mass",
+      "solution": "For a head on elastic collision v_2 = mu_1 \\over m + 5m + mu_1 \\over m + 5m = 2u_1 \\over 6 or u_1 \\over 3 Initial kinetic energy of first mass = 1 \\over 2mu_1^2 Final kinetic energy of second mass = 1 \\over 2 \u00d7 5m( u_1 \\over 3 \\)^2 = 5 \\over 9( 1 \\over 2mu_1^2 \\) \\Rightarrow kinetic energy transferred = 55% of initial kinetic energy of first colliding mass",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -274,7 +259,7 @@
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Particle A of mass m<sub>1</sub> moving with velocity \\left( \\sqrt\u2083\\widehat i + \\widehat j \\right)ms^ - 1 collides with another particle B of mass m<sub>2</sub> which is at rest initially. Let \\overrightarrow V_1 and \\overrightarrow V_2 be the velocities of particles A and B after collision respectively. If m<sub>1</sub> = 2m<sub>2</sub> and after<br/> collision \\overrightarrow V_1 = \\left( \\widehat i + \\sqrt 3 \\widehat j \\right) , the angle between \\overrightarrow V_1 and \\overrightarrow V_2 is :",
+      "question": "Particle A of mass m<sub>1</sub> moving with velocity ( \\sqrt\u2083\\widehat i + \\widehat j \\)ms^ - 1 collides with another particle B of mass m<sub>2</sub> which is at rest initially. Let \\overarrow V_1 and \\overarrow V_2 be the velocities of particles A and B after collision respectively. If m<sub>1</sub> = 2m<sub>2</sub> and after<br/> collision \\overarrow V_1 = ( \\widehat i + \\sqrt 3 \\widehat j \\) , the angle between \\overarrow V_1 and \\overarrow V_2 is :",
       "options": {
         "A": "105<sup>o</sup>",
         "B": "15<sup>o</sup>",
@@ -282,7 +267,7 @@
         "D": "60<sup>o</sup>"
       },
       "answer": "A",
-      "solution": "Given m<sub>1</sub> = 2m<sub>2</sub> <br>So let, m<sub>2</sub> = m and m<sub>1</sub> = 2m <br><br>From momentum conservation <br><br>\\overrightarrow p _i = \\overrightarrow p _f <br><br> \\Rightarrow (2m)\\left( \\sqrt 3 \\widehat i + \\widehat j \\right) + 0 = 2m\\left( \\widehat i + \\sqrt 3 \\widehat j \\right) + m\\overrightarrow V _2 <br><br> \\Rightarrow \\overrightarrow V _2 = 2\\left( \\sqrt 3 \\widehat i + \\widehat j \\right) - 2\\left( \\widehat i + \\sqrt 3 \\widehat j \\right) <br><br> \\Rightarrow \\overrightarrow V _2 = \\left( 2\\sqrt 3 - 2 \\right)\\widehat i - \\widehat j\\left( 2\\sqrt 3 - 2 \\right) <br><br>= 2\\left( \\sqrt 3 - 1 \\right)\\left( \\widehat i - \\widehat j \\right) <br><br>Also given after collision \\overrightarrow V_1 = \\left( \\widehat i + \\sqrt\u2083\\widehat j \\right)ms^ - 1 <br><br>For angle between \\overrightarrow V _1 & \\overrightarrow V _2, <br><br>cos \\theta = \\overrightarrow V _1.\\overrightarrow V _2 \\over \\left| \\overrightarrow V _1 \\right|\\left| \\overrightarrow V _2 \\right| <br><br>= 2\\left( \\sqrt 3 - 1 \\right) \u00d7 1 - 2\\left( \\sqrt 3 - 1 \\right) \u00d7 \\sqrt 3 \\over 2 \u00d7 2\\sqrt 2 \\left( \\sqrt 3 - 1 \\right) <br><br>= 2\\left( \\sqrt 3 - 1 \\right)\\left( 1 - \\sqrt 3 \\right) \\over 2 \u00d7 2\\sqrt 2 \\left( \\sqrt 3 - 1 \\right) <br><br>= \\left( 1 - \\sqrt 3 \\right) \\over 2\\sqrt 2 <br><br> \\Rightarrow \\theta = 105<sup>o</sup>",
+      "solution": "Given m<sub>1</sub> = 2m<sub>2</sub> <br>So let, m<sub>2</sub> = m and m<sub>1</sub> = 2m <br><br>From momentum conservation <br><br>\\overarrow p _i = \\overarrow p _f <br><br> \\Rightarrow (2m)( \\sqrt 3 \\widehat i + \\widehat j \\) + 0 = 2m( \\widehat i + \\sqrt 3 \\widehat j \\) + m\\overarrow V _2 <br><br> \\Rightarrow \\overarrow V _2 = 2( \\sqrt 3 \\widehat i + \\widehat j \\) - 2( \\widehat i + \\sqrt 3 \\widehat j \\) <br><br> \\Rightarrow \\overarrow V _2 = ( 2\\sqrt 3 - 2 \\)\\widehat i - \\widehat j( 2\\sqrt 3 - 2 \\) <br><br>= 2( \\sqrt 3 - 1 \\)( \\widehat i - \\widehat j \\) <br><br>Also given after collision \\overarrow V_1 = ( \\widehat i + \\sqrt\u2083\\widehat j \\)ms^ - 1 <br><br>For angle between \\overarrow V _1 & \\overarrow V _2, <br><br>cos \\theta = \\overarrow V _1.\\overarrow V _2 \\over \\left| \\overarrow V _1 \\|\\left| \\overarrow V _2 \\| <br><br>= 2( \\sqrt 3 - 1 \\) \u00d7 1 - 2( \\sqrt 3 - 1 \\) \u00d7 \\sqrt 3 \\over 2 \u00d7 2\\sqrt 2 ( \\sqrt 3 - 1 \\) <br><br>= 2( \\sqrt 3 - 1 \\)( 1 - \\sqrt 3 \\) \\over 2 \u00d7 2\\sqrt 2 ( \\sqrt 3 - 1 \\) <br><br>= ( 1 - \\sqrt 3 \\) \\over 2\\sqrt 2 <br><br> \\Rightarrow \\theta = 105<sup>o</sup>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -342,7 +327,7 @@
         "D": "60 m/s"
       },
       "answer": "B",
-      "solution": "\\because Time of flight of each ball and bullet = \\sqrt 2H \\over g = \\sqrt 2 \u00d7 20 \\over 10 = 2 s \\Rightarrow By applying linear momentum conservation 100u + 200(0) = 200\\left( 30 \\over 2 \\right) + 10\\left( 120 \\over 2 \\right) u = 360 m/s",
+      "solution": "\\because Time of flight of each ball and bullet = \\sqrt 2H \\over g = \\sqrt 2 \u00d7 20 \\over 10 = 2 s \\Rightarrow By applying linear momentum conservation 100u + 200(0) = 200( 30 \\over 2 \\) + 10( 120 \\over 2 \\) u = 360 m/s",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -351,13 +336,13 @@
     {
       "question": "An artillery piece of mass M_1 fires a shell of mass M_2 horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is:",
       "options": {
-        "A": "M_1 /\\left(M_1+M_2\\right)",
+        "A": "M_1 /(M_1+M_2\\)",
         "B": "\\fracM_2M_1",
         "C": "\\fracM_1M_2",
-        "D": "M_2 /\\left(M_1+M_2\\right)"
+        "D": "M_2 /(M_1+M_2\\)"
       },
       "answer": "B",
-      "solution": "\\beginaligned & \\left|\\overrightarrowp_1\\right|=\\left|\\overrightarrowp_2\\right| \\\\ & KE=\\fracp^22 M ; p \\text same \\\\ & KE \\propto \\frac\u2081 m \\\\ & \\fracKE_1KE_2=\\fracp^2 / 2 M_1p^2 / 2 M_2=\\fracM_2M_1 \\endaligned",
+      "solution": "\\beginaligned & \\left|\\overarrowp_1\\|=\\left|\\overarrowp_2\\| \\\\ & KE=\\fracp^22 M ; p same \\\\ & KE \\propto \\frac\u2081 m \\\\ & \\fracKE_1KE_2=\\fracp^2 / 2 M_1p^2 / 2 M_2=\\fracM_2M_1 \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -387,7 +372,7 @@
         "D": "12 J"
       },
       "answer": "B",
-      "solution": "A = 16 \u00d7 10^ - 4 m<sup>2</sup> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2086xtieam/d\u2082\u2080\u2081f\u2080d\u2082-be\u2085e-46cd-9d\u2080\u2089-4eab\u2086\u2083f\u2080\u2083c\u2080c/3003afe\u2080-1e\u2084\u2088-11ed-9c\u2086\u2081-4529b\u2087\u2082\u2081\u2088\u2080\u2086b/file-1l\u2086xtiean.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2086xtieam/d\u2082\u2080\u2081f\u2080d\u2082-be\u2085e-46cd-9d\u2080\u2089-4eab\u2086\u2083f\u2080\u2083c\u2080c/3003afe\u2080-1e\u2084\u2088-11ed-9c\u2086\u2081-4529b\u2087\u2082\u2081\u2088\u2080\u2086b/file-1l\u2086xtiean.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 107 English Explanation\"> E_in = m_1gH_1 \\over 2 + m_2gH_2 \\over 2 = \\rho gA \\over 2\\left( H_1^2 + H_2^2 \\right) = \\rho gA \\over 2\\left( 1^2 + 1.5^2 \\right) E_fin = \\rho gA \\over 2\\left( 2H^2 \\right) = \\rho gA \\over 2\\left( 2 \u00d7 1.25^2 \\right) W = \\rho gA \\over 2\\left( 3.25 - 3.125 \\right) = 1 J",
+      "solution": "A = 16 \u00d7 10^ - 4 m<sup>2</sup> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2086xtieam/d\u2082\u2080\u2081f\u2080d\u2082-be\u2085e-46cd-9d\u2080\u2089-4eab\u2086\u2083f\u2080\u2083c\u2080c/3003afe\u2080-1e\u2084\u2088-11ed-9c\u2086\u2081-4529b\u2087\u2082\u2081\u2088\u2080\u2086b/file-1l\u2086xtiean.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2086xtieam/d\u2082\u2080\u2081f\u2080d\u2082-be\u2085e-46cd-9d\u2080\u2089-4eab\u2086\u2083f\u2080\u2083c\u2080c/3003afe\u2080-1e\u2084\u2088-11ed-9c\u2086\u2081-4529b\u2087\u2082\u2081\u2088\u2080\u2086b/file-1l\u2086xtiean.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 107 English Explanation\"> E_in = m_1gH_1 \\over 2 + m_2gH_2 \\over 2 = \\rho gA \\over 2( H_1^2 + H_2^2 \\) = \\rho gA \\over 2( 1^2 + 1.5^2 \\) E_fin = \\rho gA \\over 2( 2H^2 \\) = \\rho gA \\over 2( 2 \u00d7 1.25^2 \\) W = \\rho gA \\over 2( 3.25 - 3.125 \\) = 1 J",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -402,7 +387,7 @@
         "D": "\\sqrt 2 :1"
       },
       "answer": "D",
-      "solution": "du \\over dv = 1 \\over 2 \u00d7 stress \u00d7 strain <br><br>= 1 \\over 2F \\over A \u00d7 F \\over AY \\propto 1 \\over A^2 \\propto 1 \\over d^4 <br><br>du \\over dv = 1 \\over 4 <br><br> \\Rightarrow \\left( d_1 \\over d_2 \\right)^4 = 4 <br><br> \\Rightarrow d_1 \\over d_2 = \\left( 4 \\right)^1 \\over 4 = \\sqrt 2 :1",
+      "solution": "du \\over dv = 1 \\over 2 \u00d7 stress \u00d7 strain <br><br>= 1 \\over 2F \\over A \u00d7 F \\over AY \\propto 1 \\over A^2 \\propto 1 \\over d^4 <br><br>du \\over dv = 1 \\over 4 <br><br> \\Rightarrow ( d_1 \\over d_2 \\)^4 = 4 <br><br> \\Rightarrow d_1 \\over d_2 = ( 4 \\)^1 \\over 4 = \\sqrt 2 :1",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -417,7 +402,7 @@
         "D": "7 s"
       },
       "answer": "D",
-      "solution": "To determine the time taken for the mechanical energy of the damped oscillator to drop to half its initial value, we'll use the principles of damped harmonic motion. <h\u2083><strong>Given:</strong></h\u2083> <strong>Mass of the block ( m )</strong>: 0.1\\u\u2082\u2080\u2082fkg <strong>Spring constant ( k )</strong>: 640\\u\u2082\u2080\u2082fN/m <strong>Damping constant ( b )</strong>: 10^-2 \\u\u2082\u2080\u2082fkg/s <h\u2083><strong>Understanding Damped Harmonic Motion:</strong></h\u2083> In damped harmonic motion, the amplitude of oscillation decreases exponentially over time due to the damping force. The mechanical energy ( E ) of the oscillator is proportional to the square of its amplitude ( A ): E(t) \\propto A(t)^2 The amplitude as a function of time is given by: A(t) = A_0 \\, e^- \\fracb\u2082m t Where: A_0 is the initial amplitude. b is the damping constant. m is the mass. t is the time. Therefore, the mechanical energy as a function of time is: E(t) = E_0 \\, e^- \\fracbm t Where E_0 is the initial mechanical energy. <h\u2083><strong>Calculating the Time When Energy Drops to Half:</strong></h\u2083> We need to find the time t when E(t) = \\frac\u2081\u2082 E_0 : \\frac\u2081\u2082 E_0 = E_0 \\, e^- \\fracbm t Simplify: \\frac\u2081\u2082 = e^- \\fracbm t Take the natural logarithm of both sides: \\ln\\left(\\frac\u2081\u2082\\right) = - \\fracbm t Simplify \\ln\\left(\\frac\u2081\u2082\\right) = -\\ln(2) : - \\ln(2) = - \\fracbm t Cancel negatives: \\ln(2) = \\fracbm t Solve for t : t = \\fracmb \\ln(2) <h\u2083><strong>Plugging in the Given Values:</strong></h\u2083> t = \\frac\u2080.1\\, \\textkg\u2081\u2080^-2\\, \\textkg/s \\ln(2) Calculate \\ln(2) : \\ln(2) \\approx 0.6931 Now compute t : t = \\frac\u2080.10.01 \u00d7 0.6931 = 10 \u00d7 0.6931 = 6.931\\, \\texts <h\u2083><strong>Conclusion:</strong></h\u2083> The time taken for the mechanical energy to drop to half its initial value is approximately <strong>6.93 seconds</strong>, which is closest to <strong>7 seconds</strong> among the given options.",
+      "solution": "To determine the time taken for the mechanical energy of the damped oscillator to drop to half its initial value, we'll use the principles of damped harmonic motion. <h\u2083><strong>Given:</strong></h\u2083> <strong>Mass of the block ( m )</strong>: 0.1\\u\u2082\u2080\u2082fkg <strong>Spring constant ( k )</strong>: 640\\u\u2082\u2080\u2082fN/m <strong>Damping constant ( b )</strong>: 10^-2 \\u\u2082\u2080\u2082fkg/s <h\u2083><strong>Understanding Damped Harmonic Motion:</strong></h\u2083> In damped harmonic motion, the amplitude of oscillation decreases exponentially over time due to the damping force. The mechanical energy ( E ) of the oscillator is proportional to the square of its amplitude ( A ): E(t) \\propto A(t)^2 The amplitude as a function of time is given by: A(t) = A_0 \\, e^- \\fracb\u2082m t Where: A_0 is the initial amplitude. b is the damping constant. m is the mass. t is the time. Therefore, the mechanical energy as a function of time is: E(t) = E_0 \\, e^- \\fracbm t Where E_0 is the initial mechanical energy. <h\u2083><strong>Calculating the Time When Energy Drops to Half:</strong></h\u2083> We need to find the time t when E(t) = \\frac\u2081\u2082 E_0 : \\frac\u2081\u2082 E_0 = E_0 \\, e^- \\fracbm t Simplify: \\frac\u2081\u2082 = e^- \\fracbm t Take the natural logarithm of both sides: \\ln(\\frac\u2081\u2082\\) = - \\fracbm t Simplify \\ln(\\frac\u2081\u2082\\) = -\\ln(2) : - \\ln(2) = - \\fracbm t Cancel negatives: \\ln(2) = \\fracbm t Solve for t : t = \\fracmb \\ln(2) <h\u2083><strong>Plugging in the Given Values:</strong></h\u2083> t = \\frac\u2080.1\\, kg\u2081\u2080^-2\\, kg/s \\ln(2) Calculate \\ln(2) : \\ln(2) \\approx 0.6931 Now compute t : t = \\frac\u2080.10.01 \u00d7 0.6931 = 10 \u00d7 0.6931 = 6.931\\, s <h\u2083><strong>Conclusion:</strong></h\u2083> The time taken for the mechanical energy to drop to half its initial value is approximately <strong>6.93 seconds</strong>, which is closest to <strong>7 seconds</strong> among the given options.",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -427,12 +412,12 @@
       "question": "If momentum (P), area (A) and time (T) are taken to be the fundamental quantities then the dimensional formula for energy is",
       "options": {
         "A": "[P<sup>2</sup>AT<sup>\\\u20132</sup>]",
-        "B": "\\left[ P^1 \\over 2AT^ - 1 \\right]",
-        "C": "\\left[ PA^1 \\over 2T^ - 1 \\right]",
+        "B": "\\left[ P^1 \\over 2AT^ - 1 \\]",
+        "C": "\\left[ PA^1 \\over 2T^ - 1 \\]",
         "D": "[PA<sup>\\\u20131</sup>T<sup>\\\u20132</sup>]"
       },
       "answer": "C",
-      "solution": "Let [E] = K[P]<sup>x</sup>[A]<sup>y</sup> [T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [MLT<sup>\\\u20131</sup>]<sup>x</sup>[L<sup>2</sup>]<sup>y</sup>[T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [M<sup>x</sup>][L<sup>x+2y</sup>][T<sup>\\\u2013x+z</sup>] <br><br>Comparing both side we get, <br><br> x = 1 <br><br> x + 2y = 2 <br><br> \\Rightarrow 1 + 2y= 2 or y = \\frac\u2081\u2082 <br><br> z \\\u2013 x = \\\u20132 \\Rightarrow z\\\u20131 = \\\u20132 or z = \\\u20131 <br><br> \\therefore [E] = \\left[ PA^1 \\over 2T^ - 1 \\right]",
+      "solution": "Let [E] = K[P]<sup>x</sup>[A]<sup>y</sup> [T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [MLT<sup>\\\u20131</sup>]<sup>x</sup>[L<sup>2</sup>]<sup>y</sup>[T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [M<sup>x</sup>][L<sup>x+2y</sup>][T<sup>\\\u2013x+z</sup>] <br><br>Comparing both side we get, <br><br> x = 1 <br><br> x + 2y = 2 <br><br> \\Rightarrow 1 + 2y= 2 or y = \\frac\u2081\u2082 <br><br> z \\\u2013 x = \\\u20132 \\Rightarrow z\\\u20131 = \\\u20132 or z = \\\u20131 <br><br> \\therefore [E] = \\left[ PA^1 \\over 2T^ - 1 \\]",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -447,7 +432,7 @@
         "D": "(500 \\pm 140) J"
       },
       "answer": "A",
-      "solution": "To find the kinetic energy of the body, we can use the formula: <br/><br/> KE = \\frac\u2081\u2082mv^2 <br/><br/> Given the mass m = (5 \\pm 0.5) \\,\\textkg and the velocity v = (20 \\pm 0.4) \\,\\textm/s, we can find the kinetic energy and its uncertainty by applying the rules for the propagation of errors in multiplication. <br/><br/> For the product of two quantities, the relative error is the sum of the relative errors of the individual quantities: <br/><br/> \\frac\\Delta (mv^2)mv^2 = \\frac\\Delta mm + \\frac\\Delta vv + \\frac\\Delta vv <br/><br/> Now, substitute the given values: <br/><br/> \\frac\\Delta (mv^2)mv^2 = \\frac\u2080.55 + \\frac\u2080.420 + \\frac\u2080.420 <br/><br/> \\frac\\Delta (mv^2)mv^2 = 0.1 + 0.02 + 0.02 <br/><br/> \\frac\\Delta (mv^2)mv^2 = 0.14 <br/><br/> Now, calculate the kinetic energy: <br/><br/> KE = \\frac\u2081\u2082(5)(20)^2 = 1000 \\,\\textJ <br/><br/> To find the uncertainty in the kinetic energy, multiply the relative error by the calculated kinetic energy: <br/><br/> \\Delta KE = 0.14 \u00d7 1000 = 140 \\,\\textJ <br/><br/> So, the kinetic energy of the body is (1000 \\pm 140) \\,\\textJ.",
+      "solution": "To find the kinetic energy of the body, we can use the formula: <br/><br/> KE = \\frac\u2081\u2082mv^2 <br/><br/> Given the mass m = (5 \\pm 0.5) \\,kg and the velocity v = (20 \\pm 0.4) \\,m/s, we can find the kinetic energy and its uncertainty by applying the rules for the propagation of errors in multiplication. <br/><br/> For the product of two quantities, the relative error is the sum of the relative errors of the individual quantities: <br/><br/> \\frac\\Delta (mv^2)mv^2 = \\frac\\Delta mm + \\frac\\Delta vv + \\frac\\Delta vv <br/><br/> Now, substitute the given values: <br/><br/> \\frac\\Delta (mv^2)mv^2 = \\frac\u2080.55 + \\frac\u2080.420 + \\frac\u2080.420 <br/><br/> \\frac\\Delta (mv^2)mv^2 = 0.1 + 0.02 + 0.02 <br/><br/> \\frac\\Delta (mv^2)mv^2 = 0.14 <br/><br/> Now, calculate the kinetic energy: <br/><br/> KE = \\frac\u2081\u2082(5)(20)^2 = 1000 \\,J <br/><br/> To find the uncertainty in the kinetic energy, multiply the relative error by the calculated kinetic energy: <br/><br/> \\Delta KE = 0.14 \u00d7 1000 = 140 \\,J <br/><br/> So, the kinetic energy of the body is (1000 \\pm 140) \\,J.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -462,7 +447,7 @@
         "D": "10<sup>-4</sup> kg m<sup>-1</sup>"
       },
       "answer": "D",
-      "solution": "According to the question, final kinetic energy = 1 \\over 8mv_0^2 <br><br>Let final speed of the body = V<sub>f</sub> <br><br>So final kinetic energy = 1 \\over 2mv_f^2 <br><br>According to question, <br><br>1 \\over 2mv_f^2 = 1 \\over 8mv_0^2 <br><br> \\Rightarrow v_f = v_0 \\over 2 = 10 \\over 2 = 5 m/s <br><br>Given that, F = \\\u2013kv<sup>2</sup> <br><br> \\Rightarrow m\\left( dv \\over dt \\right) = - kv^2 <br><br> \\Rightarrow 10^ - 2\\left( dv \\over dt \\right) = - kv^2 <br><br> \\Rightarrow \\int\\limits_10^5 dv \\over v^2 = - 100k\\int\\limits_0^10 dt <br><br> \\Rightarrow 1 \\over 5 - 1 \\over 10 = 100k \u00d7 10 <br><br> \\Rightarrow k = 10^ - 4kg\\,m^ - 1",
+      "solution": "According to the question, final kinetic energy = 1 \\over 8mv_0^2 <br><br>Let final speed of the body = V<sub>f</sub> <br><br>So final kinetic energy = 1 \\over 2mv_f^2 <br><br>According to question, <br><br>1 \\over 2mv_f^2 = 1 \\over 8mv_0^2 <br><br> \\Rightarrow v_f = v_0 \\over 2 = 10 \\over 2 = 5 m/s <br><br>Given that, F = \\\u2013kv<sup>2</sup> <br><br> \\Rightarrow m( dv \\over dt \\) = - kv^2 <br><br> \\Rightarrow 10^ - 2( dv \\over dt \\) = - kv^2 <br><br> \\Rightarrow \\int\\limits_10^5 dv \\over v^2 = - 100k\\int\\limits_0^10 dt <br><br> \\Rightarrow 1 \\over 5 - 1 \\over 10 = 100k \u00d7 10 <br><br> \\Rightarrow k = 10^ - 4kg\\,m^ - 1",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -484,7 +469,7 @@
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Two particles of the same mass m are moving in circular orbits because of force, given by F\\left( r \\right) = - 16 \\over r - r^3 <br/><br/>The first particle is at a distance r = 1, and the second, at r = 4. The best estimate for the ratio of kinetic energies of the first and the second particle is closest to :",
+      "question": "Two particles of the same mass m are moving in circular orbits because of force, given by F( r \\) = - 16 \\over r - r^3 <br/><br/>The first particle is at a distance r = 1, and the second, at r = 4. The best estimate for the ratio of kinetic energies of the first and the second particle is closest to :",
       "options": {
         "A": "6 \u00d7 10^ - 2",
         "B": "3 \u00d7 10^ - 3",
@@ -492,7 +477,7 @@
         "D": "6 \u00d7 10^ 2"
       },
       "answer": "A",
-      "solution": "In circular motion the force required <br><br>\\left| F \\right| = mv^2 \\over r <br><br>\\therefore\\,\\,\\, mv^2 \\over r = 16 \\over r + r^3 <br><br> \\Rightarrow mv<sup>2</sup> = 16 + r<sup>4</sup> <br><br>\\therefore\\,\\,\\, kinetic energy (K) = 1 \\over 2 mv<sup>2</sup> = 1 \\over 2 [ 16 + r<sup>4</sup>] <br><br>\\therefore\\,\\,\\, Kinetic energy of first particle (K<sub>1</sub>) = 1 \\over 2 [16 + 1] <br><br>Kinetic energy of second particle (K<sub>2</sub>) = 1 \\over 2 [16 + 4<sup>4</sup>] <br><br>\\therefore\\,\\,\\,\\, K_1 \\over K_2 = 16 + 1 \\over 2 \\over 16 + 256 \\over 2 = 17 \\over 272 <br><br> \\Rightarrow \\,\\,\\, K_1 \\over K_2 = 6 \u00d7 10^ - 2",
+      "solution": "In circular motion the force required <br><br>\\left| F \\| = mv^2 \\over r <br><br>\\therefore\\,\\,\\, mv^2 \\over r = 16 \\over r + r^3 <br><br> \\Rightarrow mv<sup>2</sup> = 16 + r<sup>4</sup> <br><br>\\therefore\\,\\,\\, kinetic energy (K) = 1 \\over 2 mv<sup>2</sup> = 1 \\over 2 [ 16 + r<sup>4</sup>] <br><br>\\therefore\\,\\,\\, Kinetic energy of first particle (K<sub>1</sub>) = 1 \\over 2 [16 + 1] <br><br>Kinetic energy of second particle (K<sub>2</sub>) = 1 \\over 2 [16 + 4<sup>4</sup>] <br><br>\\therefore\\,\\,\\,\\, K_1 \\over K_2 = 16 + 1 \\over 2 \\over 16 + 256 \\over 2 = 17 \\over 272 <br><br> \\Rightarrow \\,\\,\\, K_1 \\over K_2 = 6 \u00d7 10^ - 2",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -522,7 +507,7 @@
         "D": "E"
       },
       "answer": "C",
-      "solution": "K.E. = E = 1 \\over 2mv^2 at highest point K.E' = 1 \\over 2mv^2\\cos ^2\\theta = 1 \\over 2mv^2\\left( 1 \\over 4 \\right) = E \\over 4",
+      "solution": "K.E. = E = 1 \\over 2mv^2 at highest point K.E' = 1 \\over 2mv^2\\cos ^2\\theta = 1 \\over 2mv^2( 1 \\over 4 \\) = E \\over 4",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -537,7 +522,7 @@
         "D": "4 : 1"
       },
       "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lei\u2082tyfx/a\u2086b\u2088\u2083f\u2088a-8e\u2088e-45f\u2084-97f\u2086-f\u2080\u2083\u2082b\u2082abb\u2083\u2089\u2088/d\u2084\u2084\u2088\u2080\u2084d\u2080-b\u2084\u2080\u2081-11ed-bf\u2087e-c\u2085\u2082\u2081\u2087\u2087c\u2085\u2083cde/file-1lei\u2082tyfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lei\u2082tyfx/a\u2086b\u2088\u2083f\u2088a-8e\u2088e-45f\u2084-97f\u2086-f\u2080\u2083\u2082b\u2082abb\u2083\u2089\u2088/d\u2084\u2084\u2088\u2080\u2084d\u2080-b\u2084\u2080\u2081-11ed-bf\u2087e-c\u2085\u2082\u2081\u2087\u2087c\u2085\u2083cde/file-1lei\u2082tyfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Morning Shift Physics - Work Power & Energy Question 35 English Explanation\"><br> KE_in=\\frac\u2081\u2082 m v^2 <br><br> KE_\\text final =\\frac\u2081\u2082 m v^2 \\cos ^230^\\circ=\\frac\u2081\u2082 m v^2\\left(\\frac\\sqrt\u2083\u2082\\right)^2 <br><br> \\fracKE_inKE_f=\\frac\\frac\u2081\u2082 m v^2\\frac\u2081\u2082 m v^2\\left(\\frac\u2083\u2084\\right)=\\frac\u2084\u2083",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lei\u2082tyfx/a\u2086b\u2088\u2083f\u2088a-8e\u2088e-45f\u2084-97f\u2086-f\u2080\u2083\u2082b\u2082abb\u2083\u2089\u2088/d\u2084\u2084\u2088\u2080\u2084d\u2080-b\u2084\u2080\u2081-11ed-bf\u2087e-c\u2085\u2082\u2081\u2087\u2087c\u2085\u2083cde/file-1lei\u2082tyfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lei\u2082tyfx/a\u2086b\u2088\u2083f\u2088a-8e\u2088e-45f\u2084-97f\u2086-f\u2080\u2083\u2082b\u2082abb\u2083\u2089\u2088/d\u2084\u2084\u2088\u2080\u2084d\u2080-b\u2084\u2080\u2081-11ed-bf\u2087e-c\u2085\u2082\u2081\u2087\u2087c\u2085\u2083cde/file-1lei\u2082tyfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Morning Shift Physics - Work Power & Energy Question 35 English Explanation\"><br> KE_in=\\frac\u2081\u2082 m v^2 <br><br> KE_ final =\\frac\u2081\u2082 m v^2 \\cos ^230^\\circ=\\frac\u2081\u2082 m v^2(\\frac\\sqrt\u2083\u2082\\)^2 <br><br> \\fracKE_inKE_f=\\frac\\frac\u2081\u2082 m v^2\\frac\u2081\u2082 m v^2(\\frac\u2083\u2084\\)=\\frac\u2084\u2083",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -561,13 +546,13 @@
     {
       "question": "A bullet is fired into a fixed target looses one third of its velocity after travelling 4 cm. It penetrates further D \u00d7 10^-3 m before coming to rest. The value of D is :",
       "options": {
-        "A": "23",
-        "B": "32",
-        "C": "42",
-        "D": "52"
+        "A": "23%",
+        "B": "32%",
+        "C": "42%",
+        "D": "52%"
       },
       "answer": "B",
-      "solution": "\\beginaligned & v^2-u^2=2 a S \\\\ & \\left(\\frac\u2082 u\u2083\\right)^2=u^2+2(-a)\\left(4 \u00d7 10^-2\\right) \\\\ & \\frac\u2084 u^29=u^2-2 a\\left(4 \u00d7 10^-2\\right) \\\\ & -\\frac\u2085 u^29=-2 a\\left(4 \u00d7 10^-2\\right) \\ldots(1) \\\\ & 0=\\left(\\frac\u2082 u\u2083\\right)^2+2(-a)(x) \\\\ & -\\frac\u2084 u^29=-2 a x \\ldots(2) \\endaligned (1)/(2) \\beginaligned & \\frac\u2085\u2084=\\frac\u2084 \u00d7 10^-2x \\\\ & x=\\frac\u2081\u2086\u2085 \u00d7 10^-2 \\\\ & x=3 \u00b7 2 \u00d7 10^-2 m \\\\ & x=32 \u00d7 10^-3 m \\endaligned",
+      "solution": "\\beginaligned & v^2-u^2=2 a S \\\\ & (\\frac\u2082 u\u2083\\)^2=u^2+2(-a)(4 \u00d7 10^-2\\) \\\\ & \\frac\u2084 u^29=u^2-2 a(4 \u00d7 10^-2\\) \\\\ & -\\frac\u2085 u^29=-2 a(4 \u00d7 10^-2\\) \\ldots(1) \\\\ & 0=(\\frac\u2082 u\u2083\\)^2+2(-a)(x) \\\\ & -\\frac\u2084 u^29=-2 a x \\ldots(2) \\endaligned (1)/(2) \\beginaligned & \\frac\u2085\u2084=\\frac\u2084 \u00d7 10^-2x \\\\ & x=\\frac\u2081\u2086\u2085 \u00d7 10^-2 \\\\ & x=3 \u00b7 2 \u00d7 10^-2 m \\\\ & x=32 \u00d7 10^-3 m \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -578,11 +563,11 @@
       "options": {
         "A": "50 \\%, \\sqrt\u2082 gh",
         "B": "50 \\%, \\sqrtgh",
-        "C": "50 \\%, \\sqrt\\frac\\text gh 2",
+        "C": "50 \\%, \\sqrt\\frac gh 2",
         "D": "40 \\%, \\sqrt\u2082 gh"
       },
       "answer": "A",
-      "solution": "To solve this problem, we need to analyze both the energy loss and the initial velocity of the rubber ball before it strikes the ground. First, let's consider the energy loss. The energy involved here is gravitational potential energy. The initial potential energy of the ball when it is about to fall is given by U_i = mgh, where U_i is the initial potential energy, m is the mass of the ball, g is the acceleration due to gravity, and h is the initial height from which the ball falls. After the ball rebounds, it reaches a height of h/2. The potential energy at this new height is U_f = mg \u00b7 \\frach\u2082. The energy loss can be calculated as the difference between the initial and final potential energies, and to find the percentage energy loss, we divide this difference by the initial energy and multiply by 100: \\textEnergy loss percentage = \\frac(U_i - U_f)U_i \u00d7 100 Substituting the values of U_i and U_f gives: \\textEnergy loss percentage = \\frac(mgh - mg\\frach\u2082)mgh \u00d7 100 By simplifying, we find: \\textEnergy loss percentage = \\fracmgh - \\frac\u2081\u2082 mghmgh \u00d7 100 = \\frac\u2081\u2082 \u00d7 100 = 50\\% This tells us that the energy loss percentage is indeed 50\\%. Next, we'll find the velocity of the ball just before it strikes the ground. The velocity can be determined using the formula for the velocity of an object in free fall: v = \\sqrt\u2082gh Here, v is the velocity of the ball just before impact, g is the acceleration due to gravity, and h is the height from which the ball falls. This formula shows that the initial velocity of the ball before it strikes the ground is \\sqrt\u2082gh, not taking into account air resistance and assuming it starts from rest. Therefore, the correct answer is <strong>Option A</strong>: 50\\%, \\sqrt\u2082gh.",
+      "solution": "To solve this problem, we need to analyze both the energy loss and the initial velocity of the rubber ball before it strikes the ground. First, let's consider the energy loss. The energy involved here is gravitational potential energy. The initial potential energy of the ball when it is about to fall is given by U_i = mgh, where U_i is the initial potential energy, m is the mass of the ball, g is the acceleration due to gravity, and h is the initial height from which the ball falls. After the ball rebounds, it reaches a height of h/2. The potential energy at this new height is U_f = mg \u00b7 \\frach\u2082. The energy loss can be calculated as the difference between the initial and final potential energies, and to find the percentage energy loss, we divide this difference by the initial energy and multiply by 100: Energy loss percentage = \\frac(U_i - U_f)U_i \u00d7 100 Substituting the values of U_i and U_f gives: Energy loss percentage = \\frac(mgh - mg\\frach\u2082)mgh \u00d7 100 By simplifying, we find: Energy loss percentage = \\fracmgh - \\frac\u2081\u2082 mghmgh \u00d7 100 = \\frac\u2081\u2082 \u00d7 100 = 50\\% This tells us that the energy loss percentage is indeed 50\\%. Next, we'll find the velocity of the ball just before it strikes the ground. The velocity can be determined using the formula for the velocity of an object in free fall: v = \\sqrt\u2082gh Here, v is the velocity of the ball just before impact, g is the acceleration due to gravity, and h is the height from which the ball falls. This formula shows that the initial velocity of the ball before it strikes the ground is \\sqrt\u2082gh, not taking into account air resistance and assuming it starts from rest. Therefore, the correct answer is <strong>Option A</strong>: 50\\%, \\sqrt\u2082gh.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -597,7 +582,7 @@
         "D": "600%"
       },
       "answer": "B",
-      "solution": "The relationship between kinetic energy (K.E) and momentum (p) of a body can be expressed through their respective definitions. Kinetic energy is given by K.E = \\frac\u2081\u2082 mv^2 where m is the mass of the body and v is its velocity. The momentum (p) of a body is given by p = mv. To express kinetic energy in terms of momentum, we can manipulate the expression for momentum as follows: p = mv \\implies v = \\fracpm Substituting v in the kinetic energy formula, we get K.E = \\frac\u2081\u2082 m\\left(\\fracpm\\right)^2 = \\frac\u2081\u2082 \\fracp^2m Therefore, we see that kinetic energy is directly proportional to the square of the momentum (K.E \\propto p^2). Now, given that the kinetic energy of a body becomes 36 times its original value, we can set up the proportionality as \\fracK.E_\\textfinalK.E_\\textoriginal = 36 Since K.E_\\textfinal = 36 \u00d7 K.E_\\textoriginal and knowing K.E \\propto p^2, we can express this relationship through the squares of the initial and final momentum: \\fracp_\\textfinal^2p_\\textoriginal^2 = 36 Taking the square root of both sides to find the ratio of final to initial momentum, we have \\fracp_\\textfinalp_\\textoriginal = \\sqrt\u2083\u2086 = 6 This indicates that the final momentum is 6 times the original momentum. To find the percentage increase in the momentum, we calculate the increase from the original to the final, subtracting the original momentum (which is considered 1 times itself): \\textPercentage increase = \\left(\\fracp_\\textfinal - p_\\textoriginalp_\\textoriginal\\right) \u00d7 100\\% = \\left(\\frac\u2086p - pp\\right) \u00d7 100\\% = \\left(6 - 1\\right) \u00d7 100\\% = 5 \u00d7 100\\% = 500\\% Therefore, the correct answer is Option B: 500%.",
+      "solution": "The relationship between kinetic energy (K.E) and momentum (p) of a body can be expressed through their respective definitions. Kinetic energy is given by K.E = \\frac\u2081\u2082 mv^2 where m is the mass of the body and v is its velocity. The momentum (p) of a body is given by p = mv. To express kinetic energy in terms of momentum, we can manipulate the expression for momentum as follows: p = mv \\implies v = \\fracpm Substituting v in the kinetic energy formula, we get K.E = \\frac\u2081\u2082 m(\\fracpm\\)^2 = \\frac\u2081\u2082 \\fracp^2m Therefore, we see that kinetic energy is directly proportional to the square of the momentum (K.E \\propto p^2). Now, given that the kinetic energy of a body becomes 36 times its original value, we can set up the proportionality as \\fracK.E_finalK.E_original = 36 Since K.E_final = 36 \u00d7 K.E_original and knowing K.E \\propto p^2, we can express this relationship through the squares of the initial and final momentum: \\fracp_final^2p_original^2 = 36 Taking the square root of both sides to find the ratio of final to initial momentum, we have \\fracp_finalp_original = \\sqrt\u2083\u2086 = 6 This indicates that the final momentum is 6 times the original momentum. To find the percentage increase in the momentum, we calculate the increase from the original to the final, subtracting the original momentum (which is considered 1 times itself): Percentage increase = (\\fracp_final - p_originalp_original\\) \u00d7 100\\% = (\\frac\u2086p - pp\\) \u00d7 100\\% = (6 - 1\\) \u00d7 100\\% = 5 \u00d7 100\\% = 500\\% Therefore, the correct answer is Option B: 500%.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -612,7 +597,7 @@
         "D": "32 \\%"
       },
       "answer": "C",
-      "solution": "To find the percentage loss of kinetic energy of the bullet, we first calculate the initial kinetic energy before the bullet hits the plywood and the final kinetic energy after it emerges. The formula for kinetic energy (KE) is given by: KE = \\frac\u2081\u2082 mv^2 where m is the mass of the object and v is its velocity. Let's calculate the initial and final kinetic energies. <strong>Initial Kinetic Energy:</strong> KE_\\textinitial = \\frac\u2081\u2082 \u00d7 50 \u00d7 (100)^2 = \\frac\u2081\u2082 \u00d7 50 \u00d7 10000 = 25 \u00d7 10000 = 250000 \\, \\textg.m^2/\\texts^2 Note: To keep units consistent, we used grams and meters per second. We can also convert the mass to kilograms (by dividing by 1000) which would result in the energy being calculated in Joules, but for the purpose of finding the percentage change, the form of units does not matter as long as they are consistent, since it will be a ratio. <strong>Final Kinetic Energy:</strong> KE_\\textfinal = \\frac\u2081\u2082 \u00d7 50 \u00d7 (40)^2 = \\frac\u2081\u2082 \u00d7 50 \u00d7 1600 = 25 \u00d7 1600 = 40000 \\, \\textg.m^2/\\texts^2 The loss of kinetic energy is then: \\Delta KE = KE_\\textinitial - KE_\\textfinal = 250000 - 40000 = 210000 \\, \\textg.m^2/\\texts^2 Finally, the percentage loss of kinetic energy can be calculated using the formula: \\textPercentage loss of KE = \\left( \\frac\\Delta KEKE_\\textinitial \\right) \u00d7 100\\% \\textPercentage loss of KE = \\left( \\frac\u2082\u2081\u2080\u2080\u2080\u2080\u2082\u2085\u2080\u2080\u2080\u2080 \\right) \u00d7 100\\% = 0.84 \u00d7 100\\% = 84\\% Thus, the percentage loss of kinetic energy is <strong>84%</strong>, which corresponds to <strong>Option C</strong>.",
+      "solution": "To find the percentage loss of kinetic energy of the bullet, we first calculate the initial kinetic energy before the bullet hits the plywood and the final kinetic energy after it emerges. The formula for kinetic energy (KE) is given by: KE = \\frac\u2081\u2082 mv^2 where m is the mass of the object and v is its velocity. Let's calculate the initial and final kinetic energies. <strong>Initial Kinetic Energy:</strong> KE_initial = \\frac\u2081\u2082 \u00d7 50 \u00d7 (100)^2 = \\frac\u2081\u2082 \u00d7 50 \u00d7 10000 = 25 \u00d7 10000 = 250000 \\, g.m^2/s^2 Note: To keep units consistent, we used grams and meters per second. We can also convert the mass to kilograms (by dividing by 1000) which would result in the energy being calculated in Joules, but for the purpose of finding the percentage change, the form of units does not matter as long as they are consistent, since it will be a ratio. <strong>Final Kinetic Energy:</strong> KE_final = \\frac\u2081\u2082 \u00d7 50 \u00d7 (40)^2 = \\frac\u2081\u2082 \u00d7 50 \u00d7 1600 = 25 \u00d7 1600 = 40000 \\, g.m^2/s^2 The loss of kinetic energy is then: \\Delta KE = KE_initial - KE_final = 250000 - 40000 = 210000 \\, g.m^2/s^2 Finally, the percentage loss of kinetic energy can be calculated using the formula: Percentage loss of KE = ( \\frac\\Delta KEKE_initial \\) \u00d7 100\\% Percentage loss of KE = ( \\frac\u2082\u2081\u2080\u2080\u2080\u2080\u2082\u2085\u2080\u2080\u2080\u2080 \\) \u00d7 100\\% = 0.84 \u00d7 100\\% = 84\\% Thus, the percentage loss of kinetic energy is <strong>84%</strong>, which corresponds to <strong>Option C</strong>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -627,7 +612,7 @@
         "D": "5 ms<sup>-1</sup>"
       },
       "answer": "B",
-      "solution": "Here, tan\\theta = 100 \\over 1000 = 1 \\over 10 <br><br> \\therefore sin\\theta = 1 \\over 10 (as \\theta is very small), <br><br>when car is moving uphill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2088\u2084\u2084/exam_images/w\u2084ba\u2081kfvqtexl\u2087o\u2080\u2083gba.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 1\"> <br><br>P = f \u00d7 u <br><br>= (wsin\\theta + f) \u00d7 u <br><br>= \\left( w \\over 10 + w \\over 20 \\right) \u00d7 10 <br><br>P = 3w \\over 20 \u00d7 10 = 3w \\over 2 <br><br>When car is moving down hill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2088\u2086\u2080/exam_images/vcg\u2080fso\u2084anwqfxzos\u2084\u2080i.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 2\"> <br><br> \\therefore P \\over 2 = (wsin\\theta - f) \u00d7 v <br><br> \\Rightarrow 3w \\over 4 = \\left( w \\over 10 - w \\over 20 \\right) \u00d7 v <br><br> \\Rightarrow w \\over 20 \u00d7 v = 3w \\over 4 <br><br> \\Rightarrow v = 15 m/s",
+      "solution": "Here, tan\\theta = 100 \\over 1000 = 1 \\over 10 <br><br> \\therefore sin\\theta = 1 \\over 10 (as \\theta is very small), <br><br>when car is moving uphill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2088\u2084\u2084/exam_images/w\u2084ba\u2081kfvqtexl\u2087o\u2080\u2083gba.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 1\"> <br><br>P = f \u00d7 u <br><br>= (wsin\\theta + f) \u00d7 u <br><br>= ( w \\over 10 + w \\over 20 \\) \u00d7 10 <br><br>P = 3w \\over 20 \u00d7 10 = 3w \\over 2 <br><br>When car is moving down hill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2088\u2086\u2080/exam_images/vcg\u2080fso\u2084anwqfxzos\u2084\u2080i.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 2\"> <br><br> \\therefore P \\over 2 = (wsin\\theta - f) \u00d7 v <br><br> \\Rightarrow 3w \\over 4 = ( w \\over 10 - w \\over 20 \\) \u00d7 v <br><br> \\Rightarrow w \\over 20 \u00d7 v = 3w \\over 4 <br><br> \\Rightarrow v = 15 m/s",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -664,7 +649,7 @@
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A particle experiences a variable force \\overrightarrow F = \\left( 4x\\widehat i + 3y^2\\widehat j \\right) in a horizontal x-y plane. Assume distance in meters and force is newton. If the particle moves from point (1, 2) to point (2, 3) in the x-y plane, then Kinetic Energy changes by :",
+      "question": "A particle experiences a variable force \\overarrow F = ( 4x\\widehat i + 3y^2\\widehat j \\) in a horizontal x-y plane. Assume distance in meters and force is newton. If the particle moves from point (1, 2) to point (2, 3) in the x-y plane, then Kinetic Energy changes by :",
       "options": {
         "A": "50.0 J",
         "B": "12.5 J",
@@ -672,7 +657,7 @@
         "D": "0 J"
       },
       "answer": "C",
-      "solution": "W = \\int \\overrightarrow F \\,.\\,d\\overrightarrow r = \\int\\limits_1^24xdx + \\int\\limits_2^33y^2dy = [2x^2]_1^2 + [y^3]_2^3 = 2 \u00d7 3 + (27 - 8) = 25 J",
+      "solution": "W = \\int \\overarrow F \\,.\\,d\\overarrow r = \\int\\limits_1^24xdx + \\int\\limits_2^33y^2dy = [2x^2]_1^2 + [y^3]_2^3 = 2 \u00d7 3 + (27 - 8) = 25 J",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",

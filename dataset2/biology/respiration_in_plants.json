@@ -1,33 +1,18 @@
 {
   "subject": "Biology",
   "chapter": "Respiration in Plants",
-  "total_questions": 273,
+  "total_questions": 263,
   "questions": [
     {
       "question": "[NEET 2020 | Biology] How many ATP molecules are directly produced in one turn of the Krebs (TCA) cycle?",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "3",
-        "D": "38"
+        "A": "1%",
+        "B": "2%",
+        "C": "3%",
+        "D": "38%"
       },
       "answer": "A",
       "solution": "# **Correct Answer: (A) 1** ## Step-by-Step Explanation ### Direct ATP Production in One Turn of Krebs Cycle: **Only ONE** ATP (or GTP) is directly produced through **substrate-level phosphorylation**. **Where?** At the **Succinyl-CoA \\u\u2082\u2081\u2089\u2082 Succinate** step - Enzyme: Succinyl-CoA synthetase (also called succinate thiokinase) - Reaction: Succinyl-CoA + GDP (or ADP) + Pi \\u\u2082\u2081\u2089\u2082 Succinate + GTP (or ATP) ### What About Other Energy Carriers? The cycle also produces: - **3 NADH** molecules (at isocitrate, \\u\u2080\u2083b\u2081-ketoglutarate, and malate steps) - **1 FADH\\u\u2082\u2080\u2088\u2082** molecule (at succinate step) However, these are NOT directly ATP \\\u2014 they are reduced coenzymes that produce ATP later through the **electron transport chain** (2.5 ATP per NADH, 1.5 ATP per FADH\\u\u2082\u2080\u2088\u2082). ### Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|----------------| | **(B) 2** | Only 1 substrate-level phosphorylation occurs per cycle | | **(C) 3** | This might confuse NADH count with ATP count | | **(D) 38** | This is the TOTAL ATP yield from complete oxidation of 1 glucose (theoretical), not from one Krebs cycle turn | ## **Key Fact to Remember** \\U\u2080\u2080\u2080\u2081f\u2084cc **Direct ATP from Krebs cycle = 1 ATP per turn** The remaining 30+ ATP per glucose come from NADH and FADH\\u\u2082\u2080\u2088\u2082 oxidation in the electron transport chain.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "In the given equation below, identify the compound which is being oxidized and calculate the R.Q. of the same. 2 C\u2085\u2081 H\u2089\u2088 O\u2086 + 145 O\u2082 \u2192 102 C O\u2082 + 98 H\u2082 O + e n e r g y",
-      "options": {
-        "A": "Palmitin, R.Q. =",
-        "B": "9 B Tripalmitin, R.Q. =",
-        "C": "7 C Palmitin, R.Q. = 1 D Tripalmitin, R.Q. =",
-        "D": "2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** When fats are used in respiration, the RQ is less than 1. Calculations for fatty acid, tripalmitin, if used as a substrate is shown: Thus, R.Q. = 0.7 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -66,7 +51,7 @@
     {
       "question": "Conversion of glucose to glucose-6-phosphate, the first irreversible reaction of glycolysis, is catalyzed by",
       "options": {
-        "A": "ldolase",
+        "A": "Ldolase",
         "B": "Hexokinase",
         "C": "Enolase",
         "D": "Phosphofructokinase"
@@ -81,7 +66,7 @@
     {
       "question": "What amount of energy is released from glucose during lactic acid fermentation?",
       "options": {
-        "A": "pproximately 15%",
+        "A": "Pproximately 15%",
         "B": "More than 18%",
         "C": "About 10%",
         "D": "Less than 7%"
@@ -94,12 +79,12 @@
       "chapter": "Respiration in Plants"
     },
     {
-      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: ATP is used at two steps in glycolysis. Reason R: First ATP is used in converting glucose into glucose-6-phosphate and second ATP is used in conversion of fructose-6-phosphate into fructose-1,6-diphosphate. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: ATP is used at two steps in glycolysis. Reason R: First ATP is used in converting glucose into glucose-6-phosphate and second ATP is used in conversion of fructose-6-phosphate into fructose-1,6-diphosphate. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
-        "A": "Both A and R are true and R is the correct explanation of",
-        "B": "oth A and R are true but R is NOT the correct explanation of",
-        "C": "is true but R is false",
-        "D": "is false but R is true"
+        "A": "Both",
+        "B": "Oth",
+        "C": "Is true but R is false",
+        "D": "Is false but R is true"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Both A and R are true and R is the correct explanation of A** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Respiration in Plants*, option (A) correctly satisfies the given biological statement.",
@@ -143,7 +128,7 @@
       "options": {
         "A": "Methane",
         "B": "CO\u2082",
-        "C": "arbon monoxide",
+        "C": "Arbon monoxide",
         "D": "Biogas"
       },
       "answer": "D",
@@ -188,7 +173,7 @@
       "options": {
         "A": "Beer",
         "B": "Rum",
-        "C": "urd",
+        "C": "Urd",
         "D": "Wine"
       },
       "answer": "A",
@@ -203,7 +188,7 @@
       "options": {
         "A": "Excretion",
         "B": "Digestion",
-        "C": "irculation",
+        "C": "Irculation",
         "D": "Respiration"
       },
       "answer": "D",
@@ -291,7 +276,7 @@
     {
       "question": "Apparatus to measure rate of respiration and respiratory quotient is",
       "options": {
-        "A": "uxanometer",
+        "A": "Uxanometer",
         "B": "Potometer",
         "C": "Respirometer",
         "D": "Manometer"
@@ -338,7 +323,7 @@
       "options": {
         "A": "Oxygen",
         "B": "Hydrogen",
-        "C": "arbon dioxide",
+        "C": "Arbon dioxide",
         "D": "NADH"
       },
       "answer": "B",
@@ -426,9 +411,9 @@
     {
       "question": "In oxidative decarboxylation, only a carbon molecule of pyruvic acid is get oxidised, other two carbon",
       "options": {
-        "A": "cetyl Co-A",
+        "A": "Cetyl Co-A",
         "B": "CO\u2082",
-        "C": "itric acid",
+        "C": "Itric acid",
         "D": "Both (a) and (b)"
       },
       "answer": "A",
@@ -472,7 +457,7 @@
       "question": "If a starving plant is provided with glucose, the rate of respiration would",
       "options": {
         "A": "First rise then fall",
-        "B": "ecome constant",
+        "B": "Ecome constant",
         "C": "Decrease",
         "D": "Increase"
       },
@@ -559,21 +544,6 @@
       "chapter": "Respiration in Plants"
     },
     {
-      "question": "Choose the correct combination of A and B according to NCERT text book.",
-      "options": {
-        "A": "-oxygen; B-reduction",
-        "B": "A-energy; B-reduction",
-        "C": "A-energy; B-oxidation",
-        "D": "A-oxygen; B-oxidation"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) A-energy; B-oxidation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
       "question": "Chemiosmotic mechanism of ATP production in aerobic respiration was given by",
       "options": {
         "A": "Krebs",
@@ -583,21 +553,6 @@
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) Peter Mitchell** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "Choose the correct combination of labeling the molecules involved in the pathway of anaerobic respiration",
-      "options": {
-        "A": "\\\u2013 Ethanol, B \\\u2013 CO\u2082 , C \\\u2013 Acetaldehyde",
-        "B": "- CO\u2082 , B \\\u2013 Ethanol, C- Acetaldehyde",
-        "C": "- CO\u2082, B - Acetaldehyde, C- Ethanol",
-        "D": "\\\u2013 Ethanol, B - Acetaldehyde, C - CO\u2082"
-      },
-      "answer": "D",
-      "solution": "**Correct Answer: (D) A \\\u2013 Ethanol, B - Acetaldehyde, C - CO\u2082** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -741,10 +696,10 @@
     {
       "question": "Net gain of ATP molecules per hexose during aerobic respiration is",
       "options": {
-        "A": "12",
-        "B": "18",
-        "C": "36",
-        "D": "30"
+        "A": "12%",
+        "B": "18%",
+        "C": "36%",
+        "D": "30%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 36** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -758,7 +713,7 @@
       "options": {
         "A": "Cyanides",
         "B": "Antimycin-A",
-        "C": "arbon monoxide",
+        "C": "Arbon monoxide",
         "D": "All of these"
       },
       "answer": "A",
@@ -816,7 +771,7 @@
     {
       "question": "Glycolysis takes place in",
       "options": {
-        "A": "ll living cells",
+        "A": "Ll living cells",
         "B": "Eukaryotic cells only",
         "C": "Prokaryotic cells only",
         "D": "None of these"
@@ -863,7 +818,7 @@
       "options": {
         "A": "Oxygen is absorbed",
         "B": "Oxygen in released",
-        "C": "arbon dioxide is released",
+        "C": "Arbon dioxide is released",
         "D": "Carbon dioxide is absorbed"
       },
       "answer": "C",
@@ -921,10 +876,10 @@
     {
       "question": "During oxidative phosphorylation, the net gain of ATP is",
       "options": {
-        "A": "40",
-        "B": "38",
-        "C": "34",
-        "D": "30"
+        "A": "40%",
+        "B": "38%",
+        "C": "34%",
+        "D": "30%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 34** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -1041,10 +996,10 @@
     {
       "question": "Refer the given equation",
       "options": {
-        "A": "1",
-        "B": "0.7",
-        "C": "1.45",
-        "D": "1.62"
+        "A": "1%",
+        "B": "0.7%",
+        "C": "1.45%",
+        "D": "1.62%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) 0.7** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -1103,7 +1058,7 @@
       "options": {
         "A": "High energy bonds are formed in mitochondrial proteins",
         "B": "ADP is pumped out of the matrix into the intermembrane space",
-        "C": "proton gradient forms across the inner membrane",
+        "C": "Proton gradient forms across the inner membrane",
         "D": "There is a change in the permeability of the inner mitochondrial membrane towards adenosine diphosphate (ADP)"
       },
       "answer": "C",
@@ -1253,7 +1208,7 @@
       "options": {
         "A": "Conversion of succinate to fumarate",
         "B": "Conversion of fumarate to malate",
-        "C": "onversion of pyruvate to acetyl Co-A",
+        "C": "Onversion of pyruvate to acetyl Co-A",
         "D": "Conversion of citrate to isocitrate"
       },
       "answer": "C",
@@ -1298,7 +1253,7 @@
       "options": {
         "A": "Glycolysis",
         "B": "Formation of acetyl Co-A",
-        "C": "itric acid formation",
+        "C": "Itric acid formation",
         "D": "ETS terminal oxidation"
       },
       "answer": "B",
@@ -1311,10 +1266,10 @@
     {
       "question": "Correct sequence of electron acceptor of ATP synthesis is",
       "options": {
-        "A": "cyt-a, a\u2083 , b, c",
-        "B": "cyt-b, c ,a, a\u2083",
-        "C": "yt-b, c , a\u2083, a",
-        "D": "cyt-c, b, a, a\u2083"
+        "A": "Cyt-a, a\u2083 , b, c",
+        "B": "Cyt-b, c ,a, a\u2083",
+        "C": "Yt-b, c , a\u2083, a",
+        "D": "Cyt-c, b, a, a\u2083"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) cyt-b, c ,a, a\u2083** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -1326,10 +1281,10 @@
     {
       "question": "The number of ATP produced when a molecule of glucose undergoes fermentation",
       "options": {
-        "A": "4",
-        "B": "36",
-        "C": "2",
-        "D": "38"
+        "A": "4%",
+        "B": "36%",
+        "C": "2%",
+        "D": "38%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 2** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -1371,9 +1326,9 @@
     {
       "question": "Fermentation is",
       "options": {
-        "A": "naerobic respiration",
+        "A": "Naerobic respiration",
         "B": "Incomplete oxidation of carbohydrate",
-        "C": "omplete oxidation of carbohydrate",
+        "C": "Omplete oxidation of carbohydrate",
         "D": "None of the above"
       },
       "answer": "A",
@@ -1431,9 +1386,9 @@
     {
       "question": "The RQ value of oxalic acid is",
       "options": {
-        "A": "1.0",
-        "B": "0.7",
-        "C": "4",
+        "A": "1.0%",
+        "B": "0.7%",
+        "C": "4%",
         "D": "\\u\u2082\u2082\u2081d"
       },
       "answer": "C",
@@ -1461,7 +1416,7 @@
     {
       "question": "The energy-releasing metabolic process in which substrate is oxidized without an external electron",
       "options": {
-        "A": "glycolysis",
+        "A": "Glycolysis",
         "B": "Fermentation",
         "C": "Aerobic respiration",
         "D": "Photorespiration"
@@ -1476,10 +1431,10 @@
     {
       "question": "How many times ATP is utilised in glycolysis?",
       "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "5"
+        "A": "2%",
+        "B": "3%",
+        "C": "4%",
+        "D": "5%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 2** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -1506,7 +1461,7 @@
     {
       "question": "Sequence of events in Kreb\\u\u2082\u2080\u2081\u2089s cycle is",
       "options": {
-        "A": "cetyl Co-A \\u\u2082\u2081\u2089\u2082 Citrate \\u\u2082\u2081\u2089\u2082 Pyruvate \\u\u2082\u2081\u2089\u2082 Oxaloacetic acid \\u\u2082\u2081\u2089\u2080 fumarate \\u\u2082\u2081\u2089\u2080 Malate \\u\u2082\u2081\u2089\u2080 Succinate \\U\u2080\u2080\u2080\u2081d\u2086c\u2082- ketoglutaralte",
+        "A": "Cetyl Co-A \\u\u2082\u2081\u2089\u2082 Citrate \\u\u2082\u2081\u2089\u2082 Pyruvate \\u\u2082\u2081\u2089\u2082 Oxaloacetic acid \\u\u2082\u2081\u2089\u2080 fumarate \\u\u2082\u2081\u2089\u2080 Malate \\u\u2082\u2081\u2089\u2080 Succinate \\U\u2080\u2080\u2080\u2081d\u2086c\u2082- ketoglutaralte",
         "B": "Acetyl Co-A \\u\u2082\u2081\u2089\u2082 Citric acid \\u\u2082\u2081\u2089\u2082 \\U\u2080\u2080\u2080\u2081d\u2086c\u2082-ketoglutarate acid \\u\u2082\u2081\u2089\u2082 Oxaloacetic acid \\u\u2082\u2081\u2089\u2080 Malic acid \\u\u2082\u2081\u2089\u2080 Fumaric acid \\u\u2082\u2081\u2089\u2080 Succinic acid",
         "C": "Acetyl Co-A \\u\u2082\u2081\u2089\u2082 Citric acid \\u\u2082\u2081\u2089\u2082 Malic acid Oxaloacetic \\u\u2082\u2081\u2089\u2080 Oxaloacetic acid Succinic \\u\u2082\u2081\u2089\u2080 \\U\u2080\u2080\u2080\u2081d\u2086c\u2082-ketoglutaric acid \\u\u2082\u2081\u2089\u2080",
         "D": "All are wrong"
@@ -1613,7 +1568,7 @@
       "options": {
         "A": "Mitochondrion",
         "B": "Cytoplasm",
-        "C": "hloroplast, peroxisome and mitochondrion",
+        "C": "Hloroplast, peroxisome and mitochondrion",
         "D": "Chloroplast, glyoxysome and mitochondrion"
       },
       "answer": "B",
@@ -1626,9 +1581,9 @@
     {
       "question": "In citric acid cycle first step is",
       "options": {
-        "A": "cetyl Co-A combines with oxalo acetic acid",
+        "A": "Cetyl Co-A combines with oxalo acetic acid",
         "B": "Acetyl Co-A combines with citric acid",
-        "C": "itric acid combines with oxaloacetic acid",
+        "C": "Itric acid combines with oxaloacetic acid",
         "D": "Citric acid combines with malic acid"
       },
       "answer": "A",
@@ -1703,7 +1658,7 @@
       "options": {
         "A": "Fatty acid",
         "B": "Protein",
-        "C": "arbohydrate",
+        "C": "Arbohydrate",
         "D": "All of these"
       },
       "answer": "D",
@@ -1746,10 +1701,10 @@
     {
       "question": "How many NADH + H+ molecule is released in Kreb\\u\u2082\u2080\u2081\u2089s cycle?",
       "options": {
-        "A": "3",
-        "B": "6",
-        "C": "12",
-        "D": "14"
+        "A": "3%",
+        "B": "6%",
+        "C": "12%",
+        "D": "14%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 3** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -1761,7 +1716,7 @@
     {
       "question": "The released energy obtained by oxidation is stored as",
       "options": {
-        "A": "concentration gradient across a membrane",
+        "A": "Concentration gradient across a membrane",
         "B": "ADP",
         "C": "ATP",
         "D": "NAD+"
@@ -1778,7 +1733,7 @@
       "options": {
         "A": "Fatty acids",
         "B": "Nucleic acids",
-        "C": "arbohydrates",
+        "C": "Arbohydrates",
         "D": "Organic acids"
       },
       "answer": "C",
@@ -1821,7 +1776,7 @@
     {
       "question": "Cyanide resistant pathway is",
       "options": {
-        "A": "naerobic respiration",
+        "A": "Naerobic respiration",
         "B": "Aerobic respiration",
         "C": "Both (a) and (b)",
         "D": "None of these"
@@ -1836,10 +1791,10 @@
     {
       "question": "In aerobic respiration complete oxidation of pyruvate by the stepwise removal of all the hydrogen atom",
       "options": {
-        "A": "2",
-        "B": "3",
-        "C": "4",
-        "D": "5"
+        "A": "2%",
+        "B": "3%",
+        "C": "4%",
+        "D": "5%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) 3** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -1971,7 +1926,7 @@
     {
       "question": "Protein directly cannot be used as a respiratory substrate, it breaks down into",
       "options": {
-        "A": "mino acid",
+        "A": "Mino acid",
         "B": "Fatty acid",
         "C": "Glycolytic acid",
         "D": "Fumaric acid"
@@ -2017,9 +1972,9 @@
       "question": "Last electron acceptor during ETS is",
       "options": {
         "A": "O\u2082",
-        "B": "cyt-a",
-        "C": "yt-a\u2082",
-        "D": "cyt-a\u2083"
+        "B": "Cyt-a",
+        "C": "Yt-a\u2082",
+        "D": "Cyt-a\u2083"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) O\u2082** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -2031,7 +1986,7 @@
     {
       "question": "Glycolysis is a part of",
       "options": {
-        "A": "naerobic respiration only",
+        "A": "Naerobic respiration only",
         "B": "Aerobic respiration only",
         "C": "Both (a) and (b)",
         "D": "Krebs\\u\u2082\u2080\u2081\u2089 cycle"
@@ -2047,9 +2002,9 @@
       "question": "When tripalmitin is used as a substrate in respiration, the RQ is",
       "options": {
         "A": ">1",
-        "B": "1.0",
-        "C": "0.9",
-        "D": "0.7"
+        "B": "1.0%",
+        "C": "0.9%",
+        "D": "0.7%"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) 0.7** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
@@ -2107,7 +2062,7 @@
       "question": "During its formation, bread becomes porous due to release of Carbon dioxide by the action of",
       "options": {
         "A": "Yeast",
-        "B": "acteria",
+        "B": "Acteria",
         "C": "Virus",
         "D": "Protozoans"
       },
@@ -2136,10 +2091,10 @@
     {
       "question": "How many ATP molecules are obtained from fermentation of 1 molecule of glucose?",
       "options": {
-        "A": "2",
-        "B": "4",
-        "C": "3",
-        "D": "5"
+        "A": "2%",
+        "B": "4%",
+        "C": "3%",
+        "D": "5%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) 2** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -2181,9 +2136,9 @@
     {
       "question": "Dough kept overnight in warm weather becomes soft and spongy because of",
       "options": {
-        "A": "bsorption of carbon dioxide from atmosphere",
+        "A": "Bsorption of carbon dioxide from atmosphere",
         "B": "Fermentation",
-        "C": "ohesion",
+        "C": "Ohesion",
         "D": "Osmosis"
       },
       "answer": "B",
@@ -2286,10 +2241,10 @@
     {
       "question": "In yeast during anaerobic respiration, how many glucose molecules are required for production of 38 ATP",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "19",
-        "D": "38"
+        "A": "1%",
+        "B": "2%",
+        "C": "19%",
+        "D": "38%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 19** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -2316,8 +2271,8 @@
     {
       "question": "Respiratory quotient in anaerobic respiration is",
       "options": {
-        "A": "0.7",
-        "B": "0.9",
+        "A": "0.7%",
+        "B": "0.9%",
         "C": "Unity",
         "D": "Infinity"
       },
@@ -2329,12 +2284,12 @@
       "chapter": "Respiration in Plants"
     },
     {
-      "question": "Choose the correct combination of A and B in accordance with the NCERT text book.",
+      "question": "Choose the correct combination of A and B in accordance with the NCERT book.",
       "options": {
-        "A": "-EMP; B-carboxylation",
-        "B": "A-ETS; B-phosphorylation",
-        "C": "A-glycolysis; B-phosphorylation",
-        "D": "A-TCA cycle; B-decarboxylation"
+        "A": "-EMP;",
+        "B": "A-ETS;",
+        "C": "A-glycolysis;",
+        "D": "A-TCA cycle;"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) A-glycolysis; B-phosphorylation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -2346,10 +2301,10 @@
     {
       "question": "Total gain of ATP molecules during aerobic respiration of one molecule of glucose",
       "options": {
-        "A": "36",
-        "B": "38",
-        "C": "40",
-        "D": "34"
+        "A": "36%",
+        "B": "38%",
+        "C": "40%",
+        "D": "34%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) 38** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -2378,26 +2333,11 @@
       "options": {
         "A": "Conversion of succinyl acid to \\u\u2082\u2082\u2081d-ketoglutaric acid",
         "B": "Conversion of succinic acid to malic acid",
-        "C": "onversion of succinyl Co-A to succinic acid",
+        "C": "Onversion of succinyl Co-A to succinic acid",
         "D": "Conversion of malic acid to oxalo acetic acid"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Conversion of succinyl Co-A to succinic acid** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "Identify \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2084 and \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2085 in the given reaction",
-      "options": {
-        "A": "-PEP; B-CO\u2082",
-        "B": "A-Acetyl Co-A; B-CO\u2082",
-        "C": "A-CO\u2082; B-H\u2082O",
-        "D": "A-Acetyl Co-A; B-H\u2082O"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) A-Acetyl Co-A; B-CO\u2082** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -2466,10 +2406,10 @@
     {
       "question": "How many ATP are formed during the citric acid cycle?",
       "options": {
-        "A": "12",
-        "B": "24",
-        "C": "32",
-        "D": "35"
+        "A": "12%",
+        "B": "24%",
+        "C": "32%",
+        "D": "35%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) 24** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -2526,7 +2466,7 @@
     {
       "question": "Oxidative phosphorylation refers to",
       "options": {
-        "A": "naerobic production of ATP",
+        "A": "Naerobic production of ATP",
         "B": "The citric acid cycle production of ATP",
         "C": "Production of ATP by chemiosmosis",
         "D": "Alcoholic fermentation"
@@ -2584,21 +2524,6 @@
       "chapter": "Respiration in Plants"
     },
     {
-      "question": "The following is a simplified scheme showing the fate of glucose during aerobic and anaerobic respiration.",
-      "options": {
-        "A": "1. Carbon dioxide and water, B- Pyruvic acid, C- Ethyl alcohol and carbon dioxide, D- lactic acid",
-        "B": "1. Pyruvic acid, B- Carbon dioxide and water, C- Lactic acid , D- Ethyl alcohol and carbon dioxide",
-        "C": "1. Pyruvic acid, B- Carbon dioxide and water, C- Ethyl alcohol and carbon dioxide, D- Lactic",
-        "D": "1. Pyruvic acid, B- Ethyl alcohol and carbon dioxide, C- Lactic acid, D- Carbon dioxide and"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) 1. Pyruvic acid, B- Carbon dioxide and water, C- Lactic acid , D- Ethyl alcohol and carbon dioxide** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
       "question": "The process by which ATP is produced in the inner membrane of a mitochondrion, the electron transport",
       "options": {
         "A": "Chemiosmosis",
@@ -2618,26 +2543,11 @@
       "options": {
         "A": "Haemoglobin",
         "B": "Myoglobin",
-        "C": "hlorophyll",
+        "C": "Hlorophyll",
         "D": "Cytochrome"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) Cytochrome** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "The flowchart given below shows the steps in glycolysis. Select the option that correctly fills in the missing",
-      "options": {
-        "A": "-Fructose-6-phosphate, B-Fructose-1, 6-biphosphate, C-3-PGAL, D-1, 3-biphosphoglyceric acid",
-        "B": "A-Fructose-1, 6-biphosphate, B-3-PGAL, C-1, 3-biphosphoglyceric acid, D-3-PGA",
-        "C": "A-3-PGA, B-1, 3-biphosphoglyceric acid, C-3-PGAL, D-Fructose-1, 6-biphosphate",
-        "D": "A-Fructose-1, 6-biphosphate, B-Fructose-6-biphosphate, C-3-PGAL, D-1, 3-biphosphoglyceric acid"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) A-Fructose-6-phosphate, B-Fructose-1, 6-biphosphate, C-3-PGAL, D-1, 3-biphosphoglyceric acid** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -2649,7 +2559,7 @@
         "A": "Fermentation is inhibited at an alcohol level of 10-18%",
         "B": "Distillation prolongs storage",
         "C": "Distillation improves quality",
-        "D": "istillation purifies the beverage"
+        "D": "Istillation purifies the beverage"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Fermentation is inhibited at an alcohol level of 10-18%** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -2706,10 +2616,10 @@
     {
       "question": "Net gain of ATP from one molecule of glucose in glycolysis, is",
       "options": {
-        "A": "3",
-        "B": "6",
-        "C": "8",
-        "D": "2"
+        "A": "3%",
+        "B": "6%",
+        "C": "8%",
+        "D": "2%"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) 2** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
@@ -2724,7 +2634,7 @@
         "A": "Oxidative phosphorylation",
         "B": "Substrate level phosphorylation",
         "C": "Photophosphorylation",
-        "D": "ecarboxylation"
+        "D": "Ecarboxylation"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Substrate level phosphorylation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -2751,10 +2661,10 @@
     {
       "question": "The net gain of ATP from complete oxidation of one molecule of glucose in eukaryote is",
       "options": {
-        "A": "2",
-        "B": "4",
-        "C": "24",
-        "D": "36"
+        "A": "2%",
+        "B": "4%",
+        "C": "24%",
+        "D": "36%"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) 36** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
@@ -2931,9 +2841,9 @@
     {
       "question": "How much percentage of energy is released during lactic acid and alcoholic of fermentation?",
       "options": {
-        "A": "2",
-        "B": "9",
-        "C": "8",
+        "A": "2%",
+        "B": "9%",
+        "C": "8%",
         "D": "Less than 7"
       },
       "answer": "D",
@@ -3034,30 +2944,15 @@
       "chapter": "Respiration in Plants"
     },
     {
-      "question": "Match List-I with List-II : \\beginarrayllll List-I & & List-II \\\\A. & ETS Complex I & I. & NADH Dehydrogenase \\\\B. & ETS Complex II & II. & Cytochrome bC _1 \\\\C. & ETS Complex III & III. & Cytochrome C oxidase \\\\D. & ETS Complex IV & IV. & Succinate Dehydrogenase\\endarray Choose the correct answer from the options given below :",
-      "options": {
-        "A": "-IV, B-I, C-III, D-II",
-        "B": "A-I, B-IV, C-II, D-III",
-        "C": "A-III, B-I, C-IV, D-II",
-        "D": "A-I, B-II, C-IV, D-III"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B) A-I, B-IV, C-II, D-III** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
       "question": "Identify the step in tricarboxylic acid cycle, which does not involve oxidation of substrate.",
       "options": {
-        "A": "Succinic acid \\rightarrow Malic acid",
-        "B": "Succinyl-CoA \\rightarrow Succinic acid",
-        "C": "Isocitrate \\rightarrow \\alpha-ketoglutaric acid",
-        "D": "Malic acid \\rightarrow Oxaloacetic acid"
+        "A": "Succinic acid \\arrow Malic acid",
+        "B": "Succinyl-CoA \\arrow Succinic acid",
+        "C": "Isocitrate \\arrow \\alpha-ketoglutaric acid",
+        "D": "Malic acid \\arrow Oxaloacetic acid"
       },
       "answer": "B",
-      "solution": "**Correct Answer: (B) Succinyl-CoA \\rightarrow Succinic acid** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (B) Succinyl-CoA \\arrow Succinic acid** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -3128,7 +3023,7 @@
       "options": {
         "A": "Calcium",
         "B": "Iron",
-        "C": "obalt",
+        "C": "Obalt",
         "D": "Magnesium"
       },
       "answer": "D",
@@ -3188,7 +3083,7 @@
       "options": {
         "A": "Matrix of mitochondria",
         "B": "Outer wall of mitochondria",
-        "C": "ristae of mitochondria",
+        "C": "Ristae of mitochondria",
         "D": "Lysosomes"
       },
       "answer": "C",
@@ -3201,7 +3096,7 @@
     {
       "question": "In which one of the following processes CO\u2082 is not released?",
       "options": {
-        "A": "erobic respiration in plants",
+        "A": "Erobic respiration in plants",
         "B": "Aerobic respiration in animals",
         "C": "Alcoholic fermentation",
         "D": "Lactate fermentation"
@@ -3231,10 +3126,10 @@
     {
       "question": "The energy-releasing metabolic process in which substrate is oxidised without an external electron acceptor is called",
       "options": {
-        "A": "glycolysis",
-        "B": "fermentation",
-        "C": "aerobic respiration",
-        "D": "photorespiration"
+        "A": "Glycolysis",
+        "B": "Fermentation",
+        "C": "Aerobic respiration",
+        "D": "Photorespiration"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) fermentation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -3246,10 +3141,10 @@
     {
       "question": "Aerobic respiratory pathway is appropriately termed",
       "options": {
-        "A": "catabolic",
-        "B": "parabolic",
-        "C": "amphibolic",
-        "D": "anabolic"
+        "A": "Catabolic",
+        "B": "Parabolic",
+        "C": "Amphibolic",
+        "D": "Anabolic"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) amphibolic** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -3276,10 +3171,10 @@
     {
       "question": "The energy-releasing process in which the substrate is oxidized without an external electron acceptor is called",
       "options": {
-        "A": "fermentation",
-        "B": "photorespiration",
-        "C": "aerobic respiration",
-        "D": "glycolysis"
+        "A": "Fermentation",
+        "B": "Photorespiration",
+        "C": "Aerobic respiration",
+        "D": "Glycolysis"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) fermentation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (A) is the accurate scientific choice.",
@@ -3306,10 +3201,10 @@
     {
       "question": "During which stage in the complete oxidation of glucose arc the greatest number of ATP molecules formed from ADP?",
       "options": {
-        "A": "glycolysis",
+        "A": "Glycolysis",
         "B": "Kreb's cycle",
-        "C": "onversion of pyruvic acid to acetyl CoA",
-        "D": "electron transport chain."
+        "C": "Onversion of pyruvic acid to acetyl CoA",
+        "D": "Electron transport chain."
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) electron transport chain.** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (D) is the accurate scientific choice.",
@@ -3322,9 +3217,9 @@
       "question": "In glycolysis, during oxidation electrons are removed by:",
       "options": {
         "A": "TP",
-        "B": "glyceraldehyde-3-phosphate",
+        "B": "Glyceraldehyde-3-phosphate",
         "C": "NAD^+",
-        "D": "molecular oxygen."
+        "D": "Molecular oxygen."
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) NAD^+** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -3336,10 +3231,10 @@
     {
       "question": "Dough kept overnight in warm weather becomes son and spongy because of",
       "options": {
-        "A": "bsorption of carbon dioxide from atmosphere",
-        "B": "fermentation",
-        "C": "ohesion",
-        "D": "osmosis."
+        "A": "Bsorption of carbon dioxide from atmosphere",
+        "B": "Fermentation",
+        "C": "Ohesion",
+        "D": "Osmosis."
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) fermentation** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -3352,9 +3247,9 @@
       "question": "In which one of the following do the two names refer to one and the same thing ?",
       "options": {
         "A": "Krebs' cycle and Calvin cycle",
-        "B": "tricarboxylic acid cycle and citric acid cycle",
-        "C": "itric acid cycle and Calvin cycle",
-        "D": "tricarboxylic acid cycle and urea cycle"
+        "B": "Tricarboxylic acid cycle and citric acid cycle",
+        "C": "Itric acid cycle and Calvin cycle",
+        "D": "Tricarboxylic acid cycle and urea cycle"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) tricarboxylic acid cycle and citric acid cycle** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -3366,10 +3261,10 @@
     {
       "question": "During anaerobic digestion of organic waste, such as in producing biogas, which one of the following is left undegraded ?",
       "options": {
-        "A": "lipids",
-        "B": "lignin",
-        "C": "hemi-cellulose",
-        "D": "cellulose"
+        "A": "Lipids",
+        "B": "Lignin",
+        "C": "Hemi-cellulose",
+        "D": "Cellulose"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) lignin** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (B) is the accurate scientific choice.",
@@ -3381,10 +3276,10 @@
     {
       "question": "Which one of the following is wrong in relation to photorespiration?",
       "options": {
-        "A": "it occurs in chloroplast",
-        "B": "it occurs in day time only",
-        "C": "it is a characteristic of C_4 plants",
-        "D": "it is a characteristic of C_3 plants"
+        "A": "It occurs in chloroplast",
+        "B": "It occurs in day time only",
+        "C": "It is a characteristic of C_4 plants",
+        "D": "It is a characteristic of C_3 plants"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) it is a characteristic of C_4 plants** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -3396,10 +3291,10 @@
     {
       "question": "How many ATP molecules are produced by aerobic oxidation of one molecule of glucose?",
       "options": {
-        "A": "2",
-        "B": "4",
-        "C": "38",
-        "D": "34"
+        "A": "2%",
+        "B": "4%",
+        "C": "38%",
+        "D": "34%"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) 38** **Explanation:** Based on NCERT Biology principles for *Respiration in Plants*, option (C) is the accurate scientific choice.",
@@ -3426,7 +3321,7 @@
     {
       "question": "In respiration incomplete oxidation of glucose is done under",
       "options": {
-        "A": "erobic respiration",
+        "A": "Erobic respiration",
         "B": "Anaerobic respiration",
         "C": "Both (a) and (b)",
         "D": "None of these"
@@ -3609,7 +3504,7 @@
         "A": "Oxaloacetate synthetase",
         "B": "Citrate synthetase",
         "C": "Aconitase",
-        "D": "ehydrogenase"
+        "D": "Ehydrogenase"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B)** **Explanation:** The TCA cycle starts with the condensation of acetyl group with oxaloacetic acid (OAA) and water to yield citric acid. The reaction is catalyzed by the enzyme citrate synthase and molecule of Co-A is released",
@@ -3628,21 +3523,6 @@
       },
       "answer": "B",
       "solution": "**Correct Answer: (B)** **Explanation:** In Krebs\u2019 cycle, pyruvic acid is converted into carbon dioxide and water.",
-      "exam": "NEET High-Yield Practice",
-      "year": 2024,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "Choose the correct combination of A and B according to NCERT text book. All living organisms need \u2026A\u2026 for carrying out daily life activities and is obtained by \u2026B\u2026 of macromolecules",
-      "options": {
-        "A": "-oxygen; B-reduction",
-        "B": "A-energy; B-reduction",
-        "C": "A-energy; B-oxidation",
-        "D": "A-oxygen; B-oxidation"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C)** **Explanation:** All living organisms need energy for carrying out daily life activities and is obtained by oxidation of macromolecules",
       "exam": "NEET High-Yield Practice",
       "year": 2024,
       "subject": "Biology",
@@ -3697,8 +3577,8 @@
       "question": "The enzyme \u2026.. is used to catalysed when condensation of acetyl group with oxaloacetic acid and to yield citric acid",
       "options": {
         "A": "Citrate permeate",
-        "B": "citrate synthase",
-        "C": "itrate burate",
+        "B": "Citrate synthase",
+        "C": "Itrate burate",
         "D": "Citrate maliate"
       },
       "answer": "B",
@@ -3726,10 +3606,10 @@
     {
       "question": "Refer the given equation 2(C\u2085\u2081H\u2089\u2088O\u2086) + 145 O\u2082 \u2192102 CO\u2082 + 98 H\u2082O + Energy The respiratory quotient in this case is",
       "options": {
-        "A": "1",
-        "B": "0.7",
-        "C": "1.45",
-        "D": "1.62"
+        "A": "1%",
+        "B": "0.7%",
+        "C": "1.45%",
+        "D": "1.62%"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B)** **Explanation:** The given compound (C\u2085\u2081H\u2089\u2088O\u2086) is tripalmitin (2 molecules) used as a substrate. This substrate is used in respiration the respiratory quotient is less than 1. The given below derivation explained much clear way Respiratory quotient = Evolved CO\u2082 Consumed O\u2082 = 102 CO\u2082\u2081\u2084\u2085 O\u2082 = 0.7",
@@ -3758,7 +3638,7 @@
       "options": {
         "A": "Glycolysis",
         "B": "Formation of acetyl Co-A",
-        "C": "itric acid formation",
+        "C": "Itric acid formation",
         "D": "ETS terminal oxidation"
       },
       "answer": "B",
@@ -3786,7 +3666,7 @@
     {
       "question": "Sequence of events in Kreb\u2019s cycle is",
       "options": {
-        "A": "cetyl Co-A \u2192 Citrate \u2192 Pyruvate \u2192 Oxaloacetic acid \u2190 fumarate \u2190 Malate \u2190 Succinate \ud835\udec2- ketoglutaralte",
+        "A": "Cetyl Co-A \u2192 Citrate \u2192 Pyruvate \u2192 Oxaloacetic acid \u2190 fumarate \u2190 Malate \u2190 Succinate \ud835\udec2- ketoglutaralte",
         "B": "Acetyl Co-A \u2192 Citric acid \u2192 \ud835\udec2-ketoglutarate acid \u2192 Oxaloacetic acid \u2190 Malic acid \u2190 Fumaric acid \u2190 Succinic acid",
         "C": "Acetyl Co-A \u2192 Citric acid \u2192 Malic acid Oxaloacetic \u2190 Oxaloacetic acid Succinic \u2190 \ud835\udec2-ketoglutaric acid \u2190",
         "D": "All are wrong"
@@ -3831,10 +3711,10 @@
     {
       "question": "How many NADH + H+ molecule is released in Kreb\u2019s cycle?",
       "options": {
-        "A": "3",
-        "B": "6",
-        "C": "12",
-        "D": "14"
+        "A": "3%",
+        "B": "6%",
+        "C": "12%",
+        "D": "14%"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** One molecule of pyruvic acid converted in acetyl Co-A for 3 molecule of NADH + H+",
@@ -3923,26 +3803,11 @@
       "options": {
         "A": "Conversion of succinyl acid to \u221d-ketoglutaric acid",
         "B": "Conversion of succinic acid to malic acid",
-        "C": "onversion of succinyl Co-A to succinic acid",
+        "C": "Onversion of succinyl Co-A to succinic acid",
         "D": "Conversion of malic acid to oxalo acetic acid"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C)** **Explanation:** During the conversion of Succinyl Co-A to Succinic acid, a molecule of GTP is synthesized. This is a substrate level phosphorylation. In a coupled reaction, GTP is converted to GDP with the simultaneous synthesis of ATP from ADP.",
-      "exam": "NEET High-Yield Practice",
-      "year": 2024,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "Identify \ud835\udc34 and \ud835\udc35 in the given reaction Pyruvic acid +Co-A +NAD+ Mg\u2082+ \u2192 Pyruvate dehydrogenase A + B + NADH + H+",
-      "options": {
-        "A": "-PEP; B-CO\u2082",
-        "B": "A-Acetyl Co-A; B-CO\u2082",
-        "C": "A-CO\u2082; B-H\u2082O",
-        "D": "A-Acetyl Co-A; B-H\u2082O"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B)** **Explanation:** Pyruvic acid is 3C-compound. One of the three carbon atoms of pyruvic acid is oxidised to carbon dioxide in a reaction called oxidative decarboxylation. Pyruvate is first decarboxylated and then oxidised by the enzyme pyruvate dehydrogenase. The combination of the remaining 2-carbon acetate unit is readily accepted by a sulphur containing compound, coenzyme A (Co-A) to form acetyl Co-A",
       "exam": "NEET High-Yield Practice",
       "year": 2024,
       "subject": "Biology",
@@ -3984,7 +3849,7 @@
         "A": "Oxidative phosphorylation",
         "B": "Substrate level phosphorylation",
         "C": "Photophosphorylation",
-        "D": "ecarboxylation"
+        "D": "Ecarboxylation"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B)** **Explanation:** The synthesis of ATP from ADP is called phosphorylation. Substrate level phosphorylation is directly linked to liberation of energy in chemical reaction of respiration, e.g., formation of GTP is Krebs\u2019 cycle.",
@@ -3996,10 +3861,10 @@
     {
       "question": "During Kreb\u2019s cycle of \u2026A\u2026 NADH, \u2026B\u2026 ATP is produced through ETS in mitochondria. Choose, the correct pair from the option given below",
       "options": {
-        "A": "-2; B-4",
-        "B": "A-4; B-2",
-        "C": "A-6, B-18",
-        "D": "A-2; B-8"
+        "A": "-2;",
+        "B": "A-4;",
+        "C": "A-6,",
+        "D": "A-2;"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C)** **Explanation:** During Kreb\u2019s cycle as a result of formation of 6NADH, 18 ATP are produced through ETS in mitochondria",
@@ -4044,7 +3909,7 @@
         "A": "Oxaloacetate synthetase",
         "B": "Citrate synthetase",
         "C": "Aconitase",
-        "D": "ehydrogenase"
+        "D": "Ehydrogenase"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B)** **NCERT Explanation:** Option (B) is the correct choice based on NCERT Biology.",
@@ -4078,21 +3943,6 @@
       },
       "answer": "D",
       "solution": "**Correct Answer: (D)** **NCERT Explanation:** Option (D) is the correct choice based on NCERT Biology.",
-      "exam": "NEET NCERT Practice",
-      "year": 2024,
-      "subject": "Biology",
-      "chapter": "Respiration in Plants"
-    },
-    {
-      "question": "Identify \ud835\udc34 and \ud835\udc35 in the given reaction",
-      "options": {
-        "A": "-PEP; B-CO\u2082",
-        "B": "A-Acetyl Co-A; B-CO\u2082",
-        "C": "A-CO\u2082; B-H\u2082O",
-        "D": "A-Acetyl Co-A; B-H\u2082O"
-      },
-      "answer": "B",
-      "solution": "**Correct Answer: (B)** **NCERT Explanation:** Option (B) is the correct choice based on NCERT Biology.",
       "exam": "NEET NCERT Practice",
       "year": 2024,
       "subject": "Biology",

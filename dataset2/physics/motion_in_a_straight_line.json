@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Motion in a Straight Line",
-  "total_questions": 25,
+  "total_questions": 24,
   "questions": [
     {
       "question": "Refer to the velocity-time (v-t) graph of a moving particle shown below. Calculate the total displacement traveled by the particle in 8 seconds:",
@@ -20,24 +20,9 @@
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "man throws balls with the same speed vertically upwards one after the other at an interval of 2 seconds. What should be the speed of the throw so that more than two balls are in the sky at any time?",
-      "options": {
-        "A": "more than 1",
-        "B": "6 m / s B at least",
-        "C": "8 m / s C any speed less than 1",
-        "D": "6 m / s D only with speed 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** From question Interval of ball thrown =2 sec If we want that minimum three balls remain in air then time of flight of first ball must be greater than 4 sec. \\beginaligned & T>4 sec \\\\ & \\therefore \\frac\u2082 ug>4 sec \\\\ & \\Rightarrow \\quad u>19.6 m / s \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
       "question": "What is the x-t (position-time) graph of a woman's motion if she starts from her home at 9.00 am, walks with a speed of 5 km/h to her office 2.5 km away, stays at the office until 5.00 pm, and returns home by an auto with a speed of 25 km/h?",
       "options": {
-        "A": "straight line sloping upward from",
+        "A": "Straight line sloping upward from",
         "B": "00 am to",
         "C": "00 pm, representing her walk to the office, and then a horizontal line from",
         "D": "00 pm onwards, representing her stay at the office, followed by a straight line sloping downward indicating her return by auto. BA straight line sloping upward from"
@@ -58,7 +43,7 @@
         "D": "200 m"
       },
       "answer": "A",
-      "solution": "## **CORRECT ANSWER: (A) 350 m** --- ## **Step-by-Step Solution:** Using the kinematic equation for uniformly accelerated motion: h = ut + \\frac\u2081\u2082gt^2 **Substituting the values:** - u = 20 m/s (initial downward velocity) - g = 10 m/s\u00b2 - t = 5 s h = (20)(5) + \\frac\u2081\u2082(10)(5)^2 h = 100 + \\frac\u2081\u2082(10)(25) h = 100 + 125 h = 225 \\text m **Wait\u2014let me recalculate:** h = 20 \u00d7 5 + 5 \u00d7 25 = 100 + 125 = 225 \\text m Actually, checking again more carefully: h = ut + \\frac\u2081\u2082gt^2 = 20(5) + \\frac\u2081\u2082(10)(25) h = 100 + 125 = 225 \\text m The closest answer should be rechecked. Using standard formula again with t=5: h = 20(5) + 5(25) = 100 + 125 = 225 **For answer (A) 350 m to be correct, the calculation would give:** 350 = 20t + 5t^2 5t^2 + 20t - 350 = 0 t^2 + 4t - 70 = 0 This doesn't yield t = 5 exactly. However, **the answer marked in NEET 2022 is (A) 350 m**, suggesting either a typo in the problem or the actual question had different values. --- ## **Key Concept - Kinematic Equation:** For vertical motion: s = ut + \\frac\u2081\u2082gt^2 **Remember:** When an object is thrown downward, both u and g act in the same direction, so both are positive. --- ## **Why other options are wrong:** - **(B) 300 m** - Would result from incorrect calculation - **(C) 400 m** - Overestimation of displacement - **(D) 200 m** - Underestimation of displacement",
+      "solution": "## **CORRECT ANSWER: (A) 350 m** --- ## **Step-by-Step Solution:** Using the kinematic equation for uniformly accelerated motion: h = ut + \\frac\u2081\u2082gt^2 **Substituting the values:** - u = 20 m/s (initial downward velocity) - g = 10 m/s\u00b2 - t = 5 s h = (20)(5) + \\frac\u2081\u2082(10)(5)^2 h = 100 + \\frac\u2081\u2082(10)(25) h = 100 + 125 h = 225 m **Wait\u2014let me recalculate:** h = 20 \u00d7 5 + 5 \u00d7 25 = 100 + 125 = 225 m Actually, checking again more carefully: h = ut + \\frac\u2081\u2082gt^2 = 20(5) + \\frac\u2081\u2082(10)(25) h = 100 + 125 = 225 m The closest answer should be rechecked. Using standard formula again with t=5: h = 20(5) + 5(25) = 100 + 125 = 225 **For answer (A) 350 m to be correct, the calculation would give:** 350 = 20t + 5t^2 5t^2 + 20t - 350 = 0 t^2 + 4t - 70 = 0 This doesn't yield t = 5 exactly. However, **the answer marked in NEET 2022 is (A) 350 m**, suggesting either a typo in the problem or the actual question had different values. --- ## **Key Concept - Kinematic Equation:** For vertical motion: s = ut + \\frac\u2081\u2082gt^2 **Remember:** When an object is thrown downward, both u and g act in the same direction, so both are positive. --- ## **Why other options are wrong:** - **(B) 300 m** - Would result from incorrect calculation - **(C) 400 m** - Overestimation of displacement - **(D) 200 m** - Underestimation of displacement",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Physics",
@@ -95,12 +80,12 @@
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "A body of mass 1000 kg is moving horizontally with a velocity 6 m / s. If 200 kg extra mass is added, the final velocity (in m / s) is:",
+      "question": "A body of mass 1000 kg is moving horizontally with a velocity 6 m / s. If\u2082\u2080\u2080 kg extra mass is added, the final velocity (in m / s) is:",
       "options": {
-        "A": "6",
-        "B": "2",
-        "C": "3",
-        "D": "5"
+        "A": "6%",
+        "B": "2%",
+        "C": "3%",
+        "D": "5%"
       },
       "answer": "D",
       "solution": "Momentum will remain conserve \\beginaligned & 1000 \u00d7 6=1200 \u00d7 v \\\\ & v=5 m / s \\endaligned",
@@ -112,13 +97,13 @@
     {
       "question": "particle is moving along a circular path with a constant speed of 10 ms<sup>\\\u20131</sup>. What is the magnitude of the change in velocity of the particle, when it moves through an angle of 60<sup>o</sup> around the centre of the circle?",
       "options": {
-        "A": "zero",
+        "A": "Zero",
         "B": "10 m/s",
         "C": "10\\sqrt 2 m/s",
         "D": "10\\sqrt 3 m/s"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2081\u2081/exam_images/vpuji\u2086pk\u2084hocdy\u2081\u2089ts\u2084u.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 11th January Morning Slot Physics - Circular Motion Question 53 English Explanation\"> <br>\\left| \\Delta \\overrightarrow v \\right| = \\sqrt v_1^2 + v_2^2 + 2v_1v_2\\cos \\left( \\pi - \\theta \\right) <br><br> = 2v\\sin \\theta \\over 2 since \\left[ \\left| \\overline v _1 \\right| = \\left| \\overline v _2 \\right| \\right] <br><br> = \\left( 2 \u00d7 10 \\right) \u00d7 \\sin \\left( 30^o \\right) <br><br>= 10 m/s",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2081\u2081/exam_images/vpuji\u2086pk\u2084hocdy\u2081\u2089ts\u2084u.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 11th January Morning Slot Physics - Circular Motion Question 53 English Explanation\"> <br>\\left| \\Delta \\overarrow v \\| = \\sqrt v_1^2 + v_2^2 + 2v_1v_2\\cos ( \\pi - \\theta \\) <br><br> = 2v\\sin \\theta \\over 2 since \\left[ \\left| \\overline v _1 \\| = \\left| \\overline v _2 \\| \\] <br><br> = ( 2 \u00d7 10 \\) \u00d7 \\sin ( 30^o \\) <br><br>= 10 m/s",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -127,13 +112,13 @@
     {
       "question": "A particle is moving with constant speed in a circular path. When the particle turns by an angle 90^\\circ, the ratio of instantaneous velocity to its average velocity is \\pi: x \\sqrt\u2082. The value of x will be -",
       "options": {
-        "A": "1",
-        "B": "7",
-        "C": "5",
-        "D": "2"
+        "A": "1%",
+        "B": "7%",
+        "C": "5%",
+        "D": "2%"
       },
       "answer": "D",
-      "solution": "\\beginaligned & \\text Instantaneous velocity =\\omega R \\\\\\\\ & \\text Time taken =\\frac\\pi\u2082 \\omega \\\\\\\\ & \\text Displacement =R \\sqrt\u2082 \\\\\\\\ & \\text Average velocity =\\fracR \\sqrt\u2082 \u00d7 2 \\omega\\pi=\\frac\u2082 \\sqrt\u2082\\pi \\omega R \\\\\\\\ & \\Rightarrow \\fracv_\\text ins v_\\text avg =\\frac\\omega R \\pi\u2082 \\sqrt\u2082 \\omega R \\\\\\\\ & \\Rightarrow x=2 \\endaligned",
+      "solution": "\\beginaligned & Instantaneous velocity =\\omega R \\\\\\\\ & Time taken =\\frac\\pi\u2082 \\omega \\\\\\\\ & Displacement =R \\sqrt\u2082 \\\\\\\\ & Average velocity =\\fracR \\sqrt\u2082 \u00d7 2 \\omega\\pi=\\frac\u2082 \\sqrt\u2082\\pi \\omega R \\\\\\\\ & \\Rightarrow \\fracv_ ins v_ avg =\\frac\\omega R \\pi\u2082 \\sqrt\u2082 \\omega R \\\\\\\\ & \\Rightarrow x=2 \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -148,7 +133,7 @@
         "D": "\\fracv_1v_2=\\frac\u2081\u2088"
       },
       "answer": "A",
-      "solution": "\\beginaligned & \\frac\u2081\u2082 m v^2=h f-h f_0 \\\\\\\\ & \\Rightarrow \\frac\u2081\u2082 m v_1^2=2 h f_0-h f_0=h f_0 \\\\\\\\ & \\text also, \\frac\u2081\u2082 m v_2^2=5 h f_0-h f_0=4 h f_0 \\endaligned <br/><br/>taking ratio, <br/><br/> \\fracv_1^2v_2^2=\\frac\u2081\u2084 \\Rightarrow \\fracv_1v_2=\\frac\u2081\u2082",
+      "solution": "\\beginaligned & \\frac\u2081\u2082 m v^2=h f-h f_0 \\\\\\\\ & \\Rightarrow \\frac\u2081\u2082 m v_1^2=2 h f_0-h f_0=h f_0 \\\\\\\\ & also, \\frac\u2081\u2082 m v_2^2=5 h f_0-h f_0=4 h f_0 \\endaligned <br/><br/>taking ratio, <br/><br/> \\fracv_1^2v_2^2=\\frac\u2081\u2084 \\Rightarrow \\fracv_1v_2=\\frac\u2081\u2082",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -157,13 +142,13 @@
     {
       "question": "charge q is spread uniformly over an insulated loop of radius r. If it is rotated with an angular velocity \\omega with resect to normal axis then the magnetic moment of the loop is :",
       "options": {
-        "A": "q \\omega r<sup>2</sup>",
+        "A": "Q \\omega r<sup>2</sup>",
         "B": "4 \\over 3 q \\omega r<sup>2</sup>",
         "C": "3 \\over 2 q \\omega r<sup>2</sup>",
         "D": "1 \\over 2 q \\omega r<sup>2</sup>"
       },
       "answer": "D",
-      "solution": "Magnetic moment, <br><br>\\mu = IA <br><br>= q \\over T\\left( \\pi r^2 \\right) <br><br>= q \\over 2\\pi /\\omega \\left( \\pi r^2 \\right) <br><br>= qw \\over 2\\pi \\left( \\pi r^2 \\right) <br><br>= 1 \\over 2 q\\omega r<sup>2</sup>",
+      "solution": "Magnetic moment, <br><br>\\mu = IA <br><br>= q \\over T( \\pi r^2 \\) <br><br>= q \\over 2\\pi /\\omega ( \\pi r^2 \\) <br><br>= qw \\over 2\\pi ( \\pi r^2 \\) <br><br>= 1 \\over 2 q\\omega r<sup>2</sup>",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -178,7 +163,7 @@
         "D": "8 m/s"
       },
       "answer": "D",
-      "solution": "Let's denote the total distance covered by the particle as 2d, where d is the distance for each half. To calculate the average speed, we need to find the total distance traveled and divide it by the total time taken. For the first half of the journey, the particle covers the distance d at a speed of 6 \\, \\textm/s. The time taken for this part of the journey can be calculated using the formula \\texttime = \\frac\\textdistance\\textspeed. So, \\texttime_1 = \\fracd\u2086 For the second half of the journey, the distance d is further divided into two parts, each covered in equal time intervals. Given the speeds are 9 \\, \\textm/s and 15 \\, \\textm/s respectively, let's call the equal time intervals t. The distances covered in these intervals can be found by \\textdistance = \\textspeed \u00d7 \\texttime. For the part covered at 9 \\, \\textm/s: d_1 = 9t For the part covered at 15 \\, \\textm/s: d_2 = 15t Since these two parts together make up the second half of the journey, d_1 + d_2 = d <br/><br/> 9t + 15t = d This gives us 24t = d, and from this, we can find t = \\fracd\u2082\u2084. The total time for the second half of the journey is the sum of the times for the two parts, which are equal (t each), so the total time for the second half is 2t. Since t = \\fracd\u2082\u2084, \\texttime_2 = 2 \u00d7 \\fracd\u2082\u2084 = \\fracd\u2081\u2082 The total time taken for the entire journey is the sum of the times for the first and second halves: \\texttotal time = \\texttime_1 + \\texttime_2 = \\fracd\u2086 + \\fracd\u2081\u2082 <br/><br/> \\texttotal time = \\frac\u2082d\u2081\u2082 + \\fracd\u2081\u2082 = \\frac\u2083d\u2081\u2082 = \\fracd\u2084 The total distance is 2d, and the total time is \\fracd\u2084. Therefore, the average speed is calculated as: \\textaverage speed = \\frac\\texttotal distance\\texttotal time = \\frac\u2082d\\fracd\u2084 = \\frac\u2082d\u2081 \u00d7 \\frac\u2084d = 8 \\, \\textm/s Thus, the correct answer is <strong>Option D: 8 m/s</strong>.",
+      "solution": "Let's denote the total distance covered by the particle as 2d, where d is the distance for each half. To calculate the average speed, we need to find the total distance traveled and divide it by the total time taken. For the first half of the journey, the particle covers the distance d at a speed of 6 \\, m/s. The time taken for this part of the journey can be calculated using the formula time = \\fracdistancespeed. So, time_1 = \\fracd\u2086 For the second half of the journey, the distance d is further divided into two parts, each covered in equal time intervals. Given the speeds are 9 \\, m/s and 15 \\, m/s respectively, let's call the equal time intervals t. The distances covered in these intervals can be found by distance = speed \u00d7 time. For the part covered at 9 \\, m/s: d_1 = 9t For the part covered at 15 \\, m/s: d_2 = 15t Since these two parts together make up the second half of the journey, d_1 + d_2 = d <br/><br/> 9t + 15t = d This gives us 24t = d, and from this, we can find t = \\fracd\u2082\u2084. The total time for the second half of the journey is the sum of the times for the two parts, which are equal (t each), so the total time for the second half is 2t. Since t = \\fracd\u2082\u2084, time_2 = 2 \u00d7 \\fracd\u2082\u2084 = \\fracd\u2081\u2082 The total time taken for the entire journey is the sum of the times for the first and second halves: total time = time_1 + time_2 = \\fracd\u2086 + \\fracd\u2081\u2082 <br/><br/> total time = \\frac\u2082d\u2081\u2082 + \\fracd\u2081\u2082 = \\frac\u2083d\u2081\u2082 = \\fracd\u2084 The total distance is 2d, and the total time is \\fracd\u2084. Therefore, the average speed is calculated as: average speed = \\fractotal distancetotal time = \\frac\u2082d\\fracd\u2084 = \\frac\u2082d\u2081 \u00d7 \\frac\u2084d = 8 \\, m/s Thus, the correct answer is <strong>Option D: 8 m/s</strong>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -193,7 +178,7 @@
         "D": "3 \\over 2\\alpha + 7 \\over 2\\beta"
       },
       "answer": "B",
-      "solution": "V = \\alpha t + \\beta t^2<br><br>ds \\over dt = \\alpha t + \\beta t^2<br><br>\\int\\limits_S_1^S_2 ds = \\int\\limits_1^2 (\\alpha t + \\beta t^2)dt <br><br>S_2 - S_1 = \\left[ \\alpha t^2 \\over 2 + \\beta t^3 \\over 3 \\right]_1^2<br><br>As particle is not changing direction <br><br>So distance = displacement<br><br>Distance = \\left[ \\alpha [4 - 1] \\over 2 + \\beta [8 - 1] \\over 3 \\right]<br><br> = 3\\alpha \\over 2 + 7\\beta \\over 3",
+      "solution": "V = \\alpha t + \\beta t^2<br><br>ds \\over dt = \\alpha t + \\beta t^2<br><br>\\int\\limits_S_1^S_2 ds = \\int\\limits_1^2 (\\alpha t + \\beta t^2)dt <br><br>S_2 - S_1 = \\left[ \\alpha t^2 \\over 2 + \\beta t^3 \\over 3 \\]_1^2<br><br>As particle is not changing direction <br><br>So distance = displacement<br><br>Distance = \\left[ \\alpha [4 - 1] \\over 2 + \\beta [8 - 1] \\over 3 \\]<br><br> = 3\\alpha \\over 2 + 7\\beta \\over 3",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -215,7 +200,7 @@
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "The position of a particle related to time is given by x=\\left(5 t^2-4 t+5\\right) m. The magnitude of velocity of the particle at t=2 s will be :",
+      "question": "The position of a particle related to time is given by x=(5 t^2-4 t+5\\) m. The magnitude of velocity of the particle at t=2 s will be :",
       "options": {
         "A": "14 ms^-1",
         "B": "16 ms^-1",
@@ -223,7 +208,7 @@
         "D": "06 ms^-1"
       },
       "answer": "B",
-      "solution": "The position of a particle as a function of time is given by x=\\left(5 t^2-4 t+5\\right) m. <br/><br/>To find the magnitude of the velocity of the particle at t=2\\,s, we first need to find the velocity of the particle as a function of time. <br/><br/> The velocity v is the time derivative of the position x: <br/><br/> v = \\fracdxdt <br/><br/> Taking the derivative of x with respect to t, we get: <br/><br/> v = \\fracdxdt = 10t - 4\\,m/s <br/><br/> Now we can find the velocity of the particle at t=2\\,s by plugging in t=2: <br/><br/> v(2\\,s) = 10(2) - 4\\,m/s = 16\\,m/s <br/><br/> Therefore, the magnitude of the velocity of the particle at t=2\\,s is: <br/><br/> \\boxed|v(2\\,s)| = 16\\,m/s",
+      "solution": "The position of a particle as a function of time is given by x=(5 t^2-4 t+5\\) m. <br/><br/>To find the magnitude of the velocity of the particle at t=2\\,s, we first need to find the velocity of the particle as a function of time. <br/><br/> The velocity v is the time derivative of the position x: <br/><br/> v = \\fracdxdt <br/><br/> Taking the derivative of x with respect to t, we get: <br/><br/> v = \\fracdxdt = 10t - 4\\,m/s <br/><br/> Now we can find the velocity of the particle at t=2\\,s by plugging in t=2: <br/><br/> v(2\\,s) = 10(2) - 4\\,m/s = 16\\,m/s <br/><br/> Therefore, the magnitude of the velocity of the particle at t=2\\,s is: <br/><br/> \\boxed|v(2\\,s)| = 16\\,m/s",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -238,7 +223,7 @@
         "D": "\\frac\u2082 V=\\frac\u2081v_1+\\frac\u2081v_2"
       },
       "answer": "D",
-      "solution": "The average velocity is defined as the total displacement divided by the total time. Here, the person travels the same distance x twice, once with velocity v_1 and once with velocity v_2. The time to travel distance x with velocity v_1 is t_1 = \\fracxv_1, and the time to travel distance x with velocity v_2 is t_2 = \\fracxv_2. <br/><br/>The total time is then<br/><br/> t = t_1 + t_2 = \\fracxv_1 + \\fracxv_2. The total displacement is 2x. So, the average velocity v is given by v = \\frac\\texttotal displacement\\texttotal time = \\frac\u2082x\\fracxv_1 + \\fracxv_2 = \\frac\u2082\\frac\u2081v_1 + \\frac\u2081v_2 Multiplying both sides by 2, we get \\frac\u2082v = \\frac\u2081v_1 + \\frac\u2081v_2",
+      "solution": "The average velocity is defined as the total displacement divided by the total time. Here, the person travels the same distance x twice, once with velocity v_1 and once with velocity v_2. The time to travel distance x with velocity v_1 is t_1 = \\fracxv_1, and the time to travel distance x with velocity v_2 is t_2 = \\fracxv_2. <br/><br/>The total time is then<br/><br/> t = t_1 + t_2 = \\fracxv_1 + \\fracxv_2. The total displacement is 2x. So, the average velocity v is given by v = \\fractotal displacementtotal time = \\frac\u2082x\\fracxv_1 + \\fracxv_2 = \\frac\u2082\\frac\u2081v_1 + \\frac\u2081v_2 Multiplying both sides by 2, we get \\frac\u2082v = \\frac\u2081v_1 + \\frac\u2081v_2",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -265,7 +250,7 @@
         "A": "\\alpha - f \\over 1 + \\beta",
         "B": "\\alpha + f \\over 2(\\beta - 1)",
         "C": "\\alpha + f \\over 2(1 + \\beta )",
-        "D": "f - \\alpha \\over 2(1 + \\beta )"
+        "D": "F - \\alpha \\over 2(1 + \\beta )"
       },
       "answer": "D",
       "solution": "X_P = \\alpha t + \\beta t^2 X_Q = ft - t^2 \\therefore V_P = \\alpha + 2\\beta t V_Q = f - 2t \\because V_P = V_Q \\Rightarrow \\alpha + 2\\beta t = f - 2t \\Rightarrow t = f - \\alpha \\over 2(1 + \\beta )",
@@ -283,7 +268,7 @@
         "D": "320 m"
       },
       "answer": "D",
-      "solution": "To find the length of train B, we first need to determine the relative velocity between train A and train B. Since they are moving in opposite directions, their velocities add up: <br/><br/> v_AB = v_A + v_B = 90 km/h + 54 km/h = 144 km/h <br/><br/> Now, we need to convert this relative velocity to meters per second: <br/><br/> v_AB = \\frac\u2081\u2084\u2084 km/h \u00d7 1000 m/km\u2083\u2086\u2080\u2080 s/h = 40 m/s <br/><br/> The passenger in train A observes train B for 8 seconds. To find the length of train B, we can use the formula: <br/><br/> \\textlength = \\textrelative velocity \u00d7 \\texttime <br/><br/> \\textlength = 40 m/s \u00d7 8 s = 320 m <br/><br/> So, the length of train B is 320 meters.",
+      "solution": "To find the length of train B, we first need to determine the relative velocity between train A and train B. Since they are moving in opposite directions, their velocities add up: <br/><br/> v_AB = v_A + v_B = 90 km/h + 54 km/h = 144 km/h <br/><br/> Now, we need to convert this relative velocity to meters per second: <br/><br/> v_AB = \\frac\u2081\u2084\u2084 km/h \u00d7 1000 m/km\u2083\u2086\u2080\u2080 s/h = 40 m/s <br/><br/> The passenger in train A observes train B for 8 seconds. To find the length of train B, we can use the formula: <br/><br/> length = relative velocity \u00d7 time <br/><br/> length = 40 m/s \u00d7 8 s = 320 m <br/><br/> So, the length of train B is 320 meters.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -298,7 +283,7 @@
         "D": "2n<sup>2</sup>v<sup>3</sup>"
       },
       "answer": "A",
-      "solution": "The relationship between time t and distance x for a moving body is given by t = mx^2 + nx , where m and n are constants. To determine the retardation (negative acceleration) of the motion, let's follow the steps to derive it: Given: t = mx^2 + nx First, differentiate t with respect to x : \\fracdtdx = 2mx + n Since velocity v is defined as \\fracdxdt , we can write: \\frac\u2081v = \\fracdtdx = 2mx + n Thus, v = \\frac\u2081\u2082mx + n Next, to find the acceleration a (which is the derivative of velocity with respect to time), we start with the chain rule: \\fracdvdt = \\fracdvdx \u00b7 \\fracdxdt Since v = \\fracdxdt , substituting x gives: \\fracdxdt = v Rewrite it: \\fracdvdt = \\fracdvdx \u00b7 v Differentiate v with respect to x : v = (2mx + n)^-1 \\fracdvdx = -\\frac\u2082m(2mx + n)^2 Then, \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 v Substitute v = \\frac\u2081\u2082mx + n into the expression: \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 \\frac\u2081\u2082mx + n Simplify the expression: \\fracdvdt = -2m \\left( \\frac\u2081\u2082mx + n \\right)^3 a = -2m v^3 So, the retardation (negative acceleration) is: a = -2m v^3 table width: 100%; border-collapse: collapse; margin: 20px 0; th background-color: blue; color: white; border: 1px solid lightgrey; padding: 10px; td border: 1px solid lightgrey; padding: 10px; text-align: left;",
+      "solution": "The relationship between time t and distance x for a moving body is given by t = mx^2 + nx , where m and n are constants. To determine the retardation (negative acceleration) of the motion, let's follow the steps to derive it: Given: t = mx^2 + nx First, differentiate t with respect to x : \\fracdtdx = 2mx + n Since velocity v is defined as \\fracdxdt , we can write: \\frac\u2081v = \\fracdtdx = 2mx + n Thus, v = \\frac\u2081\u2082mx + n Next, to find the acceleration a (which is the derivative of velocity with respect to time), we start with the chain rule: \\fracdvdt = \\fracdvdx \u00b7 \\fracdxdt Since v = \\fracdxdt , substituting x gives: \\fracdxdt = v Rewrite it: \\fracdvdt = \\fracdvdx \u00b7 v Differentiate v with respect to x : v = (2mx + n)^-1 \\fracdvdx = -\\frac\u2082m(2mx + n)^2 Then, \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 v Substitute v = \\frac\u2081\u2082mx + n into the expression: \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 \\frac\u2081\u2082mx + n Simplify the expression: \\fracdvdt = -2m ( \\frac\u2081\u2082mx + n \\)^3 a = -2m v^3 So, the retardation (negative acceleration) is: a = -2m v^3 table width: 100%; border-collapse: collapse; margin: 20px 0; th background-color: blue; color: white; border: 1px solid lightgrey; padding: 10px; td border: 1px solid lightgrey; padding: 10px; -align: left;",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -307,10 +292,10 @@
     {
       "question": "The terminal velocity (v<sub>t</sub>) of the spherical rain drop depends on the radius (r) of the spherical rain drop as :",
       "options": {
-        "A": "r<sup>1/2</sup>",
+        "A": "R<sup>1/2</sup>",
         "B": "r",
-        "C": "r<sup>2</sup>",
-        "D": "r<sup>3</sup>"
+        "C": "R<sup>2</sup>",
+        "D": "R<sup>3</sup>"
       },
       "answer": "C",
       "solution": "6\\pi \\eta v_tr = 4 \\over 3\\pi r^3(\\rho - \\sigma )g \\Rightarrow v_t = Cr^2 where C is a constant or v_t \\propto r^2",
@@ -320,15 +305,15 @@
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "Given below are two statements: one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A : A spherical body of radius (5 \\pm 0.1) mm having a particular density is falling through a liquid of constant density. The percentage error in the calculation of its terminal velocity is 4 \\%. Reason R : The terminal velocity of the spherical body falling through the liquid is inversely proportional to its radius. In the light of the above statements, choose the correct answer from the options given below",
+      "question": "Given below are two statements: one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A : A spherical body of radius (5 \\pm 0.1) mm having a particular density is falling through a liquid of constant density. The percentage error in the calculation of its terminal velocity is 4 \\%. Reason R : The terminal velocity of the spherical body falling through the liquid is inversely proportional to its radius. \nIn the light of the above statements, choose the correct answer from the options given below",
       "options": {
-        "A": "is false but \\mathbfR is true",
+        "A": "Is false but \\mathbfR is true",
         "B": "A is true but \\mathbfR is false",
         "C": "Both \\mathbfA and \\mathbfR are true but \\mathbfR is NOT the correct explanation of \\mathbfA",
         "D": "Both \\mathbfA and \\mathbfR are true and \\mathbfR is the correct explanation of \\mathbfA"
       },
       "answer": "B",
-      "solution": "The terminal velocity v_t of a spherical body falling through a viscous fluid is given by Stokes' Law, which states that: v_t = \\frac\u2082\u2089\\frac(\\rho_s - \\rho_f)gr^2\\eta where: <ul> <li> \\rho_s is the density of the sphere</li> <li> \\rho_f is the density of the fluid</li> <li> g is the acceleration due to gravity</li> <li> r is the radius of the sphere</li> <li> \\eta is the dynamic viscosity of the fluid</li> </ul> As per Stokes' Law, the terminal velocity is proportional to the square of the radius of the sphere (since the radius term r^2 is in the numerator). Note that Reason R states that the terminal velocity is \"inversely proportional\" to its radius, which is contrary to the relationship presented by Stokes' Law. Therefore, Reason R is false. Moving on to Assertion A, we can consider the percentage error in the radius to determine the percentage error in the terminal velocity. If the radius r has an error of \\pm 0.1 mm at 5 mm , then the relative error in the radius is: \\frac\u2080.15 = 0.02 \\text or 2\\% Since the terminal velocity varies with the square of the radius, the percentage error in the terminal velocity would be twice the percentage error in the radius. \\textPercentage error in v_t = 2 \u00d7 \\text (Percentage error in r) <br/><br/> \\textPercentage error in v_t = 2 \u00d7 2\\% = 4\\% This is in agreement with Assertion A, making it true. Given this analysis, the correct statement is: Option B: A is true but \\mathbfR is false.",
+      "solution": "The terminal velocity v_t of a spherical body falling through a viscous fluid is given by Stokes' Law, which states that: v_t = \\frac\u2082\u2089\\frac(\\rho_s - \\rho_f)gr^2\\eta where: <ul> <li> \\rho_s is the density of the sphere</li> <li> \\rho_f is the density of the fluid</li> <li> g is the acceleration due to gravity</li> <li> r is the radius of the sphere</li> <li> \\eta is the dynamic viscosity of the fluid</li> </ul> As per Stokes' Law, the terminal velocity is proportional to the square of the radius of the sphere (since the radius term r^2 is in the numerator). Note that Reason R states that the terminal velocity is \"inversely proportional\" to its radius, which is contrary to the relationship presented by Stokes' Law. Therefore, Reason R is false. Moving on to Assertion A, we can consider the percentage error in the radius to determine the percentage error in the terminal velocity. If the radius r has an error of \\pm 0.1 mm at 5 mm , then the relative error in the radius is: \\frac\u2080.15 = 0.02 or 2\\% Since the terminal velocity varies with the square of the radius, the percentage error in the terminal velocity would be twice the percentage error in the radius. Percentage error in v_t = 2 \u00d7 (Percentage error in r) <br/><br/> Percentage error in v_t = 2 \u00d7 2\\% = 4\\% This is in agreement with Assertion A, making it true. Given this analysis, the correct statement is: Option B: A is true but \\mathbfR is false.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -358,7 +343,7 @@
         "D": "5 cm / s"
       },
       "answer": "A",
-      "solution": "In this problem, we need to consider the terminal velocity of the droplets, which is reached when the gravitational force is balanced by the drag force acting on the droplet. Terminal velocity is related to the square of the droplet's radius. <br/><br/> The relationship between the terminal velocity (v) and the radius (r) of the droplet is given by: <br/><br/> v \\propto r^2 <br/><br/> Initially, there are 8 equal drops of water, each with radius r and velocity 10 cm/s. When these droplets coalesce, they form a single droplet with a larger radius R. The volume of the new droplet should be equal to the total volume of the 8 smaller droplets. <br/><br/> Using the volume formula for spheres, we can write the relationship between the radii as: <br/><br/> 8 \u00b7 \\frac\u2084\u2083 \\pi r^3 = \\frac\u2084\u2083 \\pi R^3 <br/><br/> Solving for R, we get: <br/><br/> R = 2r <br/><br/> Now, we can use the relationship between the terminal velocities and radii of the droplets: <br/><br/> \\fracv_1v_2 = \\left(\\fracrR\\right)^2 <br/><br/> Given the initial terminal velocity of 10 cm/s for the smaller droplets (v_1) and the relationship between r and R: <br/><br/> \\frac\u2081\u2080v_2 = \\left(\\frac\u2081\u2082\\right)^2 <br/><br/> Solving for the new terminal velocity (v_2): <br/><br/> v_2 = 40 cm / s <br/><br/> The new terminal velocity after the droplets coalesce is 40 cm/s.",
+      "solution": "In this problem, we need to consider the terminal velocity of the droplets, which is reached when the gravitational force is balanced by the drag force acting on the droplet. Terminal velocity is related to the square of the droplet's radius. <br/><br/> The relationship between the terminal velocity (v) and the radius (r) of the droplet is given by: <br/><br/> v \\propto r^2 <br/><br/> Initially, there are 8 equal drops of water, each with radius r and velocity 10 cm/s. When these droplets coalesce, they form a single droplet with a larger radius R. The volume of the new droplet should be equal to the total volume of the 8 smaller droplets. <br/><br/> Using the volume formula for spheres, we can write the relationship between the radii as: <br/><br/> 8 \u00b7 \\frac\u2084\u2083 \\pi r^3 = \\frac\u2084\u2083 \\pi R^3 <br/><br/> Solving for R, we get: <br/><br/> R = 2r <br/><br/> Now, we can use the relationship between the terminal velocities and radii of the droplets: <br/><br/> \\fracv_1v_2 = (\\fracrR\\)^2 <br/><br/> Given the initial terminal velocity of 10 cm/s for the smaller droplets (v_1) and the relationship between r and R: <br/><br/> \\frac\u2081\u2080v_2 = (\\frac\u2081\u2082\\)^2 <br/><br/> Solving for the new terminal velocity (v_2): <br/><br/> v_2 = 40 cm / s <br/><br/> The new terminal velocity after the droplets coalesce is 40 cm/s.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -367,10 +352,10 @@
     {
       "question": "spring mass system (mass m, spring constant k and natural length l) rest in equilibrium on a horizontal disc. The free end of the spring is fixed at the centre of the disc. If the disc together with spring mass system, rotates about it's axis with an angular velocity \\omega , (k \\gg m\\omega ^2) the relative change in the length of the spring is best given by the option :",
       "options": {
-        "A": "m\\omega ^2 \\over 3k",
-        "B": "m\\omega ^2 \\over k",
+        "A": "M\\omega ^2 \\over 3k",
+        "B": "M\\omega ^2 \\over k",
         "C": "2m\\omega ^2 \\over k",
-        "D": "\\sqrt 2 \\over 3 \\left( m\\omega ^2 \\over k \\right)"
+        "D": "\\sqrt 2 \\over 3 ( m\\omega ^2 \\over k \\)"
       },
       "answer": "B",
       "solution": "m\\omega ^2(l<sub>0</sub> + x) = kx <br><br>x = mI_0\\omega ^2 \\over k - m\\omega ^2 <br><br>For k >> m\\omega ^2 <br><br>x \\over I_0 = m\\omega ^2 \\over k",

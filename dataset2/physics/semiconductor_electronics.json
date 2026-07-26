@@ -1,16 +1,16 @@
 {
   "subject": "Physics",
   "chapter": "Semiconductor Electronics",
-  "total_questions": 42,
+  "total_questions": 38,
   "questions": [
     {
       "question": "Identify the digital logic gate represented by the symbol shown below and choose its correct truth table output Y for inputs A=1, B=1:",
       "image_path": "dataset2/images/phys_logic_gate.png",
       "options": {
-        "A": "NAND Gate; Output Y = 0 when A=1, B=1",
-        "B": "AND Gate; Output Y = 1 when A=1, B=1",
-        "C": "NOR Gate; Output Y = 1 when A=1, B=1",
-        "D": "OR Gate; Output Y = 0 when A=1, B=1"
+        "A": "NAND Gate; Output Y = 0 when",
+        "B": "AND Gate; Output Y = 1 when",
+        "C": "NOR Gate; Output Y = 1 when",
+        "D": "OR Gate; Output Y = 0 when"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** The given symbol represents a NAND gate (AND gate followed by a NOT inversion bubble). The Boolean expression is Y = \\overlineA \u00b7 B. When A=1 and B=1, Y = \\overline\u2081 \u00b7 1 = \\overline\u2081 = 0.",
@@ -20,26 +20,11 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "[NEET 2019 | Physics] The Boolean expression for a NAND gate is:",
-      "options": {
-        "A": "Y = A\u00b7B",
-        "B": "Y = A+B",
-        "C": "Y = (A\u00b7B)\u0304",
-        "D": "Y = \u0100\u00b7B\u0304"
-      },
-      "answer": "C",
-      "solution": "# NAND Gate Boolean Expression **Correct Answer: (C) Y = (A\u00b7B)\u0304** --- ## Step-by-Step Explanation ### What is a NAND Gate? - **NAND** = **NOT AND** - It's the complement of an AND gate - Whatever the AND gate outputs, NAND outputs the opposite ### Truth Table Comparison: | A | B | AND (A\u00b7B) | NAND (A\u00b7B)\u0304 | |---|---|-----------|-----------| | 0 | 0 | 0 | **1** | | 0 | 1 | 0 | **1** | | 1 | 0 | 0 | **1** | | 1 | 1 | 1 | **0** | ### Key Point: NAND outputs 1 for ALL inputs EXCEPT when both inputs are 1. This is the NOT of AND logic. --- ## Why Other Options Are Wrong: | Option | Gate | Explanation | |--------|------|-------------| | **(A) A\u00b7B** | AND gate | Missing the NOT (negation) bar | | **(B) A+B** | OR gate | Addition symbol, completely different logic | | **(D) \u0100\u00b7B\u0304** | NOR gate | This is (A+B)\u0304 by De Morgan's law, not NAND | --- ## Formula to Remember: ``` NAND: Y = (A\u00b7B)\u0304 or Y = \u00af(A AND B) Alternative form (De Morgan's Law): (A\u00b7B)\u0304 = \u0100 + B\u0304 ``` **NEET Pro Tip:** NAND and NOR are **universal gates**\u2014you can create ANY logic gate using only NAND gates (or only NOR gates). This is important for gate design questions!",
-      "exam": "NEET 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "Among the group XIV elements, namely Sn, C, Si, and Ge, their conductive properties differ. Which of the following statements explains this phenomenon?",
       "options": {
         "A": "Sn has a completely filled valence band due to its larger atomic size. BC possesses a large energy gap of",
-        "B": "4 eV, making it an insulator. C Si's energy gap of",
-        "C": "1 eV places it in the category of a semiconductor. D Ge's energy gap of",
+        "B": "4 eV, making it an insulator.",
+        "C": "1 eV places it in the category of a semiconductor.",
         "D": "7 eV allows it to exhibit semiconductor behavior."
       },
       "answer": "A",
@@ -53,7 +38,7 @@
       "question": "NPN transistor is connected in common emitter configuration in a given amplifier. A load resistance of 800 \\u\u2080\u2083a\u2089 is connected in the collector circuit and the voltage drop across it is 0 .8 V . If the current amplification factor is 0.96 and the input resistance of the circuit is 192 \\u\u2080\u2083a\u2089 , the voltage gain and the power gain of the amplifier will respectively be:",
       "options": {
         "A": "4 ,",
-        "B": "84",
+        "B": "84%",
         "C": "69 ,",
         "D": "84 C\u2084 , 4 D\u2084 ,"
       },
@@ -110,21 +95,6 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "The currents through diodes D\u2081 and D\u2082 are",
-      "options": {
-        "A": "i 1 =",
-        "B": "1 A , i 2 =",
-        "C": "1 AB i 1 =",
-        "D": "1 A , i 2 = 0 C i 1 = 0 , i 2 ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Through D\u2082 , i 2 = 0 due to reverse biasing of diode. Through D\u2081 , i 1 = 550 = 0.1 A . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "transistor is used as an amplifier in CB mode with a load resistance of 5 k \u00e2\u0081\u00a1 \u00ce\u00a9 . The current gain of amplifier is 0.98 and the input resistance is 70 \u00ce\u00a9 . The voltage gain and power gain, respectively, are",
       "options": {
         "A": "70 , 6",
@@ -140,15 +110,15 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Conductivity of a photodiode starts changing only if the wavelength of incident light is less than 660 nm. The band gap of photodiode is found to be \\left(\\fracX\u2088\\right) eV. The value of X is :<br/><br/> (Given, h=6.6 \u00d7 10^-34 Js, e=1.6 \u00d7 10^-19 C )",
+      "question": "Conductivity of a photodiode starts changing only if the wavelength of incident light is less than 660 nm. The band gap of photodiode is found to be (\\fracX\u2088\\) eV. The value of X is :<br/><br/> (Given, h=6.6 \u00d7 10^-34 Js, e=1.6 \u00d7 10^-19 C )",
       "options": {
-        "A": "11",
-        "B": "13",
-        "C": "15",
-        "D": "21"
+        "A": "11%",
+        "B": "13%",
+        "C": "15%",
+        "D": "21%"
       },
       "answer": "C",
-      "solution": "To find the value of X in the band gap \\left(\\fracX\u2088\\right) eV , we need to understand the relationship between the wavelength of light that can result in changes in the conductivity of a photodiode and the photodiode's band gap energy. The band gap energy ( E_g ) of a material is the minimum energy required for an electron to transition from the valence band to the conduction band, thus creating a hole-electron pair and allowing conductivity to occur. When light with a certain wavelength ( \\lambda ) is incident upon the photodiode, if the energy of the photons is greater than or equal to the band gap energy of the photodiode, then the photons can excite electrons and change the conductivity of the photodiode. The energy of a photon ( E_photon ) is given by the equation: E_photon = \\frachc\\lambda where: <ul> <li> h is Planck's constant, which is given as 6.6 \u00d7 10^-34 J\u00b7s.</li> <li> c is the speed of light in a vacuum ( \\approx 3 \u00d7 10^8 m/s).</li> <li> \\lambda is the wavelength of the incident light.</li> </ul> Then the band gap energy in terms of electron volts is found by converting the energy from joules to electron volts (eV) using the charge of an electron e ( 1.6 \u00d7 10^-19 C): E_g = \\frachc\\lambda e Given that the photodiode starts conducting when the wavelength of light is less than 660 nm , we should use this wavelength as the threshold wavelength \\lambda_threshold : E_g = \\frachc\\lambda_threshold\u00d7 e E_g = \\frac\u2086.6 \u00d7 10^-34 \\text J\u00b7s \u00b7 3 \u00d7 10^8 \\text m/s\u2086\u2086\u2080 \u00d7 10^-9 \\text m \u00d7 1.6 \u00d7 10^-19 \\text C E_g = \\frac\u2086.6 \u00d7 3 \u00d7 10^-26660 \u00d7 1.6 eV E_g = \\frac\u2081\u2089.8660 \u00d7 1.6 eV E_g = \\frac\u2081\u2089.81056 eV E_g = \\frac\u2081\u2088.751000 eV E_g = 1.875 eV Now, we have to compare this value to \\left(\\fracX\u2088\\right) eV to find the value of X : 1.875 = \\fracX\u2088 X = 1.875 \u00d7 8 X = 15 Therefore, the value of X is 15. The correct answer is Option C.",
+      "solution": "To find the value of X in the band gap (\\fracX\u2088\\) eV , we need to understand the relationship between the wavelength of light that can result in changes in the conductivity of a photodiode and the photodiode's band gap energy. The band gap energy ( E_g ) of a material is the minimum energy required for an electron to transition from the valence band to the conduction band, thus creating a hole-electron pair and allowing conductivity to occur. When light with a certain wavelength ( \\lambda ) is incident upon the photodiode, if the energy of the photons is greater than or equal to the band gap energy of the photodiode, then the photons can excite electrons and change the conductivity of the photodiode. The energy of a photon ( E_photon ) is given by the equation: E_photon = \\frachc\\lambda where: <ul> <li> h is Planck's constant, which is given as 6.6 \u00d7 10^-34 J\u00b7s.</li> <li> c is the speed of light in a vacuum ( \\approx 3 \u00d7 10^8 m/s).</li> <li> \\lambda is the wavelength of the incident light.</li> </ul> Then the band gap energy in terms of electron volts is found by converting the energy from joules to electron volts (eV) using the charge of an electron e ( 1.6 \u00d7 10^-19 C): E_g = \\frachc\\lambda e Given that the photodiode starts conducting when the wavelength of light is less than 660 nm , we should use this wavelength as the threshold wavelength \\lambda_threshold : E_g = \\frachc\\lambda_threshold\u00d7 e E_g = \\frac\u2086.6 \u00d7 10^-34 J\u00b7s \u00b7 3 \u00d7 10^8 m/s\u2086\u2086\u2080 \u00d7 10^-9 m \u00d7 1.6 \u00d7 10^-19 C E_g = \\frac\u2086.6 \u00d7 3 \u00d7 10^-26660 \u00d7 1.6 eV E_g = \\frac\u2081\u2089.8660 \u00d7 1.6 eV E_g = \\frac\u2081\u2089.81056 eV E_g = \\frac\u2081\u2088.751000 eV E_g = 1.875 eV Now, we have to compare this value to (\\fracX\u2088\\) eV to find the value of X : 1.875 = \\fracX\u2088 X = 1.875 \u00d7 8 X = 15 Therefore, the value of X is 15. The correct answer is Option C.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -208,7 +178,7 @@
         "D": "1.20 (\\Omega -m)<sup>-1</sup>"
       },
       "answer": "A",
-      "solution": "Conductivity of semiconductor, <br><br>\\sigma = e\\left( \\eta _e\\mu _e + \\eta '\\mu _h \\right) <br><br>= 1.6 \u00d7 10<sup>-19</sup> (5 \u00d7 10<sup>18</sup> \u00d7 2 + 5 \u00d7 10<sup>19</sup> \u00d7 0.01) <br><br>= 1.6 \u00d7 1.05 <br><br>= 1.68",
+      "solution": "Conductivity of semiconductor, <br><br>\\sigma = e( \\eta _e\\mu _e + \\eta '\\mu _h \\) <br><br>= 1.6 \u00d7 10<sup>-19</sup> (5 \u00d7 10<sup>18</sup> \u00d7 2 + 5 \u00d7 10<sup>19</sup> \u00d7 0.01) <br><br>= 1.6 \u00d7 1.05 <br><br>= 1.68",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -277,10 +247,10 @@
     {
       "question": "Zener breakdown occurs in a p - n junction having p and n both :",
       "options": {
-        "A": "heavily doped and have wide depletion layer.",
-        "B": "lightly doped and have narrow depletion layer.",
-        "C": "heavily doped and have narrow depletion layer.",
-        "D": "lightly doped and have wide depletion layer."
+        "A": "Heavily doped and have wide depletion layer.",
+        "B": "Lightly doped and have narrow depletion layer.",
+        "C": "Heavily doped and have narrow depletion layer.",
+        "D": "Lightly doped and have wide depletion layer."
       },
       "answer": "C",
       "solution": "The zener breakdown occurs in the heavily doped p-n junction diode. Heavily doped p-n junction diodes have narrow depletion region.",
@@ -305,7 +275,7 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Statement I : By doping silicon semiconductor with pentavalent material, the electrons density increases.<br/><br/>Statement II : The n-type semiconductor has net negative charge.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Statement I : By doping silicon semiconductor with pentavalent material, the electrons density increases.<br/><br/>Statement II : The n-type semiconductor has net negative charge.<br/><br/>\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "Statement - I is true but Statement - II is false.",
         "B": "Statement - I is false but Statement - II is true.",
@@ -337,10 +307,10 @@
     {
       "question": "The photodiode is used to detect the optical signals. These diodes are preferably operated in reverse biased mode because :",
       "options": {
-        "A": "fractional change in majority carriers produce higher forward bias current",
-        "B": "fractional change in majority carriers produce higher reverse bias current",
-        "C": "fractional change in minority carriers produce higher forward bias current",
-        "D": "fractional change in minority carriers produce higher reverse bias current"
+        "A": "Fractional change in majority carriers produce higher forward bias current",
+        "B": "Fractional change in majority carriers produce higher reverse bias current",
+        "C": "Fractional change in minority carriers produce higher forward bias current",
+        "D": "Fractional change in minority carriers produce higher reverse bias current"
       },
       "answer": "D",
       "solution": "A photodiode is reverse biased. When light falling on it produces charge carriers, the fractional change, in minority carriers is high since the original current is very small.",
@@ -365,45 +335,15 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Match List I with List II: .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top .tg .tg-0laxtext-align:left;vertical-align:top <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 223px\"/> <col style=\"width: 45px\"/> <col style=\"width: 263px\"/> </colgroup> <thead> <th class=\"tg-amwm\"></th> <th class=\"tg-amwm\">List I</th> <th class=\"tg-amwm\"></th> <th class=\"tg-amwm\">List II</th> </thead> <tbody> A. Intrinsic semiconductor I. Fermi-level near the valence bond B. n-type semiconductor II. Fermi-level in the middle of valence and conduction band. C. p-type semiconductor III. Fermi-level near the conduction band D. Metals IV. Fermi-level inside the conduction band </tbody> Choose the correct answer from the options given below :",
-      "options": {
-        "A": "-III, B-I, C-II, D-IV",
-        "B": "A-II, B-I, C-III, D-IV",
-        "C": "A-I, B-II, C-III, D-IV",
-        "D": "A-II, B-III, C-I, D-IV"
-      },
-      "answer": "D",
-      "solution": "(A) Intrinsic semiconductor \\rightarrow II <br/><br/>(B) n-type semiconductor \\rightarrow III <br/><br/>(C) p-type semiconductor \\rightarrow 1 <br/><br/>(D) Metals \\rightarrow IV",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "The effect of increase in temperature on the number of electrons in conduction band (n_e) and resistance of a semiconductor will be as:",
       "options": {
-        "A": "n_e decreases, resistance increases",
-        "B": "oth n_e and resistance increase",
-        "C": "n_e increases, resistance decreases",
+        "A": "N_e decreases, resistance increases",
+        "B": "Oth n_e and resistance increase",
+        "C": "N_e increases, resistance decreases",
         "D": "Both n_e and resistance decrease"
       },
       "answer": "C",
       "solution": "As temperature increases n_e increases, this results in increase in conductance. <br/><br/>\\therefore T increases, n_e increases and R decreases.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R Assertion A : Photodiodes are used in forward bias usually for measuring the light intensity. Reason R : For a p-n junction diode, at applied voltage V the current in the forward bias is more than the current in the reverse bias for |V_z| > \\pm v \\ge |v_0| where v_0 is the threshold voltage and V_z is the breakdown voltage. In the light of the above statements, choose the correct answer from the options given below",
-      "options": {
-        "A": "Both A and R are true but R is NOT the correct explanation of",
-        "B": "is true but R is false",
-        "C": "Both A and R are true and R is the correct explanation of",
-        "D": "is false but R is true"
-      },
-      "answer": "D",
-      "solution": "Photodiodes are used in reverse bias therefore the assertion is incorrect.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -433,7 +373,7 @@
         "D": "207 nm"
       },
       "answer": "D",
-      "solution": "The energy required to create a hole in a p-type semiconductor can be directly related to the acceptor level because this energy level represents the minimum energy required to excite an electron from the valence band into the acceptor level, effectively creating a hole. The acceptor level is given as 6 \\, \\texteV. To find the maximum wavelength of light that can excite an electron into this level, we use the equation that relates the energy (E) of a photon to its wavelength (\\lambda): E = \\frachc\\lambda Where: <ul> <li>E is the energy in electronvolts (eV),</li> <li>h is Planck's constant,</li> <li>c is the speed of light, and</li> <li>\\lambda is the wavelength in nanometers (nm).</li> </ul> The product of hc is given as 1242 \\, \\texteV nm, allowing us to solve for \\lambda directly: \\lambda = \\frachcE Substituting the given values: \\lambda = \\frac\u2081\u2082\u2084\u2082 \\, \\texteV nm\u2086 \\, \\texteV = 207 \\, \\textnm Thus, the maximum wavelength of light that can create a hole in the semiconductor by exciting an electron into the acceptor level is 207 \\, \\textnm. Therefore, the correct answer is Option D: 207 nm.",
+      "solution": "The energy required to create a hole in a p-type semiconductor can be directly related to the acceptor level because this energy level represents the minimum energy required to excite an electron from the valence band into the acceptor level, effectively creating a hole. The acceptor level is given as 6 \\, eV. To find the maximum wavelength of light that can excite an electron into this level, we use the equation that relates the energy (E) of a photon to its wavelength (\\lambda): E = \\frachc\\lambda Where: <ul> <li>E is the energy in electronvolts (eV),</li> <li>h is Planck's constant,</li> <li>c is the speed of light, and</li> <li>\\lambda is the wavelength in nanometers (nm).</li> </ul> The product of hc is given as 1242 \\, eV nm, allowing us to solve for \\lambda directly: \\lambda = \\frachcE Substituting the given values: \\lambda = \\frac\u2081\u2082\u2084\u2082 \\, eV nm\u2086 \\, eV = 207 \\, nm Thus, the maximum wavelength of light that can create a hole in the semiconductor by exciting an electron into the acceptor level is 207 \\, nm. Therefore, the correct answer is Option D: 207 nm.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -442,10 +382,10 @@
     {
       "question": "The ratio (R) of output resistance r<sub>0</sub>, and the input resistance ri in measurements of input and output characteristics of a transistor is typically in the range:",
       "options": {
-        "A": "R 10<sup>2</sup> - 10<sup>3</sup>",
-        "B": "R 1 - 10",
-        "C": "R 0.1 - 0.01",
-        "D": "R 0.1 - 1.0"
+        "A": "R\u2081\u2080<sup>2</sup> - 10<sup>3</sup>",
+        "B": "R\u2081 - 10",
+        "C": "R\u2080.1 - 0.01",
+        "D": "R\u2080.1 - 1.0"
       },
       "answer": "B",
       "solution": "R = r_0 \\over r_i \u2261 1 - 10",
@@ -505,17 +445,17 @@
         "A": "10<sup>4</sup>",
         "B": "10<sup>2</sup>",
         "C": "6 \u00d7 10<sup>2</sup>",
-        "D": "60"
+        "D": "60%"
       },
       "answer": "B",
-      "solution": "A_v \u00d7 \\beta = P_gain<br><br> 60 = 10\\log _10\\left( P \\over P_0 \\right)<br><br> P = 10^6 = \\beta ^2 \u00d7 R_out \\over R_in<br> = \\beta ^2 \u00d7 10^4 \\over 100<br><br> \\beta ^2 = 10^4;\\beta = 100",
+      "solution": "A_v \u00d7 \\beta = P_gain<br><br> 60 = 10\\log _10( P \\over P_0 \\)<br><br> P = 10^6 = \\beta ^2 \u00d7 R_out \\over R_in<br> = \\beta ^2 \u00d7 10^4 \\over 100<br><br> \\beta ^2 = 10^4;\\beta = 100",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Given below are two statements :<br/><br/>Statement I : PN junction diodes can be used to function as transistor, simply by connecting two diodes, back to back, which acts as the base terminal.<br/><br/>Statement II : In the study of transistor, the amplification factor \\beta indicates ratio of the collector current to the base current.<br/><br/>In the light of the above statements, choose the correct answer from the options given below.",
+      "question": "Given below are two statements :<br/><br/>Statement I : PN junction diodes can be used to function as transistor, simply by connecting two diodes, back to back, which acts as the base terminal.<br/><br/>Statement II : In the study of transistor, the amplification factor \\beta indicates ratio of the collector current to the base current.<br/><br/>\nIn the light of the above statements, choose the correct answer from the options given below.",
       "options": {
         "A": "Both Statement I and Statement II are false",
         "B": "Statement I is false but Statement II is true",
@@ -549,7 +489,7 @@
       "options": {
         "A": "Both cut-off and Saturation",
         "B": "Saturation region only",
-        "C": "ut-off region only",
+        "C": "Ut-off region only",
         "D": "The active region only"
       },
       "answer": "D",
@@ -577,9 +517,9 @@
     {
       "question": "For a transistor to act as a switch, it must be operated in",
       "options": {
-        "A": "ctive region.",
+        "A": "Ctive region.",
         "B": "Saturation state only.",
-        "C": "ut-off state only.",
+        "C": "Ut-off state only.",
         "D": "Saturation and cut-off state."
       },
       "answer": "D",
@@ -592,10 +532,10 @@
     {
       "question": "For a constant collector-emitter voltage of 8 V, the collector current of a transistor reached to the value of 6 mA from 4 mA, whereas base current changed from 20 \\,\\mu A to 25 \\,\\mu A value. If transistor is in active state, small signal current gain (current amplification factor) will be :",
       "options": {
-        "A": "240",
-        "B": "400",
-        "C": "0.0025",
-        "D": "200"
+        "A": "240%",
+        "B": "400%",
+        "C": "0.0025%",
+        "D": "200%"
       },
       "answer": "B",
       "solution": "\\beta = \\Delta I_C \\over \\Delta I_B = (6 - 4) \u00d7 10^ - 3 \\over (25 - 20) \u00d7 10^ - 6 = 2 \\over 5 \u00d7 10^3 = 400",
@@ -605,15 +545,15 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Given below are two statements : <b>Statement I:</b> In a typical transistor, all three regions emitter, base and collector have same doping level. <b>Statement II:</b> In a transistor, collector is the thickest and base is the thinnest segment. In the light of the above statements, choose the most appropriate answer from the options given below.",
+      "question": "Given below are two statements : <b>\nStatement I:</b> In a typical transistor, all three regions emitter, base and collector have same doping level. <b>\nStatement II:</b> In a transistor, collector is the thickest and base is the thinnest segment. \nIn the light of the above statements, choose the most appropriate answer from the options given below.",
       "options": {
         "A": "<b>Statement I</b> is correct but <b>Statement II</b> is incorrect",
-        "B": "oth <b>Statement I</b> and <b>Statement II</b> are incorrect",
+        "B": "Oth <b>Statement I</b> and <b>Statement II</b> are incorrect",
         "C": "<b>Statement I</b> is incorrect but <b>Statement II</b> is correct",
         "D": "Both <b>Statement I</b> and <b>Statement II</b> are correct"
       },
       "answer": "C",
-      "solution": ".tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqhtext-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top <thead> <th class=\"tg-amwm\">Emitter</th> <th class=\"tg-amwm\">Base</th> <th class=\"tg-amwm\">Collector</th> </thead> <tbody> Moderate size Thin Thick Maximum Doping Minimum Doping Moderate Doping </tbody>",
+      "solution": ".tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqh-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;-align:center;vertical-align:top <thead> <th class=\"tg-amwm\">Emitter</th> <th class=\"tg-amwm\">Base</th> <th class=\"tg-amwm\">Collector</th> </thead> <tbody> Moderate size Thin Thick Maximum Doping Minimum Doping Moderate Doping </tbody>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -622,10 +562,10 @@
     {
       "question": "In an n-p-n common emitter (CE) transistor the collector current changes from 5 mA to 16 mA for the change in base current from 100 \\mu A and 200 \\mu A, respectively. The current gain of transistor is __________.",
       "options": {
-        "A": "210",
-        "B": "0.9",
-        "C": "9",
-        "D": "110"
+        "A": "210%",
+        "B": "0.9%",
+        "C": "9%",
+        "D": "110%"
       },
       "answer": "D",
       "solution": "The current gain of a transistor in common emitter configuration is given by:<br/><br/> \\beta = \\fracI_CI_B<br/><br/> where I_C is the collector current and I_B is the base current. <br/><br/> In this case, the collector current changes from 5 mA to 16 mA for the change in base current from 100 \\mu A to 200 \\mu A. Therefore, we have:<br/><br/> \\Delta I_C = 16 mA - 5 mA = 11 mA<br/><br/> \\Delta I_B = 200 \\mu A - 100 \\mu A = 100 \\mu A <br/><br/> Therefore, the current gain of the transistor is:<br/><br/> \\beta = \\frac\\Delta I_C\\Delta I_B = \\frac\u2081\u2081 mA\u2081\u2080\u2080 \\mu A = 110 <br/><br/> Therefore, the current gain of the transistor is 110.",

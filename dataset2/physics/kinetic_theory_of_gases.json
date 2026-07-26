@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Kinetic Theory of Gases",
-  "total_questions": 59,
+  "total_questions": 56,
   "questions": [
     {
       "question": "[NEET 2023 | Physics] The RMS speed of an ideal gas at temperature T is proportional to:",
@@ -19,24 +19,9 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "One mole of an ideal gas at an initial temperature of T K does 6 R joules of work adiabatically. If the ratio of specific heats of this gas at constant pressure and at constant volume is 5 / 3, the final temperature of gas will be:",
-      "options": {
-        "A": "(T+",
-        "B": "K B (T-",
-        "C": "K C (T+",
-        "D": "K D (T-"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that work done in adiabatic process is: \\beginaligned & W=\\frac-1V-1\\left(P_f V_f-P_i V_i\\right) \\\\ & \\Rightarrow \\quad 6 R=\\frac-1\\frac\u2085\u2083-1\\left(T_f-T_i\\right) \\\\ & \\text Since PV=RT\\ \\\\ & \\Rightarrow \\quad T_f-T_i=-4 \\\\ & \\Rightarrow \\quad T_f=(T-4) K \\\\ & \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
       "question": "hot air balloon is a sphere of radius 8 m. The air inside is at a temperature of 60\u00b0C. How large a mass can the balloon lift when the outside temperature is 20\u00b0C? (Assume air is an ideal gas, R = 8.314 J mole \u20131 K -1 , 1 atm. = 1.013\u00d7105 Pa; the membrane tension is 5 N m \u20131 .)",
       "options": {
-        "A": "303",
+        "A": "303%",
         "B": "2 N B\u2083\u2080\u2084",
         "C": "2 N C\u2083\u2080\u2085",
         "D": "2 N D\u2083\u2080\u2086"
@@ -51,7 +36,7 @@
     {
       "question": "Two ideal gas thermometers A and B use oxygen and hydrogen respectively. The following observations are made : What is the absolute temperature of normal melting point of sulphur as read by thermometers A and B ?",
       "options": {
-        "A": "66",
+        "A": "66%",
         "B": "4K B\u2082\u2086",
         "C": "11K C\u2084\u2084",
         "D": "6K D\u2083\u2089"
@@ -66,7 +51,7 @@
     {
       "question": "What temperature, in degrees Celsius, is the root mean square speed of an atom in an argon gas cylinder equal to the root mean square speed of a helium gas atom at -20 \u00b0C? (Given: Atomic mass of Ar = 39.9 u, Atomic mass of He = 4.0 u).",
       "options": {
-        "A": "243",
+        "A": "243%",
         "B": "12 \u00b0C B\u2082\u2081\u2084",
         "C": "97 \u00b0C C\u2082\u2082\u2085",
         "D": "52 \u00b0C D\u2082\u2083\u2085"
@@ -79,27 +64,12 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "The equation of state for 5 g of oxygen at a pressure P and temperature T, when occupying a volume V, will be: (where R is the gas constant)",
-      "options": {
-        "A": "PV=(5 /",
-        "B": "RT B PV=5 RT C PV=(5 /",
-        "C": "RT D PV=(5 /",
-        "D": "RT"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that PV=\\underlinen RT \\begingathered \\therefore n=\\fracm\\text moleculer mass =\\frac\u2085\u2083\u2082 \\\\ \\Rightarrow \\quad PV=\\left(\\frac\u2085\u2083\u2082\\right) RT \\endgathered **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
       "question": "Consider two separate ideal gases of electrons and protons having same number of particles. The temperature of both the gases are same. The ratio of the uncertainty in determining the position of an electron to that of a proton is proportional to :-",
       "options": {
-        "A": "\\left( m_p \\over m_e \\right)^3/2",
+        "A": "( m_p \\over m_e \\)^3/2",
         "B": "\\sqrt m_e \\over m_p",
         "C": "\\sqrt m_p \\over m_e",
-        "D": "m_p \\over m_e"
+        "D": "M_p \\over m_e"
       },
       "answer": "C",
       "solution": "\\Delta x\\,.\\,\\Delta p \\ge h \\over 4\\pi <br><br>\\Delta x = h \\over 4\\pi m\\Delta v<br><br>v = \\sqrt 3KT \\over m <br><br>\\Delta x_e \\over \\Delta x_p = \\sqrt m_p \\over m_e",
@@ -111,7 +81,7 @@
     {
       "question": "An ideal gas has molecules with 5 degrees of freedom. The ratio of specific heats at constant pressure (C<sub>p</sub> ) and at constant volume (C<sub>v</sub>) is :",
       "options": {
-        "A": "6",
+        "A": "6%",
         "B": "7 \\over 2",
         "C": "5 \\over 2",
         "D": "7 \\over 5"
@@ -141,10 +111,10 @@
     {
       "question": "An HCl molecule has rotational, translational and vibrational motions. If the rms velocity of HCl molecules in its gaseous phase is \\overline v , m is its mass and k<sub>B</sub> is Boltzmann constant, then its temperature will be :",
       "options": {
-        "A": "m\\overline v ^2 \\over 5k_B",
-        "B": "m\\overline v ^2 \\over 6k_B",
-        "C": "m\\overline v ^2 \\over 7k_B",
-        "D": "m\\overline v ^2 \\over 3k_B"
+        "A": "M\\overline v ^2 \\over 5k_B",
+        "B": "M\\overline v ^2 \\over 6k_B",
+        "C": "M\\overline v ^2 \\over 7k_B",
+        "D": "M\\overline v ^2 \\over 3k_B"
       },
       "answer": "C",
       "solution": "An HCl molecule, being diatomic, has: <ul> <li>3 translational degrees of freedom</li> <li>2 rotational degrees of freedom</li> <li>2 vibrational degrees of freedom</li> </ul> The total number of degrees of freedom is 3 + 2 + 2 = 7. According to the equipartition theorem, each degree of freedom contributes \\frac\u2081\u2082 k_B T to the total energy. So the total energy is given by: \\frac\u2087\u2082 k_B T The translational kinetic energy is related to the root-mean-square (rms) speed \\overlinev by: \\frac\u2081\u2082 m \\overlinev^2 = \\frac\u2087\u2082 k_B T Rearranging to solve for the temperature, we find: T = \\fracm \\overlinev^27k_B",
@@ -156,10 +126,10 @@
     {
       "question": "The specific heats, C<sub>P</sub> and C<sub>V </sub> of a gas of diatomic molecules, A, are given (in units of J mol<sup>\\\u20131</sup> K<sup>\\\u20131</sup>) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then :-",
       "options": {
-        "A": "is rigid but B has a vibrational mode",
-        "B": "has a vibrational mode but B has none",
-        "C": "has one vibrational mode and B has two",
-        "D": "Both A and B have a vibrational mode each"
+        "A": "Is rigid but",
+        "B": "Has a vibrational mode but",
+        "C": "Has one vibrational mode and",
+        "D": "Both"
       },
       "answer": "B",
       "solution": "For A:<br> C_p \\over C_v = \\gamma = 1 + 2 \\over f = 29 \\over 22<br> It gives f = 6.3 \\approx 6 (3 translational, 2 rotational and 1 vibrational)<br><br> For B:<br> C_p \\over C_v = \\gamma = 1 + 2 \\over f = 30 \\over 21<br> \\therefore f = 4.67 \\approx 5 (3 translational, 2 rotational, no vibrational)",
@@ -169,7 +139,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Molecules of an ideal gas are known to have three translational degrees of freedom and two rotational degrees of freedom.The gas is maintained at a temperature of T. The total internal energy, U of a mole of this gas, and the value of <br/>\\gamma \\left( = C_p \\over C_v \\right) are given, respectively by:",
+      "question": "Molecules of an ideal gas are known to have three translational degrees of freedom and two rotational degrees of freedom.The gas is maintained at a temperature of T. The total internal energy, U of a mole of this gas, and the value of <br/>\\gamma ( = C_p \\over C_v \\) are given, respectively by:",
       "options": {
         "A": "U = 5 \\over 2RT and \\gamma = 7 \\over 5",
         "B": "U = 5RT and \\gamma = 6 \\over 5",
@@ -186,10 +156,10 @@
     {
       "question": "The internal energy (U), pressure (P) and volume (V) of an ideal gas are related as U = 3PV + 4. The gas is :",
       "options": {
-        "A": "either monoatomic or diatomic.",
-        "B": "monoatomic only.",
-        "C": "polyatomic only.",
-        "D": "iatomic only."
+        "A": "Either monoatomic or diatomic.",
+        "B": "Monoatomic only.",
+        "C": "Polyatomic only.",
+        "D": "Iatomic only."
       },
       "answer": "C",
       "solution": "U = 3PV + 4<br><br> \\Rightarrow nf \\over 2RT = 3PV + 4<br><br> \\Rightarrow f \\over 2PV = 3PV + 4<br><br> \\Rightarrow f = 6 + 8 \\over PV<br><br>Since degree of freedom is more than 6 therefore gas is polyatomic.",
@@ -201,10 +171,10 @@
     {
       "question": "polyatomic ideal gas has 24 vibrational modes. What is the value of \\gamma?",
       "options": {
-        "A": "1.37",
-        "B": "1.30",
-        "C": "1.03",
-        "D": "10.3"
+        "A": "1.37%",
+        "B": "1.30%",
+        "C": "1.03%",
+        "D": "10.3%"
       },
       "answer": "C",
       "solution": "f = 3T + 3R + 24V<br><br>= 30<br><br>\\gamma = 1 + 2 \\over f<br><br>\\gamma = 1 + 2 \\over 30<br><br>= 1.066<br><br>Nearest Ans. = 1.03",
@@ -219,7 +189,7 @@
         "A": "1 \\over 2k_BT",
         "B": "2 \\over 3k_BT",
         "C": "3 \\over 2k_BT",
-        "D": "k_BT"
+        "D": "K_BT"
       },
       "answer": "A",
       "solution": "Energy associated with each digress of freedom is 1 \\over 2k_BT.",
@@ -229,15 +199,15 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "The ratio of specific heats \\left( C_P \\over C_V \\right) in terms of degree of freedom (f) is given by :",
+      "question": "The ratio of specific heats ( C_P \\over C_V \\) in terms of degree of freedom (f) is given by :",
       "options": {
-        "A": "\\left( 1 + f \\over 3 \\right)",
-        "B": "\\left( 1 + 2 \\over f \\right)",
-        "C": "\\left( 1 + f \\over 2 \\right)",
-        "D": "\\left( 1 + 1 \\over f \\right)"
+        "A": "( 1 + f \\over 3 \\)",
+        "B": "( 1 + 2 \\over f \\)",
+        "C": "( 1 + f \\over 2 \\)",
+        "D": "( 1 + 1 \\over f \\)"
       },
       "answer": "B",
-      "solution": "C_P \\over C_V = \\gamma C_V = \\left( f \\over 2 \\right)R and C_P - C_V = R \\Rightarrow C_P \\over C = 1 + f/2 \\over f/2 = 1 + 2 \\over f",
+      "solution": "C_P \\over C_V = \\gamma C_V = ( f \\over 2 \\)R and C_P - C_V = R \\Rightarrow C_P \\over C = 1 + f/2 \\over f/2 = 1 + 2 \\over f",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -259,15 +229,15 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Three vessels of equal volume contain gases at the same temperature and pressure. The first vessel contains neon (monoatomic), the second contains chlorine (diatomic) and third contains uranium hexafloride (polyatomic). Arrange these on the basis of their root mean square speed \\left(v_rms\\right) and choose the correct answer from the options given below:",
+      "question": "Three vessels of equal volume contain gases at the same temperature and pressure. The first vessel contains neon (monoatomic), the second contains chlorine (diatomic) and third contains uranium hexafloride (polyatomic). Arrange these on the basis of their root mean square speed (v_rms\\) and choose the correct answer from the options given below:",
       "options": {
-        "A": "v_rms( mono )=v_rms( dia )=v_rms( poly )",
-        "B": "v_rms (mono) > v_rms( dia ) > v_rms (poly)",
-        "C": "v_rms (dia) < v_rms (poly) < v_\\text rms (mono)",
-        "D": "v_rms (mono) < v_rms (dia) < v_rms (poly)"
+        "A": "V_rms( mono )=v_rms( dia )=v_rms( poly )",
+        "B": "V_rms (mono) > v_rms( dia ) > v_rms (poly)",
+        "C": "V_rms (dia) < v_rms (poly) < v_ rms (mono)",
+        "D": "V_rms (mono) < v_rms (dia) < v_rms (poly)"
       },
       "answer": "B",
-      "solution": "The root mean square speed (v_rms) of a gas is given by the formula: v_rms = \\sqrt\\frac\u2083kTm where k is the Boltzmann constant, T is the temperature, and m is the molar mass of the gas molecules. The vessels contain neon (monoatomic), chlorine (diatomic), and uranium hexafluoride (polyatomic) gases. Their molar masses are: <ol> <li>Neon: 20.18\\,\\textg/mol (monoatomic)</li> <li>Chlorine: 2 \u00d7 35.45 = 70.90\\,\\textg/mol (diatomic)</li> <li>Uranium hexafluoride: 238.03 + 6 \u00d7 18.998 = 352.03\\,\\textg/mol (polyatomic)</li> </ol> Since the temperature and the Boltzmann constant are the same for all gases, the root mean square speed is inversely proportional to the square root of the molar mass: v_rms \\propto \\frac\u2081\\sqrtm The lighter the gas, the higher its root mean square speed. Comparing the molar masses of the gases, we find that neon is the lightest, followed by chlorine, and uranium hexafluoride is the heaviest. Therefore, the root mean square speeds will be: vrms(\\textmono) > vrms(\\textdia) > v_rms(\\textpoly)",
+      "solution": "The root mean square speed (v_rms) of a gas is given by the formula: v_rms = \\sqrt\\frac\u2083kTm where k is the Boltzmann constant, T is the temperature, and m is the molar mass of the gas molecules. The vessels contain neon (monoatomic), chlorine (diatomic), and uranium hexafluoride (polyatomic) gases. Their molar masses are: <ol> <li>Neon: 20.18\\,g/mol (monoatomic)</li> <li>Chlorine: 2 \u00d7 35.45 = 70.90\\,g/mol (diatomic)</li> <li>Uranium hexafluoride: 238.03 + 6 \u00d7 18.998 = 352.03\\,g/mol (polyatomic)</li> </ol> Since the temperature and the Boltzmann constant are the same for all gases, the root mean square speed is inversely proportional to the square root of the molar mass: v_rms \\propto \\frac\u2081\\sqrtm The lighter the gas, the higher its root mean square speed. Comparing the molar masses of the gases, we find that neon is the lightest, followed by chlorine, and uranium hexafluoride is the heaviest. Therefore, the root mean square speeds will be: vrms(mono) > vrms(dia) > v_rms(poly)",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -289,7 +259,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as V^q, where V is the volume of the gas. The value of q is: \\left( \\gamma = C_p \\over C_v \\right)",
+      "question": "Consider an ideal gas confined in an isolated closed chamber. As the gas undergoes an adiabatic expansion, the average time of collision between molecules increases as V^q, where V is the volume of the gas. The value of q is: ( \\gamma = C_p \\over C_v \\)",
       "options": {
         "A": "\\gamma + 1 \\over 2",
         "B": "\\gamma - 1 \\over 2",
@@ -297,7 +267,7 @@
         "D": "3\\gamma - 5 \\over 6"
       },
       "answer": "A",
-      "solution": "\\tau = 1 \\over \\sqrt 2 \\pi d^2\\left( N \\over V \\right)\\sqrt 3RT \\over M <br>\\tau \\propto V \\over \\sqrt T <br>As, \\,\\,\\,\\,TV^\\gamma - 1 = K <br>So, \\,\\,\\,\\,\\tau \\propto V^\\gamma + 1/2 <br>Therefore, q = \\gamma + 1 \\over 2",
+      "solution": "\\tau = 1 \\over \\sqrt 2 \\pi d^2( N \\over V \\)\\sqrt 3RT \\over M <br>\\tau \\propto V \\over \\sqrt T <br>As, \\,\\,\\,\\,TV^\\gamma - 1 = K <br>So, \\,\\,\\,\\,\\tau \\propto V^\\gamma + 1/2 <br>Therefore, q = \\gamma + 1 \\over 2",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Physics",
@@ -342,22 +312,22 @@
         "D": "14 kJ"
       },
       "answer": "C",
-      "solution": "We know, <br><br>V<sub>rms</sub> \\propto \\sqrt T <br><br>So, to make V<sub>rms</sub> double we have to make temperature 4 times. <br><br> \\therefore Final temperature = 300 \u00d7 4 = 1200 K <br><br>As N<sub>2</sub> gas present in the closed vessel <br><br>So it is a isochoric process. <br><br> \\therefore Q = <sub>n</sub>C<sub>v</sub> \\Delta T <br><br>= 15 \\over 28 \u00d7 \\left( 5 \\over 2R \\right)\\left( 1200 - 300 \\right) <br><br>= 10000 J <br><br>= 10 kJ",
+      "solution": "We know, <br><br>V<sub>rms</sub> \\propto \\sqrt T <br><br>So, to make V<sub>rms</sub> double we have to make temperature 4 times. <br><br> \\therefore Final temperature = 300 \u00d7 4 = 1200 K <br><br>As N<sub>2</sub> gas present in the closed vessel <br><br>So it is a isochoric process. <br><br> \\therefore Q = <sub>n</sub>C<sub>v</sub> \\Delta T <br><br>= 15 \\over 28 \u00d7 ( 5 \\over 2R \\)( 1200 - 300 \\) <br><br>= 10000 J <br><br>= 10 kJ",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "mixture of 2 moles of helium gas (atomic mass = 4 u), and 1 mole of argon gas (atomic mass = 40 u) is kept at 300 K in a container. The ratio of their rms speeds \\left[ V_rms\\,(helium) \\over V_rms\\,(\\arg on) \\right], is close to :",
+      "question": "mixture of 2 moles of helium gas (atomic mass = 4 u), and 1 mole of argon gas (atomic mass = 40 u) is kept at 300 K in a container. The ratio of their rms speeds \\left[ V_rms\\,(helium) \\over V_rms\\,(\\arg on) \\], is close to :",
       "options": {
-        "A": "3.16",
-        "B": "0.32",
-        "C": "0.45",
-        "D": "2.24"
+        "A": "3.16%",
+        "B": "0.32%",
+        "C": "0.45%",
+        "D": "2.24%"
       },
       "answer": "A",
-      "solution": "We know, <br><br>V<sub>rms</sub> = \\sqrt 3RT \\over M <br><br>Where M = molar mass of the gas. <br><br>Here temperature is 300 K for both the gas. So temperature is constant. R is also a constant. <br><br> \\therefore V<sub>rms</sub> \\propto \\,\\,\\sqrt 1 \\over M <br><br> \\therefore V_rms(helium|) \\over V_rms\\left( \\arg an) \\right) = \\sqrt M_Ar \\over M_He <br><br>= \\sqrt 40 \\over 4 <br><br>= \\sqrt 10 <br><br>= 3.16",
+      "solution": "We know, <br><br>V<sub>rms</sub> = \\sqrt 3RT \\over M <br><br>Where M = molar mass of the gas. <br><br>Here temperature is 300 K for both the gas. So temperature is constant. R is also a constant. <br><br> \\therefore V<sub>rms</sub> \\propto \\,\\,\\sqrt 1 \\over M <br><br> \\therefore V_rms(helium|) \\over V_rms( \\arg an) \\) = \\sqrt M_Ar \\over M_He <br><br>= \\sqrt 40 \\over 4 <br><br>= \\sqrt 10 <br><br>= 3.16",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -396,13 +366,13 @@
     {
       "question": "Under an adiabatic process, the volume of an ideal gas gets doubled. Consequently the mean collision time between the gas molecule changes from \\tau _1 to \\tau _2 . If C_p \\over C_v = \\gamma for this gas then a good estimate for \\tau _2 \\over \\tau _1 is given by :",
       "options": {
-        "A": "\\left( 2 \\right)^1 + \\gamma \\over 2",
-        "B": "2",
-        "C": "\\left( 1 \\over 2 \\right)^1 + \\gamma \\over 2",
-        "D": "\\left( 1 \\over 2 \\right)^\\gamma"
+        "A": "( 2 \\)^1 + \\gamma \\over 2",
+        "B": "2%",
+        "C": "( 1 \\over 2 \\)^1 + \\gamma \\over 2",
+        "D": "( 1 \\over 2 \\)^\\gamma"
       },
       "answer": "A",
-      "solution": "\\tau \\propto V \\over \\sqrt T ....(1) <br><br>Also we know, PV<sup>\\gamma </sup> = k <br><br>We know, PV = nRT <br><br> \\Rightarrow P \\propto T \\over V <br><br> \\therefore \\left( T \\over V \\right)V<sup>\\gamma </sup> = k <br><br> \\Rightarrow TV<sup>\\gamma - 1</sup> = k <br><br> \\Rightarrow T \\propto V<sup>1 - \\gamma </sup> <br><br>Using this value in equation (1) <br><br>\\tau \\propto V \\over V^1 - \\gamma \\over 2 <br><br> \\Rightarrow \\tau \\propto V^1 - 1 - \\gamma \\over 2 <br><br> \\Rightarrow \\tau \\propto V^\\gamma + 1 \\over 2 <br><br> \\therefore \\tau _2 \\over \\tau _1 = \\left( 2V \\over V \\right)^^\\gamma + 1 \\over 2 = \\left( 2 \\right)^1 + \\gamma \\over 2",
+      "solution": "\\tau \\propto V \\over \\sqrt T ....(1) <br><br>Also we know, PV<sup>\\gamma </sup> = k <br><br>We know, PV = nRT <br><br> \\Rightarrow P \\propto T \\over V <br><br> \\therefore ( T \\over V \\)V<sup>\\gamma </sup> = k <br><br> \\Rightarrow TV<sup>\\gamma - 1</sup> = k <br><br> \\Rightarrow T \\propto V<sup>1 - \\gamma </sup> <br><br>Using this value in equation (1) <br><br>\\tau \\propto V \\over V^1 - \\gamma \\over 2 <br><br> \\Rightarrow \\tau \\propto V^1 - 1 - \\gamma \\over 2 <br><br> \\Rightarrow \\tau \\propto V^\\gamma + 1 \\over 2 <br><br> \\therefore \\tau _2 \\over \\tau _1 = ( 2V \\over V \\)^^\\gamma + 1 \\over 2 = ( 2 \\)^1 + \\gamma \\over 2",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -411,10 +381,10 @@
     {
       "question": "On the basis of kinetic theory of gases, the gas exerts pressure because its molecules :",
       "options": {
-        "A": "continuously lose their energy till it reaches wall.",
-        "B": "are attracted by the walls of container.",
-        "C": "suffer change in momentum when impinge on the walls of container.",
-        "D": "continuously stick to the walls of container."
+        "A": "Continuously lose their energy till it reaches wall.",
+        "B": "Are attracted by the walls of container.",
+        "C": "Suffer change in momentum when impinge on the walls of container.",
+        "D": "Continuously stick to the walls of container."
       },
       "answer": "C",
       "solution": "On the basis of kinetic theory of gases, the gas exerts pressure because its molecules contain uniform speed, random motion and perform elastic collision with each other, as well as with the walls of container. As a result of which gaseous molecules suffer change in momentum when impinge on the walls of container",
@@ -492,7 +462,7 @@
         "D": "3 \\over T"
       },
       "answer": "C",
-      "solution": "PT<sup>3</sup> = constant<br><br>\\left( nRT \\over v \\right)T<sup>3</sup> = constant<br><br>T<sup>4</sup> V<sup>-1</sup> = constant<br><br>T<sup>4</sup> = kV<br><br> \\Rightarrow 4\\Delta T \\over T = \\Delta V \\over V ....... (1)<br><br>\\DeltaV = V\\gamma\\DeltaT ........ (2)<br><br>comparing (1) and (2), we get<br><br>\\gamma = 4 \\over T",
+      "solution": "PT<sup>3</sup> = constant<br><br>( nRT \\over v \\)T<sup>3</sup> = constant<br><br>T<sup>4</sup> V<sup>-1</sup> = constant<br><br>T<sup>4</sup> = kV<br><br> \\Rightarrow 4\\Delta T \\over T = \\Delta V \\over V ....... (1)<br><br>\\DeltaV = V\\gamma\\DeltaT ........ (2)<br><br>comparing (1) and (2), we get<br><br>\\gamma = 4 \\over T",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -516,13 +486,13 @@
     {
       "question": "For an ideal gas the instantaneous change in pressure 'p' with volume 'v' is given by the equation dp \\over dv = - ap. If p = p<sub>0</sub> at v =0 is the given boundary condition, then the maximum temperature one mole of gas can attain is : (Here R is the gas constant)",
       "options": {
-        "A": "p_0 \\over aeR",
-        "B": "ap_0 \\over eR",
-        "C": "infinity",
+        "A": "P_0 \\over aeR",
+        "B": "Ap_0 \\over eR",
+        "C": "Infinity",
         "D": "0^\\circC"
       },
       "answer": "A",
-      "solution": "\\int\\limits_p_0^p dp \\over P = - a\\int\\limits_0^v dv <br><br>\\ln \\left( p \\over p_0 \\right) = - av<br><br>p = p_0e^ - av<br><br>For temperature maximum p-v product should be maximum<br><br>T = pv \\over nR = p_0ve^ - av \\over R<br><br>dT \\over dv = 0 \\Rightarrow p_0 \\over R\\ e^ - av + ve^ - av( - a)\\ = 0<br><br>p_0e^ - av \\over R\\ 1 - av\\ = 0<br><br>v = 1 \\over a,\\infty <br><br>T = p_01 \\over Rae = p_0 \\over Rae<br><br>at v = \\infty<br><br>T = 0<br><br>Option (a)",
+      "solution": "\\int\\limits_p_0^p dp \\over P = - a\\int\\limits_0^v dv <br><br>\\ln ( p \\over p_0 \\) = - av<br><br>p = p_0e^ - av<br><br>For temperature maximum p-v product should be maximum<br><br>T = pv \\over nR = p_0ve^ - av \\over R<br><br>dT \\over dv = 0 \\Rightarrow p_0 \\over R\\ e^ - av + ve^ - av( - a)\\ = 0<br><br>p_0e^ - av \\over R\\ 1 - av\\ = 0<br><br>v = 1 \\over a,\\infty <br><br>T = p_01 \\over Rae = p_0 \\over Rae<br><br>at v = \\infty<br><br>T = 0<br><br>Option (a)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -537,7 +507,7 @@
         "D": "7Mv^2 \\over 5R"
       },
       "answer": "B",
-      "solution": "Let there be n moles of gas E<sub>loss</sub> = E<sub>gain</sub> 1 \\over 2(nM)v^2 = nC_v\\Delta T 1 \\over 2Mv^2 = C_v\\Delta T here, \\gamma = 1.4 = 7 \\over 5 i.e. diatomic gas \\therefore C_v = 5R \\over 2 Now, 1 \\over 2Mv^2 = 5R \\over 2\\Delta T \\Delta T = Mv^2 \\over 5R",
+      "solution": "Let there be n moles of gas E<sub>loss</sub> = E<sub>gain</sub> 1 \\over 2(nM)v^2 = nC_v\\Delta T\u2081 \\over 2Mv^2 = C_v\\Delta T here, \\gamma = 1.4 = 7 \\over 5 i.e. diatomic gas \\therefore C_v = 5R \\over 2 Now, 1 \\over 2Mv^2 = 5R \\over 2\\Delta T \\Delta T = Mv^2 \\over 5R",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -546,10 +516,10 @@
     {
       "question": "The relation between root mean square speed (v<sub>rms</sub>) and most probable sped (v<sub>p</sub>) for the molar mass M of oxygen gas molecule at the temperature of 300 K will be :",
       "options": {
-        "A": "v_rms = \\sqrt 2 \\over 3 v_p",
-        "B": "v_rms = \\sqrt 3 \\over 2 v_p",
-        "C": "v_rms = v_p",
-        "D": "v_rms = \\sqrt 1 \\over 3 v_p"
+        "A": "V_rms = \\sqrt 2 \\over 3 v_p",
+        "B": "V_rms = \\sqrt 3 \\over 2 v_p",
+        "C": "V_rms = v_p",
+        "D": "V_rms = \\sqrt 1 \\over 3 v_p"
       },
       "answer": "B",
       "solution": "v_rms = \\sqrt 3RT \\over M v_p = \\sqrt 2RT \\over M \\Rightarrow v_rms = \\sqrt 3 \\over 2 v_p",
@@ -591,10 +561,10 @@
     {
       "question": "At\u2083\u2080\u2080 K, the rms speed of oxygen molecules is \\sqrt \\alpha + 5 \\over \\alpha times to that of its average speed in the gas. Then, the value of \\alpha will be (used \\pi = 22 \\over 7)",
       "options": {
-        "A": "27",
-        "B": "28",
-        "C": "24",
-        "D": "32"
+        "A": "27%",
+        "B": "28%",
+        "C": "24%",
+        "D": "32%"
       },
       "answer": "B",
       "solution": "v_rms = \\sqrt \\alpha + 5 \\over \\alpha v_avg \\sqrt 3RT \\over m = \\sqrt \\alpha + 5 \\over 5 \\sqrt 8RT \\over \\pi m 3 \u00d7 \\pi \\over 8 = \\alpha + 5 \\over \\alpha 33 \\over 28 = \\alpha + 5 \\over \\alpha \\alpha = 28",
@@ -604,15 +574,15 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Given below are two statements : Statement I : The temperature of a gas is -73^\\circC. When the gas is heated to 527^\\circC, the root mean square speed of the molecules is doubled. Statement II : The product of pressure and volume of an ideal gas will be equal to translational kinetic energy of the molecules. In the light of the above statements, choose the correct answer from the option given below :",
+      "question": "Given below are two statements : Statement I : The temperature of a gas is -73^\\circC. When the gas is heated to 527^\\circC, the root mean square speed of the molecules is doubled. Statement II : The product of pressure and volume of an ideal gas will be equal to translational kinetic energy of the molecules. \nIn the light of the above statements, choose the correct answer from the option given below :",
       "options": {
         "A": "Statement I is true but Statement II is false",
-        "B": "oth Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are true",
         "C": "Statement I is false but Statement II is true",
         "D": "Both Statement I and Statement II are false"
       },
       "answer": "A",
-      "solution": "T_i=200 K \\quad\\quad v_rms \\propto \\sqrtT <br/><br/> T_f=800 K <br/><br/> \\fracV_iV_f=\\sqrt\\fracT_iT_f=\\sqrt\\frac\u2082\u2080\u2080\u2088\u2080\u2080=\\sqrt\\frac\u2081\u2084=\\frac\u2081\u2082 <br/><br/> V_f=2 V_i <br/><br/> Translational K.E. =\\left(\\frac\u2083\u2082 PV\\right)",
+      "solution": "T_i=200 K \\quad\\quad v_rms \\propto \\sqrtT <br/><br/> T_f=800 K <br/><br/> \\fracV_iV_f=\\sqrt\\fracT_iT_f=\\sqrt\\frac\u2082\u2080\u2080\u2088\u2080\u2080=\\sqrt\\frac\u2081\u2084=\\frac\u2081\u2082 <br/><br/> V_f=2 V_i <br/><br/> Translational K.E. =(\\frac\u2083\u2082 PV\\)",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -621,7 +591,7 @@
     {
       "question": "The temperature of an ideal gas is increased from 200 K to 800 K. If r.m.s. speed of gas at 200 K is v_0. Then, r.m.s. speed of the gas at 800 K will be:",
       "options": {
-        "A": "v_0",
+        "A": "V_0",
         "B": "2 v_0",
         "C": "4 v_0",
         "D": "\\fracv_04"
@@ -634,15 +604,15 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Given below are two statements : Statement (I) : The mean free path of gas molecules is inversely proportional to square of molecular diameter. Statement (II) : Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas. In the light of the above statements, choose the correct answer from the options given below :",
+      "question": "Given below are two statements : Statement (I) : The mean free path of gas molecules is inversely proportional to square of molecular diameter. Statement (II) : Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas. \nIn the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Statement I is false but Statement II is true",
-        "B": "oth Statement I and Statement II are true",
+        "B": "Both Statement I and Statement II are true",
         "C": "Statement I is true but Statement II is false",
         "D": "Both Statement I and Statement II are false"
       },
       "answer": "B",
-      "solution": "Let's analyze the given statements one by one in detail: <b>Statement (I): The mean free path of gas molecules is inversely proportional to the square of molecular diameter.</b> The mean free path ( \\lambda ) of gas molecules is the average distance a molecule travels before colliding with another molecule. The formula for the mean free path in terms of molecular diameter ( d ) is given by: \\lambda = \\frack_B T\\sqrt\u2082 \\pi d^2 P Here, k_B is the Boltzmann constant, T is the temperature, and P is the pressure. From this equation, it is evident that the mean free path ( \\lambda ) is inversely proportional to the square of the molecular diameter ( d^2 ). Hence, Statement I is <b>true</b>. <b>Statement (II): Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas.</b> The average kinetic energy ( E_\\textavg ) of gas molecules is given by: E_\\textavg = \\frac\u2083\u2082 k_B T where k_B is the Boltzmann constant and T is the absolute temperature. This shows that the average kinetic energy is directly proportional to the absolute temperature of the gas. Hence, Statement II is <b>true</b>. Considering the analysis above, the correct answer is: <b>Option B</b><br>Both Statement I and Statement II are true",
+      "solution": "Let's analyze the given statements one by one in detail: <b>Statement (I): The mean free path of gas molecules is inversely proportional to the square of molecular diameter.</b> The mean free path ( \\lambda ) of gas molecules is the average distance a molecule travels before colliding with another molecule. The formula for the mean free path in terms of molecular diameter ( d ) is given by: \\lambda = \\frack_B T\\sqrt\u2082 \\pi d^2 P Here, k_B is the Boltzmann constant, T is the temperature, and P is the pressure. From this equation, it is evident that the mean free path ( \\lambda ) is inversely proportional to the square of the molecular diameter ( d^2 ). Hence, Statement I is <b>true</b>. <b>Statement (II): Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas.</b> The average kinetic energy ( E_avg ) of gas molecules is given by: E_avg = \\frac\u2083\u2082 k_B T where k_B is the Boltzmann constant and T is the absolute temperature. This shows that the average kinetic energy is directly proportional to the absolute temperature of the gas. Hence, Statement II is <b>true</b>. Considering the analysis above, the correct answer is: <b>Option B</b><br>Both Statement I and Statement II are true",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -651,10 +621,10 @@
     {
       "question": "Two moles of an ideal gas with C_P \\over C_V = 5 \\over 3 are mixed with 3 moles of another ideal gas with C_P \\over C_V = 4 \\over 3. The value of C_P \\over C_V for the mixture is :",
       "options": {
-        "A": "1.50",
-        "B": "1.45",
-        "C": "1.47",
-        "D": "1.42"
+        "A": "1.50%",
+        "B": "1.45%",
+        "C": "1.47%",
+        "D": "1.42%"
       },
       "answer": "D",
       "solution": "C<sub>p</sub> = n_1C_p_1 + n_2C_p_2 \\over n_1 + n_2 <br><br>C<sub>v</sub> = n_1C_V_1 + n_2C_V_2 \\over n_1 + n_2 <br><br>\\gamma <sub>mix</sub> = C_p \\over C_v = 2 \u00d7 5 \\over 2R + 3 \u00d7 8 \\over 2R \\over 2 \u00d7 3 \\over 2R + 3 \u00d7 6 \\over 2R <br><br>= 5 + 12 \\over 3 + 9 = 1.42",
@@ -664,7 +634,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "One mole of ideal gas passes through a process where pressure and volume obey the relation P = P_0\\left[ 1 - 1 \\over 2\\left( V_0 \\over V \\right)^2 \\right]. Here P<sub>0</sub> and V<sub>0</sub> are constants. Calculate the change in the temperature of the gas if its volume changes form V<sub>0</sub> to 2V<sub>0</sub>",
+      "question": "One mole of ideal gas passes through a process where pressure and volume obey the relation P = P_0\\left[ 1 - 1 \\over 2( V_0 \\over V \\)^2 \\]. Here P<sub>0</sub> and V<sub>0</sub> are constants. Calculate the change in the temperature of the gas if its volume changes form V<sub>0</sub> to 2V<sub>0</sub>",
       "options": {
         "A": "3 \\over 4P_0V_0 \\over R",
         "B": "1 \\over 2P_0V_0 \\over R",
@@ -672,7 +642,7 @@
         "D": "1 \\over 4P_0V_0 \\over R"
       },
       "answer": "C",
-      "solution": "Given P = P_o\\left\\ 1 - 1 \\over 2\\left( V_o \\over V \\right)^2 \\right\\; ...(i) <br><br> As n = 1 mole<br><br> \\therefore PV = nRT = RT <br><br> \\Rightarrow P = RT \\over V ....(ii) <br><br>From (i) and (ii), we get <br><br>RT \\over V = P_0\\left[ 1 - 1 \\over 2\\left( V_0 \\over V \\right)^2 \\right] <br><br> \\Rightarrow T = V \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2\\left( V_0 \\over V \\right)^2 \\right] <br><br>Case 1 : when V = V<sub>0</sub> <br><br>then T<sub>i</sub> = V_0 \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2\\left( V_0 \\over V_0 \\right)^2 \\right] <br><br>= V_0P_0 \\over 2R <br><br>Case 2 : when V = 2V<sub>0</sub> <br><br>then T<sub>f</sub> = 2V_0 \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2\\left( V_0 \\over 2V_0 \\right)^2 \\right] <br><br>= 7 \\over 4P_0V_0 \\over R <br><br>Then \\Delta T = T<sub>f</sub> - T<sub>i</sub> <br><br>= 7 \\over 4P_0V_0 \\over R - P_0V_0 \\over 2R <br><br>= P_0V_0 \\over R\\left( 7 \\over 4 - 1 \\over 2 \\right) <br><br>= 5 \\over 4P_0V_0 \\over R",
+      "solution": "Given P = P_o\\left\\ 1 - 1 \\over 2( V_o \\over V \\)^2 \\\\; ...(i) <br><br> As n = 1 mole<br><br> \\therefore PV = nRT = RT <br><br> \\Rightarrow P = RT \\over V ....(ii) <br><br>From (i) and (ii), we get <br><br>RT \\over V = P_0\\left[ 1 - 1 \\over 2( V_0 \\over V \\)^2 \\] <br><br> \\Rightarrow T = V \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2( V_0 \\over V \\)^2 \\] <br><br>Case 1 : when V = V<sub>0</sub> <br><br>then T<sub>i</sub> = V_0 \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2( V_0 \\over V_0 \\)^2 \\] <br><br>= V_0P_0 \\over 2R <br><br>Case 2 : when V = 2V<sub>0</sub> <br><br>then T<sub>f</sub> = 2V_0 \\over R \u00d7 P_0\\left[ 1 - 1 \\over 2( V_0 \\over 2V_0 \\)^2 \\] <br><br>= 7 \\over 4P_0V_0 \\over R <br><br>Then \\Delta T = T<sub>f</sub> - T<sub>i</sub> <br><br>= 7 \\over 4P_0V_0 \\over R - P_0V_0 \\over 2R <br><br>= P_0V_0 \\over R( 7 \\over 4 - 1 \\over 2 \\) <br><br>= 5 \\over 4P_0V_0 \\over R",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -681,10 +651,10 @@
     {
       "question": "n moles of an ideal gas with constant volume heat capcity C<sub>V</sub> undergo an isobaric expansion by certain volume. The ratio of the work done in the process, to the heat supplied is :",
       "options": {
-        "A": "nR \\over C_V - nR",
+        "A": "NR \\over C_V - nR",
         "B": "4nR \\over C_V - nR",
         "C": "4nR \\over C_V + nR",
-        "D": "nR \\over C_V + nR"
+        "D": "NR \\over C_V + nR"
       },
       "answer": "D",
       "solution": "w = nR\\Delta T<br> \\Delta H = (Cv + nR)\\Delta T<br> \\omega \\over \\Delta H = nR \\over C_v + nR",
@@ -717,7 +687,7 @@
         "D": "48 J"
       },
       "answer": "C",
-      "solution": "P_1V_1^\\gamma = P_2V_2^\\gamma <br><br> \\Rightarrow P<sub>2</sub> = P<sub>1</sub>\\left[ V_1 \\over V_2 \\right]^\\gamma <br><br>= 10<sup>5</sup> \u00d7 \\left[ 1 \\over 3 \\right]^1.4 <br><br>Work done = P_1V_1 - P_2V_2 \\over \\gamma - 1 <br><br>= 10^5 \u00d7 10^ - 3 - 10^5 \\over 3^1.4 \u00d7 3 \u00d7 10^ - 3 \\over 1.4 - 1 <br><br>= 88.7 J \\approx 90.5 J",
+      "solution": "P_1V_1^\\gamma = P_2V_2^\\gamma <br><br> \\Rightarrow P<sub>2</sub> = P<sub>1</sub>\\left[ V_1 \\over V_2 \\]^\\gamma <br><br>= 10<sup>5</sup> \u00d7 \\left[ 1 \\over 3 \\]^1.4 <br><br>Work done = P_1V_1 - P_2V_2 \\over \\gamma - 1 <br><br>= 10^5 \u00d7 10^ - 3 - 10^5 \\over 3^1.4 \u00d7 3 \u00d7 10^ - 3 \\over 1.4 - 1 <br><br>= 88.7 J \\approx 90.5 J",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -726,13 +696,13 @@
     {
       "question": "monoatomic ideal gas, initially at temperature T<sub>1</sub> is enclosed in a cylinder fitted with a frictionless piston. The gas is allowed to expand adiabatically to a temperature T<sub>2</sub> by releasing the piston suddenly. If l<sub>1</sub> and l<sub>2</sub> are the lengths of the gas column, before and after the expansion respectively, then the value of T_1 \\over T_2 will be :",
       "options": {
-        "A": "\\left( l_1 \\over l_2 \\right)^2 \\over 3",
-        "B": "\\left( l_2 \\over l_1 \\right)^2 \\over 3",
-        "C": "l_2 \\over l_1",
-        "D": "l_1 \\over l_2"
+        "A": "( l_1 \\over l_2 \\)^2 \\over 3",
+        "B": "( l_2 \\over l_1 \\)^2 \\over 3",
+        "C": "L_2 \\over l_1",
+        "D": "L_1 \\over l_2"
       },
       "answer": "B",
-      "solution": "PV<sup>r</sup> = const.<br><br>TV<sup>r - 1</sup> = const.<br><br>T(l)^5 \\over 3 - 1 = const.<br><br>T_1 \\over T_2 = \\left( l_2 \\over l_1 \\right)^2 \\over 3",
+      "solution": "PV<sup>r</sup> = const.<br><br>TV<sup>r - 1</sup> = const.<br><br>T(l)^5 \\over 3 - 1 = const.<br><br>T_1 \\over T_2 = ( l_2 \\over l_1 \\)^2 \\over 3",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -741,10 +711,10 @@
     {
       "question": "One mole of an ideal gas is taken through an adiabatic process where the temperature rises from 27^\\circ C to 37^\\circ C. If the ideal gas is composed of polyatomic molecule that has 4 vibrational modes, which of the following is true? [R = 8.314 J mol<sup>-1</sup> k<sup>-1</sup>]",
       "options": {
-        "A": "work done by the gas is close to 332 J",
-        "B": "work done on the gas is close to 582 J",
-        "C": "work done by the gas is close to 582 J",
-        "D": "work done on the gas is close to 332 J"
+        "A": "Work done by the gas is close to 332 J",
+        "B": "Work done on the gas is close to 582 J",
+        "C": "Work done by the gas is close to 582 J",
+        "D": "Work done on the gas is close to 332 J"
       },
       "answer": "B",
       "solution": "Since, each vibrational mode, corresponds to two degrees of freedom, hence, f = 3 (trans.) + 3 (rot.) + 4 \u00d7 2 (vib.) = 14<br><br> & \\gamma = 1 + 2 \\over f<br><br>\\gamma = 1 + 2 \\over 14 = 8 \\over 7<br><br>W = nR\\Delta T \\over \\gamma - 1 = - 582<br><br>As W < 0. work is done on the gas.",
@@ -772,7 +742,7 @@
       "question": "Given below are two statements : Statement I : When \\mu amount of an ideal gas undergoes adiabatic change from state (P<sub>1</sub>, V<sub>1</sub>, T<sub>1</sub>) to state (P<sub>2</sub>, V<sub>2</sub>, T<sub>2</sub>), then work done is W = \\mu R(T_2 - T_1) \\over 1 - \\gamma , where \\gamma = C_p \\over C_v and R = universal gas constant. Statement II : In the above case, when work is done on the gas, the temperature of the gas would rise. Choose the correct answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "oth Statement I and Statement II are false.",
+        "B": "Both Statement I and Statement II are false.",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false but Statement II is true."
       },
@@ -792,7 +762,7 @@
         "D": "\\frac\u2081\u2086\u2082\u2085"
       },
       "answer": "B",
-      "solution": "To find the ratio of the initial pressure to the final pressure of an ideal gas undergoing an adiabatic process, we can use the adiabatic equation for an ideal gas, which relates pressure (P) and volume (V) as follows: P_1V_1^\\gamma = P_2V_2^\\gamma Here, P_1 and V_1 are the initial pressure and volume, respectively, P_2 and V_2 are the final pressure and volume, respectively, and \\gamma is the heat capacity ratio of the gas. Given in the question, \\gamma = 1.5, V_1 = 5 litres and V_2 = 4 litres. We need to find the ratio \\fracP_1P_2. Rearranging the adiabatic equation for the ratio \\fracP_1P_2, we get: P_1V_1^\\gamma = P_2V_2^\\gamma \\Rightarrow \\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma Substituting the given values: \\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma = \\left(\\frac\u2084\u2085\\right)^1.5 To calculate the value: \\fracP_1P_2 = \\left(\\frac\u2084\u2085\\right)^1.5 = \\left(\\frac\u2084\u2085\\right)^\\frac\u2083\u2082 Simplifying further: \\fracP_1P_2 = \\left(\\frac\u2082^25\\right)^\\frac\u2083\u2082 = \\left(\\frac\u2082^35^\\frac\u2083\u2082\\right) = \\frac\u2088\u2085\\sqrt\u2085 Therefore, the ratio of the initial pressure to the final pressure is \\frac\u2088\u2085\\sqrt\u2085, which corresponds to <strong>Option B</strong>.",
+      "solution": "To find the ratio of the initial pressure to the final pressure of an ideal gas undergoing an adiabatic process, we can use the adiabatic equation for an ideal gas, which relates pressure (P) and volume (V) as follows: P_1V_1^\\gamma = P_2V_2^\\gamma Here, P_1 and V_1 are the initial pressure and volume, respectively, P_2 and V_2 are the final pressure and volume, respectively, and \\gamma is the heat capacity ratio of the gas. Given in the question, \\gamma = 1.5, V_1 = 5 litres and V_2 = 4 litres. We need to find the ratio \\fracP_1P_2. Rearranging the adiabatic equation for the ratio \\fracP_1P_2, we get: P_1V_1^\\gamma = P_2V_2^\\gamma \\Rightarrow \\fracP_1P_2 = (\\fracV_2V_1\\)^\\gamma Substituting the given values: \\fracP_1P_2 = (\\fracV_2V_1\\)^\\gamma = (\\frac\u2084\u2085\\)^1.5 To calculate the value: \\fracP_1P_2 = (\\frac\u2084\u2085\\)^1.5 = (\\frac\u2084\u2085\\)^\\frac\u2083\u2082 Simplifying further: \\fracP_1P_2 = (\\frac\u2082^25\\)^\\frac\u2083\u2082 = (\\frac\u2082^35^\\frac\u2083\u2082\\) = \\frac\u2088\u2085\\sqrt\u2085 Therefore, the ratio of the initial pressure to the final pressure is \\frac\u2088\u2085\\sqrt\u2085, which corresponds to <strong>Option B</strong>.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -816,30 +786,15 @@
     {
       "question": "particle performs simple harmonic motion with amplitude A. Its speed is trebled at the instant that it is at a distance 2A \\over 3 from equilibrium position. The new amplitude of the motion is:",
       "options": {
-        "A": "A\\sqrt 3",
+        "A": "\\sqrt 3",
         "B": "7A \\over 3",
         "C": "A \\over 3\\sqrt 41",
         "D": "3A"
       },
       "answer": "B",
-      "solution": "We know that V = \\omega \\sqrt A^2 - x^2 <br><br>Initially v = \\omega \\sqrt A^2 - \\left( 2A \\over 3 \\right)^2 <br><br>Finally 3v = \\omega \\sqrt A_new^2 - \\left( 2A \\over 3 \\right)^2 <br><br>where A_new = final amplitude (Given at x = 2A \\over 3, velocity to trebled) <br><br>On dividing we get 3 \\over 1 = \\sqrt A_new^2 - \\left( 2A \\over 3 \\right)^2 \\over \\sqrt A^2 - \\left( 2A \\over 3 \\right)^2 <br><br>9\\left[ A^2 - 4A^2 \\over 9 \\right] = A_new^2 - 4A^2 \\over 9 <br><br>\\therefore A_new = 7A \\over 3",
+      "solution": "We know that V = \\omega \\sqrt A^2 - x^2 <br><br>Initially v = \\omega \\sqrt A^2 - ( 2A \\over 3 \\)^2 <br><br>Finally 3v = \\omega \\sqrt A_new^2 - ( 2A \\over 3 \\)^2 <br><br>where A_new = final amplitude (Given at x = 2A \\over 3, velocity to trebled) <br><br>On dividing we get 3 \\over 1 = \\sqrt A_new^2 - ( 2A \\over 3 \\)^2 \\over \\sqrt A^2 - ( 2A \\over 3 \\)^2 <br><br>9\\left[ A^2 - 4A^2 \\over 9 \\] = A_new^2 - 4A^2 \\over 9 <br><br>\\therefore A_new = 7A \\over 3",
       "exam": "JEE Main 2016",
       "year": 2016,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "Time (T), velocity (C) and angular momentum (h) are chosen as fundamentalquantities instead of mass, length and time. In terms of these, the dimensions of mass would be :",
-      "options": {
-        "A": "[M] = [T<sup>-1</sup> C<sup>-2</sup> h]",
-        "B": "[M] = [T<sup>-1</sup> C<sup>2</sup> h]",
-        "C": "[M] = [T<sup>-1</sup> C<sup>-2</sup> h<sup>-1</sup>]",
-        "D": "[M] = [TC<sup>-2</sup> h]"
-      },
-      "answer": "A",
-      "solution": "Let, <br><br>M \\propto T<sup>x</sup> C<sup>y</sup> h<sup>z</sup> <br><br>\\therefore\\,\\,\\, [M<sup>1</sup>L<sup>o</sup>T<sup>o</sup>] = [T<sup>1</sup>]<sup>x</sup> [L<sup>1</sup> T<sup>-1</sup>]<sup>y</sup> [M<sup>1</sup>L<sup>2</sup>T<sup>-1</sup>]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>o</sup> T<sup>o</sup>] = [M<sup>z</sup> L<sup>y + 2z</sup> T<sup>x-y-z</sup>] <br><br>By comparing both sides we get, <br><br>z = 1 <br><br>y + 2z = 0 <br><br>x - y - z = 0 <br><br>\\therefore\\,\\,\\, y = - 2z = - 2 <br><br>x = y + z = -2 + 1 = -1 <br><br>\\therefore\\,\\,\\, [M] = [M<sup>-1</sup> C<sup>-2</sup> h<sup>1</sup>]",
-      "exam": "JEE Main 2017",
-      "year": 2017,
       "subject": "Physics",
       "chapter": "Kinetic Theory of Gases"
     },
@@ -852,14 +807,14 @@
         "D": "\\sqrt Gh \\over c^3"
       },
       "answer": "C",
-      "solution": "Let t \\propto G<sup>x</sup> h<sup>y</sup> c<sup>z</sup> <br><br> \\therefore [t] = [G]<sup>x</sup> [h]<sup>y</sup> [c]<sup>z</sup> . . . . . (1) <br><br>We know, <br><br>F = GM^2 \\over R^2 <br><br> \\Rightarrow G = FR^2 \\over M^2 <br><br> \\therefore [G] = \\left[ MLT^ - 2 \\right]\\left[ L^2 \\right] \\over \\left[ M^2 \\right] <br><br>[G] = [M^ - 1L^3T^ - 2] <br><br>Also, <br><br>E = hf <br><br> \\therefore [h] = [E] \\over [F] <br><br>= \\left[ ML^2T^ - 2 \\right] \\over [T^ - 1] <br><br>= \\left[ ML^2T^ - 1 \\right] <br><br>[C] = \\left[ M^oL\\,T^ - 1 \\right] <br><br>From equation (1) we get, <br><br>\\left[ M^o\\,L^o\\,T^1 \\right] = \\left[ M^ - 1\\,L^3\\,T^ - 2 \\right]^x\\left[ M\\,L^2\\,T^ - 1 \\right]^y\\left[ M^oLT^ - 1 \\right]^z <br><br>\\left[ M^o\\,L^o\\,T^1 \\right] = \\left[ M^ - x + y\\,L^3x + 2yz\\,T^ - 2x - y - z \\right] <br><br>By comparing the power of M, L, T <br><br>- x + y = 0 <br><br> \\Rightarrow x = y <br><br>3x + 2y + z = 0 <br><br> \\Rightarrow 5x + z = 0 . . . . . (2) <br><br>- 2x - y - z = 1 <br><br> \\Rightarrow - 3x - z = 1 . . . . (3) <br><br>By solving (2) and (3), we get, <br><br>x = 1 \\over 2 = y and z = - 5 \\over 2 <br><br> \\therefore t \\propto \\sqrt Gh \\over C^5",
+      "solution": "Let t \\propto G<sup>x</sup> h<sup>y</sup> c<sup>z</sup> <br><br> \\therefore [t] = [G]<sup>x</sup> [h]<sup>y</sup> [c]<sup>z</sup> . . . . . (1) <br><br>We know, <br><br>F = GM^2 \\over R^2 <br><br> \\Rightarrow G = FR^2 \\over M^2 <br><br> \\therefore [G] = \\left[ MLT^ - 2 \\]\\left[ L^2 \\] \\over \\left[ M^2 \\] <br><br>[G] = [M^ - 1L^3T^ - 2] <br><br>Also, <br><br>E = hf <br><br> \\therefore [h] = [E] \\over [F] <br><br>= \\left[ ML^2T^ - 2 \\] \\over [T^ - 1] <br><br>= \\left[ ML^2T^ - 1 \\] <br><br>[C] = \\left[ M^oL\\,T^ - 1 \\] <br><br>From equation (1) we get, <br><br>\\left[ M^o\\,L^o\\,T^1 \\] = \\left[ M^ - 1\\,L^3\\,T^ - 2 \\]^x\\left[ M\\,L^2\\,T^ - 1 \\]^y\\left[ M^oLT^ - 1 \\]^z <br><br>\\left[ M^o\\,L^o\\,T^1 \\] = \\left[ M^ - x + y\\,L^3x + 2yz\\,T^ - 2x - y - z \\] <br><br>By comparing the power of M, L, T <br><br>- x + y = 0 <br><br> \\Rightarrow x = y <br><br>3x + 2y + z = 0 <br><br> \\Rightarrow 5x + z = 0 . . . . . (2) <br><br>- 2x - y - z = 1 <br><br> \\Rightarrow - 3x - z = 1 . . . . (3) <br><br>By solving (2) and (3), we get, <br><br>x = 1 \\over 2 = y and z = - 5 \\over 2 <br><br> \\therefore t \\propto \\sqrt Gh \\over C^5",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "quantity x is given by \\left( IFv^2 \\over WL^4 \\right) in terms of moment of inertia I, force F, velocity v, work W and Length L. The dimensional formula for x is same as that of :",
+      "question": "quantity x is given by ( IFv^2 \\over WL^4 \\) in terms of moment of inertia I, force F, velocity v, work W and Length L. The dimensional formula for x is same as that of :",
       "options": {
         "A": "Coefficient of viscosity",
         "B": "Force constant",
@@ -867,7 +822,7 @@
         "D": "Planck's constant"
       },
       "answer": "C",
-      "solution": "x = \\left( IFv^2 \\over WL^4 \\right) <br><br> \\therefore [x] = \\left[ ML^2 \\right]\\left[ MLT^ - 2 \\right]\\left[ LT^ - 1 \\right]^2 \\over \\left[ ML^2T^ - 2 \\right]\\left[ L \\right]^4 <br><br>= [ML<sup>-1</sup>T<sup>-2</sup>] <br><br>= [Energy density]",
+      "solution": "x = ( IFv^2 \\over WL^4 \\) <br><br> \\therefore [x] = \\left[ ML^2 \\]\\left[ MLT^ - 2 \\]\\left[ LT^ - 1 \\]^2 \\over \\left[ ML^2T^ - 2 \\]\\left[ L \\]^4 <br><br>= [ML<sup>-1</sup>T<sup>-2</sup>] <br><br>= [Energy density]",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",

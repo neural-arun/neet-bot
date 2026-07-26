@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Breathing and Exchange of Gases",
-  "total_questions": 84,
+  "total_questions": 81,
   "questions": [
     {
       "question": "What are the values of a, b, c, d and e in mm Hg?",
@@ -27,7 +27,7 @@
         "D": "Parabolic"
       },
       "answer": "A",
-      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u\u2082\u2080\u2088\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u\u2082\u2080\u2088\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u\u2082\u2080\u2088\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u\u2082\u2081\u2089\u2082 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u\u2082\u2080\u2088\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: \\textY = \\frac[\\textO_2]^nK + [\\textO_2]^n Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
+      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u\u2082\u2080\u2088\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u\u2082\u2080\u2088\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u\u2082\u2080\u2088\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u\u2082\u2081\u2089\u2082 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u\u2082\u2080\u2088\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: Y = \\frac[O_2]^nK + [O_2]^n Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Biology",
@@ -54,7 +54,7 @@
         "A": "Increased respiratory surface; Inflammation of bronchioles",
         "B": "Increased number of bronchioles; Increased respiratory surface",
         "C": "Inflammation of bronchioles; Decreased respiratory surface",
-        "D": "ecreased respiratory surface; Inflammation of bronchioles MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
+        "D": "Ecreased respiratory surface; Inflammation of bronchioles MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Increased respiratory surface; Inflammation of bronchioles** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -79,10 +79,10 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "(Out of NEET 2026 syllabus \\\u2014 rationalised 'adaptations' topic) Given below are two statements labelled as Assertion (A) and Reason (R): Assertion (A): A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "(Out of NEET 2026 syllabus \\\u2014 rationalised 'adaptations' topic) Given below are two statements labelled as Assertion (A) and Reason (R): Assertion (A): A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
-        "A": "is true but (R) is false",
-        "B": "is false but (R) is true",
+        "A": "Is true but (R) is false",
+        "B": "Is false but (R) is true",
         "C": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
         "D": "Both (A) and (R) are true but (R) is not the correct explanation of (A) MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
@@ -96,10 +96,10 @@
     {
       "question": "The partial pressures (in mm Hg) of oxygen (O\u2082) and carbon dioxide. (CO\u2082) at alveoli (the site of diffusion) are:",
       "options": {
-        "A": "pO\u2082 = 95 and pCO\u2082 = 40",
-        "B": "pO\u2082 = 159 and pCO\u2082 = 0.3",
-        "C": "pO\u2082 = 104 and pCO\u2082 = 40",
-        "D": "pO\u2082 = 40 and pCO\u2082 = 45"
+        "A": "PO\u2082 = 95 and pCO\u2082 = 40",
+        "B": "PO\u2082 = 159 and pCO\u2082 = 0.3",
+        "C": "PO\u2082 = 104 and pCO\u2082 = 40",
+        "D": "PO\u2082 = 40 and pCO\u2082 = 45"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) pO\u2082 = 95 and pCO\u2082 = 40** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -109,12 +109,12 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Given below are two statements: Assertion (A): A person goes to high altitude and experiences \\u\u2082\u2080\u2081cAltitude Sickness\\u\u2082\u2080\u2081d with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements: Assertion (A): A person goes to high altitude and experiences \\u\u2082\u2080\u2081cAltitude Sickness\\u\u2082\u2080\u2081d with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
-        "B": "oth (A) and (R) are true but (R) is not the correct explanation of (A)",
-        "C": "is true but (R) is false",
-        "D": "is false but (R) is true"
+        "B": "Oth (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "C": "Is true but (R) is false",
+        "D": "Is false but (R) is true"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Both (A) and (R) are true and (R) is the correct explanation of (A)** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -184,27 +184,12 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "In amphibians and reptiles, the \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 atrium receives oxygenated blood from the gills/lung/skin and \\u\u2082\u2080\u2082\u2086B\\u\u2082\u2080\u2082\u2086",
-      "options": {
-        "A": "-right, B-left, C-deoxygenated",
-        "B": "A-right, B-left, C-oxygenated",
-        "C": "A-left, B-right, C-deoxygenated",
-        "D": "A-left, B-right, C-oxygenated"
-      },
-      "answer": "C",
-      "solution": "**Correct Answer: (C) A-left, B-right, C-deoxygenated** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "Blood that flows from the lungs to the heart is bright red rather than dark red due to",
+      "question": "Blood that flows from the lungs to the heart is b red rather than dark red due to",
       "options": {
         "A": "Carbon dioxide",
         "B": "Oxygen",
         "C": "Both (a) and (b)",
-        "D": "ue to mixing of sputum"
+        "D": "Ue to mixing of sputum"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Oxygen** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
@@ -276,7 +261,7 @@
     {
       "question": "In heavy smokers, the alveoil of the lungs are enlarged and damaged, which reduces the surface area for",
       "options": {
-        "A": "sthma",
+        "A": "Sthma",
         "B": "Silicosis",
         "C": "Emphhysema",
         "D": "Insomnia"
@@ -289,30 +274,15 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Match List-I with List-II: \\beginarray|l|l|r|l|\\hline & \\textList-I & & \\textList-II \\\\ \\hline A. & \\textResidual Volume & I. & \\beginarrayl \\textMaximum volume of air that can be breathed in after forced \\\\ \\textexpiration \\endarray \\\\ \\hline B. & \\textVital Capacity & II. & \\textVolume of air inspired or expired during normal respiration \\\\ \\hline C. & \\textExpiratory Capacity & III. & \\textVolume of air remaining in lungs after forcible expiration \\\\ \\hline D. & \\textTidal Volume & IV. & \\textTotal volume of air expired after normal inspiration \\\\ \\hline \\endarray Choose the correct answer from the options given below:",
+      "question": "Match List-I with List-II: \\beginarray|l|l|r|l|\\hline & List-I & & List-II \\\\ \\hline A. & Residual Volume & I. & \\beginarrayl Maximum volume of air that can be breathed in after forced \\\\ expiration \\endarray \\\\ \\hline B. & Vital Capacity & II. & Volume of air inspired or expired during normal respiration \\\\ \\hline C. & Expiratory Capacity & III. & Volume of air remaining in lungs after forcible expiration \\\\ \\hline D. & Tidal Volume & IV. & Total volume of air expired after normal inspiration \\\\ \\hline \\endarray Choose the correct answer from the options given below:",
       "options": {
-        "A": "-IV, B-III, C-II, D-I",
-        "B": "A-II, B-IV, C-I, D-III",
-        "C": "A-III, B-I, C-IV, D-II",
-        "D": "A-I, B-II, C-III, D-IV"
+        "A": "-IV,",
+        "B": "A-II,",
+        "C": "A-III,",
+        "D": "A-I,"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) A-III, B-I, C-IV, D-II** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "Match List I with List II : [Image: https://cdn-question-pool.getmarks.app/pyq/neet/rm\u2081gBpiut\u2080qSwHUCQxQQI\u2084XKjDmiGm\u2080Brsl\u2089BZXrc\u2082U.original.fullsize.png] Choose the correct answer from the options given below :",
-      "options": {
-        "A": "-III, B-II, C-IV, D-I",
-        "B": "A-II, B-I, C-IV, D-III",
-        "C": "A-I, B-III, C-II, D-IV",
-        "D": "A-II, B-IV, C-I, D-III"
-      },
-      "answer": "D",
-      "solution": "**Correct Answer: (D) A-II, B-IV, C-I, D-III** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -368,7 +338,7 @@
       "options": {
         "A": "(c) and (d)",
         "B": "(a), (b) and (d)",
-        "C": "only (d)",
+        "C": "Only (d)",
         "D": "(a) and (b)"
       },
       "answer": "D",
@@ -411,10 +381,10 @@
     {
       "question": "The maximum volume of air a person can breathe in after a forced expiration is known as",
       "options": {
-        "A": "expiratory capacity",
-        "B": "vital capacity",
-        "C": "inspiratory capacity",
-        "D": "total lung capacity"
+        "A": "Expiratory capacity",
+        "B": "Vital capacity",
+        "C": "Inspiratory capacity",
+        "D": "Total lung capacity"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) vital capacity** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
@@ -442,9 +412,9 @@
       "question": "Match the items given in Column I with those in Column II and select the correct option given below: Column - I Column - II a. Tidal volume i. 2500 - 3000 mL b. Inspiratory Reserve volume ii. 1100 - 1200 mL c. Expiratory Reserve volume iii, 500 - 550 mL d. Residual volume iv. 1000 - 1100 mL",
       "options": {
         "A": "- i, b - ii, c - ii, d - iii",
-        "B": "a - iii, b -i, c - iv, d - ii",
-        "C": "a - iii, b - ii, c - i, d - iv",
-        "D": "a - iv, b - iii, c - ii, d - i"
+        "B": "A - iii, b -i, c - iv, d - ii",
+        "C": "A - iii, b - ii, c - i, d - iv",
+        "D": "A - iv, b - iii, c - ii, d - i"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) a - iii, b -i, c - iv, d - ii** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
@@ -576,10 +546,10 @@
     {
       "question": "Approximately seventy percent of carbon-dioxide absorbed by the blood will be transported to the lungs:",
       "options": {
-        "A": "s bicarbonate ions",
-        "B": "in the form of dissolved gas molecules",
-        "C": "by binding to R.B.C",
-        "D": "as carbamino-haemoglobin"
+        "A": "S bicarbonate ions",
+        "B": "In the form of dissolved gas molecules",
+        "C": "By binding to R.B.C",
+        "D": "As carbamino-haemoglobin"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) as bicarbonate ions** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (A) is the accurate scientific choice.",
@@ -594,7 +564,7 @@
         "A": "Cigarette smoking may lead to inflammation of bronchi",
         "B": "Neural signals from pneumotoxic centre in pons region of brain can increase the duration of inspiration",
         "C": "Workers in grinding and stone breaking industries may suffer, from lung fibrosis",
-        "D": "About 90 \\% of carbon dioxide \\left(CO_2\\right) is carried by haemoglobin as carbamino haemoglobin"
+        "D": "About 90 \\% of carbon dioxide (CO_2\\) is carried by haemoglobin as carbamino haemoglobin"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Workers in grinding and stone breaking industries may suffer, from lung fibrosis** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
@@ -606,10 +576,10 @@
     {
       "question": "Two friends are eating together on a dining table. One of them suddenly starts coughing while swallowing some food. This coughing would have been due to improper movement of",
       "options": {
-        "A": "diaphragm",
-        "B": "neck",
-        "C": "tongue",
-        "D": "epiglottis"
+        "A": "Diaphragm",
+        "B": "Neck",
+        "C": "Tongue",
+        "D": "Epiglottis"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) epiglottis** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
@@ -666,10 +636,10 @@
     {
       "question": "The haemoglobin of a human foetus",
       "options": {
-        "A": "has a lower affinity for oxygen than that of the adult",
-        "B": "its affinity for oxygen is the same as that of an adult",
-        "C": "has only 2 protein subunits instead of 4",
-        "D": "has a higher affinity for oxygen than that of an adult"
+        "A": "Has a lower affinity for oxygen than that of the adult",
+        "B": "Its affinity for oxygen is the same as that of an adult",
+        "C": "Has only 2 protein subunits instead of 4",
+        "D": "Has a higher affinity for oxygen than that of an adult"
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) has a higher affinity for oxygen than that of an adult** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
@@ -711,10 +681,10 @@
     {
       "question": "When CO_2 concentration in blood increases breathing becomes:",
       "options": {
-        "A": "shallower and slow",
-        "B": "there is no effect on breathing",
-        "C": "slow and deep",
-        "D": "faster and deeper."
+        "A": "Shallower and slow",
+        "B": "There is no effect on breathing",
+        "C": "Slow and deep",
+        "D": "Faster and deeper."
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) faster and deeper.** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
@@ -726,29 +696,14 @@
     {
       "question": "Blood analysis of a patient reveals an unusually high quantity of carboxyhaemoglobin content. Which of the following conclusions is most likely to be correct? The patient has been inhaling polluted air containing unusually high content of:",
       "options": {
-        "A": "carbon disulphide",
-        "B": "chloroform",
-        "C": "arbon dioxide",
-        "D": "carbon monoxide."
+        "A": "Carbon disulphide",
+        "B": "Chloroform",
+        "C": "Arbon dioxide",
+        "D": "Carbon monoxide."
       },
       "answer": "D",
       "solution": "**Correct Answer: (D) carbon monoxide.** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Breathing and Exchange of Gases"
-    },
-    {
-      "question": "Match List I with List II. List IA. \u03b1-1 antitrypsin B. Cry 1Ab C. Cry 1Ac D. Enzyme replacement therapy List II I. Cotton bollworm II. ADA deficiency III. Emphysema IV. Corn borer Choose the correct answer from the options given below.",
-      "options": {
-        "A": "-III, B-I, C-II, D-IV",
-        "B": "A-III, B-IV, C-I, D-II",
-        "C": "A-II, B-IV, C-I, D-III",
-        "D": "A-II, B-I, C-IV, D-III"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
-      "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Breathing and Exchange of Gases"
@@ -772,7 +727,7 @@
       "question": "In cockroach, the respiratory system consists of",
       "options": {
         "A": "Gills",
-        "B": "ook lungs",
+        "B": "Ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },
@@ -787,7 +742,7 @@
       "question": "In cockroaches, the respiratory system consists of",
       "options": {
         "A": "Gills",
-        "B": "ook lungs",
+        "B": "Ook lungs",
         "C": "Tracheae",
         "D": "Parapodia"
       },
@@ -818,7 +773,7 @@
       "options": {
         "A": "Frog",
         "B": "Human",
-        "C": "ockroach",
+        "C": "Ockroach",
         "D": "Pigeon"
       },
       "answer": "C",
@@ -966,7 +921,7 @@
     {
       "question": "In cockroach, the respiratory openings called spiracles are present on:",
       "options": {
-        "A": "ll thoracic and abdominal segments",
+        "A": "Ll thoracic and abdominal segments",
         "B": "Only on thoracic segments",
         "C": "First two thoracic and last eight abdominal segments",
         "D": "First two thoracic and first eight abdominal segments"
@@ -997,7 +952,7 @@
       "question": "In cockroaches, the respiratory system opens to the exterior through",
       "options": {
         "A": "Malpighian tubules",
-        "B": "ook lungs",
+        "B": "Ook lungs",
         "C": "Spiracles",
         "D": "Nephridia"
       },
@@ -1117,7 +1072,7 @@
       "question": "In cockroaches, the respiratory system consists of which of the following structures?",
       "options": {
         "A": "Gills",
-        "B": "ook lungs",
+        "B": "Ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },
@@ -1162,7 +1117,7 @@
       "question": "In cockroaches, the respiratory system comprises of",
       "options": {
         "A": "Gills",
-        "B": "ook lungs",
+        "B": "Ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },

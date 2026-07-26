@@ -1,12 +1,12 @@
 {
   "subject": "Physics",
   "chapter": "Gravitation",
-  "total_questions": 64,
+  "total_questions": 63,
   "questions": [
     {
       "question": "Consider a drop of rain water having mass 1 g falling from a height of 1 km . It hits the ground with a speed of 50 m/s . Take g constant with a value 10 m/s\u00b2 . The work done by the (i) gravitational force and the (ii) resistive force of air is",
       "options": {
-        "A": "i - 10 J i i -",
+        "A": "I - 10 J i i -",
         "B": "25 JB i",
         "C": "25 J i i -",
         "D": "25 JC i 100 J i i"
@@ -27,7 +27,7 @@
         "D": "1 J"
       },
       "answer": "A",
-      "solution": "# Solution ## Correct Answer: **(B) 13 J** ## Step-by-Step Solution: **Given Information:** - Gravitational field: **g** = 5**i** + 12**j** N/kg - Mass: m = 2 kg - Position: from O(0,0) to P(7, -3) m **Step 1: Find the magnitude of gravitational field** |\\mathbfg| = \\sqrt\u2085^2 + 12^2 = \\sqrt\u2082\u2085 + 144 = \\sqrt\u2081\u2086\u2089 = 13 \\text N/kg **Step 2: Find displacement vector** \\Delta \\mathbfr = 7\\mathbfi - 3\\mathbfj \\text m **Step 3: Calculate dot product** \\mathbfg \u00b7 \\Delta\\mathbfr = (5)(7) + (12)(-3) = 35 - 36 = -1 **Step 4: Change in Potential Energy** \\Delta PE = -m(\\mathbfg \u00b7 \\Delta\\mathbfr) = -2 \u00d7 (-1) = 2 \\text J ## Key Concept: The change in gravitational potential energy is related to work done against the gravitational field: \\boxed\\Delta PE = -m\\mathbfg \u00b7 \\Delta\\mathbfr ## Important Note: The magnitude of the field **|g| = 13 N/kg** is a characteristic feature of this problem and corresponds to option (B). In NEET 2017, the answer **(B) 13 J** was the official answer, likely based on a specific interpretation of the field-PE relationship used in that examination.",
+      "solution": "# Solution ## Correct Answer: **(B) 13 J** ## Step-by-Step Solution: **Given Information:** - Gravitational field: **g** = 5**i** + 12**j** N/kg - Mass: m = 2 kg - Position: from O(0,0) to P(7, -3) m **Step 1: Find the magnitude of gravitational field** |\\mathbfg| = \\sqrt\u2085^2 + 12^2 = \\sqrt\u2082\u2085 + 144 = \\sqrt\u2081\u2086\u2089 = 13 N/kg **Step 2: Find displacement vector** \\Delta \\mathbfr = 7\\mathbfi - 3\\mathbfj m **Step 3: Calculate dot product** \\mathbfg \u00b7 \\Delta\\mathbfr = (5)(7) + (12)(-3) = 35 - 36 = -1 **Step 4: Change in Potential Energy** \\Delta PE = -m(\\mathbfg \u00b7 \\Delta\\mathbfr) = -2 \u00d7 (-1) = 2 J ## Key Concept: The change in gravitational potential energy is related to work done against the gravitational field: \\boxed\\Delta PE = -m\\mathbfg \u00b7 \\Delta\\mathbfr ## Important Note: The magnitude of the field **|g| = 13 N/kg** is a characteristic feature of this problem and corresponds to option (B). In NEET 2017, the answer **(B) 13 J** was the official answer, likely based on a specific interpretation of the field-PE relationship used in that examination.",
       "exam": "NEET 2017",
       "year": 2017,
       "subject": "Physics",
@@ -42,7 +42,7 @@
         "D": "15.84 km/s"
       },
       "answer": "A",
-      "solution": "# Solution: Escape Velocity from a Planet ## The Correct Answer: **(A) 11.2 km/s** --- ## Step-by-Step Reasoning **Escape velocity formula:** v_e = \\sqrt\\frac\u2082GMR where G = gravitational constant, M = mass, R = radius **For Earth:** v_e(\\textEarth) = \\sqrt\\frac\u2082GM_ER_E = 11.2 \\text km/s **For the new planet (M = 2M_E and R = 2R_E):** v_e(\\textplanet) = \\sqrt\\frac\u2082G(2M_E)\u2082R_E = \\sqrt\\frac\u2084GM_E\u2082R_E = \\sqrt\\frac\u2082GM_ER_E = v_e(\\textEarth) = 11.2 \\text km/s --- ## Key Insight The **mass and radius increase by the same factor** (both by 2\u00d7), so they **cancel out**: - Increasing mass **increases** escape velocity (\u221aM in numerator) - Increasing radius **decreases** escape velocity (\u221aR in denominator) - Since both change by factor 2, the net effect is **zero change** \\frac\u2082M\u2082R = \\fracMR --- ## Why Other Options Are Wrong - **(B) 22.4 km/s**: Would be correct if only mass doubled (ignoring radius change) - **(C) 5.6 km/s**: Would be correct if only radius doubled (ignoring mass change) - **(D) 15.84 km/s**: Random incorrect value --- ## Key Formula to Remember v_e \\propto \\sqrt\\fracMR The escape velocity depends on the **ratio** of mass to radius, not their absolute values.",
+      "solution": "# Solution: Escape Velocity from a Planet ## The Correct Answer: **(A) 11.2 km/s** --- ## Step-by-Step Reasoning **Escape velocity formula:** v_e = \\sqrt\\frac\u2082GMR where G = gravitational constant, M = mass, R = radius **For Earth:** v_e(Earth) = \\sqrt\\frac\u2082GM_ER_E = 11.2 km/s **For the new planet (M = 2M_E and R = 2R_E):** v_e(planet) = \\sqrt\\frac\u2082G(2M_E)\u2082R_E = \\sqrt\\frac\u2084GM_E\u2082R_E = \\sqrt\\frac\u2082GM_ER_E = v_e(Earth) = 11.2 km/s --- ## Key Insight The **mass and radius increase by the same factor** (both by 2\u00d7), so they **cancel out**: - Increasing mass **increases** escape velocity (\u221aM in numerator) - Increasing radius **decreases** escape velocity (\u221aR in denominator) - Since both change by factor 2, the net effect is **zero change** \\frac\u2082M\u2082R = \\fracMR --- ## Why Other Options Are Wrong - **(B) 22.4 km/s**: Would be correct if only mass doubled (ignoring radius change) - **(C) 5.6 km/s**: Would be correct if only radius doubled (ignoring mass change) - **(D) 15.84 km/s**: Random incorrect value --- ## Key Formula to Remember v_e \\propto \\sqrt\\fracMR The escape velocity depends on the **ratio** of mass to radius, not their absolute values.",
       "exam": "NEET 2021",
       "year": 2021,
       "subject": "Physics",
@@ -102,22 +102,22 @@
         "D": "194.66 N"
       },
       "answer": "C",
-      "solution": "At equator, weight <br><br>W = Mg - M\\omega ^2R <br><br>= 196 - \\left( 19.6 \\right)\\left( 2\\pi \\over 24 \u00d7 3600 \\right)^2 \u00d7 6400 \u00d7 10^3 <br><br>= 195.32 N",
+      "solution": "At equator, weight <br><br>W = Mg - M\\omega ^2R <br><br>= 196 - ( 19.6 \\)( 2\\pi \\over 24 \u00d7 3600 \\)^2 \u00d7 6400 \u00d7 10^3 <br><br>= 195.32 N",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Gravitation"
     },
     {
-      "question": "The mass density of a planet of radius R varies with the distance r from its centre as <br/>\\rho (r) = \\rho _0\\left( 1 - r^2 \\over R^2 \\right). <br/>Then the gravitational field is maximum at :",
+      "question": "The mass density of a planet of radius R varies with the distance r from its centre as <br/>\\rho (r) = \\rho _0( 1 - r^2 \\over R^2 \\). <br/>Then the gravitational field is maximum at :",
       "options": {
-        "A": "r = 1 \\over \\sqrt 3 R",
-        "B": "r = R",
-        "C": "r = \\sqrt 3 \\over 4 R",
-        "D": "r = \\sqrt 5 \\over 9 R"
+        "A": "R = 1 \\over \\sqrt 3 R",
+        "B": "R = R",
+        "C": "R = \\sqrt 3 \\over 4 R",
+        "D": "R = \\sqrt 5 \\over 9 R"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2087\u2083/exam_images/oeq\u2088e\u2088\u2081\u2089cefrue\u2081iqjgh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Physics - Gravitation Question 130 English Explanation\"> <br><br>dm = \\rho dv <br><br>\\int dm = \\int \\rho _04\\pi r^2dr <br><br> \\Rightarrow M = \\int \\rho _04\\pi r^2dr <br><br>Also E = GM \\over r^2 <br><br> \\Rightarrow Er^2 = 4\\pi G\\,\\int\\limits_0^r \\rho _0 \\left( 1 - r^2 \\over R^2 \\right)r^2dr<br><br> \\Rightarrow E = 4\\pi G\\rho _0\\left( r \\over 3 - r^3 \\over 5R^2 \\right)<br><br>For maximum E, dE \\over dr = 0 <br><br>1 \\over 3 - 3r^2 \\over 5R^2 = 0 <br><br> \\therefore r = \\sqrt 5 \\over 9 R",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2087\u2083/exam_images/oeq\u2088e\u2088\u2081\u2089cefrue\u2081iqjgh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Physics - Gravitation Question 130 English Explanation\"> <br><br>dm = \\rho dv <br><br>\\int dm = \\int \\rho _04\\pi r^2dr <br><br> \\Rightarrow M = \\int \\rho _04\\pi r^2dr <br><br>Also E = GM \\over r^2 <br><br> \\Rightarrow Er^2 = 4\\pi G\\,\\int\\limits_0^r \\rho _0 ( 1 - r^2 \\over R^2 \\)r^2dr<br><br> \\Rightarrow E = 4\\pi G\\rho _0( r \\over 3 - r^3 \\over 5R^2 \\)<br><br>For maximum E, dE \\over dr = 0 <br><br>1 \\over 3 - 3r^2 \\over 5R^2 = 0 <br><br> \\therefore r = \\sqrt 5 \\over 9 R",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -129,7 +129,7 @@
         "A": "84 minutes",
         "B": "1200 minutes",
         "C": "60 minutes",
-        "D": "oes not change"
+        "D": "Oes not change"
       },
       "answer": "A",
       "solution": "For objects to float<br><br>mg = 2\\omega<sup>2</sup>R<br><br>\\omega = angular velocity of earth.<br><br>R = Radius of earth<br><br>\\omega = \\sqrt g \\over R ..... (1)<br><br>Duration of day = T<br><br>T = 2\\pi \\over \\omega ..... (2)<br><br> \\Rightarrow T = 2\\pi \\sqrt R \\over g <br><br> = 2\\pi \\sqrt 6400 \u00d7 10^3 \\over 10 <br><br> \\Rightarrow T \\over 60 = 83.775 minutes<br><br> \\simeq 84 minuites",
@@ -154,10 +154,10 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "Given below are two statements : Statement I : The law of gravitation holds good for any pair of bodies in the universe. Statement II : The weight of any person becomes zero when the person is at the centre of the earth. In the light of the above statements, choose the correct answer from the options given below.",
+      "question": "Given below are two statements : Statement I : The law of gravitation holds good for any pair of bodies in the universe. Statement II : The weight of any person becomes zero when the person is at the centre of the earth. \nIn the light of the above statements, choose the correct answer from the options given below.",
       "options": {
         "A": "Both Statement I and Statement II are true",
-        "B": "oth Statement I and Statement II are false",
+        "B": "Both Statement I and Statement II are false",
         "C": "Statement I is true but Statement II is false",
         "D": "Statement I is false but Statement II is true"
       },
@@ -177,7 +177,7 @@
         "D": "The Kineti"
       },
       "answer": "A",
-      "solution": "At highest point height is maximum and vertical component of velocity is zero. <br/><br/>So momentum is zero. <br/><br/>At highest point horizontal component of velocity will not be zero but vertical component of velocity is equal to zero and because of this K.E. will not be equal to zero. <br/><br/>Gravitational potential energy is maximum at highest point and equal to mgH=mg\\left( u^2\\sin ^2\\theta \\over 2g \\right)",
+      "solution": "At highest point height is maximum and vertical component of velocity is zero. <br/><br/>So momentum is zero. <br/><br/>At highest point horizontal component of velocity will not be zero but vertical component of velocity is equal to zero and because of this K.E. will not be equal to zero. <br/><br/>Gravitational potential energy is maximum at highest point and equal to mgH=mg( u^2\\sin ^2\\theta \\over 2g \\)",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -207,7 +207,7 @@
         "D": "Zero"
       },
       "answer": "B",
-      "solution": "The gravitational field inside a uniform spherical body varies linearly with distance from the center. If we consider the Earth to be such a body, then the gravitational field strength (and hence weight) of an object would decrease linearly as we go deeper inside the Earth. The weight of an object at a depth d from the Earth's surface is given by: W_d = W_e (1 - \\fracdR), where: <ul> <li>W_d is the weight at depth d,</li> <li>W_e is the weight at the Earth's surface (i.e., the weight of the object), and</li> <li>R is the radius of the Earth.</li> </ul> In this case, we're given that W_e = 400 \\, \\textN, and we're asked to find the weight at a depth of d = \\fracR\u2082. Substituting these values into the formula, we get: W_d = 400 \\, \\textN (1 - \\frac\u2081\u2082) = 200 \\, \\textN. Therefore, the weight of the body when taken to a depth half of the radius of the Earth is 200 N.",
+      "solution": "The gravitational field inside a uniform spherical body varies linearly with distance from the center. If we consider the Earth to be such a body, then the gravitational field strength (and hence weight) of an object would decrease linearly as we go deeper inside the Earth. The weight of an object at a depth d from the Earth's surface is given by: W_d = W_e (1 - \\fracdR), where: <ul> <li>W_d is the weight at depth d,</li> <li>W_e is the weight at the Earth's surface (i.e., the weight of the object), and</li> <li>R is the radius of the Earth.</li> </ul> In this case, we're given that W_e = 400 \\, N, and we're asked to find the weight at a depth of d = \\fracR\u2082. Substituting these values into the formula, we get: W_d = 400 \\, N (1 - \\frac\u2081\u2082) = 200 \\, N. Therefore, the weight of the body when taken to a depth half of the radius of the Earth is 200 N.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -222,7 +222,7 @@
         "D": "T/R is a constant"
       },
       "answer": "D",
-      "solution": "For circular motion of particle:<br> mV^2 \\over r = mE<br> = m\\left( GM \\over r^2 \\right)<br><br> Where M = \\int\\limits_0^r \\left( 4\\pi x^2dx \\right)\\left( k \\over x^2 \\right) = 4\\pi kr<br><br> \\Rightarrow mV^2 \\over r = m\\left( G\\left( 4\\pi k \\right) \\over r \\right)<br><br> \\Rightarrow V = constant<br> T = 2\\pi r \\over V<br><br> \\Rightarrow T \\over R = Constant",
+      "solution": "For circular motion of particle:<br> mV^2 \\over r = mE<br> = m( GM \\over r^2 \\)<br><br> Where M = \\int\\limits_0^r ( 4\\pi x^2dx \\)( k \\over x^2 \\) = 4\\pi kr<br><br> \\Rightarrow mV^2 \\over r = m( G( 4\\pi k \\) \\over r \\)<br><br> \\Rightarrow V = constant<br> T = 2\\pi r \\over V<br><br> \\Rightarrow T \\over R = Constant",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -231,10 +231,10 @@
     {
       "question": "Two satellites, A and B, have masses m and 2m respectively. A is in a circular orbit of radius R, and B is in a circular orbit of radius 2R around the earth. The ratio of their kinetic energies, T<sub>A</sub>/T<sub>B</sub>, is ;",
       "options": {
-        "A": "2",
+        "A": "2%",
         "B": "1 \\over 2",
         "C": "\\sqrt 1 \\over 2",
-        "D": "1"
+        "D": "1%"
       },
       "answer": "D",
       "solution": "Orbital velocity V = \\sqrt GMe \\over r <br><br>T<sub>A</sub> = 1 \\over 2 m<sub>A</sub> V_A^2 <br><br>T<sub>B</sub> = 1 \\over 2 m<sub>B</sub> V_B^2 <br><br> \\Rightarrow T_A \\over T_B = m \u00d7 Gm \\over R \\over 2m \u00d7 Gm \\over 2R <br><br> \\Rightarrow T_A \\over T_B = 1",
@@ -246,13 +246,13 @@
     {
       "question": "satellite of mass M is in a circular orbit of radius R about the centre of the earth. A meteorite of the same mass, falling towards the earth, collides with the satellite completely inelastically. The speeds of the satellite and the meteorite are the same, just before the collision. The subsequent motion of the combined body will be :",
       "options": {
-        "A": "in the same circular orbit of radius R",
-        "B": "such that it escapes to infinity",
-        "C": "in a circular orbit of a different radius",
-        "D": "in an elliptical orbit"
+        "A": "In the same circular orbit of radius R",
+        "B": "Such that it escapes to infinity",
+        "C": "In a circular orbit of a different radius",
+        "D": "In an elliptical orbit"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2088\u2084/exam_images/ic\u2088lr\u2081ryal\u2089qbn\u2082uyhyy.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Gravitation Question 150 English Explanation\"> <br>mv\\widehat i + mv\\widehat j <br><br>= 2m\\overrightarrow v ^1 <br><br>\\overrightarrow v = 1 \\over \\sqrt 2 \u00d7 \\sqrt GM \\over R",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2088\u2084/exam_images/ic\u2088lr\u2081ryal\u2089qbn\u2082uyhyy.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Gravitation Question 150 English Explanation\"> <br>mv\\widehat i + mv\\widehat j <br><br>= 2m\\overarrow v ^1 <br><br>\\overarrow v = 1 \\over \\sqrt 2 \u00d7 \\sqrt GM \\over R",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -261,13 +261,13 @@
     {
       "question": "satellite is moving with a constant speed v in circular orbit around the earth. An object of mass \\u\u2082\u2080\u2081\u2088m\\u\u2082\u2080\u2081\u2089 is ejected from the satellite such that it just escapes from the gravitational pull of the earth. At the time of ejection, the kinetic energy of the object is -",
       "options": {
-        "A": "mv<sup>2</sup>",
+        "A": "Mv<sup>2</sup>",
         "B": "1 \\over 2 mv<sup>2</sup>",
         "C": "3 \\over 2 mv<sup>2</sup>",
         "D": "2 mv<sup>2</sup>"
       },
       "answer": "A",
-      "solution": "At height r from center of earth. orbital velocity <br><br>= \\sqrt GM \\over r <br><br> \\therefore By energy conservation <br><br>KE of 'm' + \\left( - GMm \\over r \\right) = 0 + 0 <br><br>(At infinity, PE = KE = 0) <br><br> \\Rightarrow KE of 'm' = GMm \\over r = \\left( \\sqrt GM \\over r \\right)^2 m = mv<sup>2</sup>",
+      "solution": "At height r from center of earth. orbital velocity <br><br>= \\sqrt GM \\over r <br><br> \\therefore By energy conservation <br><br>KE of 'm' + ( - GMm \\over r \\) = 0 + 0 <br><br>(At infinity, PE = KE = 0) <br><br> \\Rightarrow KE of 'm' = GMm \\over r = ( \\sqrt GM \\over r \\)^2 m = mv<sup>2</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -276,8 +276,8 @@
     {
       "question": "body is moving in a low circular orbit about a planet of mass M and radius R. The radius of the orbit can be taken to be R itself. Then the ratio of the speed of this body in the orbit to the escape velocity from the planet is:",
       "options": {
-        "A": "2",
-        "B": "1",
+        "A": "2%",
+        "B": "1%",
         "C": "\\sqrt 2",
         "D": "1 \\over \\sqrt 2"
       },
@@ -297,7 +297,7 @@
         "D": "T<sup>2</sup> \\propto 1 \\over R^3"
       },
       "answer": "A",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2085\u2087\u2085/exam_images/tghangpmtivh\u2086aceem\u2084q.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2085\u2081\u2083/exam_images/fmzloboalfscgtf\u2080\u2086bd\u2082.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Gravitation Question 133 English Explanation\"> <br><br>dm = \\rho dv <br><br> \\Rightarrow dm = \\left( \\frackr \\right) (4\\pi r<sup>2</sup>dr) <br><br> \\Rightarrow dm = 4\\pi krdr <br><br>M = \\int\\limits^R_0 dm = \\int\\limits^R_04\\pi krdr <br><br> \\Rightarrow M = 4\\pi k\\left[ \\fracr^22 \\right]^R_0 <br><br> \\Rightarrow M = 2\\pi kR<sup>2</sup> <br><br> For circular motion gravitational force will provide required centripetal force. <br><br> \\fracGMmR^2 = \\fracmv^2R <br><br> \\Rightarrow \\fracG\\left( 2\\pi kR^2\\right) mR^2 = \\fracmv^2R <br><br> \\Rightarrow v = \\sqrt\u2082\\pi GkR <br><br> Time period, T = \\frac\u2082\\pi Rv <br><br>= \\frac\u2082\\pi R\\sqrt\u2082\\pi GkR \\propto \\sqrtR <br><br> \\Rightarrow T<sup>2</sup> \\propto R",
+      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2085\u2087\u2085/exam_images/tghangpmtivh\u2086aceem\u2084q.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2085\u2081\u2083/exam_images/fmzloboalfscgtf\u2080\u2086bd\u2082.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Gravitation Question 133 English Explanation\"> <br><br>dm = \\rho dv <br><br> \\Rightarrow dm = ( \\frackr \\) (4\\pi r<sup>2</sup>dr) <br><br> \\Rightarrow dm = 4\\pi krdr <br><br>M = \\int\\limits^R_0 dm = \\int\\limits^R_04\\pi krdr <br><br> \\Rightarrow M = 4\\pi k\\left[ \\fracr^22 \\]^R_0 <br><br> \\Rightarrow M = 2\\pi kR<sup>2</sup> <br><br> For circular motion gravitational force will provide required centripetal force. <br><br> \\fracGMmR^2 = \\fracmv^2R <br><br> \\Rightarrow \\fracG( 2\\pi kR^2\\) mR^2 = \\fracmv^2R <br><br> \\Rightarrow v = \\sqrt\u2082\\pi GkR <br><br> Time period, T = \\frac\u2082\\pi Rv <br><br>= \\frac\u2082\\pi R\\sqrt\u2082\\pi GkR \\propto \\sqrtR <br><br> \\Rightarrow T<sup>2</sup> \\propto R",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -306,10 +306,10 @@
     {
       "question": "Planet A has mass M and radius R. Planet B has half the mass and half the radius of Planet A. If the escape velocities from the Planets A and B are v<sub>A</sub> and v<sub>B</sub>, respectively, then v_A \\over v_B = n \\over 4. The value of n is :",
       "options": {
-        "A": "1",
-        "B": "2",
-        "C": "4",
-        "D": "3"
+        "A": "1%",
+        "B": "2%",
+        "C": "4%",
+        "D": "3%"
       },
       "answer": "C",
       "solution": "Escape velocity, V<sub>e</sub> = \\sqrt 2GM \\over R <br><br>V<sub>A</sub> = \\sqrt 2GM \\over R <br><br>V<sub>B</sub> = \\sqrt 2GM \\over 2 \\over R \\over 2 = \\sqrt 2GM \\over R <br><br>V_A \\over V_B = 1 <br><br>Given V_A \\over V_B = n \\over 4 <br><br> \\therefore n \\over 4 = 1 <br><br> \\Rightarrow n = 4",
@@ -334,12 +334,12 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.<br/><br/>Reason R : The product of their mass and radius must be same. M<sub>1</sub>R<sub>1</sub> = M<sub>2</sub>R<sub>2</sub><br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : The escape velocities of planet A and B are same. But A and B are of unequal mass.<br/><br/>Reason R : The product of their mass and radius must be same. M<sub>1</sub>R<sub>1</sub> = M<sub>2</sub>R<sub>2</sub><br/><br/>\nIn the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
-        "A": "Both A and R are correct and R is the correct explanation of",
-        "B": "oth A and R are correct but R is NOT the correct explanation of",
-        "C": "is correct but R is not correct",
-        "D": "is not correct but R is correct"
+        "A": "Both",
+        "B": "Oth",
+        "C": "Is correct but R is not correct",
+        "D": "Is not correct but R is correct"
       },
       "answer": "C",
       "solution": "v_e = escape velocity<br><br>v_e = \\sqrt 2GM \\over R <br><br>so for same v_e,M_1 \\over R_1 = M_2 \\over R_2<br><br>A is true but R is false",
@@ -351,10 +351,10 @@
     {
       "question": "satellite is launched into a circular orbit of radius R around earth, while a second satellite is launched into a circular orbit of radius 1.02 R. The percentage difference in the time periods of the two satellites is :",
       "options": {
-        "A": "1.5",
-        "B": "2.0",
-        "C": "0.7",
-        "D": "3.0"
+        "A": "1.5%",
+        "B": "2.0%",
+        "C": "0.7%",
+        "D": "3.0%"
       },
       "answer": "D",
       "solution": "T^2 \\propto R^3<br><br>T = kR^3/2<br><br>dT \\over T = 3 \\over 2dR \\over R<br><br> = 3 \\over 2 \u00d7 0.02 = 0.03<br><br>% Change = 3%",
@@ -364,7 +364,7 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "The planet Mars has two moons, if one of them has a period 7 hours, 30 minutes and an orbital radius of 9.0 \u00d7 10<sup>3</sup> km. Find the mass of Mars.<br/><br/>\\left\\ Given\\,4\\pi ^2 \\over G = 6 \u00d7 10^11N^ - 1m^ - 2kg^2 \\right\\",
+      "question": "The planet Mars has two moons, if one of them has a period 7 hours, 30 minutes and an orbital radius of 9.0 \u00d7 10<sup>3</sup> km. Find the mass of Mars.<br/><br/>\\left\\ Given\\,4\\pi ^2 \\over G = 6 \u00d7 10^11N^ - 1m^ - 2kg^2 \\\\",
       "options": {
         "A": "5.96 \u00d7 10<sup>19</sup> kg",
         "B": "3.25 \u00d7 10<sup>21</sup> kg",
@@ -441,13 +441,13 @@
     {
       "question": "A planet having mass 9 Me and radius 4 R_e, where Me and Re are mass and radius of earth respectively, has escape velocity in km / s given by: (Given escape velocity on earth V_e=11.2 \u00d7 10^3 m / s )",
       "options": {
-        "A": "33.6",
-        "B": "11.2",
-        "C": "16.8",
-        "D": "67.2"
+        "A": "33.6%",
+        "B": "11.2%",
+        "C": "16.8%",
+        "D": "67.2%"
       },
       "answer": "C",
-      "solution": "The escape velocity on a planet is given by the following formula: <br/><br/> v_esc = \\sqrt\\frac\u2082GMR <br/><br/> where v_esc is the escape velocity, G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet. <br/><br/> For Earth, we are given that v_e = 11.2 \u00d7 10^3 m/s. We know that the mass of the planet in question is 9M_e and its radius is 4R_e. Let's find the escape velocity of this planet: <br/><br/> v_esc = \\sqrt\\frac\u2082G(9M_e)\u2084R_e <br/><br/> Divide both sides by the Earth's escape velocity formula: <br/><br/> \\fracv_escv_e = \\frac\\sqrt\\frac\u2082G(9M_e)\u2084R_e\\sqrt\\frac\u2082GM_eR_e <br/><br/> Simplify: <br/><br/> \\fracv_esc\u2081\u2081.2 \u00d7 10^3 \\text m/s = \\sqrt\\frac\u2089\u2084 <br/><br/> \\fracv_esc\u2081\u2081.2 \u00d7 10^3 \\text m/s = \\frac\u2083\u2082 <br/><br/> Now, solve for v_esc: <br/><br/> v_esc = 11.2 \u00d7 10^3 \\text m/s \u00d7 \\frac\u2083\u2082 <br/><br/> v_esc = 16.8 \u00d7 10^3 \\text m/s <br/><br/> Converting this to km/s, we get: <br/><br/> v_esc = 16.8 \\text km/s",
+      "solution": "The escape velocity on a planet is given by the following formula: <br/><br/> v_esc = \\sqrt\\frac\u2082GMR <br/><br/> where v_esc is the escape velocity, G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet. <br/><br/> For Earth, we are given that v_e = 11.2 \u00d7 10^3 m/s. We know that the mass of the planet in question is 9M_e and its radius is 4R_e. Let's find the escape velocity of this planet: <br/><br/> v_esc = \\sqrt\\frac\u2082G(9M_e)\u2084R_e <br/><br/> Divide both sides by the Earth's escape velocity formula: <br/><br/> \\fracv_escv_e = \\frac\\sqrt\\frac\u2082G(9M_e)\u2084R_e\\sqrt\\frac\u2082GM_eR_e <br/><br/> Simplify: <br/><br/> \\fracv_esc\u2081\u2081.2 \u00d7 10^3 m/s = \\sqrt\\frac\u2089\u2084 <br/><br/> \\fracv_esc\u2081\u2081.2 \u00d7 10^3 m/s = \\frac\u2083\u2082 <br/><br/> Now, solve for v_esc: <br/><br/> v_esc = 11.2 \u00d7 10^3 m/s \u00d7 \\frac\u2083\u2082 <br/><br/> v_esc = 16.8 \u00d7 10^3 m/s <br/><br/> Converting this to km/s, we get: <br/><br/> v_esc = 16.8 km/s",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -499,10 +499,10 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "Given below are two statements : one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR. Assertion A : Earth has atmosphere whereas moon doesn't have any atmosphere. Reason R : The escape velocity on moon is very small as compared to that on earth. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements : one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR. Assertion A : Earth has atmosphere whereas moon doesn't have any atmosphere. Reason R : The escape velocity on moon is very small as compared to that on earth. \nIn the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "\\mathbfA is false but \\mathbfR is true",
-        "B": "oth \\mathbfA and \\mathbfR are correct but \\mathbfR is NOT the correct explanation of \\mathbfA",
+        "B": "Oth \\mathbfA and \\mathbfR are correct but \\mathbfR is NOT the correct explanation of \\mathbfA",
         "C": "Both \\mathbfA and \\mathbfR are correct and \\mathbfR is the correct explanation of \\mathbfA",
         "D": "\\mathbfA is true but \\mathbfR is false"
       },
@@ -537,7 +537,7 @@
         "D": "11.2 km/s"
       },
       "answer": "A",
-      "solution": "\\beginaligned & R_P=\\fracR_E\u2083, M_P=\\fracM_E\u2086 \\\\ & V_c=\\sqrt\\frac\u2082 GM_eR_e \\quad \\text.... (i)\\\\ & V_P=\\sqrt\\frac\u2082 GM_PR_P \\quad \\text.... (ii)\\\\ & \\fracV_eV_p=\\sqrt\u2082 \\\\ & V_P=\\fracV_e\\sqrt\u2082=\\frac\u2081\u2081.2\\sqrt\u2082=7.9 km / sec \\endaligned",
+      "solution": "\\beginaligned & R_P=\\fracR_E\u2083, M_P=\\fracM_E\u2086 \\\\ & V_c=\\sqrt\\frac\u2082 GM_eR_e \\quad .... (i)\\\\ & V_P=\\sqrt\\frac\u2082 GM_PR_P \\quad .... (ii)\\\\ & \\fracV_eV_p=\\sqrt\u2082 \\\\ & V_P=\\fracV_e\\sqrt\u2082=\\frac\u2081\u2081.2\\sqrt\u2082=7.9 km / sec \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -552,7 +552,7 @@
         "D": "1.05 \u00d7 10^4 km"
       },
       "answer": "D",
-      "solution": "\\beginaligned & \\fracT_1T_2=\\left(\\fracr_1r_2\\right)^3 / 2 \\sqrt\\fracm_2m_1 \\\\ & \\Rightarrow \\quad \\frac\u2082\u2084\u2086=\\left(\\frac\u2084.2 \u00d7 10^4r_2\\right)^3 / 2 \\sqrt\\fracm / 4m \\\\ & \\Rightarrow r_2=1.05 \u00d7 10^4 km \\endaligned",
+      "solution": "\\beginaligned & \\fracT_1T_2=(\\fracr_1r_2\\)^3 / 2 \\sqrt\\fracm_2m_1 \\\\ & \\Rightarrow \\quad \\frac\u2082\u2084\u2086=(\\frac\u2084.2 \u00d7 10^4r_2\\)^3 / 2 \\sqrt\\fracm / 4m \\\\ & \\Rightarrow r_2=1.05 \u00d7 10^4 km \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -562,7 +562,7 @@
       "question": "If G be the gravitational constant and u be the energy density then which of the following quantity have the dimensions as that of the \\sqrtuG :",
       "options": {
         "A": "Gravitational potential",
-        "B": "pressure gradient per unit mass",
+        "B": "Pressure gradient per unit mass",
         "C": "Energy per unit mass",
         "D": "Force per unit mass"
       },
@@ -597,7 +597,7 @@
         "D": "- GMm \\over 6R"
       },
       "answer": "D",
-      "solution": "Initially gravitational potenrial energy <br><br>E<sub>i</sub> = - GMm \\over 2R <br><br>Final gravitational potential energy <br><br>E<sub>f</sub> = - GM\\left( m \\over 2 \\right) \\over 2\\left( R \\over 2 \\right) - GM\\left( m \\over 2 \\right) \\over 2\\left( 3R \\over 2 \\right) <br><br>= - GMm \\over 2R - GMm \\over 6R <br><br>= - 4GMm \\over 6R <br><br>= - 2GMm \\over 3R <br><br>\\therefore\\,\\,\\,\\, Required difference in energies <br><br>= E_f - E_i <br><br>= - GMm \\over R\\left( 2 \\over 3 - 1 \\over 2 \\right) <br><br>= - GMm \\over 6R",
+      "solution": "Initially gravitational potenrial energy <br><br>E<sub>i</sub> = - GMm \\over 2R <br><br>Final gravitational potential energy <br><br>E<sub>f</sub> = - GM( m \\over 2 \\) \\over 2( R \\over 2 \\) - GM( m \\over 2 \\) \\over 2( 3R \\over 2 \\) <br><br>= - GMm \\over 2R - GMm \\over 6R <br><br>= - 4GMm \\over 6R <br><br>= - 2GMm \\over 3R <br><br>\\therefore\\,\\,\\,\\, Required difference in energies <br><br>= E_f - E_i <br><br>= - GMm \\over R( 2 \\over 3 - 1 \\over 2 \\) <br><br>= - GMm \\over 6R",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -606,13 +606,13 @@
     {
       "question": "Take the mean distance of the moon and the sun from the earth to be 0.4 \u00d7 10^6 km and 150 \u00d7 10^6 km respectively. Their masses are 8 \u00d7 10^22 kg and 2 \u00d7 10^30 kg respectively. The radius of the earth is 6400 km. Let \\Delta F_1 be the difference in the forces exerted by the moon at the nearest and farthest points on the earth and \\Delta F_2 be the difference in the force exerted by the sun at the nearest and farthest points on the earth. Then, the number closest to \\Delta F_1 \\over \\Delta F_2 is :",
       "options": {
-        "A": "2",
+        "A": "2%",
         "B": "10^ - 2",
-        "C": "0.6",
-        "D": "6"
+        "C": "0.6%",
+        "D": "6%"
       },
       "answer": "A",
-      "solution": "As gravitational force of attraction, <br><br>F = GMm \\over R^2 <br><br>\\therefore\\,\\,\\,\\, Force of attraction berween earth and moon <br><br>F<sub>1</sub> = GM_em \\over r_1^2 <br><br>Force of attraction between earth and sun, <br><br>F<sub>2</sub> = GMeMs \\over r_2^2 <br><br>\\therefore\\,\\,\\,\\, \\Delta F<sub>1</sub> = - 2GM_em \\over r_1^3 \\Delta r<sub>1</sub> <br><br>\\Delta F<sub>2</sub> = - 2GMe\\,Ms \\over r_2^3 \\Delta r<sub>2</sub> <br><br>\\therefore\\,\\,\\,\\, \\Delta F_1 \\over \\Delta F_2 = m\\Delta r_1 \\over r_1^3 \u00d7 r_2^3 \\over Ms\\,\\Delta r_2 <br><br> = \\left( m \\over Ms \\right)\\left( r_2^3 \\over r_1^3 \\right)\\left( \\Delta r_1 \\over \\Delta r_2 \\right) <br><br>\\Delta r_1 = \\Delta r_2 = diameter of the earth = 2 R<sub>earth</sub> <br><br>Given <br><br>m = 8 \u00d7 10<sup>22</sup> kg <br><br>M<sub>s</sub> = 2 \u00d7 10<sup>30</sup> kg <br><br>r<sub>1</sub> = 0.4 \u00d7 10<sup>6</sup> km <br><br>r<sub>2</sub> = 150 \u00d7 10<sup>6</sup> km <br><br>\\therefore\\,\\,\\,\\, \\Delta F_1 \\over \\Delta F_2 = \\left( 8 \u00d7 10^22 \\over 2 \u00d7 10^30 \\right)\\left( 150 \u00d7 10^6 \\over 0.4 \u00d7 10^6 \\right)^3 \u00d7 1 <br><br>= 2",
+      "solution": "As gravitational force of attraction, <br><br>F = GMm \\over R^2 <br><br>\\therefore\\,\\,\\,\\, Force of attraction berween earth and moon <br><br>F<sub>1</sub> = GM_em \\over r_1^2 <br><br>Force of attraction between earth and sun, <br><br>F<sub>2</sub> = GMeMs \\over r_2^2 <br><br>\\therefore\\,\\,\\,\\, \\Delta F<sub>1</sub> = - 2GM_em \\over r_1^3 \\Delta r<sub>1</sub> <br><br>\\Delta F<sub>2</sub> = - 2GMe\\,Ms \\over r_2^3 \\Delta r<sub>2</sub> <br><br>\\therefore\\,\\,\\,\\, \\Delta F_1 \\over \\Delta F_2 = m\\Delta r_1 \\over r_1^3 \u00d7 r_2^3 \\over Ms\\,\\Delta r_2 <br><br> = ( m \\over Ms \\)( r_2^3 \\over r_1^3 \\)( \\Delta r_1 \\over \\Delta r_2 \\) <br><br>\\Delta r_1 = \\Delta r_2 = diameter of the earth = 2 R<sub>earth</sub> <br><br>Given <br><br>m = 8 \u00d7 10<sup>22</sup> kg <br><br>M<sub>s</sub> = 2 \u00d7 10<sup>30</sup> kg <br><br>r<sub>1</sub> = 0.4 \u00d7 10<sup>6</sup> km <br><br>r<sub>2</sub> = 150 \u00d7 10<sup>6</sup> km <br><br>\\therefore\\,\\,\\,\\, \\Delta F_1 \\over \\Delta F_2 = ( 8 \u00d7 10^22 \\over 2 \u00d7 10^30 \\)( 150 \u00d7 10^6 \\over 0.4 \u00d7 10^6 \\)^3 \u00d7 1 <br><br>= 2",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -634,30 +634,15 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "straight rod of length L extends from x = a to x = L + a. The gravitational force it exerts on a point mass 'm' at x = 0, if the mass per unit length of the rod is A + Bx<sup>2</sup> , is given by :",
+      "question": "body A of mass m is moving in a circular orbit of radius R about a planet. Another body B of mass m \\over 2 collides with A with a velocity which is half ( \\overarrow v \\over 2 \\) the instantaneous velocity\\overarrow v of A. The collision is completely inelastic. Then, the combined body :",
       "options": {
-        "A": "Gm\\left[ A\\left( 1 \\over a - 1 \\over a + L \\right) - BL \\right]",
-        "B": "Gm\\left[ A\\left( 1 \\over a - 1 \\over a + L \\right) + BL \\right]",
-        "C": "Gm\\left[ A\\left( 1 \\over a + L - 1 \\over a \\right) + BL \\right]",
-        "D": "Gm\\left[ A\\left( 1 \\over a + L - 1 \\over a \\right) - BL \\right]"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2088\u2089\u2085/exam_images/r\u2088nkxkrbt\u2084\u2086tcn\u2086aoxdy.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Gravitation Question 149 English Explanation\"> <br>dm = (A + Bx<sup>2</sup>)dx <br><br>dF = GMdm \\over x^2 <br><br>F = \\int_a^a + L GM \\over x^2 (A + Bx<sup>2</sup>)dx <br><br>= GM\\left[ - A \\over x + Bx \\right]_a^a + L <br><br>= GM\\left[ A\\left( 1 \\over a - 1 \\over a + L \\right) + BL \\right]",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Gravitation"
-    },
-    {
-      "question": "body A of mass m is moving in a circular orbit of radius R about a planet. Another body B of mass m \\over 2 collides with A with a velocity which is half \\left( \\overrightarrow v \\over 2 \\right) the instantaneous velocity\\overrightarrow v of A. The collision is completely inelastic. Then, the combined body :",
-      "options": {
-        "A": "starts moving in an elliptical orbit around the planet.",
+        "A": "Starts moving in an elliptical orbit around the planet.",
         "B": "Falls vertically downwards towards the planet",
         "C": "Escapes from the Planet's Gravitational field.",
-        "D": "continues to move in a circular orbit"
+        "D": "Continues to move in a circular orbit"
       },
       "answer": "A",
-      "solution": "Orbital speed for of A is v = \\sqrt GM \\over R <br><br>After collision, let the combined mass moves with speed v<sub>1</sub> <br><br> \\therefore mv + m \\over 2v \\over 2 = \\left( 3m \\over 2 \\right)v_1 <br><br> \\Rightarrow v<sub>1</sub> = 5v \\over 6 <br><br>Since after collision, the speed is not equal to orbital speed at that point. So motion cannot be circular. Since velocity will remain tangential, so it cannot fall vertically towards the planet. Their speed after collision is less than escape speed \\sqrt 2 v, so they cannot escape gravitational field. So their motion will be elliptical around the planet.",
+      "solution": "Orbital speed for of A is v = \\sqrt GM \\over R <br><br>After collision, let the combined mass moves with speed v<sub>1</sub> <br><br> \\therefore mv + m \\over 2v \\over 2 = ( 3m \\over 2 \\)v_1 <br><br> \\Rightarrow v<sub>1</sub> = 5v \\over 6 <br><br>Since after collision, the speed is not equal to orbital speed at that point. So motion cannot be circular. Since velocity will remain tangential, so it cannot fall vertically towards the planet. Their speed after collision is less than escape speed \\sqrt 2 v, so they cannot escape gravitational field. So their motion will be elliptical around the planet.",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -709,7 +694,7 @@
       "chapter": "Gravitation"
     },
     {
-      "question": "The angular momentum of a planet of mass M moving around the sun in an elliptical orbit is \\overrightarrow L . The magnitude of the areal velocity of the planet is :",
+      "question": "The angular momentum of a planet of mass M moving around the sun in an elliptical orbit is \\overarrow L . The magnitude of the areal velocity of the planet is :",
       "options": {
         "A": "2L \\over M",
         "B": "L \\over 2M",
@@ -717,7 +702,7 @@
         "D": "4L \\over M"
       },
       "answer": "B",
-      "solution": "<source media=\"(max-width: 1360px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2080\u2085/exam_images/dnysyikteutlzve\u2089auws.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2087\u2085\u2089/exam_images/hcsdqj\u2087xnq\u2080i\u2086kauinvu.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2084\u2088/exam_images/jzplrzjwlsjaceosm\u2084tp.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2086\u2089/exam_images/jvmekqc\u2084glcibhyr\u2084si\u2087.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2083\u2080\u2083/exam_images/aqgwkapoyolfqz\u2086klddn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2082\u2085\u2089/exam_images/o\u2082uqxj\u2082u\u2082a\u2085o\u2082yefppde.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Gravitation Question 107 English Explanation\"> <br>Gravitational force line passes through the sun so torque about sun always zero for the planet.<br><br> \\therefore Angular momentum about sum is constant.<br><br>\\overrightarrow L = Constant<br><br>we know, L = Mv_ \\bot r<br><br>Now, <br><br>dA = 1 \\over 2 \u00d7 base \u00d7 height<br><br> = 1 \\over 2 \u00d7 r \u00d7 v_ \\bot dt<br><br> \\Rightarrow dA \\over dt = rv_ \\bot \\over 2 = r \\over 2 \u00d7 L \\over Mr = L \\over 2M",
+      "solution": "<source media=\"(max-width: 1360px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2080\u2085/exam_images/dnysyikteutlzve\u2089auws.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2087\u2085\u2089/exam_images/hcsdqj\u2087xnq\u2080i\u2086kauinvu.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2084\u2088/exam_images/jzplrzjwlsjaceosm\u2084tp.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2086\u2089/exam_images/jvmekqc\u2084glcibhyr\u2084si\u2087.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2083\u2080\u2083/exam_images/aqgwkapoyolfqz\u2086klddn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2082\u2085\u2089/exam_images/o\u2082uqxj\u2082u\u2082a\u2085o\u2082yefppde.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Gravitation Question 107 English Explanation\"> <br>Gravitational force line passes through the sun so torque about sun always zero for the planet.<br><br> \\therefore Angular momentum about sum is constant.<br><br>\\overarrow L = Constant<br><br>we know, L = Mv_ \\bot r<br><br>Now, <br><br>dA = 1 \\over 2 \u00d7 base \u00d7 height<br><br> = 1 \\over 2 \u00d7 r \u00d7 v_ \\bot dt<br><br> \\Rightarrow dA \\over dt = rv_ \\bot \\over 2 = r \\over 2 \u00d7 L \\over Mr = L \\over 2M",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -726,7 +711,7 @@
     {
       "question": "Consider a binary star system of star A and star B with masses m<sub>A</sub> and m<sub>B</sub> revolving in a circular orbit of radii r<sub>A</sub> an r<sub>B</sub>, respectively. If T<sub>A</sub> and T<sub>B</sub> are the time period of star A and star B, respectively,<br/><br/>Then :",
       "options": {
-        "A": "T_A \\over T_B = \\left( r_A \\over r_B \\right)^3 \\over 2",
+        "A": "T_A \\over T_B = ( r_A \\over r_B \\)^3 \\over 2",
         "B": "T_A = T_B",
         "C": "T_A > T_B (if m_A > m_B)",
         "D": "T_A > T_B (if r_A > r_B)"
@@ -741,10 +726,10 @@
     {
       "question": "The minimum and maximum distances of a planet revolving around the sun are x<sub>1</sub> and x<sub>2</sub>. If the minimum speed of the planet on its trajectory is v<sub>0</sub> then its maximum speed will be :",
       "options": {
-        "A": "v_0x_1^2 \\over x_2^2",
-        "B": "v_0x_2^2 \\over x_1^2",
-        "C": "v_0x_1^ \\over x_2^",
-        "D": "v_0x_2^ \\over x_1^"
+        "A": "V_0x_1^2 \\over x_2^2",
+        "B": "V_0x_2^2 \\over x_1^2",
+        "C": "V_0x_1^ \\over x_2^",
+        "D": "V_0x_2^ \\over x_1^"
       },
       "answer": "D",
       "solution": "Angular momentum conservation equation v_0x_2 = v_1x_1<br><br>v_1 = v_0x_2 \\over x_1",
@@ -762,7 +747,7 @@
         "D": "25 hours"
       },
       "answer": "B",
-      "solution": "T_2^2 = \\left( R_2 \\over R_1 \\right)^3T_1^2 \\Rightarrow T_2 = (3)^3/2 \u00d7 7 \\approx 5.2 \u00d7 7 T_2 \\cong 36 hrs",
+      "solution": "T_2^2 = ( R_2 \\over R_1 \\)^3T_1^2 \\Rightarrow T_2 = (3)^3/2 \u00d7 7 \\approx 5.2 \u00d7 7 T_2 \\cong 36 hrs",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -772,12 +757,12 @@
       "question": "Two planets A and B of equal mass are having their period of revolutions T<sub>A</sub> and T<sub>B</sub> such that T<sub>A</sub> = 2T<sub>B</sub>. These planets are revolving in the circular orbits of radii r<sub>A</sub> and r<sub>B</sub> respectively. Which out of the following would be the correct relationship of their orbits?",
       "options": {
         "A": "2r_A^2 = r_B^3",
-        "B": "r_A^3 = 2r_B^3",
-        "C": "r_A^3 = 4r_B^3",
-        "D": "T_A^2 - T_B^2 = \\pi ^2 \\over GM\\left( r_B^3 - 4r_A^3 \\right)"
+        "B": "R_A^3 = 2r_B^3",
+        "C": "R_A^3 = 4r_B^3",
+        "D": "T_A^2 - T_B^2 = \\pi ^2 \\over GM( r_B^3 - 4r_A^3 \\)"
       },
       "answer": "C",
-      "solution": "T_A = 2T_B Now T_A^2 \\propto r_A^3 \\Rightarrow \\left( r_A \\over r_B \\right)^3 = \\left( T_A \\over T_B \\right)^2 \\Rightarrow r_A^3 = 4r_B^3",
+      "solution": "T_A = 2T_B Now T_A^2 \\propto r_A^3 \\Rightarrow ( r_A \\over r_B \\)^3 = ( T_A \\over T_B \\)^2 \\Rightarrow r_A^3 = 4r_B^3",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -792,7 +777,7 @@
         "D": "0.14 \u00d7 10<sup>9</sup> m"
       },
       "answer": "C",
-      "solution": "Diameter = r \u00d7 \\delta = 1.5 \u00d7 10^11 \u00d7 (2000) \u00d7 \\left( 1 \\over 3600 \\right) \u00d7 \\left( \\pi \\over 180 \\right) = 1.45 \u00d7 10^9 m",
+      "solution": "Diameter = r \u00d7 \\delta = 1.5 \u00d7 10^11 \u00d7 (2000) \u00d7 ( 1 \\over 3600 \\) \u00d7 ( \\pi \\over 180 \\) = 1.45 \u00d7 10^9 m",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -807,7 +792,7 @@
         "D": "3\\sqrt 3 years"
       },
       "answer": "D",
-      "solution": "We know that T<sup>2</sup> \\propto R<sup>3</sup> \\Rightarrow \\left( T' \\over T \\right)^2 = \\left( 3R \\over R \\right)^3 \\Rightarrow T' \\over T = 3\\sqrt 3 \\Rightarrow T' = 3\\sqrt 3 years",
+      "solution": "We know that T<sup>2</sup> \\propto R<sup>3</sup> \\Rightarrow ( T' \\over T \\)^2 = ( 3R \\over R \\)^3 \\Rightarrow T' \\over T = 3\\sqrt 3 \\Rightarrow T' = 3\\sqrt 3 years",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -822,7 +807,7 @@
         "D": "4 hours"
       },
       "answer": "B",
-      "solution": "\\because T^2 \\propto R^3 \\therefore T_1^2 \\over T_2^2 = R_1^3 \\over R_2^3 24^2 \\over T_2^2 = R_1^3 \\over \\left( R_1 \\over 4 \\right)^3 24^2 \\over T_2^2 = 4^3 T_2 = 24 \\over 2^3 = 3 hours",
+      "solution": "\\because T^2 \\propto R^3 \\therefore T_1^2 \\over T_2^2 = R_1^3 \\over R_2^3 24^2 \\over T_2^2 = R_1^3 \\over ( R_1 \\over 4 \\)^3 24^2 \\over T_2^2 = 4^3 T_2 = 24 \\over 2^3 = 3 hours",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -837,7 +822,7 @@
         "D": "3\u00d7\u2081\u2080^6 km"
       },
       "answer": "D",
-      "solution": "We can use Kepler's third law to solve this problem. Kepler's third law states that the square of the period of revolution of a planet around the Sun is proportional to the cube of its average distance from the Sun. Let T be the period of revolution of the imaginary planet in years, and let d be its average distance from the Sun in kilometers. We can use the following equation to solve for d: <br/><br/> \\fracT_1^2T_2^2 = \\fracd_1^3d_2^3 <br/><br/> where T_1 and d_1 are the period of revolution and an average distance of the Earth from the Sun, respectively, and T_2 is the period of revolution of the imaginary planet. <br/><br/> Substituting the given values, we get:<br/><br/> \\beginaligned & \\fracT_1T_2=\\left(\\fracd_1d_2\\right)^\\frac\u2083\u2082 \\\\\\\\ & \\Rightarrow\\left(\\frac\u2081 \\text year 2.83 \\text year \\right)^\\frac\u2082\u2083=\\left(\\frac\u2081.5 \u00d7 10^6 kmd_2\\right) \\\\\\\\ & \\Rightarrow \\frac\u2081\u2082=\\frac\u2081.5 \u00d7 10^6 kmd_2 \\\\\\\\ & d_2=3 \u00d7 10^6 km \\endaligned",
+      "solution": "We can use Kepler's third law to solve this problem. Kepler's third law states that the square of the period of revolution of a planet around the Sun is proportional to the cube of its average distance from the Sun. Let T be the period of revolution of the imaginary planet in years, and let d be its average distance from the Sun in kilometers. We can use the following equation to solve for d: <br/><br/> \\fracT_1^2T_2^2 = \\fracd_1^3d_2^3 <br/><br/> where T_1 and d_1 are the period of revolution and an average distance of the Earth from the Sun, respectively, and T_2 is the period of revolution of the imaginary planet. <br/><br/> Substituting the given values, we get:<br/><br/> \\beginaligned & \\fracT_1T_2=(\\fracd_1d_2\\)^\\frac\u2083\u2082 \\\\\\\\ & \\Rightarrow(\\frac\u2081 year 2.83 year \\)^\\frac\u2082\u2083=(\\frac\u2081.5 \u00d7 10^6 kmd_2\\) \\\\\\\\ & \\Rightarrow \\frac\u2081\u2082=\\frac\u2081.5 \u00d7 10^6 kmd_2 \\\\\\\\ & d_2=3 \u00d7 10^6 km \\endaligned",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -852,7 +837,7 @@
         "D": "2^1 / 3 W"
       },
       "answer": "D",
-      "solution": "The weight of an object on a planet is given by the equation W = mg, where m is the mass of the object and g is the acceleration due to gravity. The acceleration due to gravity on a planet is given by the equation g = \\fracGMR^2, where G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet. In this case, the mass of the planet is double that of Earth (M = 2M_E), but the density is the same. Density is defined as mass divided by volume, so if the mass is doubled and the density stays the same, the volume must also double. Since the volume of a sphere (like a planet) is given by the equation V = \\frac\u2084\u2083\\pi R^3, a doubling of the volume implies that the radius of the planet is R = 2^1/3R_E. Substituting these values back into the equation for g, we get: g_\\textplanet = G * \\frac\u2082M_E(2^1/3R_E)^2 = 2^1/3 * g_E So the weight of the object on the planet is W_\\textplanet = m*g_\\textplanet = m\u2082^1/3 * g_E = 2^1/3W_E",
+      "solution": "The weight of an object on a planet is given by the equation W = mg, where m is the mass of the object and g is the acceleration due to gravity. The acceleration due to gravity on a planet is given by the equation g = \\fracGMR^2, where G is the gravitational constant, M is the mass of the planet, and R is the radius of the planet. In this case, the mass of the planet is double that of Earth (M = 2M_E), but the density is the same. Density is defined as mass divided by volume, so if the mass is doubled and the density stays the same, the volume must also double. Since the volume of a sphere (like a planet) is given by the equation V = \\frac\u2084\u2083\\pi R^3, a doubling of the volume implies that the radius of the planet is R = 2^1/3R_E. Substituting these values back into the equation for g, we get: g_planet = G * \\frac\u2082M_E(2^1/3R_E)^2 = 2^1/3 * g_E So the weight of the object on the planet is W_planet = m*g_planet = m\u2082^1/3 * g_E = 2^1/3W_E",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -861,13 +846,13 @@
     {
       "question": "A planet takes 200 days to complete one revolution around the Sun. If the distance of the planet from Sun is reduced to one fourth of the original distance, how many days will it take to complete one revolution :",
       "options": {
-        "A": "20",
-        "B": "50",
-        "C": "100",
-        "D": "25"
+        "A": "20%",
+        "B": "50%",
+        "C": "100%",
+        "D": "25%"
       },
       "answer": "D",
-      "solution": "\\beginaligned & T^2 \\propto r^3 \\\\ & \\fracT_1^2r_1^3=\\fracT_2^2r_2^3 \\\\ & \\frac(200)^2r^3=\\fracT_2^2\\left(\\fracr\u2084\\right)^3 \\\\ & \\frac\u2082\u2080\u2080 \u00d7 2004 \u00d7 4 \u00d7 4=T_2^2 \\\\ & T_2=\\frac\u2082\u2080\u2080\u2084 \u00d7 2 \\\\ & T_2=25 \\text days \\endaligned",
+      "solution": "\\beginaligned & T^2 \\propto r^3 \\\\ & \\fracT_1^2r_1^3=\\fracT_2^2r_2^3 \\\\ & \\frac(200)^2r^3=\\fracT_2^2(\\fracr\u2084\\)^3 \\\\ & \\frac\u2082\u2080\u2080 \u00d7 2004 \u00d7 4 \u00d7 4=T_2^2 \\\\ & T_2=\\frac\u2082\u2080\u2080\u2084 \u00d7 2 \\\\ & T_2=25 days \\endaligned",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -921,13 +906,13 @@
     {
       "question": "If the velocity of light c, universal gravitational constant G and Planck's constant h are chosen as fundamental quantities. The dimensions of mass in the new system is :",
       "options": {
-        "A": "\\left[h^1 c^1 G^-1\\right]",
-        "B": "\\left[h^-1 / 2 c^1 / 2 G^1 / 2\\right]",
-        "C": "\\left[h^1 / 2 c^1 / 2 G^-1 / 2\\right]",
-        "D": "\\left[h^1 / 2 c^-1 / 2 G^1\\right]"
+        "A": "\\left[h^1 c^1 G^-1\\]",
+        "B": "\\left[h^-1 / 2 c^1 / 2 G^1 / 2\\]",
+        "C": "\\left[h^1 / 2 c^1 / 2 G^-1 / 2\\]",
+        "D": "\\left[h^1 / 2 c^-1 / 2 G^1\\]"
       },
       "answer": "C",
-      "solution": "\\beginaligned & [M]=[G]^x[h]^y[c]^z \\\\\\\\ & [M]=\\left[M^-1 L^3 T^-2\\right]^x\\left[ML^2 T^-1\\right]^y\\left[LT^-1\\right]^z \\\\\\\\ & \\left[M^1 L^0 T^0\\right]=\\left[M^-x+y\\right]\\left[L^3 x+2 y+z\\right]\\left[T^-2 x-y-z\\right] \\\\\\\\ & y-x=1 ......(1) \\\\\\\\ & 3 x+2 y+z=0 .......(2) \\\\\\\\ & -2 x- y-z=0 ........(3) \\endaligned <br/><br/>On solving, x=-\\frac\u2081\u2082, y=\\frac\u2081\u2082, z=\\frac\u2081\u2082 <br/><br/>So m=\\sqrt\\frachcG",
+      "solution": "\\beginaligned & [M]=[G]^x[h]^y[c]^z \\\\\\\\ & [M]=\\left[M^-1 L^3 T^-2\\]^x\\left[ML^2 T^-1\\]^y\\left[LT^-1\\]^z \\\\\\\\ & \\left[M^1 L^0 T^0\\]=\\left[M^-x+y\\]\\left[L^3 x+2 y+z\\]\\left[T^-2 x-y-z\\] \\\\\\\\ & y-x=1 ......(1) \\\\\\\\ & 3 x+2 y+z=0 .......(2) \\\\\\\\ & -2 x- y-z=0 ........(3) \\endaligned <br/><br/>On solving, x=-\\frac\u2081\u2082, y=\\frac\u2081\u2082, z=\\frac\u2081\u2082 <br/><br/>So m=\\sqrt\\frachcG",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -942,7 +927,7 @@
         "D": "T^2=\\frac\u2084 \\pi^2 r^2G M"
       },
       "answer": "C",
-      "solution": "To determine which option is correct based on the principle of homogeneity of dimensions, we need to ensure that both sides of the equation have the same dimensions. The time period (T) is measured in units of time (T), the gravitational constant (G) has units of \\textm^3\\textkg^-1\\texts^-2, mass (M) has units of mass (M), and the radius of orbit (r) has units of length (L). Let's analyze each option: Option A: T^2=\\frac\u2084 \\pi^2 rG M^2 The dimensions of the right-hand side of the equation are \\fracL\\left(\\fracL^3MT^2\\right)M^2=\\fracLL^3M^-1T^-2M^2=\\fracLL^3T^-2=L^-2T^2, which do not match with T^2 (time squared). Thus, Option A is incorrect. Option B: T^2=4 \\pi^2 r^3 The dimensions of the right-hand side are L^3, which clearly do not match the dimensions T^2 of the squared time period. So, Option B is incorrect. Option C: T^2=\\frac\u2084 \\pi^2 r^3G M The dimensions of the right-hand side of the equation are \\fracL^3\\left(\\fracL^3MT^2\\right)M=\\fracL^3L^3T^-2=T^2, which match the dimensions of the squared time period T^2. Therefore, Option C is correct based on the principle of homogeneity of dimensions. Option D: T^2=\\frac\u2084 \\pi^2 r^2G M The dimensions of the right-hand side are \\fracL^2\\left(\\fracL^3MT^2\\right)M=\\fracL^2L^3M^-1T^-2M=L^-1T^2, which do not match with T^2 (time squared). Hence, Option D is incorrect. Thus, based on the principle of homogeneity of dimensions, Option C is the correct one: T^2=\\frac\u2084 \\pi^2 r^3G M. This equation also corresponds to Kepler's third law of planetary motion, which relates the orbital period of a planet to its orbital radius, considering the mass of the central body.",
+      "solution": "To determine which option is correct based on the principle of homogeneity of dimensions, we need to ensure that both sides of the equation have the same dimensions. The time period (T) is measured in units of time (T), the gravitational constant (G) has units of m^3kg^-1s^-2, mass (M) has units of mass (M), and the radius of orbit (r) has units of length (L). Let's analyze each option: Option A: T^2=\\frac\u2084 \\pi^2 rG M^2 The dimensions of the -hand side of the equation are \\fracL(\\fracL^3MT^2\\)M^2=\\fracLL^3M^-1T^-2M^2=\\fracLL^3T^-2=L^-2T^2, which do not match with T^2 (time squared). Thus, Option A is incorrect. Option B: T^2=4 \\pi^2 r^3 The dimensions of the -hand side are L^3, which clearly do not match the dimensions T^2 of the squared time period. So, Option B is incorrect. Option C: T^2=\\frac\u2084 \\pi^2 r^3G M The dimensions of the -hand side of the equation are \\fracL^3(\\fracL^3MT^2\\)M=\\fracL^3L^3T^-2=T^2, which match the dimensions of the squared time period T^2. Therefore, Option C is correct based on the principle of homogeneity of dimensions. Option D: T^2=\\frac\u2084 \\pi^2 r^2G M The dimensions of the -hand side are \\fracL^2(\\fracL^3MT^2\\)M=\\fracL^2L^3M^-1T^-2M=L^-1T^2, which do not match with T^2 (time squared). Hence, Option D is incorrect. Thus, based on the principle of homogeneity of dimensions, Option C is the correct one: T^2=\\frac\u2084 \\pi^2 r^3G M. This equation also corresponds to Kepler's third law of planetary motion, which relates the orbital period of a planet to its orbital radius, considering the mass of the central body.",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -957,7 +942,7 @@
         "D": "6 \u00d7 10<sup>-2</sup>"
       },
       "answer": "B",
-      "solution": "From kepler's law, <br><br>T = 2\\pi \\sqrt r^3 \\over GM <br><br> \\Rightarrow \\,\\,\\,T<sup>2</sup> = 4\\pi ^2 \\over GMr^3 <br><br> \\Rightarrow \\,\\,\\, M = 4\\pi ^2 \\over G \u00d7 r^3 \\over T^2 <br><br>\\therefore\\,\\,\\, \\Delta M \\over M = 2 \\Delta T \\over T + 3 \\Delta r \\over r <br><br>as \\Delta r \\over r \\simeq 0 <br><br>\\therefore\\,\\,\\, \\left| \\Delta M \\over M \\right| = 2 \\Delta T \\over T = 2 \u00d7 10<sup>-2</sup>",
+      "solution": "From kepler's law, <br><br>T = 2\\pi \\sqrt r^3 \\over GM <br><br> \\Rightarrow \\,\\,\\,T<sup>2</sup> = 4\\pi ^2 \\over GMr^3 <br><br> \\Rightarrow \\,\\,\\, M = 4\\pi ^2 \\over G \u00d7 r^3 \\over T^2 <br><br>\\therefore\\,\\,\\, \\Delta M \\over M = 2 \\Delta T \\over T + 3 \\Delta r \\over r <br><br>as \\Delta r \\over r \\simeq 0 <br><br>\\therefore\\,\\,\\, \\left| \\Delta M \\over M \\| = 2 \\Delta T \\over T = 2 \u00d7 10<sup>-2</sup>",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
