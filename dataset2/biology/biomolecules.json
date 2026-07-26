@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "chapter": "Biomolecules",
-  "total_questions": 163,
+  "total_questions": 158,
   "questions": [
     {
       "question": "[NEET 2019 | Biology] Restriction enzymes cut DNA at specific sequences called:",
@@ -12,24 +12,9 @@
         "D": "Enhancer sequences"
       },
       "answer": "A",
-      "solution": "# Correct Answer: **(B) Palindromic sequences** ## Step-by-Step Explanation ### What are Restriction Enzymes? Restriction enzymes (also called restriction endonucleases) are bacterial enzymes that cut DNA at specific recognition sequences. ### Why Palindromic Sequences? **Palindromic sequences** have a unique property: - They read the **same in the 5' \\u2192 3' direction on both strands** of the DNA double helix - This symmetry allows the restriction enzyme to recognize the same sequence on both strands **Example: EcoRI restriction site** ``` 5'...GAATTC...3' 3'...CTTAAG...5' ``` Reading 5' to 3' on both strands gives GAATTC (palindromic) ### Why Other Options are Wrong: | Option | Why it's Wrong | |--------|---| | **(A) Promoter sequences** | These are binding sites for RNA polymerase, involved in transcription initiation | | **(C) Operator sequences** | These are regulatory regions where repressor proteins bind to block transcription | | **(D) Enhancer sequences** | These are distal regulatory elements that increase transcription rates | ## Key Formula/Fact to Remember **Palindromic nature** = Restriction enzyme recognition sites always have **bilateral symmetry**, allowing the enzyme (which typically functions as a dimer) to recognize and cut the sequence precisely on both DNA strands. --- **NEET Tip:** Remember that restriction enzymes are bacterial defense mechanisms, and they evolved to recognize palindromic sequences because this symmetry allows their dimeric structure to bind symmetrically to DNA.",
+      "solution": "# Correct Answer: **(B) Palindromic sequences** ## Step-by-Step Explanation ### What are Restriction Enzymes? Restriction enzymes (also called restriction endonucleases) are bacterial enzymes that cut DNA at specific recognition sequences. ### Why Palindromic Sequences? **Palindromic sequences** have a unique property: - They read the **same in the 5' \\u\u2082\u2081\u2089\u2082\u2083' direction on both strands** of the DNA double helix - This symmetry allows the restriction enzyme to recognize the same sequence on both strands **Example: EcoRI restriction site** ``` 5'...GAATTC...3' 3'...CTTAAG...5' ``` Reading 5' to 3' on both strands gives GAATTC (palindromic) ### Why Other Options are Wrong: | Option | Why it's Wrong | |--------|---| | **(A) Promoter sequences** | These are binding sites for RNA polymerase, involved in transcription initiation | | **(C) Operator sequences** | These are regulatory regions where repressor proteins bind to block transcription | | **(D) Enhancer sequences** | These are distal regulatory elements that increase transcription rates | ## Key Formula/Fact to Remember **Palindromic nature** = Restriction enzyme recognition sites always have **bilateral symmetry**, allowing the enzyme (which typically functions as a dimer) to recognize and cut the sequence precisely on both DNA strands. --- **NEET Tip:** Remember that restriction enzymes are bacterial defense mechanisms, and they evolved to recognize palindromic sequences because this symmetry allows their dimeric structure to bind symmetrically to DNA.",
       "exam": "NEET 2019",
       "year": 2019,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "Match the following enzymes with their functions Select the correct option from the following",
-      "options": {
-        "A": "A",
-        "B": "(iii)",
-        "C": "(i)",
-        "D": "(iv)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The correct matches are **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Biomolecules"
     },
@@ -57,24 +42,9 @@
         "D": "The C-terminus of the enzyme"
       },
       "answer": "B",
-      "solution": "## **Correct Answer: (B)** --- ## **Step-by-Step Explanation:** ### What is an Active Site? The **active site** is a **specific three-dimensional pocket or cleft** on the enzyme surface where: - The substrate molecule binds - The catalytic reaction occurs - The product is released ### Key Characteristics: | Feature | Details | |---------|---------| | **Location** | Small, specific region of the enzyme | | **Structure** | Formed by amino acid residues from different parts of the polypeptide chain | | **Function** | Substrate binding + catalysis | | **Specificity** | Determines which substrate binds (Lock & Key model) | --- ## **Why Other Options Are Wrong:** **(A) The entire surface** \\u274c - Only a small, localized region functions as the active site - The rest of the enzyme provides structural support **(C) A cofactor** \\u274c - Cofactors (like metal ions or coenzymes) may *assist* the active site - But they are **not** the active site itself **(D) C-terminus** \\u274c - The active site can be formed by amino acids from any part of the chain - It's not restricted to the C-terminal end --- ## **Key Concept to Remember:** **\"Enzyme-Substrate Interaction\"** ``` Enzyme + Substrate \\u2192 [ES Complex] \\u2192 Product + Enzyme (Active site interaction) ``` The active site shows **complementarity** to the substrate's shape and chemical properties\\\u2014this is why enzymes are so specific and efficient!",
+      "solution": "## **Correct Answer: (B)** --- ## **Step-by-Step Explanation:** ### What is an Active Site? The **active site** is a **specific three-dimensional pocket or cleft** on the enzyme surface where: - The substrate molecule binds - The catalytic reaction occurs - The product is released ### Key Characteristics: | Feature | Details | |---------|---------| | **Location** | Small, specific region of the enzyme | | **Structure** | Formed by amino acid residues from different parts of the polypeptide chain | | **Function** | Substrate binding + catalysis | | **Specificity** | Determines which substrate binds (Lock & Key model) | --- ## **Why Other Options Are Wrong:** **(A) The entire surface** \\u\u2082\u2087\u2084c - Only a small, localized region functions as the active site - The rest of the enzyme provides structural support **(C) A cofactor** \\u\u2082\u2087\u2084c - Cofactors (like metal ions or coenzymes) may *assist* the active site - But they are **not** the active site itself **(D) C-terminus** \\u\u2082\u2087\u2084c - The active site can be formed by amino acids from any part of the chain - It's not restricted to the C-terminal end --- ## **Key Concept to Remember:** **\"Enzyme-Substrate Interaction\"** ``` Enzyme + Substrate \\u\u2082\u2081\u2089\u2082 [ES Complex] \\u\u2082\u2081\u2089\u2082 Product + Enzyme (Active site interaction) ``` The active site shows **complementarity** to the substrate's shape and chemical properties\\\u2014this is why enzymes are so specific and efficient!",
       "exam": "NEET 2019",
       "year": 2019,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "The enzyme salivary amylase breaks down starch into maltase at a pH of",
-      "options": {
-        "A": "A",
-        "B": "1",
-        "C": "8",
-        "D": "8"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The saliva secreted into the oral cavity contains electrolytes and enzymes, such as salivary amylase and lysozyme. The chemical process of digestion is initiated in the oral cavity by the hydrolytic action of the carbohydrate splitting enzyme, the salivary amylase. Approximately 30% of starch is hydrolysed here by this enzyme (optimum pH 6.8) into a disaccharide: maltose. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Biomolecules"
     },
@@ -96,13 +66,13 @@
     {
       "question": "[NEET 2016 | Biology] Miller and Urey's experiment demonstrated the abiotic synthesis of amino acids from:",
       "options": {
-        "A": "O\\u2082, N\\u2082, H\\u2082O, CO\\u2082",
-        "B": "CH\\u2084, NH\\u2083, H\\u2082O, H\\u2082",
-        "C": "CO\\u2082, H\\u2082, N\\u2082, HCN",
-        "D": "H\\u2082O, CH\\u2084, O\\u2082, N\\u2082"
+        "A": "O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082O, CO\\u\u2082\u2080\u2088\u2082",
+        "B": "CH\\u\u2082\u2080\u2088\u2084, NH\\u\u2082\u2080\u2088\u2083, H\\u\u2082\u2080\u2088\u2082O, H\\u\u2082\u2080\u2088\u2082",
+        "C": "O\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, HCN",
+        "D": "H\\u\u2082\u2080\u2088\u2082O, CH\\u\u2082\u2080\u2088\u2084, O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082"
       },
       "answer": "A",
-      "solution": "# Miller-Urey Experiment - Correct Answer ## **Answer: (B) CH\\u2084, NH\\u2083, H\\u2082O, H\\u2082** --- ## Step-by-Step Explanation ### The Experimental Setup (1952) Miller and Urey created a closed apparatus containing: - **CH\\u2084** (Methane) - **NH\\u2083** (Ammonia) - **H\\u2082O** (Water vapor) - **H\\u2082** (Hydrogen gas) Plus an **electric discharge** (simulating lightning) as an energy source. ### Why These Gases? These gases were chosen because scientists believed the **early Earth's atmosphere was reducing (anaerobic)**, not oxidizing. This meant: - No free oxygen (O\\u2082) - Rich in simple organic molecules - Abundant in hydrogen ### What They Discovered After one week of continuous electric discharge, they found: - **5 amino acids** initially (later analysis found ~20) - Other organic compounds - This proved abiotic synthesis of organic molecules was possible --- ## Why Other Options Are Wrong | Option | Problem | |--------|---------| | **(A)** O\\u2082, N\\u2082, H\\u2082O, CO\\u2082 | Contains O\\u2082 (oxidizing atmosphere) - incorrect for early Earth | | **(C)** CO\\u2082, H\\u2082, N\\u2082, HCN | Doesn't match the actual experimental setup | | **(D)** H\\u2082O, CH\\u2084, O\\u2082, N\\u2082 | Contains O\\u2082, which inhibits amino acid formation | --- ## Key Concept to Remember **The Miller-Urey experiment = CH\\u2084 + NH\\u2083 + H\\u2082O + H\\u2082 + Energy (electric discharge) \\u2192 Amino acids** This experiment supported the **Oparin-Haldane hypothesis** about the origin of life on Earth.",
+      "solution": "# Miller-Urey Experiment - Correct Answer ## **Answer: (B) CH\\u\u2082\u2080\u2088\u2084, NH\\u\u2082\u2080\u2088\u2083, H\\u\u2082\u2080\u2088\u2082O, H\\u\u2082\u2080\u2088\u2082** --- ## Step-by-Step Explanation ### The Experimental Setup (1952) Miller and Urey created a closed apparatus containing: - **CH\\u\u2082\u2080\u2088\u2084** (Methane) - **NH\\u\u2082\u2080\u2088\u2083** (Ammonia) - **H\\u\u2082\u2080\u2088\u2082O** (Water vapor) - **H\\u\u2082\u2080\u2088\u2082** (Hydrogen gas) Plus an **electric discharge** (simulating lightning) as an energy source. ### Why These Gases? These gases were chosen because scientists believed the **early Earth's atmosphere was reducing (anaerobic)**, not oxidizing. This meant: - No free oxygen (O\\u\u2082\u2080\u2088\u2082) - Rich in simple organic molecules - Abundant in hydrogen ### What They Discovered After one week of continuous electric discharge, they found: - **5 amino acids** initially (later analysis found ~20) - Other organic compounds - This proved abiotic synthesis of organic molecules was possible --- ## Why Other Options Are Wrong | Option | Problem | |--------|---------| | **(A)** O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082O, CO\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082 (oxidizing atmosphere) - incorrect for early Earth | | **(C)** CO\\u\u2082\u2080\u2088\u2082, H\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082, HCN | Doesn't match the actual experimental setup | | **(D)** H\\u\u2082\u2080\u2088\u2082O, CH\\u\u2082\u2080\u2088\u2084, O\\u\u2082\u2080\u2088\u2082, N\\u\u2082\u2080\u2088\u2082 | Contains O\\u\u2082\u2080\u2088\u2082, which inhibits amino acid formation | --- ## Key Concept to Remember **The Miller-Urey experiment = CH\\u\u2082\u2080\u2088\u2084 + NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O + H\\u\u2082\u2080\u2088\u2082 + Energy (electric discharge) \\u\u2082\u2081\u2089\u2082 Amino acids** This experiment supported the **Oparin-Haldane hypothesis** about the origin of life on Earth.",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Biology",
@@ -111,7 +81,7 @@
     {
       "question": "Match List-I and List-II. List-I (A. Head; B. Middle piece; C. Acrosome; D. Tail) List-II (I. Enzymes; II. Sperm motility; III. Energy; IV. Genetic material) Choose the correct answer from the options given below:",
       "options": {
-        "A": "A-III, B-IV, C-II, D-I",
+        "A": "-III, B-IV, C-II, D-I",
         "B": "A-III, B-II, C-I, D-IV",
         "C": "A-IV, B-III, C-I, D-II",
         "D": "A-IV, B-III, C-II, D-I"
@@ -141,9 +111,9 @@
     {
       "question": "The protein portion of an enzyme is called:",
       "options": {
-        "A": "Apoenzyme",
+        "A": "poenzyme",
         "B": "Prosthetic group",
-        "C": "Cofactor",
+        "C": "ofactor",
         "D": "Coenzyme"
       },
       "answer": "A",
@@ -154,7 +124,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Which one of the following enzymes contains \\u2018Haem\\u2019 as the prosthetic group?",
+      "question": "Which one of the following enzymes contains \\u\u2082\u2080\u2081\u2088Haem\\u\u2082\u2080\u2081\u2089 as the prosthetic group?",
       "options": {
         "A": "Succinate dehydrogenase",
         "B": "Catalase",
@@ -171,7 +141,7 @@
     {
       "question": "Match List-I with List-II. List-I: A. Adenosine; B. Adenylic acid; C. Adenine; D. Alanine List-II: I. Nitrogen base; II. Nucleotide; III. Nucleoside; IV. Amino acid Choose the option with all correct matches.",
       "options": {
-        "A": "A-III, B-II, C-I, D-IV",
+        "A": "-III, B-II, C-I, D-IV",
         "B": "A-II, B-III, C-I, D-IV",
         "C": "A-III, B-IV, C-II, D-I",
         "D": "A-III, B-II, C-IV, D-I"
@@ -184,7 +154,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Name the class of enzyme that usually catalyze the following reaction: S\\u2212G + S# \\u2192 S + S#\\u2212G Where, G \\u2192 a group other than hydrogen; S \\u2192 a substrate; S# \\u2192 another substrate",
+      "question": "Name the class of enzyme that usually catalyze the following reaction: S\\u\u2082\u2082\u2081\u2082G + S# \\u\u2082\u2081\u2089\u2082 S + S#\\u\u2082\u2082\u2081\u2082G Where, G \\u\u2082\u2081\u2089\u2082 a group other than hydrogen; S \\u\u2082\u2081\u2089\u2082 a substrate; S# \\u\u2082\u2081\u2089\u2082 another substrate",
       "options": {
         "A": "Transferase",
         "B": "Ligase",
@@ -202,8 +172,8 @@
       "question": "Which of the following enzyme(s) are NOT essential for gene cloning? A. Restriction enzymes B. DNA ligase C. DNA mutase D. DNA recombinase E. DNA polymerase Choose the correct answer from the options given below :",
       "options": {
         "A": "D and E only",
-        "B": "B and C only",
-        "C": "C and D only",
+        "B": "and C only",
+        "C": "and D only",
         "D": "A and B only"
       },
       "answer": "A",
@@ -246,9 +216,9 @@
     {
       "question": "Which one of the following statements is correct, with reference to enzymes?",
       "options": {
-        "A": "Apoenzyme = Holoenzyme + Coenzyme",
+        "A": "poenzyme = Holoenzyme + Coenzyme",
         "B": "Holoenzyme = Apoenzyme + Coenzyme",
-        "C": "Coenzyme = Apoenzyme + Holoenzyme",
+        "C": "oenzyme = Apoenzyme + Holoenzyme",
         "D": "Holoenzyme = Coenzyme + Cofactor"
       },
       "answer": "A",
@@ -294,7 +264,7 @@
         "A": "BOD incubator",
         "B": "Sludge digester",
         "C": "Industrial oven",
-        "D": "Bioreactor MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "Bioreactor MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) BOD incubator** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -339,7 +309,7 @@
         "A": "DNA polymerase",
         "B": "RNA polymerase",
         "C": "DNA ligase",
-        "D": "DNA helicase"
+        "D": "NA helicase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) DNA polymerase** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -351,13 +321,13 @@
     {
       "question": "From his experiments, S.L. Miller produced amino acids by mixing the following in a closed flask:",
       "options": {
-        "A": "CH4, H2, NH3 and water vapor at 600\u00b0C",
-        "B": "CH3, H2, NH3 and water vapor at 600\u00b0C",
-        "C": "CH4, H2, NH3 and water vapor at 800\u00b0C",
-        "D": "CH3, H2, NH3 and water vapor at 800\u00b0C"
+        "A": "CH\u2084, H\u2082, NH\u2083 and water vapor at 600\u00b0C",
+        "B": "CH\u2083, H\u2082, NH\u2083 and water vapor at 600\u00b0C",
+        "C": "H\u2084, H\u2082, NH\u2083 and water vapor at 800\u00b0C",
+        "D": "CH\u2083, H\u2082, NH\u2083 and water vapor at 800\u00b0C"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) CH4, H2, NH3 and water vapor at 600\u00b0C** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) CH\u2084, H\u2082, NH\u2083 and water vapor at 600\u00b0C** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -409,12 +379,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Which is the \\u201cOnly enzyme\\u201d that has \\u201cCapability\\u201d to catalyse Initiation, Elongation and Termination in the process of transcription in prokaryotes?",
+      "question": "Which is the \\u\u2082\u2080\u2081cOnly enzyme\\u\u2082\u2080\u2081d that has \\u\u2082\u2080\u2081cCapability\\u\u2082\u2080\u2081d to catalyse Initiation, Elongation and Termination in the process of transcription in prokaryotes?",
       "options": {
         "A": "DNA Ligase",
         "B": "DNase",
         "C": "DNA dependent DNA polymerase",
-        "D": "DNA dependent RNA polymerase MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "NA dependent RNA polymerase MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) DNA Ligase** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -439,12 +409,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Plasmid pBR322 has PsI restriction enzyme site within gene ampR that confers ampicillin resistance. If this enzyme is used for inserting a gene for \\u03b2-galactoside production and the recombinant plasmid is inserted in a E.coli strain",
+      "question": "Plasmid pBR\u2083\u2082\u2082 has PsI restriction enzyme site within gene ampR that confers ampicillin resistance. If this enzyme is used for inserting a gene for \\u\u2080\u2083b\u2082-galactoside production and the recombinant plasmid is inserted in a E.coli strain",
       "options": {
         "A": "it will lead to lysis of host cell.",
         "B": "it will be able to produce a novel protein with dual ability",
         "C": "it will not be able to confer ampicillin resistance to the host cell",
-        "D": "the transformed cells will have the ability to resist ampicillin as well as produce \\u03b2-galactoside"
+        "D": "the transformed cells will have the ability to resist ampicillin as well as produce \\u\u2080\u2083b\u2082-galactoside"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) it will lead to lysis of host cell.** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -459,7 +429,7 @@
         "A": "Epinephrine",
         "B": "Thrombokinase",
         "C": "Thrombin",
-        "D": "Renin MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "Renin MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Epinephrine** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -471,13 +441,13 @@
     {
       "question": "In the following palindromic base sequence of DNA, which one can be cut easily by a particular restriction enzyme?",
       "options": {
-        "A": "5\\u2019 GATACT 3\\u2019 ; 3\\u2019 CTATGA 5\\u2019",
-        "B": "5\\u2019 GAATTC 3\\u2019 ; 3\\u2019 CTTAAG 5\\u2019",
-        "C": "5\\u2019 CTCAGT 3\\u2019 ; 3\\u2019 GAGTCA 5\\u2019",
-        "D": "5\\u2019 GTATTC 3\\u2019 ; 3\\u2019 CATAAG 5\\u2019 MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "A": "5\\u\u2082\u2080\u2081\u2089 GATACT 3\\u\u2082\u2080\u2081\u2089 ; 3\\u\u2082\u2080\u2081\u2089 CTATGA 5\\u\u2082\u2080\u2081\u2089",
+        "B": "5\\u\u2082\u2080\u2081\u2089 GAATTC 3\\u\u2082\u2080\u2081\u2089 ; 3\\u\u2082\u2080\u2081\u2089 CTTAAG 5\\u\u2082\u2080\u2081\u2089",
+        "C": "5\\u\u2082\u2080\u2081\u2089 CTCAGT 3\\u\u2082\u2080\u2081\u2089 ; 3\\u\u2082\u2080\u2081\u2089 GAGTCA 5\\u\u2082\u2080\u2081\u2089",
+        "D": "5\\u\u2082\u2080\u2081\u2089 GTATTC 3\\u\u2082\u2080\u2081\u2089 ; 3\\u\u2082\u2080\u2081\u2089 CATAAG 5\\u\u2082\u2080\u2081\u2089 MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 5\\u2019 GATACT 3\\u2019 ; 3\\u2019 CTATGA 5\\u2019** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) 5\\u\u2082\u2080\u2081\u2089 GATACT 3\\u\u2082\u2080\u2081\u2089 ; 3\\u\u2082\u2080\u2081\u2089 CTATGA 5\\u\u2082\u2080\u2081\u2089** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -502,7 +472,7 @@
       "question": "Given below are two statements: Statement I: A protein is imagined as a line, the left end represented by first amino acid (C-terminal) and the right end represented by last amino acid (N-terminal) Statement II: Adult human haemoglobin, consists of 4 subunits (two subunits of alpha type and two subunits of beta type.) In the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "Both statement I and Statement II are false.",
+        "B": "oth statement I and Statement II are false.",
         "C": "Statement I is correct but Statement II is false.",
         "D": "Statement I is incorrect but Statement II is true."
       },
@@ -517,7 +487,7 @@
       "question": "Given below are two statements: Statement I: Low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat. Statement II: When the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of the enzyme, it is known as competitive inhibitor. In the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both Statements I and II are true.",
-        "B": "Both statements I and II are false.",
+        "B": "oth statements I and II are false.",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false, but Statement II is true."
       },
@@ -529,10 +499,10 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Given below are two statements: Statement I: RuBisCO is the most abundant enzyme in the world. Statement II: Photorespiration does not occur in C4 plants. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "question": "Given below are two statements: Statement I: RuBisCO is the most abundant enzyme in the world. Statement II: Photorespiration does not occur in C\u2084 plants. In the light of the above statements, choose the most appropriate answer from the options given below:",
       "options": {
         "A": "Both Statement I and Statement II are correct",
-        "B": "Both Statement I and Statement II are incorrect",
+        "B": "oth Statement I and Statement II are incorrect",
         "C": "Statement I is correct but Statement II is incorrect",
         "D": "Statement I is incorrect but Statement II is correct"
       },
@@ -561,10 +531,10 @@
     {
       "question": "Regarding catalytic cycle of an enzyme action, select the correct sequential steps: A. Substrate enzyme complex formation. B. Free enzyme ready to bind with another substrate. C. Release of products. D. Chemical bonds of the substrate broken. E. Substrate binding to active site. Choose the correct answer from the options given below:",
       "options": {
-        "A": "A, E, B, D, C",
-        "B": "B, A, C, D, E",
-        "C": "E, D, C, B, A",
-        "D": "E, A, D, C, B MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "A": ", E, B, D,",
+        "B": ", A, C, D, E",
+        "C": "E, D, C, B,",
+        "D": "E, A, D, C, B MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A, E, B, D, C** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Biomolecules*, option (A) correctly satisfies the given biological statement.",
@@ -589,9 +559,9 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Match List I with List II. List I A. \\u03b1-1 antitrypsin B. Cry 1Ab C. Cry 1Ac D. Enzyme replacement therapy List II I. Cotton bollworm II. ADA deficiency III. Emphysema IV. Corn borer Choose the correct answer from the options given below.",
+      "question": "Match List I with List II. List IA. \\u\u2080\u2083b\u2081-1 antitrypsin B. Cry 1Ab C. Cry 1Ac D. Enzyme replacement therapy List II I. Cotton bollworm II. ADA deficiency III. Emphysema IV. Corn borer Choose the correct answer from the options given below.",
       "options": {
-        "A": "A-III, B-I, C-II, D-IV",
+        "A": "-III, B-I, C-II, D-IV",
         "B": "A-III, B-IV, C-I, D-II",
         "C": "A-II, B-IV, C-I, D-III",
         "D": "A-II, B-I, C-IV, D-III"
@@ -651,7 +621,7 @@
     {
       "question": "ADA is an enzyme, which is found lacking in a genetic disorder SCID. What is the full form of ADA?",
       "options": {
-        "A": "Adenosine Deoxyaminase",
+        "A": "denosine Deoxyaminase",
         "B": "Adenosine Deaminase",
         "C": "Aspartate Deaminase",
         "D": "Arginine Deaminase"
@@ -667,7 +637,7 @@
       "question": "The enzyme employed for amplification of DNA during PCR is commercially obtained from",
       "options": {
         "A": "Streptococcus pyogenes",
-        "B": "Bacillus licheniformis",
+        "B": "acillus licheniformis",
         "C": "Trichoderma reesi",
         "D": "Thermos aquaticus"
       },
@@ -729,7 +699,7 @@
         "A": "Single stranded RNA",
         "B": "Double stranded DNA",
         "C": "Single stranded DNA",
-        "D": "Double stranded RNA"
+        "D": "ouble stranded RNA"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Double stranded DNA** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (B) is the accurate scientific choice.",
@@ -754,7 +724,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Nucleic acid segment tagged wit5h a radioactive molecule is called",
+      "question": "Nucleic acid segment tagged wit\u2085h a radioactive molecule is called",
       "options": {
         "A": "Clone",
         "B": "Probe",
@@ -771,7 +741,7 @@
     {
       "question": "Restriction enzyme was discovered by",
       "options": {
-        "A": "Alexander Fleming",
+        "A": "lexander Fleming",
         "B": "Waksman",
         "C": "Berg",
         "D": "Smith, Nathan and Arber"
@@ -784,7 +754,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Two enzymes responsible for restricting the growth of bacteriophages in \\U0001d438. \\U0001d450\\U0001d45c\\U0001d459\\U0001d456 were isolated. One was",
+      "question": "Two enzymes responsible for restricting the growth of bacteriophages in \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088. \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086 were isolated. One was",
       "options": {
         "A": "Protection of host DNA from the action of restriction endonuclease by adding methyl group to one or two bases usually with in the sequence recognized by restriction enzyme",
         "B": "Able to ligate the two cohesive ends of DNA molecule",
@@ -814,9 +784,9 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Cutting of a piece of DNA from a plasmid was done with the help of \\u2026A\\u2026 enzymes, popularly known as",
+      "question": "Cutting of a piece of DNA from a plasmid was done with the help of \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 enzymes, popularly known as",
       "options": {
-        "A": "A-Tu ligases; B-Molecular glu",
+        "A": "-Tu ligases; B-Molecular glu",
         "B": "A-Restriction enzyme; B-Molecular scissors",
         "C": "A-Joining enzyme; B-Molecular glu",
         "D": "A-DNA polymerases; B-Synthesising enzymes"
@@ -859,7 +829,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Thermostable enzymes \\u2032\\U0001d461\\U0001d44e\\U0001d45e\\u2032 and \\u2032\\U0001d463\\U0001d452\\U0001d45b\\U0001d461\\u2032 isolated from thermophilic bacteria are",
+      "question": "Thermostable enzymes \\u\u2082\u2080\u2083\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e\\u\u2082\u2080\u2083\u2082 and \\u\u2082\u2080\u2083\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\u\u2082\u2080\u2083\u2082 isolated from thermophilic bacteria are",
       "options": {
         "A": "DNA polymerase",
         "B": "DNA ligases",
@@ -891,7 +861,7 @@
     {
       "question": "Restriction enzymes are isolated chiefly from:",
       "options": {
-        "A": "Algae",
+        "A": "lgae",
         "B": "Fungi",
         "C": "Protozoans",
         "D": "Prokaryotes"
@@ -906,7 +876,7 @@
     {
       "question": "Restriction enzymes was discovered by",
       "options": {
-        "A": "Alexander Flemming",
+        "A": "lexander Flemming",
         "B": "Waksman",
         "C": "Berg",
         "D": "Smith, Nathan and Arber"
@@ -919,7 +889,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Which of the following statement is not correct regarding \\U0001d438\\U0001d450\\U0001d45c RI restriction endonuclease enzyme?",
+      "question": "Which of the following statement is not correct regarding \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c RI restriction endonuclease enzyme?",
       "options": {
         "A": "I and II",
         "B": "I and III",
@@ -934,7 +904,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Which of the following statements are correct for the enzyme \\U0001d461\\U0001d44e\\U0001d45e polymerases?",
+      "question": "Which of the following statements are correct for the enzyme \\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e polymerases?",
       "options": {
         "A": "I and II",
         "B": "I and III",
@@ -949,7 +919,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "In the naming of restriction enzymes the first letter is derived from \\u2026A\\u2026 name and next two letters from",
+      "question": "In the naming of restriction enzymes the first letter is derived from \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 name and next two letters from",
       "options": {
         "A": "Genus species strain bacteria",
         "B": "Species genus strain bacteria",
@@ -964,7 +934,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "\\U0001d447\\U0001d44e\\U0001d45e polymerase enzyme used in PCR is isolated from",
+      "question": "\\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2087\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e polymerase enzyme used in PCR is isolated from",
       "options": {
         "A": "Thermus aquaticus",
         "B": "Thermococcus litoralis",
@@ -1011,13 +981,13 @@
     {
       "question": "Taq polymerase enzyme is found in:",
       "options": {
-        "A": "\\U0001d447\\u210e\\U0001d452\\U0001d45f\\U0001d45a\\U0001d462\\U0001d460 \\U0001d44e\\U0001d45e\\U0001d462\\U0001d44e\\U0001d461\\U0001d452\\U0001d450\\U0001d462\\U0001d460",
-        "B": "\\U0001d438. \\U0001d450\\U0001d45c\\U0001d459\\U0001d456",
-        "C": "\\U0001d443\\U0001d460\\U0001d452\\U0001d462\\U0001d451\\U0001d45c\\U0001d45a\\U0001d45c\\U0001d45b\\U0001d44e\\U0001d460",
-        "D": "\\U0001d434g\\U0001d45f\\U0001d45c\\U0001d44f\\U0001d44e\\U0001d450\\U0001d461\\U0001d452\\U0001d45f\\U0001d456\\U0001d462\\U0001d45a"
+        "A": "\\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2087\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080",
+        "B": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088. \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086",
+        "C": "\\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080",
+        "D": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2084g\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2084f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085a"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) \\U0001d447\\u210e\\U0001d452\\U0001d45f\\U0001d45a\\U0001d462\\U0001d460 \\U0001d44e\\U0001d45e\\U0001d462\\U0001d44e\\U0001d461\\U0001d452\\U0001d450\\U0001d462\\U0001d460** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) \\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2087\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1039,7 +1009,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "\\U0001d449\\U0001d452\\U0001d45b\\U0001d461 polymerase enzyme used in PCR is isolated from",
+      "question": "\\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081 polymerase enzyme used in PCR is isolated from",
       "options": {
         "A": "Thermococcus litoralis",
         "B": "Thermus aquaticus",
@@ -1101,7 +1071,7 @@
     {
       "question": "The enzyme used for cutting DNA segment in genetic engineering is:",
       "options": {
-        "A": "ATP-ase",
+        "A": "TP-ase",
         "B": "Ligase",
         "C": "DNA polymerase",
         "D": "Restriction endonuclease"
@@ -1144,7 +1114,7 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "In addition to \\U0001d461\\U0001d44e\\U0001d45e polymerase enzyme which other thermostable DNA polymerases have been isolated to",
+      "question": "In addition to \\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085e polymerase enzyme which other thermostable DNA polymerases have been isolated to",
       "options": {
         "A": "Vent polymerase",
         "B": "Pfu polymerase",
@@ -1191,7 +1161,7 @@
     {
       "question": "Physiologically urea is produced by the action of an enzyme",
       "options": {
-        "A": "Arginase",
+        "A": "rginase",
         "B": "Urease",
         "C": "Uricase",
         "D": "None of these"
@@ -1208,7 +1178,7 @@
       "options": {
         "A": "Proximal tubule",
         "B": "Distal tubule",
-        "C": "Collecting duct",
+        "C": "ollecting duct",
         "D": "Loop of Henle"
       },
       "answer": "A",
@@ -1221,7 +1191,7 @@
     {
       "question": "Which one of the following amino acids is not found in proteins?",
       "options": {
-        "A": "Arginine",
+        "A": "rginine",
         "B": "Ornithine",
         "C": "Aspartic acid",
         "D": "Tyrosine"
@@ -1251,13 +1221,13 @@
     {
       "question": "The stage of ornithine cycle at which arginase enzyme is used?",
       "options": {
-        "A": "Ornithine \\u2192citrulline",
-        "B": "Arginine \\u2192ornithine",
-        "C": "Citrulline \\u2192arginosuccinic acid",
-        "D": "Ornithine \\u2192urea"
+        "A": "Ornithine \\u\u2082\u2081\u2089\u2082citrulline",
+        "B": "Arginine \\u\u2082\u2081\u2089\u2082ornithine",
+        "C": "itrulline \\u\u2082\u2081\u2089\u2082arginosuccinic acid",
+        "D": "Ornithine \\u\u2082\u2081\u2089\u2082urea"
       },
       "answer": "B",
-      "solution": "**Correct Answer: (B) Arginine \\u2192ornithine** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (B) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (B) Arginine \\u\u2082\u2081\u2089\u2082ornithine** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1266,7 +1236,7 @@
     {
       "question": "SCID is caused by defective gene coding for the enzyme called",
       "options": {
-        "A": "Adenosine transaminase",
+        "A": "denosine transaminase",
         "B": "Guanosine transaminase",
         "C": "Adenosine deaminase",
         "D": "Guanosine deaminase"
@@ -1281,9 +1251,9 @@
     {
       "question": "Defect in amino acid metabolism may result in",
       "options": {
-        "A": "Albinism",
+        "A": "lbinism",
         "B": "Porphyria",
-        "C": "Wilson\\u2019s disease",
+        "C": "Wilson\\u\u2082\u2080\u2081\u2089s disease",
         "D": "Phenylketonuria"
       },
       "answer": "D",
@@ -1374,7 +1344,7 @@
         "A": "Oxidative amination",
         "B": "Reductive amination",
         "C": "Transamination",
-        "D": "Deamination"
+        "D": "eamination"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Transamination** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (C) is the accurate scientific choice.",
@@ -1388,7 +1358,7 @@
       "options": {
         "A": "C, H, O, N, S",
         "B": "C, O, N, S",
-        "C": "C, O, P, S",
+        "C": ", O, P, S",
         "D": "C, H, O, N, P"
       },
       "answer": "D",
@@ -1463,7 +1433,7 @@
       "options": {
         "A": "Fixation of nitrogen in legumes",
         "B": "Fixation of atmospheric nitrogen",
-        "C": "Conversion from nitrate to nitrite in legumes",
+        "C": "onversion from nitrate to nitrite in legumes",
         "D": "Conversion from ammonium to nitrate in soil"
       },
       "answer": "A",
@@ -1491,13 +1461,13 @@
     {
       "question": "An enzyme that can stimulate germination of barley seeds is",
       "options": {
-        "A": "\\U0001d6fc-amylase",
+        "A": "\\U\u2080\u2080\u2080\u2081d\u2086fc-amylase",
         "B": "Lipase",
         "C": "Protease",
         "D": "Invertase"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) \\U0001d6fc-amylase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) \\U\u2080\u2080\u2080\u2081d\u2086fc-amylase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1534,12 +1504,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "Identify enzyme A in the given reaction of Kreb\\u2019s cycle",
+      "question": "Identify enzyme A in the given reaction of Kreb\\u\u2082\u2080\u2081\u2089s cycle",
       "options": {
         "A": "Oxaloacetate synthetase",
         "B": "Citrate synthetase",
         "C": "Aconitase",
-        "D": "Dehydrogenase"
+        "D": "ehydrogenase"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Citrate synthetase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (B) is the accurate scientific choice.",
@@ -1569,7 +1539,7 @@
         "A": "Non-competitive",
         "B": "Competitive inhibitors",
         "C": "Allosteric modulators",
-        "D": "Denaturation of enzyme"
+        "D": "enaturation of enzyme"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) Allosteric modulators** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (C) is the accurate scientific choice.",
@@ -1579,11 +1549,11 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "The enzyme \\u2026.. is used to catalysed when condensation of acetyl group with oxaloacetic acid and to yield",
+      "question": "The enzyme \\u\u2082\u2080\u2082\u2086.. is used to catalysed when condensation of acetyl group with oxaloacetic acid and to yield",
       "options": {
         "A": "Citrate permeate",
         "B": "citrate synthase",
-        "C": "Citrate burate",
+        "C": "itrate burate",
         "D": "Citrate maliate"
       },
       "answer": "B",
@@ -1599,7 +1569,7 @@
         "A": "Hexokinase",
         "B": "aconitase",
         "C": "Fumarase",
-        "D": "Dehydrogenase"
+        "D": "ehydrogenase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Hexokinase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -1611,7 +1581,7 @@
     {
       "question": "In the production of ethanol, pyruvic acid is first converted to acetaldehyde by the enzyme.",
       "options": {
-        "A": "Alcohol Dehydrogenase",
+        "A": "lcohol Dehydrogenase",
         "B": "Alcohol oxidase",
         "C": "Pyruvate Dehydrogenase",
         "D": "Pyruvate decarboxylase"
@@ -1701,7 +1671,7 @@
     {
       "question": "ATPase enzyme needed for muscle contraction is located in:",
       "options": {
-        "A": "actinin",
+        "A": "ctinin",
         "B": "troponin",
         "C": "myosin",
         "D": "actin."
@@ -1804,27 +1774,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "1 Lipids",
-      "options": {
-        "A": "Three glycerol molecules and one fatty acid molecule",
-        "B": "One glycerol and three fatty acid molecules",
-        "C": "One glycerol and one fatty acid molecule",
-        "D": "Three glycerol and three fatty acid molecules"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) Three glycerol molecules and one fatty acid molecule** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
       "question": "1 Amino acids/proteins The two polypeptides of human insulin are linked together by:",
       "options": {
         "A": "Hydrogen bonds",
         "B": "Phosphodiester bond",
-        "C": "Covalent bond",
-        "D": "Disulphide bridges"
+        "C": "ovalent bond",
+        "D": "isulphide bridges"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Hydrogen bonds** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -1849,27 +1804,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "2 Enzymes",
-      "options": {
-        "A": "Lysozyme",
-        "B": "Ribozyme",
-        "C": "Ligase",
-        "D": "Deoxyribonuclease"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) Lysozyme** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
       "question": "1 \u00b7 NEET 2016 Phase 2 Amino acids/proteins Which one of the following statements is wrong?",
       "options": {
         "A": "Sucrose is a disaccharide",
         "B": "Cellulose is a polysaccharide",
         "C": "Uracil is a pyrimidine",
-        "D": "Glycine is a sulphur containing amino acid Two ways to go deeper on this chapter Choose your next step \\U0001f4d6 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u2192 \\u26a1 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u22121 marking, countdown timer. Free in the app. Generate \\u2192"
+        "D": "Glycine is a sulphur containing amino acid Two ways to go deeper on this chapter Choose your next step \\U\u2080\u2080\u2080\u2081f\u2084d\u2086 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u\u2082\u2081\u2089\u2082 \\u\u2082\u2086a\u2081 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u\u2082\u2082\u2081\u2082\u2081 marking, countdown timer. Free in the app. Generate \\u\u2082\u2081\u2089\u2082"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Sucrose is a disaccharide** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -1881,9 +1821,9 @@
     {
       "question": "of the following statements is correct, with reference to enzymes?",
       "options": {
-        "A": "Apoenzyme = Holoenzyme + Coenzyme",
+        "A": "poenzyme = Holoenzyme + Coenzyme",
         "B": "Holoenzyme = Apoenzyme + Coenzyme",
-        "C": "Coenzyme = Apoenzyme + Holoenzyme",
+        "C": "oenzyme = Apoenzyme + Holoenzyme",
         "D": "Holoenzyme = Coenzyme + Cofactor"
       },
       "answer": "A",
@@ -1941,7 +1881,7 @@
     {
       "question": "Concanavalin",
       "options": {
-        "A": "an alkaloid",
+        "A": "n alkaloid",
         "B": "an essential oil",
         "C": "a lectin",
         "D": "a pigment"
@@ -1956,7 +1896,7 @@
     {
       "question": "Purines found both in DNA and RNA are",
       "options": {
-        "A": "Adenine and thymine",
+        "A": "denine and thymine",
         "B": "Adenine and guanine",
         "C": "Guanine and cytosine",
         "D": "Cytosine and thymine"
@@ -1974,7 +1914,7 @@
         "A": "RNA",
         "B": "Proteins",
         "C": "Triacylglycerides",
-        "D": "DNA"
+        "D": "NA"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) RNA** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2018,7 +1958,7 @@
       "options": {
         "A": "Cellulose, lecithin",
         "B": "Inulin, insulin",
-        "C": "Chitin, cholesterol",
+        "C": "hitin, cholesterol",
         "D": "Glycerol, trypsin"
       },
       "answer": "A",
@@ -2108,7 +2048,7 @@
       "options": {
         "A": "Cutin",
         "B": "Cellulose",
-        "C": "Chitin",
+        "C": "hitin",
         "D": "Glucosamine"
       },
       "answer": "A",
@@ -2128,21 +2068,6 @@
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) (a), (b) and (c) only** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Biomolecules"
-    },
-    {
-      "question": "NEET 2022",
-      "options": {
-        "A": "C12H20O10",
-        "B": "C12H24O12",
-        "C": "C12H22O11",
-        "D": "C12H24O11"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) C12H20O10** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -2181,7 +2106,7 @@
     {
       "question": "2 Carbohydrates Inulin is a polymer of:",
       "options": {
-        "A": "Amino acids",
+        "A": "mino acids",
         "B": "Glucose",
         "C": "Fructose",
         "D": "Galactose"
@@ -2194,10 +2119,10 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "2 Enzymes Given below are two statements: Statement I: RuBisCO is the most abundant enzyme in the world. Statement II: Photorespiration does not occur in C4 plants. In the light of the above statements, choose the most appropriate answer from the options given below:",
+      "question": "2 Enzymes Given below are two statements: Statement I: RuBisCO is the most abundant enzyme in the world. Statement II: Photorespiration does not occur in C\u2084 plants. In the light of the above statements, choose the most appropriate answer from the options given below:",
       "options": {
         "A": "Both Statement I and Statement II are correct",
-        "B": "Both Statement I and Statement II are incorrect",
+        "B": "oth Statement I and Statement II are incorrect",
         "C": "Statement I is correct but Statement II is incorrect",
         "D": "Statement I is incorrect but Statement II is correct"
       },
@@ -2212,7 +2137,7 @@
       "question": "1 Amino acids/proteins Given below are two statements: Statement I:",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "Both statement I and Statement II are false.",
+        "B": "oth statement I and Statement II are false.",
         "C": "Statement I is correct but Statement II is false.",
         "D": "Statement I is incorrect but Statement II is true."
       },
@@ -2227,7 +2152,7 @@
       "question": "1 Enzymes Given below are two statements: Statement I: Low temperature preserves the enzyme in a temporarily inactive state whereas high temperature destroys enzymatic activity because proteins are denatured by heat. Statement II: When the inhibitor closely resembles the substrate in its molecular structure and inhibits the activity of the enzyme, it is known as competitive inhibitor. In the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both Statements I and II are true.",
-        "B": "Both statements I and II are false.",
+        "B": "oth statements I and II are false.",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false, but Statement II is true."
       },
@@ -2244,7 +2169,7 @@
         "A": "Sccinic dehydrogenase",
         "B": "Amylase",
         "C": "Lipase",
-        "D": "Dinitrogenase"
+        "D": "initrogenase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Sccinic dehydrogenase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2256,7 +2181,7 @@
     {
       "question": "Match List I with List II: List I: A. Lipase; B. Nuclease; C. Protease; D. Amylase List II: I. Peptide bond; II. Ester bond; III. Glycosidic bond; IV. Phosphodiester bond Choose the correct answer from the options given below:",
       "options": {
-        "A": "A-III, B-II, C-I, D-IV",
+        "A": "-III, B-II, C-I, D-IV",
         "B": "A-II, B-IV, C-I, D-III",
         "C": "A-IV, B-I, C-III, D-II",
         "D": "A-IV, B-II, C-III, D-I"
@@ -2314,12 +2239,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "acids/proteins Match List-I with List-II: List-I A. Starch B. Antibody C. Concanavalin",
+      "question": "acids/proteins Match List-I with List-II: List-IA. Starch B. Antibody C. Concanavalin",
       "options": {
-        "A": "A. A-I, B-II, C-IV, D-III",
-        "B": "B. A-II, B-I, C-IV, D-III",
-        "C": "C. A-II, B-I, C-III, D-IV",
-        "D": "D. A-I, B-II, C-III, D-IV"
+        "A": "-I, B-II, C-IV, D-III",
+        "B": "A-II, B-I, C-IV, D-III",
+        "C": "A-II, B-I, C-III, D-IV",
+        "D": "A-I, B-II, C-III, D-IV"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A. A-I, B-II, C-IV, D-III** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2331,7 +2256,7 @@
     {
       "question": "List-I and List-II. List-I (A. Head; B. Middle piece; C. Acrosome; D. Tail) List-II (I. Enzymes; II. Sperm motility; III. Energy; IV. Genetic material) Choose the correct answer from the options given below: (NEET 2025)",
       "options": {
-        "A": "A-III, B-IV, C-II, D-I",
+        "A": "-III, B-IV, C-II, D-I",
         "B": "A-III, B-II, C-I, D-IV",
         "C": "A-IV, B-III, C-I, D-II",
         "D": "A-IV, B-III, C-II, D-I"
@@ -2349,7 +2274,7 @@
         "A": "DNA polymerase",
         "B": "RNA polymerase",
         "C": "DNA ligase",
-        "D": "DNA helicase"
+        "D": "NA helicase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) DNA polymerase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2359,12 +2284,12 @@
       "chapter": "Biomolecules"
     },
     {
-      "question": "the \\u201cOnly enzyme\\u201d that has \\u201cCapability\\u201d to catalyse Initiation, Elongation and Termination in the process of transcription in prokaryotes?",
+      "question": "the \\u\u2082\u2080\u2081cOnly enzyme\\u\u2082\u2080\u2081d that has \\u\u2082\u2080\u2081cCapability\\u\u2082\u2080\u2081d to catalyse Initiation, Elongation and Termination in the process of transcription in prokaryotes?",
       "options": {
         "A": "DNA Ligase",
         "B": "DNase",
         "C": "DNA dependent DNA polymerase",
-        "D": "DNA dependent RNA polymerase"
+        "D": "NA dependent RNA polymerase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) DNA Ligase** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2406,9 +2331,9 @@
     {
       "question": "NEET 2026 (1) Which of the following statements are correct with reference to packaging of DNA helix ? A. Histones are organized to form a unit of eight molecules called histone octamer. B. Histones are negatively charged basic proteins. C. Histones are rich in the basic amino acid residues - lysine and arginine. D. The positively charged DNA is wrapped around the histone octamer to form nucleosome. E. The packaging of chromatin at higher levels requires an additional set of proteins called non-histone chromosomal proteins. Choose the correct answer from the options given below :",
       "options": {
-        "A": "A,",
+        "A": ",",
         "B": "and",
-        "C": "C,",
+        "C": ",",
         "D": "only"
       },
       "answer": "A",
@@ -2421,10 +2346,10 @@
     {
       "question": "the following enzymes synthesizes precursor mRNA?",
       "options": {
-        "A": "A. RNA polymerase I",
-        "B": "B. RNA polymerase II",
-        "C": "C. RNA polymerase III",
-        "D": "D. DNA polymerase"
+        "A": "RNA polymerase I",
+        "B": "RNA polymerase II",
+        "C": "RNA polymerase III",
+        "D": "NA polymerase"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A. RNA polymerase I** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
@@ -2436,13 +2361,13 @@
     {
       "question": "experiments, S.L. Miller produced amino acids by mixing the following in a closed flask:",
       "options": {
-        "A": "CH4, H2, NH3 and water vapor at 600\u00b0C",
-        "B": "CH3, H2, NH3 and water vapor at 600\u00b0C",
-        "C": "CH4, H2, NH3 and water vapor at 800\u00b0C",
-        "D": "CH3, H2, NH3 and water vapor at 800\u00b0C"
+        "A": "CH\u2084, H\u2082, NH\u2083 and water vapor at 600\u00b0C",
+        "B": "CH\u2083, H\u2082, NH\u2083 and water vapor at 600\u00b0C",
+        "C": "H\u2084, H\u2082, NH\u2083 and water vapor at 800\u00b0C",
+        "D": "CH\u2083, H\u2082, NH\u2083 and water vapor at 800\u00b0C"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) CH4, H2, NH3 and water vapor at 600\u00b0C** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) CH\u2084, H\u2082, NH\u2083 and water vapor at 600\u00b0C** **Explanation:** Based on NCERT Biology principles for *Biomolecules*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",

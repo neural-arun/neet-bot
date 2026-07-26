@@ -1,68 +1,8 @@
 {
   "subject": "Physics",
   "chapter": "Electromagnetic Waves",
-  "total_questions": 37,
+  "total_questions": 26,
   "questions": [
-    {
-      "question": "Obtain the displacement current across the plates.",
-      "options": {
-        "A": "A",
-        "B": "3A",
-        "C": "5A",
-        "D": "15A"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 0.15A **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "What is the magnetic field (B) at a particular point in free space and time where an electromagnetic wave with a frequency of 25 MHz travels along the x-direction, and the electric field (E) at that point is 6.3 $\\hatj$ V/m?",
-      "options": {
-        "A": "A",
-        "B": "4 \u00d7 10 \u20139 $\\hati$ T",
-        "C": "1 \u00d7 10 \u20138 $\\hatk$ T",
-        "D": "5 \u00d7 10 \u20138 $\\hatj$ T"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 2.1 \u00d7 10 \u20138 $\\hatk$ T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "In an electromagnetic wave in free space the root mean square value of the electric field is E r m s = 6 V m - 1 . The peak value of the magnetic field is",
-      "options": {
-        "A": "A",
-        "B": "41 \u00c3\u0097 10 - 8 T",
-        "C": "83 \u00c3\u0097 10 - 8 T",
-        "D": "70 \u00c3\u0097 10 - 8 \u00c2 T"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Speed of electromagnetic wave c is given by, E r m s B r m s = c B r m s = E r m s c = 6 3 \u00d7 10 8 B r m s = 2 \u00d7 10 - 8 B r m s = B 0 2 B 0 = 2 \u00d7 B r m s = 2 \u00d7 2 \u00d7 10 - 8 = 2.83 \u00d7 10 - 8 T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "What is the frequency of the plane electromagnetic wave described by the magnetic field equation By = (2 \u00d7 10 \u20137 ) T sin (0.5 \u00d7 10 3 x + 1.5 \u00d7 10 11 t)?",
-      "options": {
-        "A": "A",
-        "B": "5 kHz",
-        "C": "5 GHz C",
-        "D": "9 GHz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 23.9 GHz **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
     {
       "question": "[NEET 2019 | Physics] Which electromagnetic wave has the highest frequency?",
       "options": {
@@ -79,30 +19,15 @@
       "chapter": "Electromagnetic Waves"
     },
     {
-      "question": "Light with an energy flux of 25 \u00d7 10 4 W m - 2 falls on a perfectly reflecting surface at normal incidence. If the surface area is 15 c m 2 , the average force exerted on the surface is:",
-      "options": {
-        "A": "A",
-        "B": "25 \u00c3\u0097 10 - 6 N",
-        "C": "50 \u00c3\u0097 10 - 6 N",
-        "D": "20 \u00c3\u0097 10 - 6 N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Here, we have to calculate the average force calculated at the surface. Given I = 25 \u00d7 10 4 A = 15 \u00d7 10 - 4 We know that, F = 2 I A C = 2 25 \u00d7 10 4 15 \u00d7 10 - 4 3 \u00d7 10 8 = 2.5 \u00d7 10 - 6 N Hence, force will be 2.5 \u00d7 10 - 6 N So Option (2) will be correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
       "question": "[NEET 2020 | Physics] Ratio of contributions of electric field to magnetic field to intensity of EM wave:",
       "options": {
         "A": "c:1",
-        "B": "c2:1",
+        "B": "c\u2082:1",
         "C": "1:1",
         "D": "rootc:1"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) 1:1** --- ## Step-by-Step Explanation ### Energy Density Components in EM Wave For an electromagnetic wave, the total intensity has two sources: **Electric Field Energy Density:** $$u_E = \\frac12\\varepsilon_0 E^2$$ **Magnetic Field Energy Density:** $$u_B = \\frac12\\mu_0 B^2$$ ### Key Relationship in EM Waves In an electromagnetic wave propagating through vacuum: $$B = \\fracEc$$ ### Calculating the Magnetic Energy Density Substituting B = E/c into the magnetic energy density formula: $$u_B = \\frac12\\mu_0\\left(\\fracEc\\right)^2 = \\fracE^22\\mu_0 c^2$$ Using the relation: $c = \\frac1\\sqrt\\mu_0\\varepsilon_0$, we get $\\mu_0 c^2 = \\frac1\\varepsilon_0$ $$u_B = \\frac12\\varepsilon_0 E^2 = u_E$$ ### The Ratio $$\\fracu_Eu_B = \\frac\\frac12\\varepsilon_0 E^2\\frac12\\varepsilon_0 E^2 = \\frac11 = \\boxed1:1$$ --- ## Why Other Options Are Wrong - **(A) c:1** \u2014 Would suggest electric contribution is much larger; incorrect relationship - **(B) c\u00b2:1** \u2014 Squares the error; not valid for EM waves - **(D) \u221ac:1** \u2014 No physical basis for this ratio --- ## Key Fact to Remember \u2705 **In any EM wave, the electric and magnetic field contributions to intensity are ALWAYS equal\u2014each carries 50% of the total energy.**",
+      "solution": "# Answer: **(C) 1:1** --- ## Step-by-Step Explanation ### Energy Density Components in EM Wave For an electromagnetic wave, the total intensity has two sources: **Electric Field Energy Density:** $$u_E = \\frac\u2081\u2082\\varepsilon_0 E^2$$ **Magnetic Field Energy Density:** $$u_B = \\frac\u2081\u2082\\mu_0 B^2$$ ### Key Relationship in EM Waves In an electromagnetic wave propagating through vacuum: $$B = \\fracEc$$ ### Calculating the Magnetic Energy Density Substituting B = E/c into the magnetic energy density formula: $$u_B = \\frac\u2081\u2082\\mu_0\\left(\\fracEc\\right)^2 = \\fracE^22\\mu_0 c^2$$ Using the relation: $c = \\frac\u2081\\sqrt\\mu_0\\varepsilon_0$, we get $\\mu_0 c^2 = \\frac\u2081\\varepsilon_0$ $$u_B = \\frac\u2081\u2082\\varepsilon_0 E^2 = u_E$$ ### The Ratio $$\\fracu_Eu_B = \\frac\\frac\u2081\u2082\\varepsilon_0 E^2\\frac\u2081\u2082\\varepsilon_0 E^2 = \\frac\u2081\u2081 = \\boxed\u2081:1$$ --- ## Why Other Options Are Wrong - **(A) c:1** \u2014 Would suggest electric contribution is much larger; incorrect relationship - **(B) c\u00b2:1** \u2014 Squares the error; not valid for EM waves - **(D) \u221ac:1** \u2014 No physical basis for this ratio --- ## Key Fact to Remember \u2705 **In any EM wave, the electric and magnetic field contributions to intensity are ALWAYS equal\u2014each carries 50% of the total energy.**",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -111,88 +36,13 @@
     {
       "question": "For a transparent medium relative permeability and permittivity $\\mu_r$ and $\\epsilon_r$ are 1.0 and 1.44 respectively. The velocity of light in this medium would be",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "5 \\times 10^8 ~m / s$ B $3 \\times 10^8 ~m / s$",
         "C": "08 \\times 10^8 ~m / s$",
         "D": "32 \\times 10^8 ~m / s$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The speed of any electromagnetic wave (EM) like light in any medium of permeability, $\\mu$ and permittivity, $\\varepsilon$ is given by $$ v=\\frac1\\sqrt\\mu \\varepsilon $$ Also, $\\mu=\\mu_0 \\mu_r$ and $\\varepsilon=\\varepsilon_0 \\varepsilon_r$ where, $\\mu_0$ and $\\varepsilon_0$ are permeability and permittivity in free space and $\\mu_r$ and $\\varepsilon_r$ are relative permeability and relative permittivity of medium respectively. Here, $\\mu_r=1.0$ $$ \\varepsilon_r=1.44 $$ $$ \\beginaligned \\therefore \\quad \\quad \\quad v & =\\frac1\\sqrt\\mu_r \\varepsilon_r \\mu_0 \\varepsilon_0=\\fracc\\sqrt\\mu_r \\varepsilon_r \\quad\\left[\\because c=\\frac1\\sqrt\\mu_0 \\varepsilon_0\\right] \\\\ & =\\frac3 \\times 10^8\\sqrt1 \\times 1.44 \\\\ & =2.5 \\times 10^8 ~ms^-1 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "What is the wavelength of a plane electromagnetic wave with an electric field oscillating sinusoidally at a frequency of 2.0 \u00d7 10 10 Hz and an amplitude of 48 V m \u20131 ?",
-      "options": {
-        "A": "A",
-        "B": "5 \u00d7 10 2 m",
-        "C": "5 \u00d7 10 1 m",
-        "D": "5 \u00d7 10 0 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 1.5 \u00d7 10 \u20132 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "In a plane electromagnetic wave, the electric field oscillates sinusoidally at a frequency of 2.5 \u00c3\u0097 1 0 10 H z and amplitude 480 V m - 1 . The amplitude of the oscillating magnetic field will be",
-      "options": {
-        "A": "A",
-        "B": "52 \u00d7 10 - 8 Wb m - 2",
-        "C": "52 \u00d7 10 - 7 Wb m - 2",
-        "D": "6 \u00d7 10 - 6 Wb m - 2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** If c is the speed of light or electromagnetic wave then the amplitude of electric and magnetic fields are related as, B 0 = E 0 c B 0 = 480 3 \u00d7 1 0 8 = 1.6 \u00d7 1 0 - 6 Wb m - 2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "Figure shows a capacitor made of two circular plates each of radius 12 cm, and separated by 5.0 cm. The capacitor is being charged by an external source (not shown in the figure). The charging current is constant and equal to 0.15A. Calculate the capacitance and the rate of change of potential difference between the plates.",
-      "options": {
-        "A": "A",
-        "B": "87\u00d710 8 V/s",
-        "C": "87\u00d710 9 V/s",
-        "D": "06\u00d710 9 V/s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1.87\u00d710 9 V/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "What is the amplitude of the oscillating magnetic field in a plane electromagnetic wave with an electric field oscillating sinusoidally at a frequency of 2.0 \u00d7 10 10 Hz and an amplitude of 48 V m \u20131 ?",
-      "options": {
-        "A": "A",
-        "B": "6 \u00d7 10 \u20137 T",
-        "C": "0 \u00d7 10 10 T C 48 V m \u20131",
-        "D": "5 \u00d7 10 \u20137 T"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.6 \u00d7 10 \u20137 T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "What is the average intensity of the magnetic field of a beam emerging from a filter facing a floodlight, given that the magnetic field is represented by B 0 = 12 \u00d7 10 \u20138 sin (1.20 \u00d7 10 7 z \u2013 3.60 \u00d7 10 15 t) T?",
-      "options": {
-        "A": "A",
-        "B": "71 W/m\u00b2",
-        "C": "35 W/m\u00b2",
-        "D": "87 W/m\u00b2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.71 W/m\u00b2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The speed of any electromagnetic wave (EM) like light in any medium of permeability, $\\mu$ and permittivity, $\\varepsilon$ is given by $$ v=\\frac\u2081\\sqrt\\mu \\varepsilon $$ Also, $\\mu=\\mu_0 \\mu_r$ and $\\varepsilon=\\varepsilon_0 \\varepsilon_r$ where, $\\mu_0$ and $\\varepsilon_0$ are permeability and permittivity in free space and $\\mu_r$ and $\\varepsilon_r$ are relative permeability and relative permittivity of medium respectively. Here, $\\mu_r=1.0$ $$ \\varepsilon_r=1.44 $$ $$ \\beginaligned \\therefore \\quad \\quad \\quad v & =\\frac\u2081\\sqrt\\mu_r \\varepsilon_r \\mu_0 \\varepsilon_0=\\fracc\\sqrt\\mu_r \\varepsilon_r \\quad\\left[\\because c=\\frac\u2081\\sqrt\\mu_0 \\varepsilon_0\\right] \\\\ & =\\frac\u2083 \\times 10^8\\sqrt\u2081 \\times 1.44 \\\\ & =2.5 \\times 10^8 ~ms^-1 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -201,43 +51,28 @@
     {
       "question": "The magnetic field of a plane electromagnetic wave is given by $\\overrightarrowB=3 \\times 10^-8 \\cos \\left(1.6 \\times 10^3 x+\\right.$ $48 \\times 10^10$ t) $\\hatj$, then the associated electric field will be:",
       "options": {
-        "A": "A $3 \\times 10^-8 \\cos \\left(",
+        "A": "$3 \\times 10^-8 \\cos \\left(",
         "B": "6 \\times 10^3 x+48 \\times 10^10 t\\right) \\hati / m$ B $3 \\times 10^-8 \\sin \\left(",
         "C": "6 \\times 10^3 x+48 \\times 10^10 t\\right) \\hati / m$ C $9 \\sin \\left(",
         "D": "6 \\times 10^3 x-48 \\times 10^10 t\\right) \\hatk ~V / m$ D $9 \\cos \\left("
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, $B=3 \\times 10^-8 \\cos \\left(1.6 \\times 10^3 x\\right.$ $\\left.+48 \\times 10^10 t\\right)$ On comparing equations (1) & (2), we get; $\\beginaligned B_0 & =3 \\times 10^-8 \\\\ c & =\\frac\\omegak=\\frac48 \\times 10^101.6 \\times 10^3 \\\\ & =3 \\times 10^8 \\endaligned$ And also, $c=\\fracE_0~B_0$ Hence, $E_0=B_0 \\times c$ $\\beginaligned & =3 \\times 10^-8 \\times 3 \\times 10^8 \\\\ & =9 \\endaligned$ So, the required equation is: $E=9 \\cos \\left(1.6 \\times 10^3 x+48 \\times 10^10 t\\right)$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given, $B=3 \\times 10^-8 \\cos \\left(1.6 \\times 10^3 x\\right.$ $\\left.+48 \\times 10^10 t\\right)$ On comparing equations (1) & (2), we get; $\\beginaligned B_0 & =3 \\times 10^-8 \\\\ c & =\\frac\\omegak=\\frac\u2084\u2088 \\times 10^101.6 \\times 10^3 \\\\ & =3 \\times 10^8 \\endaligned$ And also, $c=\\fracE_0~B_0$ Hence, $E_0=B_0 \\times c$ $\\beginaligned & =3 \\times 10^-8 \\times 3 \\times 10^8 \\\\ & =9 \\endaligned$ So, the required equation is: $E=9 \\cos \\left(1.6 \\times 10^3 x+48 \\times 10^10 t\\right)$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Electromagnetic Waves"
     },
     {
-      "question": "An electromagnetic wave of frequency 1 \u00d7 10 14 Hz is propagating along z -axis. The amplitude of the electric field is 4 V/m . If \u03b5 0 = 8 . 8 \u00d7 1 0 - 1 2 C 2 / N-m 2 , then the average energy density of electric field will be",
+      "question": "The electric field portion of an electromagnetic wave is given by (all variables in SI units) E = 10 - 4 sin \u00e2\u0081\u00a1 6 \u00c3\u0097 105 t - 0.01 x . The frequency f and the speed v of electromagnetic wave are",
       "options": {
-        "A": "A",
-        "B": "2 \u00c3\u0097 10 \u00e2\u0088\u0092 12 \u00e2\u0080\u0084 J/m 3 B",
-        "C": "2 \u00d7 10 \u2212 10 J/m 3 C",
-        "D": "2 \u00d7 10 \u2212 11 J/m 3 D"
+        "A": "f = 30 \u03c0 kHz and v =",
+        "B": "5 \u00d7 107 m s - 1 B f = 90 \u03c0 kHz and v =",
+        "C": "0 \u00d7 107 m s - 1 C f = 300 \u03c0 kHz and v =",
+        "D": "0 \u00d7 107 m s - 1 D f = 600 \u03c0 kHz and v ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** f \u00e2\u0081\u00a1 = 1 0 1 4 Hz E 0 = 4 V/m \u00e2\u0088\u0088 0 = 8.8 \u00c3\u0097 1 0 - 1 2 C 2 N - m 2 Energy density of electric field = 1 2 (Total energy density) = 1 2 \u00c2\u00b7 1 2 \u00e2\u0088\u0088 0 E 2 = 1 2 . 1 2 8.8 \u00c3\u0097 1 0 - 1 2 \u00c3\u0097 4 2 = 1 2 \u00b7 1 2 \u00d7 16 \u00d7 8.8 \u00d7 10 \u2212 12 J/m 3 = 35.2 \u00d7 10 \u2212 12 J/m 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electromagnetic Waves"
-    },
-    {
-      "question": "The electric field portion of an electromagnetic wave is given by (all variables in SI units) E = 10 - 4 sin \u00e2\u0081\u00a1 6 \u00c3\u0097 10 5 t - 0.01 x . The frequency f and the speed v of electromagnetic wave are",
-      "options": {
-        "A": "A f = 30 \u03c0 kHz and v =",
-        "B": "5 \u00d7 10 7 m s - 1 B f = 90 \u03c0 kHz and v =",
-        "C": "0 \u00d7 10 7 m s - 1 C f = 300 \u03c0 kHz and v =",
-        "D": "0 \u00d7 10 7 m s - 1 D f = 600 \u03c0 kHz and v ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u03c9 = 6 \u00d7 10 5 = 2 \u03c0 f f = 6 2 \u03c0 \u00d7 10 5 = 3 \u03c0 \u00d7 10 5 Hz = 300 \u03c0 \u00d7 10 3 Hz = 300 \u03c0 kHz Wave speed = \u03c9 k = 6 \u00d7 10 5 0.01 = 6 \u00d7 10 7 m / s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u03c9 = 6 \u00d7 105 = 2 \u03c0 f f = 62 \u03c0 \u00d7 105 = 3 \u03c0 \u00d7 105 Hz = 300 \u03c0 \u00d7 103 Hz = 300 \u03c0 kHz Wave speed = \u03c9 k = 6 \u00d7 105 0.01 = 6 \u00d7 107 m / s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -267,7 +102,7 @@
         "D": "$1.38 ~\\mu A$ and $1.38 ~\\mu A$"
       },
       "answer": "B",
-      "solution": "<p>To solve this problem, we need to understand how to calculate the rms current in an AC circuit containing a capacitor, as well as the concept of displacement current.</p> <p>First, the rms (root mean square) value of the current ($I_\\textrms$) in a capacitor when connected to an AC supply is given by:</p> <p>$I_\\textrms = V_\\textrms \\cdot \\omega C$</p> <p>where $V_\\textrms$ is the rms voltage, $\\omega$ is the angular frequency, and $C$ is the capacitance.</p> <p>For an AC supply, the rms voltage is related to the peak voltage ($V_0$) by:</p> <p>$V_\\textrms = \\fracV_0\\sqrt2$</p> <p>However, we've been given the rms voltage directly, which is $230\\, \\textV$. Therefore, we can use this value directly in our calculations.</p> <p>Given:</p> <p>$C = 200\\, \\textpF = 200 \\times 10^-12\\, \\textF$</p> <p>$\\omega = 300\\, \\textrad/s$</p> <p>$V_\\textrms = 230\\, \\textV$</p> <p>Substitute these values into the equation for rms current:</p> <p>$I_\\textrms = V_\\textrms \\cdot \\omega C = 230 \\times 300 \\times 200 \\times 10^-12 = 13.8 \\times 10^-6\\, \\textA$</p> <p>Therefore, the rms value of the conduction current is $13.8\\, \\mu \\textA$.</p> <p>Now, for the displacement current (which is essentially the current that would \"flow\" through the dielectric of the capacitor as a result of the changing electric field). In an AC circuit, the displacement current and the conduction current are the same. That's because the displacement current is necessary to sustain the changing electric field between the plates of the capacitor, and this changing field is what causes the conduction current in the leads and the rest of the circuit.</p> <p>Hence, the rms value of the displacement current is the same as the conduction current, which is $13.8\\, \\mu \\textA$.</p> <p>So, the correct option is:</p> <p>Option B</p> <p>$13.8\\, \\mu \\textA$ and $13.8\\, \\mu \\textA$</p>",
+      "solution": "<p>To solve this problem, we need to understand how to calculate the rms current in an AC circuit containing a capacitor, as well as the concept of displacement current.</p> <p>First, the rms (root mean square) value of the current ($I_\\textrms$) in a capacitor when connected to an AC supply is given by:</p> <p>$I_\\textrms = V_\\textrms \\cdot \\omega C$</p> <p>where $V_\\textrms$ is the rms voltage, $\\omega$ is the angular frequency, and $C$ is the capacitance.</p> <p>For an AC supply, the rms voltage is related to the peak voltage ($V_0$) by:</p> <p>$V_\\textrms = \\fracV_0\\sqrt\u2082$</p> <p>However, we've been given the rms voltage directly, which is $230\\, \\textV$. Therefore, we can use this value directly in our calculations.</p> <p>Given:</p> <p>$C = 200\\, \\textpF = 200 \\times 10^-12\\, \\textF$</p> <p>$\\omega = 300\\, \\textrad/s$</p> <p>$V_\\textrms = 230\\, \\textV$</p> <p>Substitute these values into the equation for rms current:</p> <p>$I_\\textrms = V_\\textrms \\cdot \\omega C = 230 \\times 300 \\times 200 \\times 10^-12 = 13.8 \\times 10^-6\\, \\textA$</p> <p>Therefore, the rms value of the conduction current is $13.8\\, \\mu \\textA$.</p> <p>Now, for the displacement current (which is essentially the current that would \"flow\" through the dielectric of the capacitor as a result of the changing electric field). In an AC circuit, the displacement current and the conduction current are the same. That's because the displacement current is necessary to sustain the changing electric field between the plates of the capacitor, and this changing field is what causes the conduction current in the leads and the rest of the circuit.</p> <p>Hence, the rms value of the displacement current is the same as the conduction current, which is $13.8\\, \\mu \\textA$.</p> <p>So, the correct option is:</p> <p>Option B</p> <p>$13.8\\, \\mu \\textA$ and $13.8\\, \\mu \\textA$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -276,22 +111,22 @@
     {
       "question": "<p>An alternating voltage of amplitude $$40 ~V$$ and frequency $$4 ~kHz$$ is applied directly across the capacitor of $$12 \\mu F$$. The maximum displacement current between the plates of the capacitor is nearly :</p>",
       "options": {
-        "A": "10 A",
-        "B": "8 A",
-        "C": "13 A",
-        "D": "12 A"
+        "A": "10",
+        "B": "8",
+        "C": "13",
+        "D": "12"
       },
       "answer": "D",
-      "solution": "<p>Let's calculate the maximum displacement current between the plates of the capacitor when an alternating voltage is applied directly across it.</p> <p>The formula for the capacitive reactance $$X_C$$ of a capacitor is given by:</p> <p>$X_C = \\frac12\\pi fC$</p> <p>where</p> <ul> <li>$$f$$ is the frequency of the alternating voltage, and</li> <li>$$C$$ is the capacitance of the capacitor.</li> </ul> <p>Given:</p> <ul> <li>The amplitude of the voltage ($$V_max$$) = $$40$$ V</li> <li>Frequency ($$f$$) = $$4000$$ Hz (or $$4 ~kHz$$)</li> <li>Capacitance ($$C$$) = $$12 \\mu F = 12 \\times 10^-6 ~F$$</li> </ul> <p>First, we calculate $$X_C$$:</p> <p>$X_C = \\frac12\\pi(4000)(12 \\times 10^-6) \\approx \\frac12\\pi \\cdot 4 \\cdot 12 \\cdot 10^-3 \\approx \\frac196\\pi \\cdot 10^-3$</p> <p>$X_C \\approx \\frac13.14 \\cdot 96 \\cdot 10^-3 \\approx \\frac10.30144 \\approx 3.316 \\Omega$</p> <p>Now, the maximum current ($$I_max$$) in the circuit can be calculated using Ohm's law, considering the maximum voltage across the capacitor and its capacitive reactance:</p> <p>$I_max = \\fracV_maxX_C$</p> <p>$I_max = \\frac403.316 \\approx 12.06 ~A$</p> <p>Hence, the maximum displacement current between the plates of the capacitor is nearly:</p> <p>Option D: 12 A</p>",
+      "solution": "<p>Let's calculate the maximum displacement current between the plates of the capacitor when an alternating voltage is applied directly across it.</p> <p>The formula for the capacitive reactance $$X_C$$ of a capacitor is given by:</p> <p>$X_C = \\frac\u2081\u2082\\pi fC$</p> <p>where</p> <ul> <li>$$f$$ is the frequency of the alternating voltage, and</li> <li>$$C$$ is the capacitance of the capacitor.</li> </ul> <p>Given:</p> <ul> <li>The amplitude of the voltage ($$V_max$$) = $$40$$ V</li> <li>Frequency ($$f$$) = $$4000$$ Hz (or $$4 ~kHz$$)</li> <li>Capacitance ($$C$$) = $$12 \\mu F = 12 \\times 10^-6 ~F$$</li> </ul> <p>First, we calculate $$X_C$$:</p> <p>$X_C = \\frac\u2081\u2082\\pi(4000)(12 \\times 10^-6) \\approx \\frac\u2081\u2082\\pi \\cdot 4 \\cdot 12 \\cdot 10^-3 \\approx \\frac\u2081\u2089\u2086\\pi \\cdot 10^-3$</p> <p>$X_C \\approx \\frac\u2081\u2083.14 \\cdot 96 \\cdot 10^-3 \\approx \\frac\u2081\u2080.30144 \\approx 3.316 \\Omega$</p> <p>Now, the maximum current ($$I_max$$) in the circuit can be calculated using Ohm's law, considering the maximum voltage across the capacitor and its capacitive reactance:</p> <p>$I_max = \\fracV_maxX_C$</p> <p>$I_max = \\frac\u2084\u2080\u2083.316 \\approx 12.06 ~A$</p> <p>Hence, the maximum displacement current between the plates of the capacitor is nearly:</p> <p>Option D: 12 A</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electromagnetic Waves"
     },
     {
-      "question": "<p>Match List I with List II</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c3owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 523px\"> <colgroup> <col style=\"width: 70px\"/> <col style=\"width: 184px\"/> <col style=\"width: 94px\"/> <col style=\"width: 175px\"/> </colgroup> <thead> <tr> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-c3ow\">(A)</td> <td class=\"tg-0pky\">$$\\oint \\vecB \\cdot \\overrightarrowd l=\\mu_o i_c+\\mu_o \\varepsilon_o \\fracd \\phi_Ed t$$</td> <td class=\"tg-c3ow\">(I)</td> <td class=\"tg-0pky\">Gauss' law for electricity</td> </tr> <tr> <td class=\"tg-c3ow\">(B)</td> <td class=\"tg-0pky\">$$\\oint \\vecE \\cdot \\overrightarrowd l=\\fracd \\phi_Bd t$$</td> <td class=\"tg-c3ow\">(II)</td> <td class=\"tg-0pky\">Gauss' law for magnetism</td> </tr> <tr> <td class=\"tg-c3ow\">(C)</td> <td class=\"tg-0pky\">$$\\oint \\vecE \\cdot \\overrightarrowd A=\\fracQ\\varepsilon_o$$</td> <td class=\"tg-c3ow\">(III)</td> <td class=\"tg-0pky\">Faraday law</td> </tr> <tr> <td class=\"tg-c3ow\">(D)</td> <td class=\"tg-0pky\">$$\\oint \\vecB \\cdot \\overrightarrowd A=0$$</td> <td class=\"tg-c3ow\">(IV)</td> <td class=\"tg-0pky\">Ampere - Maxwell law</td> </tr> </tbody> </table><p> <p>Choose the correct answer from the options given below:</p></p></p>",
+      "question": "<p>Match List I with List II</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 523px\"> <colgroup> <col style=\"width: 70px\"/> <col style=\"width: 184px\"/> <col style=\"width: 94px\"/> <col style=\"width: 175px\"/> </colgroup> <thead> <tr> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List - II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-c\u2083ow\">(A)</td> <td class=\"tg-0pky\">$$\\oint \\vecB \\cdot \\overrightarrowd l=\\mu_o i_c+\\mu_o \\varepsilon_o \\fracd \\phi_Ed t$$</td> <td class=\"tg-c\u2083ow\">(I)</td> <td class=\"tg-0pky\">Gauss' law for electricity</td> </tr> <tr> <td class=\"tg-c\u2083ow\">(B)</td> <td class=\"tg-0pky\">$$\\oint \\vecE \\cdot \\overrightarrowd l=\\fracd \\phi_Bd t$$</td> <td class=\"tg-c\u2083ow\">(II)</td> <td class=\"tg-0pky\">Gauss' law for magnetism</td> </tr> <tr> <td class=\"tg-c\u2083ow\">(C)</td> <td class=\"tg-0pky\">$$\\oint \\vecE \\cdot \\overrightarrowd A=\\fracQ\\varepsilon_o$$</td> <td class=\"tg-c\u2083ow\">(III)</td> <td class=\"tg-0pky\">Faraday law</td> </tr> <tr> <td class=\"tg-c\u2083ow\">(D)</td> <td class=\"tg-0pky\">$$\\oint \\vecB \\cdot \\overrightarrowd A=0$$</td> <td class=\"tg-c\u2083ow\">(IV)</td> <td class=\"tg-0pky\">Ampere - Maxwell law</td> </tr> </tbody> </table><p> <p>Choose the correct answer from the options given below:</p></p></p>",
       "options": {
-        "A": "A-IV, B-III, C-I, D-II",
+        "A": "-IV, B-III, C-I, D-II",
         "B": "A-I, B-II, C-III, D-IV",
         "C": "A-IV, B-I, C-III, D-II",
         "D": "A-II, B-III, C-I, D-IV"
@@ -342,7 +177,7 @@
         "D": "$$\\varepsilon _r_1 \\over \\varepsilon _r_2 = 1 \\over 2$$"
       },
       "answer": "C",
-      "solution": "Electric field in air, <br><br>$$\\overrightarrow E_1 $$ = E<sub>01</sub> $$\\widehat x$$ cos ( $$2\\pi vz \\over c$$ $$-$$ 2$$\\pi $$vt ) <br><br>$$\\therefore\\,\\,\\,$$ Velocity in air = $$2\\pi v \\over 2\\pi v \\over c$$ = c <br><br>Also, c = $$1 \\over \\sqrt \\mu \\varepsilon r_1\\varepsilon _0 $$ . . . . . . (1) <br><br>$$\\overrightarrow E_2 $$ = E<sub>02</sub> $$\\widehat x$$ cos(2kz $$-$$ kct) <br><br>$$\\therefore\\,\\,\\,$$ Velocity in medium = $$kc \\over 2k$$ = $$c \\over 2$$ <br><br>Also, $$c \\over 2$$ = $$1 \\over \\sqrt \\mu \\varepsilon _r2\\,\\varepsilon _0 $$ . . . . . (2) <br><br>As, medium is non magnetic, <br><br>So, $$\\mu $$<sub>medium</sub> = $$\\mu $$<sub>air</sub> = $$\\mu $$ <br><br>Dividing (1) by (2), we get <br><br>2 = $$\\sqrt \\varepsilon _r2 \\over \\varepsilon _r1 $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $$\\varepsilon _r1 \\over \\varepsilon _r2$$ = $$1 \\over 4$$",
+      "solution": "Electric field in air, <br><br>$$\\overrightarrow E_1 $$ = E<sub>01</sub> $$\\widehat x$$ cos ( $$2\\pi vz \\over c$$ $$-$$ 2$$\\pi $$vt ) <br><br>$$\\therefore\\,\\,\\,$$ Velocity in air = $$2\\pi v \\over 2\\pi v \\over c$$ = c <br><br>Also, c = $$1 \\over \\sqrt \\mu \\varepsilon r_1\\varepsilon _0 $$ . . . . . . (1) <br><br>$$\\overrightarrow E_2 $$ = E<sub>02</sub> $$\\widehat x$$ cos(2kz $$-$$ kct) <br><br>$$\\therefore\\,\\,\\,$$ Velocity in medium = $$kc \\over 2k$$ = $$c \\over 2$$ <br><br>Also, $$c \\over 2$$ = $$1 \\over \\sqrt \\mu \\varepsilon _r\u2082\\,\\varepsilon _0 $$ . . . . . (2) <br><br>As, medium is non magnetic, <br><br>So, $$\\mu $$<sub>medium</sub> = $$\\mu $$<sub>air</sub> = $$\\mu $$ <br><br>Dividing (1) by (2), we get <br><br>2 = $$\\sqrt \\varepsilon _r\u2082 \\over \\varepsilon _r\u2081 $$ <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $$\\varepsilon _r\u2081 \\over \\varepsilon _r\u2082$$ = $$1 \\over 4$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -367,7 +202,7 @@
       "question": "<p>Given below are two statements :</p> <p>Statement I : A time varying electric field is a source of changing magnetic field and vice-versa. Thus a disturbance in electric or magnetic field creates EM waves.</p> <p>Statement II : In a material medium, the EM wave travels with speed $$v = 1 \\over \\sqrt \\mu _0 \\in _0 $$. In the light of the above statements, choose the correct answer from the options given below.</p>",
       "options": {
         "A": "Both Statement I and Statement II are true",
-        "B": "Both Statement I and Statement II are false",
+        "B": "oth Statement I and Statement II are false",
         "C": "Statement I is correct but Statement II is false",
         "D": "Statement I is incorrect but Statement II is true"
       },
@@ -387,7 +222,7 @@
         "D": "8.25"
       },
       "answer": "A",
-      "solution": "The speed of electromagnetic waves in a medium is given by the formula: <br/><br/>$$v = \\frac1\\sqrt\\mu \\varepsilon$$ <br/><br/>where $\\mu$ and $\\varepsilon$ are the absolute permeability and absolute permittivity of the medium, respectively. <br/><br/>Given that $\\mu = \\mu_0 \\mu_r$ and $\\varepsilon = \\varepsilon_0 \\varepsilon_r$, we can rewrite the above equation as : <br/><br/>$$v = \\frac1\\sqrt\\mu_0 \\mu_r \\varepsilon_0 \\varepsilon_r$$ <br/><br/>which simplifies to : <br/><br/>$$v = \\frac1\\sqrt\\mu_0 \\varepsilon_0 \\times \\frac1\\sqrt\\mu_r \\varepsilon_r$$ <br/><br/>Substituting $c$ for $\\frac1\\sqrt\\mu_0 \\varepsilon_0$ (the speed of light in a vacuum), we get: <br/><br/>$$v = \\fracc\\sqrt\\mu_r \\varepsilon_r$$ <br/><br/>We can rearrange this equation to solve for $\\varepsilon_r$ : <br/><br/>$$\\varepsilon_r = \\fracc^2v^2 \\mu_r = \\frac(3 \\times 10^8 m/s)^2(2 \\times 10^8 m/s)^2 \\times 1 = 2.25$$ <br/><br/>So, the relative permittivity of the medium is 2.25.",
+      "solution": "The speed of electromagnetic waves in a medium is given by the formula: <br/><br/>$$v = \\frac\u2081\\sqrt\\mu \\varepsilon$$ <br/><br/>where $\\mu$ and $\\varepsilon$ are the absolute permeability and absolute permittivity of the medium, respectively. <br/><br/>Given that $\\mu = \\mu_0 \\mu_r$ and $\\varepsilon = \\varepsilon_0 \\varepsilon_r$, we can rewrite the above equation as : <br/><br/>$$v = \\frac\u2081\\sqrt\\mu_0 \\mu_r \\varepsilon_0 \\varepsilon_r$$ <br/><br/>which simplifies to : <br/><br/>$$v = \\frac\u2081\\sqrt\\mu_0 \\varepsilon_0 \\times \\frac\u2081\\sqrt\\mu_r \\varepsilon_r$$ <br/><br/>Substituting $c$ for $\\frac\u2081\\sqrt\\mu_0 \\varepsilon_0$ (the speed of light in a vacuum), we get: <br/><br/>$$v = \\fracc\\sqrt\\mu_r \\varepsilon_r$$ <br/><br/>We can rearrange this equation to solve for $\\varepsilon_r$ : <br/><br/>$$\\varepsilon_r = \\fracc^2v^2 \\mu_r = \\frac(3 \\times 10^8 m/s)^2(2 \\times 10^8 m/s)^2 \\times 1 = 2.25$$ <br/><br/>So, the relative permittivity of the medium is 2.25.",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -432,7 +267,7 @@
         "D": "$$\\omega \\left( \\overline E \\times \\overline K \\right)$$"
       },
       "answer": "A",
-      "solution": "Magnetic field vector will be in the direction of $\\hatK \\times \\hatE$<br/><br/> magnitude of $B=\\fracEC=\\fracK\\omega E$<br/><br/> Or $\\overrightarrowB=\\frac1\\omega(\\overrightarrowK \\times \\overrightarrowE)$",
+      "solution": "Magnetic field vector will be in the direction of $\\hatK \\times \\hatE$<br/><br/> magnitude of $B=\\fracEC=\\fracK\\omega E$<br/><br/> Or $\\overrightarrowB=\\frac\u2081\\omega(\\overrightarrowK \\times \\overrightarrowE)$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -457,12 +292,12 @@
       "question": "<p>Given below are two statements:</p> <p>Statement I: Electromagnetic waves carry energy as they travel through space and this energy is equally shared by the electric and magnetic fields.</p> <p>Statement II: When electromagnetic waves strike a surface, a pressure is exerted on the surface.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below:</p>",
       "options": {
         "A": "Statement I is incorrect but Statement II is correct.",
-        "B": "Both Statement I and Statement II are correct.",
+        "B": "oth Statement I and Statement II are correct.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Both Statement I and Statement II are incorrect."
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned & \\frac12 \\varepsilon_0 E^2=\\fracB^22 \\mu_0 \\\\ & \\because E=CB \\text and C=\\frac1\\mu_0 \\varepsilon_0 \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & \\frac\u2081\u2082 \\varepsilon_0 E^2=\\fracB^22 \\mu_0 \\\\ & \\because E=CB \\text and C=\\frac\u2081\\mu_0 \\varepsilon_0 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -477,7 +312,7 @@
         "D": "$$1.106 \\times 10^-8 Jm^-3$$"
       },
       "answer": "D",
-      "solution": "<p>The average energy density of an electromagnetic wave is given by the formula:</p> <p>$$U = \\frac12 \\varepsilon_0 E^2 + \\frac12 \\fracB^2\\mu_0$$</p> <p>For a plane electromagnetic wave, the electric field (E) and the magnetic field (B) contribute equally to the energy density. Therefore, we can focus on just one part to find the total energy density. The formula for the energy density due to the electric field is:</p> <p>$$U_E = \\frac12 \\varepsilon_0 E^2$$</p> <p>Given that the electric field amplitude ($E$) is $50 \\, Vm^-1$ and the permittivity of free space ($\\varepsilon_0$) is $8.85 \\times 10^-12 \\, C^2/Nm^2$, we can calculate the energy density due to the electric field as follows:</p> <p>$$U_E = \\frac12 \\times 8.85 \\times 10^-12 \\times (50)^2 = 1.10625 \\times 10^-8 \\, J/m^3$$</p> <p>Since the energy density contributions from the electric and magnetic fields are equal, the total average energy density of the electromagnetic wave is just this value.</p> <p></p</p>",
+      "solution": "<p>The average energy density of an electromagnetic wave is given by the formula:</p> <p>$$U = \\frac\u2081\u2082 \\varepsilon_0 E^2 + \\frac\u2081\u2082 \\fracB^2\\mu_0$$</p> <p>For a plane electromagnetic wave, the electric field (E) and the magnetic field (B) contribute equally to the energy density. Therefore, we can focus on just one part to find the total energy density. The formula for the energy density due to the electric field is:</p> <p>$$U_E = \\frac\u2081\u2082 \\varepsilon_0 E^2$$</p> <p>Given that the electric field amplitude ($E$) is $50 \\, Vm^-1$ and the permittivity of free space ($\\varepsilon_0$) is $8.85 \\times 10^-12 \\, C^2/Nm^2$, we can calculate the energy density due to the electric field as follows:</p> <p>$$U_E = \\frac\u2081\u2082 \\times 8.85 \\times 10^-12 \\times (50)^2 = 1.10625 \\times 10^-8 \\, J/m^3$$</p> <p>Since the energy density contributions from the electric and magnetic fields are equal, the total average energy density of the electromagnetic wave is just this value.</p> <p></p</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -486,13 +321,13 @@
     {
       "question": "<p>A plane EM wave is propagating along $$x$$ direction. It has a wavelength of $$4 ~mm$$. If electric field is in $$y$$ direction with the maximum magnitude of $$60 ~Vm^-1$$, the equation for magnetic field is :</p>",
       "options": {
-        "A": "$$B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi2\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
-        "B": "$$B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi2 \\times 10^3\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
-        "C": "$$B_z=60 \\sin \\left[\\frac\\pi2\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
-        "D": "$$B_x=60 \\sin \\left[\\frac\\pi2\\left(x-3 \\times 10^8 t\\right)\\right] \\hati T$$"
+        "A": "$$B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi\u2082\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
+        "B": "$$B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi\u2082 \\times 10^3\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
+        "C": "$$B_z=60 \\sin \\left[\\frac\\pi\u2082\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T$$",
+        "D": "$$B_x=60 \\sin \\left[\\frac\\pi\u2082\\left(x-3 \\times 10^8 t\\right)\\right] \\hati T$$"
       },
       "answer": "B",
-      "solution": "<p>To find the correct equation for the magnetic field of the plane electromagnetic wave given its parameters, we can use a couple of known relationships from electromagnetism.</p> <p>Firstly, the wavelength ($ \\lambda $) of the wave is given as $4 ~mm = 4 \\times 10^-3 ~m$. The speed of light (and all electromagnetic waves in vacuum) is $ c = 3 \\times 10^8 ~m/s $. Using these values, we can find the frequency ($ f $) of the wave using the relationship:</p> <p>$ c = \\lambda f $</p> <p>$ f = \\fracc\\lambda = \\frac3 \\times 10^84 \\times 10^-3 = 75 \\times 10^9 ~Hz $</p> <p>The angular frequency ($ \\omega $) which appears in wave equations is related to the frequency by $ \\omega = 2\\pi f $. However, in this context, what we need is the wave vector ($ k $), which defines how the phase of the wave changes with space. The wave vector $ k = \\frac2\\pi\\lambda $. So, for this wave, $ k = \\frac2\\pi4 \\times 10^-3 = \\frac\\pi2 \\times 10^3 \\, m^-1 $.</p> <p>Knowing that the electric field ($ \\mathbfE $) and magnetic field ($ \\mathbfB $) are related as $ E = cB $ in a vacuum, where $ E $ and $ B $ are the magnitudes of the electric and magnetic fields, respectively, we can calculate the magnitude of the magnetic field using the provided maximum electric field magnitude ($ E = 60 \\, Vm^-1 $).</p> <p>$ B = \\fracEc = \\frac603 \\times 10^8 = 2 \\times 10^-7 ~T $</p> <p>Therefore, the wave equation for the magnetic field, considering it propagates in the $ x $-direction and oscillates in a direction perpendicular to both the $ x $-direction and the direction of the electric field (thus, in the $ z $-direction if $ \\mathbfE $ is in the $ y $-direction), is:</p> <p>$ \\mathbfB = B \\sin(kx - \\omega t) \\hat\\mathbfk $</p> <p>$ \\mathbfB = 2 \\times 10^-7 \\sin \\left(\\frac\\pi2 \\times 10^3(x - 3 \\times 10^8t)\\right) \\hat\\mathbfk T $</p> <p>This is represented by Option B:</p> <p>$ B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi2 \\times 10^3\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T $</p> <p>Therefore, the correct answer is Option B.</p>",
+      "solution": "<p>To find the correct equation for the magnetic field of the plane electromagnetic wave given its parameters, we can use a couple of known relationships from electromagnetism.</p> <p>Firstly, the wavelength ($ \\lambda $) of the wave is given as $4 ~mm = 4 \\times 10^-3 ~m$. The speed of light (and all electromagnetic waves in vacuum) is $ c = 3 \\times 10^8 ~m/s $. Using these values, we can find the frequency ($ f $) of the wave using the relationship:</p> <p>$ c = \\lambda f $</p> <p>$ f = \\fracc\\lambda = \\frac\u2083 \\times 10^84 \\times 10^-3 = 75 \\times 10^9 ~Hz $</p> <p>The angular frequency ($ \\omega $) which appears in wave equations is related to the frequency by $ \\omega = 2\\pi f $. However, in this context, what we need is the wave vector ($ k $), which defines how the phase of the wave changes with space. The wave vector $ k = \\frac\u2082\\pi\\lambda $. So, for this wave, $ k = \\frac\u2082\\pi\u2084 \\times 10^-3 = \\frac\\pi\u2082 \\times 10^3 \\, m^-1 $.</p> <p>Knowing that the electric field ($ \\mathbfE $) and magnetic field ($ \\mathbfB $) are related as $ E = cB $ in a vacuum, where $ E $ and $ B $ are the magnitudes of the electric and magnetic fields, respectively, we can calculate the magnitude of the magnetic field using the provided maximum electric field magnitude ($ E = 60 \\, Vm^-1 $).</p> <p>$ B = \\fracEc = \\frac\u2086\u2080\u2083 \\times 10^8 = 2 \\times 10^-7 ~T $</p> <p>Therefore, the wave equation for the magnetic field, considering it propagates in the $ x $-direction and oscillates in a direction perpendicular to both the $ x $-direction and the direction of the electric field (thus, in the $ z $-direction if $ \\mathbfE $ is in the $ y $-direction), is:</p> <p>$ \\mathbfB = B \\sin(kx - \\omega t) \\hat\\mathbfk $</p> <p>$ \\mathbfB = 2 \\times 10^-7 \\sin \\left(\\frac\\pi\u2082 \\times 10^3(x - 3 \\times 10^8t)\\right) \\hat\\mathbfk T $</p> <p>This is represented by Option B:</p> <p>$ B_z=2 \\times 10^-7 \\sin \\left[\\frac\\pi\u2082 \\times 10^3\\left(x-3 \\times 10^8 t\\right)\\right] \\hatk T $</p> <p>Therefore, the correct answer is Option B.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -507,7 +342,7 @@
         "D": "5"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & v=\\frac1\\sqrt\\mu_0 \\mu_r \\varepsilon_0 \\cdot \\varepsilon_r \\\\ & \\Rightarrow 1.5 \\times 10^8=\\frac3 \\times 10^8\\sqrt2 \\cdot \\varepsilon_r \\Rightarrow \\varepsilon_r=2 \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & v=\\frac\u2081\\sqrt\\mu_0 \\mu_r \\varepsilon_0 \\cdot \\varepsilon_r \\\\ & \\Rightarrow 1.5 \\times 10^8=\\frac\u2083 \\times 10^8\\sqrt\u2082 \\cdot \\varepsilon_r \\Rightarrow \\varepsilon_r=2 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -547,7 +382,7 @@
       "question": "Given below are two statements :<br/><br/>Statement I : In a diatomic molecule, the rotational energy at a given temperature obeys Maxwell's distribution.<br/><br/>Statement II : In a diatomic molecule, the rotational energy at a given temperature equals the translational kinetic energy for each molecule.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
       "options": {
         "A": "Both Statement I and Statement II are true",
-        "B": "Both Statement I and Statement II are false",
+        "B": "oth Statement I and Statement II are false",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false but Statement II is true."
       },

@@ -1,125 +1,20 @@
 {
   "subject": "Biology",
   "chapter": "Evolution",
-  "total_questions": 55,
+  "total_questions": 46,
   "questions": [
-    {
-      "question": "A population is in Hardy-Weinberg equilibrium for a gene with only two alleles. If the gene frequency of an allele'A' is 0.7, genotype frequency of 'Aa' is",
-      "options": {
-        "A": "A",
-        "B": "21",
-        "C": "42",
-        "D": "36"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For a gene that exists in two alleles, the Hardy-Weinberg equation states that p 2 + 2 p q + q 2 = 1 f A A = p 2 (genotype frequency of homozygotes) f A a = 2 p q (genotype frequency of heterozygotes) f a a = q 2 (genotype frequency of homozygotes) If p = 0 . 7 and q = 0 . 3 , then f A A = p 2 = 0 . 7 2 = 0 . 49 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "A population is in Hardy-Weinberg equilibrium for a gene with only 2 alleles. If the gene frequency of an allele A is 0.7, the genotypic frequency of homozygous recessive individuals will be:",
-      "options": {
-        "A": "A",
-        "B": "49",
-        "C": "42",
-        "D": "09"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Gene frequency of allele A = 0.7 . That means \u2018 p \u2019 = 0.7 . According to Hardy-Weinberg equilibrium p + q = 1 . Thus q = 1 - 0.7 = 0.3 Hence, gene frequency of homozygous recessive q 2 = 0.3 \u00d7 0.3 = 0.09 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "At a particular locus, the frequency of 'A' allele is 0.6 and that of 'a' is 0.4. What would be the frequency of heterozygotes in a random mating population at equilibrium?",
-      "options": {
-        "A": "A",
-        "B": "36",
-        "C": "16",
-        "D": "24"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The mathematical expression to calculate allele frequency can be given as p + q = 1. Where p represents the frequency of dominant allele and q represents the frequency of recessive allele. The bionomial expression of Hardy Weinberg's law to calculate genotype frequency is p 2 + 2pq + q 2 = 1 where p 2 = homozygoys dominant 2pq = heterozygous dominant q 2 = homozygous recessive. Frequency of heterozygous individuals = 2 \u00d7 0.6 \u00d7 0.4 = 0.48. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "In a population of 100 cats, 36 were white and 64 were black. If the black allele is dominant over white allele, what is the frequency of black allele in this population of cats?",
-      "options": {
-        "A": "A",
-        "B": "64",
-        "C": "4",
-        "D": "6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to Hardy Weinberg's equation, p + q = 1 , where p is the frequency of the dominant allele and q is the frequency of recessive allele in the population. In the given data, 36 cats are white. They have to be pure homozygous individuals have recessive alleles. Thus q 2 = 36 / 100 and q = 0.6 . Thus p = 1 \u2013 0.6 = 0.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "At a particular locus, frequency of $A$ allele is 0.6 and that of a is 0.4 . What would be the frequency of heterozygotes in a random mating population at equilibrium?",
-      "options": {
-        "A": "A",
-        "B": "36",
-        "C": "16",
-        "D": "24"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In a stable population, for a gene with two alleles, 'A' (dominant) and 'a' (recessive), the frequency of ' $A^\\prime=p$ the frequency of ' $a$ ' $=q$, According Hardy-Weinberg equation: $$ p^2+2 p q+q^2=1 $$ where $p^2=$ Frequency of $A$ (homozygous dominant) individuals $q^2=$ Frequency of aa (homozygous recessive) individuals $2 pq=$ Frequency of $Aa$ (heterozygous) individuals. $$ \\beginaligned & \\therefore 2 pq(\\text frequency of heterozygote )= \\\\ & 2 \\times 0.6 \\times 0.4=0.48 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "A gene locus has two alleles A, a. If the frequency of dominant allele A is 0.4, then what will be the frequency of homozygous dominant, heterozygous and homozygous recessive individuals in the Population?",
-      "options": {
-        "A": "A",
-        "B": "36(AA);",
-        "C": "48(Aa);",
-        "D": "16(aa)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to the Hardy-Weinberg principle: Frequency of dominant allele (A) = p =0.4 Frequency of recessive allele (a) = q Sum total of all the allelic frequencies is 1, i.e. p+q = 1 \u21d2 0.4 + q = 1 \u21d2 q = 0.6 Frequency of AA individuals = p \u00d7 p = p 2 = (0.4) 2 = 0.16 Frequency of aa individuals = q \u00d7 q = q 2 = (0.6) 2 = 0.36 Frequency of Aa individuals = 2pq = 2(0.4)(0.6) = 0.48 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
     {
       "question": "[NEET 2021 | Biology] The forelimbs of whale, bat, cheetah, and human are examples of:",
       "options": {
-        "A": "Analogous organs",
+        "A": "nalogous organs",
         "B": "Homologous organs",
         "C": "Vestigial organs",
         "D": "Adaptive radiation"
       },
       "answer": "B",
-      "solution": "## **Correct Answer: (B) Homologous organs** --- ## **Step-by-Step Reasoning:** ### **Definition of Homologous Organs:** Organs that have: - \\u2713 Similar basic structure (same bones and arrangement) - \\u2713 Same embryological origin - \\u2713 Different functions in different species - \\u2713 Evidence of common ancestry ### **Why This Applies to Forelimbs:** | Organism | Forelimb Function | Bone Structure | |----------|------------------|-----------------| | Whale | Swimming (flipper) | Same bones present | | Bat | Flying (wing) | Same bones present | | Cheetah | Running/walking | Same bones present | | Human | Grasping/manipulation | Same bones present | All have the same fundamental skeletal arrangement: - **Humerus** \\u2192 Radius & Ulna \\u2192 Carpals \\u2192 Metacarpals \\u2192 Phalanges --- ## **Why Other Options Are Wrong:** **(A) Analogous organs:** - Have *different* structures but similar functions (e.g., bird wings vs. insect wings) - NOT applicable here \\u2717 **(C) Vestigial organs:** - Non-functional remnants from ancestors (e.g., human coccyx) - These forelimbs are fully functional \\u2717 **(D) Adaptive radiation:** - An evolutionary *process*, not a classification of organs - Describes how species diverge from a common ancestor \\u2717 --- ## **Key Concept to Remember:** **Homologous organs = Same structure, different function = Common ancestor** This is **evidence of evolution** and shows that these diverse mammals descended from a common ancestor with similar forelimb structure that was then modified for different uses.",
+      "solution": "## **Correct Answer: (B) Homologous organs** --- ## **Step-by-Step Reasoning:** ### **Definition of Homologous Organs:** Organs that have: - \\u\u2082\u2087\u2081\u2083 Similar basic structure (same bones and arrangement) - \\u\u2082\u2087\u2081\u2083 Same embryological origin - \\u\u2082\u2087\u2081\u2083 Different functions in different species - \\u\u2082\u2087\u2081\u2083 Evidence of common ancestry ### **Why This Applies to Forelimbs:** | Organism | Forelimb Function | Bone Structure | |----------|------------------|-----------------| | Whale | Swimming (flipper) | Same bones present | | Bat | Flying (wing) | Same bones present | | Cheetah | Running/walking | Same bones present | | Human | Grasping/manipulation | Same bones present | All have the same fundamental skeletal arrangement: - **Humerus** \\u\u2082\u2081\u2089\u2082 Radius & Ulna \\u\u2082\u2081\u2089\u2082 Carpals \\u\u2082\u2081\u2089\u2082 Metacarpals \\u\u2082\u2081\u2089\u2082 Phalanges --- ## **Why Other Options Are Wrong:** **(A) Analogous organs:** - Have *different* structures but similar functions (e.g., bird wings vs. insect wings) - NOT applicable here \\u\u2082\u2087\u2081\u2087 **(C) Vestigial organs:** - Non-functional remnants from ancestors (e.g., human coccyx) - These forelimbs are fully functional \\u\u2082\u2087\u2081\u2087 **(D) Adaptive radiation:** - An evolutionary *process*, not a classification of organs - Describes how species diverge from a common ancestor \\u\u2082\u2087\u2081\u2087 --- ## **Key Concept to Remember:** **Homologous organs = Same structure, different function = Common ancestor** This is **evidence of evolution** and shows that these diverse mammals descended from a common ancestor with similar forelimb structure that was then modified for different uses.",
       "exam": "NEET 2021",
       "year": 2021,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "In a population of 1000 individuals 360 belong to genotype AA, 480 to Aa, and the remaining 160 to aa, Based on this data, the frequency of allele A in the population is:",
-      "options": {
-        "A": "A",
-        "B": "4",
-        "C": "5",
-        "D": "6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to Hardy \u2013 Weinberg principle: Frequency of dominant allele (A) = p Frequency of recessive allele (a) = q Frequency of AA individuals = p \u00d7 p = p 2 Frequency of aa individuals = q \u00d7 q = q 2 Frequency of Aa individuals = 2pq Total population = 1000 Frequency of AA individuals = p \u00d7 p = p 2 = 360/1000 = 0.36 Frequency of dominant allele (A) = p = 0.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Evolution"
     },
@@ -132,22 +27,7 @@
         "D": "Gene flow"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) Large population size with random mating** --- ## Why This is Correct **Large population size with random mating is a REQUIREMENT for Hardy-Weinberg equilibrium to hold\\\u2014it does NOT disturb it.** The Hardy-Weinberg equilibrium states that allele frequencies remain constant across generations IF certain conditions are met. Option (C) describes exactly these conditions, so it SUPPORTS equilibrium rather than disrupting it. --- ## The Five Conditions That MAINTAIN H-W Equilibrium | Condition | Why it matters | |-----------|---| | **Large population** | Prevents genetic drift (random changes in small populations) | | **Random mating** | Prevents sexual selection and non-random breeding patterns | | **No mutation** | Prevents new alleles from arising | | **No natural selection** | Ensures all genotypes have equal fitness | | **No gene flow** | Prevents migration of individuals with different alleles | --- ## Why Other Options DISTURB Equilibrium | Option | Effect | Example | |--------|--------|---------| | **(A) Mutation** | Creates new alleles \\u2192 changes allele frequencies | A\\u2192a mutations increase recessive alleles | | **(B) Natural selection** | Favors certain alleles \\u2192 changes frequencies | Sickle cell allele increases in malaria-prone areas | | **(D) Gene flow** | Adds/removes alleles from population \\u2192 changes frequencies | Migration of new individuals changes allele pool | --- ## Key Concept to Remember \\u2713 **Hardy-Weinberg equilibrium = \"Nothing happens\"** - It's a null hypothesis showing what happens when evolution doesn't occur - Any real-world deviation from these conditions causes evolution (allele frequency change) - Option (C) is the CONDITION itself, not a disruptive factor",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
-      "question": "If the frequency of a recessive allele is 0.4. What will be the frequency of individuals with dominant phenotype in the population?",
-      "options": {
-        "A": "A",
-        "B": "68",
-        "C": "6",
-        "D": "84"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to the Hardy-Weinberg principle, Frequency of dominant allele A = p Frequency of recessive allele a = q Frequency of AA individuals = p \u00d7 p = p 2 Frequency of aa individuals = q \u00d7 q = q 2 Frequency of Aa individuals = 2 p q Here q = 0.4 We know that, p + q = 1 , so the value of p comes out to be = 0.6 Total dominant phenotypes = 2 p q + p 2 = 2 \u00d7 0.6 \u00d7 0.4 + 0.6 \u00d7 0.6 = 0.48 + 0.36 = 0.84 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "# Answer: **(C) Large population size with random mating** --- ## Why This is Correct **Large population size with random mating is a REQUIREMENT for Hardy-Weinberg equilibrium to hold\\\u2014it does NOT disturb it.** The Hardy-Weinberg equilibrium states that allele frequencies remain constant across generations IF certain conditions are met. Option (C) describes exactly these conditions, so it SUPPORTS equilibrium rather than disrupting it. --- ## The Five Conditions That MAINTAIN H-W Equilibrium | Condition | Why it matters | |-----------|---| | **Large population** | Prevents genetic drift (random changes in small populations) | | **Random mating** | Prevents sexual selection and non-random breeding patterns | | **No mutation** | Prevents new alleles from arising | | **No natural selection** | Ensures all genotypes have equal fitness | | **No gene flow** | Prevents migration of individuals with different alleles | --- ## Why Other Options DISTURB Equilibrium | Option | Effect | Example | |--------|--------|---------| | **(A) Mutation** | Creates new alleles \\u\u2082\u2081\u2089\u2082 changes allele frequencies | A\\u\u2082\u2081\u2089\u2082a mutations increase recessive alleles | | **(B) Natural selection** | Favors certain alleles \\u\u2082\u2081\u2089\u2082 changes frequencies | Sickle cell allele increases in malaria-prone areas | | **(D) Gene flow** | Adds/removes alleles from population \\u\u2082\u2081\u2089\u2082 changes frequencies | Migration of new individuals changes allele pool | --- ## Key Concept to Remember \\u\u2082\u2087\u2081\u2083 **Hardy-Weinberg equilibrium = \"Nothing happens\"** - It's a null hypothesis showing what happens when evolution doesn't occur - Any real-world deviation from these conditions causes evolution (allele frequency change) - Option (C) is the CONDITION itself, not a disruptive factor",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -159,7 +39,7 @@
         "A": "Homology, convergent",
         "B": "Analogy, divergent",
         "C": "Analogy, convergent",
-        "D": "Homology, divergent M Medi M MedicNE Med MedicNE Med Med ET cNEET MedicNEE Medi edicNEET M T"
+        "D": "Homology, divergent M Medi M MedicNE Med MedicNE Med Med ET cNEET MedicNEE Medi edicNEET MT"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Homology, convergent** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Evolution*, option (A) correctly satisfies the given biological statement.",
@@ -291,9 +171,9 @@
     {
       "question": "Select the correct statements. A. Tetrad formation is seen during Leptotene. B. During Anaphase, the centromeres split and chromatids separate. C. Terminalization takes place during Pachytene. D. Nucleolus, Golgi complex and ER are reformed during Telophase. E. Crossing over takes place between sister chromatids of homologous chromosome. Choose the correct answer from the options given below:",
       "options": {
-        "A": "A and C only",
-        "B": "B and D only",
-        "C": "C, A and E only",
+        "A": "nd C only",
+        "B": "and D only",
+        "C": ", A and E only",
         "D": "B and E only"
       },
       "answer": "A",
@@ -309,7 +189,7 @@
         "A": "B-A-D-C",
         "B": "C-B-D-A",
         "C": "A-D-C-B",
-        "D": "D-A-C-B"
+        "D": "-A-C-B"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) B-A-D-C** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Evolution*, option (A) correctly satisfies the given biological statement.",
@@ -323,7 +203,7 @@
       "options": {
         "A": "Genetic drift",
         "B": "Gene migration",
-        "C": "Constant gene pool",
+        "C": "onstant gene pool",
         "D": "Genetic recombination"
       },
       "answer": "A",
@@ -396,20 +276,20 @@
     {
       "question": "Father of green revolution in India is",
       "options": {
-        "A": "M S Swaminathan",
+        "A": "MS Swaminathan",
         "B": "N Borlaug",
         "C": "R Mishra",
         "D": "P Maheswari"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) M S Swaminathan** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) MS Swaminathan** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Evolution"
     },
     {
-      "question": "India\\u2019s wheat yield revolution in the 1960s was possible primarily due to",
+      "question": "India\\u\u2082\u2080\u2081\u2089s wheat yield revolution in the 1960s was possible primarily due to",
       "options": {
         "A": "Hybreed seeds",
         "B": "Increased chlorophyll content",
@@ -424,7 +304,7 @@
       "chapter": "Evolution"
     },
     {
-      "question": "\\u2018Jaya\\u2019 and \\u2018Ratna\\u2019 developed for green revolution in India are the varieties of",
+      "question": "\\u\u2082\u2080\u2081\u2088Jaya\\u\u2082\u2080\u2081\u2089 and \\u\u2082\u2080\u2081\u2088Ratna\\u\u2082\u2080\u2081\u2089 developed for green revolution in India are the varieties of",
       "options": {
         "A": "Rice",
         "B": "Wheat",
@@ -471,7 +351,7 @@
     {
       "question": "1 \u00b7 NEET 2017 \u00b7 NEET 2019 \u00b7 NEET 2019 Odisha \u00b7 NEET 2020 \u00b7 NEET 2021 \u00b7 NEET 2023 Phase 2 Which of the following statements is not true ?",
       "options": {
-        "A": "Analogous structures are a result of convergent evolution",
+        "A": "nalogous structures are a result of convergent evolution",
         "B": "Sweet potato and potato is an example of analogy",
         "C": "Homology indicates common ancestry",
         "D": "Flippers of penguins and dolphins are a pair of homologous organs"
@@ -574,24 +454,9 @@
       "chapter": "Evolution"
     },
     {
-      "question": "NEET 2019",
-      "options": {
-        "A": "0.36(AA); 0.48(Aa); 0.16(aa)",
-        "B": "0.16(AA); 0.24(Aa); 0.36(aa)",
-        "C": "0.16(AA); 0.48(Aa); 0.36(aa)",
-        "D": "0.16(AA); 0.36(Aa); 0.48(aa)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) 0.36(AA); 0.48(Aa); 0.16(aa)** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Evolution"
-    },
-    {
       "question": "A population of a species invades a new area. Which of the following condition will lead to Adaptive Radiation ?",
       "options": {
-        "A": "Area with large number of habitats having very low food supply",
+        "A": "rea with large number of habitats having very low food supply",
         "B": "Area with a single type of vacant habitat",
         "C": "Area with many types of vacant habitats",
         "D": "Area with many habitats occupied by a large number of species"
@@ -621,7 +486,7 @@
     {
       "question": "Which of the following statements is correct about the origin and evolution of men ?",
       "options": {
-        "A": "Agriculture came around 50,000 years back.",
+        "A": "griculture came around 50,000 years back.",
         "B": "The Dryopithecus and Ramapithecus primates existing 15 million years ago, walked like men.",
         "C": "Homo habilis probably ate meat.",
         "D": "Neanderthal men lived in Asia between 1,00,000 and 40,000 years back."
@@ -744,7 +609,7 @@
         "A": "B-A-D-C",
         "B": "C-B-D-A",
         "C": "A-D-C-B",
-        "D": "D-A-C-B"
+        "D": "-A-C-B"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) B-A-D-C** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",
@@ -758,7 +623,7 @@
       "options": {
         "A": "Genetic drift",
         "B": "Gene migration",
-        "C": "Constant gene pool",
+        "C": "onstant gene pool",
         "D": "Genetic recombination"
       },
       "answer": "A",
@@ -786,10 +651,10 @@
     {
       "question": "can lead to _________. (a) stabilisation; (b) genetic drift; (c) directional change; (d) disruption.",
       "options": {
-        "A": "A. (a) only",
-        "B": "B. (a), (c) and (d) only",
-        "C": "C. (a), (b), (c) and (d)",
-        "D": "D. (a) and (c) only"
+        "A": "(a) only",
+        "B": "(a), (c) and (d) only",
+        "C": "(a), (b), (c) and (d)",
+        "D": "(a) and (c) only"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A. (a) only** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",
@@ -801,10 +666,10 @@
     {
       "question": "Hardy\\\u2013Weinberg equilibrium. If the frequency of allele",
       "options": {
-        "A": "A. $0.01$",
-        "B": "B. $0.02$",
-        "C": "C. $0.10$",
-        "D": "D. $0.99$"
+        "A": "$0.01$",
+        "B": "$0.02$",
+        "C": "$0.10$",
+        "D": "$0.99$"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A. $0.01$** **Explanation:** Based on NCERT Biology principles for *Evolution*, option (A) is the accurate scientific choice.",

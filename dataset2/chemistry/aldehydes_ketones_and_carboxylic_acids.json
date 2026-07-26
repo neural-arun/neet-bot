@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "total_questions": 47,
+  "total_questions": 46,
   "questions": [
     {
       "question": "Examine the Carbonyl reaction mechanism diagram below (Figure 90). What product is formed when Benzaldehyde (C\u2086H\u2085CHO) reacts with 50% concentrated NaOH (Cannizzaro Reaction)?",
@@ -167,7 +167,7 @@
       "question": "Examine the organic reaction scheme below. What essential structural feature must an aldehyde or ketone possess to undergo self-Aldol condensation in dilute alkali?",
       "image_path": "dataset2/images/chem_aldol_condensation.png",
       "options": {
-        "A": "At least one \u03b1-hydrogen atom",
+        "A": "t least one \u03b1-hydrogen atom",
         "B": "No \u03b1-hydrogen atoms",
         "C": "A halogen substituent on benzene ring",
         "D": "A terminal triple bond"
@@ -180,30 +180,15 @@
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "What is the pK a value of ethanol?",
-      "options": {
-        "A": "A",
-        "B": "23",
-        "C": "19",
-        "D": "0 D 10"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The pK a value of ethanol is approximately 4.19. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
-    },
-    {
       "question": "[NEET 2023 | Chemistry] Which does NOT undergo Cannizzaro reaction?",
       "options": {
         "A": "HCHO",
-        "B": "CH3CHO",
-        "C": "C6H5CHO",
-        "D": "(CH3)3CCHO"
+        "B": "CH\u2083CHO",
+        "C": "6H\u2085CHO",
+        "D": "(CH\u2083)\u2083CCHO"
       },
       "answer": "A",
-      "solution": "## Answer: **(B) CH\\u2083CHO** --- ## Why This Is Correct: ### **The Cannizzaro Reaction Rule** The Cannizzaro reaction is a **disproportionation** of aldehydes that occurs **ONLY when the aldehyde has NO \\u03b1-hydrogen atoms**. ### **Checking Each Option:** | Compound | Has \\u03b1-H? | Undergoes Cannizzaro? | |----------|----------|----------------------| | HCHO | NO | \\u2713 YES | | CH\\u2083CHO | **YES** | **\\u2717 NO** | | C\\u2086H\\u2085CHO | NO | \\u2713 YES | | (CH\\u2083)\\u2083CCHO | NO | \\u2713 YES | --- ## Why CH\\u2083CHO Does NOT Undergo Cannizzaro: **CH\\u2083CHO (Acetaldehyde)** has: - Three \\u03b1-hydrogens on the methyl group (CH\\u2083-) - These hydrogens are easily abstractable - Instead of Cannizzaro, it undergoes **aldol condensation** ``` 2 CH\\u2083CHO \\u2192 CH\\u2083CH(OH)CH\\u2082CHO \\u2192 CH\\u2083CH=CHCHO (base) (dehydration) ``` --- ## Key Concept to Remember: **Cannizzaro Reaction Requirements:** - \\u2713 Aldehyde with NO \\u03b1-hydrogen - \\u2713 Requires concentrated KOH or NaOH - \\u2713 Results in: one molecule oxidized to carboxylic acid salt, one reduced to alcohol **Formula HCHO**, **C\\u2086H\\u2085CHO**, and **(CH\\u2083)\\u2083CCHO** all lack \\u03b1-hydrogens, so they readily undergo Cannizzaro. --- **Pro Tip for NEET:** Always check for \\u03b1-hydrogens first when you see a Cannizzaro reaction question. If \\u03b1-H exists \\u2192 **Aldol condensation** happens instead!",
+      "solution": "## Answer: **(B) CH\\u\u2082\u2080\u2088\u2083CHO** --- ## Why This Is Correct: ### **The Cannizzaro Reaction Rule** The Cannizzaro reaction is a **disproportionation** of aldehydes that occurs **ONLY when the aldehyde has NO \\u\u2080\u2083b\u2081-hydrogen atoms**. ### **Checking Each Option:** | Compound | Has \\u\u2080\u2083b\u2081-H? | Undergoes Cannizzaro? | |----------|----------|----------------------| | HCHO | NO | \\u\u2082\u2087\u2081\u2083 YES | | CH\\u\u2082\u2080\u2088\u2083CHO | **YES** | **\\u\u2082\u2087\u2081\u2087 NO** | | C\\u\u2082\u2080\u2088\u2086H\\u\u2082\u2080\u2088\u2085CHO | NO | \\u\u2082\u2087\u2081\u2083 YES | | (CH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2083CCHO | NO | \\u\u2082\u2087\u2081\u2083 YES | --- ## Why CH\\u\u2082\u2080\u2088\u2083CHO Does NOT Undergo Cannizzaro: **CH\\u\u2082\u2080\u2088\u2083CHO (Acetaldehyde)** has: - Three \\u\u2080\u2083b\u2081-hydrogens on the methyl group (CH\\u\u2082\u2080\u2088\u2083-) - These hydrogens are easily abstractable - Instead of Cannizzaro, it undergoes **aldol condensation** ``` 2 CH\\u\u2082\u2080\u2088\u2083CHO \\u\u2082\u2081\u2089\u2082 CH\\u\u2082\u2080\u2088\u2083CH(OH)CH\\u\u2082\u2080\u2088\u2082CHO \\u\u2082\u2081\u2089\u2082 CH\\u\u2082\u2080\u2088\u2083CH=CHCHO (base) (dehydration) ``` --- ## Key Concept to Remember: **Cannizzaro Reaction Requirements:** - \\u\u2082\u2087\u2081\u2083 Aldehyde with NO \\u\u2080\u2083b\u2081-hydrogen - \\u\u2082\u2087\u2081\u2083 Requires concentrated KOH or NaOH - \\u\u2082\u2087\u2081\u2083 Results in: one molecule oxidized to carboxylic acid salt, one reduced to alcohol **Formula HCHO**, **C\\u\u2082\u2080\u2088\u2086H\\u\u2082\u2080\u2088\u2085CHO**, and **(CH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2083CCHO** all lack \\u\u2080\u2083b\u2081-hydrogens, so they readily undergo Cannizzaro. --- **Pro Tip for NEET:** Always check for \\u\u2080\u2083b\u2081-hydrogens first when you see a Cannizzaro reaction question. If \\u\u2080\u2083b\u2081-H exists \\u\u2082\u2081\u2089\u2082 **Aldol condensation** happens instead!",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -212,13 +197,13 @@
     {
       "question": "[NEET 2019 | Chemistry] Tollens' reagent is used to distinguish between:",
       "options": {
-        "A": "Aldehydes and ketones",
+        "A": "ldehydes and ketones",
         "B": "Primary and secondary alcohols",
         "C": "Alkane and alkene",
         "D": "Organic acids and esters"
       },
       "answer": "A",
-      "solution": "## **Answer: (A) Aldehydes and Ketones** --- ## **Step-by-Step Explanation** ### What is Tollens' Reagent? - **Composition**: Ammoniacal silver nitrate solution [Ag(NH\\u2083)\\u2082]\\u207a - **Function**: A mild oxidizing agent that selectively oxidizes certain organic compounds ### The Reaction with Aldehydes ``` R-CHO + 2[Ag(NH\\u2083)\\u2082]\\u207a + 2OH\\u207b \\u2192 R-COO\\u207b + 2Ag\\u2193 + 3NH\\u2083 + H\\u2082O (Silver mirror) ``` - **Result**: Bright silver mirror forms on the test tube wall - **Positive Test**: Indicates presence of aldehyde group (-CHO) ### Why Ketones Don't React ``` R-CO-R' + Tollens' reagent \\u2192 NO REACTION ``` - Ketones have the carbonyl group between two alkyl groups - They lack an \\u03b1-hydrogen adjacent to the carbonyl that can be oxidized - Cannot be oxidized by mild oxidizing agents like Tollens' reagent --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(B) Alcohols** | Lucas test or Jones oxidation is used for this distinction | | **(C) Alkanes & Alkenes** | Bromine water or KMnO\\u2084 test distinguishes these | | **(D) Acids & Esters** | Sodium bicarbonate test (CO\\u2082 gas evolution) is used | --- ## **Key Point to Remember** \\U0001f3af **\"Tollens test is the aldehyde-specific test\"** - Only aldehydes give the characteristic silver mirror with Tollens' reagent.",
+      "solution": "## **Answer: (A) Aldehydes and Ketones** --- ## **Step-by-Step Explanation** ### What is Tollens' Reagent? - **Composition**: Ammoniacal silver nitrate solution [Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a - **Function**: A mild oxidizing agent that selectively oxidizes certain organic compounds ### The Reaction with Aldehydes ``` R-CHO + 2[Ag(NH\\u\u2082\u2080\u2088\u2083)\\u\u2082\u2080\u2088\u2082]\\u\u2082\u2080\u2087a + 2OH\\u\u2082\u2080\u2087b \\u\u2082\u2081\u2089\u2082 R-COO\\u\u2082\u2080\u2087b + 2Ag\\u\u2082\u2081\u2089\u2083 + 3NH\\u\u2082\u2080\u2088\u2083 + H\\u\u2082\u2080\u2088\u2082O (Silver mirror) ``` - **Result**: Bright silver mirror forms on the test tube wall - **Positive Test**: Indicates presence of aldehyde group (-CHO) ### Why Ketones Don't React ``` R-CO-R' + Tollens' reagent \\u\u2082\u2081\u2089\u2082 NO REACTION ``` - Ketones have the carbonyl group between two alkyl groups - They lack an \\u\u2080\u2083b\u2081-hydrogen adjacent to the carbonyl that can be oxidized - Cannot be oxidized by mild oxidizing agents like Tollens' reagent --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(B) Alcohols** | Lucas test or Jones oxidation is used for this distinction | | **(C) Alkanes & Alkenes** | Bromine water or KMnO\\u\u2082\u2080\u2088\u2084 test distinguishes these | | **(D) Acids & Esters** | Sodium bicarbonate test (CO\\u\u2082\u2080\u2088\u2082 gas evolution) is used | --- ## **Key Point to Remember** \\U\u2080\u2080\u2080\u2081f\u2083af **\"Tollens test is the aldehyde-specific test\"** - Only aldehydes give the characteristic silver mirror with Tollens' reagent.",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -227,13 +212,13 @@
     {
       "question": "Equal volumes of three acid solutions of $pH 3,4$ and 5 are mixed in a vessel. What will be the $H^+$ ion concentration in the mixture?",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "11 \\times 10^-4 M$",
         "C": "7 \\times 10^-4 M$",
         "D": "7 \\times 10^-3 M$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let the volume of each acid \\(=V\\) \\(p H\\) of first, second and third acids \\(=3,4\\) and 5 respectively \\(\\left[H^+\\right]\\)of first acid \\(\\left(M_1\\right)=1 \\times 10^-3\\left[\\therefore H^+=1 \\times 10^-p H\\right]\\) \\(\\left[H^+\\right]\\)of second acid \\(\\left(M_2\\right)=1 \\times 10^-4\\) \\(\\left[H^+\\right]\\)of third acid \\(\\left(M_3\\right)=1 \\times 10^-5\\) Total \\(\\left[H^+\\right]\\)concentrated of mixture \\(\\beginaligned & (M)=\\fracM_1 V_1+M_2 V_2+M_3 V_3V_1+V_2+V_3 \\\\ & =\\frac1 \\times 10^3 \\times V+1 \\times 10^4 \\times V+1 \\times 10^5 \\times VV+V+V \\\\ & =\\frac1 \\times 10^3 \\times V(1+0.1+0.01)3 V \\\\ & =\\frac1.11 \\times 10^33=3.7 \\times 10^-4 M \\endaligned\\) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Let the volume of each acid \\(=V\\) \\(p H\\) of first, second and third acids \\(=3,4\\) and 5 respectively \\(\\left[H^+\\right]\\)of first acid \\(\\left(M_1\\right)=1 \\times 10^-3\\left[\\therefore H^+=1 \\times 10^-p H\\right]\\) \\(\\left[H^+\\right]\\)of second acid \\(\\left(M_2\\right)=1 \\times 10^-4\\) \\(\\left[H^+\\right]\\)of third acid \\(\\left(M_3\\right)=1 \\times 10^-5\\) Total \\(\\left[H^+\\right]\\)concentrated of mixture \\(\\beginaligned & (M)=\\fracM_1 V_1+M_2 V_2+M_3 V_3V_1+V_2+V_3 \\\\ & =\\frac\u2081 \\times 10^3 \\times V+1 \\times 10^4 \\times V+1 \\times 10^5 \\times VV+V+V \\\\ & =\\frac\u2081 \\times 10^3 \\times V(1+0.1+0.01)\u2083 V \\\\ & =\\frac\u2081.11 \\times 10^33=3.7 \\times 10^-4 M \\endaligned\\) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -248,7 +233,7 @@
         "D": "2-Hydroxycyclopentanone"
       },
       "answer": "B",
-      "solution": "Among those compounds which have most acidic hydrogen will undergo dehydration most readily. That is why 4 $$-$$ Hydroxypentan $$-$$ 2 $$-$$ one will most readily dehydrated to give unsaturated ketone. <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264391/exam_images/rzgqbobqeppeljwwejjn.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 191 English Explanation\">",
+      "solution": "Among those compounds which have most acidic hydrogen will undergo dehydration most readily. That is why 4 $$-$$ Hydroxypentan $$-$$ 2 $$-$$ one will most readily dehydrated to give unsaturated ketone. <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2089\u2081/exam_images/rzgqbobqeppeljwwejjn.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 191 English Explanation\">",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Chemistry",
@@ -258,12 +243,12 @@
       "question": "The increasing order of the reactivity of the following compound in nucleophilic addition reaction is : <br/><br/>Propanal, Benzaldehyde, Propanone, Butanone",
       "options": {
         "A": "Butanone < Propanone < Benzaldehyde < Propanal",
-        "B": "Benzaldehyde < Butanone < Propanone < Propanal",
+        "B": "enzaldehyde < Butanone < Propanone < Propanal",
         "C": "Propanal < Propanone < Butanone < Benzaldehyde",
         "D": "Benzaldehyde < Propanal < Propanone < Butanone"
       },
       "answer": "A",
-      "solution": "<b>Rate of Nucleophilic addition :</b> <br><br>1. Aldehyde > Ketone <br><br>2. Aliphatic aldehyde > Aromatic aldehyde <br><br>$$ \\therefore $$ Correct order of nucleophilic addition reaction is : <br><picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265943/exam_images/cxtxjnwcvlj5fgmkqybe.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267496/exam_images/e7lgjptjiunftcxnx1l4.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264525/exam_images/t0hpiudq44qr7ast7xly.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 146 English Explanation\"></picture>",
+      "solution": "<b>Rate of Nucleophilic addition :</b> <br><br>1. Aldehyde > Ketone <br><br>2. Aliphatic aldehyde > Aromatic aldehyde <br><br>$$ \\therefore $$ Correct order of nucleophilic addition reaction is : <br><picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2089\u2084\u2083/exam_images/cxtxjnwcvlj\u2085fgmkqybe.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2089\u2086/exam_images/e\u2087lgjptjiunftcxnx\u2081l\u2084.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2082\u2085/exam_images/t\u2080hpiudq\u2084\u2084qr\u2087ast\u2087xly.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 146 English Explanation\"></picture>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -272,13 +257,13 @@
     {
       "question": "Assertion A : Enol form of acetone [CH<sub>3</sub>COCH<sub>3</sub>] exists in < 0.1% quantity. However, the enol form of acetyl acetone [CH<sub>3</sub>COCH<sub>2</sub>OCCH<sub>3</sub>] exists in approximately 15% quantity.<br/><br/>Reason R : Enol form of acetyl acetone is stabilized by intramolecular hydrogen bonding, which is not possible in enol form of acetone.<br/><br/>Choose the correct statement :",
       "options": {
-        "A": "Both A and R are true but R is not the correct explanation of A",
+        "A": "Both A and R are true but R is not the correct explanation of",
         "B": "A is true but R is false",
         "C": "A is false but R is true",
-        "D": "Both A and R are true and R is the correct explanation of A"
+        "D": "Both A and R are true and R is the correct explanation of"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266762/exam_images/e89gnvqyyvcrdqvnzaph.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 16th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 121 English Explanation\"><br> Acetyl acetone in enol form have intramolecular H-bonding, which is absent in acetone.",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2087\u2086\u2082/exam_images/e\u2088\u2089gnvqyyvcrdqvnzaph.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 16th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 121 English Explanation\"><br> Acetyl acetone in enol form have intramolecular H-bonding, which is absent in acetone.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -308,7 +293,7 @@
         "D": "Both Statement I and Statement II are false."
       },
       "answer": "B",
-      "solution": "Statement I : Correct<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwop8pxa/7298daf6-0626-4bfe-9ad3-8065a89148f0/46c195e0-534a-11ec-9cbb-695a838b20fb/file-1kwop8pxb.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwop8pxa/7298daf6-0626-4bfe-9ad3-8065a89148f0/46c195e0-534a-11ec-9cbb-695a838b20fb/file-1kwop8pxb.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 1\"><br>Statement II : Wrong<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwopady4/5819d067-7014-45ec-a7e0-07db3bf190cf/751f8cd0-534a-11ec-9cbb-695a838b20fb/file-1kwopady5.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwopady4/5819d067-7014-45ec-a7e0-07db3bf190cf/751f8cd0-534a-11ec-9cbb-695a838b20fb/file-1kwopady5.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 2\">",
+      "solution": "Statement I : Correct<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwop\u2088pxa/7298daf\u2086-0626-4bfe-9ad\u2083-8065a\u2088\u2089\u2081\u2084\u2088f\u2080/46c\u2081\u2089\u2085e\u2080-534a-11ec-9cbb-695a\u2088\u2083\u2088b\u2082\u2080fb/file-1kwop\u2088pxb.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwop\u2088pxa/7298daf\u2086-0626-4bfe-9ad\u2083-8065a\u2088\u2089\u2081\u2084\u2088f\u2080/46c\u2081\u2089\u2085e\u2080-534a-11ec-9cbb-695a\u2088\u2083\u2088b\u2082\u2080fb/file-1kwop\u2088pxb.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 1\"><br>Statement II : Wrong<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwopady\u2084/5819d\u2080\u2086\u2087-7014-45ec-a\u2087e\u2080-07db\u2083bf\u2081\u2089\u2080cf/751f\u2088cd\u2080-534a-11ec-9cbb-695a\u2088\u2083\u2088b\u2082\u2080fb/file-1kwopady\u2085.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwopady\u2084/5819d\u2080\u2086\u2087-7014-45ec-a\u2087e\u2080-07db\u2083bf\u2081\u2089\u2080cf/751f\u2088cd\u2080-534a-11ec-9cbb-695a\u2088\u2083\u2088b\u2082\u2080fb/file-1kwopady\u2085.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 2\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -338,7 +323,7 @@
         "D": "(I) - (R), (II) - (Q) and (III) - (P)"
       },
       "answer": "A",
-      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265983/exam_images/tnxetxym5lapbou036bs.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265165/exam_images/d74cwil8uicrreg1dho5.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266208/exam_images/sznr93cizyaix9lnbd8c.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265427/exam_images/ecps259vu7lcxevp7v3e.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 135 English Explanation\"></picture>",
+      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2089\u2088\u2083/exam_images/tnxetxym\u2085lapbou\u2080\u2083\u2086bs.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2086\u2085/exam_images/d\u2087\u2084cwil\u2088uicrreg\u2081dho\u2085.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2080\u2088/exam_images/sznr\u2089\u2083cizyaix\u2089lnbd\u2088c.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2084\u2082\u2087/exam_images/ecps\u2082\u2085\u2089vu\u2087lcxevp\u2087v\u2083e.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 135 English Explanation\"></picture>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -347,13 +332,13 @@
     {
       "question": "Which one of the following reactions will not form acetaldehyde?",
       "options": {
-        "A": "$$CH_3CH_2OH\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_573K^Cu $$",
+        "A": "$$CH_3CH_2OH\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_573K^Cu $$",
         "B": "$$CH_3CH_2OH\\buildrel CrO_3 - H_2SO_4 \\over \\longrightarrow $$",
-        "C": "$$CH_2 = CH_2 + O_2\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_H_2O^Pd(II)/Cu(II) $$",
-        "D": "$$CH_3CN\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_ii)\\,H_2O^i)\\,DIBAL - H $$"
+        "C": "$$CH_2 = CH_2 + O_2\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_H_2O^Pd(II)/Cu(II) $$",
+        "D": "$$CH_3CN\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_ii)\\,H_2O^i)\\,DIBAL - H $$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263822/exam_images/zt6na7p1ou9eucpeqigr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 130 English Explanation\">",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2088\u2082\u2082/exam_images/zt\u2086na\u2087p\u2081ou\u2089eucpeqigr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 130 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -379,11 +364,11 @@
       "options": {
         "A": "Molybdenum oxide",
         "B": "Manganese acetate",
-        "C": "Copper at high temperature and pressure",
+        "C": "opper at high temperature and pressure",
         "D": "Potassium permanganate"
       },
       "answer": "A",
-      "solution": "Molybdenum oxide (Mo<sub>2</sub>O<sub>3</sub> ) is used for oxidising alkanes to aldehyde. It used to manufacture molybdenum metal, which serves as an additive to steel and corrosive resistant alloys. <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kxhci1gp/478f2156-9f7d-414a-bcc7-e58c22e6ac31/2e1b3d90-630b-11ec-877b-854219a26a55/file-1kxhci1gq.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kxhci1gp/478f2156-9f7d-414a-bcc7-e58c22e6ac31/2e1b3d90-630b-11ec-877b-854219a26a55/file-1kxhci1gq.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 24th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 134 English Explanation\">",
+      "solution": "Molybdenum oxide (Mo<sub>2</sub>O<sub>3</sub> ) is used for oxidising alkanes to aldehyde. It used to manufacture molybdenum metal, which serves as an additive to steel and corrosive resistant alloys. <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kxhci\u2081gp/478f\u2082\u2081\u2085\u2086-9f\u2087d-414a-bcc\u2087-e\u2085\u2088c\u2082\u2082e\u2086ac\u2083\u2081/2e\u2081b\u2083d\u2089\u2080-630b-11ec-877b-854219a\u2082\u2086a\u2085\u2085/file-1kxhci\u2081gq.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kxhci\u2081gp/478f\u2082\u2081\u2085\u2086-9f\u2087d-414a-bcc\u2087-e\u2085\u2088c\u2082\u2082e\u2086ac\u2083\u2081/2e\u2081b\u2083d\u2089\u2080-630b-11ec-877b-854219a\u2082\u2086a\u2085\u2085/file-1kxhci\u2081gq.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 24th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 134 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -398,7 +383,7 @@
         "D": "2-Methyl cyclohexanone"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263428/exam_images/yga7xz57fu9lgwe0npdz.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 118 English Explanation\">",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2084\u2082\u2088/exam_images/yga\u2087xz\u2085\u2087fu\u2089lgwe\u2080npdz.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 118 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -413,7 +398,7 @@
         "D": "CO/HCl, anhydrous AlCl<sub>3</sub>"
       },
       "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l9bly2tx/1e22714e-7969-43f2-8965-fccf0ae504cb/02ebf050-4d76-11ed-bdbc-253e8d1bba81/file-1l9bly2ty.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l9bly2tx/1e22714e-7969-43f2-8965-fccf0ae504cb/02ebf050-4d76-11ed-bdbc-253e8d1bba81/file-1l9bly2ty.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 26th June Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 81 English Explanation\">",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2089bly\u2082tx/1e\u2082\u2082\u2087\u2081\u2084e-7969-43f\u2082-8965-fccf\u2080ae\u2085\u2080\u2084cb/02ebf\u2080\u2085\u2080-4d\u2087\u2086-11ed-bdbc-253e\u2088d\u2081bba\u2088\u2081/file-1l\u2089bly\u2082ty.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2089bly\u2082tx/1e\u2082\u2082\u2087\u2081\u2084e-7969-43f\u2082-8965-fccf\u2080ae\u2085\u2080\u2084cb/02ebf\u2080\u2085\u2080-4d\u2087\u2086-11ed-bdbc-253e\u2088d\u2081bba\u2088\u2081/file-1l\u2089bly\u2082ty.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 26th June Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 81 English Explanation\">",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -423,12 +408,12 @@
       "question": "The correct sequential addition of reagents in the preparation of 3-nitrobenzoic acid from benzene is :",
       "options": {
         "A": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>",
-        "B": "Br<sub>2</sub>/AlBr<sup>3</sup>, NaCN, H<sub>3</sub>O<sup>+</sup>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>",
+        "B": "r<sub>2</sub>/AlBr<sup>3</sup>, NaCN, H<sub>3</sub>O<sup>+</sup>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>",
         "C": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, NaCN, H<sub>3</sub>O<sup>+</sup>",
         "D": "HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Br<sub>2</sub>/AlBr<sub>3</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266618/exam_images/hrm8cmsjmfz8koohspgh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 102 English Explanation\">",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2081\u2088/exam_images/hrm\u2088cmsjmfz\u2088koohspgh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 102 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -439,11 +424,11 @@
       "options": {
         "A": "CH<sub>3</sub>CH<sub>2</sub>COCH<sub>3</sub> + OI<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
         "B": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> + KMnO<sub>4</sub>(Heat), OH<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
-        "C": "CH<sub>3</sub>CH<sub>2</sub>CCl<sub>3</sub> + OH<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
+        "C": "H<sub>3</sub>CH<sub>2</sub>CCl<sub>3</sub> + OH<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
         "D": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br + Mg, CO<sub>2</sub> dry ether/H<sub>3</sub>O<sup>+</sup>"
       },
       "answer": "D",
-      "solution": "All gives propanoic acid as product but option (d) gives butanoic as product<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264261/exam_images/umrm8mjbn9mw5yctxox5.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 98 English Explanation\">",
+      "solution": "All gives propanoic acid as product but option (d) gives butanoic as product<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2082\u2086\u2081/exam_images/umrm\u2088mjbn\u2089mw\u2085yctxox\u2085.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 98 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -453,7 +438,7 @@
       "question": "<p>Two statements are given below :</p> <p>Statement I : The melting point of monocarboxylic acid with even number of carbon atoms is higher than that of with odd number of carbon atoms acid immediately below and above it in the series.</p> <p>Statement II : The solubility of monocarboxylic acids in water decreases with increase in molar mass.</p> <p>Choose the most appropriate option :</p>",
       "options": {
         "A": "Both Statement I and Statement II are correct.",
-        "B": "Both Statement I and Statement II are incorrect.",
+        "B": "oth Statement I and Statement II are incorrect.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Statement I is incorrect but Statement II is correct."
       },
@@ -467,13 +452,13 @@
     {
       "question": "<p>Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R.</p> <p>Assertion A : A solution of the product obtained by heating a mole of glycine with a mole of chlorine in presence of red phosphorous generates chiral carbon atom.</p> <p>Reason R : A molecule with 2 chiral carbons is always optically active.</p> <p>In the light of the above statements, choose the correct answer from the options given below:</p>",
       "options": {
-        "A": "Both A and R are true and R is the correct explanation of A",
-        "B": "Both A and R are true but R is NOT the correct explanation of A",
+        "A": "Both A and R are true and R is the correct explanation of",
+        "B": "oth A and R are true but R is NOT the correct explanation of",
         "C": "A is true but R is false",
         "D": "A is false but R is true"
       },
       "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1libm5ngg/24f28c50-e2c2-4a57-aafa-ce6edaa17551/c7edc000-ffa4-11ed-b6d4-23f7435f51f2/file-1libm5ngh.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1libm5ngg/24f28c50-e2c2-4a57-aafa-ce6edaa17551/c7edc000-ffa4-11ed-b6d4-23f7435f51f2/file-1libm5ngh.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 11th April Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 36 English Explanation\"> <br><br>As for Reason R, it is false. A molecule with 2 chiral carbons is not necessarily optically active. It may be if the molecule is not superimposable on its mirror image (i.e., it's chiral). But if the molecule is superimposable on its mirror image (i.e., it's achiral), then it will not be optically active. This can occur if the molecule has a plane of symmetry, in which case it is a meso compound.",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1libm\u2085ngg/24f\u2082\u2088c\u2085\u2080-e\u2082c\u2082-4a\u2085\u2087-aafa-ce\u2086edaa\u2081\u2087\u2085\u2085\u2081/c\u2087edc\u2080\u2080\u2080-ffa\u2084-11ed-b\u2086d\u2084-23f\u2087\u2084\u2083\u2085f\u2085\u2081f\u2082/file-1libm\u2085ngh.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1libm\u2085ngg/24f\u2082\u2088c\u2085\u2080-e\u2082c\u2082-4a\u2085\u2087-aafa-ce\u2086edaa\u2081\u2087\u2085\u2085\u2081/c\u2087edc\u2080\u2080\u2080-ffa\u2084-11ed-b\u2086d\u2084-23f\u2087\u2084\u2083\u2085f\u2085\u2081f\u2082/file-1libm\u2085ngh.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 11th April Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 36 English Explanation\"> <br><br>As for Reason R, it is false. A molecule with 2 chiral carbons is not necessarily optically active. It may be if the molecule is not superimposable on its mirror image (i.e., it's chiral). But if the molecule is superimposable on its mirror image (i.e., it's achiral), then it will not be optically active. This can occur if the molecule has a plane of symmetry, in which case it is a meso compound.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -503,14 +488,14 @@
         "D": "$$C_3 H_6 O_2$$"
       },
       "answer": "A",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt1la4fb/dc1fd62d-8a7c-41e7-977d-3e058c2f64ae/e5d14f70-d3e7-11ee-999e-8967c8762139/file-1lt1la4fc.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt1la4fb/dc1fd62d-8a7c-41e7-977d-3e058c2f64ae/e5d14f70-d3e7-11ee-999e-8967c8762139/file-1lt1la4fc.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 27 English Explanation\"></p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt\u2081la\u2084fb/dc\u2081fd\u2086\u2082d-8a\u2087c-41e\u2087-977d-3e\u2080\u2085\u2088c\u2082f\u2086\u2084ae/e\u2085d\u2081\u2084f\u2087\u2080-d\u2083e\u2087-11ee-999e-8967c\u2088\u2087\u2086\u2082\u2081\u2083\u2089/file-1lt\u2081la\u2084fc.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt\u2081la\u2084fb/dc\u2081fd\u2086\u2082d-8a\u2087c-41e\u2087-977d-3e\u2080\u2085\u2088c\u2082f\u2086\u2084ae/e\u2085d\u2081\u2084f\u2087\u2080-d\u2083e\u2087-11ee-999e-8967c\u2088\u2087\u2086\u2082\u2081\u2083\u2089/file-1lt\u2081la\u2084fc.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 27 English Explanation\"></p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "The correct statement about the synthesis of erythritol (C(CH<sub>2</sub>OH)4) used in the preparation of PETN is :",
+      "question": "The correct statement about the synthesis of erythritol (C(CH<sub>2</sub>OH)\u2084) used in the preparation of PETN is :",
       "options": {
         "A": "The synthesis requires four aldol condensations between methanol and ethanol.",
         "B": "The synthesis requires two aldol condensations and two Cannizzaro reactions.",
@@ -518,14 +503,14 @@
         "D": "Alpha hydrogens of ethanol and methanol are involved in this reaction."
       },
       "answer": "C",
-      "solution": "<p>The synthesis of erythritol from aldehyde requires three aldol condensation and one Cannizzaro reaction.</p> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l3pdjr00/0556c59a-0141-4dc2-98ef-f90a0a9c89ce/d83d5700-de3e-11ec-8d15-d70e976d6a92/file-1l3pdjr01.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l3pdjr00/0556c59a-0141-4dc2-98ef-f90a0a9c89ce/d83d5700-de3e-11ec-8d15-d70e976d6a92/file-1l3pdjr01.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Online) 10th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 187 English Explanation\">",
+      "solution": "<p>The synthesis of erythritol from aldehyde requires three aldol condensation and one Cannizzaro reaction.</p> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083pdjr\u2080\u2080/0556c\u2085\u2089a-0141-4dc\u2082-98ef-f\u2089\u2080a\u2080a\u2089c\u2088\u2089ce/d\u2088\u2083d\u2085\u2087\u2080\u2080-de\u2083e-11ec-8d\u2081\u2085-d\u2087\u2080e\u2089\u2087\u2086d\u2086a\u2089\u2082/file-1l\u2083pdjr\u2080\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083pdjr\u2080\u2080/0556c\u2085\u2089a-0141-4dc\u2082-98ef-f\u2089\u2080a\u2080a\u2089c\u2088\u2089ce/d\u2088\u2083d\u2085\u2087\u2080\u2080-de\u2083e-11ec-8d\u2081\u2085-d\u2087\u2080e\u2089\u2087\u2086d\u2086a\u2089\u2082/file-1l\u2083pdjr\u2080\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Online) 10th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 187 English Explanation\">",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "The correct match between <b>Item I</b> and <b>Item II</b> is : <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv9zfont-size:22px;text-align:center .tg .tg-de48font-weight:bold;font-size:22px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de48\" colspan=\"2\">Item - I</th> <th class=\"tg-de48\" colspan=\"2\">Item - II</th> </tr> <tr> <td class=\"tg-de48\">(A)</td> <td class=\"tg-wv9z\">Benzaldehyde</td> <td class=\"tg-de48\">(P)</td> <td class=\"tg-wv9z\">Mobile phase</td> </tr> <tr> <td class=\"tg-de48\">(B)</td> <td class=\"tg-wv9z\">Alumina</td> <td class=\"tg-de48\">(Q)</td> <td class=\"tg-wv9z\">Adsorbent</td> </tr> <tr> <td class=\"tg-de48\">(C)</td> <td class=\"tg-wv9z\">Acetonitrile</td> <td class=\"tg-de48\">(R)</td> <td class=\"tg-wv9z\">Adsorbate</td> </tr> </tbody></table>",
+      "question": "The correct match between <b>Item I</b> and <b>Item II</b> is : <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;text-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - I</th> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - II</th> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(A)</td> <td class=\"tg-wv\u2089z\">Benzaldehyde</td> <td class=\"tg-de\u2084\u2088\">(P)</td> <td class=\"tg-wv\u2089z\">Mobile phase</td> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(B)</td> <td class=\"tg-wv\u2089z\">Alumina</td> <td class=\"tg-de\u2084\u2088\">(Q)</td> <td class=\"tg-wv\u2089z\">Adsorbent</td> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(C)</td> <td class=\"tg-wv\u2089z\">Acetonitrile</td> <td class=\"tg-de\u2084\u2088\">(R)</td> <td class=\"tg-wv\u2089z\">Adsorbate</td> </tr> </tbody></table>",
       "options": {
         "A": "(A) $$ \\to $$ (Q); (B) $$ \\to $$ (P); (C) $$ \\to $$ (R)",
         "B": "(A) $$ \\to $$ (R); (B) $$ \\to $$ (Q); (C) $$ \\to $$ (P)",
@@ -533,7 +518,7 @@
         "D": "(A) $$ \\to $$ (P); (B) $$ \\to $$ (R); (C) $$ \\to $$ (Q)"
       },
       "answer": "B",
-      "solution": "<p>To determine the correct match between <b>Item I</b> and <b>Item II</b>, let's analyze each item and its corresponding match :</p> <p>1. <b>Benzaldehyde:</b> Benzaldehyde is an aromatic aldehyde, which is typically considered as an adsorbate in chromatography. An adsorbate is a substance that is adsorbed on a surface.</p> <p>2. <b>Alumina:</b> Alumina (Aluminum oxide) is well known for its use as an adsorbent in chromatography processes. An adsorbent is a material that adsorbs another substance.</p> <p>3. <b>Acetonitrile:</b> Acetonitrile is an organic solvent often used as a mobile phase in chromatography. The mobile phase is the phase that moves in chromatography, helping to carry the sample through the stationary phase.</p> <p>Now, let's match the items :</p> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de48\" colspan=\"2\">Item - I</th> <th class=\"tg-de48\" colspan=\"2\">Item - II</th> </tr> <tr> <td class=\"tg-de48\">(A)</td> <td class=\"tg-wv9z\">Benzaldehyde</td> <td class=\"tg-de48\">(R)</td> <td class=\"tg-wv9z\">Adsorbate</td> </tr> <tr> <td class=\"tg-de48\">(B)</td> <td class=\"tg-wv9z\">Alumina</td> <td class=\"tg-de48\">(Q)</td> <td class=\"tg-wv9z\">Adsorbent</td> </tr> <tr> <td class=\"tg-de48\">(C)</td> <td class=\"tg-wv9z\">Acetonitrile</td> <td class=\"tg-de48\">(P)</td> <td class=\"tg-wv9z\">Mobile phase</td> </tr> </tbody></table> <p>Therefore, the correct match is :</p> <p>(A) $$\\to$$ (R); (B) $$\\to$$ (Q); (C) $$\\to$$ (P)</p> <p>This corresponds to <b>Option B</b>.</p>",
+      "solution": "<p>To determine the correct match between <b>Item I</b> and <b>Item II</b>, let's analyze each item and its corresponding match :</p> <p>1. <b>Benzaldehyde:</b> Benzaldehyde is an aromatic aldehyde, which is typically considered as an adsorbate in chromatography. An adsorbate is a substance that is adsorbed on a surface.</p> <p>2. <b>Alumina:</b> Alumina (Aluminum oxide) is well known for its use as an adsorbent in chromatography processes. An adsorbent is a material that adsorbs another substance.</p> <p>3. <b>Acetonitrile:</b> Acetonitrile is an organic solvent often used as a mobile phase in chromatography. The mobile phase is the phase that moves in chromatography, helping to carry the sample through the stationary phase.</p> <p>Now, let's match the items :</p> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - I</th> <th class=\"tg-de\u2084\u2088\" colspan=\"2\">Item - II</th> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(A)</td> <td class=\"tg-wv\u2089z\">Benzaldehyde</td> <td class=\"tg-de\u2084\u2088\">(R)</td> <td class=\"tg-wv\u2089z\">Adsorbate</td> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(B)</td> <td class=\"tg-wv\u2089z\">Alumina</td> <td class=\"tg-de\u2084\u2088\">(Q)</td> <td class=\"tg-wv\u2089z\">Adsorbent</td> </tr> <tr> <td class=\"tg-de\u2084\u2088\">(C)</td> <td class=\"tg-wv\u2089z\">Acetonitrile</td> <td class=\"tg-de\u2084\u2088\">(P)</td> <td class=\"tg-wv\u2089z\">Mobile phase</td> </tr> </tbody></table> <p>Therefore, the correct match is :</p> <p>(A) $$\\to$$ (R); (B) $$\\to$$ (Q); (C) $$\\to$$ (P)</p> <p>This corresponds to <b>Option B</b>.</p>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -548,7 +533,7 @@
         "D": "halogens"
       },
       "answer": "C",
-      "solution": "2,4 DNP test is used to identify \\\u2013 (CO) \\\u2013 group. It gives addition reaction with carbonyl compounds. So, it can be used to identify aldehyde in the given option. It gives yellow/ orange ppt with carbonyl containing compounds. <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263687/exam_images/dgz4kaenmlgfyszjbim7.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 123 English Explanation\">",
+      "solution": "2,4 DNP test is used to identify \\\u2013 (CO) \\\u2013 group. It gives addition reaction with carbonyl compounds. So, it can be used to identify aldehyde in the given option. It gives yellow/ orange ppt with carbonyl containing compounds. <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2086\u2088\u2087/exam_images/dgz\u2084kaenmlgfyszjbim\u2087.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 123 English Explanation\">",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Chemistry",
@@ -572,10 +557,10 @@
     {
       "question": "<p>The descending order of acidity for the following carboxylic acid is-</p> <p>A. $$CH_3 COOH$$</p> <p>B. $$F_3 C-COOH$$</p> <p>C. $$ClCH_2-COOH$$</p> <p>D. $$FCH_2-COOH$$</p> <p>E. $$BrCH_2-COOH$$</p> <p>Choose the correct answer from the options given below:</p>",
       "options": {
-        "A": "B > C > D > E > A",
-        "B": "D > B > A > E > C",
-        "C": "B > D > C > E > A",
-        "D": "E > D > B > A > C"
+        "A": "B > C > D > E >",
+        "B": "D > B > A > E >",
+        "C": "B > D > C > E >",
+        "D": "E > D > B > A >"
       },
       "answer": "C",
       "solution": "<p>The acidity of carboxylic acids is influenced by the electron-withdrawing ability of the groups attached to the carboxylic acid. The stronger the electron-withdrawing ability of the group, the more it stabilizes the carboxylate anion (formed after losing the acidic proton), and hence the stronger the acid. </p> <p>Let's look at the groups attached to the carboxylic acid in each option:</p> <p>A. $$CH_3-$$: Methyl group. It's electron-donating due to the hyperconjugation effect.</p> <p>B. $$F_3C-$$: Trifluoromethyl group. Strong electron-withdrawing group due to the electronegativity of fluorine atoms and inductive effect.</p> <p>C. $$ClCH_2-$$: Chloromethyl group. It has some electron-withdrawing ability due to the electronegativity of the chlorine atom, but it's less than that of fluorine.</p> <p>D. $$FCH_2-$$: Fluoromethyl group. It has electron-withdrawing ability due to the electronegativity of the fluorine atom, but less than that of the trifluoromethyl group.</p> <p>E. $$BrCH_2-$$: Bromomethyl group. It has some electron-withdrawing ability due to the electronegativity of the bromine atom, but it's less than that of chlorine and fluorine.</p> <p>So the order of acidity will be: B > D > C > E > A</p>",
@@ -593,14 +578,14 @@
         "D": "(A) - I, (B) - II, (C) - III, (D) - IV"
       },
       "answer": "B",
-      "solution": "(A) Molisch test is for carbohydrates <br/><br/>(B) Biuret test is for proteins/peptide <br/><br/>(C) Carbylamine test is for primary amine <br/><br/>(D) Schiff\\u2019s test is for aldehyde",
+      "solution": "(A) Molisch test is for carbohydrates <br/><br/>(B) Biuret test is for proteins/peptide <br/><br/>(C) Carbylamine test is for primary amine <br/><br/>(D) Schiff\\u\u2082\u2080\u2081\u2089s test is for aldehyde",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
       "chapter": "Aldehydes, Ketones and Carboxylic Acids"
     },
     {
-      "question": "At 518<sup>o</sup>C the rate of decomposition of a sample of gaseous acetaldehyde initially at a pressure of 363 Torr, was 1.00 Torr s<sup>\\\u20131</sup> when 5% had reacted and 0.5 Torr s<sup>\\\u20131</sup> when 33% had reacted. The order of the reaction is",
+      "question": "At\u2085\u2081\u2088<sup>o</sup>C the rate of decomposition of a sample of gaseous acetaldehyde initially at a pressure of 363 Torr, was 1.00 Torr s<sup>\\\u20131</sup> when 5% had reacted and 0.5 Torr s<sup>\\\u20131</sup> when 33% had reacted. The order of the reaction is",
       "options": {
         "A": "0",
         "B": "2",
@@ -648,7 +633,7 @@
       "question": "<p>Given below are two Statements:</p> <p>Statement I : Classical smog occurs in cool humid climate. It is a reducing mixture of smoke, fog and sulphur dioxide.</p> <p>Statement II : Photochemical smog has components, ozone, nitric oxide, acrolein, formaldehyde, PAN etc.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
       "options": {
         "A": "Both Statement I and Statement II are correct.",
-        "B": "Both Statement I and Statement II are incorrect.",
+        "B": "oth Statement I and Statement II are incorrect.",
         "C": "Statement I is correct but Statement II is incorrect.",
         "D": "Statement I is incorrect but Statement II is correct."
       },
@@ -668,7 +653,7 @@
         "D": "2-methyl propene."
       },
       "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lc3xvqcx/1c429d41-7d0c-4e07-9dc6-b4c856bde6af/1028fa10-84a3-11ed-9935-c94109650755/file-1lc3xvqcy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lc3xvqcx/1c429d41-7d0c-4e07-9dc6-b4c856bde6af/1028fa10-84a3-11ed-9935-c94109650755/file-1lc3xvqcy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Morning Shift Chemistry - Hydrocarbons Question 53 English Explanation\">",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lc\u2083xvqcx/1c\u2084\u2082\u2089d\u2084\u2081-7d\u2080c-4e\u2080\u2087-9dc\u2086-b\u2084c\u2088\u2085\u2086bde\u2086af/1028fa\u2081\u2080-84a\u2083-11ed-9935-c\u2089\u2084\u2081\u2080\u2089\u2086\u2085\u2080\u2087\u2085\u2085/file-1lc\u2083xvqcy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lc\u2083xvqcx/1c\u2084\u2082\u2089d\u2084\u2081-7d\u2080c-4e\u2080\u2087-9dc\u2086-b\u2084c\u2088\u2085\u2086bde\u2086af/1028fa\u2081\u2080-84a\u2083-11ed-9935-c\u2089\u2084\u2081\u2080\u2089\u2086\u2085\u2080\u2087\u2085\u2085/file-1lc\u2083xvqcy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Morning Shift Chemistry - Hydrocarbons Question 53 English Explanation\">",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -679,11 +664,11 @@
       "options": {
         "A": "hexa-1, 3, 5-triene",
         "B": "cyclohexa-1, 4-diene",
-        "C": "cyclohexa - 1,3 - diene",
+        "C": "yclohexa - 1,3 - diene",
         "D": "1-methylcyclopenta-1, 4-diene"
       },
       "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lecv71tn/b6f44ebf-4470-4793-b575-e856895b1919/0c21bcb0-b124-11ed-a8fc-b3bd3ab31931/file-1lecv71to.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lecv71tn/b6f44ebf-4470-4793-b575-e856895b1919/0c21bcb0-b124-11ed-a8fc-b3bd3ab31931/file-1lecv71to.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 31st January Evening Shift Chemistry - Hydrocarbons Question 41 English Explanation\">",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lecv\u2087\u2081tn/b\u2086f\u2084\u2084ebf-4470-4793-b\u2085\u2087\u2085-e\u2088\u2085\u2086\u2088\u2089\u2085b\u2081\u2089\u2081\u2089/0c\u2082\u2081bcb\u2080-b\u2081\u2082\u2084-11ed-a\u2088fc-b\u2083bd\u2083ab\u2083\u2081\u2089\u2083\u2081/file-1lecv\u2087\u2081to.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lecv\u2087\u2081tn/b\u2086f\u2084\u2084ebf-4470-4793-b\u2085\u2087\u2085-e\u2088\u2085\u2086\u2088\u2089\u2085b\u2081\u2089\u2081\u2089/0c\u2082\u2081bcb\u2080-b\u2081\u2082\u2084-11ed-a\u2088fc-b\u2083bd\u2083ab\u2083\u2081\u2089\u2083\u2081/file-1lecv\u2087\u2081to.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 31st January Evening Shift Chemistry - Hydrocarbons Question 41 English Explanation\">",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -693,9 +678,9 @@
       "question": "Bakelite is a cross-linked polymer of formaldehyde and :",
       "options": {
         "A": "PHBV",
-        "B": "Buna-S",
+        "B": "una-S",
         "C": "Novolac",
-        "D": "Dacron"
+        "D": "acron"
       },
       "answer": "C",
       "solution": "Novolac (phenol formaldehyde Resin) $$\\to$$ Bakelite",

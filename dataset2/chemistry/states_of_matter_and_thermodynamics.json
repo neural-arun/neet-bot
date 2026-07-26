@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "chapter": "States of Matter and Thermodynamics",
-  "total_questions": 171,
+  "total_questions": 126,
   "questions": [
     {
       "question": "Refer to the Face-Centered Cubic (FCC) unit cell lattice diagram. Calculate the total number of effective atoms per unit cell in an FCC crystal structure:",
@@ -22,13 +22,13 @@
     {
       "question": "What is the density of $N_2$ at $227^\\circ C$ and $5.00 ~atm$ pressure? $\\left(R=0.082 ~L ~atm ~K^-1\\right.$ $\\left.mol^-1\\right)$",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "40 ~g / ml$",
         "C": "81 ~g / ml$",
         "D": "41 ~g / ml$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginaligned pV & =n RT \\\\ P & =\\fracmM \\times \\fracRTV \\\\ & =\\frac5 \\times 280.0821 \\times 500=3.41 ~g / mL \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginaligned pV & =n RT \\\\ P & =\\fracmM \\times \\fracRTV \\\\ & =\\frac\u2085 \\times 280.0821 \\times 500=3.41 ~g / mL \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -37,9 +37,9 @@
     {
       "question": "What is the relationship between the Kelvin temperature scale and the Celsius temperature scale for any given temperature \"t\" in degrees Celsius?",
       "options": {
-        "A": "A T = t B T = t + 27",
-        "B": "15 C T = t - 27",
-        "C": "15 D T = t * 27",
+        "A": "T = t BT = t + 27",
+        "B": "15 CT = t - 27",
+        "C": "15 DT = t * 27",
         "D": "15"
       },
       "answer": "A",
@@ -52,35 +52,20 @@
     {
       "question": "Body centred cubic and face centred cubic unit cells have n 1 and n 2 effective number of atoms. Which one the following ( n 1 , n 2 ) combination is correct?",
       "options": {
-        "A": "A (4,",
-        "B": "B (4,",
-        "C": "C (1,",
-        "D": "D (2,"
+        "A": "(4,",
+        "B": "(4,",
+        "C": "(1,",
+        "D": "(2,"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Number of atoms in BCC unti cell = 1 + 8 \u00d7 1 8 = 1 + 1 = 2 FCC unit cell = 8 \u00d7 1 8 + 6 \u00d7 1 2 = 1 + 3 = 4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Number of atoms in BCC unti cell = 1 + 8 \u00d7 18 = 1 + 1 = 2 FCC unit cell = 8 \u00d7 18 + 6 \u00d7 12 = 1 + 3 = 4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "By what factor does the average velocity of a gaseous molecule increase when the absolute temperature is doubled?",
-      "options": {
-        "A": "A",
-        "B": "4",
-        "C": "0",
-        "D": "8"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Average velocity of a gaseous molecule = 8 R T \u03c0 M If the absolute temperature is doubled, then new Average velocity becomes = 8 R . 2 T \u03c0 M New average velocity = 2 . 8 R T \u03c0 M New average velocity = 1.4 \u00d7 original average velocity. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "[NEET 2016 | Chemistry] For N2(g) + 3H2(g) -> 2NH3(g):",
+      "question": "[NEET 2016 | Chemistry] For N\u2082(g) + 3H\u2082(g) -> 2NH\u2083(g):",
       "options": {
         "A": "DH = DU",
         "B": "DH > DU",
@@ -88,18 +73,18 @@
         "D": "None of these"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) \\u0394H < \\u0394U** ## Step-by-Step Reasoning **The Key Relationship:** $$\\Delta H = \\Delta U + \\Delta nRT$$ Where: - \\u0394H = enthalpy change - \\u0394U = internal energy change - \\u0394n = change in number of moles of gas - R = gas constant (always positive) - T = temperature in Kelvin (always positive) **Calculate \\u0394n:** - **Gaseous reactants:** N\\u2082(g) + 3H\\u2082(g) = **4 moles** - **Gaseous products:** 2NH\\u2083(g) = **2 moles** - **\\u0394n = 2 - 4 = -2** (negative!) **Substitute:** $$\\Delta H = \\Delta U + (-2)RT$$ $$\\Delta H = \\Delta U - 2RT$$ Since 2RT is a **positive quantity**: $$\\Delta H = \\Delta U - \\text(positive value)$$ Therefore: **\\u0394H < \\u0394U** ## Why This Happens In this reaction, **4 moles of gas become 2 moles of gas**\\\u2014there's a decrease in the number of gas molecules. This means: - Work is done **on the system** by surroundings (compression) - The system loses energy as work - \\u0394U > \\u0394H by exactly \\u0394(nRT) ## Why Other Options Are Wrong - **(A) \\u0394H = \\u0394U:** Only true when \\u0394n = 0 (no change in moles of gas) - **(B) \\u0394H > \\u0394U:** Would only be true if \\u0394n were positive (increasing moles of gas) - **(D) None of these:** Wrong because (C) is correct ## Key Formula to Remember $$\\boxed\\Delta H = \\Delta U + \\Delta n_gasRT$$ **For NEET:** Always check \\u0394n = (moles of gaseous products) - (moles of gaseous reactants) to determine whether \\u0394H > \\u0394U, \\u0394H < \\u0394U, or \\u0394H = \\u0394U",
+      "solution": "# Answer: **(C) \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Step-by-Step Reasoning **The Key Relationship:** $$\\Delta H = \\Delta U + \\Delta nRT$$ Where: - \\u\u2080\u2083\u2089\u2084H = enthalpy change - \\u\u2080\u2083\u2089\u2084U = internal energy change - \\u\u2080\u2083\u2089\u2084n = change in number of moles of gas - R = gas constant (always positive) - T = temperature in Kelvin (always positive) **Calculate \\u\u2080\u2083\u2089\u2084n:** - **Gaseous reactants:** N\\u\u2082\u2080\u2088\u2082(g) + 3H\\u\u2082\u2080\u2088\u2082(g) = **4 moles** - **Gaseous products:** 2NH\\u\u2082\u2080\u2088\u2083(g) = **2 moles** - **\\u\u2080\u2083\u2089\u2084n = 2 - 4 = -2** (negative!) **Substitute:** $$\\Delta H = \\Delta U + (-2)RT$$ $$\\Delta H = \\Delta U - 2RT$$ Since 2RT is a **positive quantity**: $$\\Delta H = \\Delta U - \\text(positive value)$$ Therefore: **\\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U** ## Why This Happens In this reaction, **4 moles of gas become 2 moles of gas**\\\u2014there's a decrease in the number of gas molecules. This means: - Work is done **on the system** by surroundings (compression) - The system loses energy as work - \\u\u2080\u2083\u2089\u2084U > \\u\u2080\u2083\u2089\u2084H by exactly \\u\u2080\u2083\u2089\u2084(nRT) ## Why Other Options Are Wrong - **(A) \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U:** Only true when \\u\u2080\u2083\u2089\u2084n = 0 (no change in moles of gas) - **(B) \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U:** Would only be true if \\u\u2080\u2083\u2089\u2084n were positive (increasing moles of gas) - **(D) None of these:** Wrong because (C) is correct ## Key Formula to Remember $$\\boxed\\Delta H = \\Delta U + \\Delta n_gasRT$$ **For NEET:** Always check \\u\u2080\u2083\u2089\u2084n = (moles of gaseous products) - (moles of gaseous reactants) to determine whether \\u\u2080\u2083\u2089\u2084H > \\u\u2080\u2083\u2089\u2084U, \\u\u2080\u2083\u2089\u2084H < \\u\u2080\u2083\u2089\u2084U, or \\u\u2080\u2083\u2089\u2084H = \\u\u2080\u2083\u2089\u2084U",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "1 mol of ice is converted to liquid at 273 K; H 2 O (s) and H 2 O (l) have entropies 38.20 and 60.03 J m o l - 1 d e g . Enthalpy changes in the conversion will be",
+      "question": "1 mol of ice is converted to liquid at 273 K; H\u2082 O (s) and H\u2082 O (l) have entropies 38.20 and 60.03 J m o l - 1 d e g . Enthalpy changes in the conversion will be",
       "options": {
-        "A": "A 5",
-        "B": "59 J/mol B 595",
-        "C": "59 J/mol C 59",
+        "A": "5",
+        "B": "59 J/mol B\u2085\u2089\u2085",
+        "C": "59 J/mol C\u2085\u2089",
         "D": "959 J/mol"
       },
       "answer": "A",
@@ -110,30 +95,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Calculate the total pressure in a 10.0 L cylinder which contains 0.4 g helium, 1.6 g oxygen and 1.4 g nitrogen at 27 \u2103 . R = 0.082 L amp K -1 mol -1",
-      "options": {
-        "A": "A",
-        "B": "492 atm B",
-        "C": "2 atm",
-        "D": "92 atm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** N u m b e r o f m o l e s o f H e = 0.4 4 = 0.1 N u m b e r o f m o l e s o f o x y g e n = 1.6 32 = 0.05 N u m b e r o f m o l e s o f n i t r o g e n = 1.4 28 = 0.05 T o t a l m o l e s i n t h e 10.0 L c y l i n d e r a t 27 \u2103 = 0.1 + 0.05 + 0.05 = 0.2 m o l p T = n R T V = 0.2 \u00d7 0.082 \u00d7 300 10 = 0.492 a t m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "The lattice energy of solid NaCl is 180 kcal/mol. The dissolution of the solid in water in the form of ions is endothermic to the extent of 1 kcal/mol. If the hydration energies of Na + and Cl - are in the ratio 6 : 5, what is the enthalpy of hydration of Na + ion ?",
       "options": {
-        "A": "A -",
+        "A": "-",
         "B": "5 kcal mol -1 B - 9",
         "C": "64 kcal mol -1 C + 8",
         "D": "6 kcal mol -1 D + 100 kcal mol -1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H solu = \u0394 H hydration + \u0394 H Lattice 1 = \u0394 H hydration + 1 8 0 \u0394 H hydration = - 1 7 9 kcal mol - 1 \u0394 H hyd Na + + \u0394 H hyd cl - = -1 7 9 kcal mol - 1 \u0394 H hyd Na + = - 1 7 9 \u00d7 6 1 1 = - 9 7 \u00b7 6 4 kcal mol - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H solu = \u0394 H hydration + \u0394 H Lattice 1 = \u0394 H hydration + 18 0 \u0394 H hydration = - 17 9 kcal mol - 1 \u0394 H hyd Na + + \u0394 H hyd cl - = -17 9 kcal mol - 1 \u0394 H hyd Na + = - 17 9 \u00d7 61 1 = - 97 \u00b7 64 kcal mol - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -142,103 +112,58 @@
     {
       "question": "Sodium has body centred packing. Distance between two nearest atoms is $3.7 \u00c3 $. The lattice parameter is",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "8 \u00c3 $",
         "C": "3 \u00c3 $",
         "D": "0 \u00c3 $"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Neighbour distance of a body centred cubic cell $d=\\frac\\sqrt32 a$, where $a$ is the lattice parameter. $$ \\beginarrayll \\Rightarrow & 3.7=\\frac\\sqrt3 a2 \\\\ \\text or & a=\\frac2 \\times 3.7\\sqrt3=4.3 \u00c3 \\endarray $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Neighbour distance of a body centred cubic cell $d=\\frac\\sqrt\u2083\u2082 a$, where $a$ is the lattice parameter. $$ \\beginarrayll \\Rightarrow & 3.7=\\frac\\sqrt\u2083 a\u2082 \\\\ \\text or & a=\\frac\u2082 \\times 3.7\\sqrt\u2083=4.3 \u00c3 \\endarray $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Which change must result in an increase in the average kinetic energy of the molecules of a sample of N 2 ( g ) ?",
+      "question": "Which change must result in an increase in the average kinetic energy of the molecules of a sample of N\u2082 ( g ) ?",
       "options": {
-        "A": "A The pressure changes from",
-        "B": "5 atmosphere to 1 atm B The volume changes from 1 L to 2 L C The temperature changes from 20 \u00b0 C to 30 \u00b0 C D The density changes from",
+        "A": "The pressure changes from",
+        "B": "5 atmosphere to 1 atm B The volume changes from 1 L to 2 LC The temperature changes from 20 \u00b0 C to 30 \u00b0 CD The density changes from",
         "C": "0 g/L to",
         "D": "5 g/L"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Average K.E. per mol = 3 2 R T \u221d T So, a temperature increases causes the molecules to more faster and this results in a higher average kinetic energy. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Average K.E. per mol = 32 RT \u221d T So, a temperature increases causes the molecules to more faster and this results in a higher average kinetic energy. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The \u0394 H f 0 for C O 2 ( g ) , C O ( g ) and H 2 O ( g ) are - 393.5 , - 110.5 and - 241.8 k J m o l - 1 respectively. The standard enthalpy changes ( i n k J ) for the reaction C O 2 g + H 2 g \u2192 C O g + H 2 O ( g ) is",
+      "question": "The \u0394 H f 0 for C O\u2082 ( g ) , CO ( g ) and H\u2082 O ( g ) are - 393.5 , - 110.5 and - 241.8 k J m o l - 1 respectively. The standard enthalpy changes ( i n k J ) for the reaction C O\u2082 g + H\u2082 g \u2192 CO g + H\u2082 O ( g ) is",
       "options": {
-        "A": "A 52",
-        "B": "1 B",
+        "A": "52",
+        "B": "1",
         "C": "2 C - 26",
         "D": "5 D \u2013"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H r e a c t i o n \u00b0 = \u0394 H f \u00b0 C O + \u0394 H f \u00b0 H 2 O , g - \u0394 H f \u00b0 C O 2 , g = \u2013 110.5 \u2013 241.8 + 393.5 = 41.2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H r e a c t i o n \u00b0 = \u0394 H f \u00b0 CO + \u0394 H f \u00b0 H\u2082 O , g - \u0394 H f \u00b0 C O\u2082 , g = \u2013 110.5 \u2013 241.8 + 393.5 = 41.2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Equal volumes of two monoatomic gases, $A$ and $B$, at same temperature and pressure are mixed. The ratio of specific heats $\\left(c_p / c_V\\right)$ of the mixture will be",
+      "question": "Calculate \u0394 f G \u2218 for (NH 4 Cl, s) at 310 K. Given : \u0394 f H \u2218 NH 4 Cl, s = - 314.5 kJ/mol ; \u0394 r C p = 0 S N\u2082 g \u2218 = 192 JK -1 mol -1 ; S H\u2082 g \u2218 = 130.5 JK -1 mol -1 ; S Cl\u2082 g \u2218 = 233 JK -1 mol -1 ; S NH 4 Cl s \u2218 = 99.5 JK -1 mol -1 All given data at 300 K.",
       "options": {
-        "A": "A",
-        "B": "83",
-        "C": "50",
-        "D": "3"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For monoatomic gases, $$ \\fracc_pc_V=\\gamma=\\frac\\frac52 R\\frac32 R 1.67 $$ $\\because$ Equal volumes of two monoatomic gases are mixed. $\\therefore \\gamma$ will remain the same. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What is the value of Bohr magneton (\u03bc B)?",
-      "options": {
-        "A": "A",
-        "B": "27 \u00d7 10\u201312 A m",
-        "C": "27 \u00d7 10\u201320 A m",
-        "D": "27 \u00d7 10\u201324 A m2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Bohr magneton (\u03bc **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Calculate \u0394 f G \u2218 for (NH 4 Cl, s) at 310 K. Given : \u0394 f H \u2218 NH 4 Cl, s = - 314.5 kJ/mol ; \u0394 r C p = 0 S N 2 g \u2218 = 192 JK -1 mol -1 ; S H 2 g \u2218 = 130.5 JK -1 mol -1 ; S Cl 2 g \u2218 = 233 JK -1 mol -1 ; S NH 4 Cl s \u2218 = 99.5 JK -1 mol -1 All given data at 300 K.",
-      "options": {
-        "A": "A - 19",
+        "A": "- 19",
         "B": "56 kJ/mol B - 42",
         "C": "7 kJ/mol C - 20",
         "D": "3 kJ/mol D None of these"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u00e2\u0088\u0086 f S 0 N H 4 C l , s a t 300 K = S N H 4 C l ( S ) 0 \u00e2\u0088\u0092 [ 1 2 S N 2 0 + 2 S H 2 0 + 1 2 S C l 2 0 ] = - 374 J K - 1 m o l - 1 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f C p = 0 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f S 310 0 = \u00e2\u0088\u0086 r S 300 0 = - 374 J K - 1 m o l - 1 \u00e2\u0088\u0086 f H 310 0 = \u00e2\u0088\u0086 f H 300 0 = - 314.5 \u00e2\u0088\u0086 f G 310 0 = \u00e2\u0088\u0086 f H 0 - 310 \u00e2\u0088\u0086 f S 0 = - 314.5 - 310 - 374 1000 - 198.56 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A vessel of 120 mL capacity contains a certain amount of gas at 35 \u00b0C and 1.2 bar pressure. The gas is transferred to another vessel of volume 180 mL at 35 \u00b0C. What would be its pressure?",
-      "options": {
-        "A": "A",
-        "B": "3 bar",
-        "C": "8 bar",
-        "D": "4 bar"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 0.8 bar **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u00e2\u0088\u0086 f S\u2080 N H\u2084 C l , s a t 300 K = SN H\u2084 C l ( S ) 0 \u00e2\u0088\u0092 [ 12 S N\u2082\u2080 + 2 S H\u2082\u2080 + 12 SC l 20 ] = - 374 JK - 1 m o l - 1 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f C p = 0 \u00e2\u0088\u00b4 \u00e2\u0088\u0086 f S\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 r S\u2083\u2080\u2080\u2080 = - 374 JK - 1 m o l - 1 \u00e2\u0088\u0086 f H\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 f H\u2083\u2080\u2080\u2080 = - 314.5 \u00e2\u0088\u0086 f G\u2083\u2081\u2080\u2080 = \u00e2\u0088\u0086 f H\u2080 - 310 \u00e2\u0088\u0086 f S\u2080 = - 314.5 - 310 - 3741000 - 198.56 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -247,10 +172,10 @@
     {
       "question": "The enthalpy of atomisation for the reaction CH 4 (g)\u2192 C(g) + 4H (g) is 1665 kJ mol \u20131 . What is the bond energy of C\u2013H bond?",
       "options": {
-        "A": "A 41",
-        "B": "2 kJ mol \u20131 B 46",
-        "C": "4 kJ mol \u20131 C 36",
-        "D": "3 kJ mol \u20131 D 53"
+        "A": "41",
+        "B": "2 kJ mol \u20131 B\u2084\u2086",
+        "C": "4 kJ mol \u20131 C\u2083\u2086",
+        "D": "3 kJ mol \u20131 D\u2085\u2083"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 416.2 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -260,39 +185,9 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "An element (atomic mass = 100 g/mol) having bcc structure has unit cell edge 400 pm. Then density of the element is",
+      "question": "The difference between heats of reaction at constant pressure and constant volume for the reaction, 2 C\u2086 H\u2086 ( l ) + 15 O\u2082 ( g ) \u2192 12 C O\u2082 ( g ) + 6 H\u2082 O ( l ) at 25 \u00b0 C in kJ is",
       "options": {
-        "A": "A",
-        "B": "376 g / c m 3",
-        "C": "188 g / c m 3",
-        "D": "289 g / c m 3"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In bcc structure number of atoms (Z = 2) Density = Z \u00d7 M a 3 \u00d7 N A = 2 \u00d7 100 ( 400 \u00d7 1 0 - 10 ) 3 \u00d7 6.02 \u00d7 1 0 23 = 5.188 g / c m 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "If NaCl is doped with 1 0 - 4 mol% of S r C l 2 , the concentration of cation vacancies will be ( N A = 6.02 \u00d7 1 0 23 m o l - 1 )",
-      "options": {
-        "A": "A",
-        "B": "02 \u00d7 1 0 16 m o l - 1",
-        "C": "02 \u00d7 1 0 17 m o l - 1",
-        "D": "02 \u00d7 1 0 14 m o l - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** As each S r 2 + ion introduces one cation vacancy, therefore, concentration of cation vacancies = mole% of S r C l 2 added. So concentration of cation vacancies = 1 0 - 4 m o l e % = 1 0 - 4 100 \u00d7 6.023 \u00d7 1 0 23 \u00d7 1 = 6.023 \u00d7 1 0 17 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The difference between heats of reaction at constant pressure and constant volume for the reaction, 2 C 6 H 6 ( l ) + 15 O 2 ( g ) \u2192 12 C O 2 ( g ) + 6 H 2 O ( l ) at 25 \u00b0 C in kJ is",
-      "options": {
-        "A": "A +",
+        "A": "+",
         "B": "43 B -",
         "C": "72 C +",
         "D": "72 D -"
@@ -305,42 +200,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The molar heat capacity of water at constant pressure P, is 75 J K - 1 m o l - 1 . When 1.0 kJ of heat is supplied to 100 g of water which is free to expand, the increase in temperature of water is",
-      "options": {
-        "A": "A",
-        "B": "2 K",
-        "C": "4 K",
-        "D": "8 K"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** q = n . C p \u0394 T 1000 = 100 18 \u00d7 75 \u00d7 \u0394 T So \u0394 T = 2.4 K. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The enthalpy of vapourisation of CCl 4 is 30.5 kJ mol \u20131 . Calculate the heat required for the vapourisation of 284 g of CCl 4 at constant pressure. (Molar mass of CCl 4 = 154 g mol \u20131 ).",
-      "options": {
-        "A": "A",
-        "B": "8kJ B 6",
-        "C": "4kJ C 5",
-        "D": "2 kJ D 7"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 56.2 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "[NEET 2020 | Chemistry] For a reaction to be spontaneous at all temperatures, which combination is required?",
       "options": {
-        "A": "\\u0394H > 0, \\u0394S > 0",
-        "B": "\\u0394H < 0, \\u0394S < 0",
-        "C": "\\u0394H < 0, \\u0394S > 0",
-        "D": "\\u0394H > 0, \\u0394S < 0"
+        "A": "\\u\u2080\u2083\u2089\u2084H > 0, \\u\u2080\u2083\u2089\u2084S > 0",
+        "B": "\\u\u2080\u2083\u2089\u2084H < 0, \\u\u2080\u2083\u2089\u2084S < 0",
+        "C": "\\u\u2080\u2083\u2089\u2084H < 0, \\u\u2080\u2083\u2089\u2084S > 0",
+        "D": "\\u\u2080\u2083\u2089\u2084H > 0, \\u\u2080\u2083\u2089\u2084S < 0"
       },
       "answer": "A",
       "solution": "# Answer: **(C) \u0394H < 0, \u0394S > 0** --- ## Step-by-Step Reasoning To determine spontaneity, we use the **Gibbs Free Energy equation**: ### Key Formula: $$\\Delta G = \\Delta H - T\\Delta S$$ **For spontaneity:** \u0394G < 0 (must be negative) --- ## Analysis of Each Option | Option | \u0394H | \u0394S | \u0394G = \u0394H - T\u0394S | Result | |--------|-----|-----|---------------|--------| | **(C)** | **\u2212** | **+** | **\u2212 \u2212 (+)** = **always \u2212** | \u2713 **Spontaneous at all T** | | (A) | + | + | + \u2212 (+) = depends on T | Spontaneous only at high T | | (B) | \u2212 | \u2212 | \u2212 \u2212 (\u2212) = depends on T | Spontaneous only at low T | | (D) | + | \u2212 | + \u2212 (\u2212) = + + (+) | Never spontaneous | --- ## Why Option (C) Works **\u0394G = \u0394H \u2212 T\u0394S = (negative) \u2212 T(positive)** - Both terms contribute to making \u0394G negative - The \"\u2212 T\u00b7\u0394S\" term is always negative (since \u0394S > 0) - No matter how high T gets, \u0394G remains negative - Therefore, **spontaneous at ALL temperatures** --- ## Key Fact to Remember For spontaneity at **all temperatures**, you need: - **Exothermic reaction** (\u0394H < 0) \u2713 - **Entropy increases** (\u0394S > 0) \u2713 Both \"driving forces\" work together favorably!",
@@ -350,45 +215,45 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The bond dissociation energies for C l 2 , I 2 and I C l are 242.3 , 151 and 211.3 k J / m o l respectively. The enthalpy of sublimation of iodine is 62.8 k J / m o l . What is the standard enthalpy of formation of I C I ( g ) ?",
+      "question": "The bond dissociation energies for C l 2 , I\u2082 and IC l are 242.3 , 151 and 211.3 k J / m o l respectively. The enthalpy of sublimation of iodine is 62.8 k J / m o l . What is the standard enthalpy of formation of IC I ( g ) ?",
       "options": {
-        "A": "A - 21",
+        "A": "- 21",
         "B": "3 k J / m o l B -",
         "C": "6 k J / m o l C -",
-        "D": "8 k J / m o l D"
+        "D": "8 k J / m o l"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** C l 2 ( g ) \u2192 2 C l ( g ) ; \u0394 H 1 = 242.3 k J / m o l I 2 ( g ) \u2192 21 ( g ) ; \u0394 H 2 = 151 k J / m o l I C I ( g ) \u2192 I ( g ) + C l ( g ) ; \u0394 H 3 = 211.3 k J / m o l I 2 ( s ) \u2192 I 2 ( g ) ; \u0394 H 4 = 62.8 k J / m o l required equation: 1 2 I 2 ( g ) + 1 2 C l 2 ( g ) \u2192 I C l ( g ) \uef00 ; \u0394 H = ? \u0394 H = 62.8 + 151 + 242.3 2 - 211.3 = 16.75 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** C l 2 ( g ) \u2192 2 C l ( g ) ; \u0394 H\u2081 = 242.3 k J / m o l I\u2082 ( g ) \u2192 21 ( g ) ; \u0394 H\u2082 = 151 k J / m o l IC I ( g ) \u2192 I ( g ) + C l ( g ) ; \u0394 H\u2083 = 211.3 k J / m o l I\u2082 ( s ) \u2192 I\u2082 ( g ) ; \u0394 H\u2084 = 62.8 k J / m o l required equation: 12 I\u2082 ( g ) + 12 C l 2 ( g ) \u2192 IC l ( g ) \uef00 ; \u0394 H = ? \u0394 H = 62.8 + 151 + 242.32 - 211.3 = 16.75 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "A non-stoichiometric compound Cu 1.8 S is formed due to the incorporation of Cu 2+ ions in the lattice. What is the mole percentage of Cu 2+ present in the compound?",
+      "question": "A non-stoichiometric compound Cu\u2081.8 S is formed due to the incorporation of Cu\u2082+ ions in the lattice. What is the mole percentage of Cu\u2082+ present in the compound?",
       "options": {
-        "A": "A 8",
-        "B": "88 B 8",
-        "C": "8 C 6",
-        "D": "5% D"
+        "A": "8",
+        "B": "88 B\u2088",
+        "C": "8 C\u2086",
+        "D": "5%"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In one mole, Let there be Cu +2 =x moles \u00e2\u0088\u00b4 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Cu + = 1.8 \u00e2\u0088\u0092 x moles \u2235 2 x + 1.8 \u2212 x 1 = + 2 x = 0.2 % Cu + 2 = 0.2 1.8 \u00d7 100 = 11.11 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In one mole, Let there be Cu +2 =x moles \u00e2\u0088\u00b4 \u00e2\u0080\u0089 \u00e2\u0080\u0089 Cu + = 1.8 \u00e2\u0088\u0092 x moles \u2235 2 x + 1.8 \u2212 x 1 = + 2 x = 0.2 % Cu + 2 = 0.21.8 \u00d7 100 = 11.11 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "On F e 2 O 3 ( s ) + 3 2 C ( s ) \u2192 3 2 C O 2 ( g ) + 2 F e ( s ) ; \u0394 H \u00b0 = + 234.1 k J C ( s ) + O 2 ( g ) \u2192 C O 2 ( g ) ; \u0394 H \u00b0 = - 393.5 kJ Use these equations and \u0394 H \u00b0 values to calculate \u0394 H \u00b0 for this reaction 4 F e ( s ) + 3 O 2 ( g ) \u2192 2 F e 2 O 3 ( s )",
+      "question": "On F e 2 O\u2083 ( s ) + 32 C ( s ) \u2192 32 C O\u2082 ( g ) + 2 F e ( s ) ; \u0394 H \u00b0 = + 234.1 k JC ( s ) + O\u2082 ( g ) \u2192 C O\u2082 ( g ) ; \u0394 H \u00b0 = - 393.5 kJ Use these equations and \u0394 H \u00b0 values to calculate \u0394 H \u00b0 for this reaction 4 F e ( s ) + 3 O\u2082 ( g ) \u2192 2 F e 2 O\u2083 ( s )",
       "options": {
-        "A": "A -164",
+        "A": "-164",
         "B": "7 kJ B -125",
         "C": "3 kJ C -102",
         "D": "2 kJ D -12"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 2 F e ( s ) + 3 2 C O 2 ( g ) \u2192 F e 2 O 3 ( s ) + 3 2 C ( s ) ; \u0394 H \u00b0 = - 234.1 k J \u2026(i) C ( s ) + O 2 ( g ) \u2192 C O 2 ( g ) ( \u0394 H \u00b0 = - 393.5 k J ) \u2026(ii) Multiplying eq. (i) by 2 and eq. (ii) by 3 and on adding both equations, we get 4 F e ( s ) + 3 O 2 ( g ) \u2192 2 F e 2 O 3 ( s ) ; \u0394 H \u00b0 = ( - 234.1 \u00d7 2 ) + ( - 3 \u00d7 393.5 ) = - 1648.7 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** 2 F e ( s ) + 32 C O\u2082 ( g ) \u2192 F e 2 O\u2083 ( s ) + 32 C ( s ) ; \u0394 H \u00b0 = - 234.1 k J \u2026(i) C ( s ) + O\u2082 ( g ) \u2192 C O\u2082 ( g ) ( \u0394 H \u00b0 = - 393.5 k J ) \u2026(ii) Multiplying eq. (i) by 2 and eq. (ii) by 3 and on adding both equations, we get 4 F e ( s ) + 3 O\u2082 ( g ) \u2192 2 F e 2 O\u2083 ( s ) ; \u0394 H \u00b0 = ( - 234.1 \u00d7 2 ) + ( - 3 \u00d7 393.5 ) = - 1648.7 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -397,13 +262,13 @@
     {
       "question": "What will happen to the volume of a bubble of air found underwater in a lake, where the temperature is 15 o C and the pressure is 1.5 atm, if the bubble then rises to the surface where the temperature is 25 o C and the pressure is 1.0 atm?",
       "options": {
-        "A": "A Its volume will become greater by a factor of",
+        "A": "Its volume will become greater by a factor of",
         "B": "4 B Its volume will become greater by a factor of",
         "C": "55 C Its volume will become greater by a factor of",
         "D": "2 D Its volume will become smaller by a factor of"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** P 1 V i T 1 = P 2 V f T 2 V f = P 1 T 2 P 2 T 1 . V f V i = volume of water bubble under water V f = volume of water bubble at the surface V f = 1.5 \u00d7 298 V i 1 \u00d7 288 = 447 288 V i = 1.55 Vi The volume becomes greater by a factor of 1.55. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** P\u2081 V i T\u2081 = P\u2082 V f T\u2082 V f = P\u2081 T\u2082 P\u2082 T\u2081 . V f V i = volume of water bubble under water V f = volume of water bubble at the surface V f = 1.5 \u00d7 298 V i 1 \u00d7 288 = 447288 V i = 1.55 Vi The volume becomes greater by a factor of 1.55. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -412,10 +277,10 @@
     {
       "question": "A balloon weighing 50 kg is filled with 685.2 kg of helium at 1 atm pressure and 25 o C. What will be its pay load if it displaced 5108 kg of air ?",
       "options": {
-        "A": "A 437",
-        "B": "8 kg B 442",
-        "C": "8 kg C 579",
-        "D": "2 kg D 584"
+        "A": "437",
+        "B": "8 kg B\u2084\u2084\u2082",
+        "C": "8 kg C\u2085\u2087\u2089",
+        "D": "2 kg D\u2085\u2088\u2084"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Mass of the filled balloon = 50 + 685.2 = 735.2 kg Pay load = mass of displaced air - mass of balloon = 5108 - 735.2 = 4372.8 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -425,30 +290,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Niobium crystallizes in a body-centered cubic structure. If the density is 8.55 g/cm\u00b3, calculate the atomic radius of niobium using its atomic mass of 93 u.",
-      "options": {
-        "A": "A",
-        "B": "45 \u00d7 10\u207b\u2078 cm B",
-        "C": "32 mm",
-        "D": "75 \u00d7 10\u207b\u2078 cm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 14.32 mm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "A gas expands from 3 d m 3 to 5 d m 3 against a constant pressure of 3 atm. The work done during expansion is used to heat 10 mole of water at temperature 290 K. Calculate final temperature of water. Specific heat of water = 4.184 J/ g/K. [Given: 1 atm = 101.33 J]",
       "options": {
-        "A": "A 29",
-        "B": "81 K B 29",
-        "C": "61 K C 29",
-        "D": "41 K D 29"
+        "A": "29",
+        "B": "81 K B\u2082\u2089",
+        "C": "61 K C\u2082\u2089",
+        "D": "41 K D\u2082\u2089"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Work is done against constant P \u00ce\u0094 V = 5 - 3 = 2 d m 3 = 2 l i t r e ; P = 3 a t m \u00e2\u0088\u00b4 W = - P \u00ce\u0094 V = - 3 \u00c3\u0097 2 l i t r e a t m = \u2212 6 \u00d7 101.33 = \u2212 608 J Now, this work is used up in heating water \u2234 W = n \u00d7 C \u00d7 \u0394T 608 = 10 \u00c3\u0097 4.184 \u00c3\u0097 18 \u00ce\u0094 T \u00e2\u0088\u00b4 \u00ce\u0094 T = 0.81 \u00e2\u0088\u00b4 F i n a l t e m p e r a t u r e = T 1 + \u00ce\u0094 T = 290 + 0.81 = 290.81 K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Work is done against constant P \u00ce\u0094 V = 5 - 3 = 2 d m 3 = 2 l i t r e ; P = 3 a t m \u00e2\u0088\u00b4 W = - P \u00ce\u0094 V = - 3 \u00c3\u0097 2 l i t r e a t m = \u2212 6 \u00d7 101.33 = \u2212 608 J Now, this work is used up in heating water \u2234 W = n \u00d7 C \u00d7 \u0394T 608 = 10 \u00c3\u0097 4.184 \u00c3\u0097 18 \u00ce\u0094 T \u00e2\u0088\u00b4 \u00ce\u0094 T = 0.81 \u00e2\u0088\u00b4 F i n a l t e m p e r a t u r e = T\u2081 + \u00ce\u0094 T = 290 + 0.81 = 290.81 K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -457,58 +307,28 @@
     {
       "question": "two moles of an ideal gas are allowed to expand from a volume of 10 d m 3 to 2 m 3 at 300 K against a pressure of 101.325 kPa. Calculate the work done",
       "options": {
-        "A": "A \u2013 20",
-        "B": "6 kJ B",
+        "A": "\u2013 20",
+        "B": "6 kJ",
         "C": "22 kJ C \u2013 810 kJ D \u2013",
         "D": "96 kJ"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V 1 = 10 d m 3 = 1 0 - 2 m 3 , V 2 = 2 m 3 P = 101.325 \u00d7 1 0 3 P a w = - P \u0394 V w = - 101.325 \u00d7 1 0 3 1.99 = - 201.6 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** V\u2081 = 10 d m 3 = 10 - 2 m 3 , V\u2082 = 2 m 3 P = 101.325 \u00d7 10 3 P a w = - P \u0394 V w = - 101.325 \u00d7 10 31.99 = - 201.6 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The standard enthalpy of neutralization of strong acid and strong base is - 57.3 k J \u2261 \u2212 1 . If the enthalpy of neutralization of the first proton of aqueous H 2 S is - 33.7 k J m o l - 1 then the pK a 1 of H 2 S is",
+      "question": "Find the entropy change for vaporisation of water to steam at 100 \u00b0 C in JK - 1 m o l - 1 if heat of vaporisation is 40.8 kJ m o l - 1 .",
       "options": {
-        "A": "A",
-        "B": "6 \u00d7 1 0 3 - T \u0394 S \u00b0",
-        "C": "303 R T",
-        "D": "303 R T"
+        "A": "10",
+        "B": "38 B\u2081\u2080",
+        "C": "38 C\u2081\u2081",
+        "D": "38 D\u2081\u2082"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** H 2 S \u21cc H + + H S - \u0394 H i o n = 23.6 k J \u2234 \u0394 G \u00b0 = 23.6 \u00d7 1 0 3 - T \u0394 S \u00b0 = - 2.303 R T l o g K a 1 \u2234 P K a 1 = 23.6 \u00d7 1 0 3 - T \u0394 S \u00b0 2.303 R T **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Find the entropy change for vaporisation of water to steam at 100 \u00b0 C in J K - 1 m o l - 1 if heat of vaporisation is 40.8 kJ m o l - 1 .",
-      "options": {
-        "A": "A 10",
-        "B": "38 B 10",
-        "C": "38 C 11",
-        "D": "38 D 12"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 S = \u0394 H v T \u0394 H = 40.8 kJ/mol = 40.8 \u00d7 1 0 3 J/mol T = 373 K So \u0394 S = 40.8 \u00d7 1 0 3 373 = 109.38 J K - 1 m o l - 1 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Root mean square velocity of O 2 at STP is in cm s",
-      "options": {
-        "A": "A",
-        "B": "61 \u00d7 1 0 4",
-        "C": "6 \u00d7 1 0 4 C",
-        "D": "1 \u00d7 1 0 4 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** u rms = 3RT M = 3\u00d78 .31\u00d710 7 \u00d7273 32 = 4 .61\u00d710 4 cm/sec (at STP, T = 273 K, R = 8 .314 \u00d7 10 7 ergs K \u2212 1 mol \u2212 1 ) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 S = \u0394 H v T \u0394 H = 40.8 kJ/mol = 40.8 \u00d7 10 3 J/mol T = 373 K So \u0394 S = 40.8 \u00d7 10 3373 = 109.38 JK - 1 m o l - 1 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -517,13 +337,13 @@
     {
       "question": "Calculate the radius of X e atom, If the edge of the unit cell FCC is 620 p m .",
       "options": {
-        "A": "A 18",
-        "B": "37 p m B 20",
-        "C": "87 p m C 21",
-        "D": "25 p m D 23"
+        "A": "18",
+        "B": "37 p m B\u2082\u2080",
+        "C": "87 p m C\u2082\u2081",
+        "D": "25 p m D\u2082\u2083"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In F C C arrangement surface diagonal is given by 2 a Hence, 4 r = 2 a r = a 2 2 ; r = 620 2 2 = 219.25 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In FC C arrangement surface diagonal is given by 2 a Hence, 4 r = 2 a r = a 22 ; r = 6202 2 = 219.25 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -532,7 +352,7 @@
     {
       "question": "Standard enthalpy and standard entropy changes for the oxidation of ammonia at $298 ~K$ are $-382.64 ~kJ ~mol^-1$ and -145.6 $JK^-1 ~mol^-1$, respectively. Standard Gibbs energy change for the same reaction at $298 ~K$ is:",
       "options": {
-        "A": "A $-22",
+        "A": "$-22",
         "B": "1 ~kJ ~mol^-1$ B $-33",
         "C": "3 ~kJ ~mol^-1$ C $-43",
         "D": "3 ~kJ ~mol^-1$ D $-52"
@@ -545,60 +365,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "An element has a body-centred cubic (bcc) structure with a cell edge of 288 pm. The density of the element is 7.2 g/cm\u00b3. How many atoms are present in 208 g of the element?",
-      "options": {
-        "A": "A",
-        "B": "41 x 10 24 atoms",
-        "C": "44 x 10 24 atoms",
-        "D": "8 x 10 24 atoms"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 2.41 x 10 24 atoms **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "The compressibility of a gas is less than unity at STP therefore",
       "options": {
-        "A": "A V m >",
-        "B": "4 litre B V m <",
-        "C": "4 litre C V m =",
-        "D": "4 litre D V m ="
+        "A": "V m >",
+        "B": "4 litre BV m <",
+        "C": "4 litre CV m =",
+        "D": "4 litre DV m ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The compressibility factor (Z) = P \u00d7 22.4 R T = 1 (for ideal gas) ( Z ) = P \u00d7 V m R T < 1 (for real gas) So 22.4 V m > 1 or V m < 22.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Two moles of an ideal gas is expanded isothermally and reversibly from 2 litre to 20 litre at 300 K. The enthalpy change (in kJ) for the process is",
-      "options": {
-        "A": "A",
-        "B": "4 kJ B \u20132",
-        "C": "4 kJ",
-        "D": "6 kJ D 0 kJ"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For isothermal process for an ideal gas, \u0394T = 0 Hence, \\u0394H = nC p \\u0394T = 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A compound AB has a rock type structure with A : B = 1 : 1. The formula weight of AB is 6.023 y amu and the closest A \u2013 B distance is y 1 / 3 nm. The density of lattice is?",
-      "options": {
-        "A": "A",
-        "B": "5 k g m - 3",
-        "C": "5 k g m - 3",
-        "D": "0 k g m - 3"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** AB has rock-salt (A : B :: 1 : 1) structure, i.e., fcc structure (n = 4) and formula weight of AB is 6.023 y g having closest distance A \u00e2\u0080\u0093 B y 1 / 3 nm. Therefore, edge length of unit cell ( a ) = 2 ( A + + B - ) = 2 \u00c3\u0097 y 1 / 3 \u00c3\u0097 1 0 - 9 m So density of AB = n \u00c3\u0097 m o l . w t . A v . n o . \u00c3\u0097 V = n \u00c3\u0097 m o l . w t . 6.023 \u00c3\u0097 1 0 23 \u00c3\u0097 a 3 = 4 \u00c3\u0097 6.023 \u00c3\u0097 y \u00c3\u0097 1 0 - 3 6.023 \u00c3\u0097 1 0 23 \u00c3\u0097 ( 2 y 1 / 3 \u00c3\u0097 1 0 - 9 ) 3 (mol. wt. in kg) = 5.0 k g m - 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The compressibility factor (Z) = P \u00d7 22.4 RT = 1 (for ideal gas) ( Z ) = P \u00d7 V m RT < 1 (for real gas) So\u2082\u2082.4 V m > 1 or V m < 22.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -607,10 +382,10 @@
     {
       "question": "1.0 mol of a monoatomic ideal gas is expanded from state (1) to state (2) as shown in Fig. 6.4. Calculate the work done for the expansion of gas from state (1) to state (2) at 298 K.",
       "options": {
-        "A": "A \u2013132",
-        "B": "46 J B \u2013221",
-        "C": "46 J C \u2013171",
-        "D": "46 J D \u2013196"
+        "A": "\u2013132",
+        "B": "46 JB \u2013221",
+        "C": "46 JC \u2013171",
+        "D": "46 JD \u2013196"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) \u20131717.46 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -622,58 +397,13 @@
     {
       "question": "A gas cylinder containing cooking gas can withstand a pressure at 14.9 atm. The pressure gauge of the cylinder indicates 12 atm. at 27 \u00b0 C . Due to a sudden fire in the building its temperature starts rising. At what temperature will the cylinder explode?",
       "options": {
-        "A": "A 37",
+        "A": "37",
         "B": "5 K",
-        "C": "725 K C",
-        "D": "25 K D None of these"
+        "C": "725 K",
+        "D": "25 KD None of these"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** T = 273 + 27 = 300 K P 1 T 1 = P 2 T 2 Since volume of the cylinder is constant T 2 = T 1 P 2 P 1 = 300 \u00d7 14.9 12 = 372.5 K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A vessel contains 1 mole of O 2 at 27 0 C and 1 atm pressure.A certain amount of the gas was withdrawn and the vessel was heated to 327 0 C to maintain the pressure of 1 atm. The amount of gas removed was",
-      "options": {
-        "A": "A",
-        "B": "2 mole",
-        "C": "5 mole",
-        "D": "25 mole"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** P 1 V 1 = n 1 R T 1 P 2 V 2 = n 2 R T 2 P 1 = P 2 , V 1 = V 2 \u2235 n 1 T 1 = n 2 T 2 n 2 = 300 600 = 1 2 = 0.5 m o l e s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The heat of neutralisation of a strong base and a strong acid is 13.7 kcal. The heat released when 0.6 mole HCl solution is added to 0.25 mole of NaOH is",
-      "options": {
-        "A": "A",
-        "B": "425 kcal",
-        "C": "22 kcal C",
-        "D": "645 kcal D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For the neutralization between a strong and a strong base, equal number of moles of H + (from acid) and O - H (from base) come out. For one mole of following equation can be drawn So, 0.25 mole of H 2 O is produced. So, heat released = 0 .25 \u00d7 13 .7 kcal = 3 .425 kcal **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Silver forms ccp lattice and X-ray studies of its crystals show that the edge length of its unit cell is 408.6 pm. Calculate the density of silver (Atomic mass = 107.9 u).",
-      "options": {
-        "A": "A",
-        "B": "2 grams B",
-        "C": "5 grams C",
-        "D": "8 grams D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 10.5 grams **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** T = 273 + 27 = 300 K P\u2081 T\u2081 = P\u2082 T\u2082 Since volume of the cylinder is constant T\u2082 = T\u2081 P\u2082 P\u2081 = 300 \u00d7 14.912 = 372.5 K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -682,13 +412,13 @@
     {
       "question": "The molar heat capacity of water at constant, pressure, $C$, is $75 ~J ~K^-1 ~mol^-1$. When 1.0 $kJ$ of heat is supplied to $100 ~g$ of water which is free to expand, the increase in temperature of water is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "2 ~K$",
         "C": "4 ~K$",
         "D": "8 ~K$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Molar heat capacity $=75 ~J ~K^-1 ~mol^-1$ $\\beginaligned & 18 ~g \\text of water =1 \\text mole =75 ~J ~K^-1 \\\\ & ~mol^-1 \\\\ & 1 ~g \\text of water =\\frac7518 JK^-1 \\\\ & Q=\\text m.c. \\Delta t \\endaligned$ $\\beginaligned 1000 & =100 \\times \\frac7518 \\times \\Delta t \\\\ \\Rightarrow \\Delta t & =\\frac10 \\times 1875=2.4 ~K \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Molar heat capacity $=75 ~J ~K^-1 ~mol^-1$ $\\beginaligned & 18 ~g \\text of water =1 \\text mole =75 ~J ~K^-1 \\\\ & ~mol^-1 \\\\ & 1 ~g \\text of water =\\frac\u2087\u2085\u2081\u2088 JK^-1 \\\\ & Q=\\text m.c. \\Delta t \\endaligned$ $\\beginaligned 1000 & =100 \\times \\frac\u2087\u2085\u2081\u2088 \\times \\Delta t \\\\ \\Rightarrow \\Delta t & =\\frac\u2081\u2080 \\times 1875=2.4 ~K \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -697,28 +427,13 @@
     {
       "question": "Lithium metal crystallizes in a body centred cubic crystal. If the length of the side of the unit cell of lithium is $351 pm$, the atomic radius of lithium will be :",
       "options": {
-        "A": "A $30",
+        "A": "$30",
         "B": "5 pm$ B $24",
         "C": "8 pm$ C $15",
         "D": "8 pm$ D $7"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For bcc type of unit cell $$ \\beginaligned \\sqrt3 a & =4 r \\\\ r & =\\frac\\sqrt34 a \\\\ & =\\frac1.732 \\times 3514 \\\\ & =151.98 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Which of the following is the final pressure of the gas in cylinders A and B when the stopcock is suddenly opened, given that A contains a gas at standard temperature and pressure, and B is completely evacuated, with the entire system thermally insulated?",
-      "options": {
-        "A": "A",
-        "B": "5 atm",
-        "C": "0 atm",
-        "D": "5 atm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.5 atm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For bcc type of unit cell $$ \\beginaligned \\sqrt\u2083 a & =4 r \\\\ r & =\\frac\\sqrt\u2083\u2084 a \\\\ & =\\frac\u2081.732 \\times 3514 \\\\ & =151.98 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -727,7 +442,7 @@
     {
       "question": "Enthalpy of combustion of carbon to CO 2 is \u2013393.5 kJ mol \u20131 . Calculate the heat released upon formation of 35.2 g of CO 2 from carbon and dioxygen gas.",
       "options": {
-        "A": "A \u201347",
+        "A": "\u201347",
         "B": "2 kJ B \u201341",
         "C": "8 kJ C \u201335",
         "D": "4 kJ D \u201331"
@@ -742,28 +457,13 @@
     {
       "question": "Calculate the work done during isothermal expansion of one mole of an ideal gas from 10 atm to 1 atm at 300 K",
       "options": {
-        "A": "A -413",
-        "B": "8 J B -493",
-        "C": "8 J C -574",
-        "D": "1 J D -625"
+        "A": "-413",
+        "B": "8 JB -493",
+        "C": "8 JC -574",
+        "D": "1 JD -625"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given that P 1 = 10 a t m , P 2 = 1 a t m , T = 300 K , n = 1 R = 8.314 J / K / m o l Now, by using W = 2.303 n R T l o g 10 P 2 P 1 = 2.303 \u00d7 1 \u00d7 8.314 \u00d7 300 l o g 10 1 10 W = - 5744.1 J o u l e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The change in entropy of 2 moles of an ideal gas upon isothermal expansion at 243.6 K from 20 L to the state where pressure becomes 1 atm is (Given: ln 2 = 0.693)",
-      "options": {
-        "A": "A",
-        "B": "385 cal/K B -",
-        "C": "2 cal/K",
-        "D": "2 cal/K"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** P 1 = nRT V 1 = 2 \u00d7 0.0821 \u00d7 243.6 2 0 = 2 atm \u0394 S = n R \u2113 n P 1 P 2 = 2 \u00d7 2 \u2113 n 2 = 2 \u00d7 2 \u00d7 0.693 \u2235 \u2113 n 2 or log e 2 = 0.693 = 2.77 cal/K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given that P\u2081 = 10 a t m , P\u2082 = 1 a t m , T = 300 K , n = 1 R = 8.314 J / K / m o l Now, by using W = 2.303 n RT l o g 10 P\u2082 P\u2081 = 2.303 \u00d7 1 \u00d7 8.314 \u00d7 300 l o g 101 10 W = - 5744.1 J o u l e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -772,13 +472,13 @@
     {
       "question": "Lithium metal crystallises in a body centred cubic crystal. If the length of the side of the unit cell of lithium is $351 pm$, the atomic radius of the lithium will be",
       "options": {
-        "A": "A $24",
+        "A": "$24",
         "B": "8 pm$ B $15",
         "C": "98 pm$ C $7",
         "D": "5 pm$ D $30"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In case of body centred cubic (bcc) crystal, $a \\sqrt3=4 r$ Hence, atomic radius of lithium, $r=\\fraca \\sqrt34$ $\\beginaligned & =\\frac351 \\times 1.7324 \\\\ & =151.98 pm \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In case of body centred cubic (bcc) crystal, $a \\sqrt\u2083=4 r$ Hence, atomic radius of lithium, $r=\\fraca \\sqrt\u2083\u2084$ $\\beginaligned & =\\frac\u2083\u2085\u2081 \\times 1.7324 \\\\ & =151.98 pm \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -787,10 +487,10 @@
     {
       "question": "What is the amount of heat, in joules, required to raise the temperature of 2.0 \u00d7 $10^-2$ kg of nitrogen (at room temperature) by 45 \u00b0C at constant pressure? (Molecular mass of $N_2$ = 28; R = 8.3 J $mol^-1K^-1$.)",
       "options": {
-        "A": "A 84",
-        "B": "22 J B 84",
-        "C": "25 J C 93",
-        "D": "38 J D 99"
+        "A": "84",
+        "B": "22 J B\u2088\u2084",
+        "C": "25 J C\u2089\u2083",
+        "D": "38 J D\u2089\u2089"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 933.38 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -800,30 +500,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Using the Gibbs change, \\u2206 G o = + 63.3 k J , for the following reaction, A g 2 C O 3 g \\u21cc 2 A g + a q + C O 3 2 - a q the K s p of A g 2 C O 3 s in water at 25 o C is R = 8.314 J K - 1 m o l - 1",
+      "question": "Calculate the entropy change in surroundings when 1.00 mol of H\u2082 O(l) is formed under standard conditions. (\u2206 f H \u2296 = \u2013286 kJ mol \u20131 )",
       "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 - 26",
-        "C": "0 \u00d7 10 - 12",
-        "D": "9 \u00d7 10 - 3"
+        "A": "\u2206S surr = 95",
+        "B": "73 JK \u20131 B \u2206S surr = 91",
+        "C": "42 JK \u20131 C \u2206S surr = 45",
+        "D": "84 JK \u20131 D \u2206S surr = 49"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u2206 G o = - 2.303 R T log \u2061 K s p 63.3 \u00d7 10 3 = - 2.303 \u00d7 8.31 \u00d7 298 log \u2061 K s p - 11.09 = log \u2061 K s p 8 \u00d7 10 - 12 = K s p **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Calculate the entropy change in surroundings when 1.00 mol of H 2 O(l) is formed under standard conditions. (\u2206 f H \u2296 = \u2013286 kJ mol \u20131 )",
-      "options": {
-        "A": "A \u2206S surr = 95",
-        "B": "73 J K \u20131 B \u2206S surr = 91",
-        "C": "42 J K \u20131 C \u2206S surr = 45",
-        "D": "84 J K \u20131 D \u2206S surr = 49"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u2206S surr = 959.73 J K \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) \u2206S surr = 959.73 JK \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -832,7 +517,7 @@
     {
       "question": "The absolute enthalpy of neutralisation of the reaction: : $MgO_(s)+2 HCl_(a q)$ $\\rightarrow MgCl_2(a q)+H_2 O_(\\cap$ will be:",
       "options": {
-        "A": "A $-5",
+        "A": "$-5",
         "B": "33 ~kJ ~mol^-1$ B greater than $-5",
         "C": "33 ~kJ ~mol^-1$ C less than $-5",
         "D": "33 ~kJ ~mol^-1$ D $5"
@@ -845,120 +530,45 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "What will be the minimum pressure required to compress 500 dm 3 of air at 1 bar to 200 dm 3 at 30\u00b0C?",
-      "options": {
-        "A": "A",
-        "B": "5 bar",
-        "C": "5 bar",
-        "D": "5 bar"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 2.5 bar **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "An element (atom mass = 100 g/mol) having BCC structure has its cell edge 400 pm. The density of the element is",
-      "options": {
-        "A": "A",
-        "B": "144 g / c m 3",
-        "C": "188 g / c m 3",
-        "D": "289 g / c m 3 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u03c1 = Z \u00d7 M w N A \u00d7 V = 2 \u00d7 100 6 \u00d7 1 0 23 \u00d7 ( 400 \u00d7 1 0 - 10 ) 3 = 5.188 g / c m 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The temperature coefficient of a cell whose cell reaction is P b ( s ) + H g C l 2 ( a q ) \u2192 P b C l 2 ( a q ) + H g ( l ) d E d T P = 1.5 \u00d7 1 0 - 4 V K - 1 at 298 The change in entropy for the given cell reaction will be",
-      "options": {
-        "A": "A",
-        "B": "6 B",
-        "C": "95 C 5",
-        "D": "8 D 8"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** d E d T P = \u0394 S n F 1.5 \u00d7 1 0 - 4 = \u0394 S 2 \u00d7 96500 \u0394 S = 28.95 J K - 1 m o l - 1 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "CsBr crystallises in a body centred cubic lattice. The unit cell length is $436.6 pm$. Given that the atomic mass of $Cs=133$ and that of $Br=80 amu$ and Avogadro number being $6.02 \\times 10^23 ~mol^-1$. the density of $CsBr$ is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "25 ~g / cm^3$ B $4",
         "C": "5 ~g / cm^3$",
         "D": "425 ~g / cm^3$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Density of $CsBr=\\fracZ \\times Ma^3 \\times N_0$ $Z \\rightarrow$ No. of atoms in the bec unit cell $=2$ $M \\rightarrow$ Molar mass of $CaBr=133+$ $80=213$ $a \\rightarrow$ Edge length of unit cell $=436.6$ $pm=436.6 \\times 10^-10 ~cm$ $N_0$ is Avogadro number $\\beginaligned & \\therefore \\text Density \\\\ & =\\frac2 \\times 213\\left(436.6 \\times 10^-10\\right)^3 \\times 6.02 \\times 10^23 \\\\ & =8.50 ~g / cm^3 \\endaligned$ For a unit cell $=\\frac8.502$ $=4.25 ~g / cm^3$ Related Theory When particles are closed packed resulting in either cpp or hcp structure, two types of voids are generated are Tetrahedral voids are holes or voids. (Coordination number of a tetrahedral void is 4.) Octahedral voids (Coordination number of octahedral void is 6.) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Density of $CsBr=\\fracZ \\times Ma^3 \\times N_0$ $Z \\rightarrow$ No. of atoms in the bec unit cell $=2$ $M \\rightarrow$ Molar mass of $CaBr=133+$ $80=213$ $a \\rightarrow$ Edge length of unit cell $=436.6$ $pm=436.6 \\times 10^-10 ~cm$ $N_0$ is Avogadro number $\\beginaligned & \\therefore \\text Density \\\\ & =\\frac\u2082 \\times 213\\left(436.6 \\times 10^-10\\right)^3 \\times 6.02 \\times 10^23 \\\\ & =8.50 ~g / cm^3 \\endaligned$ For a unit cell $=\\frac\u2088.502$ $=4.25 ~g / cm^3$ Related Theory When particles are closed packed resulting in either cpp or hcp structure, two types of voids are generated are Tetrahedral voids are holes or voids. (Coordination number of a tetrahedral void is 4.) Octahedral voids (Coordination number of octahedral void is 6.) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The \u03b3 - form of iron has fcc structure (edge length 386 pm) and \u03b2 - form has bcc structure (edge length 290 pm). The ratio of density in \u03b3 - form and \u03b2 - form is :",
+      "question": "PbS has NaCl type structure. The distance between P b 2 + and S\u2082 - ions is 297 pm. What is the volume of unit cell of PbS?",
       "options": {
-        "A": "A",
-        "B": "848",
-        "C": "02",
-        "D": "57"
+        "A": "20",
+        "B": "6 \u00d7 10 - 24 c m 3 B\u2082\u2080",
+        "C": "8 \u00d7 10 - 23 c m 3",
+        "D": "3 \u00d7 10 - 23 c m 3 D\u2082\u2080"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** d \u03b3 d \u03b2 = d fcc d bcc = 4 \u00d7 A N a \u00d7 1 a fcc 3 2 \u00d7 A N a \u00d7 1 a bcc 3 = 2 a bcc a fcc 3 = 2 \u00d7 2 9 0 3 8 6 3 = 0.848 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Edge length of unit cell = 2 r = 2 \u00d7 297 pm = 594 \u00d7 10 - 10 cm Volume of unit cell = a 3 = ( 594 \u00d7 10 - 10 ) 3 c m = 209.6 \u00d7 10 - 24 c m 3 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "PbS has NaCl type structure. The distance between P b 2 + and S 2 - ions is 297 pm. What is the volume of unit cell of PbS?",
+      "question": "The volume occupied by $1.8 ~g$ of water vapour at $374^\\circ C$ and 1 bar pressure will be [Use $R=0.083$ bar $LK^-1 ~mol^-1$ ]",
       "options": {
-        "A": "A 20",
-        "B": "6 \u00d7 1 0 - 24 c m 3 B 20",
-        "C": "8 \u00d7 1 0 - 23 c m 3 C",
-        "D": "3 \u00d7 1 0 - 23 c m 3 D 20"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Edge length of unit cell = 2 r = 2 \u00d7 297 pm = 594 \u00d7 1 0 - 10 cm Volume of unit cell = a 3 = ( 594 \u00d7 1 0 - 10 ) 3 c m = 209.6 \u00d7 1 0 - 24 c m 3 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The cylinder contains 100 g m of an ideal gas m o l . w t . = 40 g m / m o l at 27 \u00c2\u00b0 C and 2 a t m . pressure. In transportation the cylinder fell and a dent was created. The valve present cannot keep the pressure greater than 2 a t m . Hence 10 g m of a gas got leaked out. The volume of the container before and after dent is-",
-      "options": {
-        "A": "A",
-        "B": "8 \u00c2 L \u00c2 ; \u00c2",
-        "C": "7 \u00c2 L B",
-        "D": "7 \u00c2 L \u00c2 ; \u00c2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Before dent v o l . \u00c2 o f \u00c2 g a s = n R T P = 100 40 \u00c2 \u00c3\u0097 \u00c2 0.082 \u00c3\u0097 300 2 = 30.75 \u00c2 L After dent v o l . \u00c2 o f \u00c2 g a s = n R T P = 90 40 \u00c2 \u00c3\u0097 \u00c2 0.082 \u00c3\u0097 300 2 = 27.675 \u00c2 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The volume occupied by $1.8 ~g$ of water vapour at $374^\\circ C$ and 1 bar pressure will be [Use $R=0.083$ bar $L K^-1 ~mol^-1$ ]",
-      "options": {
-        "A": "A $9",
+        "A": "$9",
         "B": "66 ~L$ B $5",
         "C": "87 ~L$",
         "D": "10 ~L$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to ideal gas equation, $$ \\beginaligned & pV=nRT \\\\ & V=\\fracnRTp=\\fracw\\text M.wt \\fracRTp \\ldots(i)\\left[\\because n=\\fracwM \\cdot wt\\right] \\endaligned $$ Given, $w=1.8 ~g, ~T=374^\\circ C$ $$ =(374+273) K=647 ~K $$ $$ p=1 \\text bar, R=0.083 bar LK^-1 ~mol^-1 $$ On substituting the given values in Eq. (i), we get $$ \\beginaligned V & =\\frac1.8 ~g18 ~g ~mol^-1 \\times \\frac0.083 bar LK^-1 ~mol^-1 \\times 647 ~K1 bar \\\\ & =5.37 ~L \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** According to ideal gas equation, $$ \\beginaligned & pV=nRT \\\\ & V=\\fracnRTp=\\fracw\\text M.wt \\fracRTp \\ldots(i)\\left[\\because n=\\fracwM \\cdot wt\\right] \\endaligned $$ Given, $w=1.8 ~g, ~T=374^\\circ C$ $$ =(374+273) K=647 ~K $$ $$ p=1 \\text bar, R=0.083 bar LK^-1 ~mol^-1 $$ On substituting the given values in Eq. (i), we get $$ \\beginaligned V & =\\frac\u2081.8 ~g\u2081\u2088 ~g ~mol^-1 \\times \\frac\u2080.083 bar LK^-1 ~mol^-1 \\times 647 ~K\u2081 bar \\\\ & =5.37 ~L \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -967,10 +577,10 @@
     {
       "question": "Two litres of an ideal gas at a pressure of 10 atm expands isothermally at 25 \u00b0C into a vacuum until its total volume is 10 litres. Consider the expansion given in problem,for 1 mol of an ideal gas conducted reversibly.How much heat is absorbed in the expansion?",
       "options": {
-        "A": "A 54",
-        "B": "23 L atm B 39",
-        "C": "66 L atm C 46",
-        "D": "75 L atm D 62"
+        "A": "54",
+        "B": "23 L atm B\u2083\u2089",
+        "C": "66 L atm C\u2084\u2086",
+        "D": "75 L atm D\u2086\u2082"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 393.66 L atm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -980,60 +590,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "NaCl is doped with 2 \u00d7 1 0 - 3 mol % S r C l 2 , the concentration of cation vacancies is",
-      "options": {
-        "A": "A",
-        "B": "01 \u00d7 1 0 18 m o l - 1 B",
-        "C": "04 \u00d7 1 0 18 m o l - 1",
-        "D": "02 \u00d7 1 0 18 m o l - 1 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For each S r 2 + added , one cationic vacancy is created, because two N a + ions are removed and only one S r 2 + is added. So Number of cation vacancy = 2 \u00d7 1 0 - 3 \u00d7 1 mol % of NaCl = 2 \u00d7 1 0 - 3 100 m o l - 1 of NaCl Total cationic vacancies = 2 \u00d7 1 0 - 5 \u00d7 6.02 \u00d7 1 0 23 m o l - 1 of NaCl = 12.04 \u00d7 1 0 18 m o l - 1 of NaCl **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What are the total number of electrons present in 1.4 g of dinitrogen gas?",
-      "options": {
-        "A": "A",
-        "B": "81\u00d710 23 electrons",
-        "C": "71\u00d710 23 electrons",
-        "D": "21\u00d710 23 electrons"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 4.21\u00d710 23 electrons **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "KF has NaCl structure. The edge length of its unit cell has been found to be 537.6 pm. The distance between K + and F - in KF is",
       "options": {
-        "A": "A 53",
-        "B": "6 pm B 107",
-        "C": "2 pm C 26",
+        "A": "53",
+        "B": "6 pm B\u2081\u2080\u2087",
+        "C": "2 pm C\u2082\u2086",
         "D": "5 pm D None of these"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For Nacl type crystals a = 2 r cation + r anion \\u21d2 r cation + r anion = a 2 = 537 2 = 268.5 pm . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What will be the pressure exerted by a mixture of 3.2 g of methane and 4.4 g of carbon dioxide contained in a 9 dm 3 flask at 27\u00b0C?",
-      "options": {
-        "A": "A",
-        "B": "314\u00d710 4 Pa",
-        "C": "657\u00d710 4 Pa",
-        "D": "654\u00d710 4 Pa"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 8.314\u00d710 4 Pa **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For Nacl type crystals a = 2 r cation + r anion \\u\u2082\u2081d\u2082 r cation + r anion = a 2 = 5372 = 268.5 pm . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1042,10 +607,10 @@
     {
       "question": "What are 12-16 and 13-15 group compounds?",
       "options": {
-        "A": "A Compounds formed by elements from group 12 and",
-        "B": "B Compounds formed by elements from group 13 and",
-        "C": "C Compounds formed by elements from group 12 and",
-        "D": "D Compounds formed by elements from group 13 and"
+        "A": "Compounds formed by elements from group 12 and",
+        "B": "Compounds formed by elements from group 13 and",
+        "C": "ompounds formed by elements from group 12 and",
+        "D": "Compounds formed by elements from group 13 and"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Compounds formed by elements from group 13 and 16. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -1055,60 +620,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "A sample of ferrous oxide has actual formula Fe 0.93 O 1.00 . In this sample what fraction of metal ions are Fe 2+ ions? What type of non stoichiometric defect is present in this sample?",
+      "question": "A sample of ferrous oxide has actual formula Fe\u2080.93 O\u2081.00 . In this sample what fraction of metal ions are Fe\u2082+ ions? What type of non stoichiometric defect is present in this sample?",
       "options": {
-        "A": "A Fraction of Fe 2+ =",
-        "B": "81 and Metal deficiency defect is present in this sample. B Fraction of Fe 2+ =",
-        "C": "81 and Metal excess defect is present in this sample. C Fraction of Fe 2+ =",
-        "D": "56 and Metal deficiency defect is present in this sample. D Fraction of Fe 2+ ="
+        "A": "Fraction of Fe\u2082+ =",
+        "B": "81 and Metal deficiency defect is present in this sample. B Fraction of Fe\u2082+ =",
+        "C": "81 and Metal excess defect is present in this sample. C Fraction of Fe\u2082+ =",
+        "D": "56 and Metal deficiency defect is present in this sample. D Fraction of Fe\u2082+ ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) Fraction of Fe 2+ = 0.81 and Metal deficiency defect is present in this sample. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "At 25 \u00b0 C the enthalpy change, for the ionization of trichloroacetic acid is + 6.3 k J m o l - 1 and the entropy change, is + 0.0084 k J m o l - 1 K - 1 . Then p K a of tricholoro acetic acid is",
-      "options": {
-        "A": "A",
-        "B": "74",
-        "C": "52",
-        "D": "66"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 G \u00b0 = \u0394 H \u00b0 - T \u0394 S \u00b0 \u0394 G \u00b0 = 6.3 - ( 298 \u00d7 0.0084 ) = 3.8 K J . m o l - 1 \\u2234 \\u0394 G o = 2.303 RTlnK l o g K e q = l o g K a = - p K a = - \u0394 G \u00b0 2.303 R T - p K a = - \u0394 G \u00b0 2.303 R T = 3.8 2.303 \u00d7 0.008314 \u00d7 298 = 0.66 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Copper metal has a specific heat of 0.385 J/ g \u00b0 C and has melting point of 1083\u00b0C. Calculate the amount of heat required to raise the temperature of 22.8 g of Cu from 20.0 \u00b0 C to 875 \u00b0 C .",
-      "options": {
-        "A": "A",
-        "B": "97 \u00d7 1 0 - 5 J",
-        "C": "0 \u00d7 1 0 - 2 J C 329 J",
-        "D": "50 kJ"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Q = m C . ( \u0394 T ) So Q = 22.8 g \u00d7 0.385 J g - 1 \u00b0 C - 1 \u00d7 ( 875 \u00b0 C - 20 \u00b0 C ) = 22.8 \u00d7 0.385 \u00d7 855 J = 7.50 \u00d7 1 0 3 J = 7.50 kJ. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A vessel contains $3.2 ~g$ of dioxygen gas at STP (273.15 $K$ and 1 atm pressure). The gas is now transferred to another vessel at constant temperature, where pressure becomes one third of the original pressure. The volume of new vessel in $L$ is : (Given - molar volume at STP is $22.4 ~L$ )",
-      "options": {
-        "A": "A",
-        "B": "72",
-        "C": "24 C",
-        "D": "4 D 6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** No. of moles of $O_2=\\frac\\text Given weight of O_2\\text Mol. weight of O_2$ $=\\frac3.232=0.1$ Molar vol. at $STP=0.1 \\times 22.4=2.24 ~L$ $P_1=1 ~atm, ~V_1=2.24 ~L, P_2=\\frac13 ~atm, ~V_2=$ ? According to Boyle's law : $P_1 ~V_1=P_2 ~V_2$ $\\beginaligned \\therefore 1 \\times 2.24 & =\\frac13 \\times V_2 \\\\ ~V_2 & =2.24 \\times 3 \\\\ & =6.72 ~L \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) Fraction of Fe\u2082+ = 0.81 and Metal deficiency defect is present in this sample. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1117,13 +637,13 @@
     {
       "question": "The ratio of packing density in fcc, bcc and simple cubic structure is respectively,",
       "options": {
-        "A": "A 1 :",
+        "A": "1 :",
         "B": "92 :",
         "C": "70",
         "D": "70 :"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Packing fraction ion fcc, bcc and sc are 0.74, 0.68 and 0.52 respectively. So ratio = 0.74 0.74 : 0.68 0.74 : 0.52 0.74 = 1 : 0.92 : 0.70 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Packing fraction ion fcc, bcc and sc are 0.74, 0.68 and 0.52 respectively. So ratio = 0.740.74 : 0.680.74 : 0.520.74 = 1 : 0.92 : 0.70 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1132,52 +652,22 @@
     {
       "question": "Enthalpy change for the reaction, $$ 4 H(g) \\longrightarrow 2 H_2(g) \\text is -869.6 ~kJ $$ The dissociation energy of $H-H$ bond is",
       "options": {
-        "A": "A $-86",
+        "A": "$-86",
         "B": "6 ~kJ$ B $+43",
         "C": "8 ~kJ$ C $+21",
         "D": "4 ~kJ$ D $-43"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginarrayll 4 H(g) & \\rightarrow 2 H_2(g) ; \\Delta H=-869.6 ~kJ \\\\ 2 H_2(g) & \\rightarrow 4 H(g) ; \\Delta H=869.6 ~kJ \\\\ H_2(g) & \\rightarrow 2 H(g) ; \\Delta H=\\frac869.62=434.8 ~kJ \\endarray $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginarrayll 4 H(g) & \\rightarrow 2 H_2(g) ; \\Delta H=-869.6 ~kJ \\\\ 2 H_2(g) & \\rightarrow 4 H(g) ; \\Delta H=869.6 ~kJ \\\\ H_2(g) & \\rightarrow 2 H(g) ; \\Delta H=\\frac\u2088\u2086\u2089.62=434.8 ~kJ \\endarray $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "What is the molar volume of nitrogen and argon at 273.15K and 1 atm?",
+      "question": "Calculate the enthalpy change on freezing of 1.0 mol of water at 10.0\u00b0C to ice at \u201310.0\u00b0C. (\u2206 fus H = 6.03 kJ mol \u20131 at 0\u00b0C , C p [H\u2082 O(l)] = 75.3 J mol \u20131 K \u20131 , C p [H\u2082 O(s)] = 36.8 J mol \u20131 K \u20131 )",
       "options": {
-        "A": "A",
-        "B": "4 liters B",
-        "C": "0 liters C",
-        "D": "2 liters D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 22.4 liters **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "The pyknometric density of sodium chloride crystal is $2.165 \\times 10^3 ~kg ~m^-3$ while its X-ray density is $2.178 \\times 10^3 ~kg$ $m^-3$. The fraction of unoccupied sites in sodium chloride crystal is:",
-      "options": {
-        "A": "A",
-        "B": "96",
-        "C": "96 \\times 10^-2$",
-        "D": "96 \\times 10^-1$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Molar volume from pyknometric density $=\\fracM2.165 \\times 10^3 ~m^3$ Molar volume of X-ray density $=\\fracM2.178 \\times 10^3 ~m^3$ Volume unoccupied $=\\fracM10^3\\left(\\frac12.165-\\frac12.178\\right) m^3$ Fraction occupied $\\beginaligned & =\\frac0.013 \\times 10^-32.165 \\times 2.178 \\times \\frac2.165M \\times 10^-3 \\\\ & =5.96 \\times 10^-3\\endaligned$ Related Theory Pyknometric density is the closest approximation to true density calculated from the molecular weight and crystalline lattice of a substance. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Calculate the enthalpy change on freezing of 1.0 mol of water at 10.0\u00b0C to ice at \u201310.0\u00b0C. (\u2206 fus H = 6.03 kJ mol \u20131 at 0\u00b0C , C p [H 2 O(l)] = 75.3 J mol \u20131 K \u20131 , C p [H 2 O(s)] = 36.8 J mol \u20131 K \u20131 )",
-      "options": {
-        "A": "A \u2013",
+        "A": "\u2013",
         "B": "543 kJ mol -1 B \u2013",
         "C": "151 kJ mol \u20131 C \u2013",
         "D": "582 kJ mol -1 D \u2013"
@@ -1190,12 +680,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "One mole of an ideal gas C V = 20 \u00e2\u0080\u0089 J K \u00e2\u0088\u0092 1 mol \u00e2\u0088\u0092 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be",
+      "question": "One mole of an ideal gas CV = 20 \u00e2\u0080\u0089 JK \u00e2\u0088\u0092 1 mol \u00e2\u0088\u0092 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be",
       "options": {
-        "A": "A W = 0 ; q =",
-        "B": "46 k J B W = 0 ; q = 0 C W = -",
+        "A": "W = 0 ; q =",
+        "B": "46 k JB W = 0 ; q = 0 CW = -",
         "C": "46 \u00c2 k J ; q =",
-        "D": "46 \u00c2 k J D W ="
+        "D": "46 \u00c2 k JD W ="
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** One mole of an ideal gas initially at STP is heated at constant volume to twice the initial temperature, Therefore W = -P \u2206 V = -P \u00d7 0 = 0 Q = C v \u2206 T = 20 \u00d7 273 = 5460 J = 5.46 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -1205,30 +695,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "On a ship sailing in Pacific Ocean where temperature is 23.4\u00b0C, a balloon is filled with 2 L air. What will be the volume of the balloon when the ship reaches Indian ocean, where temperature is 26.1\u00b0C?",
+      "question": "A solid compound $XY$ has $NaCl$ structure. If the radius of the cation is $100 pm$, the radius of the anion ( $Y^-$) will be",
       "options": {
-        "A": "A",
-        "B": "018 L",
-        "C": "654 L",
-        "D": "875 L"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 2.018 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A solid compound $X Y$ has $NaCl$ structure. If the radius of the cation is $100 pm$, the radius of the anion ( $Y^-$) will be",
-      "options": {
-        "A": "A $27",
+        "A": "$27",
         "B": "1 pm$ B $32",
         "C": "5 pm$ C $24",
         "D": "5 pm$ D $16"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Radius ratio of $NaCl$ like crystal $=\\fracr^+r^-=0.414$ or $r^-=\\frac1000.414=241.5 pm$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Radius ratio of $NaCl$ like crystal $=\\fracr^+r^-=0.414$ or $r^-=\\frac\u2081\u2080\u2080\u2080.414=241.5 pm$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1243,7 +718,7 @@
         "D": "26%"
       },
       "answer": "A",
-      "solution": "# Packing Efficiency of FCC Unit Cell ## **Answer: (C) 74%** --- ## Step-by-Step Solution ### **Step 1: Determine atoms per FCC unit cell** - Corner atoms: 8 \u00d7 (1/8) = 1 atom - Face-centered atoms: 6 \u00d7 (1/2) = 3 atoms - **Total = 4 atoms per unit cell** ### **Step 2: Relate atomic radius (r) to lattice parameter (a)** In FCC, atoms touch along the **face diagonal**: - Face diagonal length = a\u221a2 - This diagonal contains: 4 radii (2r + 2r) $$a\\sqrt2 = 4r$$ $$a = \\frac4r\\sqrt2 = 2\\sqrt2r$$ ### **Step 3: Calculate volumes** **Volume occupied by atoms:** $$V_atoms = 4 \u00d7 \\frac43\\pi r^3 = \\frac16\\pi r^33$$ **Total volume of unit cell:** $$V_cell = a^3 = (2\\sqrt2r)^3 = 16\\sqrt2r^3$$ ### **Step 4: Calculate packing efficiency** $$\\textPacking Efficiency = \\fracV_atomsV_cell \u00d7 100$$ $$= \\frac\\frac16\\pi r^3316\\sqrt2r^3 \u00d7 100$$ $$= \\frac\\pi3\\sqrt2 \u00d7 100$$ $$= \\frac3.141594.243 \u00d7 100 = 74\\%$$ --- ## Key Formula to Remember $$\\boxed\\textPacking Efficiency (FCC) = \\frac\\pi3\\sqrt2 \u00d7 100 = 74\\%$$ --- ## Why Other Options Are Wrong | Option | Why Incorrect | |--------|---------------| | **(A) 52.4%** | This is the packing efficiency of **Simple Cubic (SC)** | | **(B) 68%** | Close but incorrect calculation | | **(D) 26%** | This represents the **void space** in FCC, not packing efficiency | **Key Insight:** FCC is one of the most efficient packing arrangements with 74% efficiency, leaving 26% void space.",
+      "solution": "# Packing Efficiency of FCC Unit Cell ## **Answer: (C) 74%** --- ## Step-by-Step Solution ### **Step 1: Determine atoms per FCC unit cell** - Corner atoms: 8 \u00d7 (1/8) = 1 atom - Face-centered atoms: 6 \u00d7 (1/2) = 3 atoms - **Total = 4 atoms per unit cell** ### **Step 2: Relate atomic radius (r) to lattice parameter (a)** In FCC, atoms touch along the **face diagonal**: - Face diagonal length = a\u221a2 - This diagonal contains: 4 radii (2r + 2r) $$a\\sqrt\u2082 = 4r$$ $$a = \\frac\u2084r\\sqrt\u2082 = 2\\sqrt\u2082r$$ ### **Step 3: Calculate volumes** **Volume occupied by atoms:** $$V_atoms = 4 \u00d7 \\frac\u2084\u2083\\pi r^3 = \\frac\u2081\u2086\\pi r^33$$ **Total volume of unit cell:** $$V_cell = a^3 = (2\\sqrt\u2082r)^3 = 16\\sqrt\u2082r^3$$ ### **Step 4: Calculate packing efficiency** $$\\textPacking Efficiency = \\fracV_atomsV_cell \u00d7 100$$ $$= \\frac\\frac\u2081\u2086\\pi r^3316\\sqrt\u2082r^3 \u00d7 100$$ $$= \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100$$ $$= \\frac\u2083.141594.243 \u00d7 100 = 74\\%$$ --- ## Key Formula to Remember $$\\boxed\\textPacking Efficiency (FCC) = \\frac\\pi\u2083\\sqrt\u2082 \u00d7 100 = 74\\%$$ --- ## Why Other Options Are Wrong | Option | Why Incorrect | |--------|---------------| | **(A) 52.4%** | This is the packing efficiency of **Simple Cubic (SC)** | | **(B) 68%** | Close but incorrect calculation | | **(D) 26%** | This represents the **void space** in FCC, not packing efficiency | **Key Insight:** FCC is one of the most efficient packing arrangements with 74% efficiency, leaving 26% void space.",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -1265,21 +740,6 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Aluminium crystallizes in a cubic close-packed structure. Its metallic radius is 125 pm. What is the length of the side of the unit cell?",
-      "options": {
-        "A": "A",
-        "B": "27 * 10 22 nm",
-        "C": "29 * 10 22 nm",
-        "D": "27 * 10 23 nm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 2.27 * 10 22 nm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "[NEET 2024 | Chemistry] Schottky defect in a crystal results in:",
       "options": {
         "A": "Increase in density",
@@ -1288,7 +748,7 @@
         "D": "Increase in conductivity only"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) Decrease in density** ## Explanation: ### What is a Schottky Defect? A Schottky defect occurs when **equal numbers of cations and anions are missing** from their lattice positions, maintaining electrical neutrality. Example: In NaCl crystal, one Na\\u207a and one Cl\\u207b are missing together. ### Why Density Decreases: **Density = Mass / Volume** | Factor | Change | |--------|--------| | **Mass of unit cell** | **Decreases** (atoms are removed) | | **Volume of unit cell** | **Remains same** (vacant sites still occupy space) | | **Density** | **Decreases** \\u2193 | ### Step-by-Step: 1. Some atoms leave the crystal, reducing total mass 2. The lattice structure is maintained, so volume doesn't significantly change 3. With less mass in the same volume \\u2192 **density decreases** ### Why Other Options Are Wrong: - **(A) Increase in density** - No, mass is lost \\u2717 - **(C) No change in density** - No, there's definitely mass loss \\u2717 - **(D) Increase in conductivity only** - Schottky defects actually **decrease** ionic conductivity because there are fewer charge carriers \\u2717 ### Key Fact to Remember: **Schottky defect = Lower density (more vacant sites = lighter crystal)** *Compare with Frenkel defect: causes no change in density because atoms just shift positions*",
+      "solution": "# Answer: **(B) Decrease in density** ## Explanation: ### What is a Schottky Defect? A Schottky defect occurs when **equal numbers of cations and anions are missing** from their lattice positions, maintaining electrical neutrality. Example: In NaCl crystal, one Na\\u\u2082\u2080\u2087a and one Cl\\u\u2082\u2080\u2087b are missing together. ### Why Density Decreases: **Density = Mass / Volume** | Factor | Change | |--------|--------| | **Mass of unit cell** | **Decreases** (atoms are removed) | | **Volume of unit cell** | **Remains same** (vacant sites still occupy space) | | **Density** | **Decreases** \\u\u2082\u2081\u2089\u2083 | ### Step-by-Step: 1. Some atoms leave the crystal, reducing total mass 2. The lattice structure is maintained, so volume doesn't significantly change 3. With less mass in the same volume \\u\u2082\u2081\u2089\u2082 **density decreases** ### Why Other Options Are Wrong: - **(A) Increase in density** - No, mass is lost \\u\u2082\u2087\u2081\u2087 - **(C) No change in density** - No, there's definitely mass loss \\u\u2082\u2087\u2081\u2087 - **(D) Increase in conductivity only** - Schottky defects actually **decrease** ionic conductivity because there are fewer charge carriers \\u\u2082\u2087\u2081\u2087 ### Key Fact to Remember: **Schottky defect = Lower density (more vacant sites = lighter crystal)** *Compare with Frenkel defect: causes no change in density because atoms just shift positions*",
       "exam": "NEET 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -1297,7 +757,7 @@
     {
       "question": "A neon-dioxygen mixture contains 70.6 g dioxygen and 167.5 g neon. If pressure of the mixture of gases in the cylinder is 25 bar. What is the partial pressure of dioxygen and neon in the mixture?",
       "options": {
-        "A": "A Partial pressure of Oxygen =",
+        "A": "Partial pressure of Oxygen =",
         "B": "75 bar , Partial pressure of Neon =",
         "C": "25 bar B Partial pressure of Oxygen =",
         "D": "84 bar , Partial pressure of Neon ="
@@ -1310,9 +770,9 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The value of \u2206 f H \u2296 for NH 3 is \u2013 91.8 kJ mol \u20131 . Calculate enthalpy change for the following reaction : 2NH 3 (g) \u2192 N 2 (g) + 3H 2 (g)",
+      "question": "The value of \u2206 f H \u2296 for NH 3 is \u2013 91.8 kJ mol \u20131 . Calculate enthalpy change for the following reaction : 2NH 3 (g) \u2192 N\u2082 (g) + 3H 2 (g)",
       "options": {
-        "A": "A \u2206 r H \u2296 = -8",
+        "A": "\u2206 r H \u2296 = -8",
         "B": "6 kJ mol \u20131 B \u2206 r H \u2296 = -9",
         "C": "8 kJ mol \u20131 C \u2206 r H \u2296 = +8",
         "D": "6 kJ mol \u20131 D \u2206 r H \u2296 = +9"
@@ -1327,7 +787,7 @@
     {
       "question": "Use the following data to calculate \u2206 lattice H \u2296 for NaBr. \u2206 sub H \u2296 for sodium metal = 108.4 kJ mol \u20131 Ionization enthalpy of sodium = 496 kJ mol \u20131 Electron gain enthalpy of bromine = \u2013 325 kJ mol \u20131 Bond dissociation enthalpy of bromine = 192 kJ mol \u20131 \u2206 f H \u2296 for NaBr (s) = \u2013 360.1 kJ mol \u20131",
       "options": {
-        "A": "A \u2206 lattice H \u2296 (NaBr) = +70",
+        "A": "\u2206 lattice H \u2296 (NaBr) = +70",
         "B": "5 kJmol -1 B \u2206 lattice H \u2296 (NaBr) = +78",
         "C": "5 kJmol -1 C \u2206 lattice H \u2296 (NaBr) = +73",
         "D": "5 kJmol -1 D \u2206 lattice H \u2296 (NaBr) = +81"
@@ -1342,7 +802,7 @@
     {
       "question": "What is the standard enthalpy of vaporization (\u2206 vap H) for water?",
       "options": {
-        "A": "A \u2206 vap H= +",
+        "A": "\u2206 vap H= +",
         "B": "79 kJ mol\u20131 B \u2206 vap H= \u2013 39",
         "C": "5 kJ mol\u20131 C \u2206 vap H= \u2013 280",
         "D": "0 kJ mol\u20131 D \u2206 vap H= 43"
@@ -1355,9 +815,9 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "Enthalpies of formation of CO(g), CO 2 (g), N 2 O(g) and N 2 O 4 (g) are \u2013110, \u2013 393, 81 and 9.7 kJ mol \u20131 respectively. Find the value of \u2206 r H for the reaction: N 2 O 4 (g) + 3CO(g) \u2192 N 2 O(g) + 3CO 2 (g)",
+      "question": "Enthalpies of formation of CO(g), CO 2 (g), N\u2082 O(g) and N\u2082 O\u2084 (g) are \u2013110, \u2013 393, 81 and 9.7 kJ mol \u20131 respectively. Find the value of \u2206 r H for the reaction: N\u2082 O\u2084 (g) + 3CO(g) \u2192 N\u2082 O(g) + 3CO 2 (g)",
       "options": {
-        "A": "A \u201377",
+        "A": "\u201377",
         "B": "7 kJ mol -1 B \u201386",
         "C": "4 kJ mol -1 C \u201364",
         "D": "3 kJ mol -1 D \u201357"
@@ -1372,13 +832,13 @@
     {
       "question": "If $NaCl$ is doped with $10^-4 ~mol \\%$ of $SrCl_2$, the concentration of cation vacancies will be: $\\left(N_A=6.02 \\times 10^23 ~mol^-1\\right)$",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "02 \\times 10^16 ~mol^-1$",
         "C": "02 \\times 10^17 ~mol^-1$",
         "D": "02 \\times 10^14 ~mol^-1$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Since each $Sr^++$ion provides one cation vacancy, hence Concentration of cation vacancies $=$ mole $\\%$ of $SrCl_2$ added $\\beginaligned & =10^-4 \\text mole \\% \\\\ & =\\frac10^-4100 \\times 6.023 \\times 10^23 \\\\ & =6.023 \\times 10^17 ~mol^-1 \\endaligned$ Related Theory Doping is the process of adding impurities to intrinsic semiconductors to alter their properties. When an intrinsic semiconductor is doped with Trivalent impurity it becomes a P-Type semiconductor. The $P$ stands for Positive, which means the semiconductor is rich in holes or Positive charged ions. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Since each $Sr^++$ion provides one cation vacancy, hence Concentration of cation vacancies $=$ mole $\\%$ of $SrCl_2$ added $\\beginaligned & =10^-4 \\text mole \\% \\\\ & =\\frac\u2081\u2080^-4100 \\times 6.023 \\times 10^23 \\\\ & =6.023 \\times 10^17 ~mol^-1 \\endaligned$ Related Theory Doping is the process of adding impurities to intrinsic semiconductors to alter their properties. When an intrinsic semiconductor is doped with Trivalent impurity it becomes a P-Type semiconductor. The $P$ stands for Positive, which means the semiconductor is rich in holes or Positive charged ions. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1387,10 +847,10 @@
     {
       "question": "Pay load is defined as the difference between the mass of displaced air and the mass of the balloon. Calculate the Pay load when a balloon of radius 10 m, mass 100 kg is filled with helium at 1.66 bar at 27\u00b0C. (Density of air = 1.2 kg m \u20133 and R = 0.083 bar dm 3 K \u20131 mol \u20131 ).",
       "options": {
-        "A": "A 381",
-        "B": "1 kg B 398",
-        "C": "2 kg C 348",
-        "D": "1 kg D 325"
+        "A": "381",
+        "B": "1 kg B\u2083\u2089\u2088",
+        "C": "2 kg C\u2083\u2084\u2088",
+        "D": "1 kg D\u2083\u2082\u2085"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 3811.1 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -1400,30 +860,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The unit cell cube length for L i C l ( N a C l type structure) is 5.14 \u00c3 . Assuming anion cation contact, calculate the ionic radius for chloride ion.",
-      "options": {
-        "A": "A",
-        "B": "815",
-        "C": "63",
-        "D": "75"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In N a C l type of arrangement anion occupies corner of unit cell and and cation in octahedral void at edge center. Length of unit cell a = 2 r - + 2 r + Surface diagonal is, 4 r - = 2 a (given \u00ce\u00b1 = 5.14 \u00c3 ) r - = 2 a / 4 = 1.414 \u00c3\u0097 5.14 4 = 1.815 \u00c3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
       "question": "A bubble of air is underwater at temperature 15\u00b0C and the pressure 1.5 bar. If the bubble rises to the surface where the temperature is 25\u00b0C and the pressure is 1.0 bar, what will happen to the volume of the bubble?",
       "options": {
-        "A": "A volume will become greater by a factor of",
+        "A": "volume will become greater by a factor of",
         "B": "6 B volume will become greater by a factor of",
         "C": "1 C volume will become smaller by a factor of",
         "D": "70 D volume will become greater by a factor of"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that from ideal equation, V \u221d T P Given T 1 = 15 + 273 = 288 , P 1 = 1.5 bar T 2 = 25 + 273 = 298 , P 2 = 1 bar V 1 \u221d 288 1.5 i . e . V 1 \u221d 192 and V 2 \u221d 298 1 V 2 V 1 = 298 192 = 1.55 \\u2245 1.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** We know that from ideal equation, V \u221d TP Given T\u2081 = 15 + 273 = 288 , P\u2081 = 1.5 bar T\u2082 = 25 + 273 = 298 , P\u2082 = 1 bar V\u2081 \u221d 2881.5 i . e . V\u2081 \u221d 192 and V\u2082 \u221d 2981 V\u2082 V\u2081 = 298192 = 1.55 \\u\u2082\u2082\u2084\u2085\u2081.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1432,43 +877,13 @@
     {
       "question": "A solid XY has NaCl structure. If radius of X + is 100 pm. What is the radius of Y - ion:",
       "options": {
-        "A": "A 120 pm B 13",
+        "A": "120 pm B\u2081\u2083",
         "B": "6 to 24",
-        "C": "6 pm C 13",
-        "D": "6 pm D 24"
+        "C": "6 pm C\u2081\u2083",
+        "D": "6 pm D\u2082\u2084"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For NaCl like structure. The radius ratio should be \u00e2\u0087\u0092 0.414 \u00e2\u0086\u0092 0.732 r + r - = 100 r m a x - = 0.414 ; 100 r m i n - = 0.732 ; \u00e2\u0088\u00b4 r m a x - = 100 0.414 = 241.3 \u00c2 P m ; \u00e2\u0088\u00b4 \u00c2 r m i n - = 100 0.732 = 136.6 \u00c2 P m ; **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What is the numerical value of the Avogadro constant?",
-      "options": {
-        "A": "A",
-        "B": "0023 \u00d7 10^23",
-        "C": "220 \u00d7 10^24",
-        "D": "022 \u00d7 10^23"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The numerical value of the Avogadro constant is 6.022 \u00d7 10^23. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Sodium metal crystallizes is body centred cubic (BCC) lattice with cell edge \u00c2 a = 4.29 \u00c2 \u00c3 . The radius of sodium atom is",
-      "options": {
-        "A": "A",
-        "B": "6 \u00c2 \u00c3",
-        "C": "86 \u00c2 \u00c3",
-        "D": "86 pm D 1860 pm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In BCC lattice atomic radius (r) of Na is given by r = 3 4 \u00c3\u0097 a = 3 4 \u00c3\u0097 4.29 \u00c3 = 1.86 \u00c3 = 1.86 \u00c3 \u00c3\u0097 1 0 - 10 m 1 \u00c3 \u00c3\u0097 1 p m 1 0 - 12 m = 186 pm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For NaCl like structure. The radius ratio should be \u00e2\u0087\u0092 0.414 \u00e2\u0086\u0092 0.732 r + r - = 100 r m a x - = 0.414 ; 100 r m i n - = 0.732 ; \u00e2\u0088\u00b4 r m a x - = 1000.414 = 241.3 \u00c2 P m ; \u00e2\u0088\u00b4 \u00c2 r m i n - = 1000.732 = 136.6 \u00c2 P m ; **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1477,7 +892,7 @@
     {
       "question": "If the temperature of an ideal gas in a sealed, rigid container is increased to 1.5 times the initial value ( i n K ) , the density of gas",
       "options": {
-        "A": "A becomes",
+        "A": "becomes",
         "B": "5 times the initial value B becomes 1 /",
         "C": "5 times the initial value C becomes",
         "D": "25 times the initial value D remains same"
@@ -1490,45 +905,15 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "What is the entropy change (in $JK^-1 ~mol^-1$ ) when one mole of ice is converted into water at $0^\\circ C$ ? (The enthalpy change for the conversion of ice to liquid water is $6.0 ~kJ ~mol^-1$ at $0^\\circ C$ )",
+      "question": "N H\u2084 C l crystallizes in a body-centred cubic lattice with edge length of unit cell equal to 387 pm. If the radius of the C l - ion is 181 pm, radius for N H\u2084 + ion is",
       "options": {
-        "A": "A",
-        "B": "13",
-        "C": "013",
-        "D": "198 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $S=\\fracq_r e v~T=\\frac6000273$ $=21.978=21.98 JK^-1 ~mol^-1.$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "N H 4 C l crystallizes in a body-centred cubic lattice with edge length of unit cell equal to 387 pm. If the radius of the C l - ion is 181 pm, radius for N H 4 + ion is",
-      "options": {
-        "A": "A 15",
-        "B": "1 pm B 9",
-        "C": "6 pm C 36",
+        "A": "15",
+        "B": "1 pm B\u2089",
+        "C": "6 pm C\u2083\u2086",
         "D": "3 pm D None of these"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In body centered cubic lattice, oppositely charged ions touch each other along the cube 2 r c + 2 r a = 3 a r c + r a = 3 2 a = 3 2 \u00d7 387 = 335.15 p m given r a = 181 p m r c = 335.15 - 181.0 = 154.15 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What will be the pressure of the gaseous mixture when 0.5 L of H 2 at 0.8 bar and 2.0 L of dioxygen at 0.7 bar are introduced in a 1L vessel at 27\u00b0C?",
-      "options": {
-        "A": "A",
-        "B": "6 bar",
-        "C": "6 bar",
-        "D": "3 bar"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 1.8 bar **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In body centered cubic lattice, oppositely charged ions touch each other along the cube 2 r c + 2 r a = 3 a r c + r a = 32 a = 32 \u00d7 387 = 335.15 p m given r a = 181 p m r c = 335.15 - 181.0 = 154.15 p m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1537,13 +922,13 @@
     {
       "question": "If the lattice parameter for a crystalline structure is $3.6 \\%$, then the atomic radius in fcc crystal is",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "27 \\&$",
         "C": "81 \u00c3 $",
         "D": "10 \u00c3 $"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ 2 R=\\fraca\\sqrt2 $$ $$ \\therefore R=\\fraca2 \\sqrt2 $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ 2 R=\\fraca\\sqrt\u2082 $$ $$ \\therefore R=\\fraca\u2082 \\sqrt\u2082 $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1552,43 +937,13 @@
     {
       "question": "If the lattice parameter for a crystalline structure is $3.6 \u00c3 $, then the atomic radius in fcc crystal is",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "81 \u00c3 $",
         "C": "10 \u00c3 $",
         "D": "92 \u00c3 $"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Atomic radius is the distance between two nearest neighbours. For fcc crystal Atomic radius $=\\frac12 \\sqrt2 \\times$ lattice parameter or $r=\\fraca2 \\sqrt2$ or $r=\\frac3.62 \\sqrt2 \u00c3 =1.27 \u00c3 $ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "Calculate Q and w for the isothermal reversible expansion of one mole of an ideal gas from an initial pressure of 1.0 bar to a final pressure of 0.1 bar at a constant temperature of 273 K .",
-      "options": {
-        "A": "A",
-        "B": "22 k J , -",
-        "C": "22 k J B -",
-        "D": "22 k J ,"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u2206 w = 2.303 \u00d7 n R T l og P 1 P 2 \u0394 U = 0 - q = w w r e v = - 2.303 \u00d7 1 \u00d7 8.314 \u00d7 273 l o g 1 0.1 = - 5227 J w r e v . = - 5.22 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "A cation is in the centre touches three anions. Assume that the anions also touch each other. The limiting radius ratio, r + / r - is",
-      "options": {
-        "A": "A",
-        "B": "1547",
-        "C": "4141",
-        "D": "7322"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** r + + r - r - = 2 3 r + r + + 1 = 2 3 r + r - + 1 = 1.1547 r + r - = 0.1547 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Atomic radius is the distance between two nearest neighbours. For fcc crystal Atomic radius $=\\frac\u2081\u2082 \\sqrt\u2082 \\times$ lattice parameter or $r=\\fraca\u2082 \\sqrt\u2082$ or $r=\\frac\u2083.62 \\sqrt\u2082 \u00c3 =1.27 \u00c3 $ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1597,13 +952,13 @@
     {
       "question": "Ratio between the three speeds of gases U mp :U avg :U rms is",
       "options": {
-        "A": "A 1:",
+        "A": "1:",
         "B": "128:",
         "C": "224",
         "D": "128:1:"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 1 1:1.128:1.224 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 11:1.128:1.224 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1612,13 +967,13 @@
     {
       "question": "The enthalpy of fusion of water is $1.435 kcal / mol$. The molar entropy change for the melting of ice at $0^\\circ C$ is",
       "options": {
-        "A": "A $1",
+        "A": "$1",
         "B": "52 cal /(mol K)$ B $2",
         "C": "04 cal /(mol K)$",
         "D": "260 cal /(mol K)$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Molar entropy change for the melting of ice, $\\beginaligned \\Delta S_\\text melt & =\\frac\\Delta H_\\text fusion T \\\\ & =\\frac1.435 kcal / mol(0+273) K \\\\ & =5.26 \\times 10^-3 kcal / mol K \\\\ & =5.26 cal / mol K \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Molar entropy change for the melting of ice, $\\beginaligned \\Delta S_\\text melt & =\\frac\\Delta H_\\text fusion T \\\\ & =\\frac\u2081.435 kcal / mol(0+273) K \\\\ & =5.26 \\times 10^-3 kcal / mol K \\\\ & =5.26 cal / mol K \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1627,13 +982,13 @@
     {
       "question": "A bubble of air is underwater at temperature $15^\\circ C$ and the pressure $1.5 ~bar$. If the bubble rises to the surface where the temperature is $25^\\circ C$ and the pressure is $1.0 ~bar$, what will happen to the volume of the bubble?",
       "options": {
-        "A": "A Volume will become greater by a factor of",
+        "A": "Volume will become greater by a factor of",
         "B": "6 B Volume will become greater by a factor of",
         "C": "1 C Volume will become smaller by a factor of",
         "D": "70 D Volume will become greater by a factor of"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $\\because \\quad \\fracp_1 V_1T_1=\\fracp_2 V_2T_2$ (By ideal gas equation) or $\\frac1.5 \\times V_1288=\\frac1 \\times V_2298$ $\\therefore \\quad V_2=1.55 V_1$ i.e., volume of bubble will be almost 1.6 times to initial volume of bubble. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $\\because \\quad \\fracp_1 V_1T_1=\\fracp_2 V_2T_2$ (By ideal gas equation) or $\\frac\u2081.5 \\times V_1288=\\frac\u2081 \\times V_2298$ $\\therefore \\quad V_2=1.55 V_1$ i.e., volume of bubble will be almost 1.6 times to initial volume of bubble. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1642,13 +997,13 @@
     {
       "question": "The energy absorbed by each molecule $\\left(A_2\\right)$ of a substance is $4.4 \\times 10^-19 ~J$ and bond energy per molecule is $4.0 \\times 10^-19 ~J$. The kinetic energy of the molecule per atom will be :",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "0 \\times 10^-20 ~J$",
         "C": "0 \\times 10^-20 ~J$",
         "D": "2 \\times 10^-19 ~J$ D $4 \\times 10^-19 ~J$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\begingathered KE=4.4 \\times 10^-19-4.0 \\times 10^-19 \\\\ KE / \\text molecule =0.4 \\times 10^-19 \\\\ KE / \\text atom =\\frac0.4 \\times 10^-192 \\\\ =2 \\times 10^-20 ~J \\endgathered $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\begingathered KE=4.4 \\times 10^-19-4.0 \\times 10^-19 \\\\ KE / \\text molecule =0.4 \\times 10^-19 \\\\ KE / \\text atom =\\frac\u2080.4 \\times 10^-192 \\\\ =2 \\times 10^-20 ~J \\endgathered $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1657,28 +1012,28 @@
     {
       "question": "Two gases $A$ and $B$ having the same volume diffuse through a porous partition in 20 and 10 seconds respectively. The molecular mass of $A$ is $49 u$. Molecular mass of $B$ will be",
       "options": {
-        "A": "A $1",
+        "A": "$1",
         "B": "25 u$",
         "C": "50 u$ C $2",
         "D": "00 u$ D $5"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\fracr_Ar_B=\\sqrt\\fracM_BM_A $$ or $\\fracV_At_A \\times \\fract_BV_B=\\sqrt\\fracM_BM_A$ or $\\quad \\frac1020=\\sqrt\\fracM_B49$ or $\\quad \\frac14=\\fracM_B49$ $\\therefore \\quad M_B=\\frac494=12.25 u$. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\fracr_Ar_B=\\sqrt\\fracM_BM_A $$ or $\\fracV_At_A \\times \\fract_BV_B=\\sqrt\\fracM_BM_A$ or $\\quad \\frac\u2081\u2080\u2082\u2080=\\sqrt\\fracM_B\u2084\u2089$ or $\\quad \\frac\u2081\u2084=\\fracM_B\u2084\u2089$ $\\therefore \\quad M_B=\\frac\u2084\u2089\u2084=12.25 u$. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The \u0394 f H \u00b0 for C O 2 ( g ) , C O ( g ) and H 2 O ( g ) are -393.5, -110.5 and -241.8 k J m o l - 1 respectively. The standard enthalpy change (in kJ) for the reaction C O 2 ( g ) + H 2 ( g ) \u2192 C O ( g ) + H 2 O ( g ) is",
+      "question": "The \u0394 f H \u00b0 for C O\u2082 ( g ) , CO ( g ) and H\u2082 O ( g ) are -393.5, -110.5 and -241.8 k J m o l - 1 respectively. The standard enthalpy change (in kJ) for the reaction C O\u2082 ( g ) + H\u2082 ( g ) \u2192 CO ( g ) + H\u2082 O ( g ) is",
       "options": {
-        "A": "A 52",
-        "B": "1 B",
+        "A": "52",
+        "B": "1",
         "C": "2 C -26",
         "D": "5 D -4"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 r H = \u03a3 \u0394 f H o Products - \u03a3 \u0394 f H o Reactants = \u0394 f H C O g o + \u0394 f H H 2 O g o - \u0394 f H C O 2 g o = - 110.5 + - 241.5 - - 393.5 = + 41.2 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 r H = \u03a3 \u0394 f H o Products - \u03a3 \u0394 f H o Reactants = \u0394 f HC O g o + \u0394 f H H\u2082 O g o - \u0394 f HC O\u2082 g o = - 110.5 + - 241.5 - - 393.5 = + 41.2 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1687,13 +1042,13 @@
     {
       "question": "5 moles of an ideal gas at 27 \u00b0 C expands isothermally and reversibly from a volume of 5 L to 50 L . The work done by the system is",
       "options": {
-        "A": "A -",
-        "B": "7 K J B -",
-        "C": "72 K J C",
-        "D": "72 K J D - 5"
+        "A": "-",
+        "B": "7 KJ B -",
+        "C": "72 KJ",
+        "D": "72 KJ D - 5"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** W = - 2.303 n R T l o g V 2 V 1 = - 2.303 \u00d7 5 \u00d7 8.314 \u00d7 300 \u00d7 l o g 50 5 = \u201328.72 KJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** W = - 2.303 n RT l o g V\u2082 V\u2081 = - 2.303 \u00d7 5 \u00d7 8.314 \u00d7 300 \u00d7 l o g 505 = \u201328.72 KJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1702,13 +1057,13 @@
     {
       "question": "The enthalpies of combustion of carbon and carbon monoxide are - 393.5 and - 283 k J m o l - 1 respectively. The enthalpy of formation of carbon monoxide per mole is",
       "options": {
-        "A": "A \u201367",
+        "A": "\u201367",
         "B": "5 kJ B \u201311",
-        "C": "5 kJ C 11",
-        "D": "5 kJ D 67"
+        "C": "5 kJ C\u2081\u2081",
+        "D": "5 kJ D\u2086\u2087"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** (i) C ( s ) + O 2 ( g ) \u2192 C O 2 ( g ) \u0394 H = - 393.5 k J (ii) C O ( g ) + 1 2 O 2 ( g ) \u2192 C O 2 ( g ) \u0394 H = - 283.0 k J eq. (i) and (ii) gives (iii) C (s ) + 1 2 O 2 ( g ) \u2192 C O ( g ) \u0394 H = - 110.5 k J This equation (iii) also represents formation of one mole of CO and thus enthalpy change is the heat of formation of CO (g). **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** (i) C ( s ) + O\u2082 ( g ) \u2192 C O\u2082 ( g ) \u0394 H = - 393.5 k J (ii) CO ( g ) + 12 O\u2082 ( g ) \u2192 C O\u2082 ( g ) \u0394 H = - 283.0 k J eq. (i) and (ii) gives (iii) C (s ) + 12 O\u2082 ( g ) \u2192 CO ( g ) \u0394 H = - 110.5 k J This equation (iii) also represents formation of one mole of CO and thus enthalpy change is the heat of formation of CO (g). **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1717,28 +1072,28 @@
     {
       "question": "Copper has face centered cubic (fcc) lattice with interatomic spacing equal to $2.54 \u00c3 $. The value of lattice constant for this lattice is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "54 \u00c3 $",
         "C": "59 \u00c3 $",
         "D": "27 \u00c3 $"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given $2 \\pi=2.54 \u00c3 $ $$ \\Rightarrow \\quad r=\\frac2.542=1.27 \u00c3 $$ For fcc lattice: $$ \\beginaligned r & =\\fraca2 \\sqrt2 \\\\ a & =r 2 \\sqrt2 \\\\ & =1.27 \\times 2 \\times 1.44 \\\\ & =3.59 ~A^\\circ \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given $2 \\pi=2.54 \u00c3 $ $$ \\Rightarrow \\quad r=\\frac\u2082.542=1.27 \u00c3 $$ For fcc lattice: $$ \\beginaligned r & =\\fraca\u2082 \\sqrt\u2082 \\\\ a & =r 2 \\sqrt\u2082 \\\\ & =1.27 \\times 2 \\times 1.44 \\\\ & =3.59 ~A^\\circ \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "One mole of an ideal gas C V = 20 J K - 1 m o l - 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be-",
+      "question": "One mole of an ideal gas CV = 20 JK - 1 m o l - 1 initially at STP is heated at constant volume to twice the initial temperature. For the process, W and q will be-",
       "options": {
-        "A": "A W = 0 ; q =",
-        "B": "46 k J B W = 0 ; q = 0 C W = -",
+        "A": "W = 0 ; q =",
+        "B": "46 k JB W = 0 ; q = 0 CW = -",
         "C": "46 k J ; q =",
-        "D": "46 k J D W ="
+        "D": "46 k JD W ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** T 1 = 273 K T 2 = 2 \u00d7 273 K \\u21d2 \u2206 T = 273 Volume is constant So, \u2206 V = 0 W = P \u0394 V = P \u00d7 0 = 0 q = n C V \u0394 T = 20 \u00d7 273 = 5460 J = 5.46 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** T\u2081 = 273 K T\u2082 = 2 \u00d7 273 K \\u\u2082\u2081d\u2082 \u2206 T = 273 Volume is constant So, \u2206 V = 0 W = P \u0394 V = P \u00d7 0 = 0 q = n CV \u0394 T = 20 \u00d7 273 = 5460 J = 5.46 k J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1747,7 +1102,7 @@
     {
       "question": "The following two reactions are known $$ \\beginaligned & Fe_2 O_3(~s)+3 CO(g) \\longrightarrow 2 Fe(s)+3 CO_2(~g), \\\\ & \\Delta H=-26.8 ~kJ \\\\ & FeO(s)+CO(g) \\longrightarrow Fe(s)+CO_2(~g) \\\\ & \\Delta H=-16.5 ~kJ \\endaligned $$ The value of $\\Delta H$ for the following reaction $Fe_2 O_3(~s)+CO(g) \\longrightarrow 2 FeO(s)+CO_2(~g)$ is",
       "options": {
-        "A": "A $+1",
+        "A": "$+1",
         "B": "3 ~kJ$ B $-4",
         "C": "3 ~kJ$ C $-1",
         "D": "3 ~kJ$ D $+"
@@ -1762,37 +1117,37 @@
     {
       "question": "The compressibility factor of a gas is less than unity at STP. Therefore",
       "options": {
-        "A": "A Vm >",
+        "A": "Vm >",
         "B": "4 litres B Vm <",
         "C": "4 litres C Vm =",
         "D": "4 litres D Vm ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Z = P V / n R T Given Z < 1 P V / n R T < 1 or P V < n R T ( 1 a t m ) \u00c3\u0097 V < 1 m o l \u00c3\u0097 ( 0.0821 L a t m K - 1 m o l - 1 ) \u00c3\u0097 ( 273 K ) V m < 0.0821 \u00d7 273 L V m < 22.4 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Z = PV / n RT Given Z < 1 PV / n RT < 1 or PV < n RT ( 1 a t m ) \u00c3\u0097 V < 1 m o l \u00c3\u0097 ( 0.0821 L a t m K - 1 m o l - 1 ) \u00c3\u0097 ( 273 K ) V m < 0.0821 \u00d7 273 LV m < 22.4 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "At STP, 0.48 g of O 2 diffused through a porous partition in 1200 seconds. What volume of CO 2 will diffuse in the same time and under the same conditions ?",
+      "question": "At STP, 0.48 g of O\u2082 diffused through a porous partition in 1200 seconds. What volume of CO 2 will diffuse in the same time and under the same conditions ?",
       "options": {
-        "A": "A 28",
-        "B": "5 mL B 34",
-        "C": "7 mL C 11",
-        "D": "2 mL D 22"
+        "A": "28",
+        "B": "5 mL B\u2083\u2084",
+        "C": "7 mL C\u2081\u2081",
+        "D": "2 mL D\u2082\u2082"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** r 1 r 2 = V 1 / t V 2 / t = V 1 V 2 = M 2 M 1 Volume of 0.48 g of O 2 at STP = 2 2 4 0 0 3 2 \u00d7 0 . 4 8 mL (32 g of O 2 occupies 22400 mL at STP) \u2234 V O 2 V CO 2 = M CO 2 M O 2 = 4 4 3 2 = 1 . 1 7 3 V CO 2 = V O 2 1 . 1 7 3 = 2 2 4 0 0 3 2 \u00d7 0 . 4 8 1 . 1 7 3 = 2 8 6 . 5 mL. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** r 1 r 2 = V\u2081 / t V\u2082 / t = V\u2081 V\u2082 = M\u2082 M\u2081 Volume of 0.48 g of O\u2082 at STP = 22 40 03 2 \u00d7 0 . 48 mL (32 g of O\u2082 occupies 22400 mL at STP) \u2234 V O\u2082 V CO 2 = M CO 2 M O\u2082 = 44 32 = 1 . 17 3 V CO 2 = V O\u2082\u2081 . 17 3 = 22 40 03 2 \u00d7 0 . 48 1 . 17 3 = 28 6 . 5 mL. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The reaction of cyanamide, NH 2 CN (s), with dioxygen was carried out in a bomb calorimeter, and \u2206U was found to be \u2013742.7 kJ mol \u20131 at 298 K. What is the enthalpy change for the reaction at 298 K? NH 2 CN (g) + 3/2 O 2 (g) \u2192 N 2 (g) + CO 2 (g) + H 2 O(l)",
+      "question": "The reaction of cyanamide, NH 2 CN (s), with dioxygen was carried out in a bomb calorimeter, and \u2206U was found to be \u2013742.7 kJ mol \u20131 at 298 K. What is the enthalpy change for the reaction at 298 K? NH 2 CN (g) + 3/2 O\u2082 (g) \u2192 N\u2082 (g) + CO 2 (g) + H\u2082 O(l)",
       "options": {
-        "A": "A \u201374",
+        "A": "\u201374",
         "B": "9 kJ B \u201378",
         "C": "4 kJ C \u201364",
         "D": "8 kJ D \u201369"
@@ -1807,7 +1162,7 @@
     {
       "question": "What is the ratio between the most probable speed, average speed, and root mean square speed?",
       "options": {
-        "A": "A 1:1:1 B 1:",
+        "A": "1:1:1 B\u2081:",
         "B": "128:",
         "C": "224",
         "D": "224:1:"
@@ -1820,12 +1175,12 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "At 25\u00b0C and 760 mm of Hg pressure, a gas occupies 600 mL volume. What will be its pressure at a height where the temperature is 10\u00b0C and the volume of the gas is 640 mL?",
+      "question": "At\u2082\u2085\u00b0C and 760 mm of Hg pressure, a gas occupies 600 mL volume. What will be its pressure at a height where the temperature is 10\u00b0C and the volume of the gas is 640 mL?",
       "options": {
-        "A": "A 65",
-        "B": "8 mm Hg B 67",
-        "C": "6 mm Hg C 62",
-        "D": "4 mm Hg D 69"
+        "A": "65",
+        "B": "8 mm Hg B\u2086\u2087",
+        "C": "6 mm Hg C\u2086\u2082",
+        "D": "4 mm Hg D\u2086\u2089"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 676.6 mm Hg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -1837,10 +1192,10 @@
     {
       "question": "What is the value of the bond dissociation enthalpy for the dissociation of HCl into H and Cl atoms?",
       "options": {
-        "A": "A 43",
-        "B": "0 J mol-1 B 43",
-        "C": "0 kJ C 43",
-        "D": "0 kJ mol-1 D 4310 J"
+        "A": "43",
+        "B": "0 J mol-1 B\u2084\u2083",
+        "C": "0 kJ C\u2084\u2083",
+        "D": "0 kJ mol-1 D\u2084\u2083\u2081\u2080 J"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** The value of the bond dissociation enthalpy (\u2206aH\u2296) as 431.0 kJ mol-1 for the dissociation of HCl into H and Cl atoms. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -1852,43 +1207,13 @@
     {
       "question": "If silver crystallizes in an fcc lattice with an edge length of 4.07 \u00d7 10 \u20138 cm and a density of 10.5 g/cm\u00b3, what is the atomic mass of silver?",
       "options": {
-        "A": "A 10",
-        "B": "87 g/mol B 12",
-        "C": "45 g/mol C 13",
-        "D": "47 g/mol D 16"
+        "A": "10",
+        "B": "87 g/mol B\u2081\u2082",
+        "C": "45 g/mol C\u2081\u2083",
+        "D": "47 g/mol D\u2081\u2086"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 107.87 g/mol **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What is the volume occupied by 8.8 g of CO 2 at 31.1\u00b0C and 1 bar pressure? (R = 0.083 bar L K \u20131 mol \u20131 )",
-      "options": {
-        "A": "A",
-        "B": "85 L",
-        "C": "46 L",
-        "D": "05 L"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 5.05 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "States of Matter and Thermodynamics"
-    },
-    {
-      "question": "What is the number of kJ of heat necessary to raise the temperature of 60.0 g of aluminium from 35\u00b0C to 55\u00b0C? (Molar heat capacity of Al is 24 J mol \u20131 K \u20131 )",
-      "options": {
-        "A": "A",
-        "B": "854 kJ",
-        "C": "567 kJ",
-        "D": "067 kJ"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1.067 kJ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -1925,7 +1250,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "<p>Outermost electronic configurations of four elements A, B, C, D are given below :</p> <p>(A) $$3 s^2$$</p> <p>(B) $$3 s^2 3 p^1$$</p> <p>(C) $$3 s^2 3 p^3$$</p> <p>(D) $$3 s^2 3 p^4$$</p> <p>The correct order of first ionization enthalpy for them is :</p>",
+      "question": "<p>Outermost electronic configurations of four elements A, B, C, D are given below :</p> <p>(A) $$3 s^2$$</p> <p>(B) $$3 s^23 p^1$$</p> <p>(C) $$3 s^23 p^3$$</p> <p>(D) $$3 s^23 p^4$$</p> <p>The correct order of first ionization enthalpy for them is :</p>",
       "options": {
         "A": "(A) < (B) < (C) < (D)",
         "B": "(B) < (A) < (D) < (C)",
@@ -1942,7 +1267,7 @@
     {
       "question": "<p>For micelle formation, which of the following statements are correct?</p> <p>A. Micelle formation is an exothermic process.</p> <p>B. Micelle formation is an endothermic process.</p> <p>C. The entropy change is positive.</p> <p>D. The entropy change is negative.</p>",
       "options": {
-        "A": "A and D only",
+        "A": "nd D only",
         "B": "A and C only",
         "C": "B and C only",
         "D": "B and D only"
@@ -1973,7 +1298,7 @@
       "question": "A reaction at 1 bar is non-spontaneous at low temperature but becomes spontaneous at high temperature. Identify the correct statement about the reaction among the following :",
       "options": {
         "A": "Both $$\\Delta $$H and $$\\Delta $$S are negative.",
-        "B": "Both $$\\Delta $$H and $$\\Delta $$S are positive.",
+        "B": "oth $$\\Delta $$H and $$\\Delta $$S are positive.",
         "C": "$$\\Delta $$H is positive while $$\\Delta $$S is negative.",
         "D": "$$\\Delta $$H is negative while $$\\Delta $$S is positive."
       },
@@ -1985,7 +1310,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "At 320 K, a gas A<sub>2</sub> is 20% dissociated to A(g). The standard free energy change at 320 K and 1 atm in J mol<sup>-1</sup> is approximately : (R = 8.314 JK<sup>-1</sup> mol<sup>-1</sup>; ln2 = 0.693; ln 3 = 1.098)",
+      "question": "At\u2083\u2082\u2080 K, a gas A<sub>2</sub> is 20% dissociated to A(g). The standard free energy change at 320 K and 1 atm in J mol<sup>-1</sup> is approximately : (R = 8.314 JK<sup>-1</sup> mol<sup>-1</sup>; ln\u2082 = 0.693; ln 3 = 1.098)",
       "options": {
         "A": "4763",
         "B": "2068",
@@ -2004,7 +1329,7 @@
       "options": {
         "A": "H<sub>2</sub>(g) $$ \\to $$ 2H(g)",
         "B": "N<sub>2</sub>(g, 1 atm) $$ \\to $$ N<sub>2</sub>(g, 5 atm)",
-        "C": "C(diamond) $$ \\to $$ C(graphite)",
+        "C": "(diamond) $$ \\to $$ C(graphite)",
         "D": "N<sub>2</sub>(g, 273 K) $$ \\to $$ N<sub>2</sub>(g, 300 K)"
       },
       "answer": "B",
@@ -2152,8 +1477,8 @@
     {
       "question": "<p>Given below are two statements: One is labelled as Assertion $$\\mathbfA$$ and the other is labelled as Reason $$\\mathbfR$$</p> <p>Assertion A : The reduction of a metal oxide is easier if the metal formed is in liquid state than solid state.</p> <p>Reason $$\\mathbfR$$ : The value of $$\\Delta G ^\\Theta$$ becomes more on negative side as entropy is higher in liquid state than solid state.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below</p>",
       "options": {
-        "A": "Both A and R are correct and R is the correct explanation of A",
-        "B": "Both A and R are correct but R is NOT the correct explanation of A",
+        "A": "Both A and R are correct and R is the correct explanation of",
+        "B": "oth A and R are correct but R is NOT the correct explanation of",
         "C": "A is correct but R is not correct",
         "D": "A is not correct but R is correct"
       },
@@ -2180,7 +1505,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "If 100 mole of H<sub>2</sub>O<sub>2</sub> decompose at 1 bar and 300 K, the work done (kJ) by one mole of O<sub>2</sub>(g) as it expands against 1 bar pressure is : <br/><br/>2H<sub>2</sub>O<sub>2</sub>(l) $$\\rightleftharpoons$$ 2H<sub>2</sub>O(l) + O<sub>2</sub>(g) <br/><br/>(R = 8.3 J K <sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
+      "question": "If\u2081\u2080\u2080 mole of H<sub>2</sub>O<sub>2</sub> decompose at 1 bar and 300 K, the work done (kJ) by one mole of O<sub>2</sub>(g) as it expands against 1 bar pressure is : <br/><br/>2H<sub>2</sub>O<sub>2</sub>(l) $$\\rightleftharpoons$$ 2H<sub>2</sub>O(l) + O<sub>2</sub>(g) <br/><br/>(R = 8.3 JK <sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
       "options": {
         "A": "62.25",
         "B": "124.50",
@@ -2188,7 +1513,7 @@
         "D": "498.00"
       },
       "answer": "C",
-      "solution": "<p>For reaction : 2H<sub>2</sub>O<sub>2</sub>(1) $$\\rightleftharpoons$$ 2H<sub>2</sub>O(1) + O<sub>2</sub>(g)</p> <p>Given, p = 1 bar, T = 300 K, n = 100 mol, R = 8.3 J K<sup>$$-$$</sup> mol<sup>$$-$$1</sup></p> <p>We know that</p> <p>w = p$$\\Delta$$V = nRT</p> <p>= 100 $$\\times$$ 8.3 $$\\times$$ 300</p> <p>= 249000 J or 249 kJ</p>",
+      "solution": "<p>For reaction : 2H<sub>2</sub>O<sub>2</sub>(1) $$\\rightleftharpoons$$ 2H<sub>2</sub>O(1) + O<sub>2</sub>(g)</p> <p>Given, p = 1 bar, T = 300 K, n = 100 mol, R = 8.3 JK<sup>$$-$$</sup> mol<sup>$$-$$1</sup></p> <p>We know that</p> <p>w = p$$\\Delta$$V = nRT</p> <p>= 100 $$\\times$$ 8.3 $$\\times$$ 300</p> <p>= 249000 J or 249 kJ</p>",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Chemistry",
@@ -2203,7 +1528,7 @@
         "D": "Isochoric work"
       },
       "answer": "B",
-      "solution": "From 1st law of thermodynamics <br><br>\\u0394U = q + w <br><br>For adiabatic process : <br><br>q = 0 <br><br>$$ \\therefore $$ \\u0394U = w <br><br>So change in internal energy (\\u0394U) is equal to adiabatic work.",
+      "solution": "From 1st law of thermodynamics <br><br>\\u\u2080\u2083\u2089\u2084U = q + w <br><br>For adiabatic process : <br><br>q = 0 <br><br>$$ \\therefore $$ \\u\u2080\u2083\u2089\u2084U = w <br><br>So change in internal energy (\\u\u2080\u2083\u2089\u2084U) is equal to adiabatic work.",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Chemistry",
@@ -2242,7 +1567,7 @@
     {
       "question": "Which one of the following equations does not correctly represent the first law of thermodynamics for the given processes involving an ideal gas? (Assume non-expansion work is zero)",
       "options": {
-        "A": "Adiabatic process : $$\\Delta $$U= \\\u2013 w",
+        "A": "diabatic process : $$\\Delta $$U= \\\u2013 w",
         "B": "Cyclic process : q = \\\u2013w",
         "C": "Isochoric process : $$\\Delta $$U= q",
         "D": "Isothermal process : q = \\\u2013 w"
@@ -2259,7 +1584,7 @@
       "options": {
         "A": "Zero",
         "B": "-RT $$\\ln V_2 \\over V_1$$",
-        "C": "C<sub>V</sub> (T<sub>2</sub> \\\u2013 T<sub>1</sub>)",
+        "C": "<sub>V</sub> (T<sub>2</sub> \\\u2013 T<sub>1</sub>)",
         "D": "\\\u2013 RT (V<sub>2</sub> \\\u2013 V<sub>1</sub>)"
       },
       "answer": "A",
@@ -2362,9 +1687,9 @@
     {
       "question": "<p>Which of the following relations are correct?</p> <p>(A) $$\\Delta U=q+p\\Delta V$$</p> <p>(B) $$\\Delta G=\\Delta H-T\\Delta S$$</p> <p>(C) $$\\Delta S=\\fracq_revT$$</p> <p>(D) $$\\Delta H=\\Delta U-\\Delta nRT$$</p> <p>Choose the most appropriate answer from the options given below :</p>",
       "options": {
-        "A": "A and B only",
-        "B": "B and C only",
-        "C": "C and D only",
+        "A": "nd B only",
+        "B": "and C only",
+        "C": "and D only",
         "D": "B and D only"
       },
       "answer": "B",
@@ -2405,7 +1730,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "The enthalpy change on freezing of 1 mol of water at 5<sup>o</sup>C to ice at \\u22125<sup>o</sup>C is : <br/><br/>(Given $$\\Delta $$<sub>fus</sub>H = 6 kJ mol<sup>$$-$$1</sup> at 0<sup>o</sup>C, <br/>C<sub>p</sub>(H<sub>2</sub>O, $$\\ell $$ = 75.3J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>) <br/>C<sub>p</sub>(H<sub>2</sub>O s) =36.8 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>)",
+      "question": "The enthalpy change on freezing of 1 mol of water at 5<sup>o</sup>C to ice at \\u\u2082\u2082\u2081\u2082\u2085<sup>o</sup>C is : <br/><br/>(Given $$\\Delta $$<sub>fus</sub>H = 6 kJ mol<sup>$$-$$1</sup> at 0<sup>o</sup>C, <br/>C<sub>p</sub>(H<sub>2</sub>O, $$\\ell $$ = 75.3J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>) <br/>C<sub>p</sub>(H<sub>2</sub>O s) =36.8 J mol<sup>$$-$$1</sup> K<sup>$$-$$1</sup>)",
       "options": {
         "A": "5.44 kJ mol<sup>$$-$$1</sup>",
         "B": "5.81 kJ mol<sup>$$-$$1</sup>",
@@ -2435,7 +1760,7 @@
       "chapter": "States of Matter and Thermodynamics"
     },
     {
-      "question": "For silver, C<sub>p</sub>(J K<sup>\\\u20131</sup> mol<sup>\\\u20131</sup>) = 23 +0.01 T. If the temperature (T) of 3 moles of silver is raised from 300 K to 1000 K at 1 atm pressure, the value of $$\\Delta H$$ will be close to :",
+      "question": "For silver, C<sub>p</sub>(JK<sup>\\\u20131</sup> mol<sup>\\\u20131</sup>) = 23 +0.01 T. If the temperature (T) of 3 moles of silver is raised from 300 K to 1000 K at 1 atm pressure, the value of $$\\Delta H$$ will be close to :",
       "options": {
         "A": "62 KJ",
         "B": "16 KJ",
@@ -2443,7 +1768,7 @@
         "D": "21 KJ"
       },
       "answer": "A",
-      "solution": "Give that, <br><br>n = 3 <br><br>T<sub>1</sub> = 300 <br><br>T<sub>2</sub> = 1000 <br><br>C<sub>p</sub> = 23 + 0.01T <br><br>We know, <br><br>$$\\Delta $$H = $$\\int\\limits_T_1^T_2 nC_pdT $$ <br><br>= $$\\int\\limits_300^1000 3\\left( 23 + T \\over 100 \\right)dT $$ <br><br>= $$3\\left[ 23T + T^2 \\over 200 \\right]_300^1000$$ <br><br>= 3[ 23(1000 - 300 + $$1 \\over 200$$((1000)<sup>2</sup> - (300)<sup>2</sup>)] <br><br>= 3[ 23 $$ \\times $$ 700 + $$700 \\times 1300 \\over 200$$ ] <br><br>= 61950 J <br><br>= 61.95 kJ <br><br>$$ \\simeq $$ 62 kJ",
+      "solution": "Give that, <br><br>n = 3 <br><br>T<sub>1</sub> = 300 <br><br>T<sub>2</sub> = 1000 <br><br>C<sub>p</sub> = 23 + 0.01T <br><br>We know, <br><br>$$\\Delta $$H = $$\\int\\limits_T_1^T_2 nC_pdT $$ <br><br>= $$\\int\\limits_300^10003\\left( 23 + T \\over 100 \\right)dT $$ <br><br>= $$3\\left[ 23T + T^2 \\over 200 \\right]_300^1000$$ <br><br>= 3[ 23(1000 - 300 + $$1 \\over 200$$((1000)<sup>2</sup> - (300)<sup>2</sup>)] <br><br>= 3[ 23 $$ \\times $$ 700 + $$700 \\times 1300 \\over 200$$ ] <br><br>= 61950 J <br><br>= 61.95 kJ <br><br>$$ \\simeq $$ 62 kJ",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -2458,7 +1783,7 @@
         "D": "4 RT"
       },
       "answer": "A",
-      "solution": "We know, <br><br>$$\\Delta $$H - $$\\Delta $$U = $$\\Delta $$n<sub>g</sub>RT <br><br>C<sub>7</sub>H<sub>16</sub>($$l$$) + 11O<sub>2</sub>(g) $$ \\to $$ 7CO<sub>2</sub>(g) + 8H2O($$l$$) <br><br>Here $$\\Delta $$n<sub>g</sub> = 7 - 11 = - 4 <br><br>$$ \\therefore $$ $$\\Delta $$H - $$\\Delta $$U = - 4RT",
+      "solution": "We know, <br><br>$$\\Delta $$H - $$\\Delta $$U = $$\\Delta $$n<sub>g</sub>RT <br><br>C<sub>7</sub>H<sub>16</sub>($$l$$) + 11O<sub>2</sub>(g) $$ \\to $$ 7CO<sub>2</sub>(g) + 8H\u2082O($$l$$) <br><br>Here $$\\Delta $$n<sub>g</sub> = 7 - 11 = - 4 <br><br>$$ \\therefore $$ $$\\Delta $$H - $$\\Delta $$U = - 4RT",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -2497,7 +1822,7 @@
     {
       "question": "The process that is NOT endothermic in nature is :",
       "options": {
-        "A": "Ar(g) + e<sup>-</sup> $$ \\to $$ Ar<sup>-</sup>(g)",
+        "A": "r(g) + e<sup>-</sup> $$ \\to $$ Ar<sup>-</sup>(g)",
         "B": "H(g) + e<sup>-</sup> $$ \\to $$ H<sup>-</sup>(g)",
         "C": "Na(g) $$ \\to $$ Na<sup>+</sup>(g) + e<sup>-</sup>",
         "D": "O<sup>-</sup>(g) + e<sup>-</sup> $$ \\to $$ O<sup>2-</sup>(g)"
@@ -2518,7 +1843,7 @@
         "D": "is x = y"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264997/exam_images/xnctexndos5letrbgfdr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 9th January Morning Slot Chemistry - Thermodynamics Question 104 English Explanation\"> <br><br>$$ \\therefore $$ $$\\Delta $$H<sub>atomisation</sub> = $$\\Delta $$H<sub>Vap</sub> + Bond Energy <br><br>$$ \\Rightarrow $$ x = $$\\Delta $$H<sub>Vap</sub> + y <br><br>$$ \\Rightarrow $$ x $$>$$ y",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2089\u2087/exam_images/xnctexndos\u2085letrbgfdr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 9th January Morning Slot Chemistry - Thermodynamics Question 104 English Explanation\"> <br><br>$$ \\therefore $$ $$\\Delta $$H<sub>atomisation</sub> = $$\\Delta $$H<sub>Vap</sub> + Bond Energy <br><br>$$ \\Rightarrow $$ x = $$\\Delta $$H<sub>Vap</sub> + y <br><br>$$ \\Rightarrow $$ x $$>$$ y",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -2533,7 +1858,7 @@
         "D": "9.26 kJ kg<sup>$$-$$1</sup> K<sup>$$-$$1</sup>"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266002/exam_images/q1qp2jvtfgwib9loqjwo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Thermodynamics Question 129 English Explanation\"> <br>$$\\Delta S_1 = \\Delta H_fusion \\over 273 = 334 \\over 273 = 1.22$$ <br><br>$$\\Delta S_2 = 4.2\\ell N\\left( 363 \\over 273 \\right) = 1.31$$ <br><br>$$\\Delta S_3 = \\Delta H_vap \\over 373 = 2491 \\over 373 = 6.67$$ <br><br>$$\\Delta S_4 = 2.0\\ell n\\left( 383 \\over 373 \\right) = 0.05$$ <br><br>$$\\Delta S_total = 9.26\\,$$ kJ Kg<sup>$$-$$1</sup><sup></sup> K<sup>$$-$$1</sup>",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2080\u2082/exam_images/q\u2081qp\u2082jvtfgwib\u2089loqjwo.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Chemistry - Thermodynamics Question 129 English Explanation\"> <br>$$\\Delta S_1 = \\Delta H_fusion \\over 273 = 334 \\over 273 = 1.22$$ <br><br>$$\\Delta S_2 = 4.2\\ell N\\left( 363 \\over 273 \\right) = 1.31$$ <br><br>$$\\Delta S_3 = \\Delta H_vap \\over 373 = 2491 \\over 373 = 6.67$$ <br><br>$$\\Delta S_4 = 2.0\\ell n\\left( 383 \\over 373 \\right) = 0.05$$ <br><br>$$\\Delta S_total = 9.26\\,$$ kJ Kg<sup>$$-$$1</sup><sup></sup> K<sup>$$-$$1</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -2558,7 +1883,7 @@
       "question": "The true statement amongst the following is :",
       "options": {
         "A": "S is a function of temperature but $$\\Delta $$S is not a function of temperature.",
-        "B": "Both S and $$\\Delta $$S are not functions of temperature.",
+        "B": "oth S and $$\\Delta $$S are not functions of temperature.",
         "C": "Both $$\\Delta $$S and S are functions of temperature.",
         "D": "S is not a function of temperature but $$\\Delta $$S is a function of temperature."
       },

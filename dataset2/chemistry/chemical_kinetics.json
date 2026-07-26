@@ -1,243 +1,78 @@
 {
   "subject": "Chemistry",
   "chapter": "Chemical Kinetics",
-  "total_questions": 93,
+  "total_questions": 60,
   "questions": [
-    {
-      "question": "The activation energy for the reaction: 2 HI(g) \u2192 H 2 + I 2 (g) is 209.5 kJ mol \u20131 at 581K. What is the fraction of molecules of reactants having energy equal to or greater than activation energy?",
-      "options": {
-        "A": "A",
-        "B": "658 \u00d7 10 \u201319",
-        "C": "124 \u00d7 10 \u201319",
-        "D": "471 \u00d7 10 \u201319"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1.471 \u00d7 10 \u201319 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "In a reaction carried out at 400 K , 0.01 % of the total number of collisions is effective. The energy of activation of the reaction is",
-      "options": {
-        "A": "A",
-        "B": "3 k J / m o l B",
-        "C": "5 k J / m o l",
-        "D": "2 k J / m o l D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** K = A e - E a R T e E a R T = 0.01 100 \\u21d2 E a R T = 2.303 log \u2061 10 - 4 \\u21d2 E a = 2.303 \u00d7 4 \u00d7 400 = 30.6 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
     {
       "question": "The rate of a first order reaction is $1.5 \\times$ $10^-2 ~mol ~L^-1 ~min^-1$ at $0.5 M$ concentration of the reactant. The half life of the reaction is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "383 ~min$ B $2",
         "C": "1 ~min$",
         "D": "73 ~min$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let the reaction be $$ \\beginaligned & A k\\longrightarrow \\text Product \\\\ & \\text Rate =k[~A] \\\\ & 1.5 \\times 10^-2 ~mol \\textrm L ^ - 1 min ^ - 1 = k [ 0 . 5 ] \\\\ & k=\\frac1.5 \\times 10^-20.5 \\\\ &=3 \\times 10^-2 ~min^-1 \\\\ & t_1 / 2=\\frac0.693k \\\\ & \\Rightarrow \\quad t_1 / 2=\\frac0.6933 \\times 10^-2 \\\\ &=0.231 \\times 10^2 ~min \\\\ & \\Rightarrow \\quad t_1 / 2=23.1 ~min \\endaligned $$ Related Theory Decay profiles for first-order reactions with large and small rate constants **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Let the reaction be $$ \\beginaligned & A k\\longrightarrow \\text Product \\\\ & \\text Rate =k[~A] \\\\ & 1.5 \\times 10^-2 ~mol \\textrm L ^ - 1 min ^ - 1 = k [ 0 . 5 ] \\\\ & k=\\frac\u2081.5 \\times 10^-20.5 \\\\ &=3 \\times 10^-2 ~min^-1 \\\\ & t_1 / 2=\\frac\u2080.693k \\\\ & \\Rightarrow \\quad t_1 / 2=\\frac\u2080.6933 \\times 10^-2 \\\\ &=0.231 \\times 10^2 ~min \\\\ & \\Rightarrow \\quad t_1 / 2=23.1 ~min \\endaligned $$ Related Theory Decay profiles for first-order reactions with large and small rate constants **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate constant for the decomposition of N 2 O 5 at various temperatures is given below: Calculate the values of A and E a .",
+      "question": "The rate constant for the decomposition of N\u2082 O\u2085 at various temperatures is given below: Calculate the values of A and E a .",
       "options": {
-        "A": "A A =",
-        "B": "91 \u00d7 10 6 and E a = 10",
-        "C": "27 kJ mol -1 B A =",
-        "D": "26 \u00d7 10 6 and E a = 11"
+        "A": "=",
+        "B": "91 \u00d7 106 and E a = 10",
+        "C": "27 kJ mol -1 BA =",
+        "D": "26 \u00d7 106 and E a = 11"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) A = 2.91 \u00d7 10 6 and E a = 102.27 kJ mol -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) A = 2.91 \u00d7 106 and E a = 102.27 kJ mol -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate constant of a reaction is 1.5 \u00c3\u0097 1 0 - 4 s - 1 at 27 \u00c2\u00b0 C and 3 \u00c3\u0097 1 0 - 4 s - 1 at 127 \u00c2\u00b0 C . The E a is",
+      "question": "The average kinetic energy of one molecule of an ideal gas at 27 \u2103 and 1 atm pressure is [Avogadro number NA = 6.023 \u00d7 1023 ]",
       "options": {
-        "A": "A",
-        "B": "663 \u00c3\u0097 10 3 \u00c2 C a l",
-        "C": "326 \u00c3\u0097 1 0 3 c a l",
-        "D": "314 \u00c3\u0097 1 0 3 c a l"
+        "A": "900 cal K -1 mol -1",
+        "B": "21 \u00d7 10 - 21 JK -1 molecule -1 C\u2083\u2083",
+        "C": "7 JK -1 mol -1 D\u2083\u2087\u2084",
+        "D": "3 JK -1 mol -1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** l o g 2 \u00c3\u0097 10 4 1.5 \u00c3\u0097 10 4 = \u00e2\u0084\u0087 A 2 \u00c3\u0097 2.303 1 300 - 1 400 l o g 2 = \u00e2\u0084\u0087 A 2.303 \u00c3\u0097 2 100 400 \u00c3\u0097 300 \u00e2\u0084\u0087 A = 0.3010 \u00c3\u0097 2.303 \u00c3\u0097 2 \u00c3\u0097 1200 = 1663.68 \u00c2 C a l = 1.663 \u00c3\u0097 10 3 \u00c2 C a l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The average kinetic energy per molecule, = 32 kT Or = 32 RN AT = 32 \u00d7 8.3146.023 \u00d7 10 23 \u00d7 30 0 = 6.21 \u00d7 10 - 21 JK -1 molecule -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For a decomposition of azoisopropane at 270 \u00b0 C it was found that at t = 0, the total pressure was 33.15 mm of Hg and after 3 minutes the total pressure was found to be 46.3 mm of Hg. Calculate the value of K for this reaction. ( C H 3 ) 2 C H N = N C H ( C H 2 ) 2 \u2192 N 2 + C 6 H 14",
+      "question": "Consider the reaction A \u2192 2 B + C, \u0394 H = - 15 kcal . The energy of activation of backward reaction is 20 kcal mol -1 . In presence of catalyst, the energy of activation of forward reaction is 3 kcal mol -1 . At\u2084\u2080\u2080 K the catalyst causes the rate of the forward reaction to increase by the number of times equal to-",
       "options": {
-        "A": "A",
-        "B": "168 m i n - 1",
-        "C": "173 m i n - 1",
-        "D": "18 m i n - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** k = 2.303 t l o g p o ( n - 1 ) n p o - p 1 k = 2.303 3 l o g 33.15 ( 2 - 1 ) 2 \u00d7 33.15 - 46.3 k = 0.168 m i n - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "Time required to decompose SO 2 Cl 2 to half of its initial amount is 60 minutes. If the decomposition is a first order reaction, calculate the rate constant of the reaction.",
-      "options": {
-        "A": "A",
-        "B": "925 \u00d7 10 \u20134 s \u20131",
-        "C": "254 \u00d7 10 \u20134 s \u20131",
-        "D": "458 \u00d7 10 \u20134 s \u20131"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.925 \u00d7 10 \u20134 s \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The experimental data for decomposition of N 2 O 5 : [ 2N 2 O 5 \u2192 4NO 2 + O 2 ] in gas phase at 318K are given below: Which of the following options is closest to the rate constant?.",
-      "options": {
-        "A": "A",
-        "B": "84\u00d710 \u22124 s -1",
-        "C": "62\u00d710 \u22124 s -1",
-        "D": "89\u00d710 \u22124 s -1 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 4.84\u00d710 \u22124 s -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The average kinetic energy of one molecule of an ideal gas at 27 \u2103 and 1 atm pressure is [Avogadro number N A = 6.023 \u00d7 10 23 ]",
-      "options": {
-        "A": "A 900 cal K -1 mol -1",
-        "B": "21 \u00d7 10 - 2 1 J K -1 molecule -1 C 33",
-        "C": "7 J K -1 mol -1 D 374",
-        "D": "3 J K -1 mol -1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The average kinetic energy per molecule, = 3 2 kT Or = 3 2 R N A T = 3 2 \u00d7 8.314 6.023 \u00d7 1 0 2 3 \u00d7 3 0 0 = 6.21 \u00d7 1 0 - 2 1 J K -1 molecule -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "In a reaction, the initial conc. of the reactants increases four fold and rate becomes eight times of its initial value, order of reactions is",
-      "options": {
-        "A": "A 2",
-        "B": "5",
-        "C": "5",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let the rate law be r = k ( c ) n ... ( i ) on increasing concentration 8 r = k 4 c n ... (ii) 2 3 = 2 2 n 2 n = 3 n = 1.5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The reaction X \u2192 product follows first order kinetics. In 40 minutes, the concentration of X changes from 0.1 M to 0.025 M, then the rate of reaction when concentration of X is 0.01 M is",
-      "options": {
-        "A": "A",
-        "B": "47 \u00d7 1 0 - 5 M / m i n",
-        "C": "73 \u00d7 1 0 - 4 M / m i n",
-        "D": "73 \u00d7 1 0 - 5 M / m i n"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** k = 2.303 t log C 0 C t = 2.303 40 log 0.1 0.025 = 2.303 40 l o g 4 = 2.303 \u00d7 0.6021 40 m i n - 1 R a t e = k A = 2.303 \u00d7 0.6021 40 m i n - 1 \u00d7 0.01 M = 3.47 \u00d7 1 0 - 4 M / m i n **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "Consider the reaction A \u2192 2 B + C, \u0394 H = - 1 5 kcal . The energy of activation of backward reaction is 20 kcal mol -1 . In presence of catalyst, the energy of activation of forward reaction is 3 kcal mol -1 . At 400 K the catalyst causes the rate of the forward reaction to increase by the number of times equal to-",
-      "options": {
-        "A": "A e",
+        "A": "e",
         "B": "5 B e",
         "C": "5 C e -",
         "D": "5 D e"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** E a f - E a b = \u0394 H = - 1 5 kcal \u21d2 E a f = - 1 5 + 2 0 = 5 kcal k catalyst k a = e E a - E a catalyst / RT = e 5 - 3 \u00d7 1 0 3 / 2 \u00d7 4 0 0 = e 2 . 5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** E a f - E a b = \u0394 H = - 15 kcal \u21d2 E a f = - 15 + 20 = 5 kcal k catalyst k a = e E a - E a catalyst / RT = e 5 - 3 \u00d7 10 3 / 2 \u00d7 40 0 = e 2 . 5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "A first order reaction is found to have a rate constant, k = 5.5 \u00d7 10 -14 s -1 . Find the half-life of the reaction.",
+      "question": "The decomposition of NH 3 on the platinum surface is zero order reaction. What are the rates of production of N\u2082 and H\u2082 if k=2.5 \u00d7 10 \u20134 mol \u20131 L s \u20131 ?",
       "options": {
-        "A": "A",
-        "B": "21 \u00d7 10 13 s",
-        "C": "46 \u00d7 10 13 s",
-        "D": "68 \u00d7 10 13 s"
+        "A": "Rate of production of N\u2082 =",
+        "B": "5\u00d710 \u22124 M/s ; Rate of production of H\u2082 =",
+        "C": "5\u00d710 \u22124 M/s B Rate of production of N\u2082 =",
+        "D": "5\u00d710 \u22124 M/s ; Rate of production of H\u2082 ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 1.26 \u00d7 10 13 s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The rate constant for a first order reaction is 60 s \u20131 . How much time will it take to reduce the initial concentration of the reactant to its 1/16th value?",
-      "options": {
-        "A": "A",
-        "B": "8 \u00d7 10 \u20132 s",
-        "C": "6 \u00d7 10 \u20132 s",
-        "D": "5 \u00d7 10 \u20132 s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 4.6 \u00d7 10 \u20132 s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The decomposition of NH 3 on the platinum surface is zero order reaction. What are the rates of production of N 2 and H 2 if k=2.5 \u00d7 10 \u20134 mol \u20131 L s \u20131 ?",
-      "options": {
-        "A": "A Rate of production of N 2 =",
-        "B": "5\u00d710 \u22124 M/s ; Rate of production of H 2 =",
-        "C": "5\u00d710 \u22124 M/s B Rate of production of N 2 =",
-        "D": "5\u00d710 \u22124 M/s ; Rate of production of H 2 ="
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Rate of production of N 2 = 2.5\u00d710 \u22124 M/s ; Rate of production of H 2 = 7.5\u00d710 \u22124 M/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "A sample of milk splits after 60 min. at 300 K and after 40 min. at 400 K when the population of lactobacillus acidophilus in it doubles. The activation energy (in kJ/mol) for this process is closest to (Given, R = 8.3 J m o l - 1 K - 1 , l n 2 3 = 0.4 , e - 3 = 4.0 )",
-      "options": {
-        "A": "A",
-        "B": "8 B",
-        "C": "9",
-        "D": "98"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** l n k 2 k 1 = E a R 1 T 1 - 1 T 2 l n 60 40 = E a 8.3 1 300 - 1 400 E a = 3.98 k J / m o l e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) Rate of production of N\u2082 = 2.5\u00d710 \u22124 M/s ; Rate of production of H\u2082 = 7.5\u00d710 \u22124 M/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -246,7 +81,7 @@
     {
       "question": "For a reaction, A + B \u2192 Product; the rate law is given by, r = k [A] 1/2 [B] 2 . What is the order of the reaction?",
       "options": {
-        "A": "A Order of the reaction is",
+        "A": "Order of the reaction is",
         "B": "5 B Order of the reaction is",
         "C": "5 C Order of the reaction is 2 D Order of the reaction is",
         "D": "5"
@@ -261,7 +96,7 @@
     {
       "question": "In a reaction between A and B, the initial rate of reaction (r 0 ) was measured for different initial concentrations of A and B as given below: What is the order of the reaction with respect to A and B?",
       "options": {
-        "A": "A Order with respect to A =",
+        "A": "Order with respect to A =",
         "B": "5 and Order with respect to B = 1 B Order with respect to A =",
         "C": "5 and Order with respect to B = 1 C Order with respect to A =",
         "D": "5 and Order with respect to B = 0 D Order with respect to A ="
@@ -274,26 +109,11 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "Observe the following reaction, 2 A + B \u2192 C The rate of formation of C is 2.2 \u00d7 10 - 3 mol L -1 mtextn -1 , then rate of disappearance of A is",
+      "question": "The time required for 10% completion of a first order reaction at 298K is equal to that required for its 25% completion at 308K. If the value of A is 4 \u00d7 1010 s \u20131 . Calculate k at 318K and E a",
       "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 - 3 mol L -1 min -1",
-        "C": "1 \u00d7 10 - 3 mol L -1 min -1",
-        "D": "4 \u00d7 10 - 3 mol L -1 min -1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 2 A + B \u2192 C Rate of reaction, = - 1 2 d A d t = - d B d t = d C d t \u2234 - d A d t = 2 d [ C ] d t = 2 \u00d7 2.2 \u00d7 10 - 3 = 4.4 \u00d7 10 - 3 m o l L - 1 m i n - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The time required for 10% completion of a first order reaction at 298K is equal to that required for its 25% completion at 308K. If the value of A is 4 \u00d7 10 10 s \u20131 . Calculate k at 318K and E a",
-      "options": {
-        "A": "A E a = 7",
+        "A": "E a = 7",
         "B": "750 kJ mol \u20131 and k =",
-        "C": "6528 \u00d7 10 \u20132 s \u20131 B E a = 8",
+        "C": "6528 \u00d7 10 \u20132 s \u20131 BE a = 8",
         "D": "985 kJ mol \u20131 and k ="
       },
       "answer": "A",
@@ -304,39 +124,9 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The energy of activation for an uncatalysed reaction is 100 kJ mol -1 . Presence of a catalyst lowers the energy of activation by 75%. The log 1 0 K 2 K 1 of the ratio of rate constant of catalysed and uncatalysed reactions at 27\u00b0C is? Assume the frequency factor is same for both reactions. (Given 2.303 \u00d7 8.314 = 19.147)",
-      "options": {
-        "A": "A",
-        "B": "05 B",
-        "C": "10",
-        "D": "52 D None of these"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** In absence of catalyst, K 1 = Ae - 1 0 0 / RT In presence of catalyst ; K 2 = Ae - 2 5 / RT \u2234 K 2 K 1 = e 7 5 / RT \u21d2 log e K 2 K 1 = 7 5 RT \u21d2 log 1 0 K 2 K 1 = 7 5 2.303 \u00d7 R \u00d7 T \u21d2 log 1 0 K 2 K 1 = 7 5 2.303 \u00d7 8.314 \u00d7 1 0 - 3 \u00d7 3 0 0 = 13.057 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "A first order reaction with respect to reactant A , has a rate constant 6 min \u2212 1 . If we start with A = 0.5 mol L \u2212 1 , when would [ A ] reach the value 0.05 mol L \u2212 1",
-      "options": {
-        "A": "A",
-        "B": "384 min",
-        "C": "15 min C 3 min",
-        "D": "84 min"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that for first order kinetics k = 2.303 t l o g a a - x a-x = 0.05 mol L \\u2212 1 6 = 2.303 t l o g 0.5 0.05 or t = 2.303 6 log 0.5 0.05 = 2.303 6 = 0.384 min **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "The following results have been obtained during the kinetic studies of the reaction: 2A + B \u2192 C + D Determine the rate law and the rate constant for the reaction.",
       "options": {
-        "A": "A Rate law = k[A][B] 2 ; Rate constant =",
+        "A": "Rate law = k[A][B] 2 ; Rate constant =",
         "B": "0 M \u20132 min \u20131 B Rate law = k[A][B] 2 ; Rate constant =",
         "C": "0 M \u20132 min \u20131 C Rate law = k[A][B] ; Rate constant =",
         "D": "0 M \u20132 min \u20131 D Rate law = k[A][B] ; Rate constant ="
@@ -349,45 +139,15 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For a photochemical reaction A \u2192 B , 1.0 \u00d7 1 0 - 5 mole of B were formed on absorbing 1.2 \u00d7 1 0 19 quanta each of \u03bb = 360 nm. The quantum efficiency is given by",
-      "options": {
-        "A": "A",
-        "B": "50 B 1",
-        "C": "1",
-        "D": "2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Number of mol of A reacted = 1 \u00d7 1 0 - 5 Number of molecules of A = 1 \u00d7 1 0 - 5 \u00d7 6.02 \u00d7 1 0 23 Quantum efficiency = 6.02 \u00d7 1 0 18 1.2 \u00d7 1 0 19 = 0.50 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The reaction A g \u2192 B g + 2 C g is a first-order reaction with a rate constant of 2.303 x 10 -3 s -1 . Starting with 0.1 moles of 'A' in a 2 litre vessel, find the concentration of A after 301 sec when the reaction is allowed to take place at constant pressure at 300 K.",
-      "options": {
-        "A": "A",
-        "B": "0125 M",
-        "C": "025 M",
-        "D": "05 M D None of these"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** t 1 / 2 = 0 . 6 9 3 2 . 3 0 3 \u00d7 1 0 - 3 = 6 9 3 2 . 3 0 3 = 3 0 1 sec initial concentration = moles of A/volume = 0.1/2 = 0.05 mole/L i.e., after t 1 /2 , no. of moles of 'A' reacted is half the initial moles. Final conc. of [A] = 0.05/2 = 0.025 M **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "For a reaction, activation energy $E_a=0$ and the rate constant at $200 ~K$ is $1.6 \\times 10^6 ~s^-1$. The rate constant at $400 ~K$ will be [Given that gas constant $R=8.314 JK^-1 ~mol^-1$ ]",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "2 \\times 10^4 ~s^-1$",
         "C": "6 \\times 10^6 ~s^-1$",
         "D": "6 \\times 10^3 ~s^-1$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Key Idea Rate constants at two different temperatures is given by Arrhenius equation as follows: $$ \\log \\frack_2k_1=\\fracE_a2.303 R\\left[\\frac1T_1-\\frac1T_2\\right], T_2>T_1 $$ Given, $E_a=0, ~T_1=200 ~K, k_1=1.6 \\times 10^6 ~s^-1$ $$ T_2=400 ~K, R=8.314 JK^-1 ~mol^-1 $$ According to Arrhenius equation, $$ \\log \\frack_2k_1=\\fracE_a2.303 R\\left[\\frac1~T_1-\\frac1~T_2\\right] $$ On substituting the given values in above equation, we get $$ \\beginaligned & \\log \\frack_21.6 \\times 10^6=\\frac02.303 \\times 8.314\\left[\\fracl200-\\fracl400\\right] \\\\ & \\log \\left(\\frack_21.6 \\times 10^6\\right)=0 \\\\ & \\frack_21.6 \\times 10^6=10^0=1 \\\\ & k_2=1.6 \\times 10^6 ~s^-1 \\text at 400 ~K \\endaligned $$ Thus, option (2) is correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Key Idea Rate constants at two different temperatures is given by Arrhenius equation as follows: $$ \\log \\frack_2k_1=\\fracE_a\u2082.303 R\\left[\\frac\u2081T_1-\\frac\u2081T_2\\right], T_2>T_1 $$ Given, $E_a=0, ~T_1=200 ~K, k_1=1.6 \\times 10^6 ~s^-1$ $$ T_2=400 ~K, R=8.314 JK^-1 ~mol^-1 $$ According to Arrhenius equation, $$ \\log \\frack_2k_1=\\fracE_a\u2082.303 R\\left[\\frac\u2081~T_1-\\frac\u2081~T_2\\right] $$ On substituting the given values in above equation, we get $$ \\beginaligned & \\log \\frack_21.6 \\times 10^6=\\frac\u2080\u2082.303 \\times 8.314\\left[\\fracl\u2082\u2080\u2080-\\fracl\u2084\u2080\u2080\\right] \\\\ & \\log \\left(\\frack_21.6 \\times 10^6\\right)=0 \\\\ & \\frack_21.6 \\times 10^6=10^0=1 \\\\ & k_2=1.6 \\times 10^6 ~s^-1 \\text at 400 ~K \\endaligned $$ Thus, option (2) is correct. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -396,22 +156,22 @@
     {
       "question": "The half life of a first order reaction is 2000 years. If the concentration after 8000 years is $0.02 M$, then the initial concentration was :",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "16 M$",
         "C": "32 M$",
         "D": "08 M$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Half life period $\\left(t_1 / 2\\right)=2000$ years $\\beginaligned k & =\\frac0.6932000 \\\\ k & =\\frac2.303t \\log \\frac[A]_o[~A]_t \\\\ \\frac0.6932000 & =\\frac2.3038000 \\log \\frac[A]_o0.02 \\\\ \\therefore \\quad[A]_o & =0.32 M \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Half life period $\\left(t_1 / 2\\right)=2000$ years $\\beginaligned k & =\\frac\u2080.6932000 \\\\ k & =\\frac\u2082.303t \\log \\frac[A]_o[~A]_t \\\\ \\frac\u2080.6932000 & =\\frac\u2082.3038000 \\log \\frac[A]_o\u2080.02 \\\\ \\therefore \\quad[A]_o & =0.32 M \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The initial concentration of N 2 O 5 in the following first order reaction: N 2 O 5 (g) \u2192 2 NO 2 (g) + (1/2) O 2 (g) was 1.24 \u00d7 10 \u20132 mol L \u20131 at 318 K. The concentration of N 2 O 5 after 60 minutes was 0.20 \u00d7 10 \u20132 mol L \u20131 .Calculate the rate constant of the reaction at 318 K.",
+      "question": "The initial concentration of N\u2082 O\u2085 in the following first order reaction: N\u2082 O\u2085 (g) \u2192 2 NO 2 (g) + (1/2) O\u2082 (g) was 1.24 \u00d7 10 \u20132 mol L \u20131 at 318 K. The concentration of N\u2082 O\u2085 after 60 minutes was 0.20 \u00d7 10 \u20132 mol L \u20131 .Calculate the rate constant of the reaction at 318 K.",
       "options": {
-        "A": "A k =",
+        "A": "k =",
         "B": "0304 min -1 B k =",
         "C": "0605 min -1 C k =",
         "D": "0936 min -1 D k ="
@@ -424,56 +184,11 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "During nuclear explosion, one of the products is 90 Sr with half-life of 28.1 years. If 1\u00b5g of 90 Sr was absorbed in the bones of a newly born baby instead of calcium, how much of it will remain after 10 years and 60 years if it is not lost metabolically.",
-      "options": {
-        "A": "A",
-        "B": "7814 \u03bcg of 90 Sr will remain after 10 years and",
-        "C": "227 \u03bcg of 90 Sr will remain after 60 years",
-        "D": "7814 \u03bcg of 90 Sr will remain after 10 years and"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.7814 \u03bcg of 90 Sr will remain after 10 years and 0.227 \u03bcg of 90 Sr will remain after 60 years **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "Consider the following reaction in aqueous solution. 5 Br \u2212 aq + BrO 3 \u2212 aq + 6 H + aq \u2192 3 Br 2 aq + 3 H 2 O l If the rate of appearance of Br 2 at a particular time during the reaction is 0.025 Msec \u2212 1 , what is the rate of disappearance (in Msec \u2212 1 ) of Br \u2212 at that time?",
-      "options": {
-        "A": "A",
-        "B": "025 Msec \u2212 1",
-        "C": "042 Msec \u2212 1",
-        "D": "075 Msec \u2212 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The two rates are related as \u2212 1 5 d Br \u2212 dt = 1 3 d Br 2 dt \u2212 d Br \u2212 dt = 5 3 d Br 2 dt = 5 3 \u00d7 0.025 = 0.042 Msec \u2212 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "In a pseudo first order reaction in water, the following results were obtained: Calculate the average rate of reaction between the time interval 30 to 60 seconds.",
-      "options": {
-        "A": "A",
-        "B": "67 \u00d7 10 \u20133 mol L \u20131 s \u20131",
-        "C": "69 \u00d7 10 \u20133 mol L \u20131 s \u20131",
-        "D": "63 \u00d7 10 \u20133 mol L \u20131 s \u20131"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 4.67 \u00d7 10 \u20133 mol L \u20131 s \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "The rate constants of a reaction at 500K and 700K are 0.02 s \u20131 and 0.07 s \u20131 respectively. What are the values of E a and A?",
       "options": {
-        "A": "A E a = 1152",
+        "A": "E a = 1152",
         "B": "5 J and A =",
-        "C": "56 B E a = 1823",
+        "C": "56 BE a = 1823",
         "D": "8 J and A ="
       },
       "answer": "A",
@@ -486,13 +201,13 @@
     {
       "question": "The rate of a reaction quadruples when temperature changes from $27^\\circ C$ to $57^\\circ C$. Calculate the energy o activation. Given $R=8.314 ~J ~K^-1 ~mol^-1, \\log 4=0.6021$",
       "options": {
-        "A": "A $38",
+        "A": "$38",
         "B": "4 ~kJ / mol$",
         "C": "80 ~kJ / mol$ C $3804 ~kJ / mol$ D $3",
         "D": "04 ~kJ / mol$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $\\beginaligned & \\log \\left(\\frack_2k_1\\right)=\\fracE_a2.303 R\\left(\\frac1~T_1-\\frac1~T_2\\right) \\\\ & \\log \\left(\\frac41\\right)=\\fracE_a2.303 R\\left(\\frac1300-\\frac1330\\right) \\\\ & E_a=\\frac(\\log (4)) \\times 2.303 \\times 8.314 \\times 300 \\times 33030 \\\\ & =3.804 \\times 10^4 ~J / mol \\\\ & =38.04 ~kJ / mol\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $\\beginaligned & \\log \\left(\\frack_2k_1\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081~T_1-\\frac\u2081~T_2\\right) \\\\ & \\log \\left(\\frac\u2084\u2081\\right)=\\fracE_a\u2082.303 R\\left(\\frac\u2081\u2083\u2080\u2080-\\frac\u2081\u2083\u2083\u2080\\right) \\\\ & E_a=\\frac(\\log (4)) \\times 2.303 \\times 8.314 \\times 300 \\times 33030 \\\\ & =3.804 \\times 10^4 ~J / mol \\\\ & =38.04 ~kJ / mol\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -507,112 +222,52 @@
         "D": "1"
       },
       "answer": "A",
-      "solution": "## Answer: **(A) 2** --- ## Step-by-Step Solution **Step 1: Write the initial rate expression** $$\\textrate_1 = k[A]^2[B]$$ **Step 2: Apply the new concentrations** - [A]new = 2[A] - [B]new = [B]/2 $$\\textrate_2 = k(2[A])^2\\left(\\frac[B]2\\right)$$ **Step 3: Simplify** $$\\textrate_2 = k \\times 4[A]^2 \\times \\frac[B]2$$ $$\\textrate_2 = \\frac42 \\times k[A]^2[B]$$ $$\\textrate_2 = 2 \\times k[A]^2[B] = 2 \\times \\textrate_1$$ **Step 4: Find the factor** $$\\frac\\textrate_2\\textrate_1 = 2$$ --- ## Key Concept to Remember **The rate law depends only on the powers of concentrations, not on stoichiometric coefficients:** - If a reactant has power **n** in the rate law, changing its concentration by factor **x** changes the rate by factor **x\u207f** In this problem: - Doubling [A] (power = 2): factor = 2\u00b2 = 4\u00d7 - Halving [B] (power = 1): factor = (1/2)\u00b9 = 0.5\u00d7 - Combined effect: 4 \u00d7 0.5 = **2\u00d7** --- ## Why Other Options Are Wrong **(B) 4**: This would be true if only [A] was doubled and [B] remained constant **(C) 0.5**: This would be true if only [B] was halved and [A] remained constant **(D) 1**: This would mean no change in rate, which is incorrect",
+      "solution": "## Answer: **(A) 2** --- ## Step-by-Step Solution **Step 1: Write the initial rate expression** $$\\textrate_1 = k[A]^2[B]$$ **Step 2: Apply the new concentrations** - [A]new = 2[A] - [B]new = [B]/2 $$\\textrate_2 = k(2[A])^2\\left(\\frac[B]2\\right)$$ **Step 3: Simplify** $$\\textrate_2 = k \\times 4[A]^2 \\times \\frac[B]2$$ $$\\textrate_2 = \\frac\u2084\u2082 \\times k[A]^2[B]$$ $$\\textrate_2 = 2 \\times k[A]^2[B] = 2 \\times \\textrate_1$$ **Step 4: Find the factor** $$\\frac\\textrate_2\\textrate_1 = 2$$ --- ## Key Concept to Remember **The rate law depends only on the powers of concentrations, not on stoichiometric coefficients:** - If a reactant has power **n** in the rate law, changing its concentration by factor **x** changes the rate by factor **x\u207f** In this problem: - Doubling [A] (power = 2): factor = 2\u00b2 = 4\u00d7 - Halving [B] (power = 1): factor = (1/2)\u00b9 = 0.5\u00d7 - Combined effect: 4 \u00d7 0.5 = **2\u00d7** --- ## Why Other Options Are Wrong **(B) 4**: This would be true if only [A] was doubled and [B] remained constant **(C) 0.5**: This would be true if only [B] was halved and [A] remained constant **(D) 1**: This would mean no change in rate, which is incorrect",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate constant for the first-order reaction is 60 s - 1 . How much time will it take to reduce the concentration of the reactant to 1/16 of initial value?",
-      "options": {
-        "A": "A",
-        "B": "6 \u00d7 10 - 2 s",
-        "C": "6 \u00d7 10 4 s",
-        "D": "6 \u00d7 10 - 3 s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** t = 2.303 k log A 0 [ A ] = 2.303 60 log a a 16 = 2.303 60 log \u2061 16 = 2.303 60 \u00d7 1.204 = 0.0462 s = 4.6 \u00d7 10 - 2 s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The following data were obtained during the first order thermal decomposition of N 2 O 5 (g) at constant volume: 2N 2 O 5 (g) \u2192 2N 2 O 4 (g) + O 2 Calculate the rate constant",
-      "options": {
-        "A": "A",
-        "B": "35 \u00d7 10 -4 s -1",
-        "C": "26 \u00d7 10 -4 s -1",
-        "D": "98 \u00d7 10 -4 s -1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 4.98 \u00d7 10 -4 s -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "In a first order reaction $A \\rightarrow B$ if $k$ is rate constant and initial concentration of the reactant $A$ is $0.5 M$, then the half-life is:",
       "options": {
-        "A": "A $\\frac\\log 2k$ B $\\frac\\log 2k \\sqrt",
+        "A": "$\\frac\\log 2k$ B $\\frac\\log 2k \\sqrt",
         "B": "5$ C $\\fracln 2k$ D $\\frac",
         "C": "693",
         "D": "5 k$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For a first order reaction. $k=\\frac2.303t \\log _10 \\fracaa-x$ when $t=t_1 / 2$ $k=\\frac2.303t_1 / 2 \\log _10 \\fracaa-\\fraca2$ or $t_1 / 2=\\frac2.303k \\log _10 2=\\frac\\ln 2k$ A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is constant regardless of the concentration of the reactant. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For a first order reaction. $k=\\frac\u2082.303t \\log _10 \\fracaa-x$ when $t=t_1 / 2$ $k=\\frac\u2082.303t_1 / 2 \\log _10 \\fracaa-\\fraca\u2082$ or $t_1 / 2=\\frac\u2082.303k \\log _102=\\frac\\ln 2k$ A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is constant regardless of the concentration of the reactant. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "[NEET 2019 | Chemistry] k = 1.5e7 /s at 50C and 4.5e7 /s at 100C. Activation energy (R=8.314):",
+      "question": "[NEET 2019 | Chemistry] k = 1.5e\u2087 /s at 50C and 4.5e\u2087 /s at 100C. Activation energy (R=8.314):",
       "options": {
-        "A": "2.2e3 J/mol",
-        "B": "2.2e4 J/mol",
-        "C": "9.22e3 J/mol",
-        "D": "1.1e5 J/mol"
+        "A": "2.2e\u2083 J/mol",
+        "B": "2.2e\u2084 J/mol",
+        "C": "9.22e\u2083 J/mol",
+        "D": "1.1e\u2085 J/mol"
       },
       "answer": "A",
-      "solution": "## Solution **The correct answer is (B) 2.2 \u00d7 10\u2074 J/mol** --- ## Step-by-Step Solution ### Formula Used: $$\\ln\\left(\\frack_2k_1\\right) = \\fracE_aR\\left(\\frac1T_1 - \\frac1T_2\\right)$$ ### Step 1: Calculate the ratio of rate constants $$\\frack_2k_1 = \\frac4.5 \\times 10^71.5 \\times 10^7 = 3$$ ### Step 2: Calculate ln(k\u2082/k\u2081) $$\\ln(3) = 1.099$$ ### Step 3: Convert temperatures to Kelvin - T\u2081 = 50 + 273 = 323 K - T\u2082 = 100 + 273 = 373 K ### Step 4: Calculate (1/T\u2081 - 1/T\u2082) $$\\frac1T_1 - \\frac1T_2 = \\frac1323 - \\frac1373$$ $$= 0.003096 - 0.002681 = 0.000415 \\text K^-1$$ ### Step 5: Solve for E\u2090 $$E_a = \\frac\\ln(k_2/k_1)(1/T_1 - 1/T_2) \\times R$$ $$E_a = \\frac1.0990.000415 \\times 8.314$$ $$E_a = 2648.2 \\times 8.314 = 22,003 \\text J/mol$$ $$E_a \\approx 2.2 \\times 10^4 \\text J/mol$$ --- ## Key Concept: Activation Energy The **activation energy** is the minimum energy required for a reaction to proceed. It's inversely related to the rate constant\u2014higher E\u2090 means slower reaction. When temperature increases, the rate constant increases exponentially according to the Arrhenius equation. By comparing k values at two temperatures, we can calculate E\u2090. --- ## Why Other Options Are Wrong: - **(A) 2.2 \u00d7 10\u00b3 J/mol**: Off by a factor of 10 (calculation error) - **(C) 9.22 \u00d7 10\u00b3 J/mol**: Result of using wrong temperature conversion or formula - **(D) 1.1 \u00d7 10\u2075 J/mol**: Too large; might result from arithmetic mistakes **Remember:** For this type of problem, always convert \u00b0C to K and use the two-temperature form of the Arrhenius equation!",
+      "solution": "## Solution **The correct answer is (B) 2.2 \u00d7 10\u2074 J/mol** --- ## Step-by-Step Solution ### Formula Used: $$\\ln\\left(\\frack_2k_1\\right) = \\fracE_aR\\left(\\frac\u2081T_1 - \\frac\u2081T_2\\right)$$ ### Step 1: Calculate the ratio of rate constants $$\\frack_2k_1 = \\frac\u2084.5 \\times 10^71.5 \\times 10^7 = 3$$ ### Step 2: Calculate ln(k\u2082/k\u2081) $$\\ln(3) = 1.099$$ ### Step 3: Convert temperatures to Kelvin - T\u2081 = 50 + 273 = 323 K - T\u2082 = 100 + 273 = 373 K ### Step 4: Calculate (1/T\u2081 - 1/T\u2082) $$\\frac\u2081T_1 - \\frac\u2081T_2 = \\frac\u2081\u2083\u2082\u2083 - \\frac\u2081\u2083\u2087\u2083$$ $$= 0.003096 - 0.002681 = 0.000415 \\text K^-1$$ ### Step 5: Solve for E\u2090 $$E_a = \\frac\\ln(k_2/k_1)(1/T_1 - 1/T_2) \\times R$$ $$E_a = \\frac\u2081.0990.000415 \\times 8.314$$ $$E_a = 2648.2 \\times 8.314 = 22,003 \\text J/mol$$ $$E_a \\approx 2.2 \\times 10^4 \\text J/mol$$ --- ## Key Concept: Activation Energy The **activation energy** is the minimum energy required for a reaction to proceed. It's inversely related to the rate constant\u2014higher E\u2090 means slower reaction. When temperature increases, the rate constant increases exponentially according to the Arrhenius equation. By comparing k values at two temperatures, we can calculate E\u2090. --- ## Why Other Options Are Wrong: - **(A) 2.2 \u00d7 10\u00b3 J/mol**: Off by a factor of 10 (calculation error) - **(C) 9.22 \u00d7 10\u00b3 J/mol**: Result of using wrong temperature conversion or formula - **(D) 1.1 \u00d7 10\u2075 J/mol**: Too large; might result from arithmetic mistakes **Remember:** For this type of problem, always convert \u00b0C to K and use the two-temperature form of the Arrhenius equation!",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "Consider a certain reaction A \u2192 Products with k = 2.0 \u00d7 10 \u20132 s \u20131 . Calculate the concentration of A remaining after 100 s if the initial concentration of A is 1.0 mol L \u20131",
+      "question": "The decomposition of N\u2082 O\u2085 in CCl 4 at 318K has been studied by monitoring the concentration of N\u2082 O\u2085 in the solution. Initially the concentration of N\u2082 O\u2085 is 2.33 mol L \u20131 and after 184 minutes, it is reduced to 2.08 mol L \u20131 . The reaction takes place according to the equation: 2N 2 O\u2085 (g) \u2192 4NO 2 (g) + O\u2082 (g) Calculate (i) the average rate of this reaction in terms of seconds and (ii) what is the rate of production of NO 2 during this period?",
       "options": {
-        "A": "A",
-        "B": "756 M",
-        "C": "368 M",
-        "D": "135 M"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 0.135 M **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The gaseous reaction A g \u00e2\u009f\u00b6 2 B g + C g is found to be first order with respect to A . If the reaction is started with P A = 90 t o r r the pressure after 10 m i n is found to be 180 t o r r . The rate constant of the reaction is",
-      "options": {
-        "A": "A",
-        "B": "15 \u00c3\u0097 10 \u00e2\u0088\u0092 3 \u00e2\u0080\u0089 s \u00e2\u0088\u0092 1",
-        "C": "30 \u00c2 \u00c3\u0097 \u00c2 10 - 3 \u00c2 s - 1",
-        "D": "45 \u00c2 \u00c3\u0097 \u00c2 10 - 3 \u00c2 s - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** A g \u27f6 2 B g + C g (P 0 - p) 2 p p P total = P 0 + 2 p = 180 t o r r p = 45 t o r r k = 1 t ln 90 45 = 1.15 \u00d7 10 \u2212 3 s \u2212 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The decomposition of N 2 O 5 in CCl 4 at 318K has been studied by monitoring the concentration of N 2 O 5 in the solution. Initially the concentration of N 2 O 5 is 2.33 mol L \u20131 and after 184 minutes, it is reduced to 2.08 mol L \u20131 . The reaction takes place according to the equation: 2N 2 O 5 (g) \u2192 4NO 2 (g) + O 2 (g) Calculate (i) the average rate of this reaction in terms of seconds and (ii) what is the rate of production of NO 2 during this period?",
-      "options": {
-        "A": "A (i)",
+        "A": "(i)",
         "B": "13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii)",
         "C": "13 \u00d7 10 \u20133 mol L \u20131 min \u20131 B (i)",
         "D": "13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i)1.13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii) 2.72 \u00d7 10 \u20133 mol L \u20131 min \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i)\u2081.13 \u00d7 10 \u20135 mol L \u20131 s \u20131 and (ii) 2.72 \u00d7 10 \u20133 mol L \u20131 min \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -622,36 +277,21 @@
       "question": "[NEET 2019 | Chemistry] According to Arrhenius equation, a plot of ln k vs 1/T gives slope equal to:",
       "options": {
         "A": "Ea/R",
-        "B": "\\u2212Ea/R",
+        "B": "\\u\u2082\u2082\u2081\u2082Ea/R",
         "C": "Ea",
-        "D": "\\u2212Ea"
+        "D": "\\u\u2082\u2082\u2081\u2082Ea"
       },
       "answer": "A",
-      "solution": "# Arrhenius Equation: Slope of ln k vs 1/T Plot ## The Correct Answer: **(B) \u2212Ea/R** --- ## Step-by-Step Reasoning: ### Starting with the Arrhenius Equation: $$k = A \\cdot e^-E_a/RT$$ ### Taking Natural Logarithm of both sides: $$\\ln k = \\ln A - \\fracE_aRT$$ ### Rearranging: $$\\ln k = \\ln A - \\fracE_aR \\cdot \\frac1T$$ ### Comparing with linear equation y = mx + c: - **y** = ln k - **x** = 1/T - **Slope (m)** = \u2212Ea/R - **y-intercept (c)** = ln A --- ## Key Concept: This is called the **Arrhenius plot** or **van't Hoff plot**. By plotting ln k (y-axis) vs 1/T (x-axis), we get: - A **straight line** with a **negative slope** - The slope = **\u2212Ea/R** - From this, we can calculate: **Ea = \u2212slope \u00d7 R** --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---| | (A) Ea/R | Missing the negative sign; doesn't match the derived equation | | (C) Ea | Ignores the R constant; wrong units | | (D) \u2212Ea | Missing the R constant; wrong units | --- ## Pro Tip for NEET: Always remember: **The slope is negative!** This is a common NEET trap. The negative sign comes directly from the negative exponent in the Arrhenius equation.",
+      "solution": "# Arrhenius Equation: Slope of ln k vs 1/T Plot ## The Correct Answer: **(B) \u2212Ea/R** --- ## Step-by-Step Reasoning: ### Starting with the Arrhenius Equation: $$k = A \\cdot e^-E_a/RT$$ ### Taking Natural Logarithm of both sides: $$\\ln k = \\ln A - \\fracE_aRT$$ ### Rearranging: $$\\ln k = \\ln A - \\fracE_aR \\cdot \\frac\u2081T$$ ### Comparing with linear equation y = mx + c: - **y** = ln k - **x** = 1/T - **Slope (m)** = \u2212Ea/R - **y-intercept (c)** = ln A --- ## Key Concept: This is called the **Arrhenius plot** or **van't Hoff plot**. By plotting ln k (y-axis) vs 1/T (x-axis), we get: - A **straight line** with a **negative slope** - The slope = **\u2212Ea/R** - From this, we can calculate: **Ea = \u2212slope \u00d7 R** --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---| | (A) Ea/R | Missing the negative sign; doesn't match the derived equation | | (C) Ea | Ignores the R constant; wrong units | | (D) \u2212Ea | Missing the R constant; wrong units | --- ## Pro Tip for NEET: Always remember: **The slope is negative!** This is a common NEET trap. The negative sign comes directly from the negative exponent in the Arrhenius equation.",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Chemistry",
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The half-life period of a first order chemical reaction is 6.93 minutes. The time required for the completion of 99% of the chemical reaction will be [ l o g 2 = 0.301 ]",
-      "options": {
-        "A": "A",
-        "B": "03 minutes B",
-        "C": "06 minutes C 46",
-        "D": "6 minutes D 23"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** As k = 0.6932 t 1 / 2 = 0.6932 6.93 m i n - 1 Also t = 2.303 \u03bb l o g [ A o ] [ A ] [ A n ] = initial concentration (amount) [A] = final concentration (amount) So t = 2.303 \u00d7 6.93 0.6932 l o g 100 1 = 46.06 m i n u t e s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "In a reaction, 2A \u2192 Products, the concentration of A decreases from 0.5 mol L \u20131 to 0.4 mol L \u20131 in 10 minutes.What is the rate during this interval?",
       "options": {
-        "A": "A Rate of reaction = Rate of disappearance of A =",
+        "A": "Rate of reaction = Rate of disappearance of A =",
         "B": "022 mol litre \u20131 min \u20131 B Rate of reaction = Rate of disappearance of A =",
         "C": "012 mol litre \u20131 min \u20131 C Rate of reaction = Rate of disappearance of A =",
         "D": "005 mol litre \u20131 min \u20131 D Rate of reaction = Rate of disappearance of A ="
@@ -664,30 +304,15 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "A first order reaction has a specific reaction rate of 1 0 \u2013 2 s e c - 1 . How much time will it take for 20 g of the reactant to reduce to 5 g?",
+      "question": "A first order reaction has a specific reaction rate of 10 \u2013 2 s e c - 1 . How much time will it take for 20 g of the reactant to reduce to 5 g?",
       "options": {
-        "A": "A 13",
-        "B": "8 sec B 34",
-        "C": "5 sec C 69",
-        "D": "0 sec D 23"
+        "A": "13",
+        "B": "8 sec B\u2083\u2084",
+        "C": "5 sec C\u2086\u2089",
+        "D": "0 sec D\u2082\u2083"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** It is based on first order kinetics so using the given relation K = 2.303 t l o g 10 N 0 N T t = 2.303 1 0 - 2 \u00d7 l o g 10 20 5 On solving t = 138.87 sec. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "Calculate the half-life of a first order reaction from their rate constants given below: 2 min \u20131",
-      "options": {
-        "A": "A",
-        "B": "89 minutes",
-        "C": "35 minutes",
-        "D": "22 minutes"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 0.35 minutes **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** It is based on first order kinetics so using the given relation K = 2.303 t l o g 10 N\u2080 NT t = 2.3031 0 - 2 \u00d7 l o g 1020 5 On solving t = 138.87 sec. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -696,7 +321,7 @@
     {
       "question": "The reaction between A and B is first order with respect to A and zero order with respect to B. Fill in the blanks in the following table:",
       "options": {
-        "A": "A (i)",
+        "A": "(i)",
         "B": "1 molL \u22121 , (ii)",
         "C": "2 mol L \u22121 and (iii)",
         "D": "0\u00d710 \u22122 mol L \u22121 min \u22121 B (i)"
@@ -711,10 +336,10 @@
     {
       "question": "A first order reaction takes 40 min for 30% decomposition. What is t 1/2 ?",
       "options": {
-        "A": "A 9",
-        "B": "2 minutes B 8",
-        "C": "4 minutes C 7",
-        "D": "7 minutes D"
+        "A": "9",
+        "B": "2 minutes B\u2088",
+        "C": "4 minutes C\u2087",
+        "D": "7 minutes"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 77.7 minutes **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -724,75 +349,15 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate constant of the reaction A \u27f6 B is 0.6 \u00d7 10 - 3 mole per liter per second. If the initial concentration of A is 5 M, then the concentration of B after 20 minutes is:",
-      "options": {
-        "A": "A",
-        "B": "08 M",
-        "C": "60 M",
-        "D": "36 M"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For, Zero Order Reaction: \\(\\beginaligned x & =\\text K.t \\\\ & =0.6 \\times 10^-3 \\times 20 \\times 60 \\endaligned\\) So, \\(x=0.72 M\\) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "If the rate constant for a first order reaction is k , the time ( t ) required for the completion of 99 % of the reaction is given by",
       "options": {
-        "A": "A t =",
+        "A": "t =",
         "B": "693 / k B t =",
         "C": "909 / k C t =",
         "D": "606 / k D t ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** k = 2.303 t l o g a a - x a = 100 a - x = 100 - 99 = 1 k = 2.303 t l o g 100 1 t = 4 .606 k **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "For a given reaction, energy of activation for forward reaction E a f is 80 kJ mol -1 and \u0394 H = - 40 kJ mol -1 . A catalyst lowers E a f to 20 kJ mol \u2212 1 . The ratio of energy of activation for reverse reaction before and after addition of catalyst is:",
-      "options": {
-        "A": "A",
-        "B": "0",
-        "C": "5",
-        "D": "2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 H = E f - E b - 4 0 = 8 0 - E b E b = 120 kJ/mol, Catalyst lower the E f to 20 kJ/mol for forward reaction then E f \u2032 = 20 kJ/mol We know catalyst decreases the activation energy equal amount in both direction. E b \u2032 = 1 2 0 - 6 0 = 60 kJ/mol E b E b \u2032 = 1 2 0 6 0 = 2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The following data were obtained from the first order decomposition of 2 A g \u2192 B g + C ( S ) at a constant volume and at a particular temperature S No. Time Total pressure in Pascal 1 At the end of 10 min 300 2 After completion 200 The rate constant in min -1 is",
-      "options": {
-        "A": "A",
-        "B": "0693 B 6",
-        "C": "3",
-        "D": "93"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 2 A \u2192 B + C t = 0 2 P 0 - After 10 min 2 P - 2x x - After completion 0 P - Given, P = 200 after the completion 2 P - x = 300 (at the end of 10 min) x = 100 k = 2.303 10 l o g 200 100 = 0.0693 m i n - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "A substance undergoes first order decomposition involving two parallel first order reactions as : k 1 = 1.25 \u00d7 10 - 4 s - 1 k 2 = 3.80 \u00d7 10 - 5 s - 1 The mole percentage of B in the products is :",
-      "options": {
-        "A": "A",
-        "B": "17 B 77 C",
-        "C": "16 D 6",
-        "D": "84"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** mole % o f B = 12.5 \u00d7 1 0 - 5 12.5 + 3.8 \u00d7 1 0 - 5 \u00d7 100 = 12.5 16.3 \u00d7 100 = 76.68 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** k = 2.303 t l o g a a - x a = 100 a - x = 100 - 99 = 1 k = 2.303 t l o g 1001 t = 4 .606 k **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -801,10 +366,10 @@
     {
       "question": "The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. What is E a ?",
       "options": {
-        "A": "A E a = 6",
-        "B": "985 kJ mol \u20131 B E a = 5",
-        "C": "897 kJ mol \u20131 C E a =",
-        "D": "137 kJ mol \u20131 D E a ="
+        "A": "E a = 6",
+        "B": "985 kJ mol \u20131 BE a = 5",
+        "C": "897 kJ mol \u20131 CE a =",
+        "D": "137 kJ mol \u20131 DE a ="
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) E a = 52.897 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -814,9 +379,9 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate constant for the first order decomposition of H 2 O 2 is given by the following equation: log k = 14.34 \u2013 1.25 \u00d7 10 4 K/T Calculate (i) E a for this reaction and (ii) at what temperature will its half-period be 256 minutes?",
+      "question": "The rate constant for the first order decomposition of H\u2082 O\u2082 is given by the following equation: log k = 14.34 \u2013 1.25 \u00d7 104 K/T Calculate (i) E a for this reaction and (ii) at what temperature will its half-period be 256 minutes?",
       "options": {
-        "A": "A (i) 23",
+        "A": "(i) 23",
         "B": "339 kJ mol \u20131 and (ii) 669K B (i) 23",
         "C": "339 kJ mol \u20131 and (ii) 1028K C (i) 36",
         "D": "223 kJ mol \u20131 and (ii) 669K D (i) 44"
@@ -829,75 +394,15 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The first order rate constant for the decomposition of ethyl iodide by the reaction: C 2 H 5 I (g) \u2192 C 2 H 4 (g) + HI(g) at 600K is 1.60 \u00d7 10 \u20135 s \u20131 . Its energy of activation is 209 kJ/mol. Calculate the rate constant of the reaction at 700K.",
-      "options": {
-        "A": "A",
-        "B": "82 \u00d7 10 \u20133 s \u20131",
-        "C": "34 \u00d7 10 \u20133 s \u20131",
-        "D": "14 \u00d7 10 \u20133 s \u20131"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 6.36 \u00d7 10 \u20133 s \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "If the instantaneous rate of appearance of N O 2 g is 0.0400 M / s at some moment in time, what is the rate of disappearance of N 2 O 5 g in M / s ? N 2 O 5 g \u2192 2 N O 2 g + 1 2 O 2 g",
-      "options": {
-        "A": "A",
-        "B": "02",
-        "C": "01",
-        "D": "04"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** N 2 O 5 \u2192 2 N O 2 + 1 2 O 2 r a t e = d ( N 2 O 5 ) d t = 1 2 d ( N O 2 ) d t = 2 d ( O 2 ) d t Rate of disappear of NO 2 = d ( N O 2 ) d t =0.04 d ( N 2 O 5 ) d t = 1 2 d ( N O 2 ) d t = 0.04 2 = 0.02 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The inactivation of a viral preparation in a chemical bath is found to be a first order reaction. The rate constant for the viral inactivation if in the beginning 1.5 % of the virus is inactivated per minute is ( Given : ln 100 98.5 = 0.01511 )",
-      "options": {
-        "A": "A",
-        "B": "25 \u00c3\u0097 10 - 4 \u00c2 s e c - 1 \u00c2",
-        "C": "5 \u00c3\u0097 10 - 4 s e c - 1 C 5 \u00c3\u0097 10 - 4 s e c - 1",
-        "D": "5 \u00c3\u0097 10 - 4 \u00c2 m i n -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The rate constant for the viral inactivation k = 1 60 ln \u2061 100 100 - 1.5 k = ( 0.015 ) 60 k = 2.5 \u00d7 10 - 4 s e c - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
       "question": "Calculate the average life (in minutes), if the half-life of a radionuclide is 69.3 minutes.",
       "options": {
-        "A": "A 100 B 1 / 100 C 6",
+        "A": "100 B\u2081 / 100 C\u2086",
         "B": "3 \u00d7",
         "C": "4",
         "D": "693 \u00d7 6"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Average life ( \u03c4 ) = 1.44 t 1 / 2 = 1.44 \u00d7 69.3 = 99.7 \u2248 100 minutes. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Kinetics"
-    },
-    {
-      "question": "The rate of a reaction quadruples when the temperature changes from 293 K to 313 K. Calculate the energy of activation of the reaction assuming that it does not change with temperature.",
-      "options": {
-        "A": "A",
-        "B": "4 kJ mol \u20131 B 11",
-        "C": "2 kJ mol \u20131 C 8",
-        "D": "4 kJ mol \u20131 D 5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 52.8 kJ mol \u20131 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Chemistry",
@@ -934,7 +439,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The rate of a reaction quadruples when the temperature changes from 300 to 310 K. The activation energy of this reaction is : <br/><br/>(Assume activation energy and preexponential factor are independent of temperature; ln 2 = 0.693; R = 8.314 J mol<sup>\\u22121</sup> K<sup>\\u22121</sup>)",
+      "question": "The rate of a reaction quadruples when the temperature changes from 300 to 310 K. The activation energy of this reaction is : <br/><br/>(Assume activation energy and preexponential factor are independent of temperature; ln 2 = 0.693; R = 8.314 J mol<sup>\\u\u2082\u2082\u2081\u2082\u2081</sup> K<sup>\\u\u2082\u2082\u2081\u2082\u2081</sup>)",
       "options": {
         "A": "107.2 kJ mol<sup>$$-$$1</sup>",
         "B": "53.6 kJ mol<sup>$$-$$1</sup>",
@@ -994,7 +499,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the following reactions<br/> $$A\\buildrel 700K \\over \\longrightarrow \\mathop\\rm Product\\nolimits $$<br/> $$A\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_catalyst^500K \\mathop\\rm Product\\nolimits $$<br/> it was found that E<sub>a</sub> is decreased by 30 kJ/mol in the presence of catalyst.<br/> If the rate remains unchanged, the activation energy for catalysed reaction is (Assume pre exponential factor is same):",
+      "question": "For the following reactions<br/> $$A\\buildrel 700K \\over \\longrightarrow \\mathop\\rm Product\\nolimits $$<br/> $$A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_catalyst^500K \\mathop\\rm Product\\nolimits $$<br/> it was found that E<sub>a</sub> is decreased by 30 kJ/mol in the presence of catalyst.<br/> If the rate remains unchanged, the activation energy for catalysed reaction is (Assume pre exponential factor is same):",
       "options": {
         "A": "198 kJ/mol",
         "B": "135 kJ/mol",
@@ -1047,7 +552,7 @@
         "D": "0 (zero)"
       },
       "answer": "A",
-      "solution": "$$ \\beginaligned & t_1 / 2 \\propto\\left(P_o\\right)^1-n \\\\\\\\ & \\frac\\left(t_1 / 2\\right)_1\\left(t_1 / 2\\right)_2=\\frac\\left(P_o\\right)_1^1-n\\left(P_o_2\\right)_2^1-n \\\\\\\\ & \\Rightarrow\\left(\\frac42\\right)=\\left(\\frac50100\\right)^1-n \\\\\\\\ & \\Rightarrow 2=\\left(\\frac12\\right)^1-n \\\\\\\\ & \\Rightarrow 2=(2)^n-1 \\\\\\\\ & \\Rightarrow n-1=1 \\\\\\\\ & \\Rightarrow n=2 \\endaligned $$",
+      "solution": "$$ \\beginaligned & t_1 / 2 \\propto\\left(P_o\\right)^1-n \\\\\\\\ & \\frac\\left(t_1 / 2\\right)_1\\left(t_1 / 2\\right)_2=\\frac\\left(P_o\\right)_1^1-n\\left(P_o_2\\right)_2^1-n \\\\\\\\ & \\Rightarrow\\left(\\frac\u2084\u2082\\right)=\\left(\\frac\u2085\u2080\u2081\u2080\u2080\\right)^1-n \\\\\\\\ & \\Rightarrow 2=\\left(\\frac\u2081\u2082\\right)^1-n \\\\\\\\ & \\Rightarrow 2=(2)^n-1 \\\\\\\\ & \\Rightarrow n-1=1 \\\\\\\\ & \\Rightarrow n=2 \\endaligned $$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Chemistry",
@@ -1129,7 +634,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "If 50% of a reaction occurs in 100 second and 75% of the reaction occurs in 200 secod, the order of this reaction is :",
+      "question": "If\u2085\u2080% of a reaction occurs in 100 second and 75% of the reaction occurs in 200 secod, the order of this reaction is :",
       "options": {
         "A": "Zero",
         "B": "1",
@@ -1176,7 +681,7 @@
     {
       "question": "It is true that :",
       "options": {
-        "A": "A first order reaction is always a single step reaction",
+        "A": "first order reaction is always a single step reaction",
         "B": "A zero order reaction is a multistep reaction",
         "C": "A zero order reaction is a single step reaction",
         "D": "A second order reaction is always a multistep reaction"
@@ -1197,7 +702,7 @@
         "D": "33.31"
       },
       "answer": "C",
-      "solution": "$$A \\rightarrow$$ Products<br/><br/> For a first order reaction,<br/><br/> $$ t_1 / 2=\\frac\\ln 2k=\\frac0.693k $$<br/><br/> Time for $$90 \\%$$ conversion,<br/><br/> $$t_90 \\%=\\frac1k \\ln \\frac10010=\\frac\\ln 10k=\\frac2.303k$$<br/><br/> $$t_90\\%=\\frac2.3030.693 t_1 / 2=3.32 t_1 / 2$$",
+      "solution": "$$A \\rightarrow$$ Products<br/><br/> For a first order reaction,<br/><br/> $$ t_1 / 2=\\frac\\ln 2k=\\frac\u2080.693k $$<br/><br/> Time for $$90 \\%$$ conversion,<br/><br/> $$t_90 \\%=\\frac\u2081k \\ln \\frac\u2081\u2080\u2080\u2081\u2080=\\frac\\ln 10k=\\frac\u2082.303k$$<br/><br/> $$t_90\\%=\\frac\u2082.3030.693 t_1 / 2=3.32 t_1 / 2$$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -1212,7 +717,7 @@
         "D": "532 s"
       },
       "answer": "C",
-      "solution": "Since, half-life is independent of the initial concentration of $$A B_2$$. Hence, the reaction is \"First Order\". <br/><br/> $$k=\\frac2.303 \\log 2t_1 / 2$$ <br/><br/> $$\\frac2.303 \\log 2t_1 / 2=\\frac2.303t \\log \\frac100(100-80)$$ <br/><br/> $$\\frac2.303 \\times 0.3200=\\frac2.303t \\log 5$$ <br/><br/> $$t=467 ~s$$",
+      "solution": "Since, half-life is independent of the initial concentration of $$A B_2$$. Hence, the reaction is \"First Order\". <br/><br/> $$k=\\frac\u2082.303 \\log 2t_1 / 2$$ <br/><br/> $$\\frac\u2082.303 \\log 2t_1 / 2=\\frac\u2082.303t \\log \\frac\u2081\u2080\u2080(100-80)$$ <br/><br/> $$\\frac\u2082.303 \\times 0.3200=\\frac\u2082.303t \\log 5$$ <br/><br/> $$t=467 ~s$$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Chemistry",
@@ -1221,13 +726,13 @@
     {
       "question": "<p>Integrated rate law equation for a first order gas phase reaction is given by (where $$P_i$$ is initial pressure and $$P_t$$ is total pressure at time $$t$$)</p>",
       "options": {
-        "A": "$$k=\\frac2.303t \\times \\log \\fracP_i\\left(2 P_i-P_t\\right)$$",
-        "B": "$$k=\\frac2.303t \\times \\log \\frac\\left(2 P_i-P_t\\right)P_i$$",
-        "C": "$$k=\\frac2.303t \\times \\fracP_i\\left(2 P_i-P_t\\right)$$",
-        "D": "$$k=\\frac2.303t \\times \\log \\frac2 P_i\\left(2 P_i-P_t\\right)$$"
+        "A": "$$k=\\frac\u2082.303t \\times \\log \\fracP_i\\left(2 P_i-P_t\\right)$$",
+        "B": "$$k=\\frac\u2082.303t \\times \\log \\frac\\left(2 P_i-P_t\\right)P_i$$",
+        "C": "$$k=\\frac\u2082.303t \\times \\fracP_i\\left(2 P_i-P_t\\right)$$",
+        "D": "$$k=\\frac\u2082.303t \\times \\log \\frac\u2082 P_i\\left(2 P_i-P_t\\right)$$"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginarrayllll A \\rightarrow & B & + & C \\\\ P_i & 0 & & 0 \\\\ P_i-x & x & & x \\endarray$$</p> <p>$$\\beginaligned & P_t=P_i+x \\\\ & P_i-x=P_i-P_t+P_i \\\\ & =2 P_i-P_t \\\\ & K=\\frac2.303t \\log \\fracP_i2 P_i-P_t \\endaligned$$</p>",
+      "solution": "<p>$$\\beginarrayllll A \\rightarrow & B & + & C \\\\ P_i & 0 & & 0 \\\\ P_i-x & x & & x \\endarray$$</p> <p>$$\\beginaligned & P_t=P_i+x \\\\ & P_i-x=P_i-P_t+P_i \\\\ & =2 P_i-P_t \\\\ & K=\\frac\u2082.303t \\log \\fracP_i\u2082 P_i-P_t \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Chemistry",
@@ -1264,7 +769,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "For the reaction 2A + B $$ \\to $$ C, the values of initial rate at diffrent reactant concentrations are given in the table below. The rate law for the reaction is : <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-s6z2text-align:center .tg .tg-baqhtext-align:center;vertical-align:top </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-s6z2\">[A] (mol L<sup>-1</sup>) </th> <th class=\"tg-s6z2\">[B] (mol L<sup>-1</sup>)</th> <th class=\"tg-s6z2\">Initial Rate (mol L<sup>-1</sup>s<sup>-1</sup>)</th> </tr> <tr> <td class=\"tg-s6z2\">0.05</td> <td class=\"tg-s6z2\">0.05</td> <td class=\"tg-s6z2\">0.045</td> </tr> <tr> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.05</td> <td class=\"tg-baqh\">0.090</td> </tr> <tr> <td class=\"tg-baqh\">0.20</td> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.72</td> </tr> </tbody></table>",
+      "question": "For the reaction 2A + B $$ \\to $$ C, the values of initial rate at diffrent reactant concentrations are given in the table below. The rate law for the reaction is : <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-s\u2086z\u2082text-align:center .tg .tg-baqhtext-align:center;vertical-align:top </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-s\u2086z\u2082\">[A] (mol L<sup>-1</sup>) </th> <th class=\"tg-s\u2086z\u2082\">[B] (mol L<sup>-1</sup>)</th> <th class=\"tg-s\u2086z\u2082\">Initial Rate (mol L<sup>-1</sup>s<sup>-1</sup>)</th> </tr> <tr> <td class=\"tg-s\u2086z\u2082\">0.05</td> <td class=\"tg-s\u2086z\u2082\">0.05</td> <td class=\"tg-s\u2086z\u2082\">0.045</td> </tr> <tr> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.05</td> <td class=\"tg-baqh\">0.090</td> </tr> <tr> <td class=\"tg-baqh\">0.20</td> <td class=\"tg-baqh\">0.10</td> <td class=\"tg-baqh\">0.72</td> </tr> </tbody></table>",
       "options": {
         "A": "Rate = k[A][B]<sup>2</sup>",
         "B": "Rate = k[A]<sup>2</sup>[B]<sup>2</sup>",
@@ -1279,7 +784,7 @@
       "chapter": "Chemical Kinetics"
     },
     {
-      "question": "The following results were obtained during kinetic studies of the reaction ; <br/><br/>2A + B $$ \\to $$ Products <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv9zfont-size:22px;text-align:center .tg .tg-de48font-weight:bold;font-size:22px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de48\">Experiment</th> <th class=\"tg-de48\">[A] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de48\">[b] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de48\">Initial Rate of reaction<br/>(In mol L<sup>$$-$$1</sup> min<sup>$$-$$1</sup>)</th> </tr> <tr> <td class=\"tg-wv9z\">I</td> <td class=\"tg-wv9z\">0.10</td> <td class=\"tg-wv9z\">0.20</td> <td class=\"tg-wv9z\">6.93 G 10<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv9z\">II</td> <td class=\"tg-wv9z\">0.10</td> <td class=\"tg-wv9z\">0.25</td> <td class=\"tg-wv9z\">6.93 G 10<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv9z\">III</td> <td class=\"tg-wv9z\">0.20</td> <td class=\"tg-wv9z\">0.30</td> <td class=\"tg-wv9z\">1.386 G 10<sup>$$-$$2</sup></td> </tr> </tbody></table> <br/><br/>The time (in minutes) required to consume half of A is :",
+      "question": "The following results were obtained during kinetic studies of the reaction ; <br/><br/>2A + B $$ \\to $$ Products <br/><br/><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdfont-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg thfont-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black; .tg .tg-wv\u2089zfont-size:22px;text-align:center .tg .tg-de\u2084\u2088font-weight:bold;font-size:22px;text-align:center </style> <table class=\"tg\"> <tbody><tr> <th class=\"tg-de\u2084\u2088\">Experiment</th> <th class=\"tg-de\u2084\u2088\">[A] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de\u2084\u2088\">[b] (in mol L<sup>$$-$$1</sup>)</th> <th class=\"tg-de\u2084\u2088\">Initial Rate of reaction<br/>(In mol L<sup>$$-$$1</sup> min<sup>$$-$$1</sup>)</th> </tr> <tr> <td class=\"tg-wv\u2089z\">I</td> <td class=\"tg-wv\u2089z\">0.10</td> <td class=\"tg-wv\u2089z\">0.20</td> <td class=\"tg-wv\u2089z\">6.93 G\u2081\u2080<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv\u2089z\">II</td> <td class=\"tg-wv\u2089z\">0.10</td> <td class=\"tg-wv\u2089z\">0.25</td> <td class=\"tg-wv\u2089z\">6.93 G\u2081\u2080<sup>$$-$$3</sup></td> </tr> <tr> <td class=\"tg-wv\u2089z\">III</td> <td class=\"tg-wv\u2089z\">0.20</td> <td class=\"tg-wv\u2089z\">0.30</td> <td class=\"tg-wv\u2089z\">1.386 G\u2081\u2080<sup>$$-$$2</sup></td> </tr> </tbody></table> <br/><br/>The time (in minutes) required to consume half of A is :",
       "options": {
         "A": "5",
         "B": "10",
@@ -1287,7 +792,7 @@
         "D": "100"
       },
       "answer": "B",
-      "solution": "<p>To determine the time required to consume half of A, we must first determine the rate law for the reaction based on the provided kinetic data.</p> <p>From the data, we can write the general rate law for the reaction as:</p> <p>$$ \\textRate = k [A]^m [B]^n $$</p> <p>We can now use the experimental data to find the values of the exponents $ m $ and $ n $, as well as the rate constant $ k $.</p> <p>From Experiment I and II, we can see that the initial concentration of A remains constant at 0.10 M while the concentration of B changes.</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment II: \\quad \\textRate = k [0.10]^m [0.25]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>By comparing the rates from Experiment I and II:</p> <p>$$ \\frac[0.10]^m [0.25]^n[0.10]^m [0.20]^n = \\frac6.93 \\times 10^-36.93 \\times 10^-3 $$</p> <p>$$ \\frac[0.25]^n[0.20]^n = 1 \\implies \\left(\\frac0.250.20\\right)^n = 1 \\implies n = 0 $$</p> <p>Thus, the reaction is zero order with respect to B.</p> <p>Next, we compare Experiment I and III to determine the order with respect to A:</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^0 &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment III: \\quad \\textRate = k [0.20]^m [0.30]^0 &= 1.386 \\times 10^-2 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>$$ \\frack [0.20]^mk [0.10]^m = \\frac1.386 \\times 10^-26.93 \\times 10^-3 $$</p> <p>$$ \\left( \\frac0.200.10 \\right)^m = 2 \\implies (2)^m = 2 \\implies m = 1 $$</p> <p>Therefore, the reaction is first-order with respect to A.</p> <p>Now, we can write the rate law as:</p> <p>$$ \\textRate = k [A]^1 $$</p> <p>Let's calculate the rate constant $ k $ using data from any experiment (say Experiment I):</p> <p>$$ 6.93 \\times 10^-3 = k \\times 0.10 $$</p> <p>$$ k = \\frac6.93 \\times 10^-30.10 = 6.93 \\times 10^-2 \\, \\textmin^-1 $$</p> <p>To determine the half-life (time required to consume half of A) for a first-order reaction, we use the formula:</p> <p>$$ t_1/2 = \\frac0.693k $$</p> <p>Substituting the value of $ k $:</p> <p>$$ t_1/2 = \\frac0.6936.93 \\times 10^-2 = 10 \\, \\textminutes $$</p> <p>Therefore, the time required to consume half of A is:</p> <p>Option B: 10</p>",
+      "solution": "<p>To determine the time required to consume half of A, we must first determine the rate law for the reaction based on the provided kinetic data.</p> <p>From the data, we can write the general rate law for the reaction as:</p> <p>$$ \\textRate = k [A]^m [B]^n $$</p> <p>We can now use the experimental data to find the values of the exponents $ m $ and $ n $, as well as the rate constant $ k $.</p> <p>From Experiment I and II, we can see that the initial concentration of A remains constant at 0.10 M while the concentration of B changes.</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment II: \\quad \\textRate = k [0.10]^m [0.25]^n &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>By comparing the rates from Experiment I and II:</p> <p>$$ \\frac[0.10]^m [0.25]^n[0.10]^m [0.20]^n = \\frac\u2086.93 \\times 10^-36.93 \\times 10^-3 $$</p> <p>$$ \\frac[0.25]^n[0.20]^n = 1 \\implies \\left(\\frac\u2080.250.20\\right)^n = 1 \\implies n = 0 $$</p> <p>Thus, the reaction is zero order with respect to B.</p> <p>Next, we compare Experiment I and III to determine the order with respect to A:</p> <p>$$ \\beginalign* \\textExperiment I: \\quad \\textRate = k [0.10]^m [0.20]^0 &= 6.93 \\times 10^-3 \\, \\textmol L^-1 \\textmin^-1 \\\\ \\textExperiment III: \\quad \\textRate = k [0.20]^m [0.30]^0 &= 1.386 \\times 10^-2 \\, \\textmol L^-1 \\textmin^-1 \\endalign* $$</p> <p>$$ \\frack [0.20]^mk [0.10]^m = \\frac\u2081.386 \\times 10^-26.93 \\times 10^-3 $$</p> <p>$$ \\left( \\frac\u2080.200.10 \\right)^m = 2 \\implies (2)^m = 2 \\implies m = 1 $$</p> <p>Therefore, the reaction is first-order with respect to A.</p> <p>Now, we can write the rate law as:</p> <p>$$ \\textRate = k [A]^1 $$</p> <p>Let's calculate the rate constant $ k $ using data from any experiment (say Experiment I):</p> <p>$$ 6.93 \\times 10^-3 = k \\times 0.10 $$</p> <p>$$ k = \\frac\u2086.93 \\times 10^-30.10 = 6.93 \\times 10^-2 \\, \\textmin^-1 $$</p> <p>To determine the half-life (time required to consume half of A) for a first-order reaction, we use the formula:</p> <p>$$ t_1/2 = \\frac\u2080.693k $$</p> <p>Substituting the value of $ k $:</p> <p>$$ t_1/2 = \\frac\u2080.6936.93 \\times 10^-2 = 10 \\, \\textminutes $$</p> <p>Therefore, the time required to consume half of A is:</p> <p>Option B: 10</p>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1347,7 +852,7 @@
         "D": "$$(k_1 - k_2)[A]$$"
       },
       "answer": "B",
-      "solution": "Given, the rate of formation of B is set to be zero. <br><br>$$ \\therefore $$ $$d\\left[ B \\right] \\over dt = 0$$ <br><br>For this reaction, <br><br>$$A\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_R_1^k_1 B$$ <br><br>Rate of reaction for this reaction (R<sub>1</sub>) = $$k_1\\left[ A \\right]$$ <br><br>For this reaction, <br><br>$$B\\mathrel\\mathop\\kern0pt\\longrightarrow \\limits_R_2^k_2 C$$ <br><br>Rate of reaction for this reaction (R<sub>2</sub>) = $$k_2\\left[ B \\right]$$ <br><br>Net rate of formation of B = $$d\\left[ B \\right] \\over dt$$ = R<sub>1</sub> - R<sub>2</sub> <br><br>As $$d\\left[ B \\right] \\over dt = 0$$ <br><br>$$ \\therefore $$ R<sub>1</sub> - R<sub>2</sub> = 0 <br><br>$$ \\Rightarrow $$ $$k_1\\left[ A \\right]$$ - $$k_2\\left[ B \\right]$$ = 0 <br><br>$$ \\Rightarrow $$ $$\\left[ B \\right] = k_1 \\over k_2\\left[ A \\right]$$",
+      "solution": "Given, the rate of formation of B is set to be zero. <br><br>$$ \\therefore $$ $$d\\left[ B \\right] \\over dt = 0$$ <br><br>For this reaction, <br><br>$$A\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_1^k_1 B$$ <br><br>Rate of reaction for this reaction (R<sub>1</sub>) = $$k_1\\left[ A \\right]$$ <br><br>For this reaction, <br><br>$$B\\mathrel\\mathop\\kern\u2080pt\\longrightarrow \\limits_R_2^k_2 C$$ <br><br>Rate of reaction for this reaction (R<sub>2</sub>) = $$k_2\\left[ B \\right]$$ <br><br>Net rate of formation of B = $$d\\left[ B \\right] \\over dt$$ = R<sub>1</sub> - R<sub>2</sub> <br><br>As $$d\\left[ B \\right] \\over dt = 0$$ <br><br>$$ \\therefore $$ R<sub>1</sub> - R<sub>2</sub> = 0 <br><br>$$ \\Rightarrow $$ $$k_1\\left[ A \\right]$$ - $$k_2\\left[ B \\right]$$ = 0 <br><br>$$ \\Rightarrow $$ $$\\left[ B \\right] = k_1 \\over k_2\\left[ A \\right]$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Chemistry",
@@ -1358,7 +863,7 @@
       "options": {
         "A": "n-Butane and Iso-butane",
         "B": "C<sub>2</sub>H<sub>4</sub> and C<sub>4</sub>H<sub>8</sub>",
-        "C": "C<sub>2</sub>H<sub>4</sub> and C<sub>6</sub>H<sub>6</sub>",
+        "C": "<sub>2</sub>H<sub>4</sub> and C<sub>6</sub>H<sub>6</sub>",
         "D": "N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>"
       },
       "answer": "B",

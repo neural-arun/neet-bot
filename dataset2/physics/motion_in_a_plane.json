@@ -1,14 +1,14 @@
 {
   "subject": "Physics",
   "chapter": "Motion in a Plane",
-  "total_questions": 48,
+  "total_questions": 46,
   "questions": [
     {
       "question": "Refer to the parabolic trajectory of a projectile launched with velocity u at angle \u03b8. At the highest point of its flight (H_max), what are the vertical and horizontal velocity components?",
       "image_path": "dataset2/images/phys_projectile_motion.png",
       "options": {
         "A": "Vertical velocity v_y = 0; Horizontal velocity v_x = u cos \u03b8",
-        "B": "Both vertical and horizontal velocities are zero",
+        "B": "oth vertical and horizontal velocities are zero",
         "C": "Vertical velocity v_y = u sin \u03b8; Horizontal velocity v_x = 0",
         "D": "Both components equal u sin \u03b8"
       },
@@ -31,36 +31,6 @@
       "solution": "# Correct Answer: **(C) 90\u00b0 \u2212 \u03b8** ## Step-by-Step Solution **Range Formula:** $$R = \\fracv^2 \\sin 2\\thetag$$ **For Same Range:** For two angles of projection to give the same range: $$\\sin 2\\theta_1 = \\sin 2\\theta_2$$ **Using Sine Property:** The sine function satisfies: sin A = sin B when A + B = 180\u00b0 Therefore: $$2\\theta_1 + 2\\theta_2 = 180\u00b0$$ $$\\theta_1 + \\theta_2 = 90\u00b0$$ **Finding the Complementary Angle:** If first angle is \u03b8: $$\\theta + \\theta_2 = 90\u00b0$$ $$\\theta_2 = 90\u00b0 - \\theta$$ ## Verification with Examples | Angle 1 | Angle 2 | sin 2\u03b8\u2081 | sin 2\u03b8\u2082 | Range | |---------|---------|---------|---------|--------| | 30\u00b0 | 60\u00b0 | sin 60\u00b0 | sin 120\u00b0 | Same \u2713 | | 20\u00b0 | 70\u00b0 | sin 40\u00b0 | sin 140\u00b0 | Same \u2713 | | \u03b8 | 90\u00b0-\u03b8 | sin 2\u03b8 | sin(180\u00b0-2\u03b8) | Same \u2713 | ## Why Other Options are Wrong - **(A) 45\u00b0 + \u03b8**: No special property; different ranges - **(B) 180\u00b0 \u2212 \u03b8**: Would give negative or >90\u00b0 angles; physically unrealistic - **(D) 90\u00b0 + \u03b8**: Would exceed 90\u00b0 for most values; gives different range ## Key Concept to Remember **Complementary Angles in Projectile Motion:** Two angles \u03b8 and (90\u00b0 \u2212 \u03b8) always produce the same range. This is called the \"supplementary angle\" property of projectile motion.",
       "exam": "NEET 2022",
       "year": 2022,
-      "subject": "Physics",
-      "chapter": "Motion in a Plane"
-    },
-    {
-      "question": "Which of the following best represents the declination at point Q, the intersection of the geographical and magnetic equators, within the plane S formed by the dipole axis and the axis of the earth?",
-      "options": {
-        "A": "A",
-        "B": "3\u00b0 B",
-        "C": "5\u00b0 C",
-        "D": "2\u00b0 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 11.3\u00b0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Motion in a Plane"
-    },
-    {
-      "question": "The range of a projectile when launched at an angle 15 o with the horizontal is 1 . 5 km . What will be the range of that projectile when launched with the same velocity at an angle 45 o to the horizontal?",
-      "options": {
-        "A": "A",
-        "B": "75 \u00c2 k m",
-        "C": "5 \u00c2 k m",
-        "D": "0 \u00c2 k m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** At \u00ce\u00b8 = 15 o R = u 2 sin \u00e2\u0081\u00a1 30 o g = 1.5 \u00c2 k m \u00e2\u0087\u0092 u 2 g = 3 \u00c2 k m At \u00ce\u00b8 = 45 o R \u2032 = u 2 sin \u00e2\u0081\u00a1 90 o g = u 2 g = 3 \u00c2 k m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Motion in a Plane"
     },
@@ -103,7 +73,7 @@
         "D": "108.25 mV"
       },
       "answer": "D",
-      "solution": "$$\\varepsilon $$<sub>ind</sub> = (B<sub>v</sub>) LV and B<sub>v</sub> = B<sub>Total</sub> sin60<sup>o</sup><br><br>$$ \\therefore $$ $$\\varepsilon $$<sub>ind</sub> = (2.5 $$\\times$$ 10<sup>$$-$$4</sup>)(sin 60<sup>o</sup>) $$\\times$$ 10 $$\\times$$ 180 $$\\times$$ $$5 \\over 18$$<br><br>= 108.25 mV",
+      "solution": "$$\\varepsilon $$<sub>ind</sub> = (B<sub>v</sub>) LV and B<sub>v</sub> = B<sub>Total</sub> sin\u2086\u2080<sup>o</sup><br><br>$$ \\therefore $$ $$\\varepsilon $$<sub>ind</sub> = (2.5 $$\\times$$ 10<sup>$$-$$4</sup>)(sin 60<sup>o</sup>) $$\\times$$ 10 $$\\times$$ 180 $$\\times$$ $$5 \\over 18$$<br><br>= 108.25 mV",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -118,7 +88,7 @@
         "D": "1 : 4"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267695/exam_images/pvgdnxuydh0h4di9i7xl.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Physics - Motion in a Plane Question 61 English Explanation\"> <br><br>$$R = u^2\\sin 2\\theta \\over g$$ <br><br>$$A = \\pi \\,R^2$$ <br><br>$$A \\propto R^2$$ <br><br>$$A \\propto u^4$$ <br><br>$$A_1 \\over A_2 = u_1^4 \\over u_2^4 = \\left[ 1 \\over 2 \\right]^4 = 1 \\over 16$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2086\u2089\u2085/exam_images/pvgdnxuydh\u2080h\u2084di\u2089i\u2087xl.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Physics - Motion in a Plane Question 61 English Explanation\"> <br><br>$$R = u^2\\sin 2\\theta \\over g$$ <br><br>$$A = \\pi \\,R^2$$ <br><br>$$A \\propto R^2$$ <br><br>$$A \\propto u^4$$ <br><br>$$A_1 \\over A_2 = u_1^4 \\over u_2^4 = \\left[ 1 \\over 2 \\right]^4 = 1 \\over 16$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -193,7 +163,7 @@
         "D": "R<sub>1</sub> = R<sub>2</sub> and H<sub>1</sub> = H<sub>2</sub>"
       },
       "answer": "B",
-      "solution": "Here, two projectiles are projected at angles 42$$^\\circ$$ and 48$$^\\circ$$ with same initial velocity.<br/><br/>As we know the expression of range of projectile, <br/><br/>Range $$ = u^2\\sin 2\\theta \\over g$$<br/><br/>AT $$\\theta$$<sub>1</sub> = 42$$^\\circ$$,<br/><br/>Range, $$R_1 = u^2\\sin 2(42)^\\circ \\over g = 0.99u^2 \\over g$$<br/><br/>At $$\\theta$$<sub>2</sub> = 48$$^\\circ$$ <br/><br/>Range, $$R_2 = u^2\\sin 2(48)^\\circ \\over g = 0.99u^2 \\over g$$<br/><br/>The range of the projectile is same for the two projectiles.<br/><br/>Therefore, R<sub>1</sub> = R<sub>2</sub><br/><br/>Now, as we know the expression of height of the projectile,<br/><br/>$$H_\\max = u^2\\sin \\theta \\over 2g$$<br/><br/>At 42$$^\\circ$$, $$H_\\max = H_1 = u^2\\sin 42^\\circ \\over 2g = 0.669u^2 \\over 2g$$<br/><br/>At 48$$^\\circ$$, $$H_\\max = H_2 = u^2\\sin 48^\\circ \\over 2g = 0.743u^2 \\over 2g$$<br/><br/>Higher the value of $$\\theta$$ higher the value of maximum height. Therefore, H<sub>1</sub> < H<sub>2</sub>.",
+      "solution": "Here, two projectiles are projected at angles 42$$^\\circ$$ and 48$$^\\circ$$ with same initial velocity.<br/><br/>As we know the expression of range of projectile, <br/><br/>Range $$ = u^2\\sin 2\\theta \\over g$$<br/><br/>AT $$\\theta$$<sub>1</sub> = 42$$^\\circ$$,<br/><br/>Range, $$R_1 = u^2\\sin 2(42)^\\circ \\over g = 0.99u^2 \\over g$$<br/><br/>At $$\\theta$$<sub>2</sub> = 48$$^\\circ$$ <br/><br/>Range, $$R_2 = u^2\\sin 2(48)^\\circ \\over g = 0.99u^2 \\over g$$<br/><br/>The range of the projectile is same for the two projectiles.<br/><br/>Therefore, R<sub>1</sub> = R<sub>2</sub><br/><br/>Now, as we know the expression of height of the projectile,<br/><br/>$$H_\\max = u^2\\sin \\theta \\over 2g$$<br/><br/>At\u2084\u2082$$^\\circ$$, $$H_\\max = H_1 = u^2\\sin 42^\\circ \\over 2g = 0.669u^2 \\over 2g$$<br/><br/>At\u2084\u2088$$^\\circ$$, $$H_\\max = H_2 = u^2\\sin 48^\\circ \\over 2g = 0.743u^2 \\over 2g$$<br/><br/>Higher the value of $$\\theta$$ higher the value of maximum height. Therefore, H<sub>1</sub> < H<sub>2</sub>.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -208,7 +178,7 @@
         "D": "200 m"
       },
       "answer": "B",
-      "solution": "<p>To determine how high a person can throw a ball given the maximum range, we need to use the principles of projectile motion in physics. The maximum range of a projectile is given by the formula:</p> <p>$$ R = \\fracv_0^2 \\sin(2\\theta)g $$</p> <p>where:</p> <ul> <li>$$ R $$ is the range</li> <li>$$ v_0 $$ is the initial velocity</li> <li>$$ \\theta $$ is the angle of projection</li> <li>$$ g $$ is the acceleration due to gravity (approximately $$ 9.8 \\, \\textm/s^2 $$)</li> </ul> <p>The maximum range is achieved when $$ \\theta = 45^\\circ $$, thus $$ \\sin(2\\theta) = \\sin(90^\\circ) = 1 $$.</p> <p>Given that the maximum range $$ R = 100 \\, \\textm $$, we can rewrite the range formula as:</p> <p>$$ 100 = \\fracv_0^2 \\cdot 19.8 $$</p> <p>Solving for $$ v_0^2 $$:</p> <p>$$ v_0^2 = 100 \\times 9.8 = 980 $$</p> <p>Next, the maximum height $$ H $$ reached by the ball can be calculated using the vertical component of the velocity. The formula for the maximum height is:</p> <p>$$ H = \\fracv_0^2 \\sin^2(\\theta)2g $$</p> <p>Here, for a vertical throw, $$ \\theta = 90^\\circ $$, and thus $$ \\sin(90^\\circ) = 1 $$.</p> <p>Substituting the values, we get:</p> <p>$$ H = \\fracv_0^2 \\cdot 12 \\cdot 9.8 $$</p> <p>Using $$ v_0^2 = 980 $$, we have:</p> <p>$$ H = \\frac9802 \\times 9.8 = \\frac98019.6 = 50 \\, \\textm $$</p> <p>Therefore, the correct answer is:</p> <p>Option B: 50 m</p>",
+      "solution": "<p>To determine how high a person can throw a ball given the maximum range, we need to use the principles of projectile motion in physics. The maximum range of a projectile is given by the formula:</p> <p>$$ R = \\fracv_0^2 \\sin(2\\theta)g $$</p> <p>where:</p> <ul> <li>$$ R $$ is the range</li> <li>$$ v_0 $$ is the initial velocity</li> <li>$$ \\theta $$ is the angle of projection</li> <li>$$ g $$ is the acceleration due to gravity (approximately $$ 9.8 \\, \\textm/s^2 $$)</li> </ul> <p>The maximum range is achieved when $$ \\theta = 45^\\circ $$, thus $$ \\sin(2\\theta) = \\sin(90^\\circ) = 1 $$.</p> <p>Given that the maximum range $$ R = 100 \\, \\textm $$, we can rewrite the range formula as:</p> <p>$$ 100 = \\fracv_0^2 \\cdot 19.8 $$</p> <p>Solving for $$ v_0^2 $$:</p> <p>$$ v_0^2 = 100 \\times 9.8 = 980 $$</p> <p>Next, the maximum height $$ H $$ reached by the ball can be calculated using the vertical component of the velocity. The formula for the maximum height is:</p> <p>$$ H = \\fracv_0^2 \\sin^2(\\theta)\u2082g $$</p> <p>Here, for a vertical throw, $$ \\theta = 90^\\circ $$, and thus $$ \\sin(90^\\circ) = 1 $$.</p> <p>Substituting the values, we get:</p> <p>$$ H = \\fracv_0^2 \\cdot 12 \\cdot 9.8 $$</p> <p>Using $$ v_0^2 = 980 $$, we have:</p> <p>$$ H = \\frac\u2089\u2088\u2080\u2082 \\times 9.8 = \\frac\u2089\u2088\u2080\u2081\u2089.6 = 50 \\, \\textm $$</p> <p>Therefore, the correct answer is:</p> <p>Option B: 50 m</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -223,7 +193,7 @@
         "D": "2tan$$\\alpha$$ $$+$$ 5sec$$\\alpha$$"
       },
       "answer": "B",
-      "solution": "At $t=0$, the motion of projectile is given as <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lb32efin/6418c902-59be-4295-b3f4-eeb0c1462490/bca5c9f0-705b-11ed-89c6-814873432a68/file-1lb32efio.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lb32efin/6418c902-59be-4295-b3f4-eeb0c1462490/bca5c9f0-705b-11ed-89c6-814873432a68/file-1lb32efio.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 36 English Explanation 1\"> <br><br>$\\tan \\alpha=\\fracu_yu_x$ <br><br>where, $u_y$ is the vertical component of initial velocity and $u_x$ is the horizontal component of initial velocity. <br><br>At $t=10 ~s$, the motion of projectile is given as <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lb32fzbs/26b6eb41-0389-4843-9216-c377fad3e789/e7c25180-705b-11ed-89c6-814873432a68/file-1lb32fzbt.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lb32fzbs/26b6eb41-0389-4843-9216-c377fad3e789/e7c25180-705b-11ed-89c6-814873432a68/file-1lb32fzbt.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 36 English Explanation 2\"> <br><br>$\\tan \\beta=\\fracv_yv_x$ .........(ii) <br><br>where, $v_y$ is the vertical component of final velocity after $t=10 ~s$ and $v_x$ is the horizontal component of final velocity. <br><br>From Eqs. (i) and (ii), we get $\\frac\\tan \\beta\\tan \\alpha=\\fracv_yu_y \\quad\\left(\\right.$ as $v_x=u_x$ ) ....(iii) <br><br>Using the following equation in vertical direction, we get <br><br>$$ \\beginaligned &v_y=u_y-g t \\\\\\\\ &v_y=u_y-100 \\endaligned $$ <br><br>Using Eq, (iii) <br><br>$$ \\frac\\tan \\beta\\tan \\alpha=\\fracu_y-100u_y $$ <br><br>$$ \\beginaligned & \\frac\\tan \\beta\\tan \\alpha=1-\\frac100u_y=1-\\frac10020 \\sin \\alpha \\quad\\left(\\because u_y=20 \\sin \\alpha\\right) \\endaligned $$ <br><br>$$ =1-\\frac5\\sin \\alpha $$ <br><br>$\\Rightarrow \\tan \\beta=\\tan \\alpha\\left(1-\\frac5\\sin \\alpha\\right)=\\tan \\alpha-5 \\sec \\alpha$",
+      "solution": "At $t=0$, the motion of projectile is given as <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lb\u2083\u2082efin/6418c\u2089\u2080\u2082-59be-4295-b\u2083f\u2084-eeb\u2080c\u2081\u2084\u2086\u2082\u2084\u2089\u2080/bca\u2085c\u2089f\u2080-705b-11ed-89c\u2086-814873432a\u2086\u2088/file-1lb\u2083\u2082efio.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lb\u2083\u2082efin/6418c\u2089\u2080\u2082-59be-4295-b\u2083f\u2084-eeb\u2080c\u2081\u2084\u2086\u2082\u2084\u2089\u2080/bca\u2085c\u2089f\u2080-705b-11ed-89c\u2086-814873432a\u2086\u2088/file-1lb\u2083\u2082efio.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 36 English Explanation 1\"> <br><br>$\\tan \\alpha=\\fracu_yu_x$ <br><br>where, $u_y$ is the vertical component of initial velocity and $u_x$ is the horizontal component of initial velocity. <br><br>At $t=10 ~s$, the motion of projectile is given as <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lb\u2083\u2082fzbs/26b\u2086eb\u2084\u2081-0389-4843-9216-c\u2083\u2087\u2087fad\u2083e\u2087\u2088\u2089/e\u2087c\u2082\u2085\u2081\u2088\u2080-705b-11ed-89c\u2086-814873432a\u2086\u2088/file-1lb\u2083\u2082fzbt.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lb\u2083\u2082fzbs/26b\u2086eb\u2084\u2081-0389-4843-9216-c\u2083\u2087\u2087fad\u2083e\u2087\u2088\u2089/e\u2087c\u2082\u2085\u2081\u2088\u2080-705b-11ed-89c\u2086-814873432a\u2086\u2088/file-1lb\u2083\u2082fzbt.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 36 English Explanation 2\"> <br><br>$\\tan \\beta=\\fracv_yv_x$ .........(ii) <br><br>where, $v_y$ is the vertical component of final velocity after $t=10 ~s$ and $v_x$ is the horizontal component of final velocity. <br><br>From Eqs. (i) and (ii), we get $\\frac\\tan \\beta\\tan \\alpha=\\fracv_yu_y \\quad\\left(\\right.$ as $v_x=u_x$ ) ....(iii) <br><br>Using the following equation in vertical direction, we get <br><br>$$ \\beginaligned &v_y=u_y-g t \\\\\\\\ &v_y=u_y-100 \\endaligned $$ <br><br>Using Eq, (iii) <br><br>$$ \\frac\\tan \\beta\\tan \\alpha=\\fracu_y-100u_y $$ <br><br>$$ \\beginaligned & \\frac\\tan \\beta\\tan \\alpha=1-\\frac\u2081\u2080\u2080u_y=1-\\frac\u2081\u2080\u2080\u2082\u2080 \\sin \\alpha \\quad\\left(\\because u_y=20 \\sin \\alpha\\right) \\endaligned $$ <br><br>$$ =1-\\frac\u2085\\sin \\alpha $$ <br><br>$\\Rightarrow \\tan \\beta=\\tan \\alpha\\left(1-\\frac\u2085\\sin \\alpha\\right)=\\tan \\alpha-5 \\sec \\alpha$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -238,14 +208,14 @@
         "D": "$$\\cot ^ - 1\\left( R \\over 20t^2 \\right)$$"
       },
       "answer": "D",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l5leb42a/25a8df8a-4ab3-4e4c-a666-4c52b473ee0b/1d567320-03a7-11ed-b731-675fd498ca49/file-1l5leb42b.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l5leb42a/25a8df8a-4ab3-4e4c-a666-4c52b473ee0b/1d567320-03a7-11ed-b731-675fd498ca49/file-1l5leb42b.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 24th June Morning Shift Physics - Motion in a Plane Question 31 English Explanation\"></p> <p>$$t = 25\\sin \\theta \\over g$$</p> <p>and, $$R = (25)^2(2\\sin \\theta \\cos \\theta ) \\over g$$</p> <p>$$ \\Rightarrow R = 25 \\times 25 \\times 2 \\over g \\times gt \\over 25 \\times \\cos \\theta $$</p> <p>$$ \\Rightarrow R = 50t\\cos \\theta $$</p> <p>$$\\therefore$$ $$tan\\theta = gt \\over 25 \\times 50t \\over R$$</p> <p>$$ = 20t^2 \\over R$$</p> <p>$$ \\Rightarrow \\theta = \\cot ^ - 1\\left( R \\over 20t^2 \\right)$$</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085leb\u2084\u2082a/25a\u2088df\u2088a-4ab\u2083-4e\u2084c-a\u2086\u2086\u2086-4c\u2085\u2082b\u2084\u2087\u2083ee\u2080b/1d\u2085\u2086\u2087\u2083\u2082\u2080-03a\u2087-11ed-b\u2087\u2083\u2081-675fd\u2084\u2089\u2088ca\u2084\u2089/file-1l\u2085leb\u2084\u2082b.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085leb\u2084\u2082a/25a\u2088df\u2088a-4ab\u2083-4e\u2084c-a\u2086\u2086\u2086-4c\u2085\u2082b\u2084\u2087\u2083ee\u2080b/1d\u2085\u2086\u2087\u2083\u2082\u2080-03a\u2087-11ed-b\u2087\u2083\u2081-675fd\u2084\u2089\u2088ca\u2084\u2089/file-1l\u2085leb\u2084\u2082b.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 24th June Morning Shift Physics - Motion in a Plane Question 31 English Explanation\"></p> <p>$$t = 25\\sin \\theta \\over g$$</p> <p>and, $$R = (25)^2(2\\sin \\theta \\cos \\theta ) \\over g$$</p> <p>$$ \\Rightarrow R = 25 \\times 25 \\times 2 \\over g \\times gt \\over 25 \\times \\cos \\theta $$</p> <p>$$ \\Rightarrow R = 50t\\cos \\theta $$</p> <p>$$\\therefore$$ $$tan\\theta = gt \\over 25 \\times 50t \\over R$$</p> <p>$$ = 20t^2 \\over R$$</p> <p>$$ \\Rightarrow \\theta = \\cot ^ - 1\\left( R \\over 20t^2 \\right)$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Motion in a Plane"
     },
     {
-      "question": "<p>Two projectiles P<sub>1</sub> and P<sub>2</sub> thrown with speed in the ratio $$\\sqrt3$$ : $$\\sqrt2$$, attain the same height during their motion. If P<sub>2</sub> is thrown at an angle of 60$$^\\circ$$ with the horizontal, the angle of projection of P<sub>1</sub> with horizontal will be :</p>",
+      "question": "<p>Two projectiles P<sub>1</sub> and P<sub>2</sub> thrown with speed in the ratio $$\\sqrt\u2083$$ : $$\\sqrt\u2082$$, attain the same height during their motion. If P<sub>2</sub> is thrown at an angle of 60$$^\\circ$$ with the horizontal, the angle of projection of P<sub>1</sub> with horizontal will be :</p>",
       "options": {
         "A": "15$$^\\circ$$",
         "B": "30$$^\\circ$$",
@@ -268,7 +238,7 @@
         "D": "4"
       },
       "answer": "D",
-      "solution": "<p>To solve this problem, we will use the equations for the range and maximum height of a projectile. The range $$R$$ and maximum height $$H$$ of a projectile launched with speed $$u$$ at an angle $$\\theta$$ can be expressed as follows:</p> <p>Range:</p> <p>$$R = \\fracu^2 \\sin(2\\theta)g$$</p> <p>Maximum height:</p> <p>$$H = \\fracu^2 \\sin^2(\\theta)2g$$</p> <p>We are given that the range and maximum height are equal. So, we set these equations equal to each other:</p> <p>$$\\fracu^2 \\sin(2\\theta)g = \\fracu^2 \\sin^2(\\theta)2g$$</p> <p>We can cancel out the common terms $$u^2$$ and $$g$$ on both sides:</p> <p>$$\\sin(2\\theta) = \\frac12 \\sin^2(\\theta)$$</p> <p>Using the double angle identity for sine, $$\\sin(2\\theta) = 2 \\sin(\\theta) \\cos(\\theta)$$, we substitute it into the equation:</p> <p>$$2 \\sin(\\theta) \\cos(\\theta) = \\frac12 \\sin^2(\\theta)$$</p> <p>We can simplify this by dividing both sides by $$\\sin(\\theta)$$ (assuming $$\\theta \\neq 0$$):</p> <p>$$2 \\cos(\\theta) = \\frac12 \\sin(\\theta)$$</p> <p>Rearranging to get all terms on one side gives us:</p> <p>$$4 \\cos(\\theta) = \\sin(\\theta)$$</p> <p>Dividing both sides by $$\\cos(\\theta)$$, we get:</p> <p>$$4 = \\tan(\\theta)$$</p> <p>So, we find that:</p> <p>$$\\tan(\\theta) = 4$$</p> <p>Thus, the correct answer is:</p> <p>Option D: 4</p>",
+      "solution": "<p>To solve this problem, we will use the equations for the range and maximum height of a projectile. The range $$R$$ and maximum height $$H$$ of a projectile launched with speed $$u$$ at an angle $$\\theta$$ can be expressed as follows:</p> <p>Range:</p> <p>$$R = \\fracu^2 \\sin(2\\theta)g$$</p> <p>Maximum height:</p> <p>$$H = \\fracu^2 \\sin^2(\\theta)\u2082g$$</p> <p>We are given that the range and maximum height are equal. So, we set these equations equal to each other:</p> <p>$$\\fracu^2 \\sin(2\\theta)g = \\fracu^2 \\sin^2(\\theta)\u2082g$$</p> <p>We can cancel out the common terms $$u^2$$ and $$g$$ on both sides:</p> <p>$$\\sin(2\\theta) = \\frac\u2081\u2082 \\sin^2(\\theta)$$</p> <p>Using the double angle identity for sine, $$\\sin(2\\theta) = 2 \\sin(\\theta) \\cos(\\theta)$$, we substitute it into the equation:</p> <p>$$2 \\sin(\\theta) \\cos(\\theta) = \\frac\u2081\u2082 \\sin^2(\\theta)$$</p> <p>We can simplify this by dividing both sides by $$\\sin(\\theta)$$ (assuming $$\\theta \\neq 0$$):</p> <p>$$2 \\cos(\\theta) = \\frac\u2081\u2082 \\sin(\\theta)$$</p> <p>Rearranging to get all terms on one side gives us:</p> <p>$$4 \\cos(\\theta) = \\sin(\\theta)$$</p> <p>Dividing both sides by $$\\cos(\\theta)$$, we get:</p> <p>$$4 = \\tan(\\theta)$$</p> <p>So, we find that:</p> <p>$$\\tan(\\theta) = 4$$</p> <p>Thus, the correct answer is:</p> <p>Option D: 4</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -277,13 +247,13 @@
     {
       "question": "<p>Two projectiles are thrown with same initial velocity making an angle of $$45^\\circ$$ and $$30^\\circ$$ with the horizontal respectively. The ratio of their respective ranges will be :</p>",
       "options": {
-        "A": "$$1: \\sqrt2$$",
-        "B": "$$\\sqrt2: 1$$",
-        "C": "$$2: \\sqrt3$$",
-        "D": "$$\\sqrt3: 2$$"
+        "A": "$$1: \\sqrt\u2082$$",
+        "B": "$$\\sqrt\u2082: 1$$",
+        "C": "$$2: \\sqrt\u2083$$",
+        "D": "$$\\sqrt\u2083: 2$$"
       },
       "answer": "C",
-      "solution": "<p>Here's how to determine the ratio of the ranges for the two projectiles:</p> <p><strong>Understanding the Concepts</strong></p> <ul> <li><strong>Projectile Motion:</strong> Projectile motion is the motion of an object thrown or projected into the air, subject to only the acceleration of gravity. The object is called a projectile, and its path is called its trajectory.</li><br> <li><strong>Range:</strong> The range of a projectile is the horizontal distance it covers from its launch point to the point where it returns to the same vertical height.</li> </ul> <p><strong>Key Formula</strong></p> <p>The formula for the range (R) of a projectile is:</p> <p>$$R = \\fracu^2 \\sin 2\\thetag$$</p> <p>where:</p> <ul> <li> R = Range</li><br> <li> u = Initial velocity (same for both projectiles)</li><br> <li> \u03b8 = Angle of projection</li><br> <li> g = Acceleration due to gravity (constant)</li> </ul> <p><strong>Calculations</strong></p> <ol> <li><strong>Projectile 1 (45\u00b0 angle):</strong></li> </ol> <p>Let the range of the projectile launched at 45\u00b0 be R<sub>1</sub>.</p> <p>$$R_1 = \\fracu^2 \\sin (2 \\times 45^\\circ)g = \\fracu^2 \\sin 90^\\circg = \\fracu^2g $$</p> <ol> <li><strong>Projectile 2 (30\u00b0 angle):</strong></li> </ol> <p>Let the range of the projectile launched at 30\u00b0 be R<sub>2</sub>.</p> <p>$$R_2 = \\fracu^2 \\sin (2 \\times 30^\\circ)g = \\fracu^2 \\sin 60^\\circg = \\fracu^2 \\sqrt32g$$</p> <ol> <li><strong>Ratio of Ranges (R<sub>1</sub> : R<sub>2</sub>):</strong></li> </ol> <p>Divide the range of projectile 1 by the range of projectile 2:</p> <p>$$\\fracR_1R_2 = \\frac\\fracu^2g\\fracu^2 \\sqrt32g = \\frac2\\sqrt3 = \\frac2\\sqrt33$$</p> <p>To simplify the ratio, multiply both numerator and denominator by \u221a3:</p> <p>$$\\fracR_1R_2 = \\frac2\\sqrt3 \\times \\sqrt33 \\times \\sqrt3 = \\frac63\\sqrt3 = \\frac2\\sqrt3$$</p> <p>Therefore, the ratio of the ranges of the two projectiles is <strong>2 : \u221a3</strong>, which corresponds to <strong>Option C</strong>.</p> <p></p>",
+      "solution": "<p>Here's how to determine the ratio of the ranges for the two projectiles:</p> <p><strong>Understanding the Concepts</strong></p> <ul> <li><strong>Projectile Motion:</strong> Projectile motion is the motion of an object thrown or projected into the air, subject to only the acceleration of gravity. The object is called a projectile, and its path is called its trajectory.</li><br> <li><strong>Range:</strong> The range of a projectile is the horizontal distance it covers from its launch point to the point where it returns to the same vertical height.</li> </ul> <p><strong>Key Formula</strong></p> <p>The formula for the range (R) of a projectile is:</p> <p>$$R = \\fracu^2 \\sin 2\\thetag$$</p> <p>where:</p> <ul> <li> R = Range</li><br> <li> u = Initial velocity (same for both projectiles)</li><br> <li> \u03b8 = Angle of projection</li><br> <li> g = Acceleration due to gravity (constant)</li> </ul> <p><strong>Calculations</strong></p> <ol> <li><strong>Projectile 1 (45\u00b0 angle):</strong></li> </ol> <p>Let the range of the projectile launched at 45\u00b0 be R<sub>1</sub>.</p> <p>$$R_1 = \\fracu^2 \\sin (2 \\times 45^\\circ)g = \\fracu^2 \\sin 90^\\circg = \\fracu^2g $$</p> <ol> <li><strong>Projectile 2 (30\u00b0 angle):</strong></li> </ol> <p>Let the range of the projectile launched at 30\u00b0 be R<sub>2</sub>.</p> <p>$$R_2 = \\fracu^2 \\sin (2 \\times 30^\\circ)g = \\fracu^2 \\sin 60^\\circg = \\fracu^2 \\sqrt\u2083\u2082g$$</p> <ol> <li><strong>Ratio of Ranges (R<sub>1</sub> : R<sub>2</sub>):</strong></li> </ol> <p>Divide the range of projectile 1 by the range of projectile 2:</p> <p>$$\\fracR_1R_2 = \\frac\\fracu^2g\\fracu^2 \\sqrt\u2083\u2082g = \\frac\u2082\\sqrt\u2083 = \\frac\u2082\\sqrt\u2083\u2083$$</p> <p>To simplify the ratio, multiply both numerator and denominator by \u221a3:</p> <p>$$\\fracR_1R_2 = \\frac\u2082\\sqrt\u2083 \\times \\sqrt\u2083\u2083 \\times \\sqrt\u2083 = \\frac\u2086\u2083\\sqrt\u2083 = \\frac\u2082\\sqrt\u2083$$</p> <p>Therefore, the ratio of the ranges of the two projectiles is <strong>2 : \u221a3</strong>, which corresponds to <strong>Option C</strong>.</p> <p></p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -298,7 +268,7 @@
         "D": "4 : 1"
       },
       "answer": "A",
-      "solution": "$$ \\text Range=\\fracu^2 \\sin 2 \\thetag $$<br/><br/> Range for projection angle \" $\\alpha$ \"<br/><br/> $$ R_1=\\fracu^2 \\sin 2 \\alphag $$<br/><br/> Range for projection angle \" $\\beta$ \"<br/><br/> $$ \\beginaligned & R_2=\\fracu^2 \\sin 2 \\betag \\\\\\\\ & \\alpha+\\beta=90^\\circ(\\text Given ) \\\\\\\\ & \\Rightarrow \\beta=90^\\circ-\\alpha \\\\\\\\ & R_2=\\fracu^2 \\sin 2\\left(90^\\circ-\\alpha\\right)g \\\\\\\\ & R_2=\\fracu^2 \\sin \\left(180^\\circ-2 \\alpha\\right)g \\\\\\\\ & R_2=\\fracu^2 \\sin 2 \\alphag \\\\\\\\ & \\Rightarrow \\fracR_1R_2=\\frac\\left(\\fracu^2 \\sin 2 \\alphag\\right)\\left(\\fracu^2 \\sin 2 \\alphag\\right)=\\frac11 \\endaligned $$",
+      "solution": "$$ \\text Range=\\fracu^2 \\sin 2 \\thetag $$<br/><br/> Range for projection angle \" $\\alpha$ \"<br/><br/> $$ R_1=\\fracu^2 \\sin 2 \\alphag $$<br/><br/> Range for projection angle \" $\\beta$ \"<br/><br/> $$ \\beginaligned & R_2=\\fracu^2 \\sin 2 \\betag \\\\\\\\ & \\alpha+\\beta=90^\\circ(\\text Given ) \\\\\\\\ & \\Rightarrow \\beta=90^\\circ-\\alpha \\\\\\\\ & R_2=\\fracu^2 \\sin 2\\left(90^\\circ-\\alpha\\right)g \\\\\\\\ & R_2=\\fracu^2 \\sin \\left(180^\\circ-2 \\alpha\\right)g \\\\\\\\ & R_2=\\fracu^2 \\sin 2 \\alphag \\\\\\\\ & \\Rightarrow \\fracR_1R_2=\\frac\\left(\\fracu^2 \\sin 2 \\alphag\\right)\\left(\\fracu^2 \\sin 2 \\alphag\\right)=\\frac\u2081\u2081 \\endaligned $$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -313,7 +283,7 @@
         "D": "192 m"
       },
       "answer": "B",
-      "solution": "For vertical throw, <br/><br/> $$ \\beginaligned & h=\\fracv^22 g \\\\\\\\ & v=\\sqrt2 g h=\\sqrt2 g \\times 136 \\quad...(1) \\endaligned $$ <br/><br/> For max range, $\\theta=45^\\circ$ <br/><br/> $R_\\max =\\fracv^2g \\quad...(2)$ <br/><br/> From (1) and (2) <br/><br/> $$ \\beginaligned R_\\max & =\\fracv^2g=\\frac2 g \\times 136g \\\\\\\\ & =272 ~m \\endaligned $$",
+      "solution": "For vertical throw, <br/><br/> $$ \\beginaligned & h=\\fracv^22 g \\\\\\\\ & v=\\sqrt\u2082 g h=\\sqrt\u2082 g \\times 136 \\quad...(1) \\endaligned $$ <br/><br/> For max range, $\\theta=45^\\circ$ <br/><br/> $R_\\max =\\fracv^2g \\quad...(2)$ <br/><br/> From (1) and (2) <br/><br/> $$ \\beginaligned R_\\max & =\\fracv^2g=\\frac\u2082 g \\times 136g \\\\\\\\ & =272 ~m \\endaligned $$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -322,13 +292,13 @@
     {
       "question": "<p>A projectile is projected at $$30^\\circ$$ from horizontal with initial velocity $$40 ~ms^-1$$. The velocity of the projectile at $$t=2 ~s$$ from the start will be : (Given $$g=10 ~m / s^2$$ )</p>",
       "options": {
-        "A": "$$20 \\sqrt3 ~ms^-1$$",
+        "A": "$$20 \\sqrt\u2083 ~ms^-1$$",
         "B": "Zero",
         "C": "$$20 ~ms^-1$$",
-        "D": "$$40 \\sqrt3 ~ms^-1$$"
+        "D": "$$40 \\sqrt\u2083 ~ms^-1$$"
       },
       "answer": "A",
-      "solution": "To find the velocity of the projectile at t = 2 s, we need to find the horizontal and vertical components of the velocity at that time. <br/><br/> The initial horizontal component of the velocity is constant and is given by: <br/><br/> $$ v_0x = v_0 \\cos\\theta = 40\\,ms^-1 \\cos(30^\\circ) = 40\\,ms^-1 \\cdot \\frac\\sqrt32 = 20\\sqrt3\\,ms^-1 $$ <br/><br/> The initial vertical component of the velocity is: <br/><br/> $$ v_0y = v_0 \\sin\\theta = 40\\,ms^-1 \\sin(30^\\circ) = 40\\,ms^-1 \\cdot \\frac12 = 20\\,ms^-1 $$ <br/><br/> To find the vertical component of the velocity at t = 2 s, we use the equation: <br/><br/> $$ v_y = v_0y - gt = 20\\,ms^-1 - (10\\,ms^-2)(2\\,s) = 20\\,ms^-1 - 20\\,ms^-1 = 0\\,ms^-1 $$ <br/><br/> At t = 2 s, the horizontal component of the velocity is still $$20\\sqrt3\\,ms^-1$$, and the vertical component is 0. The overall velocity at t = 2 s is: <br/><br/> $$ \\vecv = 20\\sqrt3\\,ms^-1 \\hati + 0\\,ms^-1 \\hatj = 20\\sqrt3\\,ms^-1 $$ <br/><br/> So the correct answer is: $$ 20\\sqrt3\\,ms^-1 $$",
+      "solution": "To find the velocity of the projectile at t = 2 s, we need to find the horizontal and vertical components of the velocity at that time. <br/><br/> The initial horizontal component of the velocity is constant and is given by: <br/><br/> $$ v_0x = v_0 \\cos\\theta = 40\\,ms^-1 \\cos(30^\\circ) = 40\\,ms^-1 \\cdot \\frac\\sqrt\u2083\u2082 = 20\\sqrt\u2083\\,ms^-1 $$ <br/><br/> The initial vertical component of the velocity is: <br/><br/> $$ v_0y = v_0 \\sin\\theta = 40\\,ms^-1 \\sin(30^\\circ) = 40\\,ms^-1 \\cdot \\frac\u2081\u2082 = 20\\,ms^-1 $$ <br/><br/> To find the vertical component of the velocity at t = 2 s, we use the equation: <br/><br/> $$ v_y = v_0y - gt = 20\\,ms^-1 - (10\\,ms^-2)(2\\,s) = 20\\,ms^-1 - 20\\,ms^-1 = 0\\,ms^-1 $$ <br/><br/> At t = 2 s, the horizontal component of the velocity is still $$20\\sqrt\u2083\\,ms^-1$$, and the vertical component is 0. The overall velocity at t = 2 s is: <br/><br/> $$ \\vecv = 20\\sqrt\u2083\\,ms^-1 \\hati + 0\\,ms^-1 \\hatj = 20\\sqrt\u2083\\,ms^-1 $$ <br/><br/> So the correct answer is: $$ 20\\sqrt\u2083\\,ms^-1 $$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -337,13 +307,13 @@
     {
       "question": "<p>Two projectiles are projected at $$30^\\circ$$ and $$60^\\circ$$ with the horizontal with the same speed. The ratio of the maximum height attained by the two projectiles respectively is:</p>",
       "options": {
-        "A": "$$1: \\sqrt3$$",
-        "B": "$$\\sqrt3: 1$$",
+        "A": "$$1: \\sqrt\u2083$$",
+        "B": "$$\\sqrt\u2083: 1$$",
         "C": "1 : 3",
-        "D": "$$2: \\sqrt3$$"
+        "D": "$$2: \\sqrt\u2083$$"
       },
       "answer": "C",
-      "solution": "<p>Let the initial speed of both projectiles be v. The maximum height attained by a projectile can be calculated using the formula:</p> <p>$$H = \\fracv^2 \\sin^2 \\theta2g$$</p> <p>where H is the maximum height, v is the initial speed, \u03b8 is the angle of projection, and g is the acceleration due to gravity.</p> <p>For the projectile projected at 30\u00b0, the maximum height is:</p> <p>$$H_1 = \\fracv^2 \\sin^2 30^\\circ2g = \\fracv^2 \\times \\frac142g = \\fracv^28g$$</p> <p>For the projectile projected at 60\u00b0, the maximum height is:</p> <p>$$H_2 = \\fracv^2 \\sin^2 60^\\circ2g = \\fracv^2 \\times \\frac342g = \\frac3v^28g$$</p> <p>Now, let's find the ratio of the maximum heights:</p> <p>$$\\fracH_1H_2 = \\frac\\fracv^28g\\frac3v^28g = \\fracv^23v^2$$</p> <p>The v\u00b2 terms cancel out, and we get:</p> <p>$$\\fracH_1H_2 = \\frac13$$</p> <p>Therefore, the ratio of the maximum heights attained by the two projectiles is 1 : 3</p>",
+      "solution": "<p>Let the initial speed of both projectiles be v. The maximum height attained by a projectile can be calculated using the formula:</p> <p>$$H = \\fracv^2 \\sin^2 \\theta\u2082g$$</p> <p>where H is the maximum height, v is the initial speed, \u03b8 is the angle of projection, and g is the acceleration due to gravity.</p> <p>For the projectile projected at 30\u00b0, the maximum height is:</p> <p>$$H_1 = \\fracv^2 \\sin^230^\\circ\u2082g = \\fracv^2 \\times \\frac\u2081\u2084\u2082g = \\fracv^28g$$</p> <p>For the projectile projected at 60\u00b0, the maximum height is:</p> <p>$$H_2 = \\fracv^2 \\sin^260^\\circ\u2082g = \\fracv^2 \\times \\frac\u2083\u2084\u2082g = \\frac\u2083v^28g$$</p> <p>Now, let's find the ratio of the maximum heights:</p> <p>$$\\fracH_1H_2 = \\frac\\fracv^28g\\frac\u2083v^28g = \\fracv^23v^2$$</p> <p>The v\u00b2 terms cancel out, and we get:</p> <p>$$\\fracH_1H_2 = \\frac\u2081\u2083$$</p> <p>Therefore, the ratio of the maximum heights attained by the two projectiles is 1 : 3</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -352,13 +322,13 @@
     {
       "question": "<p>The range of the projectile projected at an angle of 15$$^\\circ$$ with horizontal is 50 m. If the projectile is projected with same velocity at an angle of 45$$^\\circ$$ with horizontal, then its range will be</p>",
       "options": {
-        "A": "50$$\\sqrt2$$ m",
+        "A": "50$$\\sqrt\u2082$$ m",
         "B": "100 m",
-        "C": "100$$\\sqrt2$$ m",
+        "C": "100$$\\sqrt\u2082$$ m",
         "D": "50 m"
       },
       "answer": "B",
-      "solution": "<p>The range $R$ of a projectile launched with an initial speed $v$ and at an angle $\\theta$ to the horizontal is given by:</p> <p>$R = \\fracv^2g \\sin(2\\theta)$</p> <p>where $g$ is the acceleration due to gravity.</p> <p>From this equation, we can see that the range is dependent on the sine of twice the launch angle.</p> <p>Given that the range at $15^\\circ$ is $50$ m, if we launch the projectile at $45^\\circ$ with the same velocity, we can compare the ranges by comparing $\\sin(2 \\times 15^\\circ)$ and $\\sin(2 \\times 45^\\circ)$:</p> <p>$\\sin(30^\\circ) = \\frac12$</p> <p>$\\sin(90^\\circ) = 1$</p> <p>Therefore, the range at $45^\\circ$ will be twice the range at $15^\\circ$, because $\\sin(90^\\circ)$ is twice as large as $\\sin(30^\\circ)$.</p> <p>So, the range when the projectile is launched at $45^\\circ$ will be $2 \\times 50$ m = $100$ m.</p> <p>So, $100$ m is the correct answer.</p>",
+      "solution": "<p>The range $R$ of a projectile launched with an initial speed $v$ and at an angle $\\theta$ to the horizontal is given by:</p> <p>$R = \\fracv^2g \\sin(2\\theta)$</p> <p>where $g$ is the acceleration due to gravity.</p> <p>From this equation, we can see that the range is dependent on the sine of twice the launch angle.</p> <p>Given that the range at $15^\\circ$ is $50$ m, if we launch the projectile at $45^\\circ$ with the same velocity, we can compare the ranges by comparing $\\sin(2 \\times 15^\\circ)$ and $\\sin(2 \\times 45^\\circ)$:</p> <p>$\\sin(30^\\circ) = \\frac\u2081\u2082$</p> <p>$\\sin(90^\\circ) = 1$</p> <p>Therefore, the range at $45^\\circ$ will be twice the range at $15^\\circ$, because $\\sin(90^\\circ)$ is twice as large as $\\sin(30^\\circ)$.</p> <p>So, the range when the projectile is launched at $45^\\circ$ will be $2 \\times 50$ m = $100$ m.</p> <p>So, $100$ m is the correct answer.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -368,12 +338,12 @@
       "question": "<p>Two projectiles A and B are thrown with initial velocities of $$40 ~m / s$$ and $$60 ~m / s$$ at angles $$30^\\circ$$ and $$60^\\circ$$ with the horizontal respectively. The ratio of their ranges respectively is $$\\left(g=10 ~m / s^2\\right)$$</p>",
       "options": {
         "A": "$$4: 9$$",
-        "B": "$$2: \\sqrt3$$",
-        "C": "$$\\sqrt3: 2$$",
+        "B": "$$2: \\sqrt\u2083$$",
+        "C": "$$\\sqrt\u2083: 2$$",
         "D": "$$1: 1$$"
       },
       "answer": "A",
-      "solution": "<p>The range of a projectile launched with an initial velocity $v$ at an angle $\\theta$ with respect to the horizontal is given by:</p> <p>$R = \\fracv^2 \\sin(2\\theta)g$,</p> <p>where $g$ is the acceleration due to gravity.</p> <p>Let's calculate the ranges of projectiles A and B:</p> <p>For projectile A, $v = 40 \\, \\textm/s$ and $\\theta = 30^\\circ$, so:</p> <p>$R_A = \\frac(40)^2 \\sin(2 \\times 30)10 = 4 \\times 40 = 160 \\, \\textm$.</p> <p>For projectile B, $v = 60 \\, \\textm/s$ and $\\theta = 60^\\circ$, so:</p> <p>$R_B = \\frac(60)^2 \\sin(2 \\times 60)10 = 6 \\times 60 = 360 \\, \\textm$.</p> <p>Therefore, the ratio of their ranges is $R_A : R_B = 160 : 360 = 4 : 9$.</p>",
+      "solution": "<p>The range of a projectile launched with an initial velocity $v$ at an angle $\\theta$ with respect to the horizontal is given by:</p> <p>$R = \\fracv^2 \\sin(2\\theta)g$,</p> <p>where $g$ is the acceleration due to gravity.</p> <p>Let's calculate the ranges of projectiles A and B:</p> <p>For projectile A, $v = 40 \\, \\textm/s$ and $\\theta = 30^\\circ$, so:</p> <p>$R_A = \\frac(40)^2 \\sin(2 \\times 30)\u2081\u2080 = 4 \\times 40 = 160 \\, \\textm$.</p> <p>For projectile B, $v = 60 \\, \\textm/s$ and $\\theta = 60^\\circ$, so:</p> <p>$R_B = \\frac(60)^2 \\sin(2 \\times 60)\u2081\u2080 = 6 \\times 60 = 360 \\, \\textm$.</p> <p>Therefore, the ratio of their ranges is $R_A : R_B = 160 : 360 = 4 : 9$.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -403,7 +373,7 @@
         "D": "uniformly accelerated having motion along a parabolic path."
       },
       "answer": "D",
-      "solution": "<p>To determine the nature of the motion of the particle given by its coordinates in the $$x$$-$$y$$ plane, we analyze the given equations for $$x$$ and $$y$$ in terms of time $$t$$:</p> <ul> <li>$$x = 2 + 4t$$</li> <li>$$y = 3t + 8t^2$$</li> </ul> <p>Firstly, the equation for $$x$$ is of the form $$x = x_0 + vt$$, where $$x_0 = 2$$ is the initial position and $$v = 4$$ is the constant velocity along the $$x$$-axis. This suggests a uniform motion along the $$x$$-axis because the velocity remains constant with time.</p> <p>Secondly, the equation for $$y$$ is a second-degree polynomial in $$t$$, which indicates a parabolic path. The presence of the $$t^2$$ term ($$8t^2$$) signifies acceleration since the position along the $$y$$-axis is changing at a rate that itself changes over time.</p> <p>The equation for $$y$$ can show two types of motion depending on the terms: <ol> <li>If it was of the form $$y = y_0 + vt$$, it would indicate uniform motion.</li> <li>If it was of the form $$y = y_0 + vt + \\frac12at^2$$, where $$a$$ would represent acceleration, it would indicate uniformly accelerated motion. The presence of the $$8t^2$$ term here plays a similar role, indicating that the motion is uniformly accelerated in the $$y$$-direction due to the constant acceleration implied by this term.</li> </ol> </p> <p>Since the motion in the $$y$$ direction is determined by a quadratic equation, and the path of the particle depends on both the $$x$$ and $$y$$ coordinates, the motion of the particle is not along a straight line but rather follows a parabolic path due to the quadratic (second-degree) dependence on time in the $$y$$-coordinate.</p> <p>Additionally, the acceleration is not changing with time, as deduced from the constant coefficient of the $$t^2$$ term in the $$y$$ equation, indicating uniform acceleration. Therefore, the motion is uniformly accelerated and follows a parabolic path.</p> <p>Hence, the correct answer is:</p> <p>Option D: uniformly accelerated having motion along a parabolic path.</p>",
+      "solution": "<p>To determine the nature of the motion of the particle given by its coordinates in the $$x$$-$$y$$ plane, we analyze the given equations for $$x$$ and $$y$$ in terms of time $$t$$:</p> <ul> <li>$$x = 2 + 4t$$</li> <li>$$y = 3t + 8t^2$$</li> </ul> <p>Firstly, the equation for $$x$$ is of the form $$x = x_0 + vt$$, where $$x_0 = 2$$ is the initial position and $$v = 4$$ is the constant velocity along the $$x$$-axis. This suggests a uniform motion along the $$x$$-axis because the velocity remains constant with time.</p> <p>Secondly, the equation for $$y$$ is a second-degree polynomial in $$t$$, which indicates a parabolic path. The presence of the $$t^2$$ term ($$8t^2$$) signifies acceleration since the position along the $$y$$-axis is changing at a rate that itself changes over time.</p> <p>The equation for $$y$$ can show two types of motion depending on the terms: <ol> <li>If it was of the form $$y = y_0 + vt$$, it would indicate uniform motion.</li> <li>If it was of the form $$y = y_0 + vt + \\frac\u2081\u2082at^2$$, where $$a$$ would represent acceleration, it would indicate uniformly accelerated motion. The presence of the $$8t^2$$ term here plays a similar role, indicating that the motion is uniformly accelerated in the $$y$$-direction due to the constant acceleration implied by this term.</li> </ol> </p> <p>Since the motion in the $$y$$ direction is determined by a quadratic equation, and the path of the particle depends on both the $$x$$ and $$y$$ coordinates, the motion of the particle is not along a straight line but rather follows a parabolic path due to the quadratic (second-degree) dependence on time in the $$y$$-coordinate.</p> <p>Additionally, the acceleration is not changing with time, as deduced from the constant coefficient of the $$t^2$$ term in the $$y$$ equation, indicating uniform acceleration. Therefore, the motion is uniformly accelerated and follows a parabolic path.</p> <p>Hence, the correct answer is:</p> <p>Option D: uniformly accelerated having motion along a parabolic path.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -412,9 +382,9 @@
     {
       "question": "<p>The angle of projection for a projectile to have same horizontal range and maximum height is :</p>",
       "options": {
-        "A": "$$\\tan ^-1\\left(\\frac12\\right)$$",
+        "A": "$$\\tan ^-1\\left(\\frac\u2081\u2082\\right)$$",
         "B": "$$\\tan ^-1(2)$$",
-        "C": "$$\\tan ^-1\\left(\\frac14\\right)$$",
+        "C": "$$\\tan ^-1\\left(\\frac\u2081\u2084\\right)$$",
         "D": "$$\\tan ^-1(4)$$"
       },
       "answer": "D",
@@ -433,14 +403,14 @@
         "D": "0.41"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267182/exam_images/zxewx5hnjg3pd3lifus1.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Physics - Motion in a Plane Question 48 English Explanation\"> <br><br>tan 60<sup>o</sup> = $$V_r \\over V$$ .....(1) <br><br>tan 45<sup>o</sup> = $$V_r \\over \\left( 1 + \\beta \\right)V$$ .....(2) <br><br>From (i) and (ii), we get <br><br>$$\\sqrt 3 \\over 1 = 1 \\over V \\over 1 \\over \\left( 1 + \\beta \\right)V$$ <br><br>$$ \\Rightarrow $$ $$\\sqrt 3 = \\left( 1 + \\beta \\right)$$ <br><br>$$ \\Rightarrow $$ $$\\beta $$ = 0.732",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2088\u2082/exam_images/zxewx\u2085hnjg\u2083pd\u2083lifus\u2081.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Physics - Motion in a Plane Question 48 English Explanation\"> <br><br>tan 60<sup>o</sup> = $$V_r \\over V$$ .....(1) <br><br>tan 45<sup>o</sup> = $$V_r \\over \\left( 1 + \\beta \\right)V$$ .....(2) <br><br>From (i) and (ii), we get <br><br>$$\\sqrt 3 \\over 1 = 1 \\over V \\over 1 \\over \\left( 1 + \\beta \\right)V$$ <br><br>$$ \\Rightarrow $$ $$\\sqrt 3 = \\left( 1 + \\beta \\right)$$ <br><br>$$ \\Rightarrow $$ $$\\beta $$ = 0.732",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Motion in a Plane"
     },
     {
-      "question": "<p>A girl standing on road holds her umbrella at 45$$^\\circ$$ with the vertical to keep the rain away. If she starts running without umbrella with a speed of 15$$\\sqrt2$$ kmh<sup>$$-$$1</sup>, the rain drops hit her head vertically. The speed of rain drops with respect to the moving girl is :</p>",
+      "question": "<p>A girl standing on road holds her umbrella at 45$$^\\circ$$ with the vertical to keep the rain away. If she starts running without umbrella with a speed of 15$$\\sqrt\u2082$$ kmh<sup>$$-$$1</sup>, the rain drops hit her head vertically. The speed of rain drops with respect to the moving girl is :</p>",
       "options": {
         "A": "30 kmh<sup>$$-$$1</sup>",
         "B": "$$25 \\over \\sqrt 2 $$ kmh<sup>$$-$$1</sup>",
@@ -448,7 +418,7 @@
         "D": "25 kmh<sup>$$-$$1</sup>"
       },
       "answer": "C",
-      "solution": "<p> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l5jqjdcz/0d73facd-c43a-40f0-a701-c8bd1ba9e4ed/5f3e5b30-02bd-11ed-95db-c3fa9a0f41ba/file-1l5jqjdd0.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l5jqjdcz/0d73facd-c43a-40f0-a701-c8bd1ba9e4ed/5f3e5b30-02bd-11ed-95db-c3fa9a0f41ba/file-1l5jqjdd0.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 35 English Explanation\"> </p> <p>From graph,</p> <p>$$v_RG = 15\\sqrt 2 \\tan 45^\\circ $$</p> <p>$$ = 15\\sqrt 2 $$</p> <p>$$ = 30 \\over \\sqrt 2 $$</p>",
+      "solution": "<p> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085jqjdcz/0d\u2087\u2083facd-c\u2084\u2083a-40f\u2080-a\u2087\u2080\u2081-c\u2088bd\u2081ba\u2089e\u2084ed/5f\u2083e\u2085b\u2083\u2080-02bd-11ed-95db-c\u2083fa\u2089a\u2080f\u2084\u2081ba/file-1l\u2085jqjdd\u2080.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085jqjdcz/0d\u2087\u2083facd-c\u2084\u2083a-40f\u2080-a\u2087\u2080\u2081-c\u2088bd\u2081ba\u2089e\u2084ed/5f\u2083e\u2085b\u2083\u2080-02bd-11ed-95db-c\u2083fa\u2089a\u2080f\u2084\u2081ba/file-1l\u2085jqjdd\u2080.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Motion in a Plane Question 35 English Explanation\"> </p> <p>From graph,</p> <p>$$v_RG = 15\\sqrt 2 \\tan 45^\\circ $$</p> <p>$$ = 15\\sqrt 2 $$</p> <p>$$ = 30 \\over \\sqrt 2 $$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -523,7 +493,7 @@
         "D": "90\u00b0"
       },
       "answer": "B",
-      "solution": "Draw velocity diagram<br> <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263699/exam_images/q6ox0gx23a27tfo4repk.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th April Morning Slot Physics - Motion in a Plane Question 58 English Explanation\"> $$\\sin \\theta = v_r \\over v_sr = 1 \\over 2$$<br><br> $$\\theta = 30^o$$<br><br> $$\\phi $$ = 90 + $$\\theta $$ = 120\u00b0",
+      "solution": "Draw velocity diagram<br> <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2086\u2089\u2089/exam_images/q\u2086ox\u2080gx\u2082\u2083a\u2082\u2087tfo\u2084repk.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th April Morning Slot Physics - Motion in a Plane Question 58 English Explanation\"> $$\\sin \\theta = v_r \\over v_sr = 1 \\over 2$$<br><br> $$\\theta = 30^o$$<br><br> $$\\phi $$ = 90 + $$\\theta $$ = 120\u00b0",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -667,13 +637,13 @@
     {
       "question": "<p>If two vectors $$\\vecA$$ and $$\\vecB$$ having equal magnitude $$R$$ are inclined at angle $$\\theta$$, then</p>",
       "options": {
-        "A": "$$|\\vecA+\\vecB|=2 R \\cos \\left(\\frac\\theta2\\right)$$",
-        "B": "$$|\\vecA-\\vecB|=2 R \\cos \\left(\\frac\\theta2\\right)$$",
-        "C": "$$|\\vecA-\\vecB|=\\sqrt2 R \\sin \\left(\\frac\\theta2\\right)$$",
-        "D": "$$|\\vecA+\\vecB|=2 R \\sin \\left(\\frac\\theta2\\right)$$"
+        "A": "$$|\\vecA+\\vecB|=2 R \\cos \\left(\\frac\\theta\u2082\\right)$$",
+        "B": "$$|\\vecA-\\vecB|=2 R \\cos \\left(\\frac\\theta\u2082\\right)$$",
+        "C": "$$|\\vecA-\\vecB|=\\sqrt\u2082 R \\sin \\left(\\frac\\theta\u2082\\right)$$",
+        "D": "$$|\\vecA+\\vecB|=2 R \\sin \\left(\\frac\\theta\u2082\\right)$$"
       },
       "answer": "A",
-      "solution": "<p>The magnitude of resultant vector</p> <p>$$R^\\prime=\\sqrta^2+b^2+2 a b \\cos \\theta$$</p> <p>Here $$a=b=R$$</p> <p>Then $$R^\\prime=\\sqrtR^2+R^2+2 R^2 \\cos \\theta$$</p> <p>$$\\beginaligned & =R \\sqrt2 \\sqrt1+\\cos \\theta \\\\ & =\\sqrt2 R \\sqrt2 \\cos ^2 \\frac\\theta2 \\\\ & =2 R \\cos \\frac\\theta2 \\endaligned$$</p>",
+      "solution": "<p>The magnitude of resultant vector</p> <p>$$R^\\prime=\\sqrta^2+b^2+2 a b \\cos \\theta$$</p> <p>Here $$a=b=R$$</p> <p>Then $$R^\\prime=\\sqrtR^2+R^2+2 R^2 \\cos \\theta$$</p> <p>$$\\beginaligned & =R \\sqrt\u2082 \\sqrt\u2081+\\cos \\theta \\\\ & =\\sqrt\u2082 R \\sqrt\u2082 \\cos ^2 \\frac\\theta\u2082 \\\\ & =2 R \\cos \\frac\\theta\u2082 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -684,7 +654,7 @@
       "options": {
         "A": "$$ \\tan ^-1(P / Q) $$",
         "B": "0$$^\\circ$$",
-        "C": "$$ \\tan ^-1 \\frac(2 \\vecQ-2 \\vecP)2 \\vecQ+2 \\vecP $$",
+        "C": "$$ \\tan ^-1 \\frac(2 \\vecQ-2 \\vecP)\u2082 \\vecQ+2 \\vecP $$",
         "D": "$$ \\tan ^-1(2 Q / P) $$"
       },
       "answer": "B",
@@ -710,15 +680,15 @@
       "chapter": "Motion in a Plane"
     },
     {
-      "question": "A vector in $x-y$ plane makes an angle of $30^\\circ$ with $y$-axis. The magnitude of $y$-component of vector is $2 \\sqrt3$. The magnitude of $x$-component of the vector will be :",
+      "question": "A vector in $x-y$ plane makes an angle of $30^\\circ$ with $y$-axis. The magnitude of $y$-component of vector is $2 \\sqrt\u2083$. The magnitude of $x$-component of the vector will be :",
       "options": {
-        "A": "$\\sqrt3$",
+        "A": "$\\sqrt\u2083$",
         "B": "2",
         "C": "6",
-        "D": "$\\frac1\\sqrt3$"
+        "D": "$\\frac\u2081\\sqrt\u2083$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgrftl46/423928b0-14e0-4165-ab55-9d871a278628/1d44bc60-e0c0-11ed-9768-bd0baf44cdee/file-1lgrftl47.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgrftl46/423928b0-14e0-4165-ab55-9d871a278628/1d44bc60-e0c0-11ed-9768-bd0baf44cdee/file-1lgrftl47.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Physics - Vector Algebra Question 10 English Explanation\"><br>$$ \\beginaligned & A_y=A \\cos 30^\\circ=2 \\sqrt3 \\\\\\\\ & \\Rightarrow A \\frac\\sqrt32=2 \\sqrt3 \\\\\\\\ & \\Rightarrow A=4 \\endaligned $$<br><br> Now $A_x=A \\sin 30^\\circ=4 \\times \\frac12=2$",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgrftl\u2084\u2086/423928b\u2080-14e\u2080-4165-ab\u2085\u2085-9d\u2088\u2087\u2081a\u2082\u2087\u2088\u2086\u2082\u2088/1d\u2084\u2084bc\u2086\u2080-e\u2080c\u2080-11ed-9768-bd\u2080baf\u2084\u2084cdee/file-1lgrftl\u2084\u2087.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgrftl\u2084\u2086/423928b\u2080-14e\u2080-4165-ab\u2085\u2085-9d\u2088\u2087\u2081a\u2082\u2087\u2088\u2086\u2082\u2088/1d\u2084\u2084bc\u2086\u2080-e\u2080c\u2080-11ed-9768-bd\u2080baf\u2084\u2084cdee/file-1lgrftl\u2084\u2087.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Physics - Vector Algebra Question 10 English Explanation\"><br>$$ \\beginaligned & A_y=A \\cos 30^\\circ=2 \\sqrt\u2083 \\\\\\\\ & \\Rightarrow A \\frac\\sqrt\u2083\u2082=2 \\sqrt\u2083 \\\\\\\\ & \\Rightarrow A=4 \\endaligned $$<br><br> Now $A_x=A \\sin 30^\\circ=4 \\times \\frac\u2081\u2082=2$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",

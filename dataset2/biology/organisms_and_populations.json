@@ -1,33 +1,18 @@
 {
   "subject": "Biology",
   "chapter": "Organisms and Populations",
-  "total_questions": 72,
+  "total_questions": 67,
   "questions": [
-    {
-      "question": "What is the value of r for the human population in India in 1981?",
-      "options": {
-        "A": "A",
-        "B": "015",
-        "C": "12",
-        "D": "0205"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The value of r for human population in India in 1981 is stated to be 0.0205. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
     {
       "question": "[NEET 2020 | Biology] The logistic growth model is represented by the equation:",
       "options": {
         "A": "dN/dt = rN",
-        "B": "dN/dt = rN(K\\u2212N)/K",
-        "C": "N = N\\u2080e\\u02b3\\u1d57",
-        "D": "N = K/(1+e^(\\u2212rt))"
+        "B": "dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K",
+        "C": "N = N\\u\u2082\u2080\u2088\u2080e\\u\u2080\u2082b\u2083\\u\u2081d\u2085\u2087",
+        "D": "N = K/(1+e^(\\u\u2082\u2082\u2081\u2082rt))"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) dN/dt = rN(K\\u2212N)/K** --- ## Step-by-Step Explanation ### What is Logistic Growth? Logistic growth occurs when a population grows **exponentially at first**, but then **slows down** as it approaches the **carrying capacity (K)** of the environment. ### Breaking Down Option (B): dN/dt = rN(K\\u2212N)/K | Component | Meaning | |-----------|---------| | **dN/dt** | Rate of population change | | **r** | Intrinsic rate of increase | | **N** | Population size at time t | | **K** | Carrying capacity (maximum population) | | **(K\\u2212N)/K** | Environmental resistance factor | ### Why This Equation Makes Sense: **When N is small** (far from K): - (K\\u2212N)/K \\u2248 1 - dN/dt \\u2248 rN (exponential growth) **When N approaches K** (near carrying capacity): - (K\\u2212N)/K \\u2248 0 - dN/dt \\u2248 0 (growth slows down) **When N = K** (at carrying capacity): - dN/dt = 0 (no growth) --- ## Why Other Options are Wrong: | Option | Why Wrong | |--------|-----------| | **(A)** | This is **exponential growth** (no carrying capacity limit). Ignores environmental resistance. | | **(C)** | This is the **solution to exponential growth**, not logistic growth | | **(D)** | This is one possible **integrated solution** to the logistic equation under specific initial conditions (N\\u2080 << K), but not the standard differential equation | --- ## Key Formula to Remember: **Logistic Growth Differential Equation:** $$\\boxed\\fracdNdt = rN\\frac(K-N)K$$ This is the **Verhulst model** taught in NCERT Class 12 Biology (Chapter: Organisms and Populations).",
+      "solution": "# Answer: **(B) dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K** --- ## Step-by-Step Explanation ### What is Logistic Growth? Logistic growth occurs when a population grows **exponentially at first**, but then **slows down** as it approaches the **carrying capacity (K)** of the environment. ### Breaking Down Option (B): dN/dt = rN(K\\u\u2082\u2082\u2081\u2082N)/K | Component | Meaning | |-----------|---------| | **dN/dt** | Rate of population change | | **r** | Intrinsic rate of increase | | **N** | Population size at time t | | **K** | Carrying capacity (maximum population) | | **(K\\u\u2082\u2082\u2081\u2082N)/K** | Environmental resistance factor | ### Why This Equation Makes Sense: **When N is small** (far from K): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2081 - dN/dt \\u\u2082\u2082\u2084\u2088 rN (exponential growth) **When N approaches K** (near carrying capacity): - (K\\u\u2082\u2082\u2081\u2082N)/K \\u\u2082\u2082\u2084\u2088\u2080 - dN/dt \\u\u2082\u2082\u2084\u2088\u2080 (growth slows down) **When N = K** (at carrying capacity): - dN/dt = 0 (no growth) --- ## Why Other Options are Wrong: | Option | Why Wrong | |--------|-----------| | **(A)** | This is **exponential growth** (no carrying capacity limit). Ignores environmental resistance. | | **(C)** | This is the **solution to exponential growth**, not logistic growth | | **(D)** | This is one possible **integrated solution** to the logistic equation under specific initial conditions (N\\u\u2082\u2080\u2088\u2080 << K), but not the standard differential equation | --- ## Key Formula to Remember: **Logistic Growth Differential Equation:** $$\\boxed\\fracdNdt = rN\\frac(K-N)K$$ This is the **Verhulst model** taught in NCERT Class 12 Biology (Chapter: Organisms and Populations).",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -38,58 +23,13 @@
       "options": {
         "A": "Mycorrhizae are commensalism",
         "B": "Lichen is mutualism",
-        "C": "Colonisation of bare rock is primary succession",
+        "C": "olonisation of bare rock is primary succession",
         "D": "Predation is symbiosis"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) Lichen is mutualism** --- ## Why This Is Correct \\u2713 **Lichens** are composite organisms formed by a **symbiotic association between**: - **Algae or Cyanobacteria** (photosynthetic partner) - **Fungus** (structural partner) **Benefits to both partners:** | Partner | Benefit | |---------|---------| | **Algae/Cyanobacteria** | Protected from harsh conditions; access to water and minerals | | **Fungus** | Food (carbohydrates) from photosynthesis | This is a **textbook example of MUTUALISM** where both organisms benefit equally. --- ## Why Others Are Wrong \\u2717 | Option | Issue | |--------|-------| | **(A) Mycorrhizae = commensalism** | Mycorrhizae are **mutualism**, not commensalism. Both fungi and plant roots benefit mutually. | | **(C) Bare rock colonisation** | While this IS primary succession, the statement is incomplete/vague compared to option B's clarity. | | **(D) Predation = symbiosis** | **False relationship.** Predation is antagonistic (+/\\u2212), not symbiosis. Symbiosis requires organisms living together beneficially. | --- ## Key Formula to Remember **Types of Symbiosis:** - **Mutualism:** (+/+) Both benefit \\u2192 Lichen, Mycorrhizae, Nitrogen-fixing bacteria in legumes - **Commensalism:** (+/0) One benefits, other unaffected \\u2192 Remoras on sharks - **Parasitism:** (+/\\u2212) One benefits, other harmed \\u2192 Tapeworms, mosquitoes - **Predation:** (+/\\u2212) Not symbiosis; one kills the other",
+      "solution": "# Answer: **(B) Lichen is mutualism** --- ## Why This Is Correct \\u\u2082\u2087\u2081\u2083 **Lichens** are composite organisms formed by a **symbiotic association between**: - **Algae or Cyanobacteria** (photosynthetic partner) - **Fungus** (structural partner) **Benefits to both partners:** | Partner | Benefit | |---------|---------| | **Algae/Cyanobacteria** | Protected from harsh conditions; access to water and minerals | | **Fungus** | Food (carbohydrates) from photosynthesis | This is a **textbook example of MUTUALISM** where both organisms benefit equally. --- ## Why Others Are Wrong \\u\u2082\u2087\u2081\u2087 | Option | Issue | |--------|-------| | **(A) Mycorrhizae = commensalism** | Mycorrhizae are **mutualism**, not commensalism. Both fungi and plant roots benefit mutually. | | **(C) Bare rock colonisation** | While this IS primary succession, the statement is incomplete/vague compared to option B's clarity. | | **(D) Predation = symbiosis** | **False relationship.** Predation is antagonistic (+/\\u\u2082\u2082\u2081\u2082), not symbiosis. Symbiosis requires organisms living together beneficially. | --- ## Key Formula to Remember **Types of Symbiosis:** - **Mutualism:** (+/+) Both benefit \\u\u2082\u2081\u2089\u2082 Lichen, Mycorrhizae, Nitrogen-fixing bacteria in legumes - **Commensalism:** (+/0) One benefits, other unaffected \\u\u2082\u2081\u2089\u2082 Remoras on sharks - **Parasitism:** (+/\\u\u2082\u2082\u2081\u2082) One benefits, other harmed \\u\u2082\u2081\u2089\u2082 Tapeworms, mosquitoes - **Predation:** (+/\\u\u2082\u2082\u2081\u2082) Not symbiosis; one kills the other",
       "exam": "NEET 2016",
       "year": 2016,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "What is the value of r for the Norway rat?",
-      "options": {
-        "A": "A",
-        "B": "0205",
-        "C": "12",
-        "D": "71828"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The value of r for the Norway rat is stated to be 0.015. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "The intrinsic rate of natural increase for Indian human population according to the 2011 census was",
-      "options": {
-        "A": "A",
-        "B": "0205",
-        "C": "0147",
-        "D": "0652"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The intrinsic rate of natural increase (r) is the difference between birth rate and death rate. According to the 2011 census, India has a birth rate of 21.8 per 1000 and death rate 7.1 per 1000 individuals. Thus, r = 21.8 - 7.1 = 14.7 per 1000, which is 0.0147. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "What is the base of natural logarithms used in the exponential growth equation?",
-      "options": {
-        "A": "A",
-        "B": "0205",
-        "C": "015",
-        "D": "71828"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The base of natural logarithms used in the exponential growth equation is stated to be 2.71828. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Organisms and Populations"
     },
@@ -99,7 +39,7 @@
         "A": "B only",
         "B": "E only",
         "C": "A only",
-        "D": "D only"
+        "D": "only"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) B only** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
@@ -124,7 +64,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "When does the growth rate of a population following the logistic model equal zero? The logistic model is given as dN/dt = rN(1 \\u2212 N/K): (NEET 2016 (Phase 1))",
+      "question": "When does the growth rate of a population following the logistic model equal zero? The logistic model is given as dN/dt = rN(1 \\u\u2082\u2082\u2081\u2082 N/K): (NEET 2016 (Phase 1))",
       "options": {
         "A": "When N/K is exactly one",
         "B": "When N nears the carrying capacity of the habitat",
@@ -159,7 +99,7 @@
         "A": "Research Committee on Genetic Manipulation (RCGM)",
         "B": "Council for Scientific and Industrial Research (CSIR)",
         "C": "Indian Council of Medical Research (ICMR)",
-        "D": "Genetic Engineering Appraisal Committee (GEAC) MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "Genetic Engineering Appraisal Committee (GEAC) MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Research Committee on Genetic Manipulation (RCGM)** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
@@ -308,7 +248,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "Commensalism",
+        "C": "ommensalism",
         "D": "Competition"
       },
       "answer": "A",
@@ -336,7 +276,7 @@
     {
       "question": "Match List I with List II: List I (Interaction) A. Mutualism B. Commensalism C. Amensalism D. Parasitism List II (Effect on Species A and B) I. + (A), 0 (B) II. \\\u2013 (A), 0 (B) III. + (A), \\\u2013 (B) IV. + (A), + (B) Choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
       "options": {
-        "A": "A-IV, B-II, C-I, D-III",
+        "A": "-IV, B-II, C-I, D-III",
         "B": "A-IV, B-I, C-II, D-III",
         "C": "A-IV, B-III, C-I, D-II",
         "D": "A-III, B-I, C-IV, D-II"
@@ -369,7 +309,7 @@
         "A": "Orchid and the tree on which it grows",
         "B": "Cattle Egret and grazing cattle",
         "C": "Sea Anemone and Clown fish",
-        "D": "Female wasp and fig species MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "Female wasp and fig species MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Orchid and the tree on which it grows** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Organisms and Populations*, option (A) correctly satisfies the given biological statement.",
@@ -381,25 +321,25 @@
     {
       "question": "Which one of the following pairs of organisms are exotic species introduced in India?",
       "options": {
-        "A": "\\U0001d439\\U0001d456\\U0001d450\\U0001d462\\U0001d460 \\U0001d45f\\U0001d452\\U0001d459\\U0001d456\\U0001d454\\U0001d456\\U0001d45c\\U0001d460\\U0001d44e, \\U0001d43f\\U0001d44e\\U0001d45b\\U0001d461\\U0001d44e\\U0001d45b\\U0001d44e \\U0001d450\\U0001d44e\\U0001d45a\\U0001d44e\\U0001d45f\\U0001d44e",
-        "B": "\\U0001d43f\\U0001d44e\\U0001d45b\\U0001d461\\U0001d44e\\U0001d45b\\U0001d44e \\U0001d450\\U0001d44e\\U0001d45a\\U0001d44e\\U0001d45f\\U0001d44e, water hyacinth",
-        "C": "Water hyacinth, \\U0001d443\\U0001d45f\\U0001d45c\\U0001d460\\U0001d45c\\U0001d45d\\U0001d456\\U0001d460 \\U0001d450\\U0001d456\\U0001d45b\\U0001d452\\U0001d45f\\U0001d44e\\U0001d45f\\U0001d456\\U0001d44e",
-        "D": "Nile perch, \\U0001d439\\U0001d456\\U0001d450\\U0001d462\\U0001d460 \\U0001d45f\\U0001d452\\U0001d459\\U0001d456\\U0001d454\\U0001d456\\U0001d45c\\U0001d460\\U0001d44e"
+        "A": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2084\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e, \\U\u2080\u2080\u2080\u2081d\u2084\u2083f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e",
+        "B": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e, water hyacinth",
+        "C": "Water hyacinth, \\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e",
+        "D": "Nile perch, \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2084\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e"
       },
       "answer": "C",
-      "solution": "**Correct Answer: (C) Water hyacinth, \\U0001d443\\U0001d45f\\U0001d45c\\U0001d460\\U0001d45c\\U0001d45d\\U0001d456\\U0001d460 \\U0001d450\\U0001d456\\U0001d45b\\U0001d452\\U0001d45f\\U0001d44e\\U0001d45f\\U0001d456\\U0001d44e** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (C) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (C) Water hyacinth, \\U\u2080\u2080\u2080\u2081d\u2084\u2084\u2083\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080 \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (C) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "Total number of all species of organisms in a given region is known as the region\\u2019s",
+      "question": "Total number of all species of organisms in a given region is known as the region\\u\u2082\u2080\u2081\u2089s",
       "options": {
         "A": "Biota",
         "B": "Flora",
         "C": "Fauna",
-        "D": "Diversity"
+        "D": "iversity"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Biota** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -458,7 +398,7 @@
       "options": {
         "A": "Bentinckia nicobarica and red panda",
         "B": "Tamarind and rhesus monkey",
-        "C": "Cinchona and leopard",
+        "C": "inchona and leopard",
         "D": "Banyan and black buck"
       },
       "answer": "B",
@@ -487,7 +427,7 @@
       "question": "The cause of decline in the population of reptiles and birds is",
       "options": {
         "A": "DDT",
-        "B": "Biofertilizer",
+        "B": "iofertilizer",
         "C": "Bioinsecticides",
         "D": "Sewage"
       },
@@ -518,7 +458,7 @@
       "options": {
         "A": "Nitrogen oxides",
         "B": "Pathogens",
-        "C": "Chemical fertilizers",
+        "C": "hemical fertilizers",
         "D": "Pesticides"
       },
       "answer": "D",
@@ -531,13 +471,13 @@
     {
       "question": "Common indicator organism of water pollution is",
       "options": {
-        "A": "\\U0001d43f\\U0001d452\\U0001d45a\\U0001d45b\\U0001d44e \\U0001d45d\\U0001d44e\\U0001d45b\\U0001d450\\U0001d456\\U0001d450\\U0001d45c\\U0001d460\\U0001d461\\U0001d44e\\U0001d461\\U0001d44e",
-        "B": "\\U0001d438\\U0001d456\\U0001d450\\u210e\\u210e\\U0001d45c\\U0001d45f\\U0001d45b\\U0001d456\\U0001d44e \\U0001d450\\U0001d45f\\U0001d44e\\U0001d460\\U0001d460\\U0001d456\\U0001d45d\\U0001d452\\U0001d460",
-        "C": "\\U0001d438\\U0001d460\\U0001d450\\u210e\\U0001d452\\U0001d45f\\U0001d456\\U0001d450\\u210e\\U0001d456\\U0001d44e \\U0001d450\\U0001d45c\\U0001d459\\U0001d456",
-        "D": "\\U0001d438\\U0001d45b\\U0001d461\\U0001d44e\\U0001d45a\\U0001d45c\\U0001d452\\U0001d44f\\U0001d44e \\u210e\\U0001d456\\U0001d460\\U0001d461\\U0001d45c\\U0001d459\\U0001d466\\U0001d461\\U0001d456\\U0001d450\\U0001d44e"
+        "A": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e",
+        "B": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\u\u2082\u2081\u2080e\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085d\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080",
+        "C": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086",
+        "D": "\\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088\\U\u2080\u2080\u2080\u2081d\u2084\u2085b\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2084e\\U\u2080\u2080\u2080\u2081d\u2084\u2085a\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2084f\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2081\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2084e"
       },
       "answer": "C",
-      "solution": "**Correct Answer: (C) \\U0001d438\\U0001d460\\U0001d450\\u210e\\U0001d452\\U0001d45f\\U0001d456\\U0001d450\\u210e\\U0001d456\\U0001d44e \\U0001d450\\U0001d45c\\U0001d459\\U0001d456** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (C) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (C) \\U\u2080\u2080\u2080\u2081d\u2084\u2083\u2088\\U\u2080\u2080\u2080\u2081d\u2084\u2086\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2082\\U\u2080\u2080\u2080\u2081d\u2084\u2085f\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\u\u2082\u2081\u2080e\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086\\U\u2080\u2080\u2080\u2081d\u2084\u2084e \\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2080\\U\u2080\u2080\u2080\u2081d\u2084\u2085c\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2089\\U\u2080\u2080\u2080\u2081d\u2084\u2085\u2086** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (C) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -579,7 +519,7 @@
         "A": "Cow",
         "B": "Dogs",
         "C": "Snow leopard",
-        "D": "Dolphin"
+        "D": "olphin"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Cow** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -589,7 +529,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "1 When does the growth rate of a population following the logistic model equal zero? The logistic model is given as dN/dt = rN(1 \\u2212 N/K): (NEET 2016 (Phase 1))",
+      "question": "1 When does the growth rate of a population following the logistic model equal zero? The logistic model is given as dN/dt = rN(1 \\u\u2082\u2082\u2081\u2082 N/K): (NEET 2016 (Phase 1))",
       "options": {
         "A": "When N/K is exactly one",
         "B": "When N nears the carrying capacity of the habitat",
@@ -638,7 +578,7 @@
       "options": {
         "A": "Mutualism",
         "B": "Amensalism",
-        "C": "Commensalism",
+        "C": "ommensalism",
         "D": "Parasitism"
       },
       "answer": "A",
@@ -651,7 +591,7 @@
     {
       "question": "2 The principle of competitive exclusion was stated by (NEET 2016 (Phase 2))",
       "options": {
-        "A": "C. Darwin",
+        "A": "Darwin",
         "B": "G. F. Gause",
         "C": "MacArthur",
         "D": "Verhulst and Pearl"
@@ -669,7 +609,7 @@
         "A": "Fungistasis",
         "B": "Amensalism",
         "C": "Antibiosis",
-        "D": "Mutualism Two ways to go deeper on this chapter Choose your next step \\U0001f4d6 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u2192 \\u26a1 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u22121 marking, countdown timer. Free in the app. Generate \\u2192"
+        "D": "Mutualism Two ways to go deeper on this chapter Choose your next step \\U\u2080\u2080\u2080\u2081f\u2084d\u2086 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u\u2082\u2081\u2089\u2082 \\u\u2082\u2086a\u2081 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u\u2082\u2082\u2081\u2082\u2081 marking, countdown timer. Free in the app. Generate \\u\u2082\u2081\u2089\u2082"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Fungistasis** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -769,7 +709,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "exponential growth equation Nt = N0e^rt, e represents:",
+      "question": "exponential growth equation Nt = N\u2080e^rt, e represents:",
       "options": {
         "A": "The base of natural logarithms",
         "B": "The base of geometric logarithms",
@@ -803,7 +743,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "Commensalism",
+        "C": "ommensalism",
         "D": "Competition"
       },
       "answer": "A",
@@ -847,7 +787,7 @@
       "question": "1 Given below are two statements: Statement I: Gause's 'Competitive Exclusion Principle' states that two closely related species competing for the same resources cannot co-exist indefinitely and the competitively inferior one will be eliminated eventually. Statement II: In general, carnivores are more adversely affected by competition than herbivores. In the light of the above statements, choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "Both Statement I and Statement II are false.",
+        "B": "oth Statement I and Statement II are false.",
         "C": "Statement I is correct but Statement II is false.",
         "D": "Statement I is incorrect but Statement II is true."
       },
@@ -874,7 +814,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "1 Match List I with List II: List I A. Logistic growth B. Exponential growth C. Expanding age pyramid D. Stable age pyramid List II I. Unlimited resource availability condition II. Limited resource availability condition III. The percent individuals of pre-reproductive age is largest, followed by reproductive and post-reproductive age groups IV. The percent individuals of pre-reproductive and reproductive age groups are same Choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
+      "question": "1 Match List I with List II: List IA. Logistic growth B. Exponential growth C. Expanding age pyramid D. Stable age pyramid List II I. Unlimited resource availability condition II. Limited resource availability condition III. The percent individuals of pre-reproductive age is largest, followed by reproductive and post-reproductive age groups IV. The percent individuals of pre-reproductive and reproductive age groups are same Choose the correct answer from the options given below: (NEET 2023 (Phase 1))",
       "options": {
         "A": "(a) A-II, B-I, C-III, D-IV",
         "B": "(b) A-II, B-III, C-I, D-IV",
@@ -893,7 +833,7 @@
       "options": {
         "A": "toxic ricin",
         "B": "distasteful quinine",
-        "C": "cardiac glycosides",
+        "C": "ardiac glycosides",
         "D": "strychnine"
       },
       "answer": "A",
@@ -953,7 +893,7 @@
       "options": {
         "A": "Predation",
         "B": "Amensalism",
-        "C": "Commensalism",
+        "C": "ommensalism",
         "D": "Mutualism"
       },
       "answer": "A",
@@ -1009,12 +949,12 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "List-I with List-II: List-I A. Both species are harmed B. One species is harmed and the other is benefited C. Both species are benefited D. One is benefited while the other has no effect List-II I. Predation II. Mutualism III. Competition IV. Commensalism Choose the correct answer from the options given below:",
+      "question": "List-I with List-II: List-IA. Both species are harmed B. One species is harmed and the other is benefited C. Both species are benefited D. One is benefited while the other has no effect List-II I. Predation II. Mutualism III. Competition IV. Commensalism Choose the correct answer from the options given below:",
       "options": {
-        "A": "A. A-III, B-IV, C-II, D-I",
-        "B": "B. A-I, B-II, C-III, D-IV",
-        "C": "C. A-II, B-I, C-IV, D-III",
-        "D": "D. A-III, B-I, C-II, D-IV Want more Organisms and Populations questions? MedicNEET has 27,000+ NEET-style questions across Physics, Chemistry & Biology with detailed NCERT-based explanations \\\u2014 including the long, tricky questions that actually come in the exam. Download MedicNEET App \\\u2014 Free 4 more past question s on topics removed from the NEET 2027 syllabus These appeared in older NEET papers but cover Organisms and Populations topics that have since been rationalised out of the syllabus. Useful for revision, but not part of the current NEET 2027 syllabus."
+        "A": "-III, B-IV, C-II, D-I",
+        "B": "A-I, B-II, C-III, D-IV",
+        "C": "A-II, B-I, C-IV, D-III",
+        "D": "A-III, B-I, C-II, D-IV Want more Organisms and Populations questions? MedicNEET has 27,000+ NEET-style questions across Physics, Chemistry & Biology with detailed NCERT-based explanations \\\u2014 including the long, tricky questions that actually come in the exam. Download MedicNEET App \\\u2014 Free 4 more past question s on topics removed from the NEET 2027 syllabus These appeared in older NEET papers but cover Organisms and Populations topics that have since been rationalised out of the syllabus. Useful for revision, but not part of the current NEET 2027 syllabus."
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) A. A-III, B-IV, C-II, D-I** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
@@ -1054,7 +994,7 @@
       "chapter": "Organisms and Populations"
     },
     {
-      "question": "NEET 2021 (Out of NEET 2026 syllabus \\\u2014 rationalised 'adaptations' topic) Match List I with List II: List I A. Allen's Rule B. Physiological adaptation C. Behavioural adaptation D. Biochemical adaptation List II I. Kangaroo rat II. Desert lizard III. Marine fish at depth IV. Polar seal Choose the correct answer from the options given below: (NEET 2021)",
+      "question": "NEET 2021 (Out of NEET 2026 syllabus \\\u2014 rationalised 'adaptations' topic) Match List I with List II: List IA. Allen's Rule B. Physiological adaptation C. Behavioural adaptation D. Biochemical adaptation List II I. Kangaroo rat II. Desert lizard III. Marine fish at depth IV. Polar seal Choose the correct answer from the options given below: (NEET 2021)",
       "options": {
         "A": "(a)- (iv); (b) - (i); (c) - (ii); (d) - (iii)",
         "B": "(a)- (iv); (b) - (iii); (c) - (ii); (d) - (i)",
@@ -1064,21 +1004,6 @@
       "answer": "A",
       "solution": "**Correct Answer: (A) (a)- (iv); (b) - (i); (c) - (ii); (d) - (iii)** **Explanation:** Based on NCERT Biology principles for *Organisms and Populations*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Organisms and Populations"
-    },
-    {
-      "question": "Niche is",
-      "options": {
-        "A": "the range of temperature that the organism needs to live",
-        "B": "the physical space where an organism lives",
-        "C": "all the biological factors in the organism's environment",
-        "D": "the functional role played by the organism where it lives"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
-      "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Organisms and Populations"

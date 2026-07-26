@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Semiconductor Electronics",
-  "total_questions": 55,
+  "total_questions": 43,
   "questions": [
     {
       "question": "Identify the digital logic gate represented by the symbol shown below and choose its correct truth table output Y for inputs A=1, B=1:",
@@ -13,39 +13,9 @@
         "D": "OR Gate; Output Y = 0 when A=1, B=1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The given symbol represents a NAND gate (AND gate followed by a NOT inversion bubble). The Boolean expression is $Y = \\overlineA \\cdot B$. When $A=1$ and $B=1$, $Y = \\overline1 \\cdot 1 = \\overline1 = 0$.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The given symbol represents a NAND gate (AND gate followed by a NOT inversion bubble). The Boolean expression is $Y = \\overlineA \\cdot B$. When $A=1$ and $B=1$, $Y = \\overline\u2081 \\cdot 1 = \\overline\u2081 = 0$.",
       "exam": "NEET Semiconductor Logic Gate Diagram PYQ",
       "year": 2024,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "The V-I characteristic of a silicon diode is shown in the Fig. Calculate the resistance of the diode at V D = \u201310 V.",
-      "options": {
-        "A": "A",
-        "B": "0 \u00d7 10 7 ohms",
-        "C": "0 \u00d7 10 8 ohms",
-        "D": "0 \u00d7 10 7 ohms"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1.0 \u00d7 10 7 ohms **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "In a silicon crystal doped with 5 \u00d7 10\u00b2\u2078 atoms/m\u00b3 of arsenic to form an 'n' type wafer, and 1 ppm concentration of boron is added on the surface to create a 'P' region, given that the intrinsic carrier concentration (n i ) is 1.5 \u00d7 10\u00b9\u2076 m\u207b\u00b3, what is the density of holes in the 'n h ' region?",
-      "options": {
-        "A": "A",
-        "B": "45 \u00d7 10\u00b9\u2076/m\u00b3",
-        "C": "45 \u00d7 10\u00b2\u2078/m\u00b3",
-        "D": "45 \u00d7 10 10 /m\u00b3"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 0.45 \u00d7 10 10 /m\u00b3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
@@ -65,69 +35,9 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "In the following common emitter circuit, if \u03b2 = 100 , V CE = 7 V , R C = 2 k \u03a9 and V BE is negligible, then I B is",
-      "options": {
-        "A": "A",
-        "B": "01 mA",
-        "C": "04 mA",
-        "D": "02 mA"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V = V C E + I C R C \u21d2 15 = 7 + I C \u00d7 2 \u00d7 10 3 \u21d2 I c = 4 m A \u2235 \u03b2 = I C I B \u21d2 I B = 4 100 = 0.04 m A **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "For a transistor working as common base amplifier, the emitter current is 0 . 72 mA . The current gain is 0.96 . The collector current is",
-      "options": {
-        "A": "A",
-        "B": "96 \u00c3\u0097",
-        "C": "72 \u00c2 m A",
-        "D": "96"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u00ce\u00b1 = i C i E i C = \u00ce\u00b1 i E = 0.96 \u00c3\u0097 0.72 \u00c2 m A **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "In a common base transistor circuit, the current gain is 0.98 . On changing emitter current by 5.00 m A , the change in collector current is",
-      "options": {
-        "A": "A",
-        "B": "196 \u00c2 m A",
-        "C": "45 \u00c2 m A",
-        "D": "9 \u00c2 m A"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u00ce\u0094 i c = \u00ce\u00b1 \u00ce\u0094 i e \u00e2\u0087\u0092 \u00ce\u0094 i c = 0.98 \u00c3\u0097 5 \u00c2 m A \u00e2\u0087\u0092 \u00ce\u0094 i c = 4.9 \u00c2 m A **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "The given circuit has two ideal diodes connected as shown in the figure below. The current flowing through the resistance R 1 will be",
-      "options": {
-        "A": "A",
-        "B": "5 A B",
-        "C": "0 A",
-        "D": "43 A"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** D 1 is in reverse bias. D 2 is in forward bias. I = 10 V 2 + 2 \\u03a9 = 2.5 A . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "Among the group XIV elements, namely Sn, C, Si, and Ge, their conductive properties differ. Which of the following statements explains this phenomenon?",
       "options": {
-        "A": "A Sn has a completely filled valence band due to its larger atomic size. B C possesses a large energy gap of",
+        "A": "Sn has a completely filled valence band due to its larger atomic size. BC possesses a large energy gap of",
         "B": "4 eV, making it an insulator. C Si's energy gap of",
         "C": "1 eV places it in the category of a semiconductor. D Ge's energy gap of",
         "D": "7 eV allows it to exhibit semiconductor behavior."
@@ -140,15 +50,15 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "A NPN transistor is connected in common emitter configuration in a given amplifier. A load resistance of 800 \\u03a9 is connected in the collector circuit and the voltage drop across it is 0 .8 V . If the current amplification factor is 0.96 and the input resistance of the circuit is 192 \\u03a9 , the voltage gain and the power gain of the amplifier will respectively be:",
+      "question": "A NPN transistor is connected in common emitter configuration in a given amplifier. A load resistance of 800 \\u\u2080\u2083a\u2089 is connected in the collector circuit and the voltage drop across it is 0 .8 V . If the current amplification factor is 0.96 and the input resistance of the circuit is 192 \\u\u2080\u2083a\u2089 , the voltage gain and the power gain of the amplifier will respectively be:",
       "options": {
-        "A": "A 4 ,",
+        "A": "4 ,",
         "B": "84",
         "C": "69 ,",
-        "D": "84 C 4 , 4 D 4 ,"
+        "D": "84 C\u2084 , 4 D\u2084 ,"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, The value of the load resistance is 800 \u03a9 . Voltage drop across the load resistance is, 0 . 8 V Voltage gain = \u03b2 . R C R B V = 0.96 80 192 V = 96 \u00d7 8 192 = 4 And power gain of the amplifier is given by, \u03b2 a c . A v = 0.96 \u00d7 4 = 3.84 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given, The value of the load resistance is 800 \u03a9 . Voltage drop across the load resistance is, 0 . 8 V Voltage gain = \u03b2 . RC RB V = 0.9680 192 V = 96 \u00d7 8192 = 4 And power gain of the amplifier is given by, \u03b2 a c . A v = 0.96 \u00d7 4 = 3.84 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -163,46 +73,16 @@
         "D": "Reverse current to flow"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) Depletion layer to narrow** --- ## Step-by-Step Reasoning: ### What is the Depletion Layer? - Region near the p-n junction depleted of mobile charge carriers - Contains only immobile ionic charges (positive ions in n-region, negative ions in p-region) - Creates a built-in electric field that opposes carrier movement ### Effect of Forward Bias: 1. **External voltage applied** (+ to p-side, \\u2212 to n-side) 2. **Opposes the built-in field** created by the junction 3. **Built-in field strength decreases** 4. **Fewer carriers are \"trapped\"** in the depletion region 5. **Depletion layer width reduces** (narrows) ### Mathematical Relationship: $$W = \\sqrt\\frac2\\epsilon_0\\epsilon_r(V_0 - V_f)e(N_A + N_D)/(N_A \\cdot N_D)$$ Where $V_f$ is the forward bias voltage. As $V_f$ increases, W decreases. --- ## Why Other Options Are Wrong: | Option | Why Wrong | |--------|-----------| | (A) Depletion layer widens | This happens under **reverse bias**, not forward bias | | (C) No change | The applied voltage definitely affects the barrier and depletion layer | | (D) Reverse current flows | Forward bias causes **forward current** (majority carriers), not reverse current | --- ## Key Formula to Remember: **Narrower depletion layer \\u2192 Lower barrier \\u2192 Forward current flows \\u2713**",
+      "solution": "# Answer: **(B) Depletion layer to narrow** --- ## Step-by-Step Reasoning: ### What is the Depletion Layer? - Region near the p-n junction depleted of mobile charge carriers - Contains only immobile ionic charges (positive ions in n-region, negative ions in p-region) - Creates a built-in electric field that opposes carrier movement ### Effect of Forward Bias: 1. **External voltage applied** (+ to p-side, \\u\u2082\u2082\u2081\u2082 to n-side) 2. **Opposes the built-in field** created by the junction 3. **Built-in field strength decreases** 4. **Fewer carriers are \"trapped\"** in the depletion region 5. **Depletion layer width reduces** (narrows) ### Mathematical Relationship: $$W = \\sqrt\\frac\u2082\\epsilon_0\\epsilon_r(V_0 - V_f)e(N_A + N_D)/(N_A \\cdot N_D)$$ Where $V_f$ is the forward bias voltage. As $V_f$ increases, W decreases. --- ## Why Other Options Are Wrong: | Option | Why Wrong | |--------|-----------| | (A) Depletion layer widens | This happens under **reverse bias**, not forward bias | | (C) No change | The applied voltage definitely affects the barrier and depletion layer | | (D) Reverse current flows | Forward bias causes **forward current** (majority carriers), not reverse current | --- ## Key Formula to Remember: **Narrower depletion layer \\u\u2082\u2081\u2089\u2082 Lower barrier \\u\u2082\u2081\u2089\u2082 Forward current flows \\u\u2082\u2087\u2081\u2083**",
       "exam": "NEET 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "A change of 8 . 0 mA in the emitter current brings a change of 7 . 9 mA in the collector current. The values of \\u03b1 and \\u03b2 are",
-      "options": {
-        "A": "A",
-        "B": "99 , 90",
-        "C": "96 , 79",
-        "D": "97 , 99"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given that, change in emitter current, \\u2206 I E = 8 mA and change in collector current, \\u2206 I C = 7.9 mA . We know that, \\u03b1 = \\u2206 I C \\u2206 I E \\u21d2 \\u03b1= 7.9 8 \\u21d2 \\u03b1 \\u2248 0 . 99 Also, we know that \\u03b2 = \\u03b1 1 - \\u03b1 \\u21d2\\u03b2 = 7.9 8 1 - 7.9 8 = 7.9 8 - 7.9 \\u21d2 \\u03b2 = 7.9 0.1 = 79 Hence, the required answer is \\u03b1 = 0 . 99 and \\u03b2 = 79 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "What is the number of electrons and holes in a pure Si crystal doped by 1 ppm concentration of pentavalent As, given that the crystal has a concentration of 5 \u00d7 10 28 atoms m \u20133 and n i =1.5\u00d710 16 m \u20133 ?",
-      "options": {
-        "A": "A",
-        "B": "5 \u00d7 10 9 m \u20133",
-        "C": "5 \u00d7 10 9 m \u20133",
-        "D": "5 \u00d7 10 9 m \u20133"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 4.5 \u00d7 10 9 m \u20133 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "A silicon diode has a threshold voltage of 0.7 V . If an input voltage given by 2 sin ( \u03c0t ) is supplied to a half-wave rectifier circuit using this diode, the rectified output has a peak value of",
       "options": {
-        "A": "A 2 V",
+        "A": "2 V",
         "B": "4 V",
         "C": "3 V",
         "D": "7 V"
@@ -217,13 +97,13 @@
     {
       "question": "Two ideal diodes are connected to a battery as shown in the circuit. The current supplied by the battery is",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "75 ~A$ B zero",
         "C": "25 ~A$",
         "D": "5 ~A$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Here in circuit $D_1$ is forward bias and $D_2$ is reverse bias. Current will flow only in diode $D_1$ The current supplied by the battery $i=\\frac510=0.5 ~A$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Here in circuit $D_1$ is forward bias and $D_2$ is reverse bias. Current will flow only in diode $D_1$ The current supplied by the battery $i=\\frac\u2085\u2081\u2080=0.5 ~A$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -232,95 +112,50 @@
     {
       "question": "A transistor is used as an amplifier in common base mode with a load resistance of 5 k \u03a9 . If the current gain of amplifier is 0.98 and the input resistance is 70 \u03a9 , then voltage gain and power gain respectively are",
       "options": {
-        "A": "A 70 , 6",
-        "B": "6 B 80 , 7",
-        "C": "6 C 60 , 6",
-        "D": "6 D 90 , 9"
+        "A": "70 , 6",
+        "B": "6 B\u2088\u2080 , 7",
+        "C": "6 C\u2086\u2080 , 6",
+        "D": "6 D\u2089\u2080 , 9"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Current gain in common base mode \u03b1 = I C I E = 0.98 Voltage gain A V = \u03b1 R L R i n = 0.98 \u00d7 5 \u00d7 1 0 3 70 \u21d2 A V = 70 Power gain A P = a 2 R L R i n = 0.98 2 \u00d7 5 \u00d7 1 0 3 70 \u21d2 A P = 68.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Current gain in common base mode \u03b1 = IC IE = 0.98 Voltage gain AV = \u03b1 RL R i n = 0.98 \u00d7 5 \u00d7 10 370 \u21d2 AV = 70 Power gain AP = a 2 RL R i n = 0.982 \u00d7 5 \u00d7 10 370 \u21d2 AP = 68.6 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "The electrical conductivity of a semiconductor increases when electromagnetic radiation having a wavelength shorter than 2480 nm is incident on it. The bandgap (in eV ) for the semiconductor is",
+      "question": "The currents through diodes D\u2081 and D\u2082 are",
       "options": {
-        "A": "A",
-        "B": "9",
-        "C": "7",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \\u03bb min = 2480 nm = 24800 A o Energy (in eV ) = 12375 \\u03bb E \\u2061 = 12375 24800 eV \\u21d2 E \\u2061 = 0.5 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "In the circuit shown in Fig, what is the value of RC?",
-      "options": {
-        "A": "A",
-        "B": "56 k\u03a9",
-        "C": "65 k\u03a9",
-        "D": "42 k\u03a9"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.56 k\u03a9 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "To detect light of wavelength 500 nm , the photodiode must be fabricated from a semiconductor of minimum bandwidth of",
-      "options": {
-        "A": "A",
-        "B": "24 eV",
-        "C": "62 \u00c2 eV",
-        "D": "48 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Minimum bandwidth \\u2206 E \\u2206 E = 1240 eV nm 500 nm = 2.48 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
-      "question": "The currents through diodes D 1 and D 2 are",
-      "options": {
-        "A": "A i 1 =",
+        "A": "i 1 =",
         "B": "1 \u00c2 A , \u00c2 i 2 =",
-        "C": "1 \u00c2 A B i 1 =",
+        "C": "1 \u00c2 AB i 1 =",
         "D": "1 A , i 2 = 0 C i 1 = 0 , \u00c2 i 2 ="
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Through D 2 , i 2 = 0 due to reverse biasing of diode. Through D 1 , i 1 = 5 50 = 0.1 A . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Through D\u2082 , i 2 = 0 due to reverse biasing of diode. Through D\u2081 , i 1 = 550 = 0.1 A . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "A transistor is used as an amplifier in C B mode with a load resistance of 5 k \u00e2\u0081\u00a1 \u00ce\u00a9 . The current gain of amplifier is 0.98 and the input resistance is 70 \u00ce\u00a9 . The voltage gain and power gain, respectively, are",
+      "question": "A transistor is used as an amplifier in CB mode with a load resistance of 5 k \u00e2\u0081\u00a1 \u00ce\u00a9 . The current gain of amplifier is 0.98 and the input resistance is 70 \u00ce\u00a9 . The voltage gain and power gain, respectively, are",
       "options": {
-        "A": "A 70 , \u00c2 6",
-        "B": "6 B 80 , \u00c2 7",
-        "C": "6 C 60 , \u00c2 6",
-        "D": "6 D 90 , \u00c2 9"
+        "A": "70 , \u00c2 6",
+        "B": "6 B\u2088\u2080 , \u00c2 7",
+        "C": "6 C\u2086\u2080 , \u00c2 6",
+        "D": "6 D\u2089\u2080 , \u00c2 9"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u03b1 = I C I E = 0.98 V \u03b1 = \u03b1 R L R i n = 0.98 \u00d7 5 \u00d7 1 0 3 70 P \u03b1 = \u03b1 2 R L R i n = 0.98 2 \u00d7 5 \u00d7 1 0 3 70 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u03b1 = IC IE = 0.98 V \u03b1 = \u03b1 RL R i n = 0.98 \u00d7 5 \u00d7 10 370 P \u03b1 = \u03b1 2 RL R i n = 0.982 \u00d7 5 \u00d7 10 370 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "Conductivity of a photodiode starts changing only if the wavelength of incident light is less than $660 ~nm$. The band gap of photodiode is found to be $\\left(\\fracX8\\right) eV$. The value of $X$ is :<br/><br/> (Given, $h=6.6 \\times 10^-34 Js, e=1.6 \\times 10^-19 C$ )",
+      "question": "Conductivity of a photodiode starts changing only if the wavelength of incident light is less than $660 ~nm$. The band gap of photodiode is found to be $\\left(\\fracX\u2088\\right) eV$. The value of $X$ is :<br/><br/> (Given, $h=6.6 \\times 10^-34 Js, e=1.6 \\times 10^-19 C$ )",
       "options": {
         "A": "11",
         "B": "13",
@@ -328,7 +163,7 @@
         "D": "21"
       },
       "answer": "C",
-      "solution": "<p>To find the value of $$ X $$ in the band gap $$ \\left(\\fracX8\\right) eV $$, we need to understand the relationship between the wavelength of light that can result in changes in the conductivity of a photodiode and the photodiode's band gap energy. </p> <p>The band gap energy ($$ E_g $$) of a material is the minimum energy required for an electron to transition from the valence band to the conduction band, thus creating a hole-electron pair and allowing conductivity to occur. When light with a certain wavelength ($$ \\lambda $$) is incident upon the photodiode, if the energy of the photons is greater than or equal to the band gap energy of the photodiode, then the photons can excite electrons and change the conductivity of the photodiode.</p> <p>The energy of a photon ($$ E_photon $$) is given by the equation:</p> <p>$$ E_photon = \\frachc\\lambda $$</p> <p>where:</p> <ul> <li>$$ h $$ is Planck's constant, which is given as $$ 6.6 \\times 10^-34 $$ J\u00b7s.</li> <li>$$ c $$ is the speed of light in a vacuum ($$ \\approx 3 \\times 10^8 $$ m/s).</li> <li>$$ \\lambda $$ is the wavelength of the incident light.</li> </ul> <p>Then the band gap energy in terms of electron volts is found by converting the energy from joules to electron volts (eV) using the charge of an electron $$ e $$ ($$ 1.6 \\times 10^-19 $$ C):</p> <p>$$ E_g = \\frachc\\lambda e $$</p> <p>Given that the photodiode starts conducting when the wavelength of light is less than $$ 660 ~nm $$, we should use this wavelength as the threshold wavelength $$ \\lambda_threshold $$:</p> <p>$$ E_g = \\frachc\\lambda_threshold\\times e $$</p> <p>$$ E_g = \\frac6.6 \\times 10^-34 \\text J\u00b7s \\cdot 3 \\times 10^8 \\text m/s660 \\times 10^-9 \\text m \\times 1.6 \\times 10^-19 \\text C $$</p> <p>$$ E_g = \\frac6.6 \\times 3 \\times 10^-26660 \\times 1.6 eV $$</p> <p>$$ E_g = \\frac19.8660 \\times 1.6 eV $$</p> <p>$$ E_g = \\frac19.81056 eV $$</p> <p>$$ E_g = \\frac18.751000 eV $$</p> <p>$$ E_g = 1.875 eV $$</p> <p>Now, we have to compare this value to $$ \\left(\\fracX8\\right) eV $$ to find the value of $$ X $$:</p> <p>$$ 1.875 = \\fracX8 $$</p> <p>$$ X = 1.875 \\times 8 $$</p> <p>$$ X = 15 $$</p> <p>Therefore, the value of $$ X $$ is 15. The correct answer is Option C.</p>",
+      "solution": "<p>To find the value of $$ X $$ in the band gap $$ \\left(\\fracX\u2088\\right) eV $$, we need to understand the relationship between the wavelength of light that can result in changes in the conductivity of a photodiode and the photodiode's band gap energy. </p> <p>The band gap energy ($$ E_g $$) of a material is the minimum energy required for an electron to transition from the valence band to the conduction band, thus creating a hole-electron pair and allowing conductivity to occur. When light with a certain wavelength ($$ \\lambda $$) is incident upon the photodiode, if the energy of the photons is greater than or equal to the band gap energy of the photodiode, then the photons can excite electrons and change the conductivity of the photodiode.</p> <p>The energy of a photon ($$ E_photon $$) is given by the equation:</p> <p>$$ E_photon = \\frachc\\lambda $$</p> <p>where:</p> <ul> <li>$$ h $$ is Planck's constant, which is given as $$ 6.6 \\times 10^-34 $$ J\u00b7s.</li> <li>$$ c $$ is the speed of light in a vacuum ($$ \\approx 3 \\times 10^8 $$ m/s).</li> <li>$$ \\lambda $$ is the wavelength of the incident light.</li> </ul> <p>Then the band gap energy in terms of electron volts is found by converting the energy from joules to electron volts (eV) using the charge of an electron $$ e $$ ($$ 1.6 \\times 10^-19 $$ C):</p> <p>$$ E_g = \\frachc\\lambda e $$</p> <p>Given that the photodiode starts conducting when the wavelength of light is less than $$ 660 ~nm $$, we should use this wavelength as the threshold wavelength $$ \\lambda_threshold $$:</p> <p>$$ E_g = \\frachc\\lambda_threshold\\times e $$</p> <p>$$ E_g = \\frac\u2086.6 \\times 10^-34 \\text J\u00b7s \\cdot 3 \\times 10^8 \\text m/s\u2086\u2086\u2080 \\times 10^-9 \\text m \\times 1.6 \\times 10^-19 \\text C $$</p> <p>$$ E_g = \\frac\u2086.6 \\times 3 \\times 10^-26660 \\times 1.6 eV $$</p> <p>$$ E_g = \\frac\u2081\u2089.8660 \\times 1.6 eV $$</p> <p>$$ E_g = \\frac\u2081\u2089.81056 eV $$</p> <p>$$ E_g = \\frac\u2081\u2088.751000 eV $$</p> <p>$$ E_g = 1.875 eV $$</p> <p>Now, we have to compare this value to $$ \\left(\\fracX\u2088\\right) eV $$ to find the value of $$ X $$:</p> <p>$$ 1.875 = \\fracX\u2088 $$</p> <p>$$ X = 1.875 \\times 8 $$</p> <p>$$ X = 15 $$</p> <p>Therefore, the value of $$ X $$ is 15. The correct answer is Option C.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -373,7 +208,7 @@
         "D": "0 $$-$$ 24 V"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266481/exam_images/ni5xya4ak6ucpf3q7qda.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Semiconductor Question 160 English Explanation\"> <br><br>Potential drop accross zener diode. <br><br>V<sub>z</sub> = V $$-$$ 100 I <br><br>$$ \\therefore $$ Power dissiption = V<sub>z</sub> I <br><br>= (V $$-$$ 100 I) I <br><br>Given that, <br><br>(V $$-$$ 100 I) I = 1 <br><br>$$ \\Rightarrow $$ VI $$-$$ 100 I<sup>2</sup> = 1 <br><br>$$ \\Rightarrow $$ 100 I<sup>2</sup> $$-$$ VI + 1 = 0 <br><br>As As I is real, <br><br>So, b<sup>2</sup> $$-$$ 4ac $$ \\ge $$ far this quadratic equation. <br><br>$$ \\therefore $$ V<sup>2</sup> $$-$$ 4(100)1 $$ \\ge $$ 0 <br><br>$$ \\Rightarrow $$ V $$ \\ge $$ 20 V <br><br>$$ \\therefore $$ Voltage range should be 0 $$-$$ 24 V",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2084\u2088\u2081/exam_images/ni\u2085xya\u2084ak\u2086ucpf\u2083q\u2087qda.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Semiconductor Question 160 English Explanation\"> <br><br>Potential drop accross zener diode. <br><br>V<sub>z</sub> = V $$-$$ 100 I <br><br>$$ \\therefore $$ Power dissiption = V<sub>z</sub> I <br><br>= (V $$-$$ 100 I) I <br><br>Given that, <br><br>(V $$-$$ 100 I) I = 1 <br><br>$$ \\Rightarrow $$ VI $$-$$ 100 I<sup>2</sup> = 1 <br><br>$$ \\Rightarrow $$ 100 I<sup>2</sup> $$-$$ VI + 1 = 0 <br><br>AsAsI is real, <br><br>So, b<sup>2</sup> $$-$$ 4ac $$ \\ge $$ far this quadratic equation. <br><br>$$ \\therefore $$ V<sup>2</sup> $$-$$ 4(100)\u2081 $$ \\ge $$ 0 <br><br>$$ \\Rightarrow $$ V $$ \\ge $$ 20 V <br><br>$$ \\therefore $$ Voltage range should be 0 $$-$$ 24 V",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -425,7 +260,7 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "If a semiconductor photodiode can detect a photon with a maximum wavelength of 400 nm, then its band gap energy is : <br/><br/>Planck\\u2019s constant h = 6.63 $$ \\times $$ 10<sup>\\\u201334</sup> J.s. Speed of light c = 3 $$ \\times $$ 10<sup>8</sup> m/s",
+      "question": "If a semiconductor photodiode can detect a photon with a maximum wavelength of 400 nm, then its band gap energy is : <br/><br/>Planck\\u\u2082\u2080\u2081\u2089s constant h = 6.63 $$ \\times $$ 10<sup>\\\u201334</sup> J.s. Speed of light c = 3 $$ \\times $$ 10<sup>8</sup> m/s",
       "options": {
         "A": "1.5 eV",
         "B": "2.0 eV",
@@ -448,7 +283,7 @@
         "D": "100 $$\\Omega $$"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264087/exam_images/lwixd0dpakgiutyuslmo.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Physics - Semiconductor Question 128 English Explanation\"> <br><br>1.5 \\\u2013 0.5 \\\u2013 R $$ \\times $$ 10<sup>\\\u20132</sup> = 0 <br><br>$$ \\Rightarrow $$ R = 100 $$\\Omega $$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2088\u2087/exam_images/lwixd\u2080dpakgiutyuslmo.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Physics - Semiconductor Question 128 English Explanation\"> <br><br>1.5 \\\u2013 0.5 \\\u2013 R $$ \\times $$ 10<sup>\\\u20132</sup> = 0 <br><br>$$ \\Rightarrow $$ R = 100 $$\\Omega $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -547,7 +382,7 @@
     {
       "question": "<p>Match List I with List II:</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-amwmfont-weight:bold;text-align:center;vertical-align:top .tg .tg-0laxtext-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 581px\"> <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 223px\"/> <col style=\"width: 45px\"/> <col style=\"width: 263px\"/> </colgroup> <thead> <tr> <th class=\"tg-amwm\"></th> <th class=\"tg-amwm\">List I</th> <th class=\"tg-amwm\"></th> <th class=\"tg-amwm\">List II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-0lax\">A.</td> <td class=\"tg-0lax\">Intrinsic semiconductor</td> <td class=\"tg-0lax\">I.</td> <td class=\"tg-0lax\">Fermi-level near the valence bond</td> </tr> <tr> <td class=\"tg-0lax\">B.</td> <td class=\"tg-0lax\">n-type semiconductor</td> <td class=\"tg-0lax\">II.</td> <td class=\"tg-0lax\">Fermi-level in the middle of valence and conduction band.</td> </tr> <tr> <td class=\"tg-0lax\">C.</td> <td class=\"tg-0lax\">p-type semiconductor</td> <td class=\"tg-0lax\">III.</td> <td class=\"tg-0lax\">Fermi-level near the conduction band</td> </tr> <tr> <td class=\"tg-0lax\">D.</td> <td class=\"tg-0lax\">Metals</td> <td class=\"tg-0lax\">IV.</td> <td class=\"tg-0lax\">Fermi-level inside the conduction band</td> </tr> </tbody> </table></p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "A-III, B-I, C-II, D-IV",
+        "A": "-III, B-I, C-II, D-IV",
         "B": "A-II, B-I, C-III, D-IV",
         "C": "A-I, B-II, C-III, D-IV",
         "D": "A-II, B-III, C-I, D-IV"
@@ -563,7 +398,7 @@
       "question": "<p>The effect of increase in temperature on the number of electrons in conduction band ($$n_e$$) and resistance of a semiconductor will be as:</p>",
       "options": {
         "A": "$$n_e$$ decreases, resistance increases",
-        "B": "Both $$n_e$$ and resistance increase",
+        "B": "oth $$n_e$$ and resistance increase",
         "C": "$$n_e$$ increases, resistance decreases",
         "D": "Both $$n_e$$ and resistance decrease"
       },
@@ -575,26 +410,11 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "<p>Which one of the following statement is <b>not</b> correct in the case of light emitting diodes?</p> <p>A. It is a heavily doped p-n junction.</p> <p>B. It emits light only when it is forward biased.</p> <p>C. It emits light only when it is reverse biased.</p> <p> D. The energy of the light emitted is equal to or slightly less than the energy gap of the semiconductor used.</p> <p>Choose the correct answer from the options given below:</p>",
-      "options": {
-        "A": "A",
-        "B": "B",
-        "C": "C and D",
-        "D": "C"
-      },
-      "answer": "D",
-      "solution": "The correct answer is C. It is not correct that a light-emitting diode (LED) emits light only when it is reverse biased. In fact, an LED emits light only when it is forward biased, which is stated correctly in option B. <br/><br/>Option A is also correct, as an LED is indeed a heavily doped p-n junction. Option D is also correct, as the energy of the light emitted by an LED is equal to or slightly less than the energy gap of the semiconductor material used in the device. <br/><br/>Therefore, the statement that is not correct in the case of light-emitting diodes is C.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Semiconductor Electronics"
-    },
-    {
       "question": "<p>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R</p> <p>Assertion A : Photodiodes are used in forward bias usually for measuring the light intensity.</p> <p>Reason R : For a p-n junction diode, at applied voltage V the current in the forward bias is more than the current in the reverse bias for $$|V_z| > \\pm v \\ge |v_0|$$ where $$v_0$$ is the threshold voltage and $$V_z$$ is the breakdown voltage.</p> <p>In the light of the above statements, choose the correct answer from the options given below</p>",
       "options": {
-        "A": "Both A and R are true but R is NOT the correct explanation of A",
+        "A": "Both A and R are true but R is NOT the correct explanation of",
         "B": "A is true but R is false",
-        "C": "Both A and R are true and R is the correct explanation of A",
+        "C": "Both A and R are true and R is the correct explanation of",
         "D": "A is false but R is true"
       },
       "answer": "D",
@@ -613,7 +433,7 @@
         "D": "1400 nm"
       },
       "answer": "B",
-      "solution": "<p>The wavelength of light emitted by a Light Emitting Diode (LED) fabricated using a semiconducting material can be determined by the energy band gap of the material. The energy of the photon emitted, which corresponds to the band gap energy, is given by the equation:</p> <p>$$E = \\frachc\\lambda$$</p> <p>Where:</p> <ul> <li><b>$E$</b> is the energy of the emitted photon (in joules when $h$ and $c$ are in SI units), corresponding to the band gap energy of the material.</li> <li><b>$h$</b> is Planck's constant ($6.626 \\times 10^-34 \\, m^2\\,kg/s$).</li> <li><b>$c$</b> is the speed of light in vacuum ($3.0 \\times 10^8 \\,m/s$).</li> <li><b>$\\lambda$</b> is the wavelength of the emitted light (in meters).</li> </ul> <p>However, since the energy band gap given is in electronvolts (eV), and we are looking for the wavelength in nanometers (nm), we can use the energy formula directly in terms of eV and then do the unit conversion conveniently. The conversion between energy (in eV) and wavelength (in nm) without needing to convert eV to Joules is facilitated by the equation:</p> <p>$$\\lambda(nm) = \\frac1240E(eV)$$</p> <p>Here, 1240 nm\u00b7eV is a conversion factor used for directly converting energy in eV to wavelength in nm.</p> <p>Given the band gap energy of GaAs is $1.42 ~eV$, the wavelength ($\\lambda$) of light emitted can be found as:</p> <p>$$\\lambda = \\frac12401.42 = 873.24 ~nm$$</p> <p>Thus, the wavelength of light emitted from the LED is approximately 873.24 nm, which is closest to:</p> <p>Option B: 875 nm.</p>",
+      "solution": "<p>The wavelength of light emitted by a Light Emitting Diode (LED) fabricated using a semiconducting material can be determined by the energy band gap of the material. The energy of the photon emitted, which corresponds to the band gap energy, is given by the equation:</p> <p>$$E = \\frachc\\lambda$$</p> <p>Where:</p> <ul> <li><b>$E$</b> is the energy of the emitted photon (in joules when $h$ and $c$ are in SI units), corresponding to the band gap energy of the material.</li> <li><b>$h$</b> is Planck's constant ($6.626 \\times 10^-34 \\, m^2\\,kg/s$).</li> <li><b>$c$</b> is the speed of light in vacuum ($3.0 \\times 10^8 \\,m/s$).</li> <li><b>$\\lambda$</b> is the wavelength of the emitted light (in meters).</li> </ul> <p>However, since the energy band gap given is in electronvolts (eV), and we are looking for the wavelength in nanometers (nm), we can use the energy formula directly in terms of eV and then do the unit conversion conveniently. The conversion between energy (in eV) and wavelength (in nm) without needing to convert eV to Joules is facilitated by the equation:</p> <p>$$\\lambda(nm) = \\frac\u2081\u2082\u2084\u2080E(eV)$$</p> <p>Here, 1240 nm\u00b7eV is a conversion factor used for directly converting energy in eV to wavelength in nm.</p> <p>Given the band gap energy of GaAs is $1.42 ~eV$, the wavelength ($\\lambda$) of light emitted can be found as:</p> <p>$$\\lambda = \\frac\u2081\u2082\u2084\u2080\u2081.42 = 873.24 ~nm$$</p> <p>Thus, the wavelength of light emitted from the LED is approximately 873.24 nm, which is closest to:</p> <p>Option B: 875 nm.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -628,7 +448,7 @@
         "D": "207 nm"
       },
       "answer": "D",
-      "solution": "<p>The energy required to create a hole in a p-type semiconductor can be directly related to the acceptor level because this energy level represents the minimum energy required to excite an electron from the valence band into the acceptor level, effectively creating a hole. The acceptor level is given as $$6 \\, \\texteV$$.</p> <p>To find the maximum wavelength of light that can excite an electron into this level, we use the equation that relates the energy ($$E$$) of a photon to its wavelength ($$\\lambda$$):</p> <p>$$E = \\frachc\\lambda$$</p> <p>Where:</p> <ul> <li>$$E$$ is the energy in electronvolts (eV),</li> <li>$$h$$ is Planck's constant,</li> <li>$$c$$ is the speed of light, and</li> <li>$$\\lambda$$ is the wavelength in nanometers (nm).</li> </ul> <p>The product of $$hc$$ is given as $$1242 \\, \\texteV nm$$, allowing us to solve for $$\\lambda$$ directly:</p> <p>$$\\lambda = \\frachcE$$</p> <p>Substituting the given values:</p> <p>$$\\lambda = \\frac1242 \\, \\texteV nm6 \\, \\texteV = 207 \\, \\textnm$$</p> <p>Thus, the maximum wavelength of light that can create a hole in the semiconductor by exciting an electron into the acceptor level is $$207 \\, \\textnm$$. Therefore, the correct answer is Option D: 207 nm.</p>",
+      "solution": "<p>The energy required to create a hole in a p-type semiconductor can be directly related to the acceptor level because this energy level represents the minimum energy required to excite an electron from the valence band into the acceptor level, effectively creating a hole. The acceptor level is given as $$6 \\, \\texteV$$.</p> <p>To find the maximum wavelength of light that can excite an electron into this level, we use the equation that relates the energy ($$E$$) of a photon to its wavelength ($$\\lambda$$):</p> <p>$$E = \\frachc\\lambda$$</p> <p>Where:</p> <ul> <li>$$E$$ is the energy in electronvolts (eV),</li> <li>$$h$$ is Planck's constant,</li> <li>$$c$$ is the speed of light, and</li> <li>$$\\lambda$$ is the wavelength in nanometers (nm).</li> </ul> <p>The product of $$hc$$ is given as $$1242 \\, \\texteV nm$$, allowing us to solve for $$\\lambda$$ directly:</p> <p>$$\\lambda = \\frachcE$$</p> <p>Substituting the given values:</p> <p>$$\\lambda = \\frac\u2081\u2082\u2084\u2082 \\, \\texteV nm\u2086 \\, \\texteV = 207 \\, \\textnm$$</p> <p>Thus, the maximum wavelength of light that can create a hole in the semiconductor by exciting an electron into the acceptor level is $$207 \\, \\textnm$$. Therefore, the correct answer is Option D: 207 nm.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -650,7 +470,7 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "An unknown transistor needs to be identified as a <i>npn</i> or <i>pnp</i> type. A multimeter, with + ve and \\u2212 ve terminals, is used to measure resistance between different terminals of transistor. If terminal 2 is the base of the transistor then which of the following is correct for a pnp transistor ?",
+      "question": "An unknown transistor needs to be identified as a <i>npn</i> or <i>pnp</i> type. A multimeter, with + ve and \\u\u2082\u2082\u2081\u2082 ve terminals, is used to measure resistance between different terminals of transistor. If terminal 2 is the base of the transistor then which of the following is correct for a pnp transistor ?",
       "options": {
         "A": "+ ve termial 1, $$-$$ve terminal 2, resistance high",
         "B": "+ ve termial 2, $$-$$ve terminal 1, resistance high",
@@ -658,7 +478,7 @@
         "D": "+ ve termial 2, $$-$$ve terminal 3, resistance low"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265236/exam_images/apllg3zofsznrk6kgtfe.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Semiconductor Question 159 English Explanation\"> <br><br>+ ve terminal at 1, $$-$$ ve terminal at 2 and resistance high for pnp transistor.",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2082\u2083\u2086/exam_images/apllg\u2083zofsznrk\u2086kgtfe.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Semiconductor Question 159 English Explanation\"> <br><br>+ ve terminal at 1, $$-$$ ve terminal at 2 and resistance high for pnp transistor.",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -680,7 +500,7 @@
       "chapter": "Semiconductor Electronics"
     },
     {
-      "question": "An NPN transistor is used in common emitter configuration as an amplifier with 1 k$$\\Omega $$ load resistance. Signal voltage of 10 mV is applied across the base-emitter. This produces a 3 mA change in the collector current and 15\\u03bcA change in the base current of the amplifier. The input resistance and voltage gain are :",
+      "question": "An NPN transistor is used in common emitter configuration as an amplifier with 1 k$$\\Omega $$ load resistance. Signal voltage of 10 mV is applied across the base-emitter. This produces a 3 mA change in the collector current and 15\\u\u2080\u2083bcA change in the base current of the amplifier. The input resistance and voltage gain are :",
       "options": {
         "A": "0.67 kW, 200",
         "B": "0.33 kW, 1.5",
@@ -744,7 +564,7 @@
       "options": {
         "A": "Both cut-off and Saturation",
         "B": "Saturation region only",
-        "C": "Cut-off region only",
+        "C": "ut-off region only",
         "D": "The active region only"
       },
       "answer": "D",
@@ -772,9 +592,9 @@
     {
       "question": "<p>For a transistor to act as a switch, it must be operated in</p>",
       "options": {
-        "A": "Active region.",
+        "A": "ctive region.",
         "B": "Saturation state only.",
-        "C": "Cut-off state only.",
+        "C": "ut-off state only.",
         "D": "Saturation and cut-off state."
       },
       "answer": "D",
@@ -803,7 +623,7 @@
       "question": "<p>Given below are two statements :</p> <p><b>Statement I:</b> In a typical transistor, all three regions emitter, base and collector have same doping level.</p> <p><b>Statement II:</b> In a transistor, collector is the thickest and base is the thinnest segment.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
       "options": {
         "A": "<b>Statement I</b> is correct but <b>Statement II</b> is incorrect",
-        "B": "Both <b>Statement I</b> and <b>Statement II</b> are incorrect",
+        "B": "oth <b>Statement I</b> and <b>Statement II</b> are incorrect",
         "C": "<b>Statement I</b> is incorrect but <b>Statement II</b> is correct",
         "D": "Both <b>Statement I</b> and <b>Statement II</b> are correct"
       },
@@ -823,7 +643,7 @@
         "D": "110"
       },
       "answer": "D",
-      "solution": "The current gain of a transistor in common emitter configuration is given by:<br/><br/> $$\\beta = \\fracI_CI_B$$<br/><br/> where $$I_C$$ is the collector current and $$I_B$$ is the base current. <br/><br/> In this case, the collector current changes from $$5 ~mA$$ to $$16 ~mA$$ for the change in base current from $$100~ \\mu A$$ to $$200 ~\\mu A$$. Therefore, we have:<br/><br/> $$\\Delta I_C = 16 ~mA - 5 ~mA = 11 ~mA$$<br/><br/> $$\\Delta I_B = 200~ \\mu A - 100~ \\mu A = 100~ \\mu A$$ <br/><br/> Therefore, the current gain of the transistor is:<br/><br/> $$\\beta = \\frac\\Delta I_C\\Delta I_B = \\frac11 ~mA100~ \\mu A = 110$$ <br/><br/> Therefore, the current gain of the transistor is 110.",
+      "solution": "The current gain of a transistor in common emitter configuration is given by:<br/><br/> $$\\beta = \\fracI_CI_B$$<br/><br/> where $$I_C$$ is the collector current and $$I_B$$ is the base current. <br/><br/> In this case, the collector current changes from $$5 ~mA$$ to $$16 ~mA$$ for the change in base current from $$100~ \\mu A$$ to $$200 ~\\mu A$$. Therefore, we have:<br/><br/> $$\\Delta I_C = 16 ~mA - 5 ~mA = 11 ~mA$$<br/><br/> $$\\Delta I_B = 200~ \\mu A - 100~ \\mu A = 100~ \\mu A$$ <br/><br/> Therefore, the current gain of the transistor is:<br/><br/> $$\\beta = \\frac\\Delta I_C\\Delta I_B = \\frac\u2081\u2081 ~mA\u2081\u2080\u2080~ \\mu A = 110$$ <br/><br/> Therefore, the current gain of the transistor is 110.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",

@@ -1,143 +1,8 @@
 {
   "subject": "Physics",
   "chapter": "Kinetic Theory of Gases",
-  "total_questions": 81,
+  "total_questions": 62,
   "questions": [
-    {
-      "question": "An ideal gas ( 1 mole, monatomic) is in the initial state P (see diagram) on an isothermal curve A at a temperature T 0 . It is brought under a constant volume 2 V 0 process to Q which lies on an adiabatic curve B intersecting the isothermal curve A at P 0 , V 0 , T 0 . The change in the internal energy of the gas (in terms of T 0 ) during the process is 2 2 3 = 1.587",
-      "options": {
-        "A": "A",
-        "B": "3 T 0 B -",
-        "C": "6 T 0 C -",
-        "D": "3 T 0"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Temperature at state P = T 0 , since P lies on the isotherm of temperature T 0 . If T be the temperature at Q , then for the adiabatic process B , we have T 0 V 0 \u03b3 - 1 = T 2 V 0 \u03b3 - 1 T = T 2 \u03b3 - 1 = T 0 2 2 / 3 Change in the internal energy of the gas is \u0394 U = C V T - T 0 = R - 1 T 0 2 2 / 3 - T 0 = 3 R T 0 1 - 2 2 / 3 2 \u00d7 2 2 / 3 = - 4.6 T 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "An ideal gas heat engine operates in a Carnot's cycle between 227 \u00b0 C and 127 \u00b0 C . It absorbs 6 \u00d7 10 4 J at the higher temperature. The amount of heat converted into work is",
-      "options": {
-        "A": "A",
-        "B": "6 \u00d7 10 4 J",
-        "C": "2 \u00d7 10 4 J",
-        "D": "8 \u00d7 10 4 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Using the relation, W Q 1 = Q 1 - Q 2 Q 1 W Q 1 = 1 - Q 2 Q 1 W Q 1 = 1 - T 2 T 1 \u2235 Q 1 Q 2 = T 1 T 2 W = Q 1 1 - T 2 T 1 \u2234 W = 6 \u00d7 10 4 1 - ( 127 + 273 ) ( 227 + 273 ) W = 6 \u00d7 10 4 1 - 400 500 = 6 \u00d7 10 4 \u00d7 100 500 = 1.2 \u00d7 10 4 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the estimated average thermal energy of a helium atom at room temperature (27 \u00b0C)?",
-      "options": {
-        "A": "A",
-        "B": "21 \u00d7 $10^-20$ J",
-        "C": "21 \u00d7 $10^-21$ J",
-        "D": "21 \u00d7 $10^-22$ J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 6.21 \u00d7 $10^-21$ J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the final pressure in atm after the partition is removed and the mixture attains equilibrium in the container shown in Fig. 13.6, having two chambers, separated by a partition, of volumes V1 = 2.0 litre and V2 = 3.0 litre, containing \u00b51 = 4.0 moles and \u00b52 = 5.0 moles of a gas at pressures p1 = 1.00 atm and p2 = 2.00 atm?",
-      "options": {
-        "A": "A",
-        "B": "60 atm",
-        "C": "50 atm",
-        "D": "25 atm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.60 atm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the time required for the pressure inside a 1.00m\u00b3 box filled with nitrogen at 1.50 atm and 300K, with a hole of 0.010 mm\u00b2, to reduce by 0.10 atm, assuming the pressure outside is 1 atm?",
-      "options": {
-        "A": "A",
-        "B": "38 \u00d710\u2075 s",
-        "C": "42 \u00d710\u2075 s",
-        "D": "32 \u00d710\u2075 s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.38 \u00d710\u2075 s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the number of degrees of freedom of molecules of hydrogen in 1 cc of hydrogen gas at NTP?",
-      "options": {
-        "A": "A",
-        "B": "344 \u00d7 10\u00b2\u2070",
-        "C": "344 \u00d7 10\u00b9\u2079",
-        "D": "344 \u00d7 10\u00b2\u00b9"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.344 \u00d7 10\u00b2\u2070 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "22 g of carbon dioxide at 27 \u00c2\u00b0 C is mixed in a closed container with 16 g of oxygen at 37 \u00c2\u00b0 C . If both gases are considered as ideal gases, then the temperature of the mixture is ( neglect vibrational degree of freedom )",
-      "options": {
-        "A": "A",
-        "B": "2 \u00b0 C B",
-        "C": "5 \u00b0 C C",
-        "D": "5 \u00c2\u00b0 C D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For carbon dioxide, number of moles n 1 = 22 44 = 1 2 Molar specific heat of C O 2 at constant volume C V 1 = 5 R 2 For oxygen, number of moles n 2 = 16 32 = 1 2 Molar specific heat of O 2 at constant volume C V 2 = 5 R 2 Let T K be the temperature of mixture. Heat lost by O 2 = Heat gained by C O 2 n 2 C V 2 \u2206 T 2 = n 1 C V 1 \u2206 T 1 1 2 5 2 R 310 - T = 1 2 \u00d7 5 R 2 T - 300 2 T = 610 T = 610 2 = 305 K = 32 \u00b0 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "By what percentage should the pressure of a given mass of a gas be increased so as to decreases its volume by 10 % at a constant temperature?",
-      "options": {
-        "A": "A",
-        "B": "1 \u00c2 %",
-        "C": "1 \u00c2 % C",
-        "D": "1 \u00c2 % D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to Boyle's Law : P 1 V 1 = P 2 V 2 P V = P \u2032 \u00d7 90 V 100 , P \u2032 P = 10 9 P \u2032 - P P \u00d7 100 = 10 9 - 1 \u00d7 100 = 100 9 = 11.1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "Which of the following ratios represents the root mean square speed (vrms) of the molecules of argon and chlorine in a mixture at 27\u00b0C when they are present in a 2:1 mass ratio?Atomic mass of argon = 39.9 u; Molecular mass of chlorine = 70.9 u.",
-      "options": {
-        "A": "A",
-        "B": "66",
-        "C": "77",
-        "D": "33"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1.77 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
     {
       "question": "[NEET 2023 | Physics] The RMS speed of an ideal gas at temperature T is proportional to:",
       "options": {
@@ -147,82 +12,22 @@
         "D": "1/\u221aT"
       },
       "answer": "B",
-      "solution": "## **Correct Answer: (B) \u221aT** --- ## **Step-by-Step Reasoning** ### Derivation from Kinetic Theory: The RMS (Root Mean Square) speed is derived from kinetic energy: **Average Kinetic Energy = (3/2)kT** $$\\frac12m v_rms^2 = \\frac32kT$$ Solving for v_rms: $$v_rms = \\sqrt\\frac3kTm$$ $$v_rms \\propto \\sqrtT$$ --- ## **Key Concept** The RMS speed depends on **both temperature and molecular mass**: - \u2191 Temperature \u2192 \u2191 RMS speed (molecules move faster) - \u2191 Molecular mass \u2192 \u2193 RMS speed (heavier molecules move slower) The \u221aT relationship means: - If T doubles, v_rms increases by \u221a2 \u2248 1.41 times - If T quadruples, v_rms doubles --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(A) T** | Linear dependence doesn't match kinetic energy equation | | **(C) T\u00b2** | Would mean doubling T quadruples speed\u2014too steep | | **(D) 1/\u221aT** | Inverse relationship contradicts physical reality (higher T \u2192 higher speeds) | --- ## **Remember** $$\\boxedv_rms = \\sqrt\\frac3kTm \\propto \\sqrtT$$ This is **the most important formula for gas kinetics in NEET**.",
+      "solution": "## **Correct Answer: (B) \u221aT** --- ## **Step-by-Step Reasoning** ### Derivation from Kinetic Theory: The RMS (Root Mean Square) speed is derived from kinetic energy: **Average Kinetic Energy = (3/2)kT** $$\\frac\u2081\u2082m v_rms^2 = \\frac\u2083\u2082kT$$ Solving for v_rms: $$v_rms = \\sqrt\\frac\u2083kTm$$ $$v_rms \\propto \\sqrtT$$ --- ## **Key Concept** The RMS speed depends on **both temperature and molecular mass**: - \u2191 Temperature \u2192 \u2191 RMS speed (molecules move faster) - \u2191 Molecular mass \u2192 \u2193 RMS speed (heavier molecules move slower) The \u221aT relationship means: - If T doubles, v_rms increases by \u221a2 \u2248 1.41 times - If T quadruples, v_rms doubles --- ## **Why Other Options Are Wrong** | Option | Why Wrong | |--------|-----------| | **(A) T** | Linear dependence doesn't match kinetic energy equation | | **(C) T\u00b2** | Would mean doubling T quadruples speed\u2014too steep | | **(D) 1/\u221aT** | Inverse relationship contradicts physical reality (higher T \u2192 higher speeds) | --- ## **Remember** $$\\boxedv_rms = \\sqrt\\frac\u2083kTm \\propto \\sqrtT$$ This is **the most important formula for gas kinetics in NEET**.",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "An ideal gas heat engine operates in a Carnot cycle between $227^\\circ C$ and $127^\\circ C$. It absorbs $6 kcal$ at the higher temperature. The amount of heat (in kcal) converted into work is equal to:",
-      "options": {
-        "A": "A",
-        "B": "8",
-        "C": "5",
-        "D": "6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginaligned & \\text Efficiency of carnot engine =\\fracWQ_1 \\\\ & =1-\\fracT_2T_1 \\\\ & \\fracW6=1-\\frac400500 \\\\ & \\Rightarrow \\quad W=\\frac65=1.2 Kcal \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
       "question": "One mole of an ideal gas at an initial temperature of $T~ K$ does $6~ R$ joules of work adiabatically. If the ratio of specific heats of this gas at constant pressure and at constant volume is $5 / 3$, the final temperature of gas will be:",
       "options": {
-        "A": "A $(T+",
+        "A": "$(T+",
         "B": "K$ B $(T-",
         "C": "K$ C $(T+",
         "D": "K$ D $(T-"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that work done in adiabatic process is: $$ \\beginaligned & W=\\frac-1V-1\\left(P_f V_f-P_i V_i\\right) \\\\ & \\Rightarrow \\quad 6 R=\\frac-1\\frac53-1\\left(T_f-T_i\\right) \\\\ & \\text Since P V=R T\\ \\\\ & \\Rightarrow \\quad T_f-T_i=-4 \\\\ & \\Rightarrow \\quad T_f=(T-4) K \\\\ & \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "The average translational K.E. in one millilitre volume of oxygen at NTP is",
-      "options": {
-        "A": "A",
-        "B": "15 J",
-        "C": "036 \u00c2 J",
-        "D": "56 \u00c2 J D 152 \u00c2 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** KE trans = 3 2 PV KE trans = 3 2 10 5 10 - 6 KE trans = 0 .15 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "Two moles of oxygen is mixed with eight moles of helium. The effective specific heat of the mixture at constant volume is",
-      "options": {
-        "A": "A",
-        "B": "3 \u00c2 R",
-        "C": "4 \u00c2 R",
-        "D": "7 R"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let for mixture of gases, specific heat at constant volume be C V C V = n 1 ( C V ) 1 + n 2 ( C V ) 2 n 1 + n 2 where for oxygen; ( C V ) 1 = 5 R 2 , n 1 = 2 m o l For helium; ( C V ) 2 = 3 R 2 , n 2 = 8 m o l Therefore, C V = 2 \u00d7 5 R 2 + 8 \u00d7 3 R 2 2 + 8 = 17 R 10 = 1.7 R **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the total internal energy of a balloon containing 5.0 g-moles of helium at 7\u00b0C?",
-      "options": {
-        "A": "A",
-        "B": "74 \u00d7 10 4 J",
-        "C": "51 \u00d7 10 4 J",
-        "D": "25 \u00d7 10 4 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.74 \u00d7 10 4 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** We know that work done in adiabatic process is: $$ \\beginaligned & W=\\frac-1V-1\\left(P_f V_f-P_i V_i\\right) \\\\ & \\Rightarrow \\quad 6 R=\\frac-1\\frac\u2085\u2083-1\\left(T_f-T_i\\right) \\\\ & \\text Since PV=RT\\ \\\\ & \\Rightarrow \\quad T_f-T_i=-4 \\\\ & \\Rightarrow \\quad T_f=(T-4) K \\\\ & \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -231,25 +36,25 @@
     {
       "question": "An ideal gas heat engine operates in carnot cycle between $227^\\circ C$ and $127^\\circ C$. It absorbs $6 \\times 10^4$ cal of heat at higher temperature. Amount of heat converted into work, is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "8 \\times 10^4 cals$ B $6 \\times 10^4 cals$",
         "C": "4 \\times 10^4$ cals",
         "D": "2 \\times 10^4$ cals"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For a carnot engine $$ \\text efficiency \\beginaligned e & =1-\\fracT_2T_1 \\\\ & =1-\\frac127+273227+273 \\\\ & =1-\\frac400500=\\frac15 \\endaligned $$ Now, $\\quad e=\\frac\\text Work Output \\text Heat Output $ $$ =\\fracW6 \\times 10^4 $$ $$ \\beginaligned W & =e \\times 6 \\times 10^4 \\\\ & =\\frac15 \\times 6 \\times 10^4 \\\\ & =1.2 \\times 10^4 cal . \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** For a carnot engine $$ \\text efficiency \\beginaligned e & =1-\\fracT_2T_1 \\\\ & =1-\\frac\u2081\u2082\u2087+273227+273 \\\\ & =1-\\frac\u2084\u2080\u2080\u2085\u2080\u2080=\\frac\u2081\u2085 \\endaligned $$ Now, $\\quad e=\\frac\\text Work Output \\text Heat Output $ $$ =\\fracW\u2086 \\times 10^4 $$ $$ \\beginaligned W & =e \\times 6 \\times 10^4 \\\\ & =\\frac\u2081\u2085 \\times 6 \\times 10^4 \\\\ & =1.2 \\times 10^4 cal . \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "A hot air balloon is a sphere of radius 8 m. The air inside is at a temperature of 60\u00b0C. How large a mass can the balloon lift when the outside temperature is 20\u00b0C? (Assume air is an ideal gas, R = 8.314 J mole \u20131 K -1 , 1 atm. = 1.013\u00d710 5 Pa; the membrane tension is 5 N m \u20131 .)",
+      "question": "A hot air balloon is a sphere of radius 8 m. The air inside is at a temperature of 60\u00b0C. How large a mass can the balloon lift when the outside temperature is 20\u00b0C? (Assume air is an ideal gas, R = 8.314 J mole \u20131 K -1 , 1 atm. = 1.013\u00d7105 Pa; the membrane tension is 5 N m \u20131 .)",
       "options": {
-        "A": "A 303",
-        "B": "2 N B 304",
-        "C": "2 N C 305",
-        "D": "2 N D 306"
+        "A": "303",
+        "B": "2 N B\u2083\u2080\u2084",
+        "C": "2 N C\u2083\u2080\u2085",
+        "D": "2 N D\u2083\u2080\u2086"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 3044.2 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -261,10 +66,10 @@
     {
       "question": "Two ideal gas thermometers A and B use oxygen and hydrogen respectively. The following observations are made : What is the absolute temperature of normal melting point of sulphur as read by thermometers A and B ?",
       "options": {
-        "A": "A 66",
-        "B": "4K B 26",
-        "C": "11K C 44",
-        "D": "6K D 39"
+        "A": "66",
+        "B": "4K B\u2082\u2086",
+        "C": "11K C\u2084\u2084",
+        "D": "6K D\u2083\u2089"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 392.69K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -274,42 +79,12 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "What is the estimated average thermal energy of a helium atom at the temperature of 10 million kelvin (the typical core temperature in the case of a star)?",
-      "options": {
-        "A": "A",
-        "B": "07 \u00d7 $10^-20$ J",
-        "C": "07 \u00d7 $10^-16$J",
-        "D": "455 \u00d7 $10^-22$ J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 2.07 \u00d7 $10^-16$J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the specific gravity of the spirit in the U-tube when the mercury columns in the two arms are level with 10.0 cm of water in one arm and 12.5 cm of spirit in the other?",
-      "options": {
-        "A": "A",
-        "B": "8",
-        "C": "25",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.8 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
       "question": "What temperature, in degrees Celsius, is the root mean square speed of an atom in an argon gas cylinder equal to the root mean square speed of a helium gas atom at -20 \u00b0C? (Given: Atomic mass of Ar = 39.9 u, Atomic mass of He = 4.0 u).",
       "options": {
-        "A": "A 243",
-        "B": "12 \u00b0C B 214",
-        "C": "97 \u00b0C C 225",
-        "D": "52 \u00b0C D 235"
+        "A": "243",
+        "B": "12 \u00b0C B\u2082\u2081\u2084",
+        "C": "97 \u00b0C C\u2082\u2082\u2085",
+        "D": "52 \u00b0C D\u2082\u2083\u2085"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 2250.52 \u00b0C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -319,75 +94,15 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Two moles of an ideal gas, with C P C V = 5 3 , are mixed with 3 moles of another ideal gas C P C V = 4 3 . The value of C P C V for the mixture is",
-      "options": {
-        "A": "A",
-        "B": "45",
-        "C": "50",
-        "D": "47"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 1.42 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the estimated collision frequency of a nitrogen molecule in a cylinder containing nitrogen at 2.0 atm and a temperature of 17\u00c2\u00b0C, assuming a nitrogen molecule radius of approximately 1.0 \u00c3 and a molecular mass of $N_2$= 28.0 u?",
-      "options": {
-        "A": "A",
-        "B": "5 x $10^10$ collisions per second",
-        "C": "0 x $10^10$ collisions per second",
-        "D": "5 x $10^9$collisions per second"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 4.5 x $10^9$collisions per second **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
       "question": "The equation of state for $5 ~g$ of oxygen at a pressure $P$ and temperature $T$, when occupying a volume $V$, will be: (where $R$ is the gas constant)",
       "options": {
-        "A": "A $P V=(5 /",
-        "B": "R T$ B $P V=5 R T$ C $P V=(5 /",
-        "C": "R T$ D $P V=(5 /",
-        "D": "R T$"
+        "A": "$PV=(5 /",
+        "B": "RT$ B $PV=5 RT$ C $PV=(5 /",
+        "C": "RT$ D $PV=(5 /",
+        "D": "RT$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that $P V=\\underlinen R T$ $$ \\begingathered \\therefore n=\\fracm\\text moleculer mass =\\frac532 \\\\ \\Rightarrow \\quad P V=\\left(\\frac532\\right) R T \\endgathered $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "At what temperature will the rms speed of oxygen molecules becomes just sufficient for escaping from the Earth's atmosphere? (Given Mass of oxygen molecules m = 2.76 \u00d7 10 - 26 kg , Boltzmann's constant k B = 1.38 \u00d7 10 - 23 J K - 1 )",
-      "options": {
-        "A": "A",
-        "B": "016 \u00d7 10 4 K",
-        "C": "360 \u00c3\u0097 10 4 K",
-        "D": "508 \u00c3\u0097 10 4 K"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V e = V r m s 11.2 \u00d7 10 3 = 3 k T m \u21d2 T = 11.2 \u00d7 10 3 2 m 3 k Putting value of m and k T = 8.360 \u00d7 10 4 K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Kinetic Theory of Gases"
-    },
-    {
-      "question": "What is the estimated mean free path of a nitrogen molecule in a cylinder containing nitrogen at 2.0 atm and a temperature of 17\u00c2\u00b0C, assuming the radius of a nitrogen molecule is approximately 1.0 \u00c3 and the molecular mass of $N_2$is 28.0 u?",
-      "options": {
-        "A": "A",
-        "B": "22 \u00c3\u0097 $10^-7$ m",
-        "C": "11 \u00c3\u0097 $10^-7$ m",
-        "D": "11 \u00c3\u0097 $10^-8$ m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 1.11 \u00d7 $10^-8$ m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** We know that $PV=\\underlinen RT$ $$ \\begingathered \\therefore n=\\fracm\\text moleculer mass =\\frac\u2085\u2083\u2082 \\\\ \\Rightarrow \\quad PV=\\left(\\frac\u2085\u2083\u2082\\right) RT \\endgathered $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -447,7 +162,7 @@
         "D": "$$m\\overline v ^2 \\over 3k_B$$"
       },
       "answer": "C",
-      "solution": "<p>An HCl molecule, being diatomic, has:</p> <ul> <li>3 translational degrees of freedom</li> <li>2 rotational degrees of freedom</li> <li>2 vibrational degrees of freedom</li> </ul> <p>The total number of degrees of freedom is $3 + 2 + 2 = 7$.</p> <p>According to the equipartition theorem, each degree of freedom contributes $\\frac12 k_B T$ to the total energy. So the total energy is given by: $\\frac72 k_B T$</p> <p>The translational kinetic energy is related to the root-mean-square (rms) speed $\\overlinev$ by: $\\frac12 m \\overlinev^2 = \\frac72 k_B T$</p> <p>Rearranging to solve for the temperature, we find: $T = \\fracm \\overlinev^27k_B$</p>",
+      "solution": "<p>An HCl molecule, being diatomic, has:</p> <ul> <li>3 translational degrees of freedom</li> <li>2 rotational degrees of freedom</li> <li>2 vibrational degrees of freedom</li> </ul> <p>The total number of degrees of freedom is $3 + 2 + 2 = 7$.</p> <p>According to the equipartition theorem, each degree of freedom contributes $\\frac\u2081\u2082 k_B T$ to the total energy. So the total energy is given by: $\\frac\u2087\u2082 k_B T$</p> <p>The translational kinetic energy is related to the root-mean-square (rms) speed $\\overlinev$ by: $\\frac\u2081\u2082 m \\overlinev^2 = \\frac\u2087\u2082 k_B T$</p> <p>Rearranging to solve for the temperature, we find: $T = \\fracm \\overlinev^27k_B$</p>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -456,7 +171,7 @@
     {
       "question": "The specific heats, C<sub>P</sub> and C<sub>V </sub> of a gas of diatomic molecules, A, are given (in units of J mol<sup>\\\u20131</sup> K<sup>\\\u20131</sup>) by 29 and 22, respectively. Another gas of diatomic molecules, B, has the corresponding values 30 and 21. If they are treated as ideal gases, then :-",
       "options": {
-        "A": "A is rigid but B has a vibrational mode",
+        "A": "is rigid but B has a vibrational mode",
         "B": "A has a vibrational mode but B has none",
         "C": "A has one vibrational mode and B has two",
         "D": "Both A and B have a vibrational mode each"
@@ -489,7 +204,7 @@
         "A": "either monoatomic or diatomic.",
         "B": "monoatomic only.",
         "C": "polyatomic only.",
-        "D": "diatomic only."
+        "D": "iatomic only."
       },
       "answer": "C",
       "solution": "U = 3PV + 4<br><br>$$ \\Rightarrow $$ $$nf \\over 2$$RT = 3PV + 4<br><br>$$ \\Rightarrow $$ $$f \\over 2$$PV = 3PV + 4<br><br>$$ \\Rightarrow $$ f = 6 + $$8 \\over PV$$<br><br>Since degree of freedom is more than 6 therefore gas is polyatomic.",
@@ -552,7 +267,7 @@
         "D": "$$1098 ~d$$"
       },
       "answer": "C",
-      "solution": "The mean free path (\\u03bb) of molecules in a gas is given by the formula: <br/><br/> $$\\lambda = \\frackT\\sqrt2\\pi d^2 P$$ <br/><br/> where k is the Boltzmann constant, T is the temperature in Kelvin, d is the diameter of the gas molecules, and P is the pressure. <br/><br/> At STP (standard temperature and pressure), the temperature is $$273~K$$ and the pressure is $$1~atm$$. We are given that the mean free path at STP is $$1500d$$. Let's denote the mean free path at $$373~K$$ as \\u03bb': <br/><br/> $$\\lambda' = \\frack(373~K)\\sqrt2\\pi d^2 (1~atm)$$ <br/><br/> To find the ratio of the mean free path at $$373~K$$ to that at STP, we can divide \\u03bb' by \\u03bb: <br/><br/> $$\\frac\\lambda'\\lambda = \\frac\\frack(373~K)\\sqrt2\\pi d^2 (1~atm)\\frack(273~K)\\sqrt2\\pi d^2 (1~atm)$$ <br/><br/> The Boltzmann constant, pressure, and molecular diameter cancel out: <br/><br/> $$\\frac\\lambda'\\lambda = \\frac373~K273~K$$ <br/><br/> Now, we can solve for \\u03bb': <br/><br/> $$\\lambda' = \\lambda \\cdot \\frac373~K273~K$$ <br/><br/> Substituting the given value of \\u03bb as $$1500d$$: <br/><br/> $$\\lambda' = 1500d \\cdot \\frac373~K273~K$$ <br/><br/> $$\\lambda' \\approx 2049d$$ <br/><br/> Thus, the mean free path of the molecules at $$373~K$$ while maintaining the standard pressure is approximately $$2049d$$.",
+      "solution": "The mean free path (\\u\u2080\u2083bb) of molecules in a gas is given by the formula: <br/><br/> $$\\lambda = \\frackT\\sqrt\u2082\\pi d^2 P$$ <br/><br/> where k is the Boltzmann constant, T is the temperature in Kelvin, d is the diameter of the gas molecules, and P is the pressure. <br/><br/> At STP (standard temperature and pressure), the temperature is $$273~K$$ and the pressure is $$1~atm$$. We are given that the mean free path at STP is $$1500d$$. Let's denote the mean free path at $$373~K$$ as \\u\u2080\u2083bb': <br/><br/> $$\\lambda' = \\frack(373~K)\\sqrt\u2082\\pi d^2 (1~atm)$$ <br/><br/> To find the ratio of the mean free path at $$373~K$$ to that at STP, we can divide \\u\u2080\u2083bb' by \\u\u2080\u2083bb: <br/><br/> $$\\frac\\lambda'\\lambda = \\frac\\frack(373~K)\\sqrt\u2082\\pi d^2 (1~atm)\\frack(273~K)\\sqrt\u2082\\pi d^2 (1~atm)$$ <br/><br/> The Boltzmann constant, pressure, and molecular diameter cancel out: <br/><br/> $$\\frac\\lambda'\\lambda = \\frac\u2083\u2087\u2083~K\u2082\u2087\u2083~K$$ <br/><br/> Now, we can solve for \\u\u2080\u2083bb': <br/><br/> $$\\lambda' = \\lambda \\cdot \\frac\u2083\u2087\u2083~K\u2082\u2087\u2083~K$$ <br/><br/> Substituting the given value of \\u\u2080\u2083bb as $$1500d$$: <br/><br/> $$\\lambda' = 1500d \\cdot \\frac\u2083\u2087\u2083~K\u2082\u2087\u2083~K$$ <br/><br/> $$\\lambda' \\approx 2049d$$ <br/><br/> Thus, the mean free path of the molecules at $$373~K$$ while maintaining the standard pressure is approximately $$2049d$$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -567,7 +282,7 @@
         "D": "$$v_rms$$ (mono) $$ < v_rms$$ (dia) $$ < v_rms$$ (poly)"
       },
       "answer": "B",
-      "solution": "<p>The root mean square speed ($$v_rms$$) of a gas is given by the formula:</p> <p>$$v_rms = \\sqrt\\frac3kTm$$</p> <p>where $$k$$ is the Boltzmann constant, $$T$$ is the temperature, and $$m$$ is the molar mass of the gas molecules.</p> <p>The vessels contain neon (monoatomic), chlorine (diatomic), and uranium hexafluoride (polyatomic) gases. Their molar masses are:</p> <ol> <li>Neon: $$20.18\\,\\textg/mol$$ (monoatomic)</li> <li>Chlorine: $$2 \\times 35.45 = 70.90\\,\\textg/mol$$ (diatomic)</li> <li>Uranium hexafluoride: $$238.03 + 6 \\times 18.998 = 352.03\\,\\textg/mol$$ (polyatomic)</li> </ol> <p>Since the temperature and the Boltzmann constant are the same for all gases, the root mean square speed is inversely proportional to the square root of the molar mass:</p> <p>$$v_rms \\propto \\frac1\\sqrtm$$</p> <p>The lighter the gas, the higher its root mean square speed. Comparing the molar masses of the gases, we find that neon is the lightest, followed by chlorine, and uranium hexafluoride is the heaviest. Therefore, the root mean square speeds will be:</p> <p>$$vrms(\\textmono) > vrms(\\textdia) > v_rms(\\textpoly)$$</p>",
+      "solution": "<p>The root mean square speed ($$v_rms$$) of a gas is given by the formula:</p> <p>$$v_rms = \\sqrt\\frac\u2083kTm$$</p> <p>where $$k$$ is the Boltzmann constant, $$T$$ is the temperature, and $$m$$ is the molar mass of the gas molecules.</p> <p>The vessels contain neon (monoatomic), chlorine (diatomic), and uranium hexafluoride (polyatomic) gases. Their molar masses are:</p> <ol> <li>Neon: $$20.18\\,\\textg/mol$$ (monoatomic)</li> <li>Chlorine: $$2 \\times 35.45 = 70.90\\,\\textg/mol$$ (diatomic)</li> <li>Uranium hexafluoride: $$238.03 + 6 \\times 18.998 = 352.03\\,\\textg/mol$$ (polyatomic)</li> </ol> <p>Since the temperature and the Boltzmann constant are the same for all gases, the root mean square speed is inversely proportional to the square root of the molar mass:</p> <p>$$v_rms \\propto \\frac\u2081\\sqrtm$$</p> <p>The lighter the gas, the higher its root mean square speed. Comparing the molar masses of the gases, we find that neon is the lightest, followed by chlorine, and uranium hexafluoride is the heaviest. Therefore, the root mean square speeds will be:</p> <p>$$vrms(\\textmono) > vrms(\\textdia) > v_rms(\\textpoly)$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -582,7 +297,7 @@
         "D": "S<sub>1</sub> + S<sub>2</sub>"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267404/exam_images/b0nturloj3mkcjzkj7ez.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Heat and Thermodynamics Question 195 English Explanation\"> <br><br>for gas 1, S<sub>1</sub> = $$f \\over 2n_1R$$<br><br>for gas 2, S<sub>2</sub> = $$f \\over 2n_2R$$<br><br>after removal of piston,<br><br>S = $$f \\over 2(n_1 + n_2)R = S_1 + S_2$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2080\u2084/exam_images/b\u2080nturloj\u2083mkcjzkj\u2087ez.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Heat and Thermodynamics Question 195 English Explanation\"> <br><br>for gas 1, S<sub>1</sub> = $$f \\over 2n_1R$$<br><br>for gas 2, S<sub>2</sub> = $$f \\over 2n_2R$$<br><br>after removal of piston,<br><br>S = $$f \\over 2(n_1 + n_2)R = S_1 + S_2$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -604,7 +319,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "For a given gas at 1 atm pressure, rms speed of the molecule is 200 m/s at 127\u00b0C. At 2 atm pressure and at 227\u00b0C, the rms speed of the molecules will be :",
+      "question": "For a given gas at 1 atm pressure, rms speed of the molecule is 200 m/s at 127\u00b0C. At\u2082 atm pressure and at 227\u00b0C, the rms speed of the molecules will be :",
       "options": {
         "A": "100 m/s",
         "B": "100 $$\\sqrt 5 $$ m/s",
@@ -634,7 +349,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "A 15 g mass of nitrogen gas is enclosed in a vessel at a temperature 27<sup>o</sup>C. Amount of heat transferred to the gas, so that rms velocity of molecules is doubled, is about : [Take R = 8.3 J/K mole]",
+      "question": "A\u2081\u2085 g mass of nitrogen gas is enclosed in a vessel at a temperature 27<sup>o</sup>C. Amount of heat transferred to the gas, so that rms velocity of molecules is doubled, is about : [Take R = 8.3 J/K mole]",
       "options": {
         "A": "0.9 kJ",
         "B": "6 kJ",
@@ -739,7 +454,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "Consider a sample of oxygen behaving like an ideal gas. At 300 K, the ratio of root mean square (rms) velocity to the average velocity of gas molecule would be :<br/><br/>(Molecular weight of oxygen is 32g/mol; R = 8.3 J K<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
+      "question": "Consider a sample of oxygen behaving like an ideal gas. At\u2083\u2080\u2080 K, the ratio of root mean square (rms) velocity to the average velocity of gas molecule would be :<br/><br/>(Molecular weight of oxygen is 32g/mol; R = 8.3 JK<sup>$$-$$1</sup> mol<sup>$$-$$1</sup>)",
       "options": {
         "A": "$$\\sqrt 3\\pi \\over 8 $$",
         "B": "$$\\sqrt 3 \\over 3 $$",
@@ -877,9 +592,9 @@
       "question": "<p>The pressure $$(P)$$ and temperature ($$T)$$ relationship of an ideal gas obeys the equation $$PT^2=$$ constant. The volume expansion coefficient of the gas will be :</p>",
       "options": {
         "A": "$$3 T^2$$",
-        "B": "$$\\frac3T^2$$",
-        "C": "$$\\frac3T^3$$",
-        "D": "$$\\frac3T$$"
+        "B": "$$\\frac\u2083T^2$$",
+        "C": "$$\\frac\u2083T^3$$",
+        "D": "$$\\frac\u2083T$$"
       },
       "answer": "D",
       "solution": "<p>$$PT^2$$ = constant</p> <p>From $$PV = nRT \\Rightarrow T^3 \\over V = $$ constant</p> <p>$$T^3 \\propto V$$ ..... (1)</p> <p>$$3T^2dT \\propto dV$$ ..... (2)</p> <p>From (1) and (2)</p> <p>$$3dT \\over T = dV \\over V$$</p> <p>$$\\therefore$$ $$\\gamma = 1 \\over VdV \\over dT = 3 \\over T$$</p>",
@@ -889,7 +604,7 @@
       "chapter": "Kinetic Theory of Gases"
     },
     {
-      "question": "<p>At 300 K, the rms speed of oxygen molecules is $$\\sqrt \\alpha + 5 \\over \\alpha $$ times to that of its average speed in the gas. Then, the value of $$\\alpha$$ will be</p> <p>(used $$\\pi = 22 \\over 7$$)</p>",
+      "question": "<p>At\u2083\u2080\u2080 K, the rms speed of oxygen molecules is $$\\sqrt \\alpha + 5 \\over \\alpha $$ times to that of its average speed in the gas. Then, the value of $$\\alpha$$ will be</p> <p>(used $$\\pi = 22 \\over 7$$)</p>",
       "options": {
         "A": "27",
         "B": "28",
@@ -907,12 +622,12 @@
       "question": "<p>Given below are two statements :</p> <p>Statement I : The temperature of a gas is $$-73^\\circ$$C. When the gas is heated to $$527^\\circ$$C, the root mean square speed of the molecules is doubled.</p> <p>Statement II : The product of pressure and volume of an ideal gas will be equal to translational kinetic energy of the molecules.</p> <p>In the light of the above statements, choose the correct answer from the option given below :</p>",
       "options": {
         "A": "Statement I is true but Statement II is false",
-        "B": "Both Statement I and Statement II are true",
+        "B": "oth Statement I and Statement II are true",
         "C": "Statement I is false but Statement II is true",
         "D": "Both Statement I and Statement II are false"
       },
       "answer": "A",
-      "solution": "$T_i=200 ~K \\quad\\quad v_rms \\propto \\sqrtT$ <br/><br/> $T_f=800 ~K$ <br/><br/> $\\fracV_iV_f=\\sqrt\\fracT_iT_f=\\sqrt\\frac200800=\\sqrt\\frac14=\\frac12$ <br/><br/> $V_f=2 V_i$ <br/><br/> Translational K.E. $=\\left(\\frac32 P V\\right)$",
+      "solution": "$T_i=200 ~K \\quad\\quad v_rms \\propto \\sqrtT$ <br/><br/> $T_f=800 ~K$ <br/><br/> $\\fracV_iV_f=\\sqrt\\fracT_iT_f=\\sqrt\\frac\u2082\u2080\u2080\u2088\u2080\u2080=\\sqrt\\frac\u2081\u2084=\\frac\u2081\u2082$ <br/><br/> $V_f=2 V_i$ <br/><br/> Translational K.E. $=\\left(\\frac\u2083\u2082 PV\\right)$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -927,7 +642,7 @@
         "D": "$$\\fracv_04$$"
       },
       "answer": "B",
-      "solution": "<p>The root-mean-square (r.m.s) speed of an ideal gas is given by the formula:</p> <p>$$v_rms = \\sqrt\\frac3RTM$$</p> <p>where R is the gas constant, T is the temperature in Kelvin, and M is the molar mass of the gas.</p> <p>In this case, we are given that the initial temperature is $$200 \\, K$$ and the final temperature is $$800 \\, K$$. Let the r.m.s speed at $$200 \\, K$$ be $$v_0$$, then:</p> <p>$$v_0 = \\sqrt\\frac3R \\cdot 200M$$</p> <p>Now, we want to find the r.m.s speed at $$800 \\, K$$, let's call this $$v_1$$:</p> <p>$$v_1 = \\sqrt\\frac3R \\cdot 800M$$</p> <p>Now, divide $$v_1$$ by $$v_0$$:</p> <p>$$\\fracv_1v_0 = \\frac\\sqrt\\frac3R \\cdot 800M\\sqrt\\frac3R \\cdot 200M$$</p> <p>Simplify the expression:</p> <p>$$\\fracv_1v_0 = \\sqrt\\frac800200 = \\sqrt4 = 2$$</p> <p>So, $$v_1 = 2v_0$$.</p> <p>Hence, the r.m.s speed of the gas at $$800 \\, K$$ will be 2 times the r.m.s speed of the gas at $$200 \\, K$$.</p>",
+      "solution": "<p>The root-mean-square (r.m.s) speed of an ideal gas is given by the formula:</p> <p>$$v_rms = \\sqrt\\frac\u2083RTM$$</p> <p>where R is the gas constant, T is the temperature in Kelvin, and M is the molar mass of the gas.</p> <p>In this case, we are given that the initial temperature is $$200 \\, K$$ and the final temperature is $$800 \\, K$$. Let the r.m.s speed at $$200 \\, K$$ be $$v_0$$, then:</p> <p>$$v_0 = \\sqrt\\frac\u2083R \\cdot 200M$$</p> <p>Now, we want to find the r.m.s speed at $$800 \\, K$$, let's call this $$v_1$$:</p> <p>$$v_1 = \\sqrt\\frac\u2083R \\cdot 800M$$</p> <p>Now, divide $$v_1$$ by $$v_0$$:</p> <p>$$\\fracv_1v_0 = \\frac\\sqrt\\frac\u2083R \\cdot 800M\\sqrt\\frac\u2083R \\cdot 200M$$</p> <p>Simplify the expression:</p> <p>$$\\fracv_1v_0 = \\sqrt\\frac\u2088\u2080\u2080\u2082\u2080\u2080 = \\sqrt\u2084 = 2$$</p> <p>So, $$v_1 = 2v_0$$.</p> <p>Hence, the r.m.s speed of the gas at $$800 \\, K$$ will be 2 times the r.m.s speed of the gas at $$200 \\, K$$.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -937,12 +652,12 @@
       "question": "<p>Given below are two statements :</p> <p>Statement (I) : The mean free path of gas molecules is inversely proportional to square of molecular diameter.</p> <p>Statement (II) : Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas.</p> <p>In the light of the above statements, choose the correct answer from the options given below :</p>",
       "options": {
         "A": "Statement I is false but Statement II is true",
-        "B": "Both Statement I and Statement II are true",
+        "B": "oth Statement I and Statement II are true",
         "C": "Statement I is true but Statement II is false",
         "D": "Both Statement I and Statement II are false"
       },
       "answer": "B",
-      "solution": "<p>Let's analyze the given statements one by one in detail:</p> <p><b>Statement (I): The mean free path of gas molecules is inversely proportional to the square of molecular diameter.</b></p> <p>The mean free path ($ \\lambda $) of gas molecules is the average distance a molecule travels before colliding with another molecule. The formula for the mean free path in terms of molecular diameter ($ d $) is given by:</p> <p>$$\\lambda = \\frack_B T\\sqrt2 \\pi d^2 P$$</p> <p>Here, $ k_B $ is the Boltzmann constant, $ T $ is the temperature, and $ P $ is the pressure. From this equation, it is evident that the mean free path ($ \\lambda $) is inversely proportional to the square of the molecular diameter ($ d^2 $). Hence, Statement I is <b>true</b>.</p> <p><b>Statement (II): Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas.</b></p> <p>The average kinetic energy ($ E_\\textavg $) of gas molecules is given by:</p> <p>$$E_\\textavg = \\frac32 k_B T$$</p> <p>where $ k_B $ is the Boltzmann constant and $ T $ is the absolute temperature. This shows that the average kinetic energy is directly proportional to the absolute temperature of the gas. Hence, Statement II is <b>true</b>.</p> <p>Considering the analysis above, the correct answer is:</p> <p><b>Option B</b><br>Both Statement I and Statement II are true</p>",
+      "solution": "<p>Let's analyze the given statements one by one in detail:</p> <p><b>Statement (I): The mean free path of gas molecules is inversely proportional to the square of molecular diameter.</b></p> <p>The mean free path ($ \\lambda $) of gas molecules is the average distance a molecule travels before colliding with another molecule. The formula for the mean free path in terms of molecular diameter ($ d $) is given by:</p> <p>$$\\lambda = \\frack_B T\\sqrt\u2082 \\pi d^2 P$$</p> <p>Here, $ k_B $ is the Boltzmann constant, $ T $ is the temperature, and $ P $ is the pressure. From this equation, it is evident that the mean free path ($ \\lambda $) is inversely proportional to the square of the molecular diameter ($ d^2 $). Hence, Statement I is <b>true</b>.</p> <p><b>Statement (II): Average kinetic energy of gas molecules is directly proportional to absolute temperature of gas.</b></p> <p>The average kinetic energy ($ E_\\textavg $) of gas molecules is given by:</p> <p>$$E_\\textavg = \\frac\u2083\u2082 k_B T$$</p> <p>where $ k_B $ is the Boltzmann constant and $ T $ is the absolute temperature. This shows that the average kinetic energy is directly proportional to the absolute temperature of the gas. Hence, Statement II is <b>true</b>.</p> <p>Considering the analysis above, the correct answer is:</p> <p><b>Option B</b><br>Both Statement I and Statement II are true</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -951,13 +666,13 @@
     {
       "question": "<p>If $$n$$ is the number density and $$d$$ is the diameter of the molecule, then the average distance covered by a molecule between two successive collisions (i.e. mean free path) is represented by :</p>",
       "options": {
-        "A": "$$\\frac1\\sqrt2 n \\pi d^2$$",
-        "B": "$$\\frac1\\sqrt2 n^2 \\pi^2 d^2$$",
-        "C": "$$\\frac1\\sqrt2 n \\pi d^2$$",
-        "D": "$$\\sqrt2 n \\pi d^2$$"
+        "A": "$$\\frac\u2081\\sqrt\u2082 n \\pi d^2$$",
+        "B": "$$\\frac\u2081\\sqrt\u2082 n^2 \\pi^2 d^2$$",
+        "C": "$$\\frac\u2081\\sqrt\u2082 n \\pi d^2$$",
+        "D": "$$\\sqrt\u2082 n \\pi d^2$$"
       },
       "answer": "A",
-      "solution": "<p>The mean free path $$\\lambda$$ is the average distance covered by a molecule between two successive collisions. It is given by the formula:</p> <p>$$\\lambda = \\frac1\\sqrt2 n \\pi d^2$$</p> <p>Where:</p> <ul> <li>$$n$$ is the number density of the molecules, i.e., the number of molecules per unit volume,</li> <li>$$d$$ is the diameter of the molecules, and</li> <li>$$\\sqrt2$$ arises from considering the relative motion of a pair of particles in a gas, taking into account that either particle can be moving towards the other, which effectively doubles the cross-sectional area through which they can collide.</li> </ul> <p>This formula shows that the mean free path is inversely proportional to the number density $$n$$ of the molecules and the square of the diameter $$d$$ of the molecules. It also takes into account that collisions are more likely as the cross-sectional area of the molecules increases, or as the density of the molecules increases.</p> <p>Therefore, the correct answer is:</p> <p>Option A: $$\\frac1\\sqrt2 n \\pi d^2$$</p>",
+      "solution": "<p>The mean free path $$\\lambda$$ is the average distance covered by a molecule between two successive collisions. It is given by the formula:</p> <p>$$\\lambda = \\frac\u2081\\sqrt\u2082 n \\pi d^2$$</p> <p>Where:</p> <ul> <li>$$n$$ is the number density of the molecules, i.e., the number of molecules per unit volume,</li> <li>$$d$$ is the diameter of the molecules, and</li> <li>$$\\sqrt\u2082$$ arises from considering the relative motion of a pair of particles in a gas, taking into account that either particle can be moving towards the other, which effectively doubles the cross-sectional area through which they can collide.</li> </ul> <p>This formula shows that the mean free path is inversely proportional to the number density $$n$$ of the molecules and the square of the diameter $$d$$ of the molecules. It also takes into account that collisions are more likely as the cross-sectional area of the molecules increases, or as the density of the molecules increases.</p> <p>Therefore, the correct answer is:</p> <p>Option A: $$\\frac\u2081\\sqrt\u2082 n \\pi d^2$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1077,7 +792,7 @@
         "D": "W<sub>2</sub> < W<sub>1</sub> < W<sub>3</sub>"
       },
       "answer": "D",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l5ghaig9/bdf9a350-82b9-49bf-85d6-7b7d3200a25a/dcc88d90-00f2-11ed-ba34-71a54c393c2b/file-1l5ghaiga.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l5ghaig9/bdf9a350-82b9-49bf-85d6-7b7d3200a25a/dcc88d90-00f2-11ed-ba34-71a54c393c2b/file-1l5ghaiga.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Evening Shift Physics - Heat and Thermodynamics Question 153 English Explanation\"></p> <p>Comparing the area under the PV graph</p> <p>A<sub>3</sub> > A<sub>1</sub> > A<sub>2</sub></p> <p>$$\\Rightarrow$$ W<sub>3</sub> > W<sub>1</sub> > W<sub>2</sub></p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085ghaig\u2089/bdf\u2089a\u2083\u2085\u2080-82b\u2089-49bf-85d\u2086-7b\u2087d\u2083\u2082\u2080\u2080a\u2082\u2085a/dcc\u2088\u2088d\u2089\u2080-00f\u2082-11ed-ba\u2083\u2084-71a\u2085\u2084c\u2083\u2089\u2083c\u2082b/file-1l\u2085ghaiga.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085ghaig\u2089/bdf\u2089a\u2083\u2085\u2080-82b\u2089-49bf-85d\u2086-7b\u2087d\u2083\u2082\u2080\u2080a\u2082\u2085a/dcc\u2088\u2088d\u2089\u2080-00f\u2082-11ed-ba\u2083\u2084-71a\u2085\u2084c\u2083\u2089\u2083c\u2082b/file-1l\u2085ghaiga.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Evening Shift Physics - Heat and Thermodynamics Question 153 English Explanation\"></p> <p>Comparing the area under the PV graph</p> <p>A<sub>3</sub> > A<sub>1</sub> > A<sub>2</sub></p> <p>$$\\Rightarrow$$ W<sub>3</sub> > W<sub>1</sub> > W<sub>2</sub></p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1087,7 +802,7 @@
       "question": "<p>Given below are two statements :</p> <p>Statement I : When $$\\mu$$ amount of an ideal gas undergoes adiabatic change from state (P<sub>1</sub>, V<sub>1</sub>, T<sub>1</sub>) to state (P<sub>2</sub>, V<sub>2</sub>, T<sub>2</sub>), then work done is $$W = \\mu R(T_2 - T_1) \\over 1 - \\gamma $$, where $$\\gamma = C_p \\over C_v$$ and R = universal gas constant.</p> <p>Statement II : In the above case, when work is done on the gas, the temperature of the gas would rise.</p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
         "A": "Both Statement I and Statement II are true.",
-        "B": "Both Statement I and Statement II are false.",
+        "B": "oth Statement I and Statement II are false.",
         "C": "Statement I is true but Statement II is false.",
         "D": "Statement I is false but Statement II is true."
       },
@@ -1107,7 +822,7 @@
         "D": "C and D only"
       },
       "answer": "D",
-      "solution": "<p>Isothermal process $$\\Delta T=0$$</p> <p>$$\\Delta U=\\fracf2nR\\Delta T$$</p> <p>$$\\Delta U=0$$</p> <p>No change in internal energy</p> <p>$$\\Delta Q=\\Delta W$$ (1$$^st$$ law)</p> <p>$$\\Delta Q=+ve$$</p> <p>$$\\Delta W=+ve$$</p>",
+      "solution": "<p>Isothermal process $$\\Delta T=0$$</p> <p>$$\\Delta U=\\fracf\u2082nR\\Delta T$$</p> <p>$$\\Delta U=0$$</p> <p>No change in internal energy</p> <p>$$\\Delta Q=\\Delta W$$ (1$$^st$$ law)</p> <p>$$\\Delta Q=+ve$$</p> <p>$$\\Delta W=+ve$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1116,13 +831,13 @@
     {
       "question": "<p>The volume of an ideal gas $$(\\gamma=1.5)$$ is changed adiabatically from 5 litres to 4 litres. The ratio of initial pressure to final pressure is :</p>",
       "options": {
-        "A": "$$\\frac45$$",
-        "B": "$$\\frac85 \\sqrt5$$",
-        "C": "$$\\frac2\\sqrt5$$",
-        "D": "$$\\frac1625$$"
+        "A": "$$\\frac\u2084\u2085$$",
+        "B": "$$\\frac\u2088\u2085 \\sqrt\u2085$$",
+        "C": "$$\\frac\u2082\\sqrt\u2085$$",
+        "D": "$$\\frac\u2081\u2086\u2082\u2085$$"
       },
       "answer": "B",
-      "solution": "<p>To find the ratio of the initial pressure to the final pressure of an ideal gas undergoing an adiabatic process, we can use the adiabatic equation for an ideal gas, which relates pressure (P) and volume (V) as follows:</p> <p>$P_1V_1^\\gamma = P_2V_2^\\gamma$</p> <p>Here, $P_1$ and $V_1$ are the initial pressure and volume, respectively, $P_2$ and $V_2$ are the final pressure and volume, respectively, and $\\gamma$ is the heat capacity ratio of the gas.</p> <p>Given in the question, $\\gamma = 1.5$, $V_1 = 5$ litres and $V_2 = 4$ litres. We need to find the ratio $\\fracP_1P_2$.</p> <p>Rearranging the adiabatic equation for the ratio $\\fracP_1P_2$, we get:</p> <p>$P_1V_1^\\gamma = P_2V_2^\\gamma \\Rightarrow \\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma$</p> <p>Substituting the given values:</p> <p>$\\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma = \\left(\\frac45\\right)^1.5$</p> <p>To calculate the value:</p> <p>$\\fracP_1P_2 = \\left(\\frac45\\right)^1.5 = \\left(\\frac45\\right)^\\frac32$</p> <p>Simplifying further:</p> <p>$\\fracP_1P_2 = \\left(\\frac2^25\\right)^\\frac32 = \\left(\\frac2^35^\\frac32\\right) = \\frac85\\sqrt5$</p> <p>Therefore, the ratio of the initial pressure to the final pressure is $\\frac85\\sqrt5$, which corresponds to <strong>Option B</strong>.</p>",
+      "solution": "<p>To find the ratio of the initial pressure to the final pressure of an ideal gas undergoing an adiabatic process, we can use the adiabatic equation for an ideal gas, which relates pressure (P) and volume (V) as follows:</p> <p>$P_1V_1^\\gamma = P_2V_2^\\gamma$</p> <p>Here, $P_1$ and $V_1$ are the initial pressure and volume, respectively, $P_2$ and $V_2$ are the final pressure and volume, respectively, and $\\gamma$ is the heat capacity ratio of the gas.</p> <p>Given in the question, $\\gamma = 1.5$, $V_1 = 5$ litres and $V_2 = 4$ litres. We need to find the ratio $\\fracP_1P_2$.</p> <p>Rearranging the adiabatic equation for the ratio $\\fracP_1P_2$, we get:</p> <p>$P_1V_1^\\gamma = P_2V_2^\\gamma \\Rightarrow \\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma$</p> <p>Substituting the given values:</p> <p>$\\fracP_1P_2 = \\left(\\fracV_2V_1\\right)^\\gamma = \\left(\\frac\u2084\u2085\\right)^1.5$</p> <p>To calculate the value:</p> <p>$\\fracP_1P_2 = \\left(\\frac\u2084\u2085\\right)^1.5 = \\left(\\frac\u2084\u2085\\right)^\\frac\u2083\u2082$</p> <p>Simplifying further:</p> <p>$\\fracP_1P_2 = \\left(\\frac\u2082^25\\right)^\\frac\u2083\u2082 = \\left(\\frac\u2082^35^\\frac\u2083\u2082\\right) = \\frac\u2088\u2085\\sqrt\u2085$</p> <p>Therefore, the ratio of the initial pressure to the final pressure is $\\frac\u2088\u2085\\sqrt\u2085$, which corresponds to <strong>Option B</strong>.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1164,7 +879,7 @@
         "A": "[M] = [T<sup>$$-$$1</sup> C<sup>$$-$$2</sup> h]",
         "B": "[M] = [T<sup>$$-$$1</sup> C<sup>2</sup> h]",
         "C": "[M] = [T<sup>$$-$$1</sup> C<sup>$$-$$2</sup> h<sup>$$-$$1</sup>]",
-        "D": "[M] = [T C<sup>$$-$$2</sup> h]"
+        "D": "[M] = [TC<sup>$$-$$2</sup> h]"
       },
       "answer": "A",
       "solution": "Let, <br><br>M $$ \\propto $$ T<sup>x</sup> C<sup>y</sup> h<sup>z</sup> <br><br>$$\\therefore\\,\\,\\,$$ [M<sup>1</sup>L<sup>o</sup>T<sup>o</sup>] = [T<sup>1</sup>]<sup>x</sup> [L<sup>1</sup> T<sup>$$-$$1</sup>]<sup>y</sup> [M<sup>1</sup>L<sup>2</sup>T<sup>$$-$$1</sup>]<sup>z</sup> <br><br>[M<sup>1</sup>L<sup>o</sup> T<sup>o</sup>] = [M<sup>z</sup> L<sup>y + 2z</sup> T<sup>x$$-$$y$$-$$z</sup>] <br><br>By comparing both sides we get, <br><br>z = 1 <br><br>y + 2z = 0 <br><br>x $$-$$ y $$-$$ z = 0 <br><br>$$\\therefore\\,\\,\\,$$ y = $$-$$ 2z = $$-$$ 2 <br><br>x = y + z = $$-$$2 + 1 = $$-$$1 <br><br>$$\\therefore\\,\\,\\,$$ [M] = [M<sup>$$-$$1</sup> C<sup>$$-$$2</sup> h<sup>1</sup>]",

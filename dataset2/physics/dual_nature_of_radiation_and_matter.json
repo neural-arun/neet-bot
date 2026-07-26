@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Dual Nature of Radiation and Matter",
-  "total_questions": 140,
+  "total_questions": 85,
   "questions": [
     {
       "question": "Refer to the Photoelectric Current vs Collector Voltage graph below. Why does the stopping potential V\u2080 remain identical for both radiation intensities I\u2081 and I\u2082?",
@@ -9,58 +9,13 @@
       "options": {
         "A": "Stopping potential depends solely on light frequency (\u03bd), not on light intensity",
         "B": "Stopping potential depends only on intensity, not frequency",
-        "C": "Current becomes zero at maximum voltage",
+        "C": "urrent becomes zero at maximum voltage",
         "D": "Electrons are emitted with zero kinetic energy"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Modern Physics:** Einstein's photoelectric equation states $e V_0 = h\\nu - \\Phi$. Stopping potential $V_0$ depends strictly on the frequency $\\nu$ of incident light and work function $\\Phi$, independent of light intensity.",
       "exam": "NEET CBT Modern Physics Graph PYQ",
       "year": 2024,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Ultraviolet radiation of 6.2 eV falls on an aluminium surface (work function 4.2 eV). The kinetic energy of the faster electron emitted is approximately",
-      "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 - 15 J",
-        "C": "2 \u00d7 10 - 17 J",
-        "D": "2 \u00d7 10 - 19 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** KE of emitted electron is E K = h \\u03bd - W = 6.2 e V - 4.2 e V = 2.0 e V = 2 \u00d7 1.6 \u00d7 10 - 19 J = 3.2 \u00d7 10 - 19 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the force exerted by a photon of intensity 1.4 kW m - 2 if it falls on a perfect absorber of radius 2 m?",
-      "options": {
-        "A": "A",
-        "B": "35 \u00d7 1 0 - 4 N B 1 0 8 N",
-        "C": "35 \u00d7 1 0 4 N",
-        "D": "8 \u00d7 1 0 - 8 N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** F e x = P c = I A c I = 1.4 \u00d7 1 0 3 W m - 2 A = 4 \u03c0 r 2 = 4 \u00d7 3.14 \u00d7 2 2 m 2 F e x = 2.35 \u00d7 1 0 - 4 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What will be the number of photons emitted per second by a 10 W sodium vapour lamp assuming that 90 % of the consumed energy is converted into light? Wavelength of sodium light is 590 nm , h = 6.63 \u00d7 10 - 34 Js",
-      "options": {
-        "A": "A",
-        "B": "67 \u00d7 10 18",
-        "C": "67 \u00d7 10 20",
-        "D": "67 \u00d7 10 19"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Energy of photon E = h c \u03bb = 6.63 \u00d7 10 - 34 \u00d7 3 \u00d7 10 8 590 \u00d7 10 - 9 = 6.63 \u00d7 3 59 \u00d7 10 - 18 Light energy produced per second = 90 100 \u00d7 10 = 9 W \u2234 Number of photons emitted per sec = 9 \u00d7 59 6.63 \u00d7 3 \u00d7 10 - 18 = 2.67 \u00d7 10 19 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
@@ -73,7 +28,7 @@
         "D": "Quadrupled"
       },
       "answer": "A",
-      "solution": "## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f \\u2265 f\\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\\u2081 = 1.5f\\u2080 - Since 1.5f\\u2080 > f\\u2080 \\u2192 **Photoelectric effect occurs** \\u2713 - Photoelectrons are emitted **New Situation:** - Frequency: f\\u2082 = f\\u2081/2 = (1.5f\\u2080)/2 = **0.75f\\u2080** - Since 0.75f\\u2080 < f\\u2080 \\u2192 **Photoelectric effect DOES NOT occur** \\u2717 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** $$KE_max = hf - hf_0 = h(f - f_0)$$ - If f < f\\u2080 \\u2192 **No emission** (current = 0) - If f \\u2265 f\\u2080 \\u2192 Emission occurs (current \\u221d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
+      "solution": "## Correct Answer: **(C) Zero** --- ## Step-by-Step Explanation ### Understanding Photoelectric Effect The photoelectric effect has two strict requirements: 1. **Photon frequency must exceed threshold frequency** (f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080) 2. **Increasing intensity increases current**, but only if emission occurs ### Analyzing the Given Conditions **Initial Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2081 = 1.5f\\u\u2082\u2080\u2088\u2080 - Since 1.5f\\u\u2082\u2080\u2088\u2080 > f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect occurs** \\u\u2082\u2087\u2081\u2083 - Photoelectrons are emitted **New Situation:** - Frequency: f\\u\u2082\u2080\u2088\u2082 = f\\u\u2082\u2080\u2088\u2081/2 = (1.5f\\u\u2082\u2080\u2088\u2080)/2 = **0.75f\\u\u2082\u2080\u2088\u2080** - Since 0.75f\\u\u2082\u2080\u2088\u2080 < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **Photoelectric effect DOES NOT occur** \\u\u2082\u2087\u2081\u2087 - No photoelectrons are emitted, regardless of intensity ### The Key Insight **Intensity only increases the NUMBER of photons**, not their individual energy. If photons lack sufficient energy (frequency < f\\u\u2082\u2080\u2088\u2080), even doubling the intensity won't cause any emission. --- ## Why Other Options Are Wrong | Option | Reasoning | |--------|-----------| | **(A) Doubled** | Would need the emission to occur first | | **(B) Halved** | Still assumes some current flows | | **(D) Quadrupled** | Current must be zero before any multiplication | --- ## Key Formula to Remember **Einstein's Photoelectric Equation:** $$KE_max = hf - hf_0 = h(f - f_0)$$ - If f < f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 **No emission** (current = 0) - If f \\u\u2082\u2082\u2086\u2085 f\\u\u2082\u2080\u2088\u2080 \\u\u2082\u2081\u2089\u2082 Emission occurs (current \\u\u2082\u2082\u2081d intensity) **For NEET:** Always check the frequency condition FIRST before analyzing current changes!",
       "exam": "NEET 2024",
       "year": 2024,
       "subject": "Physics",
@@ -82,133 +37,13 @@
     {
       "question": "Light of wavelength 500 nm is incident on a metal with work function 2 . 28 eV . The de Broglie wavelength of the emitted electron is:",
       "options": {
-        "A": "A <",
+        "A": "<",
         "B": "8 \u00c3\u0097 10 - 9 \u00c2 m B \u00e2\u0089\u00a5",
         "C": "8 \u00c3\u0097 10 - 9 \u00c2 m C \u00e2\u0089\u00a4",
         "D": "8 \u00c3\u0097 10 - 12 \u00c2 m D <"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** K E m a x = h c \u03bb - \u03a8 \u21d2 K E m a x = 1240 500 - 2.28 \u21d2 K E m a x = 2.48 - 2.28 = 0.2 e V \u03bb m i n = h 2 m KE max = 20 3 \u00d7 10 - 34 2 \u00d7 9 \u00d7 10 - 31 \u00d7 0.2 \u00d7 1.6 \u00d7 10 - 19 \u03bb m i n = 25 9 \u00d7 10 - 9 = 2.80 \u00d7 10 - 9 m So, \u03bb \u2265 2.8 \u00d7 10 - 9 m . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which of the following options represents the correct work function of the material from which the emitter is made, given that light of wavelength 488 nm is produced by an argon laser and, when incident on the emitter, results in a stopping (cut-off) potential of 0.38 V?",
-      "options": {
-        "A": "A",
-        "B": "15 eV",
-        "C": "38 eV",
-        "D": "54 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 2.16 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which voltage is required for the cutoff of photoelectric emission when light with a frequency of 8.2 \u00d7 10 14 Hz is incident on a metal with a threshold frequency of 3.3 \u00d7 10 14 Hz?",
-      "options": {
-        "A": "A",
-        "B": "0 V",
-        "C": "0 V",
-        "D": "0 V"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 2.0 V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Number of photons emitted per second by a radio transmitter that operates at a frequency of 880 kHz and a power of 10 kW is",
-      "options": {
-        "A": "A",
-        "B": "72 \u00d7 10 31",
-        "C": "327 \u00d7 10 25",
-        "D": "327 \u00d7 10 37"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Number of photons emitted per sec, n = P o w e r E n e r g y o f p h o t o n = P h v = 10000 6.6 \u00d7 10 - 34 \u00d7 880 \u00d7 10 3 = 1.72 \u00d7 10 31 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The wavelength of a 1 keV photon is 1.24 \u00d7 10 - 9 m. What is the frequency of 1 MeV photon?",
-      "options": {
-        "A": "A",
-        "B": "5 \u00d7 10 15 Hz",
-        "C": "5 \u00d7 10 20 Hz",
-        "D": "24 \u00d7 10 15 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** h c \u03bb = 1000 eV h v = 10 6 e V \u21d2 \u03bb \u03bd c = 1000 eV \u21d2 v = 3 \u00d7 10 8 \u00d7 1000 1 . 2 \u00d7 10 - 9 = 2 . 5 \u00d7 10 20 Hz **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the de Broglie wavelength of a ball of mass 0.060 kg moving at a speed of 1.0 m/s?",
-      "options": {
-        "A": "A",
-        "B": "1 \u00d7 10 \u201332 m",
-        "C": "2 \u00d7 10 \u201332 m",
-        "D": "3 \u00d7 10 \u201332 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.1 \u00d7 10 \u201332 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the energy of each photon in the light beam produced by a helium-neon laser emitting monochromatic light with a wavelength of 632.8 nm and a power of 9.42 mW?",
-      "options": {
-        "A": "A",
-        "B": "58 \u00d7 10 \u201319 J",
-        "C": "36 \u00d7 10 \u201319 J",
-        "D": "14 \u00d7 10 \u201319 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 3.14 \u00d7 10 \u201319 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the maximum kinetic energy of the emitted electrons when light of frequency 6 \u00d7 10 14 Hz is incident on the caesium metal surface with a work function of 2.14 eV?",
-      "options": {
-        "A": "A",
-        "B": "34 eV",
-        "C": "80 eV",
-        "D": "48 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.34 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The surface of a metal is illuminated with a light of wavelength 400 n m . The maximum kinetic energy of the ejected photoelectrons was found to be 1.68 e V . The work function of the metal is h c = 1240 e V n m",
-      "options": {
-        "A": "A",
-        "B": "09 e V",
-        "C": "41 e V",
-        "D": "51 e V"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u2235 h c \u03bb = 1 2 m v 2 + \u03d5 \u21d2 \u03d5 = h c \u03bb \u2013 1 2 m v 2 \u03d5 = 1240 400 \u2013 1.68 = 1.41 e V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** KE m a x = h c \u03bb - \u03a8 \u21d2 KE m a x = 1240500 - 2.28 \u21d2 KE m a x = 2.48 - 2.28 = 0.2 e V \u03bb m i n = h 2 m KE max = 203 \u00d7 10 - 342 \u00d7 9 \u00d7 10 - 31 \u00d7 0.2 \u00d7 1.6 \u00d7 10 - 19 \u03bb m i n = 259 \u00d7 10 - 9 = 2.80 \u00d7 10 - 9 m So, \u03bb \u2265 2.8 \u00d7 10 - 9 m . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -217,7 +52,7 @@
     {
       "question": "The value of Planck's constant is:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "63 \\times 10^-34 Js^-1$",
         "C": "63 \\times 10^-34 ~m^2 ~s^-1$",
         "D": "63 \\times 10^-34 ~kg ~m^2$"
@@ -230,195 +65,15 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A ratio transmitter operates at a frequency 880 kHz and a power of 10 kW . The number of photons emitted per second is",
-      "options": {
-        "A": "A",
-        "B": "72 \u00d7 10 31",
-        "C": "327 \u00d7 10 25",
-        "D": "327 \u00d7 10 37"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Number of photons emitted per second, n = P o w e r E n e r g y o f p h o t o n = P h v = 10000 6.6 \u00d7 10 - 34 \u00d7 880 \u00d7 10 3 = 1.72 \u00d7 10 31 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
       "question": "The de Broglie wavelength associated with an electron, accelerated by a potential difference of $81 ~V$ is given by:",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "36 ~nm$",
         "C": "136 ~nm$ C $1",
         "D": "6 ~nm$ D $136 ~nm$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know, for an electron De Broglie wavelength, $\\lambda=\\frac12.27\\sqrtv \u00c3 $ $\\beginaligned & \\lambda=\\frac12.27\\sqrt81=\\frac12.279 \u00c3 \\\\ & \\lambda=1.36 \u00c3 \\text or 0.136 ~nm\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The de-Broglie wavelength of an electron accelerated through a potential difference of 100 V is",
-      "options": {
-        "A": "A",
-        "B": "27 \u212b",
-        "C": "227 \u212b",
-        "D": "1227 \u212b"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** De-Broglie wavelength of an electron is given by \\u03bb = h m v = h 2 m e V - 12.27 V \\u212b ( h = Planck's constant) Where, m = mass of electron, e = electronic charge and V = potential difference with which electron is accelerated. \\u03bb = 12.27 100 \\u212b = 12.27 10 \\u212b = 1.227 \\u212b **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which of the following values represents the stopping potential when light of frequency 6 \u00d7 10 14 Hz is incident on caesium metal with a work function of 2.14 eV?",
-      "options": {
-        "A": "A",
-        "B": "48 eV",
-        "C": "52 eV",
-        "D": "34 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 0.34 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the energy, in electronvolts (eV), of a photon in different parts of the electromagnetic spectrum when using the formula E = hv?",
-      "options": {
-        "A": "A",
-        "B": "24 \u00d7 10 -6 eV",
-        "C": "24 \u00d7 10 3 eV",
-        "D": "24 \u00d7 10 9 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.24 \u00d7 10 -6 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which of the following is the correct de Broglie wavelength associated with an electron moving with a speed of 5.4\u00d710 6 m/s?",
-      "options": {
-        "A": "A",
-        "B": "135 nm",
-        "C": "27 nm",
-        "D": "0675 nm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.135 nm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "A parallel beam of light is incident normally on a plane surface absorbing 40 % of the light and reflecting the rest. If the incident beam carries 60 W of power, the force exerted by it on the surface is",
-      "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 - 8 N",
-        "C": "2 \u00d7 10 - 7 N",
-        "D": "12 \u00d7 10 - 7 N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Momentum of incident light per second p 1 = E c = 60 3 \u00d7 10 8 = 2 \u00d7 10 - 7 Momentum of reflected light per second p 2 = 60 100 \u00d7 E c = 60 3 \u00d7 10 8 = 1 .2 \u00d7 10 - 7 Force on the surface = change in momentum per second = p 2 - - p 1 = p 2 + p 1 = 2 + 1 .2 \u00d7 10 - 7 = 3 .2 \u00d7 10 - 7 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "A hydrogen atom moving at a speed v absorbs a photon of wavelength 122 nm and stops. The value of v is -",
-      "options": {
-        "A": "A",
-        "B": "75 \u00c2 m / s",
-        "C": "25 m / s",
-        "D": "85 \u00c2 m / s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Linear momentum of photon and electron are equal and opposite p = m = h \u03bb ; v = h m \u03bb = 6.62 \u00d7 1 0 - 34 1.67 \u00d7 1 0 - 27 \u00d7 122 \u00d7 1 0 - 19 v = 3.25 m / s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "In an experiment on the photoelectric effect, the slope of the cut-off voltage versus frequency of incident light is found to be 4 . 12 x 10 - 15 V s . The value of Planck's constant is",
-      "options": {
-        "A": "A",
-        "B": "592 x 10 -34 J s",
-        "C": "592 x 10 -31 J s",
-        "D": "592 x 10 -34 J s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, slope of graph tan \u03b8 = 4.12 x 10 -15 V - s and charge on electron e = 1.6 x 10 -19 C For slope of graph tan \u03b8 = V v We know that hv = eV V v = h e \u2234 h e = 4 . 1 2 \u00d7 1 0 - 1 5 h = 1.6 x 10 -19 x 4.12 x 10 -15 = 6.592 x 10 -34 J - s. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the threshold frequency for caesium if its work function is 2.14 eV?",
-      "options": {
-        "A": "A",
-        "B": "16 \u00d7 10 15 Hz",
-        "C": "16 \u00d7 10 14 Hz",
-        "D": "16 \u00d7 10 16 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 5.16 \u00d7 10 15 Hz **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the threshold frequency for photoemission of electrons when light of frequency 7.21 \u00d7 10 14 Hz is incident on a metal surface, resulting in electrons being ejected with a maximum speed of 6.0 \u00d7 10 5 m/s?",
-      "options": {
-        "A": "A",
-        "B": "21 \u00d7 10 14 Hz",
-        "C": "0 \u00d7 10 5 Hz",
-        "D": "21 \u00d7 10 9 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 4.73 \u00d7 10 14 Hz **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Ultraviolet light of wavelength 300 nm and intensity 1 .0 W m - 2 falls on the surface on photoelectric metal. If one percent of incident photons produce photoelectrons, then the number of photoelectrons emitted from an area of 1 .0 cm 2 of the surface is nearly",
-      "options": {
-        "A": "A",
-        "B": "13 \u00c3\u0097 10 11 \u00c2 s - 1",
-        "C": "5 \u00c3\u0097 10 12 s - 1",
-        "D": "02 \u00c3\u0097 10 12 \u00c2 s - 1 D None of these"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Energy of each photon = h c \u03bb = 6.6 \u00d7 10 - 34 \u00d7 3 \u00d7 10 8 300 \u00d7 10 - 9 = 6 .6 \u00d7 10 - 19 J Power of source is given by p = intensity \u00d7 area = 1 .0 \u00d7 1 .0 \u00d7 10 - 4 W = 10 - 4 W No. of photons per second = p e = 10 - 4 6.6 \u00d7 10 - 19 Now the number of electrons emitted = 1 100 \u00d7 10 - 4 6.6 \u00d7 10 - 19 = 1.5 \u00d7 10 12 s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "If the uncertainty in the position of an electron is 10 - 10 m , then what be the value of uncertainty in its momentum in kg m s - 1 ? h = 6.62 \u00c3\u0097 10 - 34 J s",
-      "options": {
-        "A": "A",
-        "B": "05 \u00c3\u0097 10 - 24",
-        "C": "01 \u00c3\u0097 10 - 24",
-        "D": "09 \u00d7 10 - 24"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 x \u0394 P \u2265 h 2 \u03c0 \u21d2 \u0394 P \u2265 6.62 \u00d7 10 - 34 2 \u00d7 3.14 \u00d7 10 - 10 \u0394 P \u2265 1.05 \u00d7 10 - 24 = 1.0536 \u00d7 10 - 24 kg m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** We know, for an electron De Broglie wavelength, $\\lambda=\\frac\u2081\u2082.27\\sqrtv \u00c3 $ $\\beginaligned & \\lambda=\\frac\u2081\u2082.27\\sqrt\u2088\u2081=\\frac\u2081\u2082.279 \u00c3 \\\\ & \\lambda=1.36 \u00c3 \\text or 0.136 ~nm\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -433,277 +88,52 @@
         "D": "c*(E/2m)^0.5"
       },
       "answer": "A",
-      "solution": "# Solution: de Broglie Wavelength Ratio ## **Correct Answer: (A) (1/c)\u00b7\u221a(E/2m)** --- ## Step-by-Step Solution ### **De Broglie Wavelength Formula** \u03bb = h/p (where p is momentum) ### **For the Electron (non-relativistic):** From kinetic energy: $$E = \\frac12mv_e^2$$ Momentum: $$p_e = mv_e = m\\sqrt\\frac2Em = \\sqrt2mE$$ de Broglie wavelength: $$\\lambda_e = \\frachp_e = \\frach\\sqrt2mE$$ ### **For the Photon:** Energy-momentum relation: $$E = pc \\quad \\Rightarrow \\quad p_p = \\fracEc$$ de Broglie wavelength: $$\\lambda_p = \\frachp_p = \\frachcE$$ ### **Finding the Ratio:** $$\\frac\\lambda_e\\lambda_p = \\frach/\\sqrt2mEhc/E = \\frach\\sqrt2mE \\times \\fracEhc$$ $$= \\fracEc\\sqrt2mE = \\frac\\sqrtE^2c\\sqrt2mE$$ $$= \\frac1c\\sqrt\\fracE2m$$ --- ## Key Concepts to Remember | Particle | Energy | Momentum | de Broglie \u03bb | |----------|--------|----------|------------| | **Electron** | E = p\u00b2/2m | p = \u221a(2mE) | h/\u221a(2mE) | | **Photon** | E = pc | p = E/c | hc/E | --- ## Why Other Options Are Wrong - **(B)** Extra factor of c and wrong direction - **(C)** Inverted fraction (2m/E instead of E/2m) - **(D)** Missing reciprocal of c; has c instead of 1/c The key insight: **Photons have larger momentum per unit energy** (p = E/c) compared to electrons (p = \u221a2mE), so electrons have longer de Broglie wavelengths!",
+      "solution": "# Solution: de Broglie Wavelength Ratio ## **Correct Answer: (A) (1/c)\u00b7\u221a(E/2m)** --- ## Step-by-Step Solution ### **De Broglie Wavelength Formula** \u03bb = h/p (where p is momentum) ### **For the Electron (non-relativistic):** From kinetic energy: $$E = \\frac\u2081\u2082mv_e^2$$ Momentum: $$p_e = mv_e = m\\sqrt\\frac\u2082Em = \\sqrt\u2082mE$$ de Broglie wavelength: $$\\lambda_e = \\frachp_e = \\frach\\sqrt\u2082mE$$ ### **For the Photon:** Energy-momentum relation: $$E = pc \\quad \\Rightarrow \\quad p_p = \\fracEc$$ de Broglie wavelength: $$\\lambda_p = \\frachp_p = \\frachcE$$ ### **Finding the Ratio:** $$\\frac\\lambda_e\\lambda_p = \\frach/\\sqrt\u2082mEhc/E = \\frach\\sqrt\u2082mE \\times \\fracEhc$$ $$= \\fracEc\\sqrt\u2082mE = \\frac\\sqrtE^2c\\sqrt\u2082mE$$ $$= \\frac\u2081c\\sqrt\\fracE\u2082m$$ --- ## Key Concepts to Remember | Particle | Energy | Momentum | de Broglie \u03bb | |----------|--------|----------|------------| | **Electron** | E = p\u00b2/2m | p = \u221a(2mE) | h/\u221a(2mE) | | **Photon** | E = pc | p = E/c | hc/E | --- ## Why Other Options Are Wrong - **(B)** Extra factor of c and wrong direction - **(C)** Inverted fraction (2m/E instead of E/2m) - **(D)** Missing reciprocal of c; has c instead of 1/c The key insight: **Photons have larger momentum per unit energy** (p = E/c) compared to electrons (p = \u221a2mE), so electrons have longer de Broglie wavelengths!",
       "exam": "NEET 2018",
       "year": 2018,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "A source $S_1$ is producing, $10^15$ photons/s of wavelength $5000 \u00c3 $. Another source $S_2$ is producing $1.02 \\times 10^15$ photons per second of wavelength $5100 \u00c3 $. Then, (power of $\\left.S_2\\right) /\\left(\\right.$ power of $S_1$ ) is equal to",
-      "options": {
-        "A": "A",
-        "B": "00",
-        "C": "02",
-        "D": "04"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Number of photons emitted per second $$ \\beginarraycc \\quad n=\\fracP\\left(\\frachc\\lambda\\right) \\\\ \\therefore \\quad P=\\fracnhc\\lambda \\\\ \\Rightarrow \\fracP_2P_1=\\fracn_2 \\lambda_1n_1 \\lambda_2=\\frac1.02 \\times 10^15 \\times 500010^15 \\times 5100=1 \\endarray $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the momentum of a photon having frequency 1.5 \u00c3\u0097 10 13 H z ?",
-      "options": {
-        "A": "A",
-        "B": "3 \u00d7 10 - 29 k g m s - 1",
-        "C": "3 \u00d7 10 - 34 k g m s - 1",
-        "D": "6 \u00d7 10 - 34 k g m s - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** p = h \u03bd c = 6.63 \u00d7 10 \u2212 34 \u00d7 1.5 \u00d7 10 13 3 \u00d7 10 8 = 3.3 \u00d7 10 \u2212 29 kg m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the maximum frequency of X-rays produced by 30 kV electrons?",
-      "options": {
-        "A": "A",
-        "B": "24 \u00d7 10 18 Hz",
-        "C": "32 \u00d7 10 18 Hz",
-        "D": "15 \u00d7 10 18 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 7.24 \u00d7 10 18 Hz **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which of the following is the correct de Broglie wavelength for a bullet with a mass of 0.040 kg traveling at a speed of 1.0 km/s?",
-      "options": {
-        "A": "A",
-        "B": "7 \u00d7 10 \u201335 m",
-        "C": "0 \u00d7 10 \u201335 m",
-        "D": "5 \u00d7 10 \u201335 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.7 \u00d7 10 \u201335 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
       "question": "The de-Broglie wavelength of neutrons in thermal equilibrium at temperature $T$ is:",
       "options": {
-        "A": "A $\\frac",
+        "A": "$\\frac",
         "B": "08\\sqrtT \u00c3 $ B $\\frac",
         "C": "308\\sqrtT \u00c3 $ C $\\frac",
-        "D": "0308\\sqrtT \u00c3 $ D $\\frac3"
+        "D": "0308\\sqrtT \u00c3 $ D $\\frac\u2083"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Using de-Broglie wavelength $$ \\beginaligned \\lambda & =\\frach\\sqrt2 m K_B T \\\\ \\lambda & =\\frac6.63 \\times 10^-34\\sqrt2 \\times 1.67 \\times 10^-27 \\times 1.38 \\times 10^-23 \\times T \\\\ & =\\frac3.08 \\times 10^-34 \\times 10^25\\sqrtT m=\\frac30.8\\sqrtT \u00c3 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Using de-Broglie wavelength $$ \\beginaligned \\lambda & =\\frach\\sqrt\u2082 m K_B T \\\\ \\lambda & =\\frac\u2086.63 \\times 10^-34\\sqrt\u2082 \\times 1.67 \\times 10^-27 \\times 1.38 \\times 10^-23 \\times T \\\\ & =\\frac\u2083.08 \\times 10^-34 \\times 10^25\\sqrtT m=\\frac\u2083\u2080.8\\sqrtT \u00c3 \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "[NEET 2018 | Physics] In a photoelectric experiment the stopping potential is V\\u2080 when incident light has frequency \\u03bd. If frequency is changed to 2\\u03bd, the stopping potential becomes:",
+      "question": "[NEET 2018 | Physics] In a photoelectric experiment the stopping potential is V\\u\u2082\u2080\u2088\u2080 when incident light has frequency \\u\u2080\u2083bd. If frequency is changed to 2\\u\u2080\u2083bd, the stopping potential becomes:",
       "options": {
-        "A": "2V\\u2080",
-        "B": "V\\u2080 + h\\u03bd/e",
-        "C": "more than 2V\\u2080 but exact value depends on metal",
-        "D": "V\\u2080 + h\\u03bd\\u2080/e"
+        "A": "2V\\u\u2082\u2080\u2088\u2080",
+        "B": "V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd/e",
+        "C": "more than 2V\\u\u2082\u2080\u2088\u2080 but exact value depends on metal",
+        "D": "V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd\\u\u2082\u2080\u2088\u2080/e"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) V\\u2080 + h\\u03bd/e** ## Step-by-Step Solution **Step 1: Apply Einstein's Photoelectric Equation** For any frequency, the equation is: $$h\\u03bd = \\u03c6 + KE_max$$ where \\u03c6 is the work function of the metal. **Step 2: Relate Stopping Potential to Kinetic Energy** The stopping potential V\\u2080 is defined such that: $$eV\\u2080 = KE_max$$ **Step 3: Write equations for both frequencies** For frequency \\u03bd: $$h\\u03bd = \\u03c6 + eV\\u2080 \\quad ...(1)$$ For frequency 2\\u03bd: $$h(2\\u03bd) = \\u03c6 + eV\\u2080' \\quad ...(2)$$ **Step 4: Eliminate the work function** From equation (1): $\\u03c6 = h\\u03bd - eV\\u2080$ Substitute into equation (2): $$2h\\u03bd = (h\\u03bd - eV\\u2080) + eV\\u2080'$$ $$2h\\u03bd - h\\u03bd = eV\\u2080' - eV\\u2080$$ $$h\\u03bd = e(V\\u2080' - V\\u2080)$$ $$V\\u2080' = V\\u2080 + \\frach\\u03bde$$ ## Key Concept to Remember **The stopping potential is directly proportional to frequency:** - When frequency increases by \\u0394\\u03bd, stopping potential increases by **h\\u0394\\u03bd/e** - This is independent of the metal used (work function cancels out) ## Why Other Options are Wrong - **(A) 2V\\u2080**: Incorrect because stopping potential doesn't scale linearly with frequency change in this simple way - **(C)**: Work function DOES cancel out; the answer is exact, not metal-dependent - **(D)**: Uses \\u03bd\\u2080 instead of \\u03bd; notation error and conceptually wrong",
+      "solution": "# Answer: **(B) V\\u\u2082\u2080\u2088\u2080 + h\\u\u2080\u2083bd/e** ## Step-by-Step Solution **Step 1: Apply Einstein's Photoelectric Equation** For any frequency, the equation is: $$h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + KE_max$$ where \\u\u2080\u2083c\u2086 is the work function of the metal. **Step 2: Relate Stopping Potential to Kinetic Energy** The stopping potential V\\u\u2082\u2080\u2088\u2080 is defined such that: $$eV\\u\u2082\u2080\u2088\u2080 = KE_max$$ **Step 3: Write equations for both frequencies** For frequency \\u\u2080\u2083bd: $$h\\u\u2080\u2083bd = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080 \\quad ...(1)$$ For frequency 2\\u\u2080\u2083bd: $$h(2\\u\u2080\u2083bd) = \\u\u2080\u2083c\u2086 + eV\\u\u2082\u2080\u2088\u2080' \\quad ...(2)$$ **Step 4: Eliminate the work function** From equation (1): $\\u\u2080\u2083c\u2086 = h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080$ Substitute into equation (2): $$2h\\u\u2080\u2083bd = (h\\u\u2080\u2083bd - eV\\u\u2082\u2080\u2088\u2080) + eV\\u\u2082\u2080\u2088\u2080'$$ $$2h\\u\u2080\u2083bd - h\\u\u2080\u2083bd = eV\\u\u2082\u2080\u2088\u2080' - eV\\u\u2082\u2080\u2088\u2080$$ $$h\\u\u2080\u2083bd = e(V\\u\u2082\u2080\u2088\u2080' - V\\u\u2082\u2080\u2088\u2080)$$ $$V\\u\u2082\u2080\u2088\u2080' = V\\u\u2082\u2080\u2088\u2080 + \\frach\\u\u2080\u2083bde$$ ## Key Concept to Remember **The stopping potential is directly proportional to frequency:** - When frequency increases by \\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd, stopping potential increases by **h\\u\u2080\u2083\u2089\u2084\\u\u2080\u2083bd/e** - This is independent of the metal used (work function cancels out) ## Why Other Options are Wrong - **(A) 2V\\u\u2082\u2080\u2088\u2080**: Incorrect because stopping potential doesn't scale linearly with frequency change in this simple way - **(C)**: Work function DOES cancel out; the answer is exact, not metal-dependent - **(D)**: Uses \\u\u2080\u2083bd\\u\u2082\u2080\u2088\u2080 instead of \\u\u2080\u2083bd; notation error and conceptually wrong",
       "exam": "NEET 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The wavelength of de-Broglie wave is 2 \u03bc m then its momentum is ( h = 6.63 \u00d7 10 - 34 J s )",
+      "question": "K max ( in \u00e2\u0080\u0089 e V ) = 3 , and frequency of light (in H z ) = 1 \u00c3\u0097 1015 for a metal used as a cathode in a photoelectric experiment. The threshold frequency of light for the photoelectric emission from the metal is -",
       "options": {
-        "A": "A",
-        "B": "315 \u00d7 10 - 28 k g m s - 1",
-        "C": "66 \u00d7 10 - 28 k g m s - 1",
-        "D": "97 \u00d7 10 - 28 k g m s - 1"
+        "A": "1 \u00d7 1014 Hz",
+        "B": "5 \u00d7 1014 Hz",
+        "C": "1 \u00d7 1014 Hz",
+        "D": "7 \u00d7 1014 Hz"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** According to de-Broglie hypothesis \u03bb = h p Where, h is Planck's constant. \u21d2 p = h \u03bb Given, h = 6.63 \u00d7 10 - 34 J-s \u03bb = 2 \u03bc m = 2 \u00d7 10 - 6 m \u2234 p = 6.63 \u00d7 10 - 34 2 \u00d7 10 - 6 = 3.315 \u00d7 10 - 28 kg m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Consider an electron in front of metallic surface at a distance d (treated as an infinite plane surface). Assume the force of attraction by the plate is given as What is the work done in taking a charge to an infinite distance from a plate, given that the distance (d) is 0.1 nm? Calculate the work done in electron volts.",
-      "options": {
-        "A": "A",
-        "B": "2 eV",
-        "C": "6 eV",
-        "D": "6 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 3.6 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The electric field associated with a light wave is E = E 0 sin \u00e2\u0081\u00a1 1 .57 \u00c3\u0097 10 7 x - ct where x is in metre and t is in second. If this light is used to produce photoelectric emission from the surface of a metal of work function 1.9 eV , then the stopping potential will be",
-      "options": {
-        "A": "A",
-        "B": "2 V",
-        "C": "5 \u00c2 V",
-        "D": "75 \u00c2 V"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** From E = E 0 sin \u2061 1 .57 \u00d7 10 7 x - ct frequency of incident wave is, v = 1 .57 \u00d7 10 7 c 2 \u03c0 For stopping potential, eV s = hv - \u03c6 V s = 6 .626 \u00d7 10 - 34 1 .57 \u00d7 10 7 3 \u00d7 10 8 2 \u03c0 1 .6 \u00d7 10 - 19 - 1 .9 V s = 1 .2 V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the de Broglie wavelength associated with a ball of mass 150 g traveling at 30.0 m/s?",
-      "options": {
-        "A": "A",
-        "B": "47 x 10 -34 m",
-        "C": "94 x 10 -34 m",
-        "D": "23 x 10 -34 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.47 x 10 -34 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the probability that a photoelectron is produced when a photon strikes a sodium atom, given a thin target of sodium (10\u20132m square, 10\u20133m thickness) that produces a photocurrent of 100\u00b5A when exposed to light of intensity 100W/m2 (\u03bb = 660nm)? [Take density of Na = 0.97 kg/m3]",
-      "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 \u201320",
-        "C": "5 \u00d7 10 \u201320 C 8 \u00d7 10 \u201321",
-        "D": "5 \u00d7 10 \u201321"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 8 \u00d7 10 \u201321 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "When the energy of the incident radiation is increased by 20 % , the kinetic energy of the photoelectrons emitted from a metal surface increased from emitted 0.5 e V to 0.8 e V . The work function of the metal is:",
-      "options": {
-        "A": "A",
-        "B": "65 \u00c2 e V",
-        "C": "0 e V",
-        "D": "3 \u00c2 e V"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that, K E m a x = h v - \\u03c8 Let initial frequency of the light be \\u03bd and final frequency be \\u03bd ' . According to question, final energy of light is 20 % more than initial energy. \\u2234 \\u03bd ' = 1 . 2 \\u03bd In the 1st case, 0.5 e V = h v - \\u03c8 ...(i) In the 2nd case, 0.8 e V = 1.2 h v - \\u03c8 ...(ii) Solving (i) and (ii) simultaneously, we get, \\u03c8 = 1 e V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "A 60 W bulb is placed at a distance of 4 m from you. The bulb is emitting light of wavelength 600 nm uniformly in all directions. In 0 . 1 s , how many photons will enter your eye, if the pupil of the eye has a diameter of 2 mm ? [Take h c = 1240 eV nm ]",
-      "options": {
-        "A": "A",
-        "B": "84 x 10 12",
-        "C": "84 x 10 11",
-        "D": "37 x 10 11"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The intensity of light at the location of your eye is I = P 4 \u03c0 r 2 = 6 0 4 \u03c0 \u00d7 4 2 W m - 2 The energy entering into your eye per second is P 1 = I \u00d7 \u03c0 d 2 4 where d is the diameter of pupil P 1 = 6 0 4 \u03c0 \u00d7 4 2 \u00d7 \u03c0 \u00d7 2 \u00d7 1 0 - 3 2 4 = 9.375 \u00d7 1 0 - 7 Js - 1 Let n be the number of photons entering into the eye per second, then P 1 = n \u00d7 hc \u03bb 9.375 \u00d7 1 0 - 7 = n \u00d7 1 2 4 0 \u00d7 1.6 \u00d7 1 0 - 1 9 6 0 0 n = 2.84 \u00d7 1 0 1 2 photon s - 1 So, the number of photons entering the eye in 0.1 s = 0.1 n = 2.84 x 10 11 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the energy of a photon in a monochromatic light beam produced by a laser with a frequency of 6.0 \u00d7 10 14 Hz and an emitted power of 2.0 \u00d7 10 -3 W?",
-      "options": {
-        "A": "A",
-        "B": "98 \u00d7 10 -19 J",
-        "C": "67 \u00d7 10 -19 J",
-        "D": "54 \u00d7 10 -19 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 3.98 \u00d7 10 -19 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Which of the following options correctly represents the work function of the metal in electronvolts (eV), given that the maximum energy of the electron doubles when light of wavelength 400 nm is used, initially with light of wavelength 600 nm?",
-      "options": {
-        "A": "A",
-        "B": "51 eV",
-        "C": "02 eV",
-        "D": "50 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1.02 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "K max ( in \u00e2\u0080\u0089 e V ) = 3 , and frequency of light (in H z ) = 1 \u00c3\u0097 10 15 for a metal used as a cathode in a photoelectric experiment. The threshold frequency of light for the photoelectric emission from the metal is -",
-      "options": {
-        "A": "A 1 \u00d7 10 14 Hz",
-        "B": "5 \u00d7 10 14 Hz",
-        "C": "1 \u00d7 10 14 Hz",
-        "D": "7 \u00d7 10 14 Hz"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, K max = 3 eV h = 4.125 \u00d7 10 \u2212 15 eV Hz -1 h \u03bd = K max + W 4.125 \u00d7 10 - 15 \u00d7 10 15 = 3 + W or 4.125 = 3 + W or W = 1.125 The threshold frequency \u03bd 0 = W h \u03bd 0 = 1.125 4.125 \u00d7 10 \u2212 15 \u03bd 0 = 1.125 \u00d7 10 \u2212 15 4.125 \u03bd 0 = 2.72 \u00d7 10 14 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "If the work function for a certain metal is 3.2 \u00d7 10 - 19 J and it is illuminated with light of frequency \u03bd = 8 \u00d7 10 14 Hz , the maximum kinetic energy of the photoelectron would be",
-      "options": {
-        "A": "A",
-        "B": "1 \u00d7 10 - 19 J",
-        "C": "2 \u00d7 10 - 19 J",
-        "D": "3 \u00d7 10 - 19 J"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Maximum KE = h v - \u03d5 0 = 6.63 \u00d7 10 - 34 \u00d7 8 \u00d7 10 14 - 3.2 \u00d7 10 - 19 = 2.1 \u00d7 10 - 19 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Surface of certain metal is first illuminated with light of wavelength \u03bb 1 = 350 n m and then, by a light of wavelength \u03bb 2 = 540 n m . It is found that the maximum speed of the photoelectrons in the two cases differ by a factor of 2 . The work function of the metal (in e V ) is close to (Energy of photon = 1240 \u03bb i n n m e V )",
-      "options": {
-        "A": "A",
-        "B": "5",
-        "C": "8",
-        "D": "6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u03bb 1 = 350 n m , \u03bb 2 = 540 n m , V 1 V 2 = 2 \u21d2 V 1 = 2 V a n d V 2 = V h c \u03bb 1 = \u03d5 + 1 2 m 2 V 2 h c \u03bb 2 = \u03d5 + 1 2 m V 2 h c \u03bb 1 - 4 h c \u03bb 2 = \u03d5 - 4 \u03d5 h c 4 540 - 1 340 = 3 \u03d5 \u03d5 = 1.8 e V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given, K max = 3 eV h = 4.125 \u00d7 10 \u2212 15 eV Hz -1 h \u03bd = K max + W\u2084.125 \u00d7 10 - 15 \u00d7 1015 = 3 + W or 4.125 = 3 + W or W = 1.125 The threshold frequency \u03bd 0 = W h \u03bd 0 = 1.1254.125 \u00d7 10 \u2212 15 \u03bd 0 = 1.125 \u00d7 10 \u2212 154.125 \u03bd 0 = 2.72 \u00d7 1014 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -712,43 +142,13 @@
     {
       "question": "The de-Broglie wavelength of a ball of mass 120 g moving at a speed of 20 m / s is",
       "options": {
-        "A": "A 3 . 5 \u00d7 10 - 34 m",
+        "A": "3 . 5 \u00d7 10 - 34 m",
         "B": "8 \u00d7 10 - 34 m",
         "C": "2 \u00d7 10 - 34 m",
         "D": "1 \u00d7 10 - 34 m"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** de-Broglie wavelength, \u03bb = h m v = 6.6 \u00d7 10 - 34 120 \u00d7 10 - 3 \u00d7 20 = 2 . 75 \u00d7 10 - 34 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the de Broglie wavelength of a dust particle of mass 1.0 \u00d7 10 \u20139 kg drifting with a speed of 2.2 m/s?",
-      "options": {
-        "A": "A",
-        "B": "0 \u00d7 10 \u201323 m",
-        "C": "0 \u00d7 10 \u201323 m",
-        "D": "0 \u00d7 10 \u201323 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 3.0 \u00d7 10 \u201323 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "In photoelectric effect, the threshold wavelength of sodium is 5000 \u212b . Find its work function ( h = 6.6 \u00d7 10 - 34 J s , c = 3 \u00d7 10 8 m s - 1 , 1 eV = 1.6 \u00d7 10 - 19 J )",
-      "options": {
-        "A": "A",
-        "B": "5 eV",
-        "C": "5 eV C 10 eV",
-        "D": "0 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The work function of sodium W = h c \u03bb 0 W = 6.6 \u00d7 10 - 34 \u00d7 3 \u00d7 10 8 5 \u00d7 10 - 7 or W = 3.96 \u00d7 10 - 19 J or W = 2.5 e V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** de-Broglie wavelength, \u03bb = h m v = 6.6 \u00d7 10 - 34120 \u00d7 10 - 3 \u00d7 20 = 2 . 75 \u00d7 10 - 34 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -757,7 +157,7 @@
     {
       "question": "In photoelectric emission process from a metal of work function $1.8 eV$, the kinetic energy of most energetic electrons is $0.5 eV$. The corresponding stopping potential is",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "3 ~V$",
         "C": "5 ~V$",
         "D": "3 ~V$"
@@ -770,240 +170,15 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "What is the value of Planck's constant in an experiment on the photoelectric effect where the slope of the cut-off voltage versus frequency of incident light is found to be 4.12 \u00d7 10 -15 V s?",
-      "options": {
-        "A": "A",
-        "B": "45 \u00d7 10 -34 Js",
-        "C": "21 \u00d7 10 -34 Js",
-        "D": "59 \u00d7 10 -34 Js"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 6.59 \u00d7 10 -34 Js **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The electric field of certain radiation is given by the equation E = 200 sin \u2061 4 \u03c0 \u00d7 10 10 t + sin \u2061 4 \u03c0 \u00d7 10 15 t falls in a metal surface having work function 2 .0 eV . The maximum kinetic energy in eV of the photoelectrons is [Planck's constant h = 6.63 \u00d7 10 - 34 J s and electron charge e = 1.6 \u00d7 10 - 19 C ]",
-      "options": {
-        "A": "A",
-        "B": "3",
-        "C": "3",
-        "D": "3"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u2235 According to einstein's photoelectric equation, 1 2 m v m a x 2 = h v - w 0 .....(i) Here, w 0 is work function and v is frequency of the photon. According to question equation, the electric field representing given as E = 200 sin \u2061 4 \u03c0 \u00d7 10 10 t + sin \u2061 4 \u03c0 \u00d7 10 15 t maximum possible angular frequency, \u03c9 = 4 \u03c0 \u00d7 10 15 rad \u2235 \u03c9 = 2 \u03c0 v or , v = 4 \u03c0 \u00d7 10 15 2 \u03c0 = 2 \u00d7 10 15 Hz Put the value of h , v and W 0 in Equation (i) K E m a x = 6.63 \u00d7 10 - 34 \u00d7 2 \u00d7 10 15 - 2 \u00d7 1.6 \u00d7 10 -19 J Hence K E m a x = 6 .3 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "In an experiment tungsten cathode which has a threshold wavelength 2300 \u00e2\u0080\u0089 \u00e2\u0084\u00ab is irradiated by ultraviolet light of wavelength 1800 \u00e2\u0080\u0089 \u00e2\u0084\u00ab . The maximum energy of emitted photo-electron will be",
-      "options": {
-        "A": "A",
-        "B": "2 \u00c2 e V",
-        "C": "5 e V",
-        "D": "6 \u00c2 e V"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** K m a x = h c 1 \u03bb - 1 \u03bb 0 K m a x = 6.62 \u00d7 10 - 34 \u00d7 3 \u00d7 10 8 1.6 \u00d7 10 - 19 10 10 1800 - 10 10 2300 K m a x = 1.5 e V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the minimum wavelength of X-rays produced by 30 kV electrons?",
-      "options": {
-        "A": "A",
-        "B": "041 nm",
-        "C": "14 nm",
-        "D": "82 nm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.041 nm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "What is the maximum kinetic energy of photoelectrons emitted in a certain experiment where the photoelectric cut-off voltage is 1.5 V?",
-      "options": {
-        "A": "A",
-        "B": "5 J",
-        "C": "5 eV",
-        "D": "5 keV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 1.5 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "In the photoelectric effect, the maximum speed of electrons is found to be 6 \u00d7 10 5 m s - 1 . The wavelength used is 4000 \u212b . The work function of the metal is",
-      "options": {
-        "A": "A",
-        "B": "2 eV",
-        "C": "076 eV",
-        "D": "3 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** hc \u03bb = KE Max + \u03d5 12400 4000 = 1 2 \u00d7 9 .1 \u00d7 10 - 31 \u00d7 36 \u00d7 10 10 1 .6 \u00d7 10 - 19 + \u03d5 3.1 = 102.375 \u00d7 10 - 2 + \u03d5 \u03d5 = 2.076 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "An electron is accelerated through a potential difference of 10,000 V . Its de Broglie wavelength is (nearly): m e = 9 \u00d7 1 0 - 31 k g",
-      "options": {
-        "A": "A",
-        "B": "2 \u00c3\u0097 10 - 13 \u00c2 m B",
-        "C": "2 \u00c3\u0097 10 - 12 \u00c2 m C",
-        "D": "2 \u00c3\u0097 10 - 14 \u00c2 m D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The energy of electron K = 10 4 e V \u03bb = h m v = h 2 m K = 6 . 63 \u00d7 10 - 34 2 \u00d7 9 . 1 \u00d7 10 - 31 \u00d7 10 4 \u00d7 1 . 6 \u00d7 10 - 19 \u2245 12.2 \u00d7 10 - 12 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "A light of wavelength 4000 A \u2218 is allowed to fall on a metal surface having work function 2 eV . The maximum velocity of the emitted electrons is ( h = 6.6 \u00d7 10 - 34 J s )",
-      "options": {
-        "A": "A",
-        "B": "35 \u00d7 10 5 m s - 1",
-        "C": "7 \u00d7 10 5 m s - 1",
-        "D": "2 \u00d7 10 5 m s - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 1 2 m v 2 = h c \u03bb - \u03d5 ( i n e V ) = 6.6 \u00d7 10 - 34 \u00d7 3 \u00d7 10 8 4000 \u00d7 10 - 10 \u00d7 1.6 \u00d7 10 - 19 - 2 = 3.1 - 2 = 1.1 e V = 1.1 \u00d7 1.6 \u00d7 10 - 19 J = 1.76 \u00d7 10 - 19 J v = 1.76 \u00d7 10 - 19 \u00d7 2 9 \u00d7 10 - 13 = 6.2 \u00d7 10 5 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "An electron is accelerated under a potential difference of 64 V, the de-Broglie wavelength associated with electron is [ e = - 1.6 \u00d7 10 \u2212 19 C , m e = 9.1 \u00d7 10 \u2212 31 kg , h = 6 .623 \u00d7 10 \u2212 34 Js ]",
-      "options": {
-        "A": "A",
-        "B": "53 A o",
-        "C": "53 A o",
-        "D": "35 A o"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Modified equation of de-Broglie wavelength \u03bb = h 2 m e V \\u03bb = 12.27 A o V = 12.27 64 = 1.534 A o **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "If the mass of neutron = 1.7 \u00c3\u0097 10 - 27 kg , then the de-Broglie wavelength of neutron of energy 3 eV is ( h = 6.6 \u00c3\u0097 10 - 34 J - s )",
-      "options": {
-        "A": "A",
-        "B": "6 \u00d7 10 - 16 m",
-        "C": "6 \u00d7 10 - 11 m",
-        "D": "4 \u00d7 10 - 10 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given E = 3 e V = 3 \u00d7 1.6 \u00d7 10 - 19 J We know that \u03bb = h 2 m E = 6.6 \u00d7 10 - 34 2 \u00d7 1.7 \u00d7 10 - 27 \u00d7 3 \u00d7 1.6 \u00d7 10 - 19 = 1.65 \u00d7 10 - 11 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The de Broglie wavelength of a bullet of mass 0.040 kg , travelling at a speed of 1.0 km s - 1 is",
-      "options": {
-        "A": "A",
-        "B": "66 \u00c3\u0097 10 - 34 m",
-        "C": "66 \u00c3\u0097 10 - 35 m",
-        "D": "66 \u00d7 10 - 32 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given: mass of bullet, m = 0.040 kg and speed of bullet, v = 1000 m s - 1 de - Broglie wavelength, \u03bb = h m v = 6 . 63 \u00d7 10 - 34 0 . 040 \u00d7 1 \u00d7 10 3 \u2235 m = 0 . 040 kg v = 1 km s -1 = 1000 m s -1 = 1.66 \u00d7 10 - 35 m . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The radiation emitted, when an electron jumps from n = 3 to n = 2 orbit is a hydrogen atom, falls on a metal to produce photoelectron. The electrons from the metal surface with maximum kinetic energy are made to move perpendicular to a magnetic field of 1 320 T in a radius of 1 0 - 3 m . Find the work function of metal.",
-      "options": {
-        "A": "A",
-        "B": "03 eV",
-        "C": "89 eV",
-        "D": "86 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 1.03 eV E 3 - E 2 = 13.6 1 2 2 - 1 3 2 = 13.6 \u00d7 5 36 = 1.89 eV Photoelectrons with k E m a x are moving on circular path. r = m v q B \u21d2 m v = q B r \u21d2 P = q B r \u21d2 P = 1.6 \u00d7 1 0 - 19 \u00d7 1 3200 \u00d7 1 0 - 3 \u21d2 1 2 \u00d7 1 0 - 24 = 5 \u00d7 1 0 - 25 kg \u2061 m / s Energy of photoelectron \u21d2 K E m a x = P 2 2 m \u21d2 K E m a x = 25 \u00d7 10 - 50 2 \u00d7 9.1 \u00d7 1 0 - 31 \u00d7 1.6 \u00d7 1 0 - 19 e V \u21d2 K E m a x = 0.86 e V Now use Einstein equation h v = \u03d5 + K E m a x \u21d2 1.89 = 0.56 + \u03d5 ; \u21d2 \u03d5 = 1.03 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "Question: Monochromatic light of frequency 6.0 \u00d710 14 Hz is produced by a laser. The power emitted is 2.0 \u00d710 \u20133 W. How many photons per second, on average, are emitted by the source?",
-      "options": {
-        "A": "A",
-        "B": "0 \u00d710 14 photons per second.",
-        "C": "0 \u00d710 15 photons per second.",
-        "D": "0\u00d710 15 photons per second."
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 5.0 \u00d710 15 photons per second. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "An earth-orbiting satellite has a solar energy collecting panel with total area 5 m 2 . If solar radiations are perpendicular and completely absorbed, the average force associated with the radiation pressure is (Solar constant = 1.4 k W m - 2 )",
-      "options": {
-        "A": "A",
-        "B": "33 \u00c3\u0097 10 - 3 \u00c2 N",
-        "C": "33 \u00c3\u0097 10 - 4 \u00c2 N",
-        "D": "33 \u00c3\u0097 10 - 5 N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that, P o w e r = I \u00d7 a r e a = ( 1.4 \u00d7 10 3 ) \u00d7 5 Force F = P o w e r c = 1.4 \u00d7 10 3 \u00d7 5 3 \u00d7 10 8 = 2.33 \u00d7 10 - 5 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
       "question": "The potential difference that must be applied to stop the fastest photoelectrons emitted by a nickel surface, having work function $5.01 eV$, when ultraviolet light of $200 ~nm$ falls on it, must be",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "4 ~V$ B $-",
         "C": "2 ~V$ C $-",
         "D": "4 ~V$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Energy of incident light $E(eV)=\\frac123752000$ $=6.2 eV(200 ~nm=2000 \u00c3 )$ According to the relation $E=W_0+eV_0$ $$ \\beginaligned \\Rightarrow \\quad V_0 & =\\fracE-W_0e \\\\ & =\\frac(6.2-5.01) ee \\\\ & =1.2 ~V \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Dual Nature of Radiation and Matter"
-    },
-    {
-      "question": "The radiation corresponding to 3 \u2192 2 transition of hydrogen atom falls on a metal surface to produce photoelectrons. These electrons are made to enter a magnetic field of 3 \u00d7 1 0 - 4 T . If the radius of the largest circular path followed by these electrons is 10 mm, the work function of the metal is close to :",
-      "options": {
-        "A": "A",
-        "B": "8 eV",
-        "C": "1 eV",
-        "D": "8 eV"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that r = m \u00cf Bq \u00e2\u0088\u00b4 \u00cf = Bqr m \u00e2\u0088\u00b4 KE = 1 2 m v 2 = B 2 q 2 R 2 2m = 0.79 eV Now from photoelectric equation E = \u00cf\u0095 + KE \u00e2\u0088\u00b4 \u00cf\u0095 = E - KE = 1.89 - 0.79 = 1.1 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Energy of incident light $E(eV)=\\frac\u2081\u2082\u2083\u2087\u2085\u2082\u2080\u2080\u2080$ $=6.2 eV(200 ~nm=2000 \u00c3 )$ According to the relation $E=W_0+eV_0$ $$ \\beginaligned \\Rightarrow \\quad V_0 & =\\fracE-W_0e \\\\ & =\\frac(6.2-5.01) ee \\\\ & =1.2 ~V \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1147,8 +322,8 @@
     {
       "question": "Given below are two statements : one is labeled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : An electron microscope can achieve better resolving power than an optical microscope.<br/><br/>Reason R : The de Broglie's wavelength of the electrons emitted from an electron gun is much less than wavelength of visible light.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
       "options": {
-        "A": "A is false but R is true.",
-        "B": "Both A and R are true but R is NOT the correct explanation of A.",
+        "A": "is false but R is true.",
+        "B": "oth A and R are true but R is NOT the correct explanation of A.",
         "C": "Both A and R are true and R is the correct explanation of A.",
         "D": "A is true but R is false."
       },
@@ -1183,7 +358,7 @@
         "D": "$$2c \\over v$$"
       },
       "answer": "C",
-      "solution": "$$\\lambda _e = \\lambda _Ph$$<br><br>$$h \\over p_e = h \\over p_ph$$<br><br>$$\\sqrt 2mk_e = E_ph \\over c$$<br><br>$$2mk_e = (E_ph)^2 \\over c^2$$<br><br>$$k_e \\over E_ph = E_ph \\over c^2\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_ph \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_e \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = mv \\over c1 \\over 2m$$<br><br>$$ = v \\over 2c$$",
+      "solution": "$$\\lambda _e = \\lambda _Ph$$<br><br>$$h \\over p_e = h \\over p_ph$$<br><br>$$\\sqrt 2mk_e = E_ph \\over c$$<br><br>$$2mk_e = (E_ph)^2 \\over c^2$$<br><br>$$k_e \\over E_ph = E_ph \\over c^2\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_ph \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = p_e \\over c\\left( 1 \\over 2m \\right)$$<br><br>$$ = mv \\over c\u2081 \\over 2m$$<br><br>$$ = v \\over 2c$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1228,7 +403,7 @@
         "D": "$$\\lambda$$<sub>e</sub> = $$\\lambda$$<sub>p</sub> = $$\\lambda$$<sub>n</sub> = $$\\lambda$$<sub>a</sub>"
       },
       "answer": "B",
-      "solution": "$$ \\lambda=\\frachp=\\frach\\sqrt(2 m K E) $$ <br/><br/>$\\lambda \\propto \\frac1\\sqrtm$ as all the particles have same KE. <br/><br/>Since $m_e < m_p < m_n < m_\\alpha$ <br/><br/>$$ \\lambda_e > \\lambda_p > \\lambda_n > \\lambda_\\alpha $$",
+      "solution": "$$ \\lambda=\\frachp=\\frach\\sqrt(2 m KE) $$ <br/><br/>$\\lambda \\propto \\frac\u2081\\sqrtm$ as all the particles have same KE. <br/><br/>Since $m_e < m_p < m_n < m_\\alpha$ <br/><br/>$$ \\lambda_e > \\lambda_p > \\lambda_n > \\lambda_\\alpha $$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1258,22 +433,22 @@
         "D": "1 : 2"
       },
       "answer": "C",
-      "solution": "For same $\\lambda_1$ momentum should be same, <br/><br/>$(P)_P=(P)_\\alpha$ <br/><br/>$\\Rightarrow \\sqrt2 k_P m_P=\\sqrt2 k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow k_P m_P=k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow \\frack_Pk_\\alpha=\\left(\\fracm_\\alpham_P\\right)=\\frac41=4: 1$",
+      "solution": "For same $\\lambda_1$ momentum should be same, <br/><br/>$(P)_P=(P)_\\alpha$ <br/><br/>$\\Rightarrow \\sqrt\u2082 k_P m_P=\\sqrt\u2082 k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow k_P m_P=k_\\alpha m_\\alpha$ <br/><br/>$\\Rightarrow \\frack_Pk_\\alpha=\\left(\\fracm_\\alpham_P\\right)=\\frac\u2084\u2081=4: 1$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "The de Broglie wavelength of an electron having kinetic energy $E$ is $\\lambda$. If the kinetic energy of electron becomes $\\fracE4$, then its de-Broglie wavelength will be :",
+      "question": "The de Broglie wavelength of an electron having kinetic energy $E$ is $\\lambda$. If the kinetic energy of electron becomes $\\fracE\u2084$, then its de-Broglie wavelength will be :",
       "options": {
-        "A": "$\\sqrt2 \\lambda$",
+        "A": "$\\sqrt\u2082 \\lambda$",
         "B": "$2 \\lambda$",
-        "C": "$\\frac\\lambda2$",
-        "D": "$\\frac\\lambda\\sqrt2$"
+        "C": "$\\frac\\lambda\u2082$",
+        "D": "$\\frac\\lambda\\sqrt\u2082$"
       },
       "answer": "B",
-      "solution": "$$ \\lambda = \\frach\\sqrt2mE $$ <br/><br/> where $h$ is Planck's constant, $m$ is the mass of the particle, and $E$ is its kinetic energy. <br/><br/> We are given that the de Broglie wavelength of an electron with kinetic energy $E$ is $\\lambda$, and we want to find the de Broglie wavelength of the same electron when its kinetic energy becomes $\\fracE4$. <br/><br/> To do this, we can use the formula for the de Broglie wavelength again, but with the new kinetic energy $\\fracE4$: <br/><br/> $$ \\lambda' = \\frach\\sqrt2m\\left(\\fracE4\\right) = \\frac2h\\sqrt2mE = 2\\lambda $$ <br/><br/> where we have used the fact that $\\sqrt\\frac14 = \\frac1\\sqrt4 = \\frac12$ to simplify the expression. <br/><br/> Therefore, the de Broglie wavelength of the electron when its kinetic energy becomes $\\fracE4$ is twice its original value, or $\\boxed2\\lambda$.",
+      "solution": "$$ \\lambda = \\frach\\sqrt\u2082mE $$ <br/><br/> where $h$ is Planck's constant, $m$ is the mass of the particle, and $E$ is its kinetic energy. <br/><br/> We are given that the de Broglie wavelength of an electron with kinetic energy $E$ is $\\lambda$, and we want to find the de Broglie wavelength of the same electron when its kinetic energy becomes $\\fracE\u2084$. <br/><br/> To do this, we can use the formula for the de Broglie wavelength again, but with the new kinetic energy $\\fracE\u2084$: <br/><br/> $$ \\lambda' = \\frach\\sqrt\u2082m\\left(\\fracE\u2084\\right) = \\frac\u2082h\\sqrt\u2082mE = 2\\lambda $$ <br/><br/> where we have used the fact that $\\sqrt\\frac\u2081\u2084 = \\frac\u2081\\sqrt\u2084 = \\frac\u2081\u2082$ to simplify the expression. <br/><br/> Therefore, the de Broglie wavelength of the electron when its kinetic energy becomes $\\fracE\u2084$ is twice its original value, or $\\boxed\u2082\\lambda$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1283,12 +458,12 @@
       "question": "<p>The de Broglie wavelength of a molecule in a gas at room temperature (300 K) is $$\\lambda_1$$. If the temperature of the gas is increased to 600 K, then the de Broglie wavelength of the same gas molecule becomes</p>",
       "options": {
         "A": "2 $$\\lambda_1$$",
-        "B": "$$\\frac12$$$$\\lambda_1$$",
-        "C": "$$\\frac1\\sqrt2$$$$\\lambda_1$$",
-        "D": "$$\\sqrt2~\\lambda_1$$"
+        "B": "$$\\frac\u2081\u2082$$$$\\lambda_1$$",
+        "C": "$$\\frac\u2081\\sqrt\u2082$$$$\\lambda_1$$",
+        "D": "$$\\sqrt\u2082~\\lambda_1$$"
       },
       "answer": "C",
-      "solution": "<p>The de Broglie wavelength of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where h is Planck's constant and p is the momentum of the particle. The momentum of a gas molecule can be related to its kinetic energy (which is related to the temperature of the gas) by:</p> <p>$$p = \\sqrt2mK$$</p> <p>where m is the mass of the molecule and K is the kinetic energy of the molecule. </p> <p>At a given temperature T, the average kinetic energy of a molecule in a gas is given by:</p> <p>$$K = \\frac32 kT$$</p> <p>where k is Boltzmann's constant. </p> <p>Therefore, the de Broglie wavelength of a molecule in a gas is given by:</p> <p>$$\\lambda = \\frach\\sqrt2m(3/2)kT = \\frach\\sqrt3mkT$$</p> <p>If the temperature of the gas is increased from T = 300 K to T = 600 K, the new de Broglie wavelength becomes:</p> <p>$$\\lambda' = \\frach\\sqrt3mk(2T) = \\frach\\sqrt2 \\sqrt3mkT = \\frac1\\sqrt2 \\lambda$$</p> <p>So, the de Broglie wavelength of the gas molecule decreases by a factor of $$\\sqrt2$$ when the temperature of the gas is doubled. </p> <p>Therefore, the correct answer is $$\\lambda' = \\frac1\\sqrt2 \\lambda_1$$</p>",
+      "solution": "<p>The de Broglie wavelength of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where h is Planck's constant and p is the momentum of the particle. The momentum of a gas molecule can be related to its kinetic energy (which is related to the temperature of the gas) by:</p> <p>$$p = \\sqrt\u2082mK$$</p> <p>where m is the mass of the molecule and K is the kinetic energy of the molecule. </p> <p>At a given temperature T, the average kinetic energy of a molecule in a gas is given by:</p> <p>$$K = \\frac\u2083\u2082 kT$$</p> <p>where k is Boltzmann's constant. </p> <p>Therefore, the de Broglie wavelength of a molecule in a gas is given by:</p> <p>$$\\lambda = \\frach\\sqrt\u2082m(3/2)kT = \\frach\\sqrt\u2083mkT$$</p> <p>If the temperature of the gas is increased from T = 300 K to T = 600 K, the new de Broglie wavelength becomes:</p> <p>$$\\lambda' = \\frach\\sqrt\u2083mk(2T) = \\frach\\sqrt\u2082 \\sqrt\u2083mkT = \\frac\u2081\\sqrt\u2082 \\lambda$$</p> <p>So, the de Broglie wavelength of the gas molecule decreases by a factor of $$\\sqrt\u2082$$ when the temperature of the gas is doubled. </p> <p>Therefore, the correct answer is $$\\lambda' = \\frac\u2081\\sqrt\u2082 \\lambda_1$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1303,7 +478,7 @@
         "D": "$4: 1$"
       },
       "answer": "A",
-      "solution": "<p>To find the ratio of velocities of two particles based on their de Broglie wavelengths, we can use the de Broglie wavelength formula, which relates the momentum of a particle to its wavelength. The de Broglie's wavelength formula is given by:</p> <p>$$ \\lambda = \\frachp $$</p> <p>where:<br> <p>$\\lambda$ is the de Broglie wavelength,<br></p> <p>$h$ is the Planck constant, and<br></p> <p>$p$ is the momentum of the particle.</p></p> <p>The momentum $p$ of a particle can also be expressed as the product of its mass $m$ and velocity $v$:</p> <p>$$ p = mv $$</p> <p>So, we can rewrite the de Broglie wavelength equation in terms of mass and velocity:</p> <p>$$ \\lambda = \\frachmv $$</p> <p>For the proton (let's use subscript $p$ for proton), the wavelength is $\\lambda$:</p> <p>$$ \\lambda_p = \\frachm_p v_p$$</p> <p>For the $\\alpha$ particle (let's use subscript $\\alpha$ for alpha), the wavelength is $2\\lambda$:</p> <p>$$ 2\\lambda = \\frachm_\\alpha v_\\alpha$$</p> <p>We are interested in finding the ratio of the velocities $\\fracv_pv_\\alpha$. Using the given data about wavelengths:</p> <p>$$ \\lambda_p = \\lambda $$</p> <p>$$ \\lambda_\\alpha = 2\\lambda $$</p> <p>Using the de Broglie equation for both particles:</p> <p>$$ \\frachm_p v_p = \\lambda $$</p> <p>$$ \\frachm_\\alpha v_\\alpha = 2\\lambda $$</p> <p>Dividing the second equation by the first equation gives us:</p> <p>$$ \\frac\\frachm_\\alpha v_\\alpha\\frachm_p v_p = \\frac2\\lambda\\lambda $$</p> <p>$$ \\fracm_p v_pm_\\alpha v_\\alpha = \\frac21 $$</p> <p>$$ \\fracv_pv_\\alpha = \\frac2m_\\alpham_p $$</p> <p>Since we know an $\\alpha$ particle consists of 2 protons and 2 neutrons (essentially four nucleons), the mass of an $\\alpha$ particle is roughly four times the mass of a proton ($m_\\alpha \\approx 4m_p$).</p> <p>Substituting $m_\\alpha$ with $4m_p$ in the equation:</p> <p>$$ \\fracv_pv_\\alpha = \\frac2(4m_p)m_p $$</p> <p>$$ \\fracv_pv_\\alpha = 2 \\cdot 4 $$</p> <p>$$ \\fracv_pv_\\alpha = 8 $$</p> <p>Therefore, the ratio of the velocities of proton to $\\alpha$ particle is $8:1$, which corresponds to Option A.</p>",
+      "solution": "<p>To find the ratio of velocities of two particles based on their de Broglie wavelengths, we can use the de Broglie wavelength formula, which relates the momentum of a particle to its wavelength. The de Broglie's wavelength formula is given by:</p> <p>$$ \\lambda = \\frachp $$</p> <p>where:<br> <p>$\\lambda$ is the de Broglie wavelength,<br></p> <p>$h$ is the Planck constant, and<br></p> <p>$p$ is the momentum of the particle.</p></p> <p>The momentum $p$ of a particle can also be expressed as the product of its mass $m$ and velocity $v$:</p> <p>$$ p = mv $$</p> <p>So, we can rewrite the de Broglie wavelength equation in terms of mass and velocity:</p> <p>$$ \\lambda = \\frachmv $$</p> <p>For the proton (let's use subscript $p$ for proton), the wavelength is $\\lambda$:</p> <p>$$ \\lambda_p = \\frachm_p v_p$$</p> <p>For the $\\alpha$ particle (let's use subscript $\\alpha$ for alpha), the wavelength is $2\\lambda$:</p> <p>$$ 2\\lambda = \\frachm_\\alpha v_\\alpha$$</p> <p>We are interested in finding the ratio of the velocities $\\fracv_pv_\\alpha$. Using the given data about wavelengths:</p> <p>$$ \\lambda_p = \\lambda $$</p> <p>$$ \\lambda_\\alpha = 2\\lambda $$</p> <p>Using the de Broglie equation for both particles:</p> <p>$$ \\frachm_p v_p = \\lambda $$</p> <p>$$ \\frachm_\\alpha v_\\alpha = 2\\lambda $$</p> <p>Dividing the second equation by the first equation gives us:</p> <p>$$ \\frac\\frachm_\\alpha v_\\alpha\\frachm_p v_p = \\frac\u2082\\lambda\\lambda $$</p> <p>$$ \\fracm_p v_pm_\\alpha v_\\alpha = \\frac\u2082\u2081 $$</p> <p>$$ \\fracv_pv_\\alpha = \\frac\u2082m_\\alpham_p $$</p> <p>Since we know an $\\alpha$ particle consists of 2 protons and 2 neutrons (essentially four nucleons), the mass of an $\\alpha$ particle is roughly four times the mass of a proton ($m_\\alpha \\approx 4m_p$).</p> <p>Substituting $m_\\alpha$ with $4m_p$ in the equation:</p> <p>$$ \\fracv_pv_\\alpha = \\frac\u2082(4m_p)m_p $$</p> <p>$$ \\fracv_pv_\\alpha = 2 \\cdot 4 $$</p> <p>$$ \\fracv_pv_\\alpha = 8 $$</p> <p>Therefore, the ratio of the velocities of proton to $\\alpha$ particle is $8:1$, which corresponds to Option A.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1312,13 +487,13 @@
     {
       "question": "<p>The de-Broglie wavelength of an electron is the same as that of a photon. If velocity of electron is $$25 \\%$$ of the velocity of light, then the ratio of K.E. of electron and K.E. of photon will be:</p>",
       "options": {
-        "A": "$$\\frac14$$",
-        "B": "$$\\frac81$$",
-        "C": "$$\\frac18$$",
-        "D": "$$\\frac11$$"
+        "A": "$$\\frac\u2081\u2084$$",
+        "B": "$$\\frac\u2088\u2081$$",
+        "C": "$$\\frac\u2081\u2088$$",
+        "D": "$$\\frac\u2081\u2081$$"
       },
       "answer": "C",
-      "solution": "<p>We know that the de-Broglie wavelength $$\\lambda$$ of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where:</p> <ul> <li>$$h$$ is Planck's constant,</li> <li>$$p$$ is the momentum of the particle.</li> </ul> <p>For a photon (which has zero rest mass), its energy $$E$$ and momentum $$p$$ are related by the equation:</p> <p>$$E = cp$$</p> <p>and its de-Broglie wavelength $$\\lambda$$ is given by:</p> <p>$$\\lambda = \\frachE \\times \\frac1c$$</p> <p>Now, since the photon and electron are said to have the same de-Broglie wavelength:</p> <p>$$\\lambda_electron = \\lambda_photon$$</p> <p>$$\\frachp_electron = \\frachE_photon \\times \\frac1c$$</p> <p>For the electron, its momentum $$p_electron$$ is given by:</p> <p>$$p_electron = m_ev_electron$$</p> <p>where:</p> <ul> <li>$$m_e$$ is the electron's rest mass,</li> <li>$$v_electron$$ is the electron's velocity.</li> </ul> <p>The kinetic energy $$K.E.$$ of the electron is:</p> <p>$$K.E._electron = \\frac12m_ev_electron^2$$</p> <p>The question states that $$v_electron$$ is $$25\\%$$ ($$0.25c$$) of the speed of light $$c$$. So we write:</p> <p>$$v_electron = 0.25c$$</p> <p>Plugging this into the kinetic energy formula, we get:</p> <p>$$K.E._electron = \\frac12m_e(0.25c)^2 = \\frac12m_e \\times \\frac116c^2$$</p> <p>$$K.E._electron = \\frac132m_ec^2$$</p> <p>For a photon, $$p_photon = \\fracE_photonc$$ and hence its kinetic energy (which, for a photon, is simply its energy) is:</p> <p>$$K.E._photon = E_photon = cp_photon$$</p> <p>Now, comparing the kinetic energies:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac132m_ec^2cp_photon$$</p> <p>Since $$p_electron = p_photon$$ (from the de-Broglie relation), we can replace $$p_photon$$ with $$p_electron$$ which is $$m_ev_electron$$:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac132m_ec^2m_ev_electronc$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac132c0.25c$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac132 \\times \\frac10.25$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac132 \\times 4$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac18$$</p> <p>So the correct answer is Option C $$\\frac18$$. </p>",
+      "solution": "<p>We know that the de-Broglie wavelength $$\\lambda$$ of a particle is given by:</p> <p>$$\\lambda = \\frachp$$</p> <p>where:</p> <ul> <li>$$h$$ is Planck's constant,</li> <li>$$p$$ is the momentum of the particle.</li> </ul> <p>For a photon (which has zero rest mass), its energy $$E$$ and momentum $$p$$ are related by the equation:</p> <p>$$E = cp$$</p> <p>and its de-Broglie wavelength $$\\lambda$$ is given by:</p> <p>$$\\lambda = \\frachE \\times \\frac\u2081c$$</p> <p>Now, since the photon and electron are said to have the same de-Broglie wavelength:</p> <p>$$\\lambda_electron = \\lambda_photon$$</p> <p>$$\\frachp_electron = \\frachE_photon \\times \\frac\u2081c$$</p> <p>For the electron, its momentum $$p_electron$$ is given by:</p> <p>$$p_electron = m_ev_electron$$</p> <p>where:</p> <ul> <li>$$m_e$$ is the electron's rest mass,</li> <li>$$v_electron$$ is the electron's velocity.</li> </ul> <p>The kinetic energy $$K.E.$$ of the electron is:</p> <p>$$K.E._electron = \\frac\u2081\u2082m_ev_electron^2$$</p> <p>The question states that $$v_electron$$ is $$25\\%$$ ($$0.25c$$) of the speed of light $$c$$. So we write:</p> <p>$$v_electron = 0.25c$$</p> <p>Plugging this into the kinetic energy formula, we get:</p> <p>$$K.E._electron = \\frac\u2081\u2082m_e(0.25c)^2 = \\frac\u2081\u2082m_e \\times \\frac\u2081\u2081\u2086c^2$$</p> <p>$$K.E._electron = \\frac\u2081\u2083\u2082m_ec^2$$</p> <p>For a photon, $$p_photon = \\fracE_photonc$$ and hence its kinetic energy (which, for a photon, is simply its energy) is:</p> <p>$$K.E._photon = E_photon = cp_photon$$</p> <p>Now, comparing the kinetic energies:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2cp_photon$$</p> <p>Since $$p_electron = p_photon$$ (from the de-Broglie relation), we can replace $$p_photon$$ with $$p_electron$$ which is $$m_ev_electron$$:</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082m_ec^2m_ev_electronc$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\\frac\u2081\u2083\u2082c\u2080.25c$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \\times \\frac\u2081\u2080.25$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2083\u2082 \\times 4$$</p> <p>$$\\fracK.E._electronK.E._photon = \\frac\u2081\u2088$$</p> <p>So the correct answer is Option C $$\\frac\u2081\u2088$$. </p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1333,7 +508,7 @@
         "D": "$$K_p=K_e ^2$$"
       },
       "answer": "C",
-      "solution": "<p>To determine the correct relation between the kinetic energies of a proton ($$K_p$$) and an electron ($$K_e$$) when they have the same de Broglie wavelength, we need to use the de Broglie wavelength formula:</p> <p> <p>$$\\lambda = \\frachp$$</p> </p> <p>where $$\\lambda$$ is the de Broglie wavelength, $$h$$ is Planck's constant, and $$p$$ is the momentum of the particle.</p> <p>The momentum $$p$$ of a particle is given by:</p> <p> <p>$$p = \\sqrt2mK$$</p> </p> <p>where $$m$$ is the mass of the particle and $$K$$ is its kinetic energy. For a proton and an electron with the same de Broglie wavelength:</p> <p> <p>$$\\lambda_p = \\lambda_e$$</p> </p> <p>This implies the momenta should be the same:</p> <p> <p>$$p_p = p_e$$</p> </p> <p>Thus, we can write:</p> <p> <p>$$\\sqrt2 m_p K_p = \\sqrt2 m_e K_e$$</p> </p> <p>Squaring both sides to eliminate the square roots:</p> <p> <p>$$2 m_p K_p = 2 m_e K_e$$</p> </p> <p>$$m_p K_p = m_e K_e$$ </p> <p>Rearranging to solve for $$K_p$$ in terms of $$K_e$$:</p> <p> <p>$$K_p = \\fracm_em_p K_e$$</p> </p> <p>Since the mass of a proton $$m_p$$ is much greater than the mass of an electron $$m_e$$:</p> <p> <p>$$m_p \\gg m_e$$</p> </p> <p>This means:</p> <p> <p>$$\\fracm_em_p \\ll 1$$</p> </p> <p>Therefore, it implies:</p> <p> <p>$$K_p < K_e$$</p> </p> <p>So, the correct option is:</p> <p>Option C: $$K_p<K_e$$</p>",
+      "solution": "<p>To determine the correct relation between the kinetic energies of a proton ($$K_p$$) and an electron ($$K_e$$) when they have the same de Broglie wavelength, we need to use the de Broglie wavelength formula:</p> <p> <p>$$\\lambda = \\frachp$$</p> </p> <p>where $$\\lambda$$ is the de Broglie wavelength, $$h$$ is Planck's constant, and $$p$$ is the momentum of the particle.</p> <p>The momentum $$p$$ of a particle is given by:</p> <p> <p>$$p = \\sqrt\u2082mK$$</p> </p> <p>where $$m$$ is the mass of the particle and $$K$$ is its kinetic energy. For a proton and an electron with the same de Broglie wavelength:</p> <p> <p>$$\\lambda_p = \\lambda_e$$</p> </p> <p>This implies the momenta should be the same:</p> <p> <p>$$p_p = p_e$$</p> </p> <p>Thus, we can write:</p> <p> <p>$$\\sqrt\u2082 m_p K_p = \\sqrt\u2082 m_e K_e$$</p> </p> <p>Squaring both sides to eliminate the square roots:</p> <p> <p>$$2 m_p K_p = 2 m_e K_e$$</p> </p> <p>$$m_p K_p = m_e K_e$$ </p> <p>Rearranging to solve for $$K_p$$ in terms of $$K_e$$:</p> <p> <p>$$K_p = \\fracm_em_p K_e$$</p> </p> <p>Since the mass of a proton $$m_p$$ is much greater than the mass of an electron $$m_e$$:</p> <p> <p>$$m_p \\gg m_e$$</p> </p> <p>This means:</p> <p> <p>$$\\fracm_em_p \\ll 1$$</p> </p> <p>Therefore, it implies:</p> <p> <p>$$K_p < K_e$$</p> </p> <p>So, the correct option is:</p> <p>Option C: $$K_p<K_e$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1355,7 +530,7 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "A 2 mW laser operates at wavelength of 500 nm. The number of photons that will be emitted per second is : [Given Planck's constant h = 6.6 \u00d7 10<sup>\u201334</sup> Js, speed of light c = 3.0 \u00d7 10<sup>8</sup> m/s]",
+      "question": "A\u2082 mW laser operates at wavelength of 500 nm. The number of photons that will be emitted per second is : [Given Planck's constant h = 6.6 \u00d7 10<sup>\u201334</sup> Js, speed of light c = 3.0 \u00d7 10<sup>8</sup> m/s]",
       "options": {
         "A": "5 \u00d7 10<sup>15</sup>",
         "B": "1.5 \u00d7 10<sup>16</sup>",
@@ -1388,7 +563,7 @@
       "question": "Given below are two statements : <br/><br/>Statement I : Two photons having equal linear momenta have equal wavelengths.<br/><br/>Statement II : If the wavelength of photon is decreased, then the momentum and energy of a photon will also decrease.<br/><br/>In the light of the above statements, choose the correct answer from the options given below.",
       "options": {
         "A": "Statement I is false but Statement II is true",
-        "B": "Both Statement I and Statement II are false",
+        "B": "oth Statement I and Statement II are false",
         "C": "Both Statement I and Statement II are true",
         "D": "Statement I is true but Statement II is false"
       },
@@ -1438,7 +613,7 @@
         "D": "24 $$\\times$$ 10<sup>20</sup>"
       },
       "answer": "A",
-      "solution": "As we know <br/><br/> $$ \\beginaligned &I=\\fracEA t=\\fracn h vA t \\Rightarrow \\fracnt=\\fracI A \\lambdah C \\Rightarrow \\fracnt=\\frac\\rho \\lambdah c \\Rightarrow \\fracnt=\\rho \\lambda \\\\\\\\ &\\Rightarrow\\left(\\fracnt\\right)_2=\\left(\\fracnt\\right)_1 \\times \\fracp_2 \\lambda_2p_1 \\lambda 1=9 \\times 10^20 \\times \\fracPP \\times \\frac800600=12 \\times 10^20 \\endaligned $$",
+      "solution": "As we know <br/><br/> $$ \\beginaligned &I=\\fracEA t=\\fracn h vA t \\Rightarrow \\fracnt=\\fracI A \\lambdah C \\Rightarrow \\fracnt=\\frac\\rho \\lambdah c \\Rightarrow \\fracnt=\\rho \\lambda \\\\\\\\ &\\Rightarrow\\left(\\fracnt\\right)_2=\\left(\\fracnt\\right)_1 \\times \\fracp_2 \\lambda_2p_1 \\lambda 1=9 \\times 10^20 \\times \\fracPP \\times \\frac\u2088\u2080\u2080\u2086\u2080\u2080=12 \\times 10^20 \\endaligned $$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1468,7 +643,7 @@
         "D": "Ultraviolet rays"
       },
       "answer": "A",
-      "solution": "$$ \\beginaligned & \\text Energy of one photon =\\frac\\text Power \\text Photon frequency \\\\\\\\ & E=h v=\\frac15 \\times 10^310^16 \\\\\\\\ & \\Rightarrow v=\\frac15 \\times 10^-136 \\times 10^-34=2.5 \\times 10^21 \\endaligned $$ <br/><br/>So gamma Rays.",
+      "solution": "$$ \\beginaligned & \\text Energy of one photon =\\frac\\text Power \\text Photon frequency \\\\\\\\ & E=h v=\\frac\u2081\u2085 \\times 10^310^16 \\\\\\\\ & \\Rightarrow v=\\frac\u2081\u2085 \\times 10^-136 \\times 10^-34=2.5 \\times 10^21 \\endaligned $$ <br/><br/>So gamma Rays.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1483,7 +658,7 @@
         "D": "$9 \\times 10^18$"
       },
       "answer": "A",
-      "solution": "<p>To find out the number of photons emitted per second by the laser, we can use the relationship between the energy of a single photon, the total energy emitted per second (power), and the number of photons emitted per second. The energy $E$ of a single photon is given by Planck's equation:</p> <p>$$ E = hf $$</p> <p>where:</p> <ul> <li>$ h $ is Planck's constant ($ 6.63 \\times 10^-34 Js $), and</li> <li>$ f $ is the frequency of the light ($ 6 \\times 10^14 Hz $).</li> </ul> <p>Let's first calculate the energy of one photon:</p> <p>$$ E = (6.63 \\times 10^-34 Js) \\times (6 \\times 10^14 Hz) $$</p> <p>$$ E = 3.978 \\times 10^-19 J $$</p> <p>The power ($ P $) emitted by the laser is the total energy emitted per second,</p> <p>$$ P = E_\\texttotal per second = 2 \\times 10^-3 W = 2 \\times 10^-3 J/s $$</p> <p>The number of photons ($ N $) emitted per second can be found by dividing the total energy emitted per second by the energy of one photon:</p> <p>$$ N = \\fracPE $$</p> <p>Substitute the values we have:</p> <p>$$ N = \\frac2 \\times 10^-3 J/s3.978 \\times 10^-19 J $$</p> <p>$$ N = \\frac2 \\times 10^-33.978 \\times 10^-19 $$</p> <p>$$ N = 5.03 \\times 10^15 \\text photons per second $$</p> <p>The number of photons emitted per second is approximately $5 \\times 10^15$. Therefore, the correct answer, rounded to one significant figure, is:</p> <p>Option A: $5 \\times 10^15$</p>",
+      "solution": "<p>To find out the number of photons emitted per second by the laser, we can use the relationship between the energy of a single photon, the total energy emitted per second (power), and the number of photons emitted per second. The energy $E$ of a single photon is given by Planck's equation:</p> <p>$$ E = hf $$</p> <p>where:</p> <ul> <li>$ h $ is Planck's constant ($ 6.63 \\times 10^-34 Js $), and</li> <li>$ f $ is the frequency of the light ($ 6 \\times 10^14 Hz $).</li> </ul> <p>Let's first calculate the energy of one photon:</p> <p>$$ E = (6.63 \\times 10^-34 Js) \\times (6 \\times 10^14 Hz) $$</p> <p>$$ E = 3.978 \\times 10^-19 J $$</p> <p>The power ($ P $) emitted by the laser is the total energy emitted per second,</p> <p>$$ P = E_\\texttotal per second = 2 \\times 10^-3 W = 2 \\times 10^-3 J/s $$</p> <p>The number of photons ($ N $) emitted per second can be found by dividing the total energy emitted per second by the energy of one photon:</p> <p>$$ N = \\fracPE $$</p> <p>Substitute the values we have:</p> <p>$$ N = \\frac\u2082 \\times 10^-3 J/s\u2083.978 \\times 10^-19 J $$</p> <p>$$ N = \\frac\u2082 \\times 10^-33.978 \\times 10^-19 $$</p> <p>$$ N = 5.03 \\times 10^15 \\text photons per second $$</p> <p>The number of photons emitted per second is approximately $5 \\times 10^15$. Therefore, the correct answer, rounded to one significant figure, is:</p> <p>Option A: $5 \\times 10^15$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1498,7 +673,7 @@
         "D": "$$1: 3$$"
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned & n_1 \\times \\frachc\\lambda_1=200 \\\\ & n_2 \\times \\frachc\\lambda_2=200 \\\\ & \\fracn_1n_2=\\frac\\lambda_1\\lambda_2=\\frac300500 \\\\ & \\fracn_1n_2=\\frac35 \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & n_1 \\times \\frachc\\lambda_1=200 \\\\ & n_2 \\times \\frachc\\lambda_2=200 \\\\ & \\fracn_1n_2=\\frac\\lambda_1\\lambda_2=\\frac\u2083\u2080\u2080\u2085\u2080\u2080 \\\\ & \\fracn_1n_2=\\frac\u2083\u2085 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1508,7 +683,7 @@
       "question": "<p>Which of the following phenomena does not explain by wave nature of light.</p> <p>A. reflection</p> <p>B. diffraction</p> <p>C. photoelectric effect</p> <p>D. interference</p> <p>E. polarization</p> <p>Choose the most appropriate answer from the options given below:</p>",
       "options": {
         "A": "C only",
-        "B": "B, D only",
+        "B": ", D only",
         "C": "A, C only",
         "D": "E only"
       },
@@ -1588,7 +763,7 @@
         "D": "$$5v \\over 3$$"
       },
       "answer": "C",
-      "solution": "Einstein\\u2019s photoelectric equation in the two cases is given by <br><br>$$eV_0 \\over \\Delta E = h\\upsilon - h\\upsilon _0$$ ......(i) <br><br>and $$eV_0 = h\\upsilon \\over 2 - h\\upsilon _0$$ .....(ii) <br><br>From eqn. (i) and (ii), <br><br>$$1 \\over 2 = h\\upsilon - h\\upsilon _0 \\over h\\upsilon \\over 2 - h\\upsilon _0$$ <br><br>$$ \\Rightarrow $$ $$\\upsilon _0 = 3 \\over 2\\upsilon $$",
+      "solution": "Einstein\\u\u2082\u2080\u2081\u2089s photoelectric equation in the two cases is given by <br><br>$$eV_0 \\over \\Delta E = h\\upsilon - h\\upsilon _0$$ ......(i) <br><br>and $$eV_0 = h\\upsilon \\over 2 - h\\upsilon _0$$ .....(ii) <br><br>From eqn. (i) and (ii), <br><br>$$1 \\over 2 = h\\upsilon - h\\upsilon _0 \\over h\\upsilon \\over 2 - h\\upsilon _0$$ <br><br>$$ \\Rightarrow $$ $$\\upsilon _0 = 3 \\over 2\\upsilon $$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1763,7 +938,7 @@
       "question": "<p>Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R :</p> <p>Assertion A : The photoelectric effect does not takes place, if the energy of the incident radiation is less than the work function of a metal.</p> <p>Reason R : Kinetic energy of the photoelectrons is zero, if the energy of the incident radiation is equal to the work function of a metal.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
       "options": {
         "A": "Both A and R are correct and R is the correct explanation of A.",
-        "B": "Both A and R are correct but R is not the correct explanation of A.",
+        "B": "oth A and R are correct but R is not the correct explanation of A.",
         "C": "A is correct but R is not correct.",
         "D": "A is not correct but R is correct."
       },
@@ -1838,12 +1013,12 @@
       "question": "If the two metals $A$ and $B$ are exposed to radiation of wavelength $350 ~nm$. The work functions of metals $A$ and $B$ are $4.8 eV$ and $2.2 eV$. Then choose the correct option.",
       "options": {
         "A": "Metal B will not emit photo-electrons",
-        "B": "Both metals $A$ and $B$ will not emit photo-electrons",
+        "B": "oth metals $A$ and $B$ will not emit photo-electrons",
         "C": "Metal A will not emit photo-electrons",
         "D": "Both metals A and B will emit photo-electrons"
       },
       "answer": "C",
-      "solution": "$$ \\phi=\\frach c\\lambda=\\frac1240350 eV=3.54 eV $$ <br/><br/>$\\therefore$ Only metal B will emit photoelectron.",
+      "solution": "$$ \\phi=\\frach c\\lambda=\\frac\u2081\u2082\u2084\u2080\u2083\u2085\u2080 eV=3.54 eV $$ <br/><br/>$\\therefore$ Only metal B will emit photoelectron.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1854,7 +1029,7 @@
       "options": {
         "A": "C only",
         "B": "A and D only",
-        "C": "C and D only",
+        "C": "and D only",
         "D": "B and C only"
       },
       "answer": "C",
@@ -1882,7 +1057,7 @@
     {
       "question": "<p>From the photoelectric effect experiment, following observations are made. Identify which of these are correct.</p> <p>A. The stopping potential depends only on the work function of the metal.</p> <p>B. The saturation current increases as the intensity of incident light increases.</p> <p>C. The maximum kinetic energy of a photo electron depends on the intensity of the incident light.</p> <p>D. Photoelectric effect can be explained using wave theory of light.</p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "A, B, D only",
+        "A": ", B, D only",
         "B": "A, C, D only",
         "C": "B, C only",
         "D": "B only"
@@ -1903,7 +1078,7 @@
         "D": "276"
       },
       "answer": "B",
-      "solution": "<p>Threshold wavelength ($$\\lambda_threshold$$) is the maximum wavelength of light required to remove an electron from a metal surface, i.e., to overcome the work function ($$\\phi$$). The relationship between work function and threshold wavelength is given by:</p> $$\\phi = \\frachc\\lambda_threshold$$ <p>Where:</p> <ul> <li>$$\\phi$$ is the work function in electron-volts (eV)</li> <li>$$h$$ is the Planck's constant</li> <li>$$c$$ is the speed of light</li> <li>$$\\lambda_threshold$$ is the threshold wavelength</li> </ul> <p>In this problem, we are given the product $$hc = 1242 ~eV\\,nm$$, and the work functions $$\\phi_A = 9 ~eV$$ and $$\\phi_B = 4.5 ~eV$$. Let's calculate the threshold wavelengths for metal surfaces $$A$$ and $$B$$:</p> <p>For metal surface $$A$$:</p> $$\\lambda_A = \\frac1242\\phi_A = \\frac12429$$ <p>For metal surface $$B$$:</p> $$\\lambda_B = \\frac1242\\phi_B = \\frac12424.5$$ <p>Now let's calculate the difference between the threshold wavelengths ($$\\Delta\\lambda$$):</p> $$\\Delta\\lambda = \\lambda_B - \\lambda_A = \\frac12424.5 - \\frac12429$$ <p>By calculating the difference, we get:</p> $$\\Delta\\lambda = 276 - 138 = 138 ~nm$$ <br/> <p>So, the difference between the threshold wavelengths for the two metal surfaces is $$\\boxed138\\,nm$$.",
+      "solution": "<p>Threshold wavelength ($$\\lambda_threshold$$) is the maximum wavelength of light required to remove an electron from a metal surface, i.e., to overcome the work function ($$\\phi$$). The relationship between work function and threshold wavelength is given by:</p> $$\\phi = \\frachc\\lambda_threshold$$ <p>Where:</p> <ul> <li>$$\\phi$$ is the work function in electron-volts (eV)</li> <li>$$h$$ is the Planck's constant</li> <li>$$c$$ is the speed of light</li> <li>$$\\lambda_threshold$$ is the threshold wavelength</li> </ul> <p>In this problem, we are given the product $$hc = 1242 ~eV\\,nm$$, and the work functions $$\\phi_A = 9 ~eV$$ and $$\\phi_B = 4.5 ~eV$$. Let's calculate the threshold wavelengths for metal surfaces $$A$$ and $$B$$:</p> <p>For metal surface $$A$$:</p> $$\\lambda_A = \\frac\u2081\u2082\u2084\u2082\\phi_A = \\frac\u2081\u2082\u2084\u2082\u2089$$ <p>For metal surface $$B$$:</p> $$\\lambda_B = \\frac\u2081\u2082\u2084\u2082\\phi_B = \\frac\u2081\u2082\u2084\u2082\u2084.5$$ <p>Now let's calculate the difference between the threshold wavelengths ($$\\Delta\\lambda$$):</p> $$\\Delta\\lambda = \\lambda_B - \\lambda_A = \\frac\u2081\u2082\u2084\u2082\u2084.5 - \\frac\u2081\u2082\u2084\u2082\u2089$$ <p>By calculating the difference, we get:</p> $$\\Delta\\lambda = 276 - 138 = 138 ~nm$$ <br/> <p>So, the difference between the threshold wavelengths for the two metal surfaces is $$\\boxed\u2081\u2083\u2088\\,nm$$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1933,7 +1108,7 @@
         "D": "$$1.6 \\times 10^12 ~Hz$$"
       },
       "answer": "C",
-      "solution": "<p>The threshold frequency, $$ \\nu_0 $$, corresponds to the minimum frequency of light required to eject electrons from the surface of a metal, a phenomenon known as the photoelectric effect. The work function, represented by $$ \\phi $$, is the minimum energy needed to remove an electron from the surface of the metal.</p> <p>The energy of a photon is given by the equation $$ E = h\\nu $$, where:</p> <ul> <li>$$ E $$ is the energy of the photon,</li> <li>$$ h $$ is Planck's constant ($$ h = 6.626 \\times 10^-34 \\, \\textJ \\cdot \\texts $$), and</li> <li>$$ \\nu $$ is the frequency of the photon.</li> </ul> <p>To find the threshold frequency for a metal with a work function of $$ 6.63 \\, \\texteV $$, we must first express the work function in joules (since Planck's constant is in joules per second). To convert electron volts to joules, use the conversion factor $$ 1 \\, \\texteV = 1.602 \\times 10^-19 \\, \\textJ $$:</p> $$ \\phi = 6.63 \\, \\texteV \\times 1.602 \\times 10^-19 \\, \\frac\\textJ\\texteV = 1.061 \\times 10^-18 \\, \\textJ $$ <p>The energy of the photon at the threshold frequency is equal to the work function:</p> $$ h\\nu_0 = \\phi $$ <p>Solve for $$ \\nu_0 $$:</p> $$ \\nu_0 = \\frac\\phih = \\frac1.061 \\times 10^-18 \\, \\textJ6.626 \\times 10^-34 \\, \\textJ \\cdot \\texts = 1.6 \\times 10^15 \\, \\textHz $$ <p>Thus, the correct answer is:</p> Option C $$ 1.6 \\times 10^15 \\, \\textHz $$",
+      "solution": "<p>The threshold frequency, $$ \\nu_0 $$, corresponds to the minimum frequency of light required to eject electrons from the surface of a metal, a phenomenon known as the photoelectric effect. The work function, represented by $$ \\phi $$, is the minimum energy needed to remove an electron from the surface of the metal.</p> <p>The energy of a photon is given by the equation $$ E = h\\nu $$, where:</p> <ul> <li>$$ E $$ is the energy of the photon,</li> <li>$$ h $$ is Planck's constant ($$ h = 6.626 \\times 10^-34 \\, \\textJ \\cdot \\texts $$), and</li> <li>$$ \\nu $$ is the frequency of the photon.</li> </ul> <p>To find the threshold frequency for a metal with a work function of $$ 6.63 \\, \\texteV $$, we must first express the work function in joules (since Planck's constant is in joules per second). To convert electron volts to joules, use the conversion factor $$ 1 \\, \\texteV = 1.602 \\times 10^-19 \\, \\textJ $$:</p> $$ \\phi = 6.63 \\, \\texteV \\times 1.602 \\times 10^-19 \\, \\frac\\textJ\\texteV = 1.061 \\times 10^-18 \\, \\textJ $$ <p>The energy of the photon at the threshold frequency is equal to the work function:</p> $$ h\\nu_0 = \\phi $$ <p>Solve for $$ \\nu_0 $$:</p> $$ \\nu_0 = \\frac\\phih = \\frac\u2081.061 \\times 10^-18 \\, \\textJ\u2086.626 \\times 10^-34 \\, \\textJ \\cdot \\texts = 1.6 \\times 10^15 \\, \\textHz $$ <p>Thus, the correct answer is:</p> Option C $$ 1.6 \\times 10^15 \\, \\textHz $$",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1948,7 +1123,7 @@
         "D": "quadrupled"
       },
       "answer": "C",
-      "solution": "<p>Since $$\\fracf2<f_0$$</p> <p>i.e. the incident frequency is less than threshold frequency. Hence there will be no emission of photoelectrons.</p> <p>$$\\Rightarrow \\text current =0$$</p>",
+      "solution": "<p>Since $$\\fracf\u2082<f_0$$</p> <p>i.e. the incident frequency is less than threshold frequency. Hence there will be no emission of photoelectrons.</p> <p>$$\\Rightarrow \\text current =0$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1963,7 +1138,7 @@
         "D": "200 nm"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & \\text For P.E.E. : \\lambda \\leq \\frach cW_e \\\\ & \\lambda \\leq \\frac1240 ~nm-eV3 eV \\\\ & \\lambda \\leq 413.33 ~nm \\\\ & \\lambda_\\max \\approx 414 ~nm \\text for P.E.E. \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & \\text For P.E.E. : \\lambda \\leq \\frach cW_e \\\\ & \\lambda \\leq \\frac\u2081\u2082\u2084\u2080 ~nm-eV\u2083 eV \\\\ & \\lambda \\leq 413.33 ~nm \\\\ & \\lambda_\\max \\approx 414 ~nm \\text for P.E.E. \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2008,7 +1183,7 @@
         "D": "1.5 V"
       },
       "answer": "B",
-      "solution": "<p>To find the stopping potential ($V_s$) when UV light of wavelength $300 $ nm is incident on a metal surface with a work function of $2.13$ eV, we can use the photoelectric equation which relates the energy of the incident photons, the work function of the metal, and the kinetic energy of the emitted electrons.</p> <p>The energy (E) of the photons can be calculated using the equation:</p> <p>$E = \\frachc\\lambda$</p> <p>where $h$ is the Planck constant, $c$ is the speed of light, and $\\lambda$ is the wavelength of the incident light. Given that $hc = 1240 $ eV nm, we can calculate the energy of the UV light photons directly.</p> <p>Substituting $hc = 1240 $ eV nm and $\\lambda = 300 $ nm into the equation gives:</p> <p>$E = \\frac1240 \\, \\texteV nm300 \\, \\textnm = 4.13 \\, \\texteV$</p> <p>Next, we can calculate the maximum kinetic energy of the emitted electrons using the photoelectric effect equation:</p> <p>$K_max = E - \\phi$</p> <p>where $K_max$ is the maximum kinetic energy of the emitted electrons, $E$ is the energy of the incident photons, and $\\phi$ is the work function of the metal.</p> <p>Given $E = 4.13$ eV and the work function $\\phi = 2.13$ eV, we have:</p> <p>$K_max = 4.13 \\, \\texteV - 2.13 \\, \\texteV = 2 \\, \\texteV$</p> <p>The stopping potential ($V_s$) is related to the maximum kinetic energy of the emitted electrons by the equation:</p> <p>$K_max = eV_s$</p> <p>where $e$ is the elementary charge (the charge of an electron), and $V_s$ is the stopping potential. Since $e = 1$ when using energy in eV and potential in volts, the stopping potential $V_s$ can be directly equated to the kinetic energy in eV:</p> <p>$V_s = K_max = 2 \\, \\textV$</p> <p>Therefore, the stopping potential is $2$ V, which corresponds to Option B.</p>",
+      "solution": "<p>To find the stopping potential ($V_s$) when UV light of wavelength $300 $ nm is incident on a metal surface with a work function of $2.13$ eV, we can use the photoelectric equation which relates the energy of the incident photons, the work function of the metal, and the kinetic energy of the emitted electrons.</p> <p>The energy (E) of the photons can be calculated using the equation:</p> <p>$E = \\frachc\\lambda$</p> <p>where $h$ is the Planck constant, $c$ is the speed of light, and $\\lambda$ is the wavelength of the incident light. Given that $hc = 1240 $ eV nm, we can calculate the energy of the UV light photons directly.</p> <p>Substituting $hc = 1240 $ eV nm and $\\lambda = 300 $ nm into the equation gives:</p> <p>$E = \\frac\u2081\u2082\u2084\u2080 \\, \\texteV nm\u2083\u2080\u2080 \\, \\textnm = 4.13 \\, \\texteV$</p> <p>Next, we can calculate the maximum kinetic energy of the emitted electrons using the photoelectric effect equation:</p> <p>$K_max = E - \\phi$</p> <p>where $K_max$ is the maximum kinetic energy of the emitted electrons, $E$ is the energy of the incident photons, and $\\phi$ is the work function of the metal.</p> <p>Given $E = 4.13$ eV and the work function $\\phi = 2.13$ eV, we have:</p> <p>$K_max = 4.13 \\, \\texteV - 2.13 \\, \\texteV = 2 \\, \\texteV$</p> <p>The stopping potential ($V_s$) is related to the maximum kinetic energy of the emitted electrons by the equation:</p> <p>$K_max = eV_s$</p> <p>where $e$ is the elementary charge (the charge of an electron), and $V_s$ is the stopping potential. Since $e = 1$ when using energy in eV and potential in volts, the stopping potential $V_s$ can be directly equated to the kinetic energy in eV:</p> <p>$V_s = K_max = 2 \\, \\textV$</p> <p>Therefore, the stopping potential is $2$ V, which corresponds to Option B.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2032,7 +1207,7 @@
     {
       "question": "<p>A convex lens of focal length $$40 ~cm$$ forms an image of an extended source of light on a photoelectric cell. A current I is produced. The lens is replaced by another convex lens having the same diameter but focal length $$20 ~cm$$. The photoelectric current now is :</p>",
       "options": {
-        "A": "$$\\fracI2$$",
+        "A": "$$\\fracI\u2082$$",
         "B": "4 I",
         "C": "2 I",
         "D": "I"
@@ -2068,7 +1243,7 @@
         "D": "71mT"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265628/exam_images/l25ezovimqa8tuewplkj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Magnetic Effect of Current Question 131 English Explanation\"> <br><br>K.E = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1 MeV = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ 10<sup>6</sup> = $$1 \\over 2$$ $$ \\times $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ v<sup>2</sup> <br><br>$$ \\Rightarrow $$ v = $$\\sqrt 2 \\times 10^7$$ m/s <br><br>F<sub>m</sub> = qvB sin$$\\theta $$ <br><br>$$ \\Rightarrow $$ F<sub>m</sub> = qvB [as $$\\theta $$ = 90<sup>o</sup>] <br><br>$$ \\Rightarrow $$ ma = Bev <br><br>$$ \\Rightarrow $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ 10<sup>12</sup> = 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ $$\\sqrt 2 \\times 10^7$$ $$ \\times $$ B <br><br>$$ \\Rightarrow $$ B = 0.71 mJ",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2086\u2082\u2088/exam_images/l\u2082\u2085ezovimqa\u2088tuewplkj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Magnetic Effect of Current Question 131 English Explanation\"> <br><br>K.E = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1 MeV = $$1 \\over 2mv^2$$ <br><br>$$ \\Rightarrow $$ 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ 10<sup>6</sup> = $$1 \\over 2$$ $$ \\times $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ v<sup>2</sup> <br><br>$$ \\Rightarrow $$ v = $$\\sqrt 2 \\times 10^7$$ m/s <br><br>F<sub>m</sub> = qvB sin$$\\theta $$ <br><br>$$ \\Rightarrow $$ F<sub>m</sub> = qvB [as $$\\theta $$ = 90<sup>o</sup>] <br><br>$$ \\Rightarrow $$ ma = Bev <br><br>$$ \\Rightarrow $$ 1.6 \u00d7 10<sup>\u201327</sup> $$ \\times $$ 10<sup>12</sup> = 1.6 $$ \\times $$ 10<sup>-19</sup> $$ \\times $$ $$\\sqrt 2 \\times 10^7$$ $$ \\times $$ B <br><br>$$ \\Rightarrow $$ B = 0.71 mJ",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -2090,15 +1265,15 @@
       "chapter": "Dual Nature of Radiation and Matter"
     },
     {
-      "question": "<p>Match List I with List II</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c3owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 669px\"> <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 249px\"/> <col style=\"width: 45px\"/> <col style=\"width: 325px\"/> </colgroup> <thead> <tr> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-c3ow\">A.</td> <td class=\"tg-0pky\">Young's Modulus (Y)</td> <td class=\"tg-c3ow\">I.</td> <td class=\"tg-0pky\">$$[ML^-1T^-1]$$</td> </tr> <tr> <td class=\"tg-c3ow\">B.</td> <td class=\"tg-0pky\">Co-efficient of Viscosity ($$\\eta$$)</td> <td class=\"tg-c3ow\">II.</td> <td class=\"tg-0pky\">$$[ML^2T^-1]$$</td> </tr> <tr> <td class=\"tg-c3ow\">C.</td> <td class=\"tg-0pky\">Planck's Constant (h)</td> <td class=\"tg-c3ow\">III.</td> <td class=\"tg-0pky\">$$[ML^-1T^-2]$$</td> </tr> <tr> <td class=\"tg-c3ow\">D.</td> <td class=\"tg-0pky\">Work function ($$\\varphi $$)</td> <td class=\"tg-c3ow\">IV.</td> <td class=\"tg-0pky\">$$[ML^2T^-2]$$</td> </tr> </tbody> </table></p> <p>Choose the correct answer from the options given below :</p>",
+      "question": "<p>Match List I with List II</p> <p><style type=\"text/css\"> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;text-align:center;vertical-align:top .tg .tg-7bttborder-color:inherit;font-weight:bold;text-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;text-align:left;vertical-align:top </style> <table class=\"tg\" style=\"undefined;table-layout: fixed; width: 669px\"> <colgroup> <col style=\"width: 50px\"/> <col style=\"width: 249px\"/> <col style=\"width: 45px\"/> <col style=\"width: 325px\"/> </colgroup> <thead> <tr> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List I</th> <th class=\"tg-7btt\"></th> <th class=\"tg-7btt\">List II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-c\u2083ow\">A.</td> <td class=\"tg-0pky\">Young's Modulus (Y)</td> <td class=\"tg-c\u2083ow\">I.</td> <td class=\"tg-0pky\">$$[ML^-1T^-1]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">B.</td> <td class=\"tg-0pky\">Co-efficient of Viscosity ($$\\eta$$)</td> <td class=\"tg-c\u2083ow\">II.</td> <td class=\"tg-0pky\">$$[ML^2T^-1]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">C.</td> <td class=\"tg-0pky\">Planck's Constant (h)</td> <td class=\"tg-c\u2083ow\">III.</td> <td class=\"tg-0pky\">$$[ML^-1T^-2]$$</td> </tr> <tr> <td class=\"tg-c\u2083ow\">D.</td> <td class=\"tg-0pky\">Work function ($$\\varphi $$)</td> <td class=\"tg-c\u2083ow\">IV.</td> <td class=\"tg-0pky\">$$[ML^2T^-2]$$</td> </tr> </tbody> </table></p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "A-II, B-III, C-IV, D-I",
+        "A": "-II, B-III, C-IV, D-I",
         "B": "A-I, B-II, C-III, D-IV",
         "C": "A-I, B-III, C-IV, D-II",
         "D": "A-III, B-I, C-II, D-IV"
       },
       "answer": "D",
-      "solution": "$$ \\beginaligned & Y=\\frac\\text Stress \\text Strain =\\fracF / A\\Delta \\ell / \\ell=\\frac\\left[MLT^-2\\right]\\left[L^2\\right]=\\left[ML^-1 ~T^-2\\right] \\\\\\\\ & F=6 \\pi \\eta rv \\Rightarrow \\eta=\\fracF6 \\pi rv \\\\\\\\ & [\\eta]=\\frac\\left[MLT^-2\\right][L]\\left[LT^-1\\right]=\\left[ML^-1 ~T^-1\\right] \\\\\\\\ & E=h v \\Rightarrow h=\\fracEv=\\frac\\left[ML^2 ~T^-2\\right]\\left[T^-1\\right]=\\left[ML^2 ~T^-1\\right] \\endaligned $$<br/><br/> Work function has same dimension as that of energy, so $[\\phi]=\\left[ML^2 ~T^-2\\right]$",
+      "solution": "$$ \\beginaligned & Y=\\frac\\text Stress \\text Strain =\\fracF / A\\Delta \\ell / \\ell=\\frac\\left[MLT^-2\\right]\\left[L^2\\right]=\\left[ML^-1 ~T^-2\\right] \\\\\\\\ & F=6 \\pi \\eta rv \\Rightarrow \\eta=\\fracF\u2086 \\pi rv \\\\\\\\ & [\\eta]=\\frac\\left[MLT^-2\\right][L]\\left[LT^-1\\right]=\\left[ML^-1 ~T^-1\\right] \\\\\\\\ & E=h v \\Rightarrow h=\\fracEv=\\frac\\left[ML^2 ~T^-2\\right]\\left[T^-1\\right]=\\left[ML^2 ~T^-1\\right] \\endaligned $$<br/><br/> Work function has same dimension as that of energy, so $[\\phi]=\\left[ML^2 ~T^-2\\right]$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",

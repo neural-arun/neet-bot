@@ -6,7 +6,7 @@
     {
       "question": "What are the values of a, b, c, d and e in mm Hg?",
       "options": {
-        "A": "A 104, 45, 90, 95, 45",
+        "A": "104, 45, 90, 95, 45",
         "B": "3, 104, 45, 90, 40",
         "C": "3, 104, 45, 95, 45",
         "D": "3, 104, 45, 95, 40"
@@ -27,7 +27,7 @@
         "D": "Parabolic"
       },
       "answer": "A",
-      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u2192 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: $$\\textY = \\frac[\\textO_2]^nK + [\\textO_2]^n$$ Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
+      "solution": "## Answer: **(C) Sigmoid (S-shaped)** --- ## Detailed Explanation: ### Why the Curve is Sigmoid: The oxyhemoglobin dissociation curve displays an **S-shaped (sigmoid) curve** because of **cooperative binding** of oxygen molecules to hemoglobin: | pO\\u\u2082\u2080\u2088\u2082 Range | Curve Behavior | Reason | |-----------|-----------------|--------| | **Low (0-20 mmHg)** | Gradual rise | Difficult for 1st O\\u\u2082\u2080\u2088\u2082 molecule to bind | | **Intermediate (20-60 mmHg)** | Steep rise | Binding of earlier O\\u\u2082\u2080\u2088\u2082 molecules increases affinity (cooperative effect) | | **High (>60 mmHg)** | Plateau | Hemoglobin becomes nearly saturated | ### Key Concept - Cooperative Binding: When the first oxygen molecule binds to hemoglobin, it causes a conformational change (T \\u\u2082\u2081\u2089\u2082 R state) that makes it easier for subsequent oxygen molecules to bind. This creates the characteristic steep middle portion of the curve. --- ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---------------| | **(A) Linear** | Oxygen binding is NOT proportional to pO\\u\u2082\u2080\u2088\u2082; binding is cooperative, not uniform | | **(B) Hyperbolic** | This would indicate independent, non-cooperative binding (like myoglobin, not hemoglobin) | | **(D) Parabolic** | Does not match the actual experimental data for hemoglobin saturation | --- ## Key Formula to Remember: **Hill Equation** describes cooperative binding: $$\\textY = \\frac[\\textO_2]^nK + [\\textO_2]^n$$ Where n = 2.8 (cooperativity coefficient for hemoglobin), creating the sigmoid curve. **For NEET exams:** Remember that **hemoglobin shows sigmoid curve** while **myoglobin shows hyperbolic curve** - this is a frequently asked distinction!",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Biology",
@@ -36,7 +36,7 @@
     {
       "question": "Assertion (A): A person goes to high altitude and experiences 'altitude sickness' with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below.",
       "options": {
-        "A": "A Both (",
+        "A": "Both (",
         "B": "and (R) are true and (R) is the correct explanation of (",
         "C": "B Both (",
         "D": "and (R) are true but (R) is not the correct explanation of ("
@@ -69,7 +69,7 @@
         "A": "Increased respiratory surface; Inflammation of bronchioles",
         "B": "Increased number of bronchioles; Increased respiratory surface",
         "C": "Inflammation of bronchioles; Decreased respiratory surface",
-        "D": "Decreased respiratory surface; Inflammation of bronchioles MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "ecreased respiratory surface; Inflammation of bronchioles MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) Increased respiratory surface; Inflammation of bronchioles** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -99,7 +99,7 @@
         "A": "is true but (R) is false",
         "B": "is false but (R) is true",
         "C": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
-        "D": "Both (A) and (R) are true but (R) is not the correct explanation of (A) MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "Both (A) and (R) are true but (R) is not the correct explanation of (A) MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) is true but (R) is false** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -109,25 +109,25 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "The partial pressures (in mm Hg) of oxygen (O2) and carbon dioxide. (CO2) at alveoli (the site of diffusion) are:",
+      "question": "The partial pressures (in mm Hg) of oxygen (O\u2082) and carbon dioxide. (CO\u2082) at alveoli (the site of diffusion) are:",
       "options": {
-        "A": "pO2 = 95 and pCO2 = 40",
-        "B": "pO2 = 159 and pCO2 = 0.3",
-        "C": "pO2 = 104 and pCO2 = 40",
-        "D": "pO2 = 40 and pCO2 = 45"
+        "A": "pO\u2082 = 95 and pCO\u2082 = 40",
+        "B": "pO\u2082 = 159 and pCO\u2082 = 0.3",
+        "C": "pO\u2082 = 104 and pCO\u2082 = 40",
+        "D": "pO\u2082 = 40 and pCO\u2082 = 45"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) pO2 = 95 and pCO2 = 40** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) pO\u2082 = 95 and pCO\u2082 = 40** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Given below are two statements: Assertion (A): A person goes to high altitude and experiences \\u201cAltitude Sickness\\u201d with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below:",
+      "question": "Given below are two statements: Assertion (A): A person goes to high altitude and experiences \\u\u2082\u2080\u2081cAltitude Sickness\\u\u2082\u2080\u2081d with symptoms like breathing difficulty and heart palpitations. Reason (R): Due to low atmospheric pressure at high altitude, the body does not get sufficient oxygen. In the light of the above statements, choose the correct answer from the options given below:",
       "options": {
         "A": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
-        "B": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
+        "B": "oth (A) and (R) are true but (R) is not the correct explanation of (A)",
         "C": "is true but (R) is false",
         "D": "is false but (R) is true"
       },
@@ -141,13 +141,13 @@
     {
       "question": "Select the favourable conditions required for the formation of oxyhaemoglobin at the alveoli.",
       "options": {
-        "A": "High pO2, high pCO2, less H+, higher temperature",
-        "B": "Low pO2, low pCO2, more H+, higher temperature",
-        "C": "High pO2, low pCO2, less H+, lower temperature",
-        "D": "Low pO2, high pCO2, more H+, higher temperature"
+        "A": "High pO\u2082, high pCO\u2082, less H+, higher temperature",
+        "B": "Low pO\u2082, low pCO\u2082, more H+, higher temperature",
+        "C": "High pO\u2082, low pCO\u2082, less H+, lower temperature",
+        "D": "Low pO\u2082, high pCO\u2082, more H+, higher temperature"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) High pO2, high pCO2, less H+, higher temperature** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) High pO\u2082, high pCO\u2082, less H+, higher temperature** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -159,7 +159,7 @@
         "A": "IRV + ERV",
         "B": "IRV + ERV + TV + RV",
         "C": "IRV + ERV + TV - RV",
-        "D": "IRV + ERV + TV MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
+        "D": "IRV + ERV + TV MedicNEE Medi M MedicN MedicNEE Medic TM cNEET"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A) IRV + ERV** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
@@ -171,13 +171,13 @@
     {
       "question": "Which of the following factors are favourable for the formation of oxyhaemoglobin in alveoli?",
       "options": {
-        "A": "High pO2 and lesser H+ concentration",
-        "B": "Low pCO2 and high H+ concentration",
-        "C": "Low pCO2 and high temperature",
-        "D": "High pO2 and high pCO2"
+        "A": "High pO\u2082 and lesser H+ concentration",
+        "B": "Low pCO\u2082 and high H+ concentration",
+        "C": "Low pCO\u2082 and high temperature",
+        "D": "High pO\u2082 and high pCO\u2082"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) High pO2 and lesser H+ concentration** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) High pO\u2082 and lesser H+ concentration** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Breathing and Exchange of Gases*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -199,9 +199,9 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "In amphibians and reptiles, the \\u2026A\\u2026 atrium receives oxygenated blood from the gills/lung/skin and \\u2026B\\u2026",
+      "question": "In amphibians and reptiles, the \\u\u2082\u2080\u2082\u2086A\\u\u2082\u2080\u2082\u2086 atrium receives oxygenated blood from the gills/lung/skin and \\u\u2082\u2080\u2082\u2086B\\u\u2082\u2080\u2082\u2086",
       "options": {
-        "A": "A-right, B-left, C-deoxygenated",
+        "A": "-right, B-left, C-deoxygenated",
         "B": "A-right, B-left, C-oxygenated",
         "C": "A-left, B-right, C-deoxygenated",
         "D": "A-left, B-right, C-oxygenated"
@@ -219,7 +219,7 @@
         "A": "Carbon dioxide",
         "B": "Oxygen",
         "C": "Both (a) and (b)",
-        "D": "Due to mixing of sputum"
+        "D": "ue to mixing of sputum"
       },
       "answer": "B",
       "solution": "**Correct Answer: (B) Oxygen** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
@@ -231,10 +231,10 @@
     {
       "question": "Consider the following statements about biomedical technologies A. During open heart surgery blood is circulated in the heart-lung machine. B. Blockage in coronary arteries is removed by angiography. C. Computerised Axial Tomography (CAT) shows detailed internal structure as seen in a section of body. D. X-ray provides clear and detailed images of organs like prostate glands and lungs. Which two of the above statements are correct?",
       "options": {
-        "A": "B and D",
-        "B": "C and D",
-        "C": "A and C",
-        "D": "A and B"
+        "A": "B and",
+        "B": "C and",
+        "C": "A and",
+        "D": "A and"
       },
       "answer": "C",
       "solution": "**Correct Answer: (C) A and C** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (C) is the accurate scientific choice.",
@@ -246,13 +246,13 @@
     {
       "question": "Our lungs releas",
       "options": {
-        "A": "18 L of O2 every day",
-        "B": "18 L of CO2 every day",
-        "C": "10 L of CO2 every day",
-        "D": "10 L of O2 every day"
+        "A": "18 L of O\u2082 every day",
+        "B": "18 L of CO\u2082 every day",
+        "C": "10 L of CO\u2082 every day",
+        "D": "10 L of O\u2082 every day"
       },
       "answer": "B",
-      "solution": "**Correct Answer: (B) 18 L of CO2 every day** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (B) 18 L of CO\u2082 every day** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -306,7 +306,7 @@
     {
       "question": "In heavy smokers, the alveoil of the lungs are enlarged and damaged, which reduces the surface area for",
       "options": {
-        "A": "Asthma",
+        "A": "sthma",
         "B": "Silicosis",
         "C": "Emphhysema",
         "D": "Insomnia"
@@ -321,7 +321,7 @@
     {
       "question": "Match List-I with List-II: $\\beginarray|l|l|r|l|\\hline & \\textList-I & & \\textList-II \\\\ \\hline A. & \\textResidual Volume & I. & \\beginarrayl \\textMaximum volume of air that can be breathed in after forced \\\\ \\textexpiration \\endarray \\\\ \\hline B. & \\textVital Capacity & II. & \\textVolume of air inspired or expired during normal respiration \\\\ \\hline C. & \\textExpiratory Capacity & III. & \\textVolume of air remaining in lungs after forcible expiration \\\\ \\hline D. & \\textTidal Volume & IV. & \\textTotal volume of air expired after normal inspiration \\\\ \\hline \\endarray$ Choose the correct answer from the options given below:",
       "options": {
-        "A": "A-IV, B-III, C-II, D-I",
+        "A": "-IV, B-III, C-II, D-I",
         "B": "A-II, B-IV, C-I, D-III",
         "C": "A-III, B-I, C-IV, D-II",
         "D": "A-I, B-II, C-III, D-IV"
@@ -334,9 +334,9 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Match List I with List II : [Image: https://cdn-question-pool.getmarks.app/pyq/neet/rm1gBpiut0qSwHUCQxQQI4XKjDmiGm0Brsl9BZXrc2U.original.fullsize.png] Choose the correct answer from the options given below :",
+      "question": "Match List I with List II : [Image: https://cdn-question-pool.getmarks.app/pyq/neet/rm\u2081gBpiut\u2080qSwHUCQxQQI\u2084XKjDmiGm\u2080Brsl\u2089BZXrc\u2082U.original.fullsize.png] Choose the correct answer from the options given below :",
       "options": {
-        "A": "A-III, B-II, C-IV, D-I",
+        "A": "-III, B-II, C-IV, D-I",
         "B": "A-II, B-I, C-IV, D-III",
         "C": "A-I, B-III, C-II, D-IV",
         "D": "A-II, B-IV, C-I, D-III"
@@ -396,28 +396,28 @@
     {
       "question": "The Total Lung Capacity(TLC) is the total volume of air accomodated in the lungs at the end of a forced inspiration. This includes:",
       "options": {
-        "A": "<p><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>IC</mi></math> (Inspiratory Capacity); <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>EC</mi></math> (Expiratory Capacity); and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ERV</mi></math></p>",
-        "B": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mi>ERV</mi><mo>;</mo><mi>IC</mi></math> and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>EC</mi></math>",
-        "C": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>ERV</mi><mo>;</mo><mo> </mo><mi>VC</mi></math> (Vital Capacity) and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>FRC</mi></math> (Functional Residual Capacity)",
-        "D": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)"
+        "A": "<p><math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>IC</mi></math> (Inspiratory Capacity); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>EC</mi></math> (Expiratory Capacity); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math></p>",
+        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mi>ERV</mi><mo>;</mo><mi>IC</mi></math> and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>EC</mi></math>",
+        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi><mo>;</mo><mo> </mo><mi>ERV</mi><mo>;</mo><mo> </mo><mi>VC</mi></math> (Vital Capacity) and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>FRC</mi></math> (Functional Residual Capacity)",
+        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)"
       },
       "answer": "D",
-      "solution": "**Correct Answer: (D) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (D) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>RV</mi></math> (Residual Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>ERV</mi></math> (Expiratory Reserve Volume); <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>TV</mi></math> (Tidal Volume); and <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mi>IRV</mi></math> (Inspiratory Reserve Volume)** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (D) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Match the following columns and select the correct option:- Column-I Column-II (a) Pneumotaxic centre (i) Alveoli (b) O2 Dissociation curve (ii) Pons region of brain (c) Carbonic anhydrase (iii) Haemoglobin (d) Primary site of exchange of gases (iv) R.B.C.",
+      "question": "Match the following columns and select the correct option:- Column-I Column-II (a) Pneumotaxic centre (i) Alveoli (b) O\u2082 Dissociation curve (ii) Pons region of brain (c) Carbonic anhydrase (iii) Haemoglobin (d) Primary site of exchange of gases (iv) R.B.C.",
       "options": {
-        "A": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>",
-        "B": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
-        "C": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
-        "D": "<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>"
+        "A": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo></math>",
+        "B": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
+        "C": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>",
+        "D": "<math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo></math>"
       },
       "answer": "B",
-      "solution": "**Correct Answer: (B) <math xmlns=\"http://www.w3.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (B) <math xmlns=\"http://www.w\u2083.org/1998/Math/MathML\"><mo>(</mo><mi mathvariant=\"normal\">a</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>ii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">b</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iii</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">c</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi>iv</mi><mo>)</mo><mo>,</mo><mo> </mo><mo>(</mo><mi mathvariant=\"normal\">d</mi><mo>)</mo><mo>-</mo><mo>(</mo><mi mathvariant=\"normal\">i</mi><mo>)</mo></math>** **Explanation:** Based on NCERT Biology principles for *Breathing and Exchange of Gases*, option (B) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -501,7 +501,7 @@
     {
       "question": "Match the items given in Column I with those in Column II and select the correct option given below: Column - I Column - II a. Tidal volume i. 2500 - 3000 mL b. Inspiratory Reserve volume ii. 1100 - 1200 mL c. Expiratory Reserve volume iii, 500 - 550 mL d. Residual volume iv. 1000 - 1100 mL",
       "options": {
-        "A": "a - i, b - ii, c - ii, d - iii",
+        "A": "- i, b - ii, c - ii, d - iii",
         "B": "a - iii, b -i, c - iv, d - ii",
         "C": "a - iii, b - ii, c - i, d - iv",
         "D": "a - iv, b - iii, c - ii, d - i"
@@ -636,7 +636,7 @@
     {
       "question": "Approximately seventy percent of carbon-dioxide absorbed by the blood will be transported to the lungs:",
       "options": {
-        "A": "as bicarbonate ions",
+        "A": "s bicarbonate ions",
         "B": "in the form of dissolved gas molecules",
         "C": "by binding to R.B.C",
         "D": "as carbamino-haemoglobin"
@@ -679,9 +679,9 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "The figure given below shows a small part of human lung where exchange of gas takes place. In which one of the options given below, the one part A, B C or D is correctly identified along with its function. [Image: https://cdn-question-pool.getmarks.app/pyq/neet/BVCe_naqegGjwwXuLAx0-YZOcQhKSwoKKLZ05eBuaRs.original.fullsize.png]",
+      "question": "The figure given below shows a small part of human lung where exchange of gas takes place. In which one of the options given below, the one part A, BC or D is correctly identified along with its function. [Image: https://cdn-question-pool.getmarks.app/pyq/neet/BVCe_naqegGjwwXuLAx\u2080-YZOcQhKSwoKKLZ\u2080\u2085eBuaRs.original.fullsize.png]",
       "options": {
-        "A": "A - Alveolar cavity - main site of exchange of respiratory gases",
+        "A": "- Alveolar cavity - main site of exchange of respiratory gases",
         "B": "D - Capillary wall - exchange of and takes place here",
         "C": "B - Red blood cell - transport of mainly",
         "D": "C - Arterial capillary - passes oxygen to tissues"
@@ -788,7 +788,7 @@
       "options": {
         "A": "carbon disulphide",
         "B": "chloroform",
-        "C": "carbon dioxide",
+        "C": "arbon dioxide",
         "D": "carbon monoxide."
       },
       "answer": "D",
@@ -799,9 +799,9 @@
       "chapter": "Breathing and Exchange of Gases"
     },
     {
-      "question": "Match List I with List II. List I A. \u03b1-1 antitrypsin B. Cry 1Ab C. Cry 1Ac D. Enzyme replacement therapy List II I. Cotton bollworm II. ADA deficiency III. Emphysema IV. Corn borer Choose the correct answer from the options given below.",
+      "question": "Match List I with List II. List IA. \u03b1-1 antitrypsin B. Cry 1Ab C. Cry 1Ac D. Enzyme replacement therapy List II I. Cotton bollworm II. ADA deficiency III. Emphysema IV. Corn borer Choose the correct answer from the options given below.",
       "options": {
-        "A": "A-III, B-I, C-II, D-IV",
+        "A": "-III, B-I, C-II, D-IV",
         "B": "A-III, B-IV, C-I, D-II",
         "C": "A-II, B-IV, C-I, D-III",
         "D": "A-II, B-I, C-IV, D-III"
@@ -832,7 +832,7 @@
       "question": "In cockroach, the respiratory system consists of",
       "options": {
         "A": "Gills",
-        "B": "Book lungs",
+        "B": "ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },
@@ -847,7 +847,7 @@
       "question": "In cockroaches, the respiratory system consists of",
       "options": {
         "A": "Gills",
-        "B": "Book lungs",
+        "B": "ook lungs",
         "C": "Tracheae",
         "D": "Parapodia"
       },
@@ -878,7 +878,7 @@
       "options": {
         "A": "Frog",
         "B": "Human",
-        "C": "Cockroach",
+        "C": "ockroach",
         "D": "Pigeon"
       },
       "answer": "C",
@@ -1026,7 +1026,7 @@
     {
       "question": "In cockroach, the respiratory openings called spiracles are present on:",
       "options": {
-        "A": "All thoracic and abdominal segments",
+        "A": "ll thoracic and abdominal segments",
         "B": "Only on thoracic segments",
         "C": "First two thoracic and last eight abdominal segments",
         "D": "First two thoracic and first eight abdominal segments"
@@ -1057,7 +1057,7 @@
       "question": "In cockroaches, the respiratory system opens to the exterior through",
       "options": {
         "A": "Malpighian tubules",
-        "B": "Book lungs",
+        "B": "ook lungs",
         "C": "Spiracles",
         "D": "Nephridia"
       },
@@ -1177,7 +1177,7 @@
       "question": "In cockroaches, the respiratory system consists of which of the following structures?",
       "options": {
         "A": "Gills",
-        "B": "Book lungs",
+        "B": "ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },
@@ -1222,7 +1222,7 @@
       "question": "In cockroaches, the respiratory system comprises of",
       "options": {
         "A": "Gills",
-        "B": "Book lungs",
+        "B": "ook lungs",
         "C": "Tracheae",
         "D": "Lungs"
       },

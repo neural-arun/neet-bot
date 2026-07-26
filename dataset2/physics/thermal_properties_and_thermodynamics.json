@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Thermal Properties and Thermodynamics",
-  "total_questions": 162,
+  "total_questions": 140,
   "questions": [
     {
       "question": "Refer to the P-V diagram of a Carnot Heat Engine operating between temperatures T\u2081 and T\u2082. During which path of the cycle is heat Q\u2081 absorbed from the hot reservoir?",
@@ -52,21 +52,6 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "Steam at 100 \u00b0 C is passed into 1.1 kg of water contained in a calorimeter of water \u2261alent 0.02 kg at 15 \u00b0 C , till the temperature of the calorimeter and its contents rises to 80 \u00b0 C . The mass of steam condensed (in kg ) is ( Take latent heat of steam = 540 c a l g - 1 ) :",
-      "options": {
-        "A": "A",
-        "B": "130",
-        "C": "065",
-        "D": "260"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Heat release by steam = Heat gained by calorimeter and its contents 1.12 \u00d7 80 - 15 = m \u00d7 540 + m \u00d7 20 m = 0.130 kg **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
       "question": "[NEET 2019 | Physics] A Carnot engine works between source temperature 227\u00b0C and sink temperature 27\u00b0C. Its efficiency is:",
       "options": {
         "A": "40%",
@@ -75,52 +60,22 @@
         "D": "25%"
       },
       "answer": "A",
-      "solution": "## Correct Answer: **(B) 50%** --- ## Step-by-Step Solution: **Step 1: Convert temperatures to Kelvin** - T\u2081 (source) = 227 + 273 = **500 K** - T\u2082 (sink) = 27 + 273 = **300 K** **Step 2: Apply Carnot Engine Efficiency Formula** For a Carnot engine operating between two temperature reservoirs: $$\\eta = 1 - \\fracT_2T_1$$ where: - \u03b7 = efficiency - T\u2081 = absolute temperature of hot reservoir - T\u2082 = absolute temperature of cold reservoir **Step 3: Calculate** $$\\eta = 1 - \\frac300500$$ $$\\eta = 1 - 0.6 = 0.4$$ $$\\eta = 40\\%$$ Wait, let me recalculate: $$\\eta = 1 - \\frac300500 = 1 - \\frac35 = \\frac25 = 0.4 = 40\\%$$ Actually, this gives 40%. Let me verify the temperatures again: - T\u2081 = 227 + 273 = 500 K \u2713 - T\u2082 = 27 + 273 = 300 K \u2713 - \u03b7 = 1 - (300/500) = 1 - 0.6 = **0.4 = 40%** The answer should be **(A) 40%**, not 50%. --- ## Key Concept: The **Carnot efficiency** represents the maximum theoretical efficiency any heat engine can achieve between two given temperatures. It depends **only on the temperature ratio**, not on the design of the engine. **Critical Point:** Always convert to Kelvin! Using Celsius directly would give wrong results. **The answer is (A) 40%**",
+      "solution": "## Correct Answer: **(B) 50%** --- ## Step-by-Step Solution: **Step 1: Convert temperatures to Kelvin** - T\u2081 (source) = 227 + 273 = **500 K** - T\u2082 (sink) = 27 + 273 = **300 K** **Step 2: Apply Carnot Engine Efficiency Formula** For a Carnot engine operating between two temperature reservoirs: $$\\eta = 1 - \\fracT_2T_1$$ where: - \u03b7 = efficiency - T\u2081 = absolute temperature of hot reservoir - T\u2082 = absolute temperature of cold reservoir **Step 3: Calculate** $$\\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080$$ $$\\eta = 1 - 0.6 = 0.4$$ $$\\eta = 40\\%$$ Wait, let me recalculate: $$\\eta = 1 - \\frac\u2083\u2080\u2080\u2085\u2080\u2080 = 1 - \\frac\u2083\u2085 = \\frac\u2082\u2085 = 0.4 = 40\\%$$ Actually, this gives 40%. Let me verify the temperatures again: - T\u2081 = 227 + 273 = 500 K \u2713 - T\u2082 = 27 + 273 = 300 K \u2713 - \u03b7 = 1 - (300/500) = 1 - 0.6 = **0.4 = 40%** The answer should be **(A) 40%**, not 50%. --- ## Key Concept: The **Carnot efficiency** represents the maximum theoretical efficiency any heat engine can achieve between two given temperatures. It depends **only on the temperature ratio**, not on the design of the engine. **Critical Point:** Always convert to Kelvin! Using Celsius directly would give wrong results. **The answer is (A) 40%**",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "The efficiency of a Carnot engine working between 800 K and 500 K is -",
-      "options": {
-        "A": "A",
-        "B": "4",
-        "C": "625 C 0 .375",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Efficiency, \u03b7 = 1 - T 2 T 1 = 1 - 500 800 = 3 8 = 0.375 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "An earthen pitcher loses 1 g of water per minute due to evaporation. If the water \u2261alent of the pitcher is 0.5 kg and the pitcher contains 9.5 kg of water, then calculate the time required for the water in pitcher to cool to 28 \u00b0 C from its original temperature of 30 \u00b0 C . Neglect the effect of radiation. Latent heat of vaporization of water in this range of temperature is 580 cal/g and specific heat of water is 1 c a l / g / \u00b0 C .",
-      "options": {
-        "A": "A",
-        "B": "5 min B",
-        "C": "2 min C",
-        "D": "6 min D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Heat lost by (Water + Pitcher) Q 1 = m + M \u00d7 s \u00d7 \u2206 T = 9.5 + 0.5 \u00d7 10 3 \u00d7 30 - 28 = 20 \u00d7 10 3 c a l Heat gained for the water to evaporate: (Let t be time in min ) Q 2 = m \u00d7 L = d m d t \u00d7 t L = 1 \u00d7 t \u00d7 580 = 580 t c a l So, Q 1 = Q 2 580 t = 20 \u00d7 10 3 t = 20000 580 = 34.5 m i n **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
       "question": "A container of volume $200 ~cm^3$ contains 0.2 mole of hydrogen gas and 0.3 mole of argon gas. The pressure of the system at temperature $200 ~K\\left(R=8.3 ~J ~K^-1 ~mol^-1\\right)$ will be",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "15 \\times 10^5 ~Pa$",
         "C": "15 \\times 10^6 ~Pa$",
         "D": "15 \\times 10^5 ~Pa$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** We know that $\\beginaligned & P V=n R T \\\\ & P_1=\\fracn_1V R T\\endaligned$ $\\begingatheredP_2=\\fracn_2V R T \\\\ P_\\text net =P_1+P_2\\endgathered$ $\\beginaligned & =\\left(n_1+n_2\\right) \\fracR TV \\\\ & =(0.2+0.3) \\times \\frac8.3 \\times 200200 \\times 10^-6\\endaligned$ $=8.3 \\times 0.5 \\times 10^6=4.15 \\times 10^6 ~Pa$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** We know that $\\beginaligned & PV=n RT \\\\ & P_1=\\fracn_1V RT\\endaligned$ $\\begingatheredP_2=\\fracn_2V RT \\\\ P_\\text net =P_1+P_2\\endgathered$ $\\beginaligned & =\\left(n_1+n_2\\right) \\fracR TV \\\\ & =(0.2+0.3) \\times \\frac\u2088.3 \\times 200200 \\times 10^-6\\endaligned$ $=8.3 \\times 0.5 \\times 10^6=4.15 \\times 10^6 ~Pa$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -129,43 +84,13 @@
     {
       "question": "When 100 g of water is supercooled to -10\u00b0C, due to some disturbance mechanized or otherwise, some of it suddenly freezes to ice. What will be the temperature of the resultant mixture and how much mass would freeze?",
       "options": {
-        "A": "A Resultant mixture reaches -10\u00b0",
+        "A": "Resultant mixture reaches -10\u00b0",
         "B": "12.5 g of ice and rest is water. B Resultant mixture reaches -5\u00b0",
         "C": "25 g of ice and rest is water. C Resultant mixture reaches 0\u00b0",
         "D": "12.5 g of ice and rest is water. D Resultant mixture reaches 5\u00b0"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) Resultant mixture reaches 0\u00b0C. 12.5 g of ice and rest is water. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A vertical column of a certain liquid, 50 c m long at 50 o C balances another column of the same liquid, 60 c m long at 100 o C . The coefficient of absolute expansion of the liquid is",
-      "options": {
-        "A": "A",
-        "B": "005 / o C",
-        "C": "0005 / o C",
-        "D": "002 / o C"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** h 1 g \u03c1 1 = h 2 g \u03c1 2 h 1 h 2 = \u03c1 2 \u03c1 1 = 1 + \u03b3 \u03b8 1 1 + \u03b3 \u03b8 2 \u2235 \u03c1 = \u03c1 0 1 + \u03b3 \u03b8 \u21d2 50 60 = 1 + \u03b3 \u00d7 50 1 + \u03b3 \u00d7 100 \u21d2 \u03b3 = 0.005 / o C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A glass flask of volume one litre at 0 \u00b0 C is filled level full of mercury at this temperature. The flask and mercury are now heated to 100 \u00b0 C . How much mercury will spill out if the coefficient of volume expansion of mercury is 1.82 \u00d7 10 - 4 \u00b0 C - 1 and linear expansion of glass is 0 .1 \u00d7 10 - 4 \u00b0 C - 1 , respectively?",
-      "options": {
-        "A": "A",
-        "B": "48 \u00d7 10 - 2 L",
-        "C": "52 \u00d7 10 - 2 L",
-        "D": "53 \u00d7 10 4 L"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Expansion of mercury \u2206 V m = V m \u03b3 m \u2206 \u03b8 =1 \u00d7 1.82 \u00d7 10 - 4 100 \u00b0 - 0 \u00b0 = 1.82 \u00d7 10 - 2 L Expansion of flask, \u2206 V g =\u200b V \u03b3 g \u2206 \u03b8 = V \u22c5 3 \u03b1 g \u2206 \u03b8 =\u200b 1 \u00d7 3 \u00d7 0.1 \u00d7 10 - 4 100 o - 0 o = \u200b0.3 \u00d7 10 - 2 L Volume of mercury that over flows = \u2206 V m - \u2206 V g = 1.82 - 0.3 \u00d7 10 - 2 = 1.52 \u00d7 10 - 2 L **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -180,24 +105,9 @@
         "D": "1 J"
       },
       "answer": "A",
-      "solution": "# Solution: Carnot Engine as Refrigerator ## The Correct Answer: **(A) 90 J** --- ## Step-by-Step Solution ### Step 1: Find Temperature Ratio from Engine Efficiency For a Carnot engine: $$\\eta = 1 - \\fracT_coldT_hot = \\frac110$$ Therefore: $$\\fracT_coldT_hot = 1 - \\frac110 = \\frac910$$ ### Step 2: Use Temperature Ratio for Refrigerator When the same Carnot cycle runs in reverse (as a refrigerator), the temperature ratio remains constant. The Coefficient of Performance (COP) for a refrigerator is: $$COP = \\fracQ_coldW = \\fracT_coldT_hot - T_cold$$ ### Step 3: Calculate COP Let $T_cold = 9$ and $T_hot = 10$ (from the ratio 9/10) $$COP = \\frac910-9 = \\frac91 = 9$$ ### Step 4: Find Heat Absorbed from Cold Reservoir $$Q_cold = COP \\times W = 9 \\times 10 = \\textbf90 J$$ --- ## Why Other Options Are Wrong | Option | Why Wrong | |--------|-----------| | **(B) 99 J** | This would give COP = 9.9, incorrect temperature ratio | | **(C) 100 J** | This would mean no work input, violating energy conservation | | **(D) 1 J** | This reverses the relationship; would be for heating, not cooling | --- ## Key Concept to Remember \ud83d\udd11 **The temperature ratio (T_cold/T_hot) is the same whether a Carnot cycle operates as an engine or refrigerator.** This enables us to convert engine efficiency directly into refrigerator COP using: $$COP_ref = \\fracT_coldT_hot - T_cold = \\frac\\eta1-\\eta$$ For this problem: $COP = \\frac1/109/10 = \\frac19$ ... wait, let me recalculate: **COP = 9** (as derived above).",
+      "solution": "# Solution: Carnot Engine as Refrigerator ## The Correct Answer: **(A) 90 J** --- ## Step-by-Step Solution ### Step 1: Find Temperature Ratio from Engine Efficiency For a Carnot engine: $$\\eta = 1 - \\fracT_coldT_hot = \\frac\u2081\u2081\u2080$$ Therefore: $$\\fracT_coldT_hot = 1 - \\frac\u2081\u2081\u2080 = \\frac\u2089\u2081\u2080$$ ### Step 2: Use Temperature Ratio for Refrigerator When the same Carnot cycle runs in reverse (as a refrigerator), the temperature ratio remains constant. The Coefficient of Performance (COP) for a refrigerator is: $$COP = \\fracQ_coldW = \\fracT_coldT_hot - T_cold$$ ### Step 3: Calculate COP Let $T_cold = 9$ and $T_hot = 10$ (from the ratio 9/10) $$COP = \\frac\u2089\u2081\u2080-9 = \\frac\u2089\u2081 = 9$$ ### Step 4: Find Heat Absorbed from Cold Reservoir $$Q_cold = COP \\times W = 9 \\times 10 = \\textbf\u2089\u2080 J$$ --- ## Why Other Options Are Wrong | Option | Why Wrong | |--------|-----------| | **(B) 99 J** | This would give COP = 9.9, incorrect temperature ratio | | **(C) 100 J** | This would mean no work input, violating energy conservation | | **(D) 1 J** | This reverses the relationship; would be for heating, not cooling | --- ## Key Concept to Remember \ud83d\udd11 **The temperature ratio (T_cold/T_hot) is the same whether a Carnot cycle operates as an engine or refrigerator.** This enables us to convert engine efficiency directly into refrigerator COP using: $$COP_ref = \\fracT_coldT_hot - T_cold = \\frac\\eta\u2081-\\eta$$ For this problem: $COP = \\frac\u2081/109/10 = \\frac\u2081\u2089$ ... wait, let me recalculate: **COP = 9** (as derived above).",
       "exam": "NEET 2017",
       "year": 2017,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "The temperature of equal masses of three different liquids A, B and C are 12 \u2103 , 19 \u2103 and 28 \u2103 respectively. The temperature when A and B are mixed is 16 \u2103 and when B and C are mixed is 23 \u2103 . The temperature when A and C are mixed is",
-      "options": {
-        "A": "A",
-        "B": "2 \u2103 B 22 \u2103 C",
-        "C": "2 \u2103 D",
-        "D": "2 \u2103"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** 1 st case A and B mixed ms A t - t A = ms B t - t B s A ( 16 - 12 ) = s B ( 19 - 16 ) 4 s A = 3 s B 2 nd case B and C mixed m s B t - t B = m s C ( t C - t ) s B 23 - 19 = s C ( 28 - 23 ) 4 s B = 5 s C 3 s B = 15 4 s C \\u2234 4 s A = 3 s B = 15 4 s C \\u21d2 16 s A = 12 s B = 15 s C = k s A : s B : s C = 1 16 : 1 12 : 1 15 s A = k 16 , s C = k 15 3 rd Case When A and C are mixed m s A t - t A = m s C ( t C - t ) k 16 t - 12 = k 15 ( 28 - t ) 15 t - 180 = 448 - 16 t 31 t = 628 \\u21d2 t = 20.2 \\u2103 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
@@ -210,7 +120,7 @@
         "D": "1.25 kJ"
       },
       "answer": "A",
-      "solution": "# Solution: Heat Supplied to Monoatomic Gas at Constant Pressure ## **Correct Answer: (A) 2.08 kJ** --- ## Step-by-Step Solution **Step 1: Identify the process and gas type** - Monoatomic ideal gas (He, Ne, Ar, etc.) - Constant pressure process (isobaric) - \u0394T = 100 K (since \u0394\u00b0C = \u0394K numerically) **Step 2: Find heat capacity at constant pressure (C\u209a)** For a monoatomic gas: - C\u1d65 = (3/2)R [3 translational degrees of freedom] - C\u209a = C\u1d65 + R = (3/2)R + R = **(5/2)R** **Step 3: Apply heat formula for constant pressure** $$Q = nC_p\\Delta T$$ **Step 4: Calculate** $$Q = 1 \\times \\frac52 \\times 8.31 \\times 100$$ $$Q = 2.5 \\times 831$$ $$Q = 2077.5 \\text J \u2248 \\boxed2.08 \\text kJ$$ --- ## Key Concepts to Remember | Quantity | Monoatomic Gas | |----------|---| | C\u1d65 | (3/2)R | | C\u209a | (5/2)R | | \u03b3 = C\u209a/C\u1d65 | 5/3 \u2248 1.67 | **Heat at constant pressure:** Q = nC\u209a\u0394T --- ## Why Other Options Are Wrong - **(B) 8.32 kJ** \u2014 This would be if you used C\u209a = 4R (diatomic gas) - **(C) 4.16 kJ** \u2014 This is exactly double; wrong use of formula - **(D) 1.25 kJ** \u2014 Uses wrong heat capacity value",
+      "solution": "# Solution: Heat Supplied to Monoatomic Gas at Constant Pressure ## **Correct Answer: (A) 2.08 kJ** --- ## Step-by-Step Solution **Step 1: Identify the process and gas type** - Monoatomic ideal gas (He, Ne, Ar, etc.) - Constant pressure process (isobaric) - \u0394T = 100 K (since \u0394\u00b0C = \u0394K numerically) **Step 2: Find heat capacity at constant pressure (C\u209a)** For a monoatomic gas: - C\u1d65 = (3/2)R [3 translational degrees of freedom] - C\u209a = C\u1d65 + R = (3/2)R + R = **(5/2)R** **Step 3: Apply heat formula for constant pressure** $$Q = nC_p\\Delta T$$ **Step 4: Calculate** $$Q = 1 \\times \\frac\u2085\u2082 \\times 8.31 \\times 100$$ $$Q = 2.5 \\times 831$$ $$Q = 2077.5 \\text J \u2248 \\boxed\u2082.08 \\text kJ$$ --- ## Key Concepts to Remember | Quantity | Monoatomic Gas | |----------|---| | C\u1d65 | (3/2)R | | C\u209a | (5/2)R | | \u03b3 = C\u209a/C\u1d65 | 5/3 \u2248 1.67 | **Heat at constant pressure:** Q = nC\u209a\u0394T --- ## Why Other Options Are Wrong - **(B) 8.32 kJ** \u2014 This would be if you used C\u209a = 4R (diatomic gas) - **(C) 4.16 kJ** \u2014 This is exactly double; wrong use of formula - **(D) 1.25 kJ** \u2014 Uses wrong heat capacity value",
       "exam": "NEET 2023",
       "year": 2023,
       "subject": "Physics",
@@ -219,7 +129,7 @@
     {
       "question": "What is the change in length of the combined brass and steel rod when heated from 40.0 \u00b0C to 250 \u00b0C, and is there a 'thermal stress' developed at the junction?",
       "options": {
-        "A": "A The length increases by",
+        "A": "The length increases by",
         "B": "008 cm, and there is no thermal stress. B The length increases by",
         "C": "355 cm, and there is thermal stress. C The length increases by",
         "D": "346 cm, and there is no thermal stress. D The length increases by"
@@ -232,60 +142,30 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "An iron tyre of diameter 2 m is to be fitted on to a wooden wheel of diameter 2.01 m . The temperature to which the tyre must be heated, if \u03b1 = 11 \u00d7 1 0 \u2013 6 \u00b0 C - 1 and room temperature is 20 \u00b0 C , will be",
+      "question": "An iron tyre of diameter 2 m is to be fitted on to a wooden wheel of diameter 2.01 m . The temperature to which the tyre must be heated, if \u03b1 = 11 \u00d7 10 \u2013 6 \u00b0 C - 1 and room temperature is 20 \u00b0 C , will be",
       "options": {
-        "A": "A 47",
-        "B": "5 \u00b0 C B 49",
-        "C": "5 \u00b0 C C 44",
-        "D": "5 \u00b0 C D 46"
+        "A": "47",
+        "B": "5 \u00b0 C B\u2084\u2089",
+        "C": "5 \u00b0 C C\u2084\u2084",
+        "D": "5 \u00b0 C D\u2084\u2086"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 \u03b8 = \u0394 l l \u03b1 \u0394 \u03b8 = 0.01 2 \u00d7 11 \u00d7 10 - 6 \u0394 \u03b8 = 10 4 22 = 454.5 \u03b8 = 454.5 + 20 = 474.5 o C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u0394 \u03b8 = \u0394 l l \u03b1 \u0394 \u03b8 = 0.012 \u00d7 11 \u00d7 10 - 6 \u0394 \u03b8 = 104 22 = 454.5 \u03b8 = 454.5 + 20 = 474.5 o C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "The volume of a gas at 20 \u00c2\u00b0 C is 200 m l . If the temperature is reduced to - 20 \u00c2\u00b0 C at constant pressure, its volume will be",
+      "question": "The volume of a gas at 20 \u00c2\u00b0 C is 200 mL . If the temperature is reduced to - 20 \u00c2\u00b0 C at constant pressure, its volume will be",
       "options": {
-        "A": "A 17",
-        "B": "6 m l B",
-        "C": "26 \u00c2 m l C 19",
-        "D": "7 \u00c2 m l D"
+        "A": "17",
+        "B": "6 mL",
+        "C": "26 \u00c2 m l C\u2081\u2089",
+        "D": "7 \u00c2 m l"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V \u221d T \u21d2 V 1 V 2 = T 1 T 2 \u21d2 200 V 2 = 273 + 20 273 - 20 = 293 253 \u21d2 V 2 = 200 \u00d7 253 293 = 172 .6 ml **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A and B are two points on a uniform metal ring whose centre is C . The angle A C B = \u00ce\u00b8 . A and B are maintained at two different constant temperatures. When \u00ce\u00b8 = 180 o , the rate of total heat flow from A to B is 1 . 2 W . When \u00ce\u00b8 = 90 o , this rate will be",
-      "options": {
-        "A": "A",
-        "B": "6 \u00c2 W",
-        "C": "9 \u00c2 W",
-        "D": "6 W"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let total resistance of the ring be R for \u03b8 = 180 o , we can consider the ring as a parallel combination of two sections of resistance R 2 each. \u2234 R e q = R 4 \u2234 Rate of heat flow P 1 = 1.2 = \u0394 T R 4 \u21d2 \u2206 T = 0 . 3 R for, \u03b8 = 90 o we can consider the ring as a parallel combination of two sections of resistance, R 4 & 3 R 4 \u2234 R e q = R 4 . 3 R 4 R 4 + 3 R 4 = 3 R 16 \u2234 P 2 = \u0394 T 3 R 16 = 16 3 R 0.3 R = 1.6 w a t t **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "What is the stress developed inside a tooth cavity filled with copper when hot tea at a temperature of 57\u00b0C is drunk, considering the body (tooth) temperature to be 37\u00b0C and \u03b1 = 1.7\u00d710 -5 /\u00b0C, and a bulk modulus for copper = 140 \u00d7 10 9 N/m\u00b2?",
-      "options": {
-        "A": "A",
-        "B": "428 \u00d7 10 8 N/m\u00b2",
-        "C": "428 \u00d7 10 7 N/m\u00b2",
-        "D": "428 \u00d7 10 9 N/m\u00b2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 1.428 \u00d7 10 8 N/m\u00b2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** V \u221d T \u21d2 V\u2081 V\u2082 = T\u2081 T\u2082 \u21d2 200 V\u2082 = 273 + 20273 - 20 = 293253 \u21d2 V\u2082 = 200 \u00d7 253293 = 172 .6 mL **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -294,70 +174,25 @@
     {
       "question": "An electric kettle takes $4 ~A$ current at $220 ~V$. How much time will it take to boil $1 ~kg$ of water from temperature $20^\\circ C$ ? The temperature of boiling water is $100^\\circ C$.",
       "options": {
-        "A": "A $",
+        "A": "$",
         "B": "2 ~min$",
         "C": "3 ~min$",
         "D": "4 ~min$ D $1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginaligned & \\text Vit =m c \\Delta \\theta \\\\ & t=\\frac1 \\times 4200 \\times 80220 \\times 4=381.8 ~s=6.36 ~min \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** $$ \\beginaligned & \\text Vit =m c \\Delta \\theta \\\\ & t=\\frac\u2081 \\times 4200 \\times 80220 \\times 4=381.8 ~s=6.36 ~min \\endaligned $$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A mercury thermometer is constructed as shown in the diagram. The capillary tube has a diameter of 0 . 004 cm , and the bulb has a diameter of 0 . 250 cm . Neglecting the expansion of the glass, find the change in height of the mercury column with a temperature change of 30 . 0 \u00b0 C .",
+      "question": "Which of the following is the correct expression and value for the heat current (in watts) through the compound bar formed by soldering an iron bar (L\u2081 = 0.1 m, A\u2081 = 0.02 $m^2$, K\u2081 = 79 W m\u207b\u00b9 K\u207b\u00b9) and a brass bar (L\u2082 = 0.1 m, A\u2082 = 0.02$m^2$, K\u2082 = 109 W m\u207b\u00b9 K\u207b\u00b9) together, with the free ends of the iron bar and brass bar maintained at 373 K and 273 K, respectively?",
       "options": {
-        "A": "A",
-        "B": "55 cm",
-        "C": "60 cm",
-        "D": "50 cm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** For an easy-to-read thermometer, the column should rise by a few centimetres. We use the definition of the coefficient of expansion of the glass, the volume of liquid in the capillary will be \u0394 V = A \u0394 h , where A is the cross-sectional area of the capillary. Let V i represent the volume of the bulb. \u0394 V = V i \u03b3 \u0394 T \u0394 h = V i A \u03b3 \u0394 T = 4 3 \u03c0 R b u l b 3 \u03c0 R c a p 2 \u03b3 \u0394 T \u0394 h = 4 3 0.125 cm 3 0.002 cm 2 1.82 \u00d7 1 0 - 4 / \u2218 C 30.0 \u2218 C = 3.55 cm This is a practical thermometer. Glass expands so little as compared to mercury that only the third digit of the answer would be affected by including the expansion of the glass in our analysis. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A calorimeter contains 70.2 g of water at 15.3 \u00c2\u00b0 C . If 143.7 g of water at 36.5 \u00c2\u00b0 C is mixed with it, the common temperature becomes 28.7 \u00c2\u00b0 C . The water \u2261alent of the calorimeter is",
-      "options": {
-        "A": "A",
-        "B": "6 \u00c2 g",
-        "C": "4 \u00c2 g",
-        "D": "3 \u00c2 g D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Let m be the water \u2261alent of the calorimeter. Then, 70.2 + m 28.7 - 15.3 = 143.7 36.5 - 28.7 m = 13.4 g **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "What is the change in the diameter of the hole when the sheet is heated to 227 \u00b0C, given that the coefficient of linear expansion of copper is 1.70 \u00d7 $10^-5$ $K^-1$?",
-      "options": {
-        "A": "A",
-        "B": "0121 cm",
-        "C": "0144 cm",
-        "D": "0159 cm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 0.0144 cm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "Which of the following is the correct expression and value for the heat current (in watts) through the compound bar formed by soldering an iron bar (L1 = 0.1 m, A1 = 0.02 $m^2$, K1 = 79 W m\u207b\u00b9 K\u207b\u00b9) and a brass bar (L2 = 0.1 m, A2 = 0.02$m^2$, K2 = 109 W m\u207b\u00b9 K\u207b\u00b9) together, with the free ends of the iron bar and brass bar maintained at 373 K and 273 K, respectively?",
-      "options": {
-        "A": "A 54",
-        "B": "0 W B 67",
-        "C": "5 W C 78",
-        "D": "3 W D 91"
+        "A": "54",
+        "B": "0 W B\u2086\u2087",
+        "C": "5 W C\u2087\u2088",
+        "D": "3 W D\u2089\u2081"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 916.1 W **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -367,69 +202,9 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A sample of 0.1 g of water at 100 o C and normal pressure 1.013 \u00d7 10 5 N m - 2 requires 54 cal of heat energy to convert to steam at 100 o C . If the volume of the steam produced is 167.1 cc, the change in internal energy of the sample, is",
-      "options": {
-        "A": "A",
-        "B": "2 J B 20",
-        "C": "7 \u00e2\u0080\u0089 \u00e2\u0080\u0089 J C 10",
-        "D": "3 J D 8"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** The values are given in the above question, \u2206 Q = 54 c a l = 54 \u00d7 4.18 j o u l e = 225.72 j o u l e \u2206 W = P V s t e a m - V w a t e r F o r w a t e r 0.1 g r a m = 0.1 c c \u2206 W = 1.013 \u00d7 10 5 167.1 \u00d7 10 - 6 - 0.1 \u00d7 10 - 6 j o u l e \u21d2 \u2206 W = 1.013 \u00d7 167 \u00d7 10 - 1 = 16.917 j o u l e . By first law of thermodynamics, the change in internal energy, \u21d2 \u2206 U = \u2206 Q - \u2206 W = 225 .72 - 16 .917 = 208 .8 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A vessel of volume 5000 c m 3 contains 1 20 moles of molecular nitrogen at 1800 K . If 30 % of the molecules are now dissociated the pressure inside the vessel (in P a ) will be",
-      "options": {
-        "A": "A",
-        "B": "49 \u00d7 1 0 5",
-        "C": "94 \u00d7 1 0 5",
-        "D": "25 \u00d7 1 0 5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** As 30 % of the molecules are now dissociated then new number of moles are n = 1 20 1.3 And hence the new pressure is P V = n R T P 5000 \u00d7 1 0 - 6 = 1 20 1.3 8.314 1800 P = 1 .94 \u00d7 10 5 Pa **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "What is the tension developed in a brass wire initially 1.8 m long at 27\u00b0C and cooled to -39\u00b0C, with a diameter of 2.0 mm, between two rigid supports, given the coefficient of linear expansion of brass is 2.0 \u00d7 10\u207b\u2075 K\u207b\u00b9 and Young\u2019s modulus of brass is 0.91 \u00d7 10\u00b9\u00b9 Pa?",
-      "options": {
-        "A": "A",
-        "B": "28 \u00d7 $10^2$ N",
-        "C": "8 \u00d7 $10^2$ N",
-        "D": "28 \u00d7 $10^2$ N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 9.28 \u00d7 $10^2$ N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A gaseous mixture consists of 16 g of helium and 16 g of oxygen. The ratio C P C V of the mixture is",
-      "options": {
-        "A": "A",
-        "B": "4",
-        "C": "54",
-        "D": "59"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u03bc 1 = 16 4 = 4 \u03bc 2 = 16 32 = 1 2 C P m i x = \u03bc 1 C P 1 + \u03bc 2 C P 2 \u03bc 1 + \u03bc 2 C V m i x = \u03bc 1 C V 1 + \u03bc 2 C V 2 \u03bc 1 + \u03bc 2 \u03b3 m i x = C P m i x C V m i x **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
       "question": "What are the \u2261alent temperatures in Celsius and Fahrenheit for the triple points of neon and carbon dioxide, which are 24.57 K and 216.55 K, respectively?",
       "options": {
-        "A": "A Neon: -24",
+        "A": "Neon: -24",
         "B": "58\u00b0C and -41",
         "C": "44\u00b0F; Carbon Dioxide: -5",
         "D": "60\u00b0C and -6"
@@ -442,42 +217,12 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "What is the average rate of extra evaporation, in calories per minute, caused by the antipyrin drug in a 30 kg child running a temperature of 101\u00b0F, which is brought down to 98\u00b0F in 20 minutes, assuming the only heat loss mechanism is through evaporation? (The specific heat of human body is approximately the same as that of water, and latent heat of evaporation of water at that temperature is about 580 cal $g^-1$ .)",
+      "question": "What is the \u2261alent thermal conductivity (in W$m^-1$ $K^-1$) of the compound bar made by soldering together an iron bar (L\u2081 = 0.1 m, A\u2081 = 0.02 m\u2082, K\u2081 = 79 W$m^-1$ $K^-1$) and a brass bar (L\u2082 = 0.1 m, A\u2082 = 0.02 m\u2082, K\u2082 = 109 W $m^-1$ $K^-1$), with their free ends maintained at 373 K and 273 K respectively?",
       "options": {
-        "A": "A",
-        "B": "00 g/min",
-        "C": "3 g/min",
-        "D": "25 g/min"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 4.3 g/min **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "A Carnot engine takes 3 \u00c3\u0097 10 6 c a l of heat from a reservoir at 627 \u00e2\u0084\u0083 and gives it to a sink at 27 \u00e2\u0084\u0083 . The work done by the engine is",
-      "options": {
-        "A": "A",
-        "B": "2 \u00c3\u0097 10 6 \u00c2 J",
-        "C": "4 \u00c3\u0097 10 6 J C",
-        "D": "8 \u00c3\u0097 10 6 \u00c2 J D Zero"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Given, T 1 = 627 + 273 = 900 K Q 1 = 3 \u00d7 10 6 c a l T 2 = 27 + 273 = 300 K \u2234 Q 1 T 1 = Q 2 T 2 \u21d2 Q 2 = T 2 T 1 \u00d7 Q 1 = 300 900 \u00d7 3 \u00d7 10 6 = 1 \u00d7 10 6 c a l Work done = Q 1 - Q 2 = 3 \u00d7 10 6 - 1 \u00d7 10 6 = 2 \u00d7 10 6 c a l Work done = ( 2 \u00d7 10 6 cal ) ( 4.2 J 1 cal ) = 8.4 \u00d7 10 6 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "What is the \u2261alent thermal conductivity (in W$m^-1$ $K^-1$) of the compound bar made by soldering together an iron bar (L1 = 0.1 m, A1 = 0.02 m2, K1 = 79 W$m^-1$ $K^-1$) and a brass bar (L2 = 0.1 m, A2 = 0.02 m2, K2 = 109 W $m^-1$ $K^-1$), with their free ends maintained at 373 K and 273 K respectively?",
-      "options": {
-        "A": "A 8",
-        "B": "0 W $m^-1$ $K^-1$ B 8",
-        "C": "3 W $m^-1$ $K^-1$ C 9",
-        "D": "6 W $m^-1$ $K^-1$ D 9"
+        "A": "8",
+        "B": "0 W $m^-1$ $K^-1$ B\u2088",
+        "C": "3 W $m^-1$ $K^-1$ C\u2089",
+        "D": "6 W $m^-1$ $K^-1$ D\u2089"
       },
       "answer": "A",
       "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 91.6 W $m^-1$ $K^-1$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
@@ -487,15 +232,15 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u2061 1 9 \u00b0 C and 28 \u00b0 C respectively. The temperature when A and B are mixed is 16 \u00b0 C and when B and C are mixed it is 23 \u00b0 C . The temperature when A and C are mixed will be",
+      "question": "The temperatures of equal masses of three different liquids A , B and C are 12 \u00b0 C , \u2061 19 \u00b0 C and 28 \u00b0 C respectively. The temperature when A and B are mixed is 16 \u00b0 C and when B and C are mixed it is 23 \u00b0 C . The temperature when A and C are mixed will be",
       "options": {
-        "A": "A 15 \u00b0 C B",
-        "B": "2 \u00b0 C C",
-        "C": "25 \u00b0 C D",
+        "A": "15 \u00b0 C",
+        "B": "2 \u00b0 C",
+        "C": "25 \u00b0 C",
         "D": "5 \u00b0"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C 28 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** when A and B are mixed m s A \u00d7 16 \u00b0 - 12 \u00b0 = m s B \u00d7 19 \u00b0 - 16 \u00b0 \u21d2 m s A \u00d7 4 = m s B \u00d7 3 \u21d2 4 s A = 3 s B ....(i) when B and C are mixed m s B \u00d7 23 \u00b0 - 19 \u00b0 = m s C \u00d7 28 \u00b0 - 23 \u00b0 \u21d2 m s B \u00d7 4 = m s C \u00d7 5 \u21d2 4 s B = 5 s C ....(ii) By (i) & (ii) 16 s A = 15 s C ....(iii) when A and C are mixed m s A \u03b8 - 12 = m s C\u2082\u2088 - \u03b8 ....(iv) By (iii) & (iv) \u03b8 = 20.25 \u00b0 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -504,28 +249,13 @@
     {
       "question": "Oxygen boils at - 183 \u00c2\u00b0 C . This temperature, on the Fahrenheit scale is",
       "options": {
-        "A": "A - 29",
-        "B": "4 \u00c2\u00b0 F B - 25",
-        "C": "6 \u00b0 F C - 34",
-        "D": "6 \u00b0 F D - 22"
+        "A": "- 29",
+        "B": "4 \u00c2\u00b0 FB - 25",
+        "C": "6 \u00b0 FC - 34",
+        "D": "6 \u00b0 FD - 22"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Using C 5 = F - 32 9 - 183 5 = F - 32 9 F - 32 = - 183 \u00d7 9 5 = - 329.4 F = - 329.4 + 32 = - 297.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "1.56 \u00d7 10 5 J of heat is conducted through is 2 m 2 wall of 12 cm thick in one hour. Temperature difference between the two sides of the wall is 20 \u2103 . The thermal conductivity of the material of the wall is (in W m - 1 K - 1 )",
-      "options": {
-        "A": "A",
-        "B": "11",
-        "C": "13",
-        "D": "15"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** d Q d t = K A \u00e2\u0088\u0086 T x 1.56 \u00c3\u0097 10 5 3600 = K \u00c3\u0097 2 \u00c3\u0097 20 12 \u00c3\u0097 10 - 2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 K = 1.56 \u00c3\u0097 10 5 \u00c3\u0097 12 \u00c3\u0097 10 - 2 3600 \u00c3\u0097 2 \u00c3\u0097 10 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 \u00c2 = 1.56 12 = 0.13 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Using C\u2085 = F - 329 - 1835 = F - 329 F - 32 = - 183 \u00d7 95 = - 329.4 F = - 329.4 + 32 = - 297.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -540,67 +270,7 @@
         "D": "15 minutes"
       },
       "answer": "A",
-      "solution": "# Solution: Newton's Law of Cooling ## Correct Answer: **(B) 8 minutes** ## Step-by-Step Solution: **Newton's Law of Cooling:** $$T - T_s = (T_0 - T_s)e^-kt$$ where k is the cooling constant (same for both intervals) **For FIRST cooling (80\u00b0C \u2192 60\u00b0C in 5 min):** $$60 - 20 = (80 - 20)e^-5k$$ $$40 = 60e^-5k$$ $$e^-5k = \\frac23$$ **For SECOND cooling (60\u00b0C \u2192 40\u00b0C in time t):** $$40 - 20 = (60 - 20)e^-kt$$ $$20 = 40e^-kt$$ $$e^-kt = \\frac12$$ **Finding t:** From equation 1: $-5k = \\ln(2/3)$ \u2192 $k = \\frac\\ln(3/2)5$ From equation 2: $-kt = \\ln(1/2)$ \u2192 $kt = \\ln(2)$ Therefore: $$t = \\frac\\ln(2)k = \\frac\\ln(2)\\ln(3/2)/5 = \\frac5\\ln(2)\\ln(1.5) = \\frac5 \u00d7 0.6930.405 \u2248 8.5 \\text minutes$$ ## Key Concept: The cooling rate depends on the **temperature difference** between the body and surroundings. A smaller temperature difference (40\u00b0C vs 60\u00b0C) means slower cooling, so the second interval takes longer than the first. ## Why Others Are Wrong: - **(A) 5 min**: Would only be correct if cooling were linear (it's exponential) - **(C) 10 min & (D) 15 min**: These overestimate the time",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "When 0.15 kg of ice at 0\u00b0C is mixed with 0.30 kg of water at 50\u00b0C in a container, the resulting temperature is 6.7\u00b0C. What is the heat of fusion of ice?",
-      "options": {
-        "A": "A",
-        "B": "67 \u00d7 $10^5$J $kg^-1$",
-        "C": "51 \u00d7 $10^5$J $kg^-1$",
-        "D": "34 \u00d7 $10^5$ J $kg^-1$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 3.34 \u00d7 $10^5$ J $kg^-1$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "One mole of monoatomic gas is taken round the cyclic process. Heat absorbed by gas in process AB is :",
-      "options": {
-        "A": "A",
-        "B": "5P 0 V 0 B 3P 0 V 0",
-        "C": "5P 0 V 0 D \u200b",
-        "D": "5P 0 V 0"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Heat absorbed by the gas on the path AB during process \u0394 Q AB = \u03bc C v \u0394 T = 1 \u00d7 3 R 2 T B - T A = 3 R 2 3 P 0 V 0 1 \u00d7 R - P 0 V 0 1 \u00d7 R = 3 P 0 V 0 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "The efficiency of an ideal heat engine working between the freezing point and boiling point of water, is",
-      "options": {
-        "A": "A",
-        "B": "25 % B 20 % C",
-        "C": "8 % D",
-        "D": "5 %"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** efficiency of ideal heat engine, \u03b7 = 1 \u2212 T 2 T 1 T 2 : temperature of sink T 1 : temperature of source Efficiency in Percentage, \u03b7 = T 1 - T 2 T 1 \u00d7 100 T 1 = 373 , T 2 = 273 \u03b7 = 100 373 \u00d7 100 = 26.8 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Thermal Properties and Thermodynamics"
-    },
-    {
-      "question": "Adiabatic modulus of elasticity of a gas is 2.1 \u00d7 10 5 N m - 2 . What will be its isothermal modulus of elasticity? C p C v = 1.4",
-      "options": {
-        "A": "A",
-        "B": "2 \u00d7 10 5 N m - 2 B 4 \u00d7 10 5 N m - 2",
-        "C": "5 \u00d7 10 5 N m - 2",
-        "D": "8 \u00d7 10 5 N m -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** E s E T = \u03b3 = C P C V = 1.4 2.1 \u00d7 10 5 E T = 1.4 o r E T = 2.1 \u00d7 10 5 1.4 = 1.5 \u00d7 10 5 N m - 2 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "# Solution: Newton's Law of Cooling ## Correct Answer: **(B) 8 minutes** ## Step-by-Step Solution: **Newton's Law of Cooling:** $$T - T_s = (T_0 - T_s)e^-kt$$ where k is the cooling constant (same for both intervals) **For FIRST cooling (80\u00b0C \u2192 60\u00b0C in 5 min):** $$60 - 20 = (80 - 20)e^-5k$$ $$40 = 60e^-5k$$ $$e^-5k = \\frac\u2082\u2083$$ **For SECOND cooling (60\u00b0C \u2192 40\u00b0C in time t):** $$40 - 20 = (60 - 20)e^-kt$$ $$20 = 40e^-kt$$ $$e^-kt = \\frac\u2081\u2082$$ **Finding t:** From equation 1: $-5k = \\ln(2/3)$ \u2192 $k = \\frac\\ln(3/2)\u2085$ From equation 2: $-kt = \\ln(1/2)$ \u2192 $kt = \\ln(2)$ Therefore: $$t = \\frac\\ln(2)k = \\frac\\ln(2)\\ln(3/2)/5 = \\frac\u2085\\ln(2)\\ln(1.5) = \\frac\u2085 \u00d7 0.6930.405 \u2248 8.5 \\text minutes$$ ## Key Concept: The cooling rate depends on the **temperature difference** between the body and surroundings. A smaller temperature difference (40\u00b0C vs 60\u00b0C) means slower cooling, so the second interval takes longer than the first. ## Why Others Are Wrong: - **(A) 5 min**: Would only be correct if cooling were linear (it's exponential) - **(C) 10 min & (D) 15 min**: These overestimate the time",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -639,13 +309,13 @@
     {
       "question": "The $H$ amount of thermal energy is developed by a resistor in $10 ~s$ when a current of $4 ~A$ is passed through it. If the current is increased to $16 ~A$, the thermal energy developed by the resistor in $10 ~s$ will be :",
       "options": {
-        "A": "$\\fracH4$",
+        "A": "$\\fracH\u2084$",
         "B": "$16 H$",
         "C": "H",
         "D": "$4 H$"
       },
       "answer": "B",
-      "solution": "$H \\propto i^2$ for $t=$ constant <br/><br/>$$ \\Rightarrow $$ $$ \\fracHH^\\prime=\\left(\\frac416\\right)^2 $$ <br/><br/>$$ \\Rightarrow $$ $H^\\prime=16 H$",
+      "solution": "$H \\propto i^2$ for $t=$ constant <br/><br/>$$ \\Rightarrow $$ $$ \\fracHH^\\prime=\\left(\\frac\u2084\u2081\u2086\\right)^2 $$ <br/><br/>$$ \\Rightarrow $$ $H^\\prime=16 H$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -660,7 +330,7 @@
         "D": "3 : 1"
       },
       "answer": "D",
-      "solution": "For parallel connection, potential difference is same $(v)$ <br/><br/> $$ \\beginaligned & P_1=\\left(\\fracv^2R_1\\right) \\\\\\\\ & P_2=\\left(\\fracv^2R_2\\right) \\\\\\\\ & \\fracP_1P_2=\\fracH_1H_2=\\left(\\fracR_2R_1\\right)=\\frac3 RR=(3: 1) \\endaligned $$",
+      "solution": "For parallel connection, potential difference is same $(v)$ <br/><br/> $$ \\beginaligned & P_1=\\left(\\fracv^2R_1\\right) \\\\\\\\ & P_2=\\left(\\fracv^2R_2\\right) \\\\\\\\ & \\fracP_1P_2=\\fracH_1H_2=\\left(\\fracR_2R_1\\right)=\\frac\u2083 RR=(3: 1) \\endaligned $$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -675,7 +345,7 @@
         "D": "1 : 2"
       },
       "answer": "A",
-      "solution": "Let's consider the power $$P$$ dissipated by a single heater filament with resistance $$R$$ when connected to a voltage $$V$$. <br/><br/> The power dissipated by the heater filament is given by: <br/><br/> $$P = \\fracV^2R$$ <br/><br/> When the two identical heater filaments are connected in parallel, the \u2261alent resistance $$R_P$$ is given by: <br/><br/> $$\\frac1R_P = \\frac1R + \\frac1R = \\frac2R \\Rightarrow R_P = \\fracR2$$ <br/><br/> The total power dissipated $$P_P$$ by the two filaments connected in parallel is: <br/><br/> $$P_P = \\fracV^2R_P = \\fracV^2\\fracR2 = 2V^2 \\cdot \\frac1R = 2P$$ <br/><br/> When the two identical heater filaments are connected in series, the \u2261alent resistance $$R_S$$ is given by: <br/><br/> $$R_S = R + R = 2R$$ <br/><br/> The total power dissipated $$P_S$$ by the two filaments connected in series is: <br/><br/> $$P_S = \\fracV^2R_S = \\fracV^22R = \\frac12V^2 \\cdot \\frac1R = \\frac12P$$ <br/><br/> Now, let's find the ratio of the heat produced in the same time for parallel to series connection: <br/><br/> $$\\fracP_PP_S = \\frac2P\\frac12P = \\frac2P \\times 2P = \\frac4PP = 4 : 1$$",
+      "solution": "Let's consider the power $$P$$ dissipated by a single heater filament with resistance $$R$$ when connected to a voltage $$V$$. <br/><br/> The power dissipated by the heater filament is given by: <br/><br/> $$P = \\fracV^2R$$ <br/><br/> When the two identical heater filaments are connected in parallel, the \u2261alent resistance $$R_P$$ is given by: <br/><br/> $$\\frac\u2081R_P = \\frac\u2081R + \\frac\u2081R = \\frac\u2082R \\Rightarrow R_P = \\fracR\u2082$$ <br/><br/> The total power dissipated $$P_P$$ by the two filaments connected in parallel is: <br/><br/> $$P_P = \\fracV^2R_P = \\fracV^2\\fracR\u2082 = 2V^2 \\cdot \\frac\u2081R = 2P$$ <br/><br/> When the two identical heater filaments are connected in series, the \u2261alent resistance $$R_S$$ is given by: <br/><br/> $$R_S = R + R = 2R$$ <br/><br/> The total power dissipated $$P_S$$ by the two filaments connected in series is: <br/><br/> $$P_S = \\fracV^2R_S = \\fracV^22R = \\frac\u2081\u2082V^2 \\cdot \\frac\u2081R = \\frac\u2081\u2082P$$ <br/><br/> Now, let's find the ratio of the heat produced in the same time for parallel to series connection: <br/><br/> $$\\fracP_PP_S = \\frac\u2082P\\frac\u2081\u2082P = \\frac\u2082P \\times 2P = \\frac\u2084PP = 4 : 1$$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -684,13 +354,13 @@
     {
       "question": "<p>Water boils in an electric kettle in 20 minutes after being switched on. Using the same main supply, the length of the heating element should be _________ to __________ times of its initial length if the water is to be boiled in 15 minutes.</p>",
       "options": {
-        "A": "increased, $$\\frac34$$",
-        "B": "increased, $$\\frac43$$",
-        "C": "decreased, $$\\frac34$$",
-        "D": "decreased, $$\\frac43$$"
+        "A": "increased, $$\\frac\u2083\u2084$$",
+        "B": "increased, $$\\frac\u2084\u2083$$",
+        "C": "decreased, $$\\frac\u2083\u2084$$",
+        "D": "ecreased, $$\\frac\u2084\u2083$$"
       },
       "answer": "C",
-      "solution": "<p>When an electric kettle is used to heat water, the time taken to boil the water depends on the power of the heating element. The power supplied to the heating element is inversely proportional to the heating time. If we want to reduce the boiling time, the power needs to be increased. The power of the heating element is given by:</p> <p>$$P = \\fracV^2R$$</p> <p>where $$P$$ is the power, $$V$$ is the voltage, and $$R$$ is the resistance of the heating element. The resistance $$R$$ of the heating element is proportional to its length $$L$$ while the material and cross-sectional area remain constant.</p> <p>So, we can write:</p> <p>$$R \\propto L$$</p> <p>To achieve boiling in 15 minutes instead of 20 minutes, the power needs to increase, which implies the resistance must decrease. Let the initial length of the heating element be $$L_0$$, and let the new length needed be $$L$$. The time taken to heat is inversely proportional to the power:</p> <p>$$\\fracT_1T_2 = \\fracP_2P_1$$</p> <p>Given that:</p> <p>$$T_1 = 20 \\text minutes$$</p> <p>$$T_2 = 15 \\text minutes$$</p> <p>We need to find the ratio:</p> <p>$$\\frac2015 = \\fracP_2P_1$$</p> <p>Simplifying:</p> <p>$$\\frac43 = \\fracP_2P_1$$</p> <p>The power is inversely proportional to the resistance:</p> <p>$$\\fracP_2P_1 = \\fracR_1R_2$$</p> <p>Thus:</p> <p>$$\\frac43 = \\fracR_1R_2$$</p> <p>Since resistance is proportional to length:</p> <p>$$\\fracR_1R_2 = \\fracL_1L_2$$</p> <p>Hence:</p> <p>$$\\frac43 = \\fracL_1L_2$$</p> <p>Simplifying, we find:</p> <p>$$L_2 = \\frac34 L_1$$</p> <p>This means the length of the heating element should be decreased to $$\\frac34$$ of its initial length.</p> <p>Thus, the correct option is:</p> <p><b>Option C:</b> decreased, $$\\frac34$$</p>",
+      "solution": "<p>When an electric kettle is used to heat water, the time taken to boil the water depends on the power of the heating element. The power supplied to the heating element is inversely proportional to the heating time. If we want to reduce the boiling time, the power needs to be increased. The power of the heating element is given by:</p> <p>$$P = \\fracV^2R$$</p> <p>where $$P$$ is the power, $$V$$ is the voltage, and $$R$$ is the resistance of the heating element. The resistance $$R$$ of the heating element is proportional to its length $$L$$ while the material and cross-sectional area remain constant.</p> <p>So, we can write:</p> <p>$$R \\propto L$$</p> <p>To achieve boiling in 15 minutes instead of 20 minutes, the power needs to increase, which implies the resistance must decrease. Let the initial length of the heating element be $$L_0$$, and let the new length needed be $$L$$. The time taken to heat is inversely proportional to the power:</p> <p>$$\\fracT_1T_2 = \\fracP_2P_1$$</p> <p>Given that:</p> <p>$$T_1 = 20 \\text minutes$$</p> <p>$$T_2 = 15 \\text minutes$$</p> <p>We need to find the ratio:</p> <p>$$\\frac\u2082\u2080\u2081\u2085 = \\fracP_2P_1$$</p> <p>Simplifying:</p> <p>$$\\frac\u2084\u2083 = \\fracP_2P_1$$</p> <p>The power is inversely proportional to the resistance:</p> <p>$$\\fracP_2P_1 = \\fracR_1R_2$$</p> <p>Thus:</p> <p>$$\\frac\u2084\u2083 = \\fracR_1R_2$$</p> <p>Since resistance is proportional to length:</p> <p>$$\\fracR_1R_2 = \\fracL_1L_2$$</p> <p>Hence:</p> <p>$$\\frac\u2084\u2083 = \\fracL_1L_2$$</p> <p>Simplifying, we find:</p> <p>$$L_2 = \\frac\u2083\u2084 L_1$$</p> <p>This means the length of the heating element should be decreased to $$\\frac\u2083\u2084$$ of its initial length.</p> <p>Thus, the correct option is:</p> <p><b>Option C:</b> decreased, $$\\frac\u2083\u2084$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -765,7 +435,7 @@
         "D": "3 : 5 : 2"
       },
       "answer": "C",
-      "solution": "$$dV = n5 \\over 2R\\Delta T$$<br><br>$$dQ = n7 \\over 2R\\Delta T$$<br><br>$$dW = dQ - dV$$<br><br>$$ = n2 \\over 2R\\Delta T$$<br><br>$$ \\therefore $$ $$dV:dQ:dW$$<br><br>$$ = n5 \\over 2R\\Delta T:n7 \\over 2R\\Delta T:n2 \\over 2R\\Delta T$$<br><br>$$ = 5:7:2$$",
+      "solution": "$$dV = n\u2085 \\over 2R\\Delta T$$<br><br>$$dQ = n\u2087 \\over 2R\\Delta T$$<br><br>$$dW = dQ - dV$$<br><br>$$ = n\u2082 \\over 2R\\Delta T$$<br><br>$$ \\therefore $$ $$dV:dQ:dW$$<br><br>$$ = n\u2085 \\over 2R\\Delta T:n\u2087 \\over 2R\\Delta T:n\u2082 \\over 2R\\Delta T$$<br><br>$$ = 5:7:2$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -825,7 +495,7 @@
         "D": "$$1 \\over 2k_BT$$"
       },
       "answer": "A",
-      "solution": "<p>For a monoatomic ideal gas, the average kinetic energy per molecule is determined by the equipartition theorem. This theorem states that the energy is equally distributed among all the available degrees of freedom.</p> <p>A monoatomic gas has three translational degrees of freedom, corresponding to motion in the x, y, and z directions. Each degree of freedom contributes an average energy of $\\frac12 k_BT$, where $k_B$ is the Boltzmann constant and $T$ is the absolute temperature.</p> <p>So for a monoatomic gas with three translational degrees of freedom, the average energy per molecule is: $$\\frac32 k_BT.$$</p>",
+      "solution": "<p>For a monoatomic ideal gas, the average kinetic energy per molecule is determined by the equipartition theorem. This theorem states that the energy is equally distributed among all the available degrees of freedom.</p> <p>A monoatomic gas has three translational degrees of freedom, corresponding to motion in the x, y, and z directions. Each degree of freedom contributes an average energy of $\\frac\u2081\u2082 k_BT$, where $k_B$ is the Boltzmann constant and $T$ is the absolute temperature.</p> <p>So for a monoatomic gas with three translational degrees of freedom, the average energy per molecule is: $$\\frac\u2083\u2082 k_BT.$$</p>",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -836,7 +506,7 @@
       "options": {
         "A": "$$ \\fracnn+2$$",
         "B": "$$ \\fracn+2n$$",
-        "C": "$$ \\fracn2n+2$$",
+        "C": "$$ \\fracn\u2082n+2$$",
         "D": "$$ \\fracnn-2$$"
       },
       "answer": "A",
@@ -849,13 +519,13 @@
     {
       "question": "Two moles a monoatomic gas is mixed with six moles of a diatomic gas. The molar specific heat of the mixture at constant volume is :",
       "options": {
-        "A": "$\\frac32 R$",
-        "B": "$\\frac74 R$",
-        "C": "$\\frac52 R$",
-        "D": "$\\frac94 R$"
+        "A": "$\\frac\u2083\u2082 R$",
+        "B": "$\\frac\u2087\u2084 R$",
+        "C": "$\\frac\u2085\u2082 R$",
+        "D": "$\\frac\u2089\u2084 R$"
       },
       "answer": "D",
-      "solution": "<p>To calculate the molar specific heat at constant volume of a gas mixture, we can use a weighted average based on the molar specific heats of the individual gases and their respective amounts (moles).</p> <p>Let's call $C_V,m$ the molar specific heat at constant volume of the mixture, $n_1$ the number of moles of the monoatomic gas, $n_2$ the number of moles of the diatomic gas, $C_V,m1$ the molar specific heat at constant volume of the monoatomic gas, and $C_V,m2$ the molar specific heat at constant volume of the diatomic gas.</p> <p>For a monoatomic ideal gas, the molar specific heat at constant volume is:</p> <p>$$ C_V,m1 = \\frac32R $$</p> <p>For a diatomic ideal gas, if we assume the gas is rigid and does not exhibit vibrational modes, the molar specific heat at constant volume is:</p> <p>$$ C_V,m2 = \\frac52R $$</p> <p>The weighted average of the molar specific heat for the mixture is:</p> <p>$$ C_V,m = \\frac(n_1 \\cdot C_V,m1 + n_2 \\cdot C_V,m2)n_1 + n_2 $$</p> <p>Putting the values into the equation, we get:</p> <p>$$ C_V,m = \\frac(2 \\cdot \\frac32R + 6 \\cdot \\frac52R)2 + 6 $$</p> <p>$$ C_V,m = \\frac(3R + 15R)8 $$</p> <p>$$ C_V,m = \\frac18R8 $$</p> <p>$$ C_V,m = \\frac94R $$</p> <p>Therefore, the molar specific heat of the mixture at constant volume is $\\frac94R$. The correct answer is:</p> <p>Option D</p> <p>$$ \\frac94R $$</p>",
+      "solution": "<p>To calculate the molar specific heat at constant volume of a gas mixture, we can use a weighted average based on the molar specific heats of the individual gases and their respective amounts (moles).</p> <p>Let's call $C_V,m$ the molar specific heat at constant volume of the mixture, $n_1$ the number of moles of the monoatomic gas, $n_2$ the number of moles of the diatomic gas, $C_V,m\u2081$ the molar specific heat at constant volume of the monoatomic gas, and $C_V,m\u2082$ the molar specific heat at constant volume of the diatomic gas.</p> <p>For a monoatomic ideal gas, the molar specific heat at constant volume is:</p> <p>$$ C_V,m\u2081 = \\frac\u2083\u2082R $$</p> <p>For a diatomic ideal gas, if we assume the gas is rigid and does not exhibit vibrational modes, the molar specific heat at constant volume is:</p> <p>$$ C_V,m\u2082 = \\frac\u2085\u2082R $$</p> <p>The weighted average of the molar specific heat for the mixture is:</p> <p>$$ C_V,m = \\frac(n_1 \\cdot C_V,m\u2081 + n_2 \\cdot C_V,m\u2082)n_1 + n_2 $$</p> <p>Putting the values into the equation, we get:</p> <p>$$ C_V,m = \\frac(2 \\cdot \\frac\u2083\u2082R + 6 \\cdot \\frac\u2085\u2082R)\u2082 + 6 $$</p> <p>$$ C_V,m = \\frac(3R + 15R)\u2088 $$</p> <p>$$ C_V,m = \\frac\u2081\u2088R\u2088 $$</p> <p>$$ C_V,m = \\frac\u2089\u2084R $$</p> <p>Therefore, the molar specific heat of the mixture at constant volume is $\\frac\u2089\u2084R$. The correct answer is:</p> <p>Option D</p> <p>$$ \\frac\u2089\u2084R $$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -870,7 +540,7 @@
         "D": "1500 K"
       },
       "answer": "B",
-      "solution": "<p>To find the temperature at which the average kinetic energy of a monatomic molecule is $$0.414 \\, \\texteV$$, we use the equation for the average kinetic energy of a molecule in terms of temperature:</p> <blockquote> <p>$$K_\\textavg = \\frac32 k_B T$$</p> </blockquote> <p>Where:</p> <ul> <li>$$K_\\textavg$$ is the average kinetic energy</li> <li>$$k_B$$ is the Boltzmann constant, given as $$1.38 \\times 10^-23 \\, \\textJ/K$$</li> <li>$$T$$ is the temperature in Kelvin</li> </ul> <p>First, we need to convert the average kinetic energy from eV to Joules since the Boltzmann constant is in Joules. The conversion factor is $$1 \\, \\texteV = 1.6 \\times 10^-19 \\, \\textJ$$, so:</p> <blockquote> <p>$$K_\\textavg = 0.414 \\, \\texteV = 0.414 \\times 1.6 \\times 10^-19 \\, \\textJ$$</p> </blockquote> <p>Substituting $$K_\\textavg$$ and $$k_B$$ into the equation:</p> <blockquote> <p>$$\\frac32 k_B T = 0.414 \\times 1.6 \\times 10^-19 \\, \\textJ$$</p> </blockquote> <p>Solving for $$T$$:</p> <blockquote> <p>$$T = \\frac0.414 \\times 1.6 \\times 10^-19 \\, \\textJ\\frac32 \\times 1.38 \\times 10^-23 \\, \\textJ/K$$</p> </blockquote> <p>After performing the calculations:</p> <blockquote> <p>$$T \\approx 3200 \\, \\textK$$</p> </blockquote> <p>Therefore, the temperature at which the average kinetic energy of a monatomic molecule is $$0.414 \\, \\texteV$$ is approximately 3200 K.</p>",
+      "solution": "<p>To find the temperature at which the average kinetic energy of a monatomic molecule is $$0.414 \\, \\texteV$$, we use the equation for the average kinetic energy of a molecule in terms of temperature:</p> <blockquote> <p>$$K_\\textavg = \\frac\u2083\u2082 k_B T$$</p> </blockquote> <p>Where:</p> <ul> <li>$$K_\\textavg$$ is the average kinetic energy</li> <li>$$k_B$$ is the Boltzmann constant, given as $$1.38 \\times 10^-23 \\, \\textJ/K$$</li> <li>$$T$$ is the temperature in Kelvin</li> </ul> <p>First, we need to convert the average kinetic energy from eV to Joules since the Boltzmann constant is in Joules. The conversion factor is $$1 \\, \\texteV = 1.6 \\times 10^-19 \\, \\textJ$$, so:</p> <blockquote> <p>$$K_\\textavg = 0.414 \\, \\texteV = 0.414 \\times 1.6 \\times 10^-19 \\, \\textJ$$</p> </blockquote> <p>Substituting $$K_\\textavg$$ and $$k_B$$ into the equation:</p> <blockquote> <p>$$\\frac\u2083\u2082 k_B T = 0.414 \\times 1.6 \\times 10^-19 \\, \\textJ$$</p> </blockquote> <p>Solving for $$T$$:</p> <blockquote> <p>$$T = \\frac\u2080.414 \\times 1.6 \\times 10^-19 \\, \\textJ\\frac\u2083\u2082 \\times 1.38 \\times 10^-23 \\, \\textJ/K$$</p> </blockquote> <p>After performing the calculations:</p> <blockquote> <p>$$T \\approx 3200 \\, \\textK$$</p> </blockquote> <p>Therefore, the temperature at which the average kinetic energy of a monatomic molecule is $$0.414 \\, \\texteV$$ is approximately 3200 K.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -885,7 +555,7 @@
         "D": "21 RT"
       },
       "answer": "B",
-      "solution": "<p>To determine the total internal energy of the gas mixture, we adhere to the equipartition theorem, which dictates that each degree of freedom contributes $$\\frac12 RT$$ to the internal energy per mole, where $R$ is the gas constant and $T$ is the temperature.</p> <p>An argon atom, being a noble gas, is monoatomic, with 3 translational degrees of freedom. Since we neglect all vibrational modes, and monoatomic gases have no rotational or vibrational degrees of freedom that contribute to energy at our specified temperature, each mole of argon has $$3 \\times \\frac12 RT = \\frac32 RT$$ of energy.</p> <p>Oxygen, on the other hand, is a diatomic molecule. This implies that under normal conditions, it has 3 translational and 2 rotational degrees of freedom. So, each mole of oxygen has $$5 \\times \\frac12 RT = \\frac52 RT$$ of energy as we are neglecting vibrational modes which typically become relevant only at higher temperatures.</p> <p>Hence, the total internal energy ($U$) of the gas mixture is:</p> <p>$$ U = (\\textEnergy per mole of Ar \\times \\textNumber of moles of Ar) + (\\textEnergy per mole of O_2 \\times \\textNumber of moles of O_2) $$</p> <p>$$ U = \\left(\\frac32 RT \\times 8\\right) + \\left(\\frac52 RT \\times 6\\right) $$</p> <p>$$ U = \\left(12 RT + 15 RT\\right) $$</p> <p>$$ U = 27 RT $$</p> <p>Thus, the total internal energy of the system is $27 RT$. </p>",
+      "solution": "<p>To determine the total internal energy of the gas mixture, we adhere to the equipartition theorem, which dictates that each degree of freedom contributes $$\\frac\u2081\u2082 RT$$ to the internal energy per mole, where $R$ is the gas constant and $T$ is the temperature.</p> <p>An argon atom, being a noble gas, is monoatomic, with 3 translational degrees of freedom. Since we neglect all vibrational modes, and monoatomic gases have no rotational or vibrational degrees of freedom that contribute to energy at our specified temperature, each mole of argon has $$3 \\times \\frac\u2081\u2082 RT = \\frac\u2083\u2082 RT$$ of energy.</p> <p>Oxygen, on the other hand, is a diatomic molecule. This implies that under normal conditions, it has 3 translational and 2 rotational degrees of freedom. So, each mole of oxygen has $$5 \\times \\frac\u2081\u2082 RT = \\frac\u2085\u2082 RT$$ of energy as we are neglecting vibrational modes which typically become relevant only at higher temperatures.</p> <p>Hence, the total internal energy ($U$) of the gas mixture is:</p> <p>$$ U = (\\textEnergy per mole of Ar \\times \\textNumber of moles of Ar) + (\\textEnergy per mole of O_2 \\times \\textNumber of moles of O_2) $$</p> <p>$$ U = \\left(\\frac\u2083\u2082 RT \\times 8\\right) + \\left(\\frac\u2085\u2082 RT \\times 6\\right) $$</p> <p>$$ U = \\left(12 RT + 15 RT\\right) $$</p> <p>$$ U = 27 RT $$</p> <p>Thus, the total internal energy of the system is $27 RT$. </p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -924,13 +594,13 @@
     {
       "question": "<p>A mixture of one mole of monoatomic gas and one mole of a diatomic gas (rigid) are kept at room temperature $$(27^\\circ C)$$. The ratio of specific heat of gases at constant volume respectively is:</p>",
       "options": {
-        "A": "$$\\frac32$$",
-        "B": "$$\\frac35$$",
-        "C": "$$\\frac75$$",
-        "D": "$$\\frac53$$"
+        "A": "$$\\frac\u2083\u2082$$",
+        "B": "$$\\frac\u2083\u2085$$",
+        "C": "$$\\frac\u2087\u2085$$",
+        "D": "$$\\frac\u2085\u2083$$"
       },
       "answer": "B",
-      "solution": "<p>To find the ratio of specific heats at constant volume ($C_V$) of the gases, we need to understand the degrees of freedom each type of gas molecule has, as this determines their specific heat capacity at constant volume. Degrees of freedom refer to the number of independent ways in which a molecule can store energy.</p> <p>A monoatomic gas molecule has 3 translational degrees of freedom. This is because it can move in three dimensions: x, y, and z. A diatomic gas, if we assume it to be rigid for this context, has 5 degrees of freedom: 3 translational like the monoatomic gas and 2 rotational since it can rotate around two axes perpendicular to the bond axis connecting the two atoms. Vibrational modes are not considered at room temperature for a rigid diatomic gas, as these require higher energy to become accessible.</p> <p>The specific heat capacity at constant volume for a monoatomic gas is given by:</p> <p>$$C_V, mono = \\frac32 R$$</p> <p>And for a diatomic gas, it's:</p> <p>$$C_V, diatomic = \\frac52 R$$</p> <p>Where $R$ is the ideal gas constant.</p> <p>To find the ratio of their specific heats at constant volume, we divide the specific heat of the monoatomic gas by that of the diatomic gas:</p> <p>$$\\fracC_V, monoC_V, diatomic = \\frac\\frac32 R\\frac52 R = \\frac32 \\times \\frac25 = \\frac35$$</p> <p>Thus, the correct ratio of the specific heats at constant volume of the monoatomic to diatomic (rigid) gases is given by Option B: $\\frac35$. </p>",
+      "solution": "<p>To find the ratio of specific heats at constant volume ($C_V$) of the gases, we need to understand the degrees of freedom each type of gas molecule has, as this determines their specific heat capacity at constant volume. Degrees of freedom refer to the number of independent ways in which a molecule can store energy.</p> <p>A monoatomic gas molecule has 3 translational degrees of freedom. This is because it can move in three dimensions: x, y, and z. A diatomic gas, if we assume it to be rigid for this context, has 5 degrees of freedom: 3 translational like the monoatomic gas and 2 rotational since it can rotate around two axes perpendicular to the bond axis connecting the two atoms. Vibrational modes are not considered at room temperature for a rigid diatomic gas, as these require higher energy to become accessible.</p> <p>The specific heat capacity at constant volume for a monoatomic gas is given by:</p> <p>$$C_V, mono = \\frac\u2083\u2082 R$$</p> <p>And for a diatomic gas, it's:</p> <p>$$C_V, diatomic = \\frac\u2085\u2082 R$$</p> <p>Where $R$ is the ideal gas constant.</p> <p>To find the ratio of their specific heats at constant volume, we divide the specific heat of the monoatomic gas by that of the diatomic gas:</p> <p>$$\\fracC_V, monoC_V, diatomic = \\frac\\frac\u2083\u2082 R\\frac\u2085\u2082 R = \\frac\u2083\u2082 \\times \\frac\u2082\u2085 = \\frac\u2083\u2085$$</p> <p>Thus, the correct ratio of the specific heats at constant volume of the monoatomic to diatomic (rigid) gases is given by Option B: $\\frac\u2083\u2085$. </p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -940,12 +610,12 @@
       "question": "<p>Energy of 10 non rigid diatomic molecules at temperature $$T$$ is :</p>",
       "options": {
         "A": "35 RT",
-        "B": "$$\\frac72$$ RT",
+        "B": "$$\\frac\u2087\u2082$$ RT",
         "C": "70 K<sub>B</sub>T",
         "D": "35 K<sub>B</sub>T"
       },
       "answer": "D",
-      "solution": "<p>The energy of a diatomic molecule depends on the degrees of freedom it has. For a non-rigid diatomic molecule, there are more degrees of freedom compared to a rigid diatomic molecule. Specifically, a non-rigid diatomic molecule has translational, rotational, and vibrational degrees of freedom. The translational and rotational degrees of freedom are the same for both rigid and non-rigid diatomic molecules, which include:</p> <ul> <li>3 translational degrees of freedom,</li> <li>2 rotational degrees of freedom (since linear molecules do not have the third rotational freedom because it requires rotating around the bond axis, which doesn't change the energy for linear molecules).</li> </ul> <p>Additionally, non-rigid diatomic molecules have vibrational degrees of freedom. For a simple diatomic molecule, there is 1 vibrational degree of freedom (since vibration along the bond axis is possible). However, considering the energy distribution across these vibrations requires accounting for both the potential and kinetic energy associated with vibrations, effectively doubling the vibrational degrees of freedom for energy calculations to 2 (one for kinetic and one for potential energy).</p> <p>Thus, the total degrees of freedom for a non-rigid diatomic molecule are:</p> <ul> <li>3 (translational) + 2 (rotational) + 2 (vibrational) = 7 degrees of freedom.</li> </ul> <p>The formula for the average energy of a molecule in terms of degrees of freedom at temperature T is given by:</p> <p>$ E = \\fracf2k_BT $</p> <p>where $f$ is the total number of degrees of freedom, $k_B$ is the Boltzmann constant, and $T$ is the temperature.</p> <p>Plugging in the values for a non-rigid diatomic molecule:</p> <p>$ E = \\frac72k_BT $</p> <p>Therefore, the total energy for 10 such molecules would be:</p> <p>$ 10 \\times \\frac72k_BT = 35k_BT $</p> <p>So, the correct answer is:</p> <p>Option D: 35 $k_BT$.</p>",
+      "solution": "<p>The energy of a diatomic molecule depends on the degrees of freedom it has. For a non-rigid diatomic molecule, there are more degrees of freedom compared to a rigid diatomic molecule. Specifically, a non-rigid diatomic molecule has translational, rotational, and vibrational degrees of freedom. The translational and rotational degrees of freedom are the same for both rigid and non-rigid diatomic molecules, which include:</p> <ul> <li>3 translational degrees of freedom,</li> <li>2 rotational degrees of freedom (since linear molecules do not have the third rotational freedom because it requires rotating around the bond axis, which doesn't change the energy for linear molecules).</li> </ul> <p>Additionally, non-rigid diatomic molecules have vibrational degrees of freedom. For a simple diatomic molecule, there is 1 vibrational degree of freedom (since vibration along the bond axis is possible). However, considering the energy distribution across these vibrations requires accounting for both the potential and kinetic energy associated with vibrations, effectively doubling the vibrational degrees of freedom for energy calculations to 2 (one for kinetic and one for potential energy).</p> <p>Thus, the total degrees of freedom for a non-rigid diatomic molecule are:</p> <ul> <li>3 (translational) + 2 (rotational) + 2 (vibrational) = 7 degrees of freedom.</li> </ul> <p>The formula for the average energy of a molecule in terms of degrees of freedom at temperature T is given by:</p> <p>$ E = \\fracf\u2082k_BT $</p> <p>where $f$ is the total number of degrees of freedom, $k_B$ is the Boltzmann constant, and $T$ is the temperature.</p> <p>Plugging in the values for a non-rigid diatomic molecule:</p> <p>$ E = \\frac\u2087\u2082k_BT $</p> <p>Therefore, the total energy for 10 such molecules would be:</p> <p>$ 10 \\times \\frac\u2087\u2082k_BT = 35k_BT $</p> <p>So, the correct answer is:</p> <p>Option D: 35 $k_BT$.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -975,7 +645,7 @@
         "D": "90 Wm<sup>$$-$$2</sup>"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266867/exam_images/t2yrsghxaizut6a0btui.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Physics - Heat and Thermodynamics Question 311 English Explanation\"> <br><br>$$\\left( dQ \\over dt \\right) = kA\\Delta T \\over \\ell $$ <br><br>$$ \\Rightarrow $$ $$1 \\over A\\left( dQ \\over dt \\right) = \\left( 0.1 \\right)\\left( 900 \\right) \\over 1 = 90W/m^2$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2088\u2086\u2087/exam_images/t\u2082yrsghxaizut\u2086a\u2080btui.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Physics - Heat and Thermodynamics Question 311 English Explanation\"> <br><br>$$\\left( dQ \\over dt \\right) = kA\\Delta T \\over \\ell $$ <br><br>$$ \\Rightarrow $$ $$1 \\over A\\left( dQ \\over dt \\right) = \\left( 0.1 \\right)\\left( 900 \\right) \\over 1 = 90W/m^2$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -990,7 +660,7 @@
         "D": "$$2K_1 + 3K_2 \\over 5$$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267499/exam_images/gnp5hb8lja91ukvbaycf.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Heat and Thermodynamics Question 297 English Explanation\"> <br>K<sub>eq</sub> = $$K_1A_1 + K_2A_2 \\over A_1 + A_2$$ <br><br>= $$K_1\\left( \\pi R^2 \\right) + K_2\\left( 3\\pi R^2 \\right) \\over 4\\pi R^2$$ <br><br>= $$K_1 + 3K_2 \\over 4$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2089\u2089/exam_images/gnp\u2085hb\u2088lja\u2089\u2081ukvbaycf.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Heat and Thermodynamics Question 297 English Explanation\"> <br>K<sub>eq</sub> = $$K_1A_1 + K_2A_2 \\over A_1 + A_2$$ <br><br>= $$K_1\\left( \\pi R^2 \\right) + K_2\\left( 3\\pi R^2 \\right) \\over 4\\pi R^2$$ <br><br>= $$K_1 + 3K_2 \\over 4$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1005,7 +675,7 @@
         "D": "$$K_1K_2 \\over K_1 + K_2$$"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266424/exam_images/dr66pnswcucxhvvj4bpg.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Physics - Heat and Thermodynamics Question 205 English Explanation\"> <br>$$R_eq = R_1 + R_2$$<br><br>$$ \\Rightarrow $$ $$1 \\over K_eq2l \\over A = l \\over K_1A + l \\over K_2A$$<br><br>$$ \\Rightarrow $$ $$2 \\over K_eq = l \\over K_1 + l \\over K_2$$<br><br>$$ \\Rightarrow $$ $$2 \\over K_eq = K_1 + K_2 \\over K_1K_2$$<br><br>$$ \\Rightarrow $$ $$K_eq = 2K_1K_2 \\over K_1 + K_2$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2084\u2082\u2084/exam_images/dr\u2086\u2086pnswcucxhvvj\u2084bpg.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Physics - Heat and Thermodynamics Question 205 English Explanation\"> <br>$$R_eq = R_1 + R_2$$<br><br>$$ \\Rightarrow $$ $$1 \\over K_eq\u2082l \\over A = l \\over K_1A + l \\over K_2A$$<br><br>$$ \\Rightarrow $$ $$2 \\over K_eq = l \\over K_1 + l \\over K_2$$<br><br>$$ \\Rightarrow $$ $$2 \\over K_eq = K_1 + K_2 \\over K_1K_2$$<br><br>$$ \\Rightarrow $$ $$K_eq = 2K_1K_2 \\over K_1 + K_2$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1020,7 +690,7 @@
         "D": "$$30^\\circ C$$"
       },
       "answer": "B",
-      "solution": "<p>Newton's law of cooling states that the rate of heat loss of a body is directly proportional to the difference in the temperatures between the body and its surroundings. The average rate of cooling can be represented as:</p> <p>$$\\fracT_1-T_2t = K \\left(\\fracT_1+T_22 - T_s\\right)$$</p> <p>where:</p> <ul> <li>$T_1$ and $T_2$ are the initial and final temperatures of the body,</li> <li>$t$ is the time it takes for the body to cool from $T_1$ to $T_2$,</li> <li>$T_s$ is the temperature of the surroundings, and</li> <li>$K$ is a constant of proportionality.</li> </ul> <p>In the first 7 minutes, the body cools from $60^\\circ C$ to $40^\\circ C$, and the surrounding temperature is $10^\\circ C$. So, the first equation is:</p> <p>$$\\frac60-407 = K \\left(\\frac60+402 - 10\\right) \\tag1$$</p> <p>In the next 7 minutes, the body cools from $40^\\circ C$ to $T^\\circ C$, with the same surrounding temperature. So, the second equation is:</p> <p>$$\\frac40-T7 = K \\left(\\frac40+T2 - 10\\right) \\tag2$$</p> <p>Solving equation (1) for $K$ and substituting into equation (2) will give the temperature $T$ after the next 7 minutes:</p> <p>$$T = 28^\\circ C$$</p>",
+      "solution": "<p>Newton's law of cooling states that the rate of heat loss of a body is directly proportional to the difference in the temperatures between the body and its surroundings. The average rate of cooling can be represented as:</p> <p>$$\\fracT_1-T_2t = K \\left(\\fracT_1+T_22 - T_s\\right)$$</p> <p>where:</p> <ul> <li>$T_1$ and $T_2$ are the initial and final temperatures of the body,</li> <li>$t$ is the time it takes for the body to cool from $T_1$ to $T_2$,</li> <li>$T_s$ is the temperature of the surroundings, and</li> <li>$K$ is a constant of proportionality.</li> </ul> <p>In the first 7 minutes, the body cools from $60^\\circ C$ to $40^\\circ C$, and the surrounding temperature is $10^\\circ C$. So, the first equation is:</p> <p>$$\\frac\u2086\u2080-407 = K \\left(\\frac\u2086\u2080+402 - 10\\right) \\tag\u2081$$</p> <p>In the next 7 minutes, the body cools from $40^\\circ C$ to $T^\\circ C$, with the same surrounding temperature. So, the second equation is:</p> <p>$$\\frac\u2084\u2080-T\u2087 = K \\left(\\frac\u2084\u2080+T\u2082 - 10\\right) \\tag\u2082$$</p> <p>Solving equation (1) for $K$ and substituting into equation (2) will give the temperature $T$ after the next 7 minutes:</p> <p>$$T = 28^\\circ C$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1035,7 +705,7 @@
         "D": "$$68^\\circ F$$"
       },
       "answer": "C",
-      "solution": "<p>To find the increase in temperature on the Fahrenheit scale, we use the relationship between the Celsius and Fahrenheit temperature scales. The formula to convert Celsius to Fahrenheit is:</p> <p>$$F = \\frac95C + 32$$</p> <p>However, since we are interested in the <strong>increase</strong> in temperature, we can ignore the \"+ 32\" part of the formula, because this constant does not affect the change in temperature, only the absolute temperatures. Thus, to find the increase in temperature on the Fahrenheit scale, we can use:</p> <p>$$\\Delta F = \\frac95\\Delta C$$</p> <p>Given that the increase in temperature is $$40^\\circC$$, we can substitute this value into the equation:</p> <p>$$\\Delta F = \\frac95 \\times 40^\\circC$$</p> <p>$$\\Delta F = 9 \\times 8$$</p> <p>$$\\Delta F = 72^\\circF$$</p> <p>Therefore, the increase in temperature on the Fahrenheit scale is $$72^\\circF$$. So, the correct answer is:</p> <p>Option C $$72^\\circ F$$</p>",
+      "solution": "<p>To find the increase in temperature on the Fahrenheit scale, we use the relationship between the Celsius and Fahrenheit temperature scales. The formula to convert Celsius to Fahrenheit is:</p> <p>$$F = \\frac\u2089\u2085C + 32$$</p> <p>However, since we are interested in the <strong>increase</strong> in temperature, we can ignore the \"+ 32\" part of the formula, because this constant does not affect the change in temperature, only the absolute temperatures. Thus, to find the increase in temperature on the Fahrenheit scale, we can use:</p> <p>$$\\Delta F = \\frac\u2089\u2085\\Delta C$$</p> <p>Given that the increase in temperature is $$40^\\circC$$, we can substitute this value into the equation:</p> <p>$$\\Delta F = \\frac\u2089\u2085 \\times 40^\\circC$$</p> <p>$$\\Delta F = 9 \\times 8$$</p> <p>$$\\Delta F = 72^\\circF$$</p> <p>Therefore, the increase in temperature on the Fahrenheit scale is $$72^\\circF$$. So, the correct answer is:</p> <p>Option C $$72^\\circ F$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1059,7 +729,7 @@
     {
       "question": "C<sub>P</sub> and C<sub>v</sub> are specific heats at constant pressure and constant volume respectively. It is observed that <br/>C<sub>P</sub> \\\u2013 C<sub>v</sub> = a for hydrogen gas<br/> C<sub>P</sub> \\\u2013 C<sub>v</sub> = b for nitrogen gas<br/> The correct relation between a and b is",
       "options": {
-        "A": "a = 28 b",
+        "A": "= 28 b",
         "B": "a = 1/14 b",
         "C": "a = b",
         "D": "a = 14 b"
@@ -1162,7 +832,7 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A 25 \u00d7 10<sup>\u20133</sup> m<sup>3</sup> volume cylinder is filled with 1 mol of O<sub>2</sub> gas at room temperature (300K). The molecular diameter of O<sub>2</sub>, and its root mean square speed, are found to be 0.3 nm, and 200 m/s, respectively. What is the average collision rate (per second) for an O<sub>2</sub> molecule ?",
+      "question": "A\u2082\u2085 \u00d7 10<sup>\u20133</sup> m<sup>3</sup> volume cylinder is filled with 1 mol of O<sub>2</sub> gas at room temperature (300K). The molecular diameter of O<sub>2</sub>, and its root mean square speed, are found to be 0.3 nm, and 200 m/s, respectively. What is the average collision rate (per second) for an O<sub>2</sub> molecule ?",
       "options": {
         "A": "~10<sup>13</sup>",
         "B": "~10<sup>12</sup>",
@@ -1185,7 +855,7 @@
         "D": "10<sup>6</sup> J"
       },
       "answer": "A",
-      "solution": "Thermal energy of N molecule <br><br>= N$$\\left( 3 \\over 2kT \\right)$$ <br><br>= $$N \\over N_A3 \\over 2$$RT <br><br>= $$3 \\over 2$$(nRT) <br><br>= $$3 \\over 2$$PV <br><br>= $$3 \\over 2$$P$$\\left( m \\over 8 \\right)$$ <br><br>= $$3 \\over 2$$ $$ \\times $$ 4 $$ \\times $$ 10<sup>4</sup> $$ \\times $$ $$2 \\over 8$$ <br><br>= 1.5 $$ \\times $$ 10<sup>4</sup> <br><br>order will 10<sup>4</sup>",
+      "solution": "Thermal energy of N molecule <br><br>= N$$\\left( 3 \\over 2kT \\right)$$ <br><br>= $$N \\over N_A\u2083 \\over 2$$RT <br><br>= $$3 \\over 2$$(nRT) <br><br>= $$3 \\over 2$$PV <br><br>= $$3 \\over 2$$P$$\\left( m \\over 8 \\right)$$ <br><br>= $$3 \\over 2$$ $$ \\times $$ 4 $$ \\times $$ 10<sup>4</sup> $$ \\times $$ $$2 \\over 8$$ <br><br>= 1.5 $$ \\times $$ 10<sup>4</sup> <br><br>order will 10<sup>4</sup>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1404,8 +1074,8 @@
     {
       "question": "<p>Same gas is filled in two vessels of the same volume at the same temperature. If the ratio of the number of molecules is $$1: 4$$, then</p> <p>A. The r.m.s. velocity of gas molecules in two vessels will be the same.</p> <p>B. The ratio of pressure in these vessels will be $$1: 4$$.</p> <p>C. The ratio of pressure will be $$1: 1$$.</p> <p>D. The r.m.s. velocity of gas molecules in two vessels will be in the ratio of $$1: 4$$.</p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "A and C only",
-        "B": "B and D only",
+        "A": "nd C only",
+        "B": "and D only",
         "C": "A and B only",
         "D": "C and D only"
       },
@@ -1440,7 +1110,7 @@
         "D": "$$36 ~mm ~s^-1$$"
       },
       "answer": "C",
-      "solution": "At NTP, $T=298 ~K$ <br/><br/>$$ \\beginaligned v_rms &=\\sqrt\\frac3 R TM \\\\ &=\\sqrt\\frac3 k N_A \\times 2985 \\times 10^-17 \\times N_A \\endaligned $$ <br/><br/>$\\simeq 15 ~mm / s$",
+      "solution": "At NTP, $T=298 ~K$ <br/><br/>$$ \\beginaligned v_rms &=\\sqrt\\frac\u2083 R TM \\\\ &=\\sqrt\\frac\u2083 k N_A \\times 2985 \\times 10^-17 \\times N_A \\endaligned $$ <br/><br/>$\\simeq 15 ~mm / s$",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1455,7 +1125,7 @@
         "D": "proportional to pressure"
       },
       "answer": "C",
-      "solution": "Average kinetic energy of a molecule of gas <br/><br/>$$ =\\fracf2 k_B T $$ <br/><br/>f is degree of freedom.",
+      "solution": "Average kinetic energy of a molecule of gas <br/><br/>$$ =\\fracf\u2082 k_B T $$ <br/><br/>f is degree of freedom.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1500,7 +1170,7 @@
         "D": "Proportional to square root of temperature ($$\\sqrt T$$)"
       },
       "answer": "D",
-      "solution": "The rms speed of a gas molecule is<br/><br/> $$ V_RMS=\\sqrt\\frac3 RTM $$<br/><br/> $V_RMS \\propto \\sqrtT$",
+      "solution": "The rms speed of a gas molecule is<br/><br/> $$ V_RMS=\\sqrt\\frac\u2083 RTM $$<br/><br/> $V_RMS \\propto \\sqrtT$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1509,13 +1179,13 @@
     {
       "question": "A flask contains Hydrogen and Argon in the ratio $2: 1$ by mass. The temperature of the mixture is $30^\\circ C$. The ratio of average kinetic energy per molecule of the two gases ( $K$ argon/K hydrogen) is : <br/><br/> (Given: Atomic Weight of $Ar=39.9$ )",
       "options": {
-        "A": "$\\frac39.92$",
+        "A": "$\\frac\u2083\u2089.92$",
         "B": "2",
         "C": "39.9",
         "D": "1"
       },
       "answer": "D",
-      "solution": "The average kinetic energy per molecule of a gas is given by the expression $\\frac32kT$, where $k$ is the Boltzmann constant and $T$ is the temperature of the gas in kelvins. Since the temperature of the mixture is given in Celsius, we need to convert it to kelvins by adding 273.15 to get $303.15$ K. <br/><br/> Let us assume that the total mass of the mixture is $3x$ (where $x$ is a constant), then the mass of hydrogen and argon in the mixture will be $2x$ and $x$ respectively, according to the given ratio. <br/><br/> The number of moles of hydrogen and argon can be calculated using their respective masses and molar masses, which are 1 g/mol and 39.9 g/mol respectively. Therefore: <br/><br/> Number of moles of hydrogen = $\\frac2x1~g/mol = 2x$ mol <br/><br/> Number of moles of argon = $\\fracx39.9~g/mol = \\fracx39.9$ mol <br/><br/> The total number of moles of gas in the mixture is the sum of the number of moles of hydrogen and argon: <br/><br/> Total number of moles of gas = $2x + \\fracx39.9 = \\frac79.9x39.9$ mol <br/><br/> The average kinetic energy per molecule of hydrogen is: <br/><br/> $\\frac32kT_H_2 = \\frac32 \\times 1.38 \\times 10^-23 \\times 303.15~K = 6.12 \\times 10^-21~J$ <br/><br/> The average kinetic energy per molecule of argon is: <br/><br/> $\\frac32kT_Ar = \\frac32 \\times 1.38 \\times 10^-23 \\times 303.15~K = 6.12 \\times 10^-21~J$ <br/><br/> Therefore, the ratio of the average kinetic energy per molecule of argon to hydrogen is: <br/><br/> $\\fracK_ArK_H_2 = \\frac\\frac32kT_Ar\\frac32kT_H_2 = \\frac6.12 \\times 10^-21~J6.12 \\times 10^-21~J = 1$ <br/><br/> Hence, the ratio of average kinetic energy per molecule of argon to hydrogen is $1$.",
+      "solution": "The average kinetic energy per molecule of a gas is given by the expression $\\frac\u2083\u2082kT$, where $k$ is the Boltzmann constant and $T$ is the temperature of the gas in kelvins. Since the temperature of the mixture is given in Celsius, we need to convert it to kelvins by adding 273.15 to get $303.15$ K. <br/><br/> Let us assume that the total mass of the mixture is $3x$ (where $x$ is a constant), then the mass of hydrogen and argon in the mixture will be $2x$ and $x$ respectively, according to the given ratio. <br/><br/> The number of moles of hydrogen and argon can be calculated using their respective masses and molar masses, which are 1 g/mol and 39.9 g/mol respectively. Therefore: <br/><br/> Number of moles of hydrogen = $\\frac\u2082x\u2081~g/mol = 2x$ mol <br/><br/> Number of moles of argon = $\\fracx\u2083\u2089.9~g/mol = \\fracx\u2083\u2089.9$ mol <br/><br/> The total number of moles of gas in the mixture is the sum of the number of moles of hydrogen and argon: <br/><br/> Total number of moles of gas = $2x + \\fracx\u2083\u2089.9 = \\frac\u2087\u2089.9x\u2083\u2089.9$ mol <br/><br/> The average kinetic energy per molecule of hydrogen is: <br/><br/> $\\frac\u2083\u2082kT_H_2 = \\frac\u2083\u2082 \\times 1.38 \\times 10^-23 \\times 303.15~K = 6.12 \\times 10^-21~J$ <br/><br/> The average kinetic energy per molecule of argon is: <br/><br/> $\\frac\u2083\u2082kT_Ar = \\frac\u2083\u2082 \\times 1.38 \\times 10^-23 \\times 303.15~K = 6.12 \\times 10^-21~J$ <br/><br/> Therefore, the ratio of the average kinetic energy per molecule of argon to hydrogen is: <br/><br/> $\\fracK_ArK_H_2 = \\frac\\frac\u2083\u2082kT_Ar\\frac\u2083\u2082kT_H_2 = \\frac\u2086.12 \\times 10^-21~J\u2086.12 \\times 10^-21~J = 1$ <br/><br/> Hence, the ratio of average kinetic energy per molecule of argon to hydrogen is $1$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1530,7 +1200,7 @@
         "D": "$$651.7 ~m / s$$"
       },
       "answer": "D",
-      "solution": "The correct relationship between the rms speeds of the two gases is: <br/><br/> $$\\fracv_Arv_Cl = \\sqrt\\fracM_ClM_Ar$$ <br/><br/> Given the molar masses for argon and chlorine: <br/><br/> $$M_Ar = 39.9 u$$<br/><br/> $$M_Cl_2 = 70.9 u$$ <br/><br/> And the rms speed of chlorine molecules: <br/><br/> $$v_Cl = 490 ~m / s$$ <br/><br/> We can now solve for the rms speed of argon molecules: <br/><br/> $$v_Ar = \\sqrt\\frac70.939.9 \\times 490$$ <br/><br/> $$v_Ar \\approx 651.7 ~m / s$$ <br/><br/> The rms speed of argon molecules at the same temperature as the chlorine molecules is approximately $$651.7 ~m / s$$.",
+      "solution": "The correct relationship between the rms speeds of the two gases is: <br/><br/> $$\\fracv_Arv_Cl = \\sqrt\\fracM_ClM_Ar$$ <br/><br/> Given the molar masses for argon and chlorine: <br/><br/> $$M_Ar = 39.9 u$$<br/><br/> $$M_Cl_2 = 70.9 u$$ <br/><br/> And the rms speed of chlorine molecules: <br/><br/> $$v_Cl = 490 ~m / s$$ <br/><br/> We can now solve for the rms speed of argon molecules: <br/><br/> $$v_Ar = \\sqrt\\frac\u2087\u2080.939.9 \\times 490$$ <br/><br/> $$v_Ar \\approx 651.7 ~m / s$$ <br/><br/> The rms speed of argon molecules at the same temperature as the chlorine molecules is approximately $$651.7 ~m / s$$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1545,7 +1215,7 @@
         "D": "523 m/s"
       },
       "answer": "D",
-      "solution": "To find the root mean square speed of molecules of nitrogen gas, we can use the formula: <br/><br/> $$ v_rms = \\sqrt\\frac3k_BTm $$ <br/><br/> where $$v_rms$$ is the root mean square speed, $$k_B$$ is the Boltzmann constant, $$T$$ is the temperature in Kelvin, and $$m$$ is the mass of a nitrogen molecule. <br/><br/> First, we need to convert the temperature from Celsius to Kelvin: <br/><br/> $$ T = 27^\\circC + 273 = 300\\,K $$ <br/><br/> Now, substitute the given values of $$k_B$$, $$T$$, and $$m$$ into the formula: <br/><br/> $$ v_rms = \\sqrt\\frac3(1.4 \\times 10^-23\\, JK^-1)(300\\,K)4.6 \\times 10^-26\\,kg $$ <br/><br/> Simplify and calculate the root mean square speed: <br/><br/> $$ v_rms = 523\\,m/s $$ <br/><br/> The root mean square speed of molecules of nitrogen gas at $$27^\\circC$$ is 523 m/s.",
+      "solution": "To find the root mean square speed of molecules of nitrogen gas, we can use the formula: <br/><br/> $$ v_rms = \\sqrt\\frac\u2083k_BTm $$ <br/><br/> where $$v_rms$$ is the root mean square speed, $$k_B$$ is the Boltzmann constant, $$T$$ is the temperature in Kelvin, and $$m$$ is the mass of a nitrogen molecule. <br/><br/> First, we need to convert the temperature from Celsius to Kelvin: <br/><br/> $$ T = 27^\\circC + 273 = 300\\,K $$ <br/><br/> Now, substitute the given values of $$k_B$$, $$T$$, and $$m$$ into the formula: <br/><br/> $$ v_rms = \\sqrt\\frac\u2083(1.4 \\times 10^-23\\, JK^-1)(300\\,K)\u2084.6 \\times 10^-26\\,kg $$ <br/><br/> Simplify and calculate the root mean square speed: <br/><br/> $$ v_rms = 523\\,m/s $$ <br/><br/> The root mean square speed of molecules of nitrogen gas at $$27^\\circC$$ is 523 m/s.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1560,7 +1230,7 @@
         "D": "11RT"
       },
       "answer": "D",
-      "solution": "<p>The internal energy (U) of a gas depends on its degrees of freedom (f). <br/><br/>For a monatomic gas like neon, the degrees of freedom are f = 3 (translational). For a diatomic gas like oxygen, the degrees of freedom are f = 5 (3 translational + 2 rotational).</p> <p>The internal energy for each component of the gas mixture can be calculated using the formula:</p> <p>$$U = \\fracf2nRT$$</p> <p>where n is the number of moles, R is the universal gas constant, and T is the temperature.</p> <p>For the 4 moles of neon (monatomic):</p> <p>$$U_Ne = \\frac32 \\cdot 4RT = 6RT$$</p> <p>For the 2 moles of oxygen (diatomic):</p> <p>$$U_O_2 = \\frac52 \\cdot 2RT = 5RT$$</p> <p>Now, to find the total internal energy, we sum the internal energies of the individual components:</p> <p>$$U_total = U_Ne + U_O_2 = 6RT + 5RT = 11RT$$</p> <p>Thus, the total internal energy of the system is 11RT.</p>",
+      "solution": "<p>The internal energy (U) of a gas depends on its degrees of freedom (f). <br/><br/>For a monatomic gas like neon, the degrees of freedom are f = 3 (translational). For a diatomic gas like oxygen, the degrees of freedom are f = 5 (3 translational + 2 rotational).</p> <p>The internal energy for each component of the gas mixture can be calculated using the formula:</p> <p>$$U = \\fracf\u2082nRT$$</p> <p>where n is the number of moles, R is the universal gas constant, and T is the temperature.</p> <p>For the 4 moles of neon (monatomic):</p> <p>$$U_Ne = \\frac\u2083\u2082 \\cdot 4RT = 6RT$$</p> <p>For the 2 moles of oxygen (diatomic):</p> <p>$$U_O_2 = \\frac\u2085\u2082 \\cdot 2RT = 5RT$$</p> <p>Now, to find the total internal energy, we sum the internal energies of the individual components:</p> <p>$$U_total = U_Ne + U_O_2 = 6RT + 5RT = 11RT$$</p> <p>Thus, the total internal energy of the system is 11RT.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1575,14 +1245,14 @@
         "D": "$$1227^\\circ C$$"
       },
       "answer": "C",
-      "solution": "<p>The kinetic energy of an ideal gas is given by the equation:</p> <p>$KE = \\frac32 kT$</p> <p>where (k) is Boltzmann's constant and (T) is the absolute temperature in kelvins. Therefore, the kinetic energy of a gas is directly proportional to its temperature. </p> <p>If the kinetic energy doubles, the temperature must also double. The original temperature is given as ($27^\\circ C$), which is equal to (300 K) in absolute terms. Therefore, the final temperature ($T_f$) in kelvins is:</p> <p>$T_f = 2 \\cdot 300 K = 600 K$</p> <p>Converting this back to degrees Celsius gives:</p> <p>$T_f = 600K - 273 = 327 ^\\circ C$</p>",
+      "solution": "<p>The kinetic energy of an ideal gas is given by the equation:</p> <p>$KE = \\frac\u2083\u2082 kT$</p> <p>where (k) is Boltzmann's constant and (T) is the absolute temperature in kelvins. Therefore, the kinetic energy of a gas is directly proportional to its temperature. </p> <p>If the kinetic energy doubles, the temperature must also double. The original temperature is given as ($27^\\circ C$), which is equal to (300 K) in absolute terms. Therefore, the final temperature ($T_f$) in kelvins is:</p> <p>$T_f = 2 \\cdot 300 K = 600 K$</p> <p>Converting this back to degrees Celsius gives:</p> <p>$T_f = 600K - 273 = 327 ^\\circ C$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "<p>The number of air molecules per cm$$^3$$ increased from $$3\\times10^19$$ to $$12\\times10^19$$. The ratio of collision frequency of air molecules before and after the increase in number respectively is:</p>",
+      "question": "<p>The number of air molecules per cm$$^3$$ increased from $$3\\times\u2081\u2080^19$$ to $$12\\times\u2081\u2080^19$$. The ratio of collision frequency of air molecules before and after the increase in number respectively is:</p>",
       "options": {
         "A": "1.25",
         "B": "0.25",
@@ -1590,7 +1260,7 @@
         "D": "0.75"
       },
       "answer": "B",
-      "solution": "1. The collision frequency (f) is given by the formula : <br/><br/>$$ f = \\sqrt2 \\pi d^2 v n_v $$ <br/><br/> Where: <br/><br/>- $d$ is the diameter of the molecule, <br/><br/>- $v$ is the average velocity of the molecules, and <br/><br/>- $n_v$ is the number density (number of molecules per unit volume). <br/><br/>2. From this equation, we can see that the collision frequency (f) is directly proportional to the number density ($n_v$), because all the other variables ($d$ and $v$) are constant : <br/><br/>$$ f \\propto n_v $$ <br/><br/>3. Therefore, the ratio of two different collision frequencies ($f_1$ and $f_2$) is equal to the ratio of their corresponding number densities ($n_v1$ and $n_v2$): <br/><br/>$$ \\fracf_1f_2 = \\fracn_v1n_v2 $$ <br/><br/>4. Given that the number density increased from $3 \\times 10^19$ to $12 \\times 10^19$, we can substitute these values into the equation to find the ratio of the collision frequencies: <br/><br/> $$ \\fracf_1f_2 = \\frac3 \\times 10^1912 \\times 10^19 $$ <br/><br/>5. Simplifying this equation gives: <br/><br/> $$ \\fracf_1f_2 = 0.25 $$ <br/><br/>So, the ratio of the collision frequency of air molecules before and after the increase in number is 0.25.",
+      "solution": "1. The collision frequency (f) is given by the formula : <br/><br/>$$ f = \\sqrt\u2082 \\pi d^2 v n_v $$ <br/><br/> Where: <br/><br/>- $d$ is the diameter of the molecule, <br/><br/>- $v$ is the average velocity of the molecules, and <br/><br/>- $n_v$ is the number density (number of molecules per unit volume). <br/><br/>2. From this equation, we can see that the collision frequency (f) is directly proportional to the number density ($n_v$), because all the other variables ($d$ and $v$) are constant : <br/><br/>$$ f \\propto n_v $$ <br/><br/>3. Therefore, the ratio of two different collision frequencies ($f_1$ and $f_2$) is equal to the ratio of their corresponding number densities ($n_v\u2081$ and $n_v\u2082$): <br/><br/>$$ \\fracf_1f_2 = \\fracn_v\u2081n_v\u2082 $$ <br/><br/>4. Given that the number density increased from $3 \\times 10^19$ to $12 \\times 10^19$, we can substitute these values into the equation to find the ratio of the collision frequencies: <br/><br/> $$ \\fracf_1f_2 = \\frac\u2083 \\times 10^1912 \\times 10^19 $$ <br/><br/>5. Simplifying this equation gives: <br/><br/> $$ \\fracf_1f_2 = 0.25 $$ <br/><br/>So, the ratio of the collision frequency of air molecules before and after the increase in number is 0.25.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1605,7 +1275,7 @@
         "D": "0.5"
       },
       "answer": "D",
-      "solution": "<p>Here is your text with LaTeX notation and paragraph tags converted as requested:</p> <p>To calculate the root mean square (rms) velocity of gas molecules, we can use the formula:</p> <p>$$ v_\\textrms = \\sqrt\\frac3kTm $$</p> <p>where:</p> <ul> <li>$$ v_\\textrms $$ is the root mean square velocity of the gas molecules,</li> <li>$$ k $$ is the Boltzmann constant,</li> <li>$$ T $$ is the absolute temperature in Kelvin, and</li> <li>$$ m $$ is the mass of one molecule of the gas.</li> </ul> <p>Since the temperature and pressure are the same for hydrogen and oxygen, we can ignore the constant and temperature parts of the equation because they will cancel out in the comparison between the two gases. </p> <p>Now, we need to compare the mass of one molecule of hydrogen to that of one molecule of oxygen. The molecular mass of hydrogen (H\\u2082) is approximately 2 g/mol, while the molecular mass of oxygen (O\\u2082) is approximately 32 g/mol.</p> <p>We know the rms speed of hydrogen is 2 km/s, so let's find the mass ratio and then determine the speed of oxygen molecules. Using the rms velocity formula and considering the ratio of masses:</p> <p>$$ \\fracv_\\textrms, H\\u2082v_\\textrms, O\\u2082 = \\sqrt\\fracm_\\textO\\u2082m_\\textH\\u2082 $$</p> <p>We know the mass m is proportional to the molecular weight for each gas, so we can substitute:</p> <p>$$ \\fracv_\\textrms, H\\u2082v_\\textrms, O\\u2082 = \\sqrt\\fracM_\\textO\\u2082M_\\textH\\u2082 $$</p> <p>Now we plug in the values:</p> <p>$$ \\frac2 \\text km/sv_\\textrms, O\\u2082 = \\sqrt\\frac322 = \\sqrt16 = 4 $$</p> <p>Solving for $$ v_\\textrms, O\\u2082 $$:</p> <p>$$ v_\\textrms, O\\u2082 = \\frac2 \\text km/s4 = 0.5 \\text km/s $$</p> <p>Therefore, the rms velocity of oxygen molecules at the same temperature and pressure conditions as that of hydrogen with a rms velocity of 2 km/s is 0.5 km/s. </p> <p>The correct answer is Option D : 0.5.</p>",
+      "solution": "<p>Here is your text with LaTeX notation and paragraph tags converted as requested:</p> <p>To calculate the root mean square (rms) velocity of gas molecules, we can use the formula:</p> <p>$$ v_\\textrms = \\sqrt\\frac\u2083kTm $$</p> <p>where:</p> <ul> <li>$$ v_\\textrms $$ is the root mean square velocity of the gas molecules,</li> <li>$$ k $$ is the Boltzmann constant,</li> <li>$$ T $$ is the absolute temperature in Kelvin, and</li> <li>$$ m $$ is the mass of one molecule of the gas.</li> </ul> <p>Since the temperature and pressure are the same for hydrogen and oxygen, we can ignore the constant and temperature parts of the equation because they will cancel out in the comparison between the two gases. </p> <p>Now, we need to compare the mass of one molecule of hydrogen to that of one molecule of oxygen. The molecular mass of hydrogen (H\\u\u2082\u2080\u2088\u2082) is approximately 2 g/mol, while the molecular mass of oxygen (O\\u\u2082\u2080\u2088\u2082) is approximately 32 g/mol.</p> <p>We know the rms speed of hydrogen is 2 km/s, so let's find the mass ratio and then determine the speed of oxygen molecules. Using the rms velocity formula and considering the ratio of masses:</p> <p>$$ \\fracv_\\textrms, H\\u\u2082\u2080\u2088\u2082v_\\textrms, O\\u\u2082\u2080\u2088\u2082 = \\sqrt\\fracm_\\textO\\u\u2082\u2080\u2088\u2082m_\\textH\\u\u2082\u2080\u2088\u2082 $$</p> <p>We know the mass m is proportional to the molecular weight for each gas, so we can substitute:</p> <p>$$ \\fracv_\\textrms, H\\u\u2082\u2080\u2088\u2082v_\\textrms, O\\u\u2082\u2080\u2088\u2082 = \\sqrt\\fracM_\\textO\\u\u2082\u2080\u2088\u2082M_\\textH\\u\u2082\u2080\u2088\u2082 $$</p> <p>Now we plug in the values:</p> <p>$$ \\frac\u2082 \\text km/sv_\\textrms, O\\u\u2082\u2080\u2088\u2082 = \\sqrt\\frac\u2083\u2082\u2082 = \\sqrt\u2081\u2086 = 4 $$</p> <p>Solving for $$ v_\\textrms, O\\u\u2082\u2080\u2088\u2082 $$:</p> <p>$$ v_\\textrms, O\\u\u2082\u2080\u2088\u2082 = \\frac\u2082 \\text km/s\u2084 = 0.5 \\text km/s $$</p> <p>Therefore, the rms velocity of oxygen molecules at the same temperature and pressure conditions as that of hydrogen with a rms velocity of 2 km/s is 0.5 km/s. </p> <p>The correct answer is Option D : 0.5.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1620,7 +1290,7 @@
         "D": "5942.0 J"
       },
       "answer": "A",
-      "solution": "<p>The total kinetic energy of a mole of an ideal gas can be determined by using the equipartition theorem, which states that the energy is equally distributed among degrees of freedom. For a diatomic molecule such as oxygen ($$O_2$$), there are 5 degrees of freedom (3 translational and 2 rotational - assuming the vibrational modes are not excited at room temperature), so each degree of freedom has an average energy of $$\\frac12 kT$$ per molecule, where $$k$$ is the Boltzmann constant and $$T$$ is the temperature in kelvins.</p> <p>However, since we are dealing with moles, we'll use the universal gas constant $$R$$ instead of the Boltzmann constant $$k$$, because $$R = k \\cdot N_A$$ where $$N_A$$ is the Avogadro constant (the number of molecules in a mole). Therefore, the average energy per mole for each degree of freedom is $$\\frac12RT$$.</p> <p>To find the total energy, we multiply the energy per degree of freedom by the number of degrees of freedom for the diatomic gas:</p> $$ E_\\texttotal = \\textdegrees of freedom \\times \\frac12 R T $$ <p>For diatomic oxygen:</p> $$ E_\\texttotal = 5 \\times \\frac12 R T $$ <p>Given that temperature $$ T $$ is $$ 27^\\circ C $$, we first convert it to kelvins:</p> $$ T_\\textK = T_\\textC + 273.15 = 27 + 273 = 300 \\text K $$ <p>Now we plug in the values for $$ R $$ and $$ T_\\textK $$:</p> $$ E_\\texttotal = 5 \\times \\frac12 \\times 8.31 \\text J/mol \\cdot \\textK \\times 300 \\text K $$ <p>When we calculate this, we find:</p> <br/>$$ E_\\texttotal = \\frac52 \\times 8.31 \\times 300 $$ <br/><br/>$$ E_\\texttotal = 6232.5 \\text J/mol $$ <p>So the total kinetic energy of 1 mole of oxygen at $$27^\\circ C$$ is approximately 6232.5 J.</p>",
+      "solution": "<p>The total kinetic energy of a mole of an ideal gas can be determined by using the equipartition theorem, which states that the energy is equally distributed among degrees of freedom. For a diatomic molecule such as oxygen ($$O_2$$), there are 5 degrees of freedom (3 translational and 2 rotational - assuming the vibrational modes are not excited at room temperature), so each degree of freedom has an average energy of $$\\frac\u2081\u2082 kT$$ per molecule, where $$k$$ is the Boltzmann constant and $$T$$ is the temperature in kelvins.</p> <p>However, since we are dealing with moles, we'll use the universal gas constant $$R$$ instead of the Boltzmann constant $$k$$, because $$R = k \\cdot N_A$$ where $$N_A$$ is the Avogadro constant (the number of molecules in a mole). Therefore, the average energy per mole for each degree of freedom is $$\\frac\u2081\u2082RT$$.</p> <p>To find the total energy, we multiply the energy per degree of freedom by the number of degrees of freedom for the diatomic gas:</p> $$ E_\\texttotal = \\textdegrees of freedom \\times \\frac\u2081\u2082 RT $$ <p>For diatomic oxygen:</p> $$ E_\\texttotal = 5 \\times \\frac\u2081\u2082 RT $$ <p>Given that temperature $$ T $$ is $$ 27^\\circ C $$, we first convert it to kelvins:</p> $$ T_\\textK = T_\\textC + 273.15 = 27 + 273 = 300 \\text K $$ <p>Now we plug in the values for $$ R $$ and $$ T_\\textK $$:</p> $$ E_\\texttotal = 5 \\times \\frac\u2081\u2082 \\times 8.31 \\text J/mol \\cdot \\textK \\times 300 \\text K $$ <p>When we calculate this, we find:</p> <br/>$$ E_\\texttotal = \\frac\u2085\u2082 \\times 8.31 \\times 300 $$ <br/><br/>$$ E_\\texttotal = 6232.5 \\text J/mol $$ <p>So the total kinetic energy of 1 mole of oxygen at $$27^\\circ C$$ is approximately 6232.5 J.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1635,7 +1305,7 @@
         "D": "speed"
       },
       "answer": "A",
-      "solution": "<p>$$KE=\\fracf2 kT$$</p>",
+      "solution": "<p>$$KE=\\fracf\u2082 kT$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1650,7 +1320,7 @@
         "D": "100 K"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginaligned & PV=nRT \\\\ & PV=\\fracNN_A RT \\\\ & N=\\text Total no. of molecules \\\\ & P=\\fracNV kT \\\\ & 1.38 \\times 1.01 \\times 10^5=2 \\times 10^25 \\times 1.38 \\times 10^-23 \\times T \\\\ & 1.01 \\times 10^5=2 \\times 10^2 \\times T \\\\ & T=\\frac1.01 \\times 10^32 \\approx 500 ~K \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & PV=nRT \\\\ & PV=\\fracNN_A RT \\\\ & N=\\text Total no. of molecules \\\\ & P=\\fracNV kT \\\\ & 1.38 \\times 1.01 \\times 10^5=2 \\times 10^25 \\times 1.38 \\times 10^-23 \\times T \\\\ & 1.01 \\times 10^5=2 \\times 10^2 \\times T \\\\ & T=\\frac\u2081.01 \\times 10^32 \\approx 500 ~K \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1665,7 +1335,7 @@
         "D": "$$-73$$ K"
       },
       "answer": "A",
-      "solution": "<p>$$\\beginaligned & \\sqrt\\frac3 R T2=\\sqrt\\frac3 R(320)32 \\\\ & T=\\frac32016=20 ~K \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & \\sqrt\\frac\u2083 R T\u2082=\\sqrt\\frac\u2083 R(320)\u2083\u2082 \\\\ & T=\\frac\u2083\u2082\u2080\u2081\u2086=20 ~K \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1680,7 +1350,7 @@
         "D": "$$117^\\circ C$$"
       },
       "answer": "D",
-      "solution": "<p>The average translational kinetic energy ($K_avg$) of a molecule is directly proportional to the absolute temperature (T) of the gas, as described by the equation:</p> <p>$K_avg = \\frac32kT$</p> <p>Where:</p> <ul> <li>$K_avg$ is the average kinetic energy,</li> <li>$k$ is the Boltzmann's constant, and</li> <li>$T$ is the temperature in Kelvin.</li> </ul> <p>From the given problem, if the temperature of the gas is $-78^\\circC$, which in Kelvin is $T_1 = -78 + 273 = 195K$, and the average translational kinetic energy is $K$, when the energy becomes $2K$, we need to find the new temperature $(T_2)$.</p> <p>Using the direct proportionality relation, we can set up the following equation:</p> <p>$K \\propto T$</p> <p>$2K = K_2 = \\frac32kT_2$</p> <p>Given that at $T_1$, the kinetic energy is $K$, and at $T_2$, it's $2K$, we can use the ratio as follows:</p> <p>$\\fracK_2K_1 = \\frac2KK = 2 = \\fracT_2T_1$</p> <p>Thus, we have:</p> <p>$T_2 = 2T_1 = 2 \\times 195K = 390K$</p> <p>To find the temperature in Celsius, we convert $390K$ back to Celsius:</p> <p>$T_2(Celsius) = 390 - 273 = 117^\\circC$</p> <p>Therefore, the temperature at which the average translational kinetic energy of the molecules of the same gas becomes $2K$ is $117^\\circC$. The correct answer is:</p> <p>Option D $$117^\\circ C$$</p>",
+      "solution": "<p>The average translational kinetic energy ($K_avg$) of a molecule is directly proportional to the absolute temperature (T) of the gas, as described by the equation:</p> <p>$K_avg = \\frac\u2083\u2082kT$</p> <p>Where:</p> <ul> <li>$K_avg$ is the average kinetic energy,</li> <li>$k$ is the Boltzmann's constant, and</li> <li>$T$ is the temperature in Kelvin.</li> </ul> <p>From the given problem, if the temperature of the gas is $-78^\\circC$, which in Kelvin is $T_1 = -78 + 273 = 195K$, and the average translational kinetic energy is $K$, when the energy becomes $2K$, we need to find the new temperature $(T_2)$.</p> <p>Using the direct proportionality relation, we can set up the following equation:</p> <p>$K \\propto T$</p> <p>$2K = K_2 = \\frac\u2083\u2082kT_2$</p> <p>Given that at $T_1$, the kinetic energy is $K$, and at $T_2$, it's $2K$, we can use the ratio as follows:</p> <p>$\\fracK_2K_1 = \\frac\u2082KK = 2 = \\fracT_2T_1$</p> <p>Thus, we have:</p> <p>$T_2 = 2T_1 = 2 \\times 195K = 390K$</p> <p>To find the temperature in Celsius, we convert $390K$ back to Celsius:</p> <p>$T_2(Celsius) = 390 - 273 = 117^\\circC$</p> <p>Therefore, the temperature at which the average translational kinetic energy of the molecules of the same gas becomes $2K$ is $117^\\circC$. The correct answer is:</p> <p>Option D $$117^\\circ C$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1689,13 +1359,13 @@
     {
       "question": "<p>If the collision frequency of hydrogen molecules in a closed chamber at $$27^\\circ C$$ is $$Z$$, then the collision frequency of the same system at $$127^\\circ C$$ is :</p>",
       "options": {
-        "A": "$$\\frac\\sqrt32 Z$$",
-        "B": "$$\\frac2\\sqrt3 Z$$",
-        "C": "$$\\frac34 Z$$",
-        "D": "$$\\frac43 Z$$"
+        "A": "$$\\frac\\sqrt\u2083\u2082 Z$$",
+        "B": "$$\\frac\u2082\\sqrt\u2083 Z$$",
+        "C": "$$\\frac\u2083\u2084 Z$$",
+        "D": "$$\\frac\u2084\u2083 Z$$"
       },
       "answer": "B",
-      "solution": "<p>The collision frequency ($Z$) of gas molecules is proportional to the square root of the absolute temperature ($T$) of the system. Mathematically, it can be represented as $Z \\propto \\sqrtT$. This implies that when the temperature changes, the collision frequency changes as well according to the formula:</p> <p>$$Z_1 = Z_0 \\sqrt\\fracT_1T_0$$</p> <p>where:</p> <ul> <li>$Z_1$ is the collision frequency at temperature $T_1$,</li> <li>$Z_0$ is the initial collision frequency at temperature $T_0$,</li> <li>$T_1$ is the final absolute temperature, and</li> <li>$T_0$ is the initial absolute temperature.</li> </ul> <p>To solve the given problem, we first need to convert the provided temperatures from Celsius to Kelvin (since absolute temperature in Kelvin should be used):</p> <ul> <li>$T_0 = 27^\\circC = 27 + 273 = 300$ K</li> <li>$T_1 = 127^\\circC = 127 + 273 = 400$ K</li> </ul> <p>Using the formula for collision frequency change and substituting the given values:</p> <p>$$Z_1 = Z_0 \\sqrt\\frac400300 = Z_0 \\sqrt\\frac43$$</p> <p>This can be simplified to:</p> <p>$$Z_1 = Z_0 \\times \\frac2\\sqrt3$$</p> <p>Thus, the collision frequency of the system at $127^\\circC$ is $\\frac2\\sqrt3$ times the collision frequency at $27^\\circC$, making Option B the correct answer:</p> <p>$$\\frac2\\sqrt3 Z$$</p>",
+      "solution": "<p>The collision frequency ($Z$) of gas molecules is proportional to the square root of the absolute temperature ($T$) of the system. Mathematically, it can be represented as $Z \\propto \\sqrtT$. This implies that when the temperature changes, the collision frequency changes as well according to the formula:</p> <p>$$Z_1 = Z_0 \\sqrt\\fracT_1T_0$$</p> <p>where:</p> <ul> <li>$Z_1$ is the collision frequency at temperature $T_1$,</li> <li>$Z_0$ is the initial collision frequency at temperature $T_0$,</li> <li>$T_1$ is the final absolute temperature, and</li> <li>$T_0$ is the initial absolute temperature.</li> </ul> <p>To solve the given problem, we first need to convert the provided temperatures from Celsius to Kelvin (since absolute temperature in Kelvin should be used):</p> <ul> <li>$T_0 = 27^\\circC = 27 + 273 = 300$ K</li> <li>$T_1 = 127^\\circC = 127 + 273 = 400$ K</li> </ul> <p>Using the formula for collision frequency change and substituting the given values:</p> <p>$$Z_1 = Z_0 \\sqrt\\frac\u2084\u2080\u2080\u2083\u2080\u2080 = Z_0 \\sqrt\\frac\u2084\u2083$$</p> <p>This can be simplified to:</p> <p>$$Z_1 = Z_0 \\times \\frac\u2082\\sqrt\u2083$$</p> <p>Thus, the collision frequency of the system at $127^\\circC$ is $\\frac\u2082\\sqrt\u2083$ times the collision frequency at $27^\\circC$, making Option B the correct answer:</p> <p>$$\\frac\u2082\\sqrt\u2083 Z$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1710,7 +1380,7 @@
         "D": "72.9 J"
       },
       "answer": "A",
-      "solution": "<p>To solve this problem, we can use the first law of thermodynamics, which states:</p> <p>$$\\Delta Q = \\Delta U + W$$</p> <p>where:</p> <ul> <li>$$\\Delta Q$$ is the heat transferred to the system, in this case, $$48 ~J$$. </li> <li>$$\\Delta U$$ is the change in internal energy of the system. </li> <li>$$W$$ is the work done by the system.</li> </ul> <p>For one mole of an ideal gas, the change in internal energy can be calculated using the equation:</p> <p>$$\\Delta U = nC_v\\Delta T$$</p> <p>where:</p> <ul> <li>$$n$$ is the number of moles, which is $$1$$ in this case. </li> <li>$$C_v$$ is the molar specific heat capacity at constant volume. </li> <li>$$\\Delta T$$ is the change in temperature, in Kelvins.</li> </ul> <p>Given that we are dealing with helium, a monatomic ideal gas, we know that:</p> <p>$$C_v = \\frac32R$$</p> <p>Substituting the given values, we get:</p> <p>$$\\Delta U = (1) \\frac32(8.3 ~J ~mol^-1 ~K^-1)(2^\\circ C)$$</p> <p>Since a change in temperature of $$1^\\circ C$$ is \u2261alent to a change in temperature of $$1 ~K$$, we can directly substitute $$2^\\circ C$$ as a $$2 ~K$$ change without needing to convert Celsius to Kelvin as both scales have the same magnitude of degree.</p> <p>Therefore,</p> <p>$$\\Delta U = 1 \\times \\frac32 \\times 8.3 \\times 2 = 24.9 ~J$$</p> <p>Now, substituting $$\\Delta U$$ and $$\\Delta Q$$ into the first law of thermodynamics:</p> <p>$$48 = 24.9 + W$$</p> <p>Solving for $$W$$ we find:</p> <p>$$W = 48 - 24.9 = 23.1 ~J$$</p> <p>Thus, the work done by the gas is $$23.1 ~J$$, which corresponds to Option A.</p>",
+      "solution": "<p>To solve this problem, we can use the first law of thermodynamics, which states:</p> <p>$$\\Delta Q = \\Delta U + W$$</p> <p>where:</p> <ul> <li>$$\\Delta Q$$ is the heat transferred to the system, in this case, $$48 ~J$$. </li> <li>$$\\Delta U$$ is the change in internal energy of the system. </li> <li>$$W$$ is the work done by the system.</li> </ul> <p>For one mole of an ideal gas, the change in internal energy can be calculated using the equation:</p> <p>$$\\Delta U = nC_v\\Delta T$$</p> <p>where:</p> <ul> <li>$$n$$ is the number of moles, which is $$1$$ in this case. </li> <li>$$C_v$$ is the molar specific heat capacity at constant volume. </li> <li>$$\\Delta T$$ is the change in temperature, in Kelvins.</li> </ul> <p>Given that we are dealing with helium, a monatomic ideal gas, we know that:</p> <p>$$C_v = \\frac\u2083\u2082R$$</p> <p>Substituting the given values, we get:</p> <p>$$\\Delta U = (1) \\frac\u2083\u2082(8.3 ~J ~mol^-1 ~K^-1)(2^\\circ C)$$</p> <p>Since a change in temperature of $$1^\\circ C$$ is \u2261alent to a change in temperature of $$1 ~K$$, we can directly substitute $$2^\\circ C$$ as a $$2 ~K$$ change without needing to convert Celsius to Kelvin as both scales have the same magnitude of degree.</p> <p>Therefore,</p> <p>$$\\Delta U = 1 \\times \\frac\u2083\u2082 \\times 8.3 \\times 2 = 24.9 ~J$$</p> <p>Now, substituting $$\\Delta U$$ and $$\\Delta Q$$ into the first law of thermodynamics:</p> <p>$$48 = 24.9 + W$$</p> <p>Solving for $$W$$ we find:</p> <p>$$W = 48 - 24.9 = 23.1 ~J$$</p> <p>Thus, the work done by the gas is $$23.1 ~J$$, which corresponds to Option A.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1719,13 +1389,13 @@
     {
       "question": "<p>A sample contains mixture of helium and oxygen gas. The ratio of root mean square speed of helium and oxygen in the sample, is :</p>",
       "options": {
-        "A": "$$\\frac12 \\sqrt2$$",
-        "B": "$$\\frac14$$",
-        "C": "$$\\frac2 \\sqrt21$$",
-        "D": "$$\\frac132$$"
+        "A": "$$\\frac\u2081\u2082 \\sqrt\u2082$$",
+        "B": "$$\\frac\u2081\u2084$$",
+        "C": "$$\\frac\u2082 \\sqrt\u2082\u2081$$",
+        "D": "$$\\frac\u2081\u2083\u2082$$"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & v=\\sqrt\\frac3 R TM \\\\ & \\Rightarrow \\fracv_H_ev_O_2=\\sqrt\\fracM_o_2M_H_e=\\frac2 \\sqrt2 1 \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & v=\\sqrt\\frac\u2083 R TM \\\\ & \\Rightarrow \\fracv_H_ev_O_2=\\sqrt\\fracM_o_2M_H_e=\\frac\u2082 \\sqrt\u2082\u2081 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -1837,7 +1507,7 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A calorimeter of water \u2261alent 20 g contains 180 g of water at 25<sup>o</sup>C. \\u2018m\\u2019 grams of steam at 100<sup>o</sup>C is mixed in it till the temperature of the mixure is 31<sup>o</sup>C. The value of \\u2018m\\u2019 is close to :<br/>(Latent heat of water = 540 cal g<sup>\\\u20131</sup>, specific heat of water = 1 cal g<sup>\\\u20131</sup> <sup>o</sup>C<sup>\\\u20131</sup>)",
+      "question": "A calorimeter of water \u2261alent 20 g contains 180 g of water at 25<sup>o</sup>C. \\u\u2082\u2080\u2081\u2088m\\u\u2082\u2080\u2081\u2089 grams of steam at 100<sup>o</sup>C is mixed in it till the temperature of the mixure is 31<sup>o</sup>C. The value of \\u\u2082\u2080\u2081\u2088m\\u\u2082\u2080\u2081\u2089 is close to :<br/>(Latent heat of water = 540 cal g<sup>\\\u20131</sup>, specific heat of water = 1 cal g<sup>\\\u20131</sup> <sup>o</sup>C<sup>\\\u20131</sup>)",
       "options": {
         "A": "2.6",
         "B": "2",
@@ -1875,7 +1545,7 @@
         "D": "20.28$$^\\circ$$C"
       },
       "answer": "C",
-      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267808/exam_images/ejqtv1pmby5kxa3ryzzx.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266484/exam_images/e9kgpr1elviqeyvc987e.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263990/exam_images/k5ymonwoviuwvhycj28x.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265438/exam_images/wvpivtsierqol0p9xqwj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Heat and Thermodynamics Question 174 English Explanation\"></picture> <br><br>when x and y are mixed, T<sub>f<sub>1</sub></sub> = 16$$^\\circ$$C<br><br>m<sub>1</sub>s<sub>1</sub>T + m<sub>2</sub>s<sub>2</sub>T<sub>2</sub> = (m<sub>1</sub>s<sub>1</sub> + m<sub>2</sub>s<sub>2</sub>)Tf<sub>1</sub><br><br>s<sub>1</sub> $$\\times$$ 10 + s<sub>2</sub> $$\\times$$ 20 = (s<sub>1</sub> + s<sub>2</sub>) $$\\times$$ 16<br><br>s<sub>1</sub> = $$2 \\over 3$$s<sub>2</sub> .... (i)<br><br>when y and z are mixed, T<sub>f<sub>2</sub></sub> = 26$$^\\circ$$C<br><br>m<sub>2</sub>s<sub>2</sub>T + m<sub>3</sub>s<sub>3</sub>T<sub>3</sub> = (m<sub>3</sub>s<sub>3</sub> + m<sub>3</sub>s<sub>3</sub>)Tf<sub>2</sub><br><br>s<sub>2</sub> $$\\times$$ 20 + s<sub>3</sub> $$\\times$$ 30 = (s<sub>2</sub> + s<sub>3</sub>) $$\\times$$ 26<br><br>s<sub>3</sub> = $$3 \\over 2$$s<sub>2</sub> ..... (ii)<br><br>when x and z are mixed <br><br>m<sub>1</sub>s<sub>1</sub>T<sub>1</sub> + m<sub>3</sub>s<sub>3</sub>T<sub>3</sub> = (m<sub>1</sub>s<sub>1</sub> + m<sub>3</sub>s<sub>3</sub>)Tf<br><br>$$2 \\over 3$$s<sub>2</sub> $$\\times$$ 10 + $$2 \\over 3$$s<sub>2</sub> $$\\times$$ 20 = $$\\left( 2 \\over 3s_2 + 3 \\over 2s_2 \\right)T_f$$<br><br>T<sub>f</sub> = 23.84$$^\\circ$$C",
+      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2088\u2080\u2088/exam_images/ejqtv\u2081pmby\u2085kxa\u2083ryzzx.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2084\u2088\u2084/exam_images/e\u2089kgpr\u2081elviqeyvc\u2089\u2088\u2087e.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2089\u2089\u2080/exam_images/k\u2085ymonwoviuwvhycj\u2082\u2088x.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2084\u2083\u2088/exam_images/wvpivtsierqol\u2080p\u2089xqwj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Heat and Thermodynamics Question 174 English Explanation\"></picture> <br><br>when x and y are mixed, T<sub>f<sub>1</sub></sub> = 16$$^\\circ$$C<br><br>m<sub>1</sub>s<sub>1</sub>T + m<sub>2</sub>s<sub>2</sub>T<sub>2</sub> = (m<sub>1</sub>s<sub>1</sub> + m<sub>2</sub>s<sub>2</sub>)Tf<sub>1</sub><br><br>s<sub>1</sub> $$\\times$$ 10 + s<sub>2</sub> $$\\times$$ 20 = (s<sub>1</sub> + s<sub>2</sub>) $$\\times$$ 16<br><br>s<sub>1</sub> = $$2 \\over 3$$s<sub>2</sub> .... (i)<br><br>when y and z are mixed, T<sub>f<sub>2</sub></sub> = 26$$^\\circ$$C<br><br>m<sub>2</sub>s<sub>2</sub>T + m<sub>3</sub>s<sub>3</sub>T<sub>3</sub> = (m<sub>3</sub>s<sub>3</sub> + m<sub>3</sub>s<sub>3</sub>)Tf<sub>2</sub><br><br>s<sub>2</sub> $$\\times$$ 20 + s<sub>3</sub> $$\\times$$ 30 = (s<sub>2</sub> + s<sub>3</sub>) $$\\times$$ 26<br><br>s<sub>3</sub> = $$3 \\over 2$$s<sub>2</sub> ..... (ii)<br><br>when x and z are mixed <br><br>m<sub>1</sub>s<sub>1</sub>T<sub>1</sub> + m<sub>3</sub>s<sub>3</sub>T<sub>3</sub> = (m<sub>1</sub>s<sub>1</sub> + m<sub>3</sub>s<sub>3</sub>)Tf<br><br>$$2 \\over 3$$s<sub>2</sub> $$\\times$$ 10 + $$2 \\over 3$$s<sub>2</sub> $$\\times$$ 20 = $$\\left( 2 \\over 3s_2 + 3 \\over 2s_2 \\right)T_f$$<br><br>T<sub>f</sub> = 23.84$$^\\circ$$C",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1884,10 +1554,10 @@
     {
       "question": "The height of victoria falls is 63 m. What is the difference in temperature of water at the top and at the bottom of fall?<br/><br/>[Given 1 cal = 4.2 J and specific heat of water = 1 cal g<sup>$$-$$1</sup> $$^\\circ$$0C<sup>$$-$$1</sup>]",
       "options": {
-        "A": "0.147$$^\\circ$$ C",
-        "B": "14.76$$^\\circ$$ C",
-        "C": "1.476$$^\\circ$$ C",
-        "D": "0.014$$^\\circ$$ C"
+        "A": "0.147$$^\\circ$$",
+        "B": "14.76$$^\\circ$$",
+        "C": "1.476$$^\\circ$$",
+        "D": "0.014$$^\\circ$$"
       },
       "answer": "A",
       "solution": "Change in P.E. = Heat energy<br><br>mgh = mS$$\\Delta$$T<br><br>$$\\Delta$$T = $$gh \\over S$$<br><br>= $$10 \\times 63 \\over 4200J/kgC$$<br><br>= 0.147$$^\\circ$$C",
@@ -1899,13 +1569,13 @@
     {
       "question": "<p>Heat energy of 184 kJ is given to ice of mass 600 g at $$-12^\\circ C$$. Specific heat of ice is $$2222.3~J~kg^-1^\\circ~C^-1$$ and latent heat of ice in 336 $$kJ/kg^-1$$</p> <p>A. Final temperature of system will be 0$$^\\circ$$C.</p> <p>B. Final temperature of the system will be greater than 0$$^\\circ$$C.</p> <p>C. The final system will have a mixture of ice and water in the ratio of 5 : 1.</p> <p>D. The final system will have a mixture of ice and water in the ratio of 1 : 5.</p> <p>E. The final system will have water only.</p> <p>Choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "A and E only",
-        "B": "B and D only",
+        "A": "nd E only",
+        "B": "and D only",
         "C": "A and C only",
         "D": "A and D only"
       },
       "answer": "D",
-      "solution": "<p>Heat required to raise the temperature of ice to 0$$^\\circ$$C is</p> <p>$$ = 60 \\over 1000(2222.3)(12)$$</p> <p>$$ = 16000.5$$ J</p> <p>$$ \\approx 16$$ kJ</p> <p>Heat required to melt ice completely</p> <p>$$ = \\left( 600 \\over 1000 \\right)(336)$$ kJ</p> <p>$$ = 201.6$$ kJ</p> <p>Energy left $$ = (184 - 16) = 168$$ kJ</p> <p>$$\\therefore$$ Partial ice will melt</p> <p>$$\\therefore$$ $$168 = (m_ice\\,melted)336$$</p> <p>$$0.5$$ kg $$ = (m_ice\\,melted)$$</p> <p>$$\\therefore$$ $$m_ice:m_water = 1:5$$</p>",
+      "solution": "<p>Heat required to raise the temperature of ice to 0$$^\\circ$$C is</p> <p>$$ = 60 \\over 1000(2222.3)(12)$$</p> <p>$$ = 16000.5$$ J</p> <p>$$ \\approx 16$$ kJ</p> <p>Heat required to melt ice completely</p> <p>$$ = \\left( 600 \\over 1000 \\right)(336)$$ kJ</p> <p>$$ = 201.6$$ kJ</p> <p>Energy left $$ = (184 - 16) = 168$$ kJ</p> <p>$$\\therefore$$ Partial ice will melt</p> <p>$$\\therefore$$ $$168 = (m_ice\\,melted)\u2083\u2083\u2086$$</p> <p>$$0.5$$ kg $$ = (m_ice\\,melted)$$</p> <p>$$\\therefore$$ $$m_ice:m_water = 1:5$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1927,30 +1597,30 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "<p>Given below are two statements:</p> <p>Statement (I) : Dimensions of specific heat is $$[L^2 ~T^-2 ~K^-1]$$.</p> <p>Statement (II) : Dimensions of gas constant is $$[M L^2 ~T^-1 ~K^-1]$$.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "question": "<p>Given below are two statements:</p> <p>Statement (I) : Dimensions of specific heat is $$[L^2 ~T^-2 ~K^-1]$$.</p> <p>Statement (II) : Dimensions of gas constant is $$[ML^2 ~T^-1 ~K^-1]$$.</p> <p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
       "options": {
         "A": "Statement (I) is incorrect but statement (II) is correct",
-        "B": "Both statement (I) and statement (II) are incorrect",
+        "B": "oth statement (I) and statement (II) are incorrect",
         "C": "Both statement (I) and statement (II) are correct",
         "D": "Statement (I) is correct but statement (II) is incorrect"
       },
       "answer": "D",
-      "solution": "<p>To evaluate the veracity of the given statements, we need to understand the physical quantities involved and their dimensional formulas. Specifically, we're looking at the dimensions of specific heat and gas constant.</p> <p><strong>Specific Heat:</strong></p> <p>Specific heat (c) is the amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius (or one Kelvin, since the increment is the same in both scales). Its formula is $$q = mc\\Delta T$$, where $$q$$ is the heat added, $$m$$ is the mass, $$c$$ is the specific heat, and $$\\Delta T$$ is the change in temperature.</p> <p>From the formula, we can deduce the dimensions of specific heat as follows:</p> <p>$$[q] = [m][c][\\Delta T]$$</p> <p>Knowing that the dimension of heat (q) is \u2261alent to energy, which is $$[M L^2 T^-2]$$, the mass (m) is $$[M]$$, and temperature ($\\Delta T$) is $$[K]$$, we can solve for $$[c]$$:</p> <p>$$[M L^2 T^-2] = [M][c][K]$$</p> <p>So, $$[c] = [L^2 T^-2 K^-1]$$</p> <p>This reveals that Statement (I) is <strong>correct</strong>.</p> <p><strong>Gas Constant:</strong></p> <p>The gas constant (R) appears in the ideal gas law, represented as $$PV = nRT$$, where P is pressure, V is volume, n is the number of moles, R is the gas constant, and T is the temperature. The dimensions of the gas constant can be derived from this relation.</p> <p>Pressure (P) has dimensions $$[M L^-1 T^-2]$$, volume (V) has dimensions $$[L^3]$$, and temperature (T) has dimensions $$[K]$$.</p> <p>Therefore, $$[M L^-1 T^-2][L^3] = [n][R][K]$$</p> <p>Considering that the mole (n) is a dimensionless quantity, we can deduce the dimensions of R as:</p> <p>$$[R] = \\frac[M L^2 T^-2][K] = [M L^2 T^-2 K^-1]$$</p> <p>This indicates that Statement (II) has stated the dimensions incorrectly, presenting them as $$[M L^2 T^-1 K^-1]$$ when it should be $$[M L^2 T^-2 K^-1]$$, making Statement (II) <strong>incorrect</strong>.</p> <p>Based on the analysis:</p> <p>Option A, \"Statement (I) is incorrect but statement (II) is correct,\" is wrong because Statement (I) is correct.</p> <p>Option B, \"Both statement (I) and statement (II) are incorrect,\" is wrong because Statement (I) is correct.</p> <p>Option C, \"Both statement (I) and statement (II) are correct,\" is wrong because Statement (II) is incorrect.</p> <p>Option D, \"Statement (I) is correct but statement (II) is incorrect,\" is the <strong>correct</strong> choice, reflecting the true nature of the statements provided.</p>",
+      "solution": "<p>To evaluate the veracity of the given statements, we need to understand the physical quantities involved and their dimensional formulas. Specifically, we're looking at the dimensions of specific heat and gas constant.</p> <p><strong>Specific Heat:</strong></p> <p>Specific heat (c) is the amount of heat required to raise the temperature of a unit mass of a substance by one degree Celsius (or one Kelvin, since the increment is the same in both scales). Its formula is $$q = mc\\Delta T$$, where $$q$$ is the heat added, $$m$$ is the mass, $$c$$ is the specific heat, and $$\\Delta T$$ is the change in temperature.</p> <p>From the formula, we can deduce the dimensions of specific heat as follows:</p> <p>$$[q] = [m][c][\\Delta T]$$</p> <p>Knowing that the dimension of heat (q) is \u2261alent to energy, which is $$[ML^2 T^-2]$$, the mass (m) is $$[M]$$, and temperature ($\\Delta T$) is $$[K]$$, we can solve for $$[c]$$:</p> <p>$$[ML^2 T^-2] = [M][c][K]$$</p> <p>So, $$[c] = [L^2 T^-2 K^-1]$$</p> <p>This reveals that Statement (I) is <strong>correct</strong>.</p> <p><strong>Gas Constant:</strong></p> <p>The gas constant (R) appears in the ideal gas law, represented as $$PV = nRT$$, where P is pressure, V is volume, n is the number of moles, R is the gas constant, and T is the temperature. The dimensions of the gas constant can be derived from this relation.</p> <p>Pressure (P) has dimensions $$[ML^-1 T^-2]$$, volume (V) has dimensions $$[L^3]$$, and temperature (T) has dimensions $$[K]$$.</p> <p>Therefore, $$[ML^-1 T^-2][L^3] = [n][R][K]$$</p> <p>Considering that the mole (n) is a dimensionless quantity, we can deduce the dimensions of R as:</p> <p>$$[R] = \\frac[ML^2 T^-2][K] = [ML^2 T^-2 K^-1]$$</p> <p>This indicates that Statement (II) has stated the dimensions incorrectly, presenting them as $$[ML^2 T^-1 K^-1]$$ when it should be $$[ML^2 T^-2 K^-1]$$, making Statement (II) <strong>incorrect</strong>.</p> <p>Based on the analysis:</p> <p>Option A, \"Statement (I) is incorrect but statement (II) is correct,\" is wrong because Statement (I) is correct.</p> <p>Option B, \"Both statement (I) and statement (II) are incorrect,\" is wrong because Statement (I) is correct.</p> <p>Option C, \"Both statement (I) and statement (II) are correct,\" is wrong because Statement (II) is incorrect.</p> <p>Option D, \"Statement (I) is correct but statement (II) is incorrect,\" is the <strong>correct</strong> choice, reflecting the true nature of the statements provided.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "<p>The specific heat at constant pressure of a real gas obeying $$P V^2=R T$$ equation is:</p>",
+      "question": "<p>The specific heat at constant pressure of a real gas obeying $$PV^2=RT$$ equation is:</p>",
       "options": {
         "A": "R",
         "B": "$$C_V+R$$",
-        "C": "$$C_V+\\fracR2 V$$",
-        "D": "$$\\fracR3+C_V$$"
+        "C": "$$C_V+\\fracR\u2082 V$$",
+        "D": "$$\\fracR\u2083+C_V$$"
       },
       "answer": "C",
-      "solution": "<p>$$\\beginaligned & \\because \\quad P V^2=R T \\\\ & P(2 v d v)+V^2(d P)=R d T \\endaligned$$</p> <p>at $$P=$$ const.</p> <p>$$P d v=\\fracR d T2 V \\quad \\text... (i)$$</p> <p>Now, for $$n=1$$</p> <p>$$\\beginaligned & d \\theta=d v+d w \\\\ & C_P d T=C_v d T+P d v \\quad \\text... (ii) \\endaligned$$</p> <p>from (i) and (ii)</p> <p>$$C_P=C_V+\\fracR2 V$$</p>",
+      "solution": "<p>$$\\beginaligned & \\because \\quad PV^2=RT \\\\ & P(2 v d v)+V^2(d P)=R d T \\endaligned$$</p> <p>at $$P=$$ const.</p> <p>$$P d v=\\fracR d T\u2082 V \\quad \\text... (i)$$</p> <p>Now, for $$n=1$$</p> <p>$$\\beginaligned & d \\theta=d v+d w \\\\ & C_P d T=C_v d T+P d v \\quad \\text... (ii) \\endaligned$$</p> <p>from (i) and (ii)</p> <p>$$C_P=C_V+\\fracR\u2082 V$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2055,7 +1725,7 @@
         "D": "$$1.25 \\times 10^5 ~Pa$$"
       },
       "answer": "B",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6tcww86/734199e5-b8e2-4437-9e12-51b1caabbfd6/2566e370-1bd4-11ed-bd9f-71db3a4811b2/file-1l6tcww87.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6tcww86/734199e5-b8e2-4437-9e12-51b1caabbfd6/2566e370-1bd4-11ed-bd9f-71db3a4811b2/file-1l6tcww87.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 25th July Morning Shift Physics - Heat and Thermodynamics Question 119 English Explanation\"></p> <p>Let AB is isothermal process and BC is adiabatic process then for AB process</p> <p>P<sub>A</sub>V<sub>A</sub> = P<sub>B</sub>V<sub>B</sub></p> <p>$$\\Rightarrow$$ P<sub>B</sub> = 10<sup>7</sup> Nm<sup>$$-$$2</sup></p> <p>For process BC</p> <p>P<sub>B</sub>V$$_B^r$$ = P<sub>C</sub> V$$_C^r$$</p> <p>P<sub>C</sub> = 3.536 x $$\\times$$ 10<sup>6</sup> Pa</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2086tcww\u2088\u2086/734199e\u2085-b\u2088e\u2082-4437-9e\u2081\u2082-51b\u2081caabbfd\u2086/2566e\u2083\u2087\u2080-1bd\u2084-11ed-bd\u2089f-71db\u2083a\u2084\u2088\u2081\u2081b\u2082/file-1l\u2086tcww\u2088\u2087.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2086tcww\u2088\u2086/734199e\u2085-b\u2088e\u2082-4437-9e\u2081\u2082-51b\u2081caabbfd\u2086/2566e\u2083\u2087\u2080-1bd\u2084-11ed-bd\u2089f-71db\u2083a\u2084\u2088\u2081\u2081b\u2082/file-1l\u2086tcww\u2088\u2087.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 25th July Morning Shift Physics - Heat and Thermodynamics Question 119 English Explanation\"></p> <p>Let AB is isothermal process and BC is adiabatic process then for AB process</p> <p>P<sub>A</sub>V<sub>A</sub> = P<sub>B</sub>V<sub>B</sub></p> <p>$$\\Rightarrow$$ P<sub>B</sub> = 10<sup>7</sup> Nm<sup>$$-$$2</sup></p> <p>For process BC</p> <p>P<sub>B</sub>V$$_B^r$$ = P<sub>C</sub> V$$_C^r$$</p> <p>P<sub>C</sub> = 3.536 x $$\\times$$ 10<sup>6</sup> Pa</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -2077,7 +1747,7 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "<p>1 g of a liquid is converted to vapour at 3 $$\\times$$ 10$$^5$$ Pa pressure. If 10% of the heat supplied is used for increasing the volume by 1600 cm$$^3$$ during this phase change, then the increase in internal energy in the process will be :</p>",
+      "question": "<p>1 g of a liquid is converted to vapour at 3 $$\\times$$ 10$$^5$$ Pa pressure. If\u2081\u2080% of the heat supplied is used for increasing the volume by 1600 cm$$^3$$ during this phase change, then the increase in internal energy in the process will be :</p>",
       "options": {
         "A": "4800 J",
         "B": "4320 J",
@@ -2130,7 +1800,7 @@
         "D": "$850 ~J$"
       },
       "answer": "C",
-      "solution": "$\\beginaligned & \\gamma=1+\\frac2f=1.4 \\Rightarrow \\frac2f=0.4 \\\\\\\\ & \\Rightarrow f=5 \\\\\\\\ & ~W=nR \\Delta T=200 ~J \\\\\\\\ & Q=\\left(\\fracf+22\\right) nR \\Delta T \\\\\\\\ & =\\frac72 \\times 200=700 ~J\\endaligned$",
+      "solution": "$\\beginaligned & \\gamma=1+\\frac\u2082f=1.4 \\Rightarrow \\frac\u2082f=0.4 \\\\\\\\ & \\Rightarrow f=5 \\\\\\\\ & ~W=nR \\Delta T=200 ~J \\\\\\\\ & Q=\\left(\\fracf+22\\right) nR \\Delta T \\\\\\\\ & =\\frac\u2087\u2082 \\times 200=700 ~J\\endaligned$",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2139,13 +1809,13 @@
     {
       "question": "<p>A sample of gas at temperature $$T$$ is adiabatically expanded to double its volume. Adiabatic constant for the gas is $$\\gamma=3 / 2$$. The work done by the gas in the process is:</p> <p>$$(\\mu=1 \\text mole )$$</p>",
       "options": {
-        "A": "$$R T[2 \\sqrt2-1]$$",
-        "B": "$$R T[2-\\sqrt2]$$",
-        "C": "$$R T[1-2 \\sqrt2]$$",
-        "D": "$$R T[\\sqrt2-2]$$"
+        "A": "$$RT[2 \\sqrt\u2082-1]$$",
+        "B": "$$RT[2-\\sqrt\u2082]$$",
+        "C": "$$RT[1-2 \\sqrt\u2082]$$",
+        "D": "$$RT[\\sqrt\u2082-2]$$"
       },
       "answer": "B",
-      "solution": "<p>$$\\beginaligned & w=\\frac-n R\\gamma-1(\\Delta T) \\\\ &=\\frac-R1 / 2\\left(\\fracT\\sqrt2-T\\right) \\\\ &=2 R\\left(\\frac\\sqrt2 T-T\\sqrt2\\right) \\\\ &=R T(2-\\sqrt2) \\\\ & \\therefore \\quad T V_\\gamma^-1=\\text cons. \\\\ & T V_\\gamma^-1=T_f(2 V)^\\gamma-1 \\\\ & T_f=\\fracT\\sqrt2 \\endaligned$$</p>",
+      "solution": "<p>$$\\beginaligned & w=\\frac-n R\\gamma-1(\\Delta T) \\\\ &=\\frac-R\u2081 / 2\\left(\\fracT\\sqrt\u2082-T\\right) \\\\ &=2 R\\left(\\frac\\sqrt\u2082 T-T\\sqrt\u2082\\right) \\\\ &=RT(2-\\sqrt\u2082) \\\\ & \\therefore \\quad T V_\\gamma^-1=\\text cons. \\\\ & T V_\\gamma^-1=T_f(2 V)^\\gamma-1 \\\\ & T_f=\\fracT\\sqrt\u2082 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2160,7 +1830,7 @@
         "D": "250 J"
       },
       "answer": "C",
-      "solution": "<p>To find the heat given to a diatomic gas during an isobaric (constant pressure) expansion, we can use the formula that relates the work done by the gas, the heat added to the system, and the change in the internal energy of the system. The first law of thermodynamics states that:</p> <p>$$\\Delta Q = \\Delta U + W$$</p> <p>where:</p> <ul> <li>$\\Delta Q$ is the heat added to the system,</li> <li>$\\Delta U$ is the change in internal energy of the system, and</li> <li>$W$ is the work done by the gas.</li> </ul> <p>For an isobaric process, the work done $W$ is given by:</p> <p>$$W = P \\Delta V$$</p> <p>We're given that $W = 100 \\ J$ for this process, so:</p> <p>$$W = 100 \\ J$$</p> <p>The change in internal energy $\\Delta U$ for an ideal gas can also be related to the temperature change and the specific heat capacity at constant volume $C_v$. Using the equation:</p> <p>$$\\Delta U = nC_v\\Delta T$$</p> <p>However, without direct values for $n$, $\\Delta T$, or $C_v$, we need to rely on the relation between the provided work and the heat capacity ratio $\\gamma$ to find the heat added. For a diatomic gas, $\\gamma = C_p/C_v$. The heat added at constant pressure can also be described as:</p> <p>$$\\Delta Q = nC_p\\Delta T$$</p> <p>Since we know that for an ideal gas, the work done on the gas during an isobaric process is related to the heat added by the ratio of the specific heats ($\\gamma$), we can use the fact that $C_p = \\gamma C_v$, and relating that to the work done, we get:</p> <p>$$\\Delta Q = \\frac\\gamma\\gamma - 1 W$$</p> <p>Substituting the known values, with $\\gamma = 1.4$, and $W = 100 \\ J$, we find:</p> <p>$$\\Delta Q = \\frac1.41.4 - 1 \\times 100 \\ J = \\frac1.40.4 \\times 100 \\ J = 3.5 \\times 100 \\ J = 350 \\ J$$</p> <p>Therefore, the heat given to the gas is $\\Delta Q = 350 \\ J$, so the correct option is:</p> <p>Option C</p> <p>350 J</p>",
+      "solution": "<p>To find the heat given to a diatomic gas during an isobaric (constant pressure) expansion, we can use the formula that relates the work done by the gas, the heat added to the system, and the change in the internal energy of the system. The first law of thermodynamics states that:</p> <p>$$\\Delta Q = \\Delta U + W$$</p> <p>where:</p> <ul> <li>$\\Delta Q$ is the heat added to the system,</li> <li>$\\Delta U$ is the change in internal energy of the system, and</li> <li>$W$ is the work done by the gas.</li> </ul> <p>For an isobaric process, the work done $W$ is given by:</p> <p>$$W = P \\Delta V$$</p> <p>We're given that $W = 100 \\ J$ for this process, so:</p> <p>$$W = 100 \\ J$$</p> <p>The change in internal energy $\\Delta U$ for an ideal gas can also be related to the temperature change and the specific heat capacity at constant volume $C_v$. Using the equation:</p> <p>$$\\Delta U = nC_v\\Delta T$$</p> <p>However, without direct values for $n$, $\\Delta T$, or $C_v$, we need to rely on the relation between the provided work and the heat capacity ratio $\\gamma$ to find the heat added. For a diatomic gas, $\\gamma = C_p/C_v$. The heat added at constant pressure can also be described as:</p> <p>$$\\Delta Q = nC_p\\Delta T$$</p> <p>Since we know that for an ideal gas, the work done on the gas during an isobaric process is related to the heat added by the ratio of the specific heats ($\\gamma$), we can use the fact that $C_p = \\gamma C_v$, and relating that to the work done, we get:</p> <p>$$\\Delta Q = \\frac\\gamma\\gamma - 1 W$$</p> <p>Substituting the known values, with $\\gamma = 1.4$, and $W = 100 \\ J$, we find:</p> <p>$$\\Delta Q = \\frac\u2081.41.4 - 1 \\times 100 \\ J = \\frac\u2081.40.4 \\times 100 \\ J = 3.5 \\times 100 \\ J = 350 \\ J$$</p> <p>Therefore, the heat given to the gas is $\\Delta Q = 350 \\ J$, so the correct option is:</p> <p>Option C</p> <p>350 J</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -2171,7 +1841,7 @@
       "options": {
         "A": "$$P \\over 3\\alpha K$$",
         "B": "$$P \\over \\alpha K$$",
-        "C": "$$3 \\alpha \\over P K$$",
+        "C": "$$3 \\alpha \\over PK$$",
         "D": "3PK$$\\alpha$$"
       },
       "answer": "A",
@@ -2182,11 +1852,11 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A compressive force, F is applied at the two ends of a long thin steel rod. It is heated, simultaneously, such that its temperature increases by $$\\Delta $$T. The net change in its length is zero. Let $$\\ell $$ be the length of the rod, A its area of cross-section,Y its Young\\u2019s modulus, and $$\\alpha $$ its coefficient of linear expansion. Then, F is equal to :",
+      "question": "A compressive force, F is applied at the two ends of a long thin steel rod. It is heated, simultaneously, such that its temperature increases by $$\\Delta $$T. The net change in its length is zero. Let $$\\ell $$ be the length of the rod, A its area of cross-section,Y its Young\\u\u2082\u2080\u2081\u2089s modulus, and $$\\alpha $$ its coefficient of linear expansion. Then, F is equal to :",
       "options": {
         "A": "$$\\ell $$<sup>2</sup> Y$$\\alpha $$ $$\\Delta $$T",
-        "B": "$$\\ell $$A Y$$\\alpha $$ $$\\Delta $$T",
-        "C": "A Y$$\\alpha $$ $$\\Delta $$T",
+        "B": "$$\\ell $$AY$$\\alpha $$ $$\\Delta $$T",
+        "C": "AY$$\\alpha $$ $$\\Delta $$T",
         "D": "$$AY \\over \\alpha \\,\\Delta T$$"
       },
       "answer": "C",
@@ -2227,7 +1897,7 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "At 40<sup>o</sup> C, a brass wire of 1 mm radius is hung from the ceiling. A small mass, M is hung from the free end of the wire. When the wire is cooled down from 40<sup>o</sup>C to 20<sup>o</sup>C it regains its original length of 0.2 m. The value of M is close to : (Coefficient of linear expansion and Young\\u2019s modulus of brass are 10<sup>\\\u20135</sup> /<sup>o</sup>C and 10<sup>11</sup> N/m <sup>2</sup> , respectively; g= 10 ms<sup>\\\u20132</sup> )",
+      "question": "At\u2084\u2080<sup>o</sup> C, a brass wire of 1 mm radius is hung from the ceiling. A small mass, M is hung from the free end of the wire. When the wire is cooled down from 40<sup>o</sup>C to 20<sup>o</sup>C it regains its original length of 0.2 m. The value of M is close to : (Coefficient of linear expansion and Young\\u\u2082\u2080\u2081\u2089s modulus of brass are 10<sup>\\\u20135</sup> /<sup>o</sup>C and 10<sup>11</sup> N/m <sup>2</sup> , respectively; g= 10 ms<sup>\\\u20132</sup> )",
       "options": {
         "A": "1.5 kg",
         "B": "0.5 kg",
@@ -2250,7 +1920,7 @@
         "D": "$$\\alpha _1L_1 + \\alpha _2L_2 \\over L_1 + L_2$$"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264856/exam_images/ufmjvq9rrjlit0rmao2y.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 5th September Evening Slot Physics - Heat and Thermodynamics Question 236 English Explanation\"> <br><br>L'<sub>1</sub> = L<sub>1</sub>(1 + $$\\alpha $$<sub>1</sub>$$\\Delta $$T) <br><br>L'<sub>2</sub> = L<sub>2</sub>(1 + $$\\alpha $$<sub>2</sub>$$\\Delta $$T) <br><br>L'<sub>eq</sub> = (L<sub>1</sub> + L<sub>2</sub>) (1 + $$\\alpha $$<sub>avg</sub>$$\\Delta $$T) <br><br>$$ \\therefore $$ (L<sub>1</sub> + L<sub>2</sub>) (1 + $$\\alpha $$<sub>avg</sub>$$\\Delta $$T) = L<sub>1</sub>(1 + $$\\alpha $$<sub>1</sub>$$\\Delta $$T) + L<sub>2</sub>(1 + $$\\alpha $$<sub>2</sub>$$\\Delta $$T) <br><br>$$ \\Rightarrow $$ (L<sub>1</sub> + L<sub>2</sub>)$$\\alpha $$<sub>avg</sub> = L<sub>1</sub>$$\\alpha $$<sub>1</sub> + L<sub>2</sub>$$\\alpha $$<sub>2</sub> <br><br>$$ \\Rightarrow $$ $$\\alpha $$<sub>avg</sub> = $$\\alpha _1L_1 + \\alpha _2L_2 \\over L_1 + L_2$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2088\u2085\u2086/exam_images/ufmjvq\u2089rrjlit\u2080rmao\u2082y.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 5th September Evening Slot Physics - Heat and Thermodynamics Question 236 English Explanation\"> <br><br>L'<sub>1</sub> = L<sub>1</sub>(1 + $$\\alpha $$<sub>1</sub>$$\\Delta $$T) <br><br>L'<sub>2</sub> = L<sub>2</sub>(1 + $$\\alpha $$<sub>2</sub>$$\\Delta $$T) <br><br>L'<sub>eq</sub> = (L<sub>1</sub> + L<sub>2</sub>) (1 + $$\\alpha $$<sub>avg</sub>$$\\Delta $$T) <br><br>$$ \\therefore $$ (L<sub>1</sub> + L<sub>2</sub>) (1 + $$\\alpha $$<sub>avg</sub>$$\\Delta $$T) = L<sub>1</sub>(1 + $$\\alpha $$<sub>1</sub>$$\\Delta $$T) + L<sub>2</sub>(1 + $$\\alpha $$<sub>2</sub>$$\\Delta $$T) <br><br>$$ \\Rightarrow $$ (L<sub>1</sub> + L<sub>2</sub>)$$\\alpha $$<sub>avg</sub> = L<sub>1</sub>$$\\alpha $$<sub>1</sub> + L<sub>2</sub>$$\\alpha $$<sub>2</sub> <br><br>$$ \\Rightarrow $$ $$\\alpha $$<sub>avg</sub> = $$\\alpha _1L_1 + \\alpha _2L_2 \\over L_1 + L_2$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -2274,10 +1944,10 @@
     {
       "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : When a rod lying freely is heated, no thermal stress is developed in it.<br/><br/>Reason R : On heating, the length of the rod increases.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
       "options": {
-        "A": "A is true but R is false",
+        "A": "is true but R is false",
         "B": "A is false but R is true",
-        "C": "Both A and B are true but R is NOT the correct explanation of A",
-        "D": "Both A and R are true and R is the correct explanation of A"
+        "C": "Both A and B are true but R is NOT the correct explanation of",
+        "D": "Both A and R are true and R is the correct explanation of"
       },
       "answer": "C",
       "solution": "When a rod is free and it is heated then there is no thermal stress produced in it. <br><br>The rod will expand due to increase in temperature. <br><br>So both A & R are true.",
@@ -2310,7 +1980,7 @@
         "D": "$$-112^\\circ F$$"
       },
       "answer": "A",
-      "solution": "We are given two temperature scales: the X-scale and the Celsius scale. The relationship between two linear temperature scales can be expressed as follows: <br/><br/> $$\\fracX - X_\\textfreezeX_\\textboil - X_\\textfreeze = \\fracC - C_\\textfreezeC_\\textboil - C_\\textfreeze$$ <br/><br/> Here, $$X_\\textfreeze$$ and $$X_\\textboil$$ are the freezing and boiling points of water on the X-scale, while $$C_\\textfreeze$$ and $$C_\\textboil$$ are the freezing and boiling points of water on the Celsius scale. <br/><br/> We are given the following values: <br/><br/> X-scale:<br/><br/> $$X_\\textboil = 65^\\circ X$$<br/><br/> $$X_\\textfreeze = -15^\\circ X$$ <br/><br/> Celsius scale:<br/><br/> $$C_\\textboil = 100^\\circ C$$<br/><br/> $$C_\\textfreeze = 0^\\circ C$$ <br/><br/> Our goal is to find the \u2261alent temperature of $$-95^\\circ X$$ on the Fahrenheit scale. <br/><br/> Step 1: Convert $$-95^\\circ X$$ to Celsius: <br/><br/> Use the relationship between X-scale and Celsius scale: <br/><br/> $$\\frac-95 - (-15)65 - (-15) = \\fracC - 0100 - 0$$ <br/><br/> Simplify and solve for C: <br/><br/> $$\\frac-8080 = \\fracC100$$ $$C = -100^\\circ C$$ <br/><br/> Step 2: Convert $$-100^\\circ C$$ to Fahrenheit: <br/><br/> Use the conversion formula between Celsius and Fahrenheit: <br/><br/> $$T_F = \\frac95T_C + 32$$ <br/><br/> Substitute the Celsius temperature: <br/><br/> $$T_F = \\frac95 \\times (-100) + 32$$<br/><br/> $$T_F = -180 + 32$$<br/><br/> $$T_F = -148^\\circ F$$ <br/><br/> So, the \u2261alent temperature corresponding to $$-95^\\circ X$$ on the Fahrenheit scale is $$-148^\\circ F$$.",
+      "solution": "We are given two temperature scales: the X-scale and the Celsius scale. The relationship between two linear temperature scales can be expressed as follows: <br/><br/> $$\\fracX - X_\\textfreezeX_\\textboil - X_\\textfreeze = \\fracC - C_\\textfreezeC_\\textboil - C_\\textfreeze$$ <br/><br/> Here, $$X_\\textfreeze$$ and $$X_\\textboil$$ are the freezing and boiling points of water on the X-scale, while $$C_\\textfreeze$$ and $$C_\\textboil$$ are the freezing and boiling points of water on the Celsius scale. <br/><br/> We are given the following values: <br/><br/> X-scale:<br/><br/> $$X_\\textboil = 65^\\circ X$$<br/><br/> $$X_\\textfreeze = -15^\\circ X$$ <br/><br/> Celsius scale:<br/><br/> $$C_\\textboil = 100^\\circ C$$<br/><br/> $$C_\\textfreeze = 0^\\circ C$$ <br/><br/> Our goal is to find the \u2261alent temperature of $$-95^\\circ X$$ on the Fahrenheit scale. <br/><br/> Step 1: Convert $$-95^\\circ X$$ to Celsius: <br/><br/> Use the relationship between X-scale and Celsius scale: <br/><br/> $$\\frac-95 - (-15)\u2086\u2085 - (-15) = \\fracC - 0100 - 0$$ <br/><br/> Simplify and solve for C: <br/><br/> $$\\frac-8080 = \\fracC\u2081\u2080\u2080$$ $$C = -100^\\circ C$$ <br/><br/> Step 2: Convert $$-100^\\circ C$$ to Fahrenheit: <br/><br/> Use the conversion formula between Celsius and Fahrenheit: <br/><br/> $$T_F = \\frac\u2089\u2085T_C + 32$$ <br/><br/> Substitute the Celsius temperature: <br/><br/> $$T_F = \\frac\u2089\u2085 \\times (-100) + 32$$<br/><br/> $$T_F = -180 + 32$$<br/><br/> $$T_F = -148^\\circ F$$ <br/><br/> So, the \u2261alent temperature corresponding to $$-95^\\circ X$$ on the Fahrenheit scale is $$-148^\\circ F$$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -2377,7 +2047,7 @@
       "chapter": "Thermal Properties and Thermodynamics"
     },
     {
-      "question": "A uniform cylindrical rod of length L and radius r, is made from a material whose Young\\u2019s modulus of Elasticity equals Y. When this rod is heated by temperature T and simultaneously subjected to a net longitudinal compressional force F, its length remains unchanged. The coefficient of volume expansion, of the material of the rod, is (nearly) equal to :",
+      "question": "A uniform cylindrical rod of length L and radius r, is made from a material whose Young\\u\u2082\u2080\u2081\u2089s modulus of Elasticity equals Y. When this rod is heated by temperature T and simultaneously subjected to a net longitudinal compressional force F, its length remains unchanged. The coefficient of volume expansion, of the material of the rod, is (nearly) equal to :",
       "options": {
         "A": "$$3F \\over \\left( \\pi r^2YT \\right)$$",
         "B": "$$6F \\over \\left( \\pi r^2YT \\right)$$",
@@ -2394,7 +2064,7 @@
     {
       "question": "<p>Under isothermal condition, the pressure of a gas is given by $$P=a ~V^-3$$, where $$a$$ is a constant and $$V$$ is the volume of the gas. The bulk modulus at constant temperature is equal to</p>",
       "options": {
-        "A": "$$\\fracP2$$",
+        "A": "$$\\fracP\u2082$$",
         "B": "2 P",
         "C": "3 P",
         "D": "P"
