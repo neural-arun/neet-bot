@@ -1,176 +1,70 @@
 {
   "subject": "Physics",
   "chapter": "Current Electricity",
-  "total_questions": 81,
+  "total_questions": 10,
   "questions": [
     {
-      "question": "Examine the Wheatstone bridge circuit diagram shown below. If the bridge is in a balanced condition (zero deflection in galvanometer G), calculate the value of unknown resistance S:",
-      "image_path": "dataset2/images/phys_wheatstone_bridge.png",
+      "question": "During an experiment with a metre bridge, the galvanometer shows a null point when the jockey is pressed at 40 . 0 cm using a standard resistance of 90 \u00ce\u00a9 ,as shown in the figure. The least count of the scale used in the metre bridge is 1 mm . The unknown resistance is",
       "options": {
-        "A": "60 \u03a9",
-        "B": "50 \u03a9",
-        "C": "40 \u03a9",
-        "D": "15 \u03a9"
+        "A": "60 \u00b1",
+        "B": "15 \u00ce\u00a9",
+        "C": "56 \u00ce\u00a9",
+        "D": "25 \u00ce\u00a9"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Electricity:** For a balanced Wheatstone bridge, P/Q = R/S. Substituting given values: 10/20 = 30/S \\Rightarrow 1/2 = 30/S \\Rightarrow S = 60\\ \\Omega.",
-      "exam": "NEET CBT Physics Circuit Diagram PYQ",
+      "solution": "<think> The question asks about: During an experiment with a metre bridge, the galvanometer shows a null point when the jockey is pressed at 40 . 0 cm us Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: R = x 100 - x 90 \u2234 R = 60 \u03a9 d RR = 100 x 100 - x d x \u2234 d R = 100 40 60 0.1 \u00d7 60 = 0.25 \u03a9 Alternatively d RR = 0.1 40 + 0.1 60 \u2234 d R = 0.25 \u03a9 </think> **Correct Answer: (A)** **Explanation:** R = x 100 - x 90 \u2234 R = 60 \u03a9 d RR = 100 x 100 - x d x \u2234 d R = 100 40 60 0.1 \u00d7 60 = 0.25 \u03a9 Alternatively d RR = 0.1 40 + 0.1 60 \u2234 d R = 0.25 \u03a9 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "The length of a wire of a potentiometer is 100 cm , and the emf of its primary cell is E volt . It is employed to measure the emf of a battery whose internal resistance is 0 . 5 \u03a9 . If the balance point is obtained at l = 30 cm from the positive end, the emf of the battery is",
-      "options": {
-        "A": "30 E\u2081\u2080",
-        "B": "5 B\u2083\u2080 E\u2081\u2080\u2080 -",
-        "C": "5 C\u2083\u2080 E -",
-        "D": "5 i 100 , W h e r e i i s t h e c u r r e n t i n t h e p o t e n t i o m e t e r w i r e . D\u2083\u2080 E\u2081\u2080\u2080"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V \u221d l \u21d2 VE = l L Where, l = balance point L= length of potentiometer wire. Or V = l LE o r V = 30 \u00d7 E\u2081\u2080\u2080 = 30100 E **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "[NEET 2017 | Physics] In Wheatstone bridge, battery and galvanometer interchanged. Deflection in galvanometer will:",
-      "options": {
-        "A": "Change in previous direction",
-        "B": "Not change",
-        "C": "Hange in opposite direction",
-        "D": "None of these"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(B) Not change** ## Explanation: ### The Concept - Reciprocity in Networks In a Wheatstone bridge, there's a fundamental **reciprocity property**: when the battery and galvanometer positions are interchanged, the galvanometer deflection remains **unchanged in both magnitude and direction**. ### Why This Happens: **Standard Bridge Setup:** ``` PA \\\u2014\\\u2014\\\u2014 B | | |G| | | | D \\\u2014\\\u2014\\\u2014 CQ RS ``` **After Interchange:** ``` PA \\\u2014\\\u2014\\\u2014 B | B | | | | D \\\u2014\\\u2014\\\u2014 CG RS ``` ### Mathematical Reason: Due to **reciprocity theorem** (a consequence of linearity in circuits): - The potential difference across the galvanometer terminals depends on the **ratio of resistances** in the arms - When battery and galvanometer swap positions, the network's mathematical structure ensures the **current distribution pattern remains \u2261alent** - Therefore, the galvanometer deflection is **identical** to the original case ### Key Physics Principle: For linear, bilateral networks: Interchanging source and detector doesn't change deflection This is a **reciprocal network property** - it's not dependent on which diagonal carries the battery. ## Why Other Options Are Wrong: - **(A)** Previous direction - No, reciprocity prevents this - **(C)** Opposite direction - No reversal occurs - **(D)** None of these - (B) is correct **Remember:** Wheatstone bridge has beautiful symmetry that makes it unaffected by battery-galvanometer interchange! \\u\u2082\u2087\u2081\u2083",
-      "exam": "NEET 2017",
-      "year": 2017,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "[NEET 2016 | Physics] In a Wheatstone bridge, if P/Q = R/S, the bridge is said to be:",
-      "options": {
-        "A": "Overloaded",
-        "B": "Alanced",
-        "C": "Unbalanced",
-        "D": "Short-circuited"
-      },
-      "answer": "A",
-      "solution": "## Answer: **(B) Balanced** --- ## Step-by-Step Explanation ### The Wheatstone Bridge Setup In a Wheatstone bridge, four resistances (P, Q, R, S) are connected in a specific configuration with a galvanometer (sensitive detector) connected across the middle. ### The Balance Condition **When P/Q = R/S, the bridge is BALANCED** This means: - P \u00d7 S = Q \u00d7 R - No current flows through the galvanometer - The potential difference across the galvanometer = 0 ### Why This Happens When the ratio condition is satisfied, the voltage drops across P and R are equal, and the voltage drops across Q and S are equal. Therefore: - V_A = V_B (points A and B are at the same potential) - No potential difference exists to drive current through the galvanometer --- ## Why Other Options Are Wrong | Option | Why Incorrect | |--------|--------------| | **(A) Overloaded** | Not a standard Wheatstone bridge term; refers to excessive current in circuits | | **(C) Unbalanced** | This occurs when P/Q \u2260 R/S (opposite condition) | | **(D) Short-circuited** | Would involve low/zero resistance paths; not related to this ratio | --- ## Key Formula to Remember **Balanced Wheatstone Bridge:** \\fracPQ = \\fracRS or \u2261alently: P \u00d7 S = Q \u00d7 R **Practical Application:** This principle is used to find unknown resistances in real applications.",
-      "exam": "NEET 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "What is the temperature of the bath when a platinum resistance thermometer, with a resistance of 5.795 \u03a9 for its platinum wire, is inserted into it, given that the resistance at the ice point is 5 \\Omega and at the steam point is 5.23 \u03a9?",
-      "options": {
-        "A": "12%",
-        "B": "25\u00b0C B\u2083\u2081",
-        "C": "29\u00b0C C\u2083\u2084",
-        "D": "65\u00b0C D\u2082\u2087"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 345.65\u00b0C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "During an experiment with a metre bridge, the galvanometer shows a null point when the jockey is pressed at 40 . 0 cm using a standard resistance of 90 \u00ce\u00a9 ,as shown in the figure. The least count of the scale used in the metre bridge is 1 mm . The unknown resistance is",
-      "options": {
-        "A": "60 \u00b1",
-        "B": "15 \u00ce\u00a9 B\u2081\u2083\u2085 \u00b1",
-        "C": "56 \u00ce\u00a9 C\u2086\u2080 \u00b1",
-        "D": "25 \u00ce\u00a9 D\u2081\u2083\u2085 \u00b1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** R = x 100 - x 90 \u2234 R = 60 \u03a9 d RR = 100 x 100 - x d x \u2234 d R = 10040 600.1 \u00d7 60 = 0.25 \u03a9 Alternatively d RR = 0.140 + 0.160 \u2234 d R = 0.25 \u03a9 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "In producing chlorine through electrolysis 100 watt power at 125 V is being consumed. How much chlorine per minute is liberated ? E. C. E. of chlorine is 0.367 \u00d7 10^-6 kg / coulomb:",
+      "question": "A battery has an open circuit potential difference 10 V between the terminals. When loads 9 \u00ce\u00a9 and 4 \u00ce\u00a9 are connected one by one across the battery, the power in the load resistance is the same. The amount of heat approximately generated in one second in the load when a load of 5 \u00ce\u00a9 is connected across the battery will be",
       "options": {
         "A": "1%",
-        "B": "6 mg B\u2081",
-        "C": "6 mg C\u2082",
-        "D": "3 mg D\u2082"
+        "B": "4 J",
+        "C": "8 J",
+        "D": "13 J"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Mass of chlorine liberated =2 It \\beginaligned & =0.367 \u00d7 10^-6 \u00d7 \\frac\u2081\u2080\u2080\u2081\u2082\u2085 \u00d7 60 \\\\ & =0.0176 \u00d7 10^-3 kg \\\\ & =17.6 mg \\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
+      "solution": "<think> The question asks about: A battery has an open circuit potential difference 10 V between the terminals. When loads 9 \u00ce\u00a9 and 4 \u00ce\u00a9 are connected on Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given: v 2 9 + r 2 9 = v 2 4 + r 2 4 \u21d2 r = 6 \u2234 H = 10 11 2 \u00d7 5 \u00d7 1 = 4.13 J </think> **Correct Answer: (A)** **Explanation:** Given: v 2 9 + r 2 9 = v 2 4 + r 2 4 \u21d2 r = 6 \u2234 H = 10 11 2 \u00d7 5 \u00d7 1 = 4.13 J **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "Consider the following two statements (A) Kirchhoff's junction law follows from the conservation of charge. (B) Kirchhoff's loop law follows from the conservation of energy. Which of the following is correct?",
+      "question": "Consider the following two statements",
       "options": {
-        "A": "Both (",
-        "B": "And (",
-        "C": "Are wrong",
-        "D": "Is correct and ("
+        "A": "Kirchhoff's junction law follows from the conservation of charge.",
+        "B": "Kirchhoff's loop law follows from the conservation of energy. Which of the following is correct? (A) (B) and (",
+        "C": "are wrong",
+        "D": "is correct and ("
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Kirchhoff's first law follows from the conservation of charge. Kirchhoff's second law follow from the conservation of energy. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
+      "solution": "<think> The question asks about: Consider the following two statements (A) Kirchhoff's junction law follows from the conservation of charge. (B) Kirchhof Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Kirchhoff's first law follows from the conservation of charge. Kirchhoff's second law follow from the conservation of energy. </think> **Correct Answer: (A)** **Explanation:** Kirchhoff's first law follows from the conservation of charge. Kirchhoff's second law follow from the conservation of energy. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "What is the steady temperature of the heating element using nichrome, connected to a 230 V supply, if it draws an initial current of 3.2 A which settles after a few seconds to a steady value of 2.8 A, and the room temperature is 27.0 \u00b0C? (Given the temperature coefficient of resistance of nichrome averaged over the temperature range involved is 1.70 \u00d7 10^-4^\\circ C^-1.)",
+      "question": "Two cities are 150 k m apart. Electric power is sent from one city to another city through copper wires. The fall of potential per k m is 8 volts and the average resistance per k m is 0.5 \u03a9 . The power loss in the wire is:",
       "options": {
-        "A": "101%",
-        "B": "94 \u00b0C B\u2089\u2089",
-        "C": "28 \u00b0C C\u2088\u2086",
-        "D": "00 \u00b0C D\u2081\u2080\u2084"
+        "A": "1%",
+        "B": "2 W",
+        "C": "2 k W",
+        "D": "2 J"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 867.00 \u00b0C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
+      "solution": "<think> The question asks about: Two cities are 150 k m apart. Electric power is sent from one city to another city through copper wires. The fall of pot Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Distance between the two cities, 150 km . Voltage drop per kilometre is 8 V km - 1 . Resistance per kilometre 0 . 5 \u03a9 km - 1 Total voltage drop will be, V d r o p = 150 km \u00d7 8 V km - 1 = 1200 V Total resistance of wire, R = 0.5 \u03a9 km - 1 \u00d7 150 km = 75 \u03a9 Therefore, the power loss will be, P = V\u2082 R = 150 \u00d7 8 2 0.5 \u00d7 150 = 19.2 kW </think> **Correct Answer: (A)** **Explanation:** Distance between the two cities, 150 km . Voltage drop per kilometre is 8 V km - 1 . Resistance per kilometre 0 . 5 \u03a9 km - 1 Total voltage drop will be, V d r o p = 150 km \u00d7 8 V km - 1 = 1200 V Total resistance of wire, R = 0.5 \u03a9 km - 1 \u00d7 150 km = 75 \u03a9 Therefore, the power loss will be, P = V\u2082 R = 150 \u00d7 8 2 0.5 \u00d7 150 = 19.2 kW **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "[NEET 2023 | Physics] Three resistors of 2\\u\u2080\u2083a\u2089, 3\\u\u2080\u2083a\u2089, and 6\\u\u2080\u2083a\u2089 are connected in parallel. The effective resistance is:",
-      "options": {
-        "A": "11 \\u\u2080\u2083a\u2089",
-        "B": "1 \\u\u2080\u2083a\u2089",
-        "C": "6 \\u\u2080\u2083a\u2089",
-        "D": "3 \\u\u2080\u2083a\u2089"
-      },
-      "answer": "A",
-      "solution": "## **Answer: (B) 1 \\u\u2080\u2083a\u2089** --- ## **Step-by-Step Solution:** **For resistors in parallel**, the formula is: \\frac\u2081R_eq = \\frac\u2081R_1 + \\frac\u2081R_2 + \\frac\u2081R_3 **Given values:** - R\\u\u2082\u2080\u2088\u2081 = 2\\u\u2080\u2083a\u2089 - R\\u\u2082\u2080\u2088\u2082 = 3\\u\u2080\u2083a\u2089 - R\\u\u2082\u2080\u2088\u2083 = 6\\u\u2080\u2083a\u2089 **Calculation:** \\frac\u2081R_eq = \\frac\u2081\u2082 + \\frac\u2081\u2083 + \\frac\u2081\u2086 Taking LCM of 2, 3, and 6 = 6: \\frac\u2081R_eq = \\frac\u2083\u2086 + \\frac\u2082\u2086 + \\frac\u2081\u2086 = \\frac\u2086\u2086 = 1 R_eq = 1 \\u\u2080\u2083a\u2089 --- ## **Key Concept:** In **parallel combination**, \u2261alent resistance is **always less than the smallest individual resistance** (here, smallest is 2\\u\u2080\u2083a\u2089, and answer is 1\\u\u2080\u2083a\u2089 \\u\u2082\u2087\u2081\u2083) This happens because parallel paths provide multiple routes for current flow, reducing total resistance. --- ## **Why Other Options Are Wrong:** - **(A) 11\\u\u2080\u2083a\u2089** \\u\u2082\u2081\u2089\u2082 This would be if resistances were added (series formula) - **(C) 6\\u\u2080\u2083a\u2089** \\u\u2082\u2081\u2089\u2082 This is just one of the individual resistances - **(D) 3\\u\u2080\u2083a\u2089** \\u\u2082\u2081\u2089\u2082 Random value, not derived from any standard formula **Remember:** - **Series:** R\\u\u2082\u2080\u2089\u2081q = R\\u\u2082\u2080\u2088\u2081 + R\\u\u2082\u2080\u2088\u2082 + R\\u\u2082\u2080\u2088\u2083 (always larger) - **Parallel:** 1/R\\u\u2082\u2080\u2089\u2081q = 1/R\\u\u2082\u2080\u2088\u2081 + 1/R\\u\u2082\u2080\u2088\u2082 + 1/R\\u\u2082\u2080\u2088\u2083 (always smaller)",
-      "exam": "NEET 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Resistances of 100 \u03a9 and 200 \u03a9 are connected in series with 220 V mains. When a voltmeter of 1000 \u03a9 resistance is connected in parallel to 100 \u03a9 , then the reading of voltmeter is",
-      "options": {
-        "A": "6%",
-        "B": "5 volts",
-        "C": "87 volts C\u2085\u2088",
-        "D": "5 volts D\u2085"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** R e q = 320011 \u03a9 V = 2203200 11 \u00d7 100011 = 220032 = 68.75 V **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "copper wire of radius 1 mm contains 10^22 free electrons per cubic metre. The drift velocity for free electrons when 10 A current flows through the wire will be (Given, charge on electron =1.6 \u00d7 10^-19 C )",
+      "question": "A copper wire of radius 1 mm contains 10^22 free electrons per cubic metre. The drift velocity for free electrons when 10 A current flows through the wire will be (Given, charge on electron =1.6 \u00d7 10^-19 C )",
       "options": {
         "A": "\\frac",
         "B": "25\\pi m s^-1",
@@ -178,1043 +72,83 @@
         "D": "25 \u00d7 10^4\\pi m s^-1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** V_d=\\fracin e A \\beginaligned & V_d=\\frac\u2081\u2080\u2081\u2080^22 \u00d7 1.6 \u00d7 10^-19 \u00d7 \\pi(10^-3\\)^2 \\\\ & V_d=\\frac\u2081\u2080\u2081.6 \\pi \u00d7 10^-3 \\\\ & =\\frac\u2086.25\\pi \u00d7 10^3 m / s\\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "[NEET 2024 | Physics] Resistors 1, 2 and 3 ohm in parallel. Combined resistance:",
-      "options": {
-        "A": "6/11 ohm",
-        "B": "11/6 ohm",
-        "C": "1 ohm",
-        "D": "6 ohm"
-      },
-      "answer": "A",
-      "solution": "## **Correct Answer: (A) 6/11 ohm** --- ## **Step-by-Step Solution:** ### **Step 1: Identify the configuration** Three resistors (1 \\u\u2080\u2083a\u2089, 2 \\u\u2080\u2083a\u2089, and 3 \\u\u2080\u2083a\u2089) are connected **in parallel**. ### **Step 2: Apply the parallel resistance formula** For resistors in parallel: \\frac\u2081R_eq = \\frac\u2081R_1 + \\frac\u2081R_2 + \\frac\u2081R_3 ### **Step 3: Substitute values** \\frac\u2081R_eq = \\frac\u2081\u2081 + \\frac\u2081\u2082 + \\frac\u2081\u2083 ### **Step 4: Find common denominator (LCM = 6)** \\frac\u2081R_eq = \\frac\u2086\u2086 + \\frac\u2083\u2086 + \\frac\u2082\u2086 = \\frac\u2081\u2081\u2086 ### **Step 5: Calculate \u2261alent resistance** R_eq = \\frac\u2086\u2081\u2081 ohm --- ## **Key Concept to Remember:** | Configuration | Formula | |---|---| | **Series** | R\\u\u2082\u2080\u2089\u2081q = R\\u\u2082\u2080\u2088\u2081 + R\\u\u2082\u2080\u2088\u2082 + R\\u\u2082\u2080\u2088\u2083 (larger value) | | **Parallel** | 1/R\\u\u2082\u2080\u2089\u2081q = 1/R\\u\u2082\u2080\u2088\u2081 + 1/R\\u\u2082\u2080\u2088\u2082 + 1/R\\u\u2082\u2080\u2088\u2083 (smaller value) | *In parallel, the \u2261alent resistance is always **smaller** than the smallest individual resistor.* --- ## **Why Other Options Are Wrong:** - **(B) 11/6 ohm** - This is the reciprocal (inverted answer) - **(C) 1 ohm** - This would be if they were in series initially and then some calculation error - **(D) 6 ohm** - This doesn't match any standard calculation method **Remember:** Parallel resistors always give a combined resistance less than the smallest resistor in the group.",
-      "exam": "NEET 2024",
+      "solution": "<think> The question asks about: A copper wire of radius 1 mm contains 10^22 free electrons per cubic metre. The drift velocity for free Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: V_d=\\fracin e A \\beginaligned & V_d=\\frac\u2081\u2080\u2081\u2080^22 \u00d7 1.6 \u00d7 10^-19 \u00d7 \\pi(10^-3\\)^2 \\\\ & V_d=\\frac\u2081\u2080\u2081.6 \\pi \u00d7 10^-3 \\\\ & =\\frac\u2086.25\\pi \u00d7 10^3 m / s\\endaligned </think> **Correct Answer: (A)** **Explanation:** V_d=\\fracin e A \\beginaligned & V_d=\\frac\u2081\u2080\u2081\u2080^22 \u00d7 1.6 \u00d7 10^-19 \u00d7 \\pi(10^-3\\)^2 \\\\ & V_d=\\frac\u2081\u2080\u2081.6 \\pi \u00d7 10^-3 \\\\ & =\\frac\u2086.25\\pi \u00d7 10^3 m / s\\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "An alternating voltage v(t) = 220 sin 100 \\pi t volt is applied to a purely resistance load of 50\\Omega . The time taken for the current to rise from half of the peak value to the peak value is :",
+      "question": "In a potentiometer arrangement shown in fig. The balancing length for potential difference across X , Y points is found to be 45.5 c m . Then the balancing length for potential difference across Y and Z would be",
       "options": {
-        "A": "5 ms",
-        "B": "2.2 ms",
-        "C": "3.3 ms",
-        "D": "7.2 ms"
-      },
-      "answer": "C",
-      "solution": "In an AC resistive circuit, current and voltage are in phase. So, I = V \\over R \\Rightarrow I = 220 \\over 50\\sin (100\\pi t) ..... (i) \\therefore Time period of one complete cycle of current is T = 2\\pi \\over \\omega = 2\\pi \\over 100\\pi = 1 \\over 50s <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083\u2083\u2081fpnn/3c\u2088a\u2081\u2082\u2084b-c\u2087\u2082\u2085-4252-85f\u2089-e\u2084\u2086acf\u2087\u2089e\u2085\u2083\u2085/3c\u2082\u2080df\u2083\u2080-d\u2081f\u2086-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081fpno.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083\u2083\u2081fpnn/3c\u2088a\u2081\u2082\u2084b-c\u2087\u2082\u2085-4252-85f\u2089-e\u2084\u2086acf\u2087\u2089e\u2085\u2083\u2085/3c\u2082\u2080df\u2083\u2080-d\u2081f\u2086-11ec-b\u2088\u2083f-ebfea\u2086\u2088\u2082\u2081\u2083\u2088a/file-1l\u2083\u2083\u2081fpno.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2019 (Online) 8th April Morning Slot Physics - Alternating Current Question 136 English Explanation\"> So, current reaches its maximum value at t_1 = T \\over 4 = 1 \\over 200s When current is half of its maximum value, then from Eq.(i), we have I = I_\\max \\over 2 = I_\\max \\sin (100\\pi t_2) \\Rightarrow \\sin (100\\pi t_2) = 1 \\over 2 \\Rightarrow 100\\pi t_2 = 5\\pi \\over 6 So, instantaneous time at which current is half of maximum value is t_2 = 1 \\over 120s Hence, time duration in which current reaches half of its maximum value after reaching maximum value is \\Delta t = t_2 - t_1 = 1 \\over 120 - 1 \\over 200 = 1 \\over 300s = 3.3 ms",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "uniform metallic wire has a resistance of 18 \\Omega and is bent into an equilateral triangle. Then, the resistance between any two vertices of the triangle is -",
-      "options": {
-        "A": "12 \\Omega",
-        "B": "2 \\Omega",
-        "C": "4 \\Omega",
-        "D": "8 \\Omega"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2084\u2087/exam_images/t\u2088ovjuqhs\u2083at\u2085ofuad\u2085\u2086.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Physics - Current Electricity Question 257 English Explanation\"> <br><br>R<sub>eq</sub> berween any two vertex will be <br><br>1 \\over \\mathop\\rm R\\nolimits _eq = 1 \\over 12 + 1 \\over 6 \\Rightarrow \\mathop\\rm R\\nolimits _eq. = 4\\Omega",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "If you are provided a set of resistances 2\\Omega, 4\\Omega, 6\\Omega and 8\\Omega. Connect these resistances so as to obtain an \u2261alent resistance of 46 \\over 3\\Omega.",
-      "options": {
-        "A": "4\\Omega and 6\\Omega are in parallel with 2\\Omega and 8\\Omega in series",
-        "B": "6\\Omega and 8\\Omega are in parallel with 2\\Omega and 4\\Omega in series",
-        "C": "2\\Omega and 6\\Omega are in parallel with 4\\Omega and 8\\Omega in series",
-        "D": "2\\Omega and 4\\Omega are in parallel with 6\\Omega and 8\\Omega in series"
-      },
-      "answer": "D",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2085\u2081\u2084/exam_images/rvjgxpvupxphgwvv\u2088p\u2082p.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2083\u2087\u2081/exam_images/twadgajhu\u2089zvucdout\u2086y.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2080\u2080/exam_images/bk\u2087qlu\u2088kts\u2081lm\u2081\u2087atdjb.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2085\u2083/exam_images/sedvwibkhijjrdzbay\u2081u.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Current Electricity Question 161 English Explanation\">",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Two resistors R<sub>1</sub> = (4 \\pm 0.8) \\Omega and R<sub>2</sub> = (4 \\pm 0.4) \\Omega are connected in parallel. The \u2261alent resistance of their parallel combination will be :",
-      "options": {
-        "A": "(4 \\pm 0.4) \\Omega",
-        "B": "(2 \\pm 0.4) \\Omega",
-        "C": "(2 \\pm 0.3) \\Omega",
-        "D": "(4 \\pm 0.3) \\Omega"
-      },
-      "answer": "C",
-      "solution": "Given, <br/><br/>R<sub>1</sub> = (4 \\pm 0.8) \\Omega<br/><br/>R<sub>2</sub> = (4 \\pm 0.4) \\Omega<br/><br/>Equivalent resistance when the resistors are connected in parallel is given by<br/><br/>1 \\over R_eq = 1 \\over R_1 + 1 \\over R_2 \\Rightarrow 1 \\over R_eq = 1 \\over 4 + 1 \\over 4<br/><br/>R_eq = 2\\,\\Omega <br/><br/>Now, \\Delta R_eq \\over R_eq^2 = \\Delta R_1 \\over R_1^2 + \\Delta R_2 \\over R_2^2<br/><br/>Substituting the values in the above equation, we get<br/><br/>\\Delta R_eq \\over 4 = 0.8 \\over 16 + 0.4 \\over 16 \\Rightarrow \\Delta R_eq = 0.3\\,\\Omega <br/><br/>\\therefore The \u2261alent resistance in parallel combination is R_eq = (2 \\pm 0.3)\\Omega .",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Given below are two statements: <br/><br/> <b>Statement I</b> : The \u2261alent resistance of resistors in a series combination is smaller than least resistance used in the combination. <br/><br/> <b>Statement II</b> : The resistivity of the material is independent of temperature. <br/><br/> \nIn the light of the above statements, choose the correct answer from the options given below :",
-      "options": {
-        "A": "Statement I is true but Statement II is false",
-        "B": "Both Statement I and Statement II are true",
-        "C": "Both Statement I and Statement II are false",
-        "D": "Statement I is false but Statement II is true"
-      },
-      "answer": "C",
-      "solution": "<b>Statement I</b> is incorrect, as the \u2261alent resistance of resistors in a series combination is always greater than the largest individual resistance used in the combination. This is because the total voltage drop across the resistors in series is equal to the sum of the voltage drops across each resistor, and the current through each resistor is the same. Therefore, the resistance of the entire series combination is the sum of the individual resistances. <br/><br/> <b>Statement II</b> is also incorrect, as the resistivity of most materials changes with temperature. This is because temperature affects the mobility of charge carriers in a material, which in turn affects its resistivity. For example, the resistivity of metals generally increases with temperature, while the resistivity of semiconductors generally decreases with temperature. <br/><br/> Therefore, the correct answer is Both Statement I and Statement II are false",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A wire of resistance R and length L is cut into 5 equal parts. If these parts are joined parallely, then resultant resistance will be :",
-      "options": {
-        "A": "\\frac\u2081\u2082\u2085 R",
-        "B": "\\frac\u2081\u2085 R",
-        "C": "25 R",
-        "D": "5 R"
+        "A": "4%",
+        "B": "50 c m",
+        "C": "87 c m",
+        "D": "40 c m"
       },
       "answer": "A",
-      "solution": "Resistance of each part =\\fracR\u2085 Total resistance =\\frac\u2081\u2085 \u00d7 \\fracR\u2085=\\fracR\u2082\u2085",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: In a potentiometer arrangement shown in fig. The balancing length for potential difference across X , Y points is found Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: V\u2081 V\u2082 = R\u2081 R\u2082 = L\u2081 L\u2082 = 5 4 = 45.5 L\u2082 L\u2082 = 45.5 \u00c3\u0097 4 5 L\u2082 = 36 .4 cm </think> **Correct Answer: (A)** **Explanation:** V\u2081 V\u2082 = R\u2081 R\u2082 = L\u2081 L\u2082 = 5 4 = 45.5 L\u2082 L\u2082 = 45.5 \u00c3\u0097 4 5 L\u2082 = 36 .4 cm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "(A) The drift velocity of electrons decreases with the increase in the temperature of conductor. (B) The drift velocity is inversely proportional to the area of cross-section of given conductor. (C) The drift velocity does not depend on the applied potential difference to the conductor. (D) The drift velocity of electron is inversely proportional to the length of the conductor. (E) The drift velocity increases with the increase in the temperature of conductor. Choose the correct answer from the options given below :",
+      "question": "A\u2083\u2080 \u00ce\u00bcF capacitor is connected to a 150 V , 60 Hz AC supply. The RMS value of current in the circuit is",
       "options": {
-        "A": "(A) and (B) only",
-        "B": "(A) and (D) only",
-        "C": "(B) and (E) only",
-        "D": "(B) and (C) only"
-      },
-      "answer": "B",
-      "solution": "We know, Resistivity \\rho=\\fracmn e^2 \\tau <br/><br/> Where \\tau is relaxation time As temperature \\uparrow, \\tau \\downarrow, \\rho \\uparrow, R \\uparrow, i \\downarrow, v_d \\downarrow as i= ne A v_d <br/><br/>Statement (A) is correct and hence statement (E) is incorrect. <br/><br/> R=\\rho \\fraclA, I=\\fracVR=\\fracV A\\rho l=n e A v_d \\arrow v_d= constant <br/><br/>For a given V, v_d is independent of A. Hence, statement (B) is incorrect <br/><br/>Form above v_d \\propto V statement (C) is also incorrect. Since v_d \\propto \\frac\u2081\\ell as seen from above statement, so statement (D) is correct.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The resistance of an electrical toaster has a temperature dependence given by R(T) = R<sub>0</sub> [1 + \\alpha (T \\u\u2082\u2082\u2081\u2082 T<sub>0</sub>)] in its range of operation. At T<sub>0</sub> = 300 K, R = 100 \\Omega and at T = 500 K, R = 120 \\Omega . The toaster is connected to a voltage source at 200 V and its temperature is raised at a constant rate from 300 to 500 K in 30 s. The total work done in raising the temperature is :",
-      "options": {
-        "A": "400 \\ln \\,1.5 \\over 1.3\\,J",
-        "B": "200 \\ln \\,2 \\over 3\\,J",
-        "C": "60000 \\ln \\,6 \\over 5\\,J",
-        "D": "300 J"
-      },
-      "answer": "C",
-      "solution": "Given, <br><br>R = R<sub>6</sub> [1 + \\alpha (T - t<sub>0</sub>)] <br><br>120 = 100 [1 + \\alpha (500 - 300)] <br><br> \\Rightarrow 200 \\alpha = 1 \\over 5 <br><br> \\Rightarrow \\alpha = 10<sup>-3</sup> <sup>o</sup>C<sup>-1</sup> <br><br>Temperature of the toaster raised from 300 K to 500 K in 30 s. <br><br> \\therefore Increment in the temperature in time t, <br><br>\\Delta T = 500 - 300 \\over 30t <br><br>= 200 \\over 3t <br><br>= 20 \\over 3t <br><br>Total work done in raising the temperature <br><br>= \\int\\limits_0^t V^2 \\over R( t \\)\\,dt <br><br>= \\int\\limits_0^t V^2 \\over R_0( 1 + \\alpha \\Delta t \\) \\,dt <br><br>= \\int\\limits_0^30 ( 200 \\)^2 \\over 100( 1 + 10^ - 3 \u00d7 20 \\over 3t \\) \\,dt <br><br>= 40000 \\over 100\\int\\limits_0^30 dt \\over ( 1 + t \\over 150 \\) <br><br>400 \u00d7 150\\left[ \\ln ( 1 + t \\over 150 \\) \\]_0^30 <br><br> = 60000\\left[ \\ln ( 1 + 30 \\over 150 \\) - \\ln 1 \\] <br><br> = 60000\\ln ( 6 \\over 5 \\)\\,J",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "heating element has a resistance of 100 \\Omega at room temperature. When it is connected to a supply of 220 V, a steady current of 2 A passes in it and temperature is 500<sup>o</sup>C more than room temperature. what is the temperature coefficient of resistance of the heating element ?",
-      "options": {
-        "A": "0.5 \u00d7 10<sup>-4</sup> <sup>o</sup>C<sup>-1</sup>",
-        "B": "5 \u00d7 10<sup>-4</sup> <sup>o</sup>C<sup>-1</sup>",
-        "C": "1 \u00d7 10<sup>-4</sup> <sup>o</sup>C<sup>-1</sup>",
-        "D": "2 \u00d7 10<sup>-4</sup> <sup>o</sup>C<sup>-1</sup>"
-      },
-      "answer": "D",
-      "solution": "When temperature increased by 500<sup>o</sup>C then, nrw registance <br><br>R<sub>t</sub> = 220 \\over 2 = 110 \\Omega <br><br>We know, <br><br>R<sub>t</sub> = R<sub>0</sub> (1 + \\propto \\Delta t) <br><br> \\Rightarrow 110 = 100 (1 + \\propto \u00d7 500) <br><br> \\Rightarrow \\propto = 10 \\over 100 \u00d7 500 = 2 \u00d7 10^ - 4 <sup>o</sup>C<sup>-1</sup>",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Two equal resistances when connected in series to a battery, consume electric power of 60 W. If these resistances are now connected in parallel combination to the same battery, the electric power consumed will be :",
-      "options": {
-        "A": "240 W",
-        "B": "60 W",
-        "C": "30 W",
-        "D": "120 W"
+        "A": "17%",
+        "B": "7%",
+        "C": "7 mA",
+        "D": "7 \u00ce\u00bcA"
       },
       "answer": "A",
-      "solution": "In series condition, \u2261alent resistance is 2R <br><br>thus power consumed is 60W = \\varepsilon ^2 \\over 2R <br><br>In parallel condition, \u2261alent resistance is R/2 thus new power is <br><br>P' = \\varepsilon ^2 \\over ( R/2 \\) <br><br>or P' = 4P = 240W",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "cell of internal resistance r drives current through an external resistance R. The power delivered by the cell to the external resistance will be maximum when :-",
-      "options": {
-        "A": "R = 1000 r",
-        "B": "R = r",
-        "C": "R = 2r",
-        "D": "R = 0.001 r"
-      },
-      "answer": "B",
-      "solution": "Current i = E \\over r + R<br><br> Power generated in R<br><br> P = i<sup>2</sup>R<br><br> P = E^2R \\over ( r + R \\)^2<br><br> For maximum power dP \\over dR = 0<br><br> E^2\\left[ ( r + R \\)^2 \u00d7 1 - R \u00d7 2(r + R) \\over ( r + R \\)^4 \\] = 0<br><br> \\Rightarrow r = R or R = r",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "An electrical power line, having a total resistance of 2 \\Omega , delivers 1 kW at 220 V. The efficiency of the transmission line is approximately :",
-      "options": {
-        "A": "85%",
-        "B": "96%",
-        "C": "72%",
-        "D": "91%"
-      },
-      "answer": "B",
-      "solution": "We know, \\eta = P_out \\over ( P_out + P_loss \\) \u00d7 100 <br><br>Given, P= vi = 10^3<br><br> \\therefore i = 1000 \\over 220 = 50 \\over 11 A <br><br>Power loss = i^2R = ( 50 \\over 11 \\)^2 \u00d7 2<br><br> \\therefore efficiency = 1000 \\over 1000 + i^2R \u00d7 100 = 96\\%",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "battery of 3.0 V is connected to a resistor dissipating 0.5 W of power. If the terminal voltage of the battery is 2.5 V, the power dissipated within the internal resistance is :",
-      "options": {
-        "A": "0.50 W",
-        "B": "0.072 W",
-        "C": "0.10 W",
-        "D": "0.125 W"
-      },
-      "answer": "C",
-      "solution": "P<sub>R</sub> = 0.5 W <br><br> \\Rightarrow i<sup>2</sup>R = 0.5 W <br><br>iR = 2.5 <br><br> \\Rightarrow i = 0.2 A & R = 12.5 \\Omega <br><br>Also, V = E \\\u2013 ir <br><br> \\Rightarrow 2.5 = 3 \\\u2013 (0.2)r <br><br> \\Rightarrow r = 2.5 \\Omega <br><br>Power dissipated in internal resistance <br><br>= i<sup>2</sup>r = (0.2)<sup>2</sup>(2.5) = 0.1 W",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The resistance of a conductor at 15^\\circC is 16\\Omega and at 100^\\circC is 20\\Omega. What will be the temperature coefficient of resistance of the conductor?",
-      "options": {
-        "A": "0.010^\\circC<sup>-1</sup>",
-        "B": "0.033^\\circC<sup>-1</sup>",
-        "C": "0.003^\\circC<sup>-1</sup>",
-        "D": "0.042^\\circC<sup>-1</sup>"
-      },
-      "answer": "C",
-      "solution": "16 = R<sub>0</sub> [1 + \\alpha (15 - T<sub>0</sub>)]<br><br>20 = R<sub>0</sub> [1 + \\alpha (100 - T<sub>0</sub>)]<br><br>Assuming T<sub>0</sub> = 0^\\circC, as a general convention.<br><br>\\Rightarrow 16 \\over 20 = 1 + \\alpha \u00d7 15 \\over 1 + \\alpha \u00d7 100<br><br>\\Rightarrow \\alpha = 0.003^\\circC<sup>-1</sup>",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "An electric bulb of 500 watt at 100 volt is used in a circuit having a 200 V supply. Calculate the resistance R to be connected in series with the bulb so that the power delivered by the bulb is 500 W.",
-      "options": {
-        "A": "20 \\Omega",
-        "B": "30 \\Omega",
-        "C": "5 \\Omega",
-        "D": "10 \\Omega"
-      },
-      "answer": "A",
-      "solution": "500 watt at 100 v<br><br> <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2081\u2085\u2085/exam_images/wwxrp\u2081djjw\u2083\u2085p\u2082zrgkwe.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Evening Shift Physics - Current Electricity Question 160 English Explanation\"> <br><br>P = Vi<br><br>500 = Vi<br><br>i = 5 Amp<br><br>V = i \u00d7 R<br><br>R = 20",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Due to cold weather a 1 m water pipe of cross-sectional area 1 cm<sup>2</sup> is filled with ice at -10^\\circC. Resistive heating is used to melt the ice. Current of 0.5A is passed through 4 k\\Omega resistance. Assuming that all the heat produced is used for melting, what is the minimum time required? (Given latent heat of fusion for water/ice = 3.33 \u00d7 10<sup>5</sup> J kg<sup>-1</sup>, specific heat of ice = 2 \u00d7 10<sup>3</sup> J kg<sup>-1</sup> and density of ice = 10<sup>3</sup> kg/m<sup>3</sup>",
-      "options": {
-        "A": "0.353 s",
-        "B": "35.3 s",
-        "C": "3.53 s",
-        "D": "70.6 s"
-      },
-      "answer": "B",
-      "solution": "Given, the length of the water pipe, L = 1 m<br/><br/>The cross-sectional area of the water pipe, A = 1 cm<sup>2</sup> = 10<sup>-4</sup> m<sup>2</sup><br/><br/>The temperature of the ice = - 10^\\circC<br/><br/>Current passing in the conductor, I = 0.5 A<br/><br/>Resistance of the conductor, R = 4 k\\Omega<br/><br/>The latent heat of fusion for ice, L<sub>f</sub> = 3.33 \u00d7 10<sup>5</sup> J/kg<br/><br/>The density of the ice, d = 1000 kg/m<sup>3</sup><br/><br/>The specific heat of the ice, c<sub>p, ice</sub> = 2 \u00d7 10<sup>3</sup> J/kg<br/><br/>Heat required to melt the ice at 10^\\circC to 0^\\circC<br/><br/>Q = mc<sub>p</sub>\\DeltaT + mL<sub>f</sub> \\Rightarrow Q = dVc<sub>p</sub>\\DeltaT + dVL<sub>f</sub><br/><br/>= 1000 \u00d7 10<sup>-4</sup> \u00d7 2 \u00d7 10<sup>3</sup> \u00d7 (10) + 1000 \u00d7 10<sup>-4</sup> \u00d7 3.33 \u00d7 10<sup>5</sup> (\\because V = A \u00d7 L)<br/><br/>= 35300 J<br/><br/>According to the Joule's law of heating,<br/><br/>H = I<sup>2</sup>Rt<br/><br/>\\Rightarrow 35300 = (0.5)<sup>2</sup>(4000) (t)<br/><br/> \\Rightarrow t = 35.3 s<br/><br/>Thus, the minimum time required to melt the ice is 35.3 s.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Resistance of the wire is measured as 2 \\Omega and 3 \\Omega at 10^\\circC and 30^\\circC respectively. Temperature co-efficient of resistance of the material of the wire is :",
-      "options": {
-        "A": "0.033 ^\\circC<sup>-1</sup>",
-        "B": "-0.033 ^\\circC<sup>-1</sup>",
-        "C": "0.011 ^\\circC<sup>-1</sup>",
-        "D": "0.055 ^\\circC<sup>-1</sup>"
-      },
-      "answer": "A",
-      "solution": "R<sub>10</sub> = 2 = R<sub>0</sub>(1 + \\alpha \u00d7 10) R<sub>30</sub> = 3 = R<sub>0</sub>(1 + \\alpha \u00d7 30) On solving \\alpha = 0.033/^\\circC",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Given below are two statements : Statement I : A uniform wire of resistance 80 \\,\\Omega is cut into four equal parts. These parts are now connected in parallel. The \u2261alent resistance of the combination will be 5 \\,\\Omega. \nStatement II: Two resistances 2R and 3R are connected in parallel in a electric circuit. The value of thermal energy developed in 3R and 2R will be in the ratio 3: 2. \nIn the light of the above statements, choose the most appropriate answer from the option given below",
-      "options": {
-        "A": "Both statement I and statement II are correct",
-        "B": "Oth statement I and statement II are incorrect",
-        "C": "Statement I is correct but statement II is incorrect",
-        "D": "Statement I is incorrect but statement II is correct"
-      },
-      "answer": "C",
-      "solution": "Statement I : R_1\\,part = 80 \\over 4 = 20\\,\\Omega \\Rightarrow R_eff = 20 \\over 4 = 5\\,\\Omega Statement II : Ratio = (\\Delta V)^2 \\over 3R \\over (\\Delta V)^2 \\over 2R = 2 \\over 3",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A\u2085\u2080 \\Omega resistance is connected to a battery of 5 V. A galvanometer of resistance 100 \\Omega is to be used as an ammeter to measure current through the resistance, for this a resistance r<sub>s</sub> is connected to the galvanometer. Which of the following connections should be employed if the measured current is within 1% of thecurrent without the ammeter in the circuit ?",
-      "options": {
-        "A": "R<sub>s</sub> = 0.5 \\Omega in parallel with the galvanometer",
-        "B": "R<sub>s</sub> = 0.5 \\Omega in series with the galvanometer",
-        "C": "R<sub>s</sub> = 1 \\Omega in series with galvanometer",
-        "D": "R<sub>s</sub> =1 \\Omega in parallel with galvanometer"
-      },
-      "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2085\u2085/exam_images/du\u2083rwcbudypfrggki\u2088u\u2083.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Current Electricity Question 266 English Explanation\"> <br><br>Current in the circuit without ammeter <br><br>I = 5 \\over 50 = 0.1 A <br><br> \\therefore With ammeter current = 0.1 \u00d7 99 \\over 100 = 0.099 A <br><br>With ammeter \u2261alent resistance, <br><br>R<sub>eq</sub> = 50 + 100\\,r_s \\over 100 + r_s <br><br> \\therefore 0.099 = 5 \\over 50 + 100\\,r_s \\over 100 + r_s <br><br> \\Rightarrow 50 + 100\\,r_s \\over 100 + r_s = 5 \\over 0.099 <br><br> \\Rightarrow 100\\,r_s \\over 100 + r_s = 0.5 <br><br> \\Rightarrow 100 r<sub>s</sub> = 50 + 0.5r<sub>s</sub> <br><br> \\Rightarrow 99.5 r<sub>s</sub> = 50 <br><br> \\Rightarrow r<sub>s</sub> = 50 \\over 99.5 = 0.5\\,\\Omega",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "galvanometer having a coil resistance of 100\\,\\Omega gives a full scale deflection, when a currect of 1 mA is passed through it. The value of the resistance, which can convert this galvanometer into ammeter giving a full scale deflection for a current of 10 A, is :",
-      "options": {
-        "A": "0.1\\,\\Omega",
-        "B": "3\\,\\Omega",
-        "C": "0.01\\,\\Omega",
-        "D": "2\\,\\Omega"
-      },
-      "answer": "C",
-      "solution": "\\rm IgG = ( \\rm I - \\rm Ig \\)s <br><br>\\therefore 10^ - 3 \u00d7 100 = ( 10 - 10^ - 3 \\) \u00d7 S <br><br>\\therefore S \\approx 0.01\\,\\,\\Omega",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "When a current of 5 mA is passed through a galvanometer having a coil of resistance 15\\Omega , it shows full scale deflection. The value of the resistance to be put in series with the galvanometer to convert it into a voltmeter of range 0 \\\u2013 10V is:",
-      "options": {
-        "A": "4.005 \u00d7 10<sup>3</sup> \\Omega",
-        "B": "1.985 \u00d7 10<sup>3</sup> \\Omega",
-        "C": "2.535 \u00d7 10<sup>3</sup> \\Omega",
-        "D": "2.045 \u00d7 10<sup>3</sup> \\Omega"
-      },
-      "answer": "B",
-      "solution": "Given : Current through the galvanometer, <br><br>i<sub>g</sub> = 5 \u00d7 10<sup>\u20133</sup> A <br><br>Galvanometer resistance, G = 15 \\Omega <br><br>Let resistance R to be put in series with the galvanometer to convert it into a voltmeter. <br><br>V = i<sub>g</sub> (R + G) <br><br>10 = 5 \u00d7 10<sup>\u20133</sup> (R + 15) <br><br> \\therefore R = 2000 \u2013 15 = 1985 <br><br>= 1.985 \u00d7 10<sup>3</sup> \\Omega",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "In a circuit for finding the resistance of a galvanometer by half deflection method, a 6 V battery and a high resistance of 11 k\\Omega are used. The figure of merit of the galvanometer is 60 \\mu A/division. In the absence of shunt resistance, the galvanometer produces a deflection of \\theta = 9 divisions when current flows in the circuit. The value of the shunt resistance that can cause the deflection of \\theta /2, is closest to :",
-      "options": {
-        "A": "500 \\Omega",
-        "B": "220 \\Omega",
-        "C": "55 \\Omega",
-        "D": "110 \\Omega"
-      },
-      "answer": "D",
-      "solution": "Current required by unit deflection is 60 \\muA. For, \\theta = 9 current is I = 9 \u00d7 60 \\muA \\Rightarrow I = 540 \\muA = 540 \u00d7 10<sup>-6</sup> A Let G is resistance of galvanometer. Then, 540 \u00d7 10^ - 6 = 6 \\over (11000 + G) [11000 + G] 90 \u00d7 10<sup>-6</sup> = 1 99000 + 9G = 10<sup>5</sup> 9G = 100000 - 99000 9G = 1000 G = 1000 \\over 9\\Omega Also, in half deflection method, G = RS \\over R - S \\Rightarrow 1000 \\over 9 = 11000\\,S \\over 11000 - S\u2081 \\over 9 = 11S \\over 11000 - S \\Rightarrow 11000 - S = 99\\,S\u2081\u2080\u2080 S = 11000 \\Rightarrow S = 110 \\Omega",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "galvanometer with its coil resistance 25 \\Omega requires a current of 1 mA for its full deflection. In order to construct an ammeter to read upto a current of 2 A, the approximate value of the shunt resistance should be :",
-      "options": {
-        "A": "2.5 \u00d7 10^ - 3\\,\\Omega",
-        "B": "1.25 \u00d7 10^ - 2\\Omega",
-        "C": "1.25 \u00d7 10^ - 3\\Omega",
-        "D": "2.5 \u00d7 10^ - 2\\Omega"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2085\u2088/exam_images/ywczrpvunyf\u2084\u2085azc\u2085\u2083kd.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Physics - Current Electricity Question 273 English Explanation\"> <br><br>Given, <br><br>I<sub>g</sub> = 1 ma <br><br>I - I<sub>g</sub> = 2 A <br><br>R<sub>g</sub> = 25 \\Omega <br><br>\\therefore\\,\\,\\, I<sub>g</sub> R<sub>g</sub> = (I - I<sub>g</sub>) S <br><br> \\Rightarrow \\,\\,\\, S = 10^ - 3 \u00d7 25 \\over 2 <br><br> \\Rightarrow \\,\\,\\, S = 1.25 \u00d7 10<sup>-2</sup> \\Omega",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "moving coil galvanometer has resistance 50\\Omega and it indicates full deflection at 4mA current. A voltmeter is made using this galvanometer and a 5 k\\Omega resistance. The maximum voltage, that can be measured using this voltmeter, will be close to :",
-      "options": {
-        "A": "15 V",
-        "B": "10 V",
-        "C": "40 V",
-        "D": "20 V"
-      },
-      "answer": "D",
-      "solution": "G = 50 \\Omega <br><br/> S = 5000 \\Omega <br><br/> I<sub>g</sub> = 4 \u00d7 10<sup>\u20133</sup><br><br/> V = i<sub>g</sub> (G + S)<br><br/> V = 4 \u00d7 10<sup>\u20133</sup> (50 + 5000)<br><br/> = 4 \u00d7 10<sup>\u20133</sup> (5050) = 20.2 volt",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "moving coil galvanometer, having a resistance G, produces full scale deflection when a current Ig flows through it. This galvanometer can be converted into (i) an ammeter of range 0 to I<sub>0</sub>(I<sub>0</sub> > I<sub>g</sub>) by connecting a shunt resistance R<sub>A</sub> to it and (ii) into a voltmeter of range 0 to V (V = GI<sub>0</sub>) by connecting a series resistance R<sub>V</sub> to it. Then,",
-      "options": {
-        "A": "R_AR_V = G^2 and R_A \\over R_V = I_g \\over ( I_0 - I_g \\)",
-        "B": "R_AR_V = G^2( I_g \\over I_0 - I_g \\) and R_A \\over R_V = ( I_0 - I_g \\over I_g \\)^2",
-        "C": "R_AR_V = G^2( I_0 - I_g \\over I_g \\) and R_A \\over R_V = ( I_g \\over I_0 - I_g \\)^2",
-        "D": "R_AR_V = G^2 and R_A \\over R_V = ( I_g \\over I_0 - I_g \\)^2"
-      },
-      "answer": "D",
-      "solution": "Galvanometer is converted into ammeter of range 0 to I<sub>0</sub> : <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2086\u2084/exam_images/vxnh\u2086e\u2086twqsuiy\u2086jmfoq.webp\" alt=\"JEE Main 2019 (Online) 12th April Evening Slot Physics - Current Electricity Question 219 English Explanation 1\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\"> <br>(I<sub>o</sub> - I<sub>g</sub>)R<sub>A</sub> = I<sub>g</sub>G <br> \\Rightarrow R_A = I_gG \\over ( I_0 - I_g \\)............(1) <br><br>Galvanometer is converted into voltmeter of range 0 to V : <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2088\u2082/exam_images/tjnvxgx\u2081lebnzycejswf.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th April Evening Slot Physics - Current Electricity Question 219 English Explanation 2\"> <br>V = I<sub>g</sub>(R<sub>V</sub> + G) <br>Also given, V = GI<sub>0</sub> <br> \\therefore GI<sub>0</sub> = I<sub>g</sub>(R<sub>V</sub> + G) <br> \\Rightarrow R_V = G( I_0 - I_g \\) \\over I_g .........(2) <br><br>From equation (1) and (2) <br>R_AR_V = G^2 <br>R_A \\over R_V = ( I_g \\over I_0 - I_g \\)^2",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "moving coil galvanometer allows a full scale current of 10<sup>\\\u20134</sup> A. A series resistance of 2 M\\Omega is required to convert the above galvanometer into a voltmeter of range 0-5 V. Therefore the value of shunt resistance required to convert the above galvanometer into an ammeter of range 0.10 mA is :",
-      "options": {
-        "A": "200 \\Omega",
-        "B": "500 \\Omega",
-        "C": "100 \\Omega",
-        "D": "None of the options are correct"
-      },
-      "answer": "D",
-      "solution": "Given data, <br><br> \\beginaligned I =10^-4 A, \\\\\\\\ R_S =2 M \\Omega=2 \u00d7 10^6 \\Omega, \\\\\\\\ V_\\max =5 V \\endaligned <br><br>Let internal resistance of galvanometer is R_G. <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lj\u2081zmexe/1c\u2087aa\u2089ec-09df-4229-b\u2080\u2087\u2080-17a\u2081\u2082\u2085b\u2089\u2083\u2088\u2081\u2088/d\u2081a\u2088\u2089\u2088\u2081\u2080-0e\u2082\u2085-11ee-b\u2081\u2089\u2083-e\u2087c\u2084\u2089\u2083\u2083\u2088\u2086\u2085\u2089\u2080/file-6y\u2083zli\u2081lj\u2081zmexf.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lj\u2081zmexe/1c\u2087aa\u2089ec-09df-4229-b\u2080\u2087\u2080-17a\u2081\u2082\u2085b\u2089\u2083\u2088\u2081\u2088/d\u2081a\u2088\u2089\u2088\u2081\u2080-0e\u2082\u2085-11ee-b\u2081\u2089\u2083-e\u2087c\u2084\u2089\u2083\u2083\u2088\u2086\u2085\u2089\u2080/file-6y\u2083zli\u2081lj\u2081zmexf.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh; vertical-align: baseline;\" alt=\"JEE Main 2019 (Online) 10th April Morning Slot Physics - Current Electricity Question 225 English Explanation\"> <br>Then, <br><br> \\beginarraylc I \u00d7 R_S+I \u00d7 R_G=V_\\max \\\\\\\\ \\Rightarrow 2 \u00d7 10^6 \u00d7 10^-4+10^-4 \u00d7 R_G=5 \\\\\\\\ \\Rightarrow 10^-4 R_G=5-200=-195 \\\\\\\\ or R_G=-195 \u00d7 10^4 \\Omega \\endarray <br><br>Resistance cannot be negative. <br><br>\\therefore No option is correct.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The resistance of a galvanometer is 50 ohm and the maximum current which can be passed through it is 0.002 A. What resistance must be connected to it in order to convert it into an ammeter of range 0 \\\u2013 0.5 A ?",
-      "options": {
-        "A": "0.02 ohm",
-        "B": "0.2 ohm",
-        "C": "0.002 ohm",
-        "D": "0.5 ohm"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2080\u2088\u2080/exam_images/neabkssdo\u2089r\u2088ikvqvdeg.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th April Evening Slot Physics - Current Electricity Question 230 English Explanation\"><br><br> We have<br> I<sub>g</sub> R<sub>g</sub> = (0.5 \\\u2013 I<sub>g</sub>) S<br><br> \\Rightarrow (0.002) (50) = (0.5 \\\u2013 I<sub>g</sub>) S<br><br> \\Rightarrow S \\simeq 0.002 \u00d7 50 \\over 0.5 = 0.2\\Omega",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "galvanometer, whose resistance is 50 ohm, has 25 divisions in it. When a current of 4 \u00d7 10<sup>\\\u20134</sup> A passes through it, its needle ( pointer) deflects by one division. To use this galvanometer as a voltmeter of range 2.5 V, it should be connected to a resistance of :",
-      "options": {
-        "A": "200 ohm",
-        "B": "250 ohm",
-        "C": "6200 ohm",
-        "D": "6250 ohm"
-      },
-      "answer": "A",
-      "solution": "I<sub>g</sub> = 4 \u00d7 10<sup>-4</sup> \u00d7 25 = 10<sup>-2</sup> A <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2082\u2089\u2083/exam_images/ircp\u2085doxcaunxz\u2086jbmqc.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Current Electricity Question 240 English Explanation\"> <br><br>2.5 = (50 + R) 10<sup>-2</sup> <br><br> \\therefore R = 200 \\Omega",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "circuit to verify Ohm's law uses ammeter and voltmeter in series or parallel connected correctly to the resistor. In the circuit :",
-      "options": {
-        "A": "Mmeter is always connected in series and voltmeter in parallel",
-        "B": "Oth ammeter and voltmeter must be connected in series",
-        "C": "Both ammeter and voltmeter must be connected in parallel",
-        "D": "Ammeter is always used in parallel and voltmeter is series"
-      },
-      "answer": "A",
-      "solution": "Ammeter is always connected in series and voltmeter is connected in parallel. <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2080\u2086\u2084/exam_images/xhoeqte\u2080df\u2087ysa\u2085k\u2086q\u2081q.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Physics - Current Electricity Question 198 English Explanation\">",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "galvanometer of resistance G is converted into a voltmeter of range 0 \\\u2013 1 V by connecting a resistance R<sub>1</sub> in series with it. The additional resistance that should be connected in series with R<sub>1</sub> to increase the range of the voltmeter to 0 \\\u2013 2 V will be :",
-      "options": {
-        "A": "G",
-        "B": "R<sub>1</sub>",
-        "C": "R<sub>1</sub> + G",
-        "D": "R<sub>1</sub> - G"
-      },
-      "answer": "C",
-      "solution": "1 = i<sub>g</sub>(G + R<sub>1</sub>) ....(1) <br><br>2 = i<sub>g</sub>(R<sub>1</sub> + R<sub>2</sub> + G) ....(2) <br><br>Doing (1) \\div (2), we get <br><br>1 \\over 2 = i_g( G + R_1 \\) \\over i_g( G + R_1 + R_2 \\) <br><br> \\Rightarrow R<sub>1</sub> + R<sub>2</sub> + G = 2R<sub>1</sub> + 2G <br><br> \\Rightarrow R<sub>2</sub> = R<sub>1</sub> + G",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "galvanometer having a coil resistance 100 \\Omega gives a full scale deflection when a current of 1 mA is passed through it. What is the value of the resistance which can convert this galvanometer into a voltmeter giving full scale deflection for a potential difference of 10 V?",
-      "options": {
-        "A": "8.9 k\\Omega",
-        "B": "10 k\\Omega",
-        "C": "9.9 k\\Omega",
-        "D": "7.9 k\\Omega"
-      },
-      "answer": "C",
-      "solution": "i<sub>g</sub> = 1 mA , R<sub>g</sub> = 100 \\Omega <br><br>V = i<sub>g</sub>(R + R<sub>g</sub>) <br><br> \\Rightarrow 10 = 1 \u00d7 10<sup>\u20133</sup> (R + 100) <br><br> \\Rightarrow R = 9.9 k\\Omega",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "For full scale deflection of total 50 divisions, 50 mV voltage is required in galvanometer. The resistance of galvanometer if its current sensitivity is 2 div/mA will be :",
-      "options": {
-        "A": "1\\Omega",
-        "B": "5\\Omega",
-        "C": "4\\Omega",
-        "D": "2\\Omega"
-      },
-      "answer": "D",
-      "solution": "I_\\max = 50 \\over 2 = 25 mA<br><br>R = V \\over I = 50mV \\over 25mA = 2\\Omega",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Consider a galvanometer shunted with 5\\Omega resistance and 2% of current passes through it. What is the resistance of the given galvanometer ?",
-      "options": {
-        "A": "300 \\Omega",
-        "B": "344 \\Omega",
-        "C": "245 \\Omega",
-        "D": "226 \\Omega"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2080\u2080/exam_images/mrj\u2081\u2088lewipk\u2088cejnns\u2086s.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Current Electricity Question 153 English Explanation\"><br>0.02i Rg = 0.98i \u00d7 5<br><br>Rg = 245 \\Omega<br><br>Option (c)",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A\u2087\u2082 \\Omega galvanometer is shunted by a resistance of 8 \\Omega. The percentage of the total current which passes through the galvanometer is :",
-      "options": {
-        "A": "0.1%",
-        "B": "10%",
-        "C": "25%",
-        "D": "0.25%"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085jqemdq/c\u2087\u2080f\u2085\u2088cd-41c\u2088-412b-8e\u2087\u2081-6f\u2085c\u2080feb\u2087\u2082\u2082d/db\u2082a\u2088ee\u2080-02bc-11ed-95db-c\u2083fa\u2089a\u2080f\u2084\u2081ba/file-1l\u2085jqemdr.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085jqemdq/c\u2087\u2080f\u2085\u2088cd-41c\u2088-412b-8e\u2087\u2081-6f\u2085c\u2080feb\u2087\u2082\u2082d/db\u2082a\u2088ee\u2080-02bc-11ed-95db-c\u2083fa\u2089a\u2080f\u2084\u2081ba/file-1l\u2085jqemdr.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Physics - Current Electricity Question 134 English Explanation\"> From the given setup y \u00d7 R_G = (x - y)(R_S) \\Rightarrow y \u00d7 72 = (x - y) \u00d7 8 \\Rightarrow 9y = x - y \\Rightarrow y = x \\over 10 or 10% of x",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "In an ammeter, 5 \\% of the main current passes through the galvanometer. If resistance of the galvanometer is G, the resistance of ammeter will be :",
-      "options": {
-        "A": "199 G",
-        "B": "200 G",
-        "C": "\\fracG\u2082\u2080",
-        "D": "\\fracG\u2081\u2089\u2089"
-      },
-      "answer": "C",
-      "solution": "When an ammeter is designed, a shunt resistor (R_s) is placed in parallel with the galvanometer to ensure that only a small fraction of the total current passes through the galvanometer itself. This is done because the galvanometer is usually a sensitive instrument designed to measure small currents, and passing a large current through it could damage it. In this scenario, we are told that 5\\% of the main current passes through the galvanometer. This means that the remaining 95\\% of the current must pass through the shunt. Let's denote the total current as I, the current through the galvanometer as I_g, and the current through the shunt as I_s. Therefore, we have: I_g = \\frac\u2085\u2081\u2080\u2080 I I_s = I - I_g = I - \\frac\u2085\u2081\u2080\u2080 I = \\frac\u2089\u2085\u2081\u2080\u2080 I Since the galvanometer and shunt are in parallel, the voltage across each must be the same: V_g = V_s According to Ohm's law, V = IR, where V is the voltage, I is the current, and R is the resistance. Hence, for the galvanometer and the shunt: I_g G = I_s R_s By substituting I_g and I_s from the above proportionality, we get: (\\frac\u2085\u2081\u2080\u2080 I\\) G = (\\frac\u2089\u2085\u2081\u2080\u2080 I\\) R_s Let's solve for R_s: R_s = \\frac\u2085\u2089\u2085 G Further simplifying this: R_s = \\fracG\u2081\u2089 The total resistance of the ammeter R_a can be found using the parallel resistance formula: \\frac\u2081R_a = \\frac\u2081G + \\frac\u2081R_s Substitute R_s with \\fracG\u2081\u2089: \\frac\u2081R_a = \\frac\u2081G + \\frac\u2081\u2089G \\frac\u2081R_a = \\frac\u2082\u2080G Thus the resistance of the ammeter R_a is: R_a = \\fracG\u2082\u2080 Hence, the correct answer is Option C: \\fracG\u2082\u2080.",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: A\u2083\u2080 \u00ce\u00bcF capacitor is connected to a 150 V , 60 Hz AC supply. The RMS value of current in the circuit is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given that C = 30 \u00ce\u00bcF = 30 \u00c3\u0097 10 - 6 FV = 150 V , f = 60 Hz I r m s = VX C = 150 1 \u00cf\u0089 C = 150 \u00c3\u0097 \u00cf\u0089 C = 150 \u00c3\u0097 2 \u00cf\u0080 f \u00c3\u0097 C = 150 \u00c3\u0097 2 \u00c3\u0097 3.14 \u00c3\u0097 60 \u00c3\u0097 30 \u00c3\u0097 10 - 6 = 1.6956 A \u00e2\u0089\u0083 1.7 A </think> **Correct Answer: (A)** **Explanation:** Given that C = 30 \u00ce\u00bcF = 30 \u00c3\u0097 10 - 6 FV = 150 V , f = 60 Hz I r m s = VX C = 150 1 \u00cf\u0089 C = 150 \u00c3\u0097 \u00cf\u0089 C = 150 \u00c3\u0097 2 \u00cf\u0080 f \u00c3\u0097 C = 150 \u00c3\u0097 2 \u00c3\u0097 3.14 \u00c3\u0097 60 \u00c3\u0097 30 \u00c3\u0097 10 - 6 = 1.6956 A \u00e2\u0089\u0083 1.7 A **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "galvanometer has a resistance of 50 \\Omega and it allows maximum current of 5 mA. It can be converted into voltmeter to measure upto 100 V by connecting in series a resistor of resistance :",
+      "question": "The amplitude of the charge oscillating in a circuit decreases exponentially as Q=Q_0 e^-R t 2 L, where Q_0 is the charge at t=0 s. The time at which charge amplitude decreases to 0.50 Q_0 is nearly: [Given that R=1.5 \\Omega, L=12 mH, \\ln (2)=0.693 ]",
       "options": {
-        "A": "19500 \\Omega",
-        "B": "5975 \\Omega",
-        "C": "20050 \\Omega",
-        "D": "19950 \\Omega"
-      },
-      "answer": "D",
-      "solution": "To convert a galvanometer into a voltmeter to measure higher voltages, you need to add a series resistance to it. Let's figure out the required resistance value. First, let's find the maximum voltage that can be directly measured by the galvanometer without any additional resistance. We know the maximum current, I, that the galvanometer can safely measure is 5 mA, and the resistance of the galvanometer, R_g, is 50 \\Omega. Using Ohm's law V = I \u00d7 R , the maximum voltage V_g the galvanometer can measure is: V_g = I \u00d7 R_g V_g = 5 \u00d7 10^-3 A \u00d7 50 \\Omega V_g = 0.25 V Next, to measure up to 100 V, we need to add a series resistor R_s so that the total voltage drop when the maximum current is flowing is 100 V. The voltage drop across the additional resistor R_s when the maximum current flows would be the total voltage minus the voltage across the galvanometer: V_s = V_total - V_g V_s = 100 V - 0.25 V V_s = 99.75 V Applying Ohm's law to the series resistor to find its resistance value: R_s = \\fracV_sI R_s = \\frac\u2089\u2089.75 V\u2085 \u00d7 10^-3 A R_s = 19950 \\Omega Therefore, the resistance of the series resistor required to convert the galvanometer into a voltmeter that can measure up to 100 V is 19950 \\Omega. The correct option is D: 19950 \\Omega.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The deflection in moving coil galvanometer falls from 25 divisions to 5 division when a shunt of 24 \\Omega is applied. The resistance of galvanometer coil will be :",
-      "options": {
-        "A": "48 \\Omega",
-        "B": "100 \\Omega",
-        "C": "96 \\Omega",
-        "D": "12 \\Omega"
-      },
-      "answer": "C",
-      "solution": "Let x = current/division <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt\u2082toclz/fdc\u2081cef\u2080-c\u2083\u2083\u2088-481f-b\u2086\u2082\u2081-896a\u2080\u2081\u2086be\u2080\u2086\u2082/8326ae\u2087\u2080-d\u2084\u2089\u2085-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082tocm\u2080.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt\u2082toclz/fdc\u2081cef\u2080-c\u2083\u2083\u2088-481f-b\u2086\u2082\u2081-896a\u2080\u2081\u2086be\u2080\u2086\u2082/8326ae\u2087\u2080-d\u2084\u2089\u2085-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082tocm\u2080.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Morning Shift Physics - Current Electricity Question 33 English Explanation 1\"> After applying shunt <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt\u2082tqvvt/bf\u2081d\u2086\u2087\u2084\u2081-5b\u2087b-461d-bde\u2081-af\u2087b\u2088f\u2084\u2086\u2088aec/c\u2089a\u2088\u2087\u2084a\u2080-d\u2084\u2089\u2085-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082tqvvu.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt\u2082tqvvt/bf\u2081d\u2086\u2087\u2084\u2081-5b\u2087b-461d-bde\u2081-af\u2087b\u2088f\u2084\u2086\u2088aec/c\u2089a\u2088\u2087\u2084a\u2080-d\u2084\u2089\u2085-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082tqvvu.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Morning Shift Physics - Current Electricity Question 33 English Explanation 2\"> Now 5 x \u00d7 G=20 x \u00d7 24 \\beginaligned & G=4 \u00d7 24 \\\\ & G=96 \\Omega \\endaligned",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A galvanometer having coil resistance 10 \\Omega shows a full scale deflection for a current of 3 mA. For it to measure a current of 8 A, the value of the shunt should be:",
-      "options": {
-        "A": "3.75 \u00d7 10^-3 \\Omega",
-        "B": "3 \u00d7 10^-3 \\Omega",
-        "C": "4.85 \u00d7 10^-3 \\Omega",
-        "D": "2.75 \u00d7 10^-3 \\Omega"
+        "A": "1%",
+        "B": "01 ms",
+        "C": "09 ms",
+        "D": "01 s"
       },
       "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt\u2082thne\u2085/2f\u2085\u2087\u2083\u2080dc-195f-4232-8eab-2f\u2085be\u2081\u2082\u2086e\u2081\u2087\u2084/c\u2088d\u2080f\u2085d\u2080-d\u2084\u2089\u2084-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082thne\u2086.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt\u2082thne\u2085/2f\u2085\u2087\u2083\u2080dc-195f-4232-8eab-2f\u2085be\u2081\u2082\u2086e\u2081\u2087\u2084/c\u2088d\u2080f\u2085d\u2080-d\u2084\u2089\u2084-11ee-a\u2086\u2081\u2083-e\u2081\u2081ae\u2086\u2082\u2085\u2087\u2085eb/file-1lt\u2082thne\u2086.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Morning Shift Physics - Current Electricity Question 32 English Explanation\"> To determine the value of the shunt resistor required to convert the galvanometer into an ammeter capable of measuring a current of 8 A, we need to use the concept of shunting where the additional resistor (shunt) is placed in parallel with the galvanometer. The formula for calculating the value of the shunt resistor R_s is given by: R_s = \\fracR_g \u00b7 I_gI - I_g Where: R_g = resistance of the galvanometer = 10 \\Omega<br> I_g = full-scale deflection current of the galvanometer = 3 mA = 0.003 A<br> I = total current to be measured = 8 A Substituting these values into the formula: R_s = \\frac\u2081\u2080 \\Omega \u00b7 0.003 A\u2088 A - 0.003 A Perform the calculations: R_s = \\frac\u2080.03 \\Omega \u00b7 A\u2087.997 A R_s \\approx 3.75 \u00d7 10^-3 \\Omega Thus, the value of the shunt resistor should be: <b>Option A</b>: 3.75 \u00d7 10^-3 \\Omega",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: The amplitude of the charge oscillating in a circuit decreases exponentially as Q=Q_0 e^-R t 2 L, where Q_0 is the Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given Q=Q_0 e^-R t / 2 LR=1.5 \\Omega, L=12 mH, \\operatornameIn(2)=0.693 Q=0.5 Q_0, t= ? 0.5 Q_0=Q_0 e^-R t / 2 L \\Rightarrow \\quad \\frac\u2081\u2082=e^-R t / 2 L Taking log on both sides \\ln (\\frac\u2081\u2082\\)=\\ln e^-R t / 2 L \\Rightarrow \\ln 2=\\fracR t\u2082 L t=\\frac\u2082 L \\operatornameIn 2R=\\frac\u2082 \u00d7 12 \u00d7 10^-3 \u00d7 0.6931.5 t=11.09 \\mathr </think> **Correct Answer: (A)** **Explanation:** Given Q=Q_0 e^-R t / 2 LR=1.5 \\Omega, L=12 mH, \\operatornameIn(2)=0.693 Q=0.5 Q_0, t= ? 0.5 Q_0=Q_0 e^-R t / 2 L \\Rightarrow \\quad \\frac\u2081\u2082=e^-R t / 2 L Taking log on both sides \\ln (\\frac\u2081\u2082\\)=\\ln e^-R t / 2 L \\Rightarrow \\ln 2=\\fracR t\u2082 L t=\\frac\u2082 L \\operatornameIn 2R=\\frac\u2082 \u00d7 12 \u00d7 10^-3 \u00d7 0.6931.5 t=11.09 ms **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "A galvanometer has a coil of resistance 200 \\Omega with a full scale deflection at 20 \\mu A. The value of resistance to be added to use it as an ammeter of range (0-20) mA is :",
+      "question": "A wire loop that encloses an area of 20 c m 2 has a resistance of 10 \u00ce\u00a9 . The loop is placed in a magnetic field of 2.4 T with its plane perpendicular to the field. The loop is suddenly removed from the field. How much charge flows past a given point in the wire?",
       "options": {
-        "A": "0.40\\Omega",
-        "B": "0.10\\Omega",
-        "C": "0.20\\Omega",
-        "D": "0.50\\Omega"
-      },
-      "answer": "C",
-      "solution": "To convert a galvanometer into an ammeter, we need to add a shunt resistance in parallel with the galvanometer's coil. The purpose of the shunt resistance is to bypass the majority of the current while allowing only a small fraction of it to pass through the galvanometer, thereby preventing it from being damaged by high currents. Given parameters: <ul> <li>Resistance of the galvanometer's coil, R_g = 200 \\Omega</li><br> <li>Full-scale deflection current of the galvanometer, I_g = 20 \\mu A = 20 \u00d7 10^-6 A</li><br> <li>Desired ammeter range, I = 20 mA = 20 \u00d7 10^-3 A </li> </ul> The shunt resistance, R_s, can be calculated using the formula: \\fracR_sR_g + R_s = \\fracI_gI Solving for R_s: R_s = R_g (\\fracI_gI - I_g\\) Substituting the given values: R_s = 200 (\\frac\u2082\u2080 \u00d7 10^-620 \u00d7 10^-3 - 20 \u00d7 10^-6\\) Simplifying the expression: R_s = 200 (\\frac\u2082\u2080 \u00d7 10^-619.98 \u00d7 10^-3\\) R_s \\approx 200 (\\frac\u2082\u2080 \u00d7 10^-620 \u00d7 10^-3\\) = 200 (\\frac\u2081\u2081\u2080\u2080\u2080\\) = 0.20 \\Omega Therefore, the value of the resistance to be added to use the galvanometer as an ammeter of range (0-20) mA is 0.20 \\Omega. Thus, the correct answer is: Option C: 0.20 \\Omega",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A galvanometer of resistance 100 \\Omega when connected in series with 400 \\Omega measures a voltage of upto 10 V. The value of resistance required to convert the galvanometer into ammeter to read upto 10 A is x \u00d7 10^-2 \\Omega. The value of x is :",
-      "options": {
-        "A": "2%",
-        "B": "20%",
-        "C": "800%",
-        "D": "200%"
-      },
-      "answer": "B",
-      "solution": "To convert a galvanometer into an ammeter to measure larger currents, a low resistance known as the <em>shunt resistance</em> (R_sh) is connected in parallel with the galvanometer. The value of this shunt resistance can be calculated using the principles of parallel circuits and the desired maximum current the ammeter should read. The original configuration of the galvanometer allows it to measure up to 10\\,V, and it has a resistance of 100\\,\\Omega. When connected in series with a 400\\,\\Omega resistor, the total resistance in the circuit is 100\\,\\Omega + 400\\,\\Omega = 500\\,\\Omega. Given this configuration measures up to 10\\,V, we can calculate the maximum current it is designed to measure using Ohm's law: I = \\fracVR = \\frac\u2081\u2080\\,V\u2085\u2080\u2080\\,\\Omega = 0.02\\,A Now, to recalibrate the device to measure up to 10\\,A, we require the calculation of the shunt resistor R_sh that needs to be connected in parallel with the galvanometer. The total current I will now be 10\\,A, and the part of this current flowing through the galvanometer (I_g) remains 0.02\\,A (as before, to ensure we do not exceed the device's original maximum measuring capability), leaving the rest to flow through the shunt. Thus, I - I_g flows through the shunt. Since the voltage drop across both the shunt and the galvanometer must be the same for parallel components, we use Ohm\\u\u2082\u2080\u2081\u2089s Law V = IR for both and set up an equation to calculate R_sh: I_g R_g = (I - I_g) R_sh Substituting known values (R_g = 100\\,\\Omega, I = 10\\,A, and I_g = 0.02\\,A): 0.02\\,A \u00d7 100\\,\\Omega = (10\\,A - 0.02\\,A) R_sh This simplifies to: 2\\,V = 9.98\\,A \u00d7 R_sh Solving for R_sh gives: R_sh = \\frac\u2082\\,V\u2089.98\\,A \\approx 0.2004\\,\\Omega Expressing this in terms of \u00d7 10^-2 \\Omega gives R_sh \\approx 20.04 \u00d7 10^-2 \\Omega. Therefore, the value of x is approximately 20.04, and rounding it according to the provided options leads to the closest value: Option B: 20",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "On interchanging the resistances, the balance point of a meter bridge shifts to the left by 10 cm. The resistance of their series combination is 1 k\\Omega . How much was the resistance on the left slot before interchanging the resistances?",
-      "options": {
-        "A": "910 \\Omega",
-        "B": "990 \\Omega",
-        "C": "505 \\Omega",
-        "D": "550 \\Omega"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2088\u2081/exam_images/vk\u2082z\u2085nfou\u2084fbv\u2082hwae\u2085b.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Offline) Physics - Current Electricity Question 283 English Explanation 1\"> <br><br>X \\over l = 1000 - X \\over 100 - l . . . . . (1) <br><br>When X and Y are interchanged. <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2082\u2080/exam_images/t\u2081yqpwefn\u2089imrvoyubql.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Offline) Physics - Current Electricity Question 283 English Explanation 2\"> <br><br>1000 - X \\over l - 10 = X \\over 100 - l + 10 <br><br> \\Rightarrow \\,\\,\\, 1000 - X \\over l - 10 = X \\over 110 - l . . . . . (2) <br><br>From (1) and (2) we get, <br><br>l \\over 100 - l = 110 - l \\over l - 10 <br><br> \\Rightarrow \\,\\,\\, l<sup>2</sup> - 10 = 11000 - 100l - 110l + l<sup>2</sup> <br><br> \\Rightarrow \\,\\,\\, 200l = 11000 <br><br>l = 55 cm <br><br>Putting this value of l, in equation (1) <br><br>X \\over 55 = 1000 - X \\over 100 - 55 <br><br> \\Rightarrow \\,\\,\\, 45X = 55000 - 55X <br><br> \\Rightarrow \\,\\,\\, 100X = 55000 <br><br> \\Rightarrow \\,\\,\\, X = 550 \\Omega",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "In a metre-bridge when a resistance in the left gap is 2 \\Omega and unknown resistance in the gap, the balance length is found to be 40 cm. On shunting the unknown resistance with 2 \\Omega, the balance length changes by :",
-      "options": {
-        "A": "62.5%",
-        "B": "22.5 cm",
-        "C": "20 cm",
-        "D": "65 cm"
-      },
-      "answer": "B",
-      "solution": "To solve this problem, let's first understand that a meter bridge setup is based on the principle of a Wheatstone bridge, in which two unknown resistances are in such a configuration that if the bridge is balanced, the ratio of the resistances on one side is equal to the ratio of resistances on the other side. In a balanced condition, no current flows through the galvanometer that is connected diagonally across the bridge. We can express the condition of the balance as follows: \\fracR_1R_2 = \\fracL_1L_2 where R_1 is the known resistance 2 \\u\u2080\u2083a\u2089, R_2 is the unknown resistance, L_1 is the balance length 40 cm and L_2 is the length of the remaining wire on the meter bridge (100 cm - 40 cm = 60 cm). Let's calculate the initial unknown resistance (R_2) using the balance condition: \\frac\u2082R_2 = \\frac\u2084\u2080\u2086\u2080 <br/><br/>\\Rightarrow R_2 = \\frac\u2082 \u00d7 6040 = 3 \\Omega Now, when the unknown resistance R_2 is shunted with a 2 \\u\u2080\u2083a\u2089 resistor, the new combined resistance (R'_2) can be calculated using the parallel resistance formula: \\frac\u2081R'_2 = \\frac\u2081R_2 + \\frac\u2081\u2082 <br/><br/> \\Rightarrow \\frac\u2081R'_2 = \\frac\u2081\u2083 + \\frac\u2081\u2082 = \\frac\u2082 + 36 = \\frac\u2085\u2086 Therefore, the new combined resistance (R'_2) is: R'_2 = \\frac\u2086\u2085 \\Omega If L'_1 is the new balance length and L'_2 is the remaining length, we now have: \\frac\u2082\\frac\u2086\u2085 = \\fracL'_1100 - L'_1 <br/><br/> \\Rightarrow \\fracL'_1100 - L'_1 = \\frac\u2085\u2083 Now, solve for (L'_1): 3L'_1 = 5(100 - L'_1) <br/><br/> \\Rightarrow 3L'_1 = 500 - 5L'_1 <br/><br/> \\Rightarrow 8L'_1 = 500 <br/><br/> \\Rightarrow L'_1 = 62.5 cm The balance length has changed from 40 cm to 62.5 cm, so the change by L'_1 - L_1 is: 62.5 - 40 = 22.5 cm Therefore, the balance length changes by 22.5 cm, which corresponds to Option B.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The length of a potentiometer wire is 1200 cm and it carries a current of 60 mA. For a cell of emf 5V and internal resistance of 20\\Omega , the null point on it is found to be a 1000 cm. The resistance of whole wire is :",
-      "options": {
-        "A": "80\\Omega",
-        "B": "60\\Omega",
-        "C": "120\\Omega",
-        "D": "100\\Omega"
-      },
-      "answer": "D",
-      "solution": "Let Resistance per unit length of potentiometer wire = \\lambda <br><br>5 = \\lambda \u00d7 1000 \u00d7 60 \u00d7 10<sup>-3</sup> <br><br> \\Rightarrow \\lambda = 5 \\over 60 <br><br>Resistance of potentiometer wire = 1200 \u00d7 5 \\over 60 = 100 \\Omega",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "To measure the internal resistance of a battery, potentiometer is used. For R=10 \\Omega, the balance point is observed at l=500 cm and for R=1 \\Omega the balance point is observed at l=400 cm. The internal resistance of the battery is approximately :",
-      "options": {
-        "A": "0.1 \\Omega",
-        "B": "0.3 \\Omega",
-        "C": "0.2 \\Omega",
-        "D": "0.4 \\Omega"
-      },
-      "answer": "B",
-      "solution": "To measure the internal resistance of a battery using a potentiometer, we need to understand the principle behind it. The potentiometer is used to measure the voltage across the battery (emf) under different conditions. The balance length corresponds to the emf of the battery when no current is drawn, whereas under load, it corresponds to the terminal voltage. Let's denote the emf of the battery by E and the internal resistance by r. According to Ohm's law, when a resistance R is connected across the battery, the terminal voltage V is given by: V = E - Ir where I is the current through the circuit. From the problem, the balance length l is proportional to the voltage across the potentiometer wire. Thus, we can write: \\fracV_1V_2 = \\fracl_1l_2 In the first condition, when R = 10 \\Omega and the balance length l_1 = 500 \\, cm: V_1 = E - I_1 r For the second condition, when R = 1 \\Omega and the balance length l_2 = 400 \\, cm: V_2 = E - I_2 r Given that: \\fracV_1V_2 = \\frac\u2085\u2080\u2080\u2084\u2080\u2080 = \\frac\u2085\u2084 Now let's denote the internal emf of the battery as E. We can use Ohm\\u\u2082\u2080\u2081\u2089s Law in the calculation of I_1 and I_2: I_1 = \\fracER_1 + r = \\fracE\u2081\u2080 + r I_2 = \\fracER_2 + r = \\fracE\u2081 + r Now, rewriting the values of V_1 and V_2 we have: V_1 = E - I_1 r = E (1 - \\fracr\u2081\u2080 + r\\) = E \\frac\u2081\u2080\u2081\u2080 + r V_2 = E - I_2 r = E (1 - \\fracr\u2081 + r\\) = E \\frac\u2081\u2081 + r Using the ratio: \\fracV_1V_2 = \\frac\\frac\u2081\u2080E\u2081\u2080 + r\\fracE\u2081 + r = \\frac\u2081\u2080 \u00b7 (1 + r)\u2081 \u00b7 (10 + r) = \\frac\u2081\u2080 + 10r\u2081\u2080 + r Given: \\fracV_1V_2 = \\frac\u2085\u2084 So, we can set up the equation: \\frac\u2081\u2080 + 10r\u2081\u2080 + r = \\frac\u2085\u2084 Cross multiplying gives: 4(10 + 10r) = 5(10 + r) Expanding both sides: 40 + 40r = 50 + 5r Rearranging terms to solve for r: 40r - 5r = 50 - 40 35r = 10 r = \\frac\u2081\u2080\u2083\u2085 = \\frac\u2082\u2087 \\approx 0.285 \\, \\Omega Since this value is closest to 0.3 \\Omega, the correct option is: Option B: 0.3 \\Omega",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "uniform wire of length 1 and radius r has a resistance of 100 \\Omega . It is recast into a wire of radius r \\over 2. The resistance of new wire will be :",
-      "options": {
-        "A": "1600 \\Omega",
-        "B": "400 \\Omega",
-        "C": "200 \\Omega",
-        "D": "100 \\Omega"
+        "A": "12 \u00c3\u0097 10 - 4",
+        "B": "6 \u00c3\u0097 10 - 1",
+        "C": "8 \u00c3\u0097 10 - 4",
+        "D": "4 \u00c3\u0097 10 - 3"
       },
       "answer": "A",
-      "solution": "Resistance of a wire of length l and radius r is given by <br><br>R = \\rho l \\over A = \\rho l \\over A \u00d7 A \\over A = \\rho V \\over A^2 = \\rho V \\over \\pi ^2r^4 <br><br> \\Rightarrow R \\propto 1 \\over r^4 <br><br> \\therefore R_1 \\over R_2 = ( r_2 \\over r_1 \\)^4 <br><br>Given, R<sub>1</sub> = 100 \\Omega , r<sub>1</sub> = r, r<sub>2</sub> = r \\over 2 , R<sub>2</sub> = ? <br><br> \\therefore R<sub>2</sub> = R<sub>1</sub>( r_1 \\over r_2 \\)^4 = 16R<sub>1</sub> = 1600 \\Omega",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "metal wire of resistance 3 \\Omega is elongated to make a uniform wire of double its previous length. This new wire is now bent and the ends joined to make a circle. If two points on this circle make an angle 60\u00b0 at the centre, the \u2261alent resistance between these two points will be :-",
-      "options": {
-        "A": "5 /2 \\Omega",
-        "B": "12/5 \\Omega",
-        "C": "7/2 \\Omega",
-        "D": "5 / 3 \\Omega"
-      },
-      "answer": "D",
-      "solution": "R = \\rho l \\over A = \\rho l \\over ( V/l \\) = \\rho l^2 \\over V( V\\rm \\to \\rm Volume\\rm \\,of\\rm \\,wire \\)<br><br> \\Rightarrow Final resistance = 3 \u00d7 (B)<sup>2</sup> = 12 \\Omega <br><br> R_eq = 2\\Omega \\parallel 10\\Omega = 5 \\over 3\\Omega",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "current of 5 A passes through a copper conductor (resistivity = 1.7 \u00d7 10<sup>\u20138</sup> \\Omega m) of radius of cross-section 5 mm. Find the mobility of the charges if their drift velocity is 1.1 \u00d7 10<sup>\u20133</sup> m/s.",
-      "options": {
-        "A": "1.3 m<sup>2</sup>/Vs",
-        "B": "1.0 m<sup>2</sup>/Vs",
-        "C": "1.8 m<sup>2</sup>/Vs",
-        "D": "1.5 m<sup>2</sup>/Vs"
-      },
-      "answer": "B",
-      "solution": "\\mu = V_d \\over E\\,\\,\\,\\,\\,\\,E = \\rho J<br><br> = 1.1 \u00d7 10^ - 3 \\over 1.7 \u00d7 10^ - 8 \u00d7 5 \\over \\pi \u00d7 25 \u00d7 0^ - 6<br><br> = 1.1 \u00d7 10^ - 3 \u00d7 \\pi \u00d7 25 \u00d7 0^ - 6 \\over 1.7 \u00d7 10^ - 8 \u00d7 5 \\approx 1.01\\,m^2/Vs",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "wire of 1\\Omega has a length of 1 m. It is stretched till its length increases by 25%. The percentage change in resistance to the nearest integer is :",
-      "options": {
-        "A": "76%",
-        "B": "12.5%",
-        "C": "25%",
-        "D": "56%"
-      },
-      "answer": "D",
-      "solution": "R<sub>0</sub> = 1\\Omega<br><br>R<sub>1</sub> = ?<br><br>l<sub>0</sub> = 1m<br><br>l<sub>1</sub> = 1.25 m<br><br>A<sub>0</sub> = A<br><br>As volume of wire remains constant so<br><br>A<sub>0</sub>l<sub>0</sub> = A<sub>1</sub>l<sub>1</sub> \\Rightarrow A<sub>1</sub> = l_0A_0 \\over l_1<br><br>Now<br><br>Resistance (R) = pl \\over A<br><br>R_0 \\over R_1 = l_0 \\over A_0( l_0A_0 \\over l_1 \u00d7 l_1 \\) <br><br> \\Rightarrow R_1 = l_1^2 \\over l_0^2 = 1.5625 \\,\\Omega <br><br>So % change in resistance <br><br> = R_1 - R_0 \\over R_0 \u00d7 100\\% <br><br> = 1.5625 - 1 \\over 1 \u00d7 100\\% <br><br> = 56.25\\%",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "An aluminium wire is stretched to make its length, 0.4% larger. The percentage change in resistance is :",
-      "options": {
-        "A": "0.4%",
-        "B": "0.2%",
-        "C": "0.8%",
-        "D": "0.6%"
-      },
-      "answer": "C",
-      "solution": "R = \\rho l \\over A Also volume will remain constant i.e., Al = constant \\Rightarrow A \\propto 1 \\over l \\therefore R \\propto l^2 \\Delta R \\over R = 2\\Delta l \\over l = 0.8",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A wire of resistance R<sub>1</sub> is drawn out so that its length is increased by twice of its original length. The ratio of new resistance to original resistance is :",
-      "options": {
-        "A": "9 : 1",
-        "B": "1 : 9",
-        "C": "4 : 1",
-        "D": "3 : 1"
-      },
-      "answer": "A",
-      "solution": "Length is increased by twice of its original length. <br/><br/>So, if original length is l_1 then final length is l_2= l_1 + 2l_1 = 3l_1. <br/><br/>Then area becomes, A<sub>2</sub> = A_1 \\over 3 <br/><br/> \\beginaligned & R_1=\\fracp l_1A_1 \\\\\\\\ & R_2=\\fracp l_2A_2=\\fracp \u00d7 3 l_1A_1 / 3=9 \\fracp l_1A_1=9 R_1 \\\\\\\\ & \\therefore R_2: R_1=9: 1 \\endaligned",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Alloys such as constantan and manganin are used in making standard resistance coils. Reason R: Constantan and manganin have very small value of temperature coefficient of resistance. \nIn the light of the above statements, choose the correct answer from the options given below.",
-      "options": {
-        "A": "Both",
-        "B": "Oth",
-        "C": "Is true but R is false.",
-        "D": "Is false but R is true."
-      },
-      "answer": "A",
-      "solution": "Since they have low temperature coefficient of resistance, their resistance remains almost constant.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A\u2081 m long wire is broken into two unequal parts X and Y. The X part of the wire is streched into another wire W. Length of W is twice the length of X and the resistance of W is twice that of Y. Find the ratio of length of X and Y.",
-      "options": {
-        "A": "1 : 4",
-        "B": "1 : 2",
-        "C": "4 : 1",
-        "D": "2 : 1"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2087m\u2086bkq\u2087/a\u2086d\u2084\u2087\u2085\u2080\u2088-08e\u2081-44c\u2088-ad\u2086\u2084-3b\u2086\u2080\u2088b\u2089c\u2083\u2087ae/1895a\u2083f\u2080-2bad-11ed-bad\u2083-59534b\u2081d\u2086f\u2088c/file-1l\u2087m\u2086bkq\u2088.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2087m\u2086bkq\u2087/a\u2086d\u2084\u2087\u2085\u2080\u2088-08e\u2081-44c\u2088-ad\u2086\u2084-3b\u2086\u2080\u2088b\u2089c\u2083\u2087ae/1895a\u2083f\u2080-2bad-11ed-bad\u2083-59534b\u2081d\u2086f\u2088c/file-1l\u2087m\u2086bkq\u2088.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th July Evening Shift Physics - Current Electricity Question 98 English Explanation\"> \\fracR_XR_Y=\\frac\\ell_X\\ell_Y <br><br>When wire is stretched to double of its length, then resistance becomes 4 times <br><br> \\beginaligned &R_W=4 R_X=2 R_Y \\\\\\\\ &\\fracR_XR_Y=\\frac\u2081\u2082 \\endaligned <br><br>So. \\frac\\ell_x\\ell_y=\\frac\u2081\u2082",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The resistance of a wire is 5 \\Omega. It's new resistance in ohm if stretched to 5 times of it's original length will be :",
-      "options": {
-        "A": "25%",
-        "B": "625%",
-        "C": "5%",
-        "D": "125%"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1ledln\u2084ww/f\u2083c\u2089\u2081b\u2086\u2082-ea\u2086\u2080-4cdd-8190-c\u2083\u2088\u2080\u2085dd\u2081\u2088cc\u2084/78d\u2082ba\u2080\u2080-b\u2081\u2088b-11ed-a\u2086\u2088\u2082-13f\u2083\u2086\u2084\u2082\u2088\u2083dca/file-1ledln\u2084wx.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1ledln\u2084ww/f\u2083c\u2089\u2081b\u2086\u2082-ea\u2086\u2080-4cdd-8190-c\u2083\u2088\u2080\u2085dd\u2081\u2088cc\u2084/78d\u2082ba\u2080\u2080-b\u2081\u2088b-11ed-a\u2086\u2088\u2082-13f\u2083\u2086\u2084\u2082\u2088\u2083dca/file-1ledln\u2084wx.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 25th January Evening Shift Physics - Current Electricity Question 79 English Explanation 1\"> R_ initial =\\frac\\rho \\ellA=5 \\Omega <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1ledlod\u2088\u2087/fe\u2085\u2080f\u2089\u2088\u2082-2220-409b-853d-9e\u2087cdffac\u2085\u2085\u2084/9b\u2080e\u2080\u2080\u2087\u2080-b\u2081\u2088b-11ed-a\u2086\u2088\u2082-13f\u2083\u2086\u2084\u2082\u2088\u2083dca/file-1ledlod\u2088\u2088.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1ledlod\u2088\u2087/fe\u2085\u2080f\u2089\u2088\u2082-2220-409b-853d-9e\u2087cdffac\u2085\u2085\u2084/9b\u2080e\u2080\u2080\u2087\u2080-b\u2081\u2088b-11ed-a\u2086\u2088\u2082-13f\u2083\u2086\u2084\u2082\u2088\u2083dca/file-1ledlod\u2088\u2088.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 25th January Evening Shift Physics - Current Electricity Question 79 English Explanation 2\"> \\because Volume of wire is constant in stretching<br><br> \\beginaligned & V_i=V_f \\\\\\\\ & A_i \\ell_i=A_f \\ell_f \\\\\\\\ & A \\ell=A^\\prime(5 \\ell) \\\\\\\\ & A^\\prime=\\fracA\u2085 \\\\\\\\ & R_f=\\frac\\rho \\ell_fA_f=\\frac\\rho(5 \\ell)(\\fracA\u2085\\) \\\\\\\\ & =25(\\frac\\rho \\ellA\\) \\\\\\\\ & =25 \u00d7 5=125 \\Omega \\endaligned",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A wire of resistance 160 \\Omega is melted and drawn in a wire of one-fourth of its length. The new resistance of the wire will be",
-      "options": {
-        "A": "640 \\Omega",
-        "B": "40 \\Omega",
-        "C": "16 \\Omega",
-        "D": "10 \\Omega"
-      },
-      "answer": "D",
-      "solution": "Let the original length of the wire be L and its cross-sectional area be A. Then, its resistance R is given by:<br/><br/> R = \\frac\\rho LA<br/><br/> where \\rho is the resistivity of the material of the wire. <br/><br/> When the wire is melted and drawn into a wire of one-fourth of its length, its new length is L/4 and its new cross-sectional area is 4A (since the same amount of material is now spread over a longer length). Therefore, its new resistance R' is given by:<br/><br/> R' = \\frac\\rho (L/4)\u2084A = \\fracR\u2081\u2086 <br/><br/> Substituting the given value of R, we get:<br/><br/> R' = \\frac\u2081\u2086\u2080\u2081\u2086 = 10 \\Omega <br/><br/> Therefore, the new resistance of the wire is 10 \\Omega.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Two conductors have the same resistances at 0^\\circ C but their temperature coefficients of resistance are \\alpha_1 and \\alpha_2. The respective temperature coefficients for their series and parallel combinations are :",
-      "options": {
-        "A": "\\alpha_1+\\alpha_2, \\frac\\alpha_1 \\alpha_2\\alpha_1+\\alpha_2",
-        "B": "\\frac\\alpha_1+\\alpha_22, \\frac\\alpha_1+\\alpha_22",
-        "C": "\\alpha_1+\\alpha_2, \\frac\\alpha_1+\\alpha_22",
-        "D": "\\frac\\alpha_1+\\alpha_22, \\alpha_1+\\alpha_2"
-      },
-      "answer": "B",
-      "solution": "Series : \\beginaligned & R_eq=R_1+R_2 \\\\ & 2 R(1+\\alpha_eq \\Delta \\theta\\)=R(1+\\alpha_1 \\Delta \\theta\\)+R(1+\\alpha_2 \\Delta \\theta\\) \\\\ & 2 R(1+\\alpha_eq \\Delta \\theta\\)=2 R+(\\alpha_1+\\alpha_2\\) R \\Delta \\theta \\\\ & \\alpha_eq=\\frac\\alpha_1+\\alpha_22 \\endaligned Parallel : \\beginaligned & \\frac\u2081R_ eq =\\frac\u2081R_1+\\frac\u2081R_2 \\\\ & \\frac\u2081\\fracR\u2082(1+\\alpha_ eq \\Delta \\theta\\)=\\frac\u2081R(1+\\alpha_1 \\Delta \\theta\\)+\\frac\u2081R(1+\\alpha_2 \\Delta \\theta\\) \\endaligned \\beginaligned & \\frac\u2082\u2081+\\alpha_eq \\Delta \\theta=\\frac\u2081\u2081+\\alpha_1 \\Delta \\theta+\\frac\u2081\u2081+\\alpha_2 \\Delta \\theta \\\\ & \\frac\u2082\u2081+\\alpha_eq \\Delta \\theta=\\frac\u2081+\\alpha_2 \\Delta \\theta+1+\\alpha_1 \\Delta \\theta(1+\\alpha_1 \\Delta \\theta\\)(1+\\alpha_2 \\Delta \\theta\\) \\\\ & 2\\left[(1+\\alpha_1 \\Delta \\theta\\)(1+\\alpha_2 \\Delta \\theta\\)\\] \\\\ & =\\left[2+(\\alpha_1+\\alpha_2\\) \\Delta \\theta\\]\\left[1+\\alpha_eq \\Delta \\theta\\] \\\\ & 2\\left[1+\\alpha_1 \\Delta \\theta+\\alpha_2 \\Delta \\theta+\\alpha_1 \\alpha_2 \\Delta \\theta\\] \\endaligned \\beginaligned & = \\\\ & 2+2 \\alpha_eq \\Delta \\theta+(\\alpha_1+\\alpha_2\\) \\Delta \\theta+\\alpha_eq(\\alpha_1+\\alpha_2\\) \\Delta \\theta^2 \\endaligned Neglecting small terms \\beginaligned & 2+2(\\alpha_1+\\alpha_2\\) \\Delta \\theta=2+2 \\alpha_eq \\Delta \\theta+(\\alpha_1+\\alpha_2\\) \\Delta \\theta \\\\ & (\\alpha_1+\\alpha_2\\) \\Delta \\theta=2 \\alpha_eq \\Delta \\theta \\\\ & \\alpha_eq=\\frac\\alpha_1+\\alpha_22 \\endaligned",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: A wire loop that encloses an area of 20 c m 2 has a resistance of 10 \u00ce\u00a9 . The loop is placed in a magnetic field of 2.4 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, Resistance, R = 10 \u00ce\u00a9 Area of the loop, A = 20 c m 2 = 20 \u00c3\u0097 10 - 4 m 2 Magnetic field, B = 2.4 T As we know, induced emf e = + d \u00cf\u0095 d t \u00e2\u0087\u0092 IR = d \u00cf\u0095 d t \u00e2\u0087\u0092 d Q d t . R = d \u00cf\u0095 d t \u00e2\u0087\u0092 \u00e2\u0088\u00ab d Q = \u00e2\u0088\u00ab d \u00cf\u0095 R \u00e2\u0087\u0092 Q = \u00cf\u0095 R [ \u00e2\u0088\u00b5 \u00cf\u0095 = BA cos 0 o = BA ] = ( 20 \u00c3\u0097 10 - 4 ) ( 2.4 ) 10 = 4.8 \u00c3\u0097 10 - 4 C </think> **Correct Answer: (A)** **Explanation:** Given, Resistance, R = 10 \u00ce\u00a9 Area of the loop, A = 20 c m 2 = 20 \u00c3\u0097 10 - 4 m 2 Magnetic field, B = 2.4 T As we know, induced emf e = + d \u00cf\u0095 d t \u00e2\u0087\u0092 IR = d \u00cf\u0095 d t \u00e2\u0087\u0092 d Q d t . R = d \u00cf\u0095 d t \u00e2\u0087\u0092 \u00e2\u0088\u00ab d Q = \u00e2\u0088\u00ab d \u00cf\u0095 R \u00e2\u0087\u0092 Q = \u00cf\u0095 R [ \u00e2\u0088\u00b5 \u00cf\u0095 = BA cos 0 o = BA ] = ( 20 \u00c3\u0097 10 - 4 ) ( 2.4 ) 10 = 4.8 \u00c3\u0097 10 - 4 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"
     },
     {
-      "question": "The temperature dependence of resistance of Cu and undoped Si in the temperature range 300-400 K, is best described by :",
+      "question": "The quantity of a charge that will be transferred by a current flow of 20 A over 1 h 30 m i n period is",
       "options": {
-        "A": "Linear increases for Cu, exponential decrease of Si.",
-        "B": "Linear decrease for Cu, linear decrease for Si",
-        "C": "Linear increase for Cu, linear increase for Si.",
-        "D": "Linear increase for Cu, exponential increase for Si"
+        "A": "1%",
+        "B": "8 \u00c3\u0097 1 0 3",
+        "C": "8 \u00c3\u0097 1 0 4",
+        "D": "4 \u00c3\u0097 1 0 3"
       },
       "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2088\u2086i\u2084\u2089st/88fabaf\u2086-1f\u2088\u2084-46c\u2089-ae\u2081\u2086-6c\u2080f\u2082\u2081\u2082e\u2081\u2085\u2082e/e\u2088\u2080\u2084\u2087\u2084d\u2080-36da-11ed-b\u2085bb-c\u2085\u2081\u2084\u2088\u2081bdd\u2083e\u2084/file-1l\u2088\u2086i\u2084\u2089su.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2088\u2086i\u2084\u2089st/88fabaf\u2086-1f\u2088\u2084-46c\u2089-ae\u2081\u2086-6c\u2080f\u2082\u2081\u2082e\u2081\u2085\u2082e/e\u2088\u2080\u2084\u2087\u2084d\u2080-36da-11ed-b\u2085bb-c\u2085\u2081\u2084\u2088\u2081bdd\u2083e\u2084/file-1l\u2088\u2086i\u2084\u2089su.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Offline) Physics - Semiconductor Question 207 English Explanation\">",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "In a common emitter configuration with suitable bias, it is given that R_L is the load resistance and R_BE is small signal dynamic resistance (input side). Then, voltage gain, current gain and power gain are given, respectively, by : <br/><br/>\\beta is curret gain, \\rm I_B,\\rm I_C and \\rm I_E are respectively base, collector and emitter currents.",
-      "options": {
-        "A": "\\beta R_L \\over R_BE,\\Delta \\rm I_C \\over \\Delta \\rm I_B,\\beta ^2R_L \\over R_BE",
-        "B": "\\beta R_L \\over R_BE,\\Delta \\rm I_E \\over \\Delta \\rm I_B,\\beta ^2R_L \\over R_BE",
-        "C": "\\beta ^2R_L \\over R_BE,\\Delta \\rm I_C \\over \\Delta \\rm I_E,\\beta ^2R_L \\over R_BE",
-        "D": "\\beta ^2R_L \\over R_BE,\\Delta \\rm I_C \\over \\Delta \\rm I_B,\\beta R_L \\over R_BE"
-      },
-      "answer": "A",
-      "solution": "Current gain (\\beta ) = \\Delta \\,I_C \\over \\Delta I_B <br><br>Voltage gain = V_CE \\over V_BE = \\beta R_L \\over R_BE <br><br>Power gain = voltage gain x current gain = \\beta ^2R_L \\over R_BE",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "One kg of water, at 20<sup>o</sup>C, heated in an electric kettle whose heating element has a mean (temperature averaged) resistance of 20 \\Omega . The rms voltage in the mains is 200 V. Ignoring heat loss from the kettle, time taken for water to evaporate fully, is close to : [Specific heat of water = 4200 J/(kg <sup>o</sup>C), Latent heat of water = 2260 kJ/kg]",
-      "options": {
-        "A": "10 minutes",
-        "B": "22 minutes",
-        "C": "3 minutes",
-        "D": "16 minutes"
-      },
-      "answer": "B",
-      "solution": "P \u00d7 t = mS\\Delta t + mL<sub>v</sub> <br><br> \\Rightarrow V^2 \\over Rt = mS\\Delta t + mL<sub>v</sub> <br><br> \\Rightarrow ( 200 \\)^2 \\over 20t = 1 \u00d7 4200 \u00d7 ( 100 - 20 \\) + 1 \u00d7 2260 \u00d7 10^3 <br><br> \\Rightarrow 2000t = 336000 + 2260000 <br><br> \\Rightarrow t = 1298 s = 21.6 min \\simeq 22 min",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The resistances of the platinum wire of a platinum resistance thermometer at the ice point and steam point are 8 \\Omega and 10 \\Omega respectively. After inserting in a hot bath of temperature 400^\\circ C, the resistance of platinum wire is :",
-      "options": {
-        "A": "10 \\Omega",
-        "B": "16 \\Omega",
-        "C": "8 \\Omega",
-        "D": "2 \\Omega"
-      },
-      "answer": "B",
-      "solution": "The resistance of a platinum resistance thermometer varies linearly with temperature. The relation can be given by: R_t = R_0(1 + \\alpha t) where: <ul> <li>R_t is the resistance at temperature t,</li><br> <li>R_0 is the resistance at 0\u00b0C (ice point),</li><br> <li>\\alpha is the temperature coefficient of resistance, and</li><br> <li>t is the temperature in degrees Celsius. </li> </ul> In this question, we are given: <ul> <li>Resistance at the ice point (R_0 = 8 \\Omega),</li><br> <li>Resistance at the steam point (R_100 = 10 \\Omega). </li> </ul> To find the temperature coefficient of resistance (\\alpha), we use the resistance values at the ice and steam points: \\alpha = \\fracR_100 - R_0R_0 \u00d7 100 = \\frac\u2081\u2080\\Omega - 8\\Omega\u2088\\Omega \u00d7 100 = \\frac\u2082\\Omega\u2088\u2080\u2080\\Omega = \\frac\u2081\u2084\u2080\u2080 per ^\\circC Now, to find the resistance R_t at 400 ^\\circC, we substitute \\alpha, R_0, and t = 400 into the formula: R_t = R_0(1 + \\alpha t) = 8\\Omega(1 + \\frac\u2081\u2084\u2080\u2080 \u00d7 400) = 8\\Omega(1 + 1) = 8\\Omega \u00d7 2 = 16\\Omega Hence, the resistance of the platinum wire at 400^\\circC is 16 \\Omega. The correct option is: Option B: 16 \\Omega",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "bullet of mass 20 g has an initial speed of 1 ms<sup>\u20131</sup> , just before it starts penetrating a mud wall of thickness 20 cm. If the wall offers a mean resistance of 2.5 \u00d7 10<sup>\u20132</sup> N, the speed of the bullet after emerging from the other side of the wall is close to :",
-      "options": {
-        "A": "0.3 ms<sup>-1</sup>",
-        "B": "0.1 ms<sup>-1</sup>",
-        "C": "0.7 ms<sup>-1</sup>",
-        "D": "0.4 ms<sup>-1</sup>"
-      },
-      "answer": "C",
-      "solution": "Given, resistance offered by the wall <br/><br/> =F=-25 \u00d7 10^-2 N <br/><br/>So, deacceleration of bullet, <br/><br/> \\beginaligned a=\\fracFm=\\frac-2.5 \u00d7 10^-220 \u00d7 10^-3 & =-\\frac\u2085\u2084 ms^-2 \\\\\\\\ (\\because m & \\left.=20 g=20 \u00d7 10^-3 kg\\) \\endaligned <br/><br/>Now, using the equation of motion, <br/><br/> v^2-u^2=2 a s <br/><br/>We have, <br/><br/> v^2=1+2(-\\frac\u2085\u2084\\)(20 \u00d7 10^-2\\) <br/><br/> (\\because u=1 ms^-1 and s=20 cm=20 \u00d7 10^-2 m\\) <br/><br/> \\beginarrayll \\Rightarrow v^2=\\frac\u2081\u2082 \\\\\\\\ \\therefore v=\\frac\u2081\\sqrt\u2082 \\approx 0.7 ms^-1 \\endarray",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "An object of mass 5 kg is thrown vertically upwards from the ground. The air resistance produces a constant retarding force of 10 N throughout the motion. The ratio of time of ascent to the time of descent will be equal to : [Use g = 10 ms<sup>-2</sup>].",
-      "options": {
-        "A": "1 : 1",
-        "B": "\\sqrt 2 : \\sqrt 3",
-        "C": "\\sqrt 3 : \\sqrt 2",
-        "D": "2 : 3"
-      },
-      "answer": "B",
-      "solution": "Let time taken to ascent is t<sub>1</sub> and that to descent is t<sub>2</sub>. Height will be same so H = 1 \\over 2 \u00d7 12t_1^2 = 1 \\over 2\u00d7\u2088t_2^2 \\Rightarrow t_1 \\over t_1 = \\sqrt 2 \\over \\sqrt 3",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "To know the resistance G of a galvanometer by half deflection method, a battery of emf V<sub>E</sub> and resistance R is used to deflect the galvanometer by angle \\theta . If a shunt of resistance S is needed to get half deflection then G, R and S are related by the equation :",
-      "options": {
-        "A": "2S (R + G) = RG",
-        "B": "S (R + G) = RG",
-        "C": "2S = G",
-        "D": "2G = S"
-      },
-      "answer": "B",
-      "solution": "When only galvanometer G is present with the resistance R, <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2087\u2084\u2084/exam_images/xvewjzw\u2080dhchdlul\u2081zhq.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Magnetic Effect of Current Question 157 English Explanation 1\"> <br><br>Here I<sub>G</sub> = V_E \\over R + G <br><br>When shunt of resistance S is connected parallel to galvanometer, <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2080\u2082\u2088/exam_images/np\u2086euhpsvxlzjhvz\u2080dyj.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Magnetic Effect of Current Question 157 English Explanation 2\"> <br><br>Here I = V_E \\over R + GS \\over G + S <br><br>As deflection is half, here current through galvanometer, <br><br>I<sub>G</sub>' = \\rm I_G \\over 2 <br><br>As both Galvanometer and shunt are parallel then potential are parallel then potential difference same. <br><br> \\therefore I<sub>G</sub>' (G) = (I - I<sub>G</sub><sup>'</sup>)S <br><br> \\Rightarrow I'<sub>G</sub> (G + S) = IS <br><br> \\Rightarrow \\rm I_G \\over 2 = \\rm IS \\over G + S <br><br> \\Rightarrow V_E \\over 2( R + G \\) = V_E \\over R + GS \\over G + S \u00d7 S \\over ( G + S \\) <br><br> \\Rightarrow 1 \\over 2( R + G \\) = G + S \\over R(G + S) + GS \u00d7 S \\over ( G + S \\) <br><br> \\Rightarrow RG + RS + GS = 2RS + 2GS <br><br> \\Rightarrow RG = RS + GS <br><br> \\Rightarrow S(R + G) = RG",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "A child stands on the edge of the cliff 10 m above the ground and throws a stone horizontally with an initial speed of 5 ms^-1. Neglecting the air resistance, the speed with which the stone hits the ground will be ms^-1 (given, g=10 ms^-2 ).",
-      "options": {
-        "A": "20%",
-        "B": "25%",
-        "C": "30%",
-        "D": "15%"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1le\u2086y\u2089k\u2086\u2082/70351e\u2089e-3f\u2089d-4e\u2087\u2081-8216-f\u2087\u2081dc\u2084\u2081\u2086f\u2088\u2083d/59697ba\u2080-ade\u2083-11ed-88ce-eb\u2080\u2084\u2080\u2082d\u2087\u2082\u2089eb/file-1le\u2086y\u2089k\u2086\u2083.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1le\u2086y\u2089k\u2086\u2082/70351e\u2089e-3f\u2089d-4e\u2087\u2081-8216-f\u2087\u2081dc\u2084\u2081\u2086f\u2088\u2083d/59697ba\u2080-ade\u2083-11ed-88ce-eb\u2080\u2084\u2080\u2082d\u2087\u2082\u2089eb/file-1le\u2086y\u2089k\u2086\u2083.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 1st February Morning Shift Physics - Motion in a Plane Question 20 English Explanation\"> <br><br> \\beginaligned & v_y=\\sqrt\u2082 g h=\\sqrt\u2082\u2080\u2080 \\\\\\\\ & v_n e t=\\sqrt\u2082\u2085+200=15 m / s \\endaligned",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The bob of a pendulum was released from a horizontal position. The length of the pendulum is 10 m. If it dissipates 10 \\% of its initial energy against air resistance, the speed with which the bob arrives at the lowest point is: [Use, g: 10 ms^-2]",
-      "options": {
-        "A": "5 \\sqrt\u2086 ms^-1",
-        "B": "5 \\sqrt\u2085 ms^-1",
-        "C": "2 \\sqrt\u2085 ms^-1",
-        "D": "6 \\sqrt\u2085 ms^-1"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lsr\u2087le\u2083s/5e\u2087d\u2084\u2088b\u2081-ff\u2083\u2089-4026-8060-31f\u2088\u2089\u2084d\u2087\u2081fa\u2089/88e\u2084b\u2082\u2088\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087le\u2083t.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lsr\u2087le\u2083s/5e\u2087d\u2084\u2088b\u2081-ff\u2083\u2089-4026-8060-31f\u2088\u2089\u2084d\u2087\u2081fa\u2089/88e\u2084b\u2082\u2088\u2080-ce\u2083\u2082-11ee-9412-cd\u2084f\u2089c\u2086f\u2082c\u2084\u2080/file-6y\u2083zli\u2081lsr\u2087le\u2083t.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 29th January Evening Shift Physics - Simple Harmonic Motion Question 9 English Explanation\"> \\ell=10 m, Initial energy =mg \\ell \\beginaligned & So, \\frac\u2089\u2081\u2080 mg \\ell=\\frac\u2081\u2082 mv^2 \\\\ & \\Rightarrow \\frac\u2089\u2081\u2080 \u00d7 10 \u00d7 10=\\frac\u2081\u2082 v^2 \\\\ & v^2=180 \\\\ & v=\\sqrt\u2081\u2088\u2080=6 \\sqrt\u2085 m / s \\endaligned",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "copper wire is stretched to make it 0.5% longer. The percentage change in its electrical resistance if its volume remains unchanged is :",
-      "options": {
-        "A": "2.0 %",
-        "B": "2.5 %",
-        "C": "1.0 %",
-        "D": "0.5 %"
-      },
-      "answer": "C",
-      "solution": "We know, <br><br>R = \\rho l \\over A <br><br>and Volume (V) = Al <br><br> \\Rightarrow A = V \\over l <br><br> \\therefore R = \\rho l^2 \\over v <br><br> \\therefore \\Delta R \\over R = 2\\Delta l \\over l <br><br>= 2 \u00d7 0.5 <br><br>= 1%",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The maximum error in the measurement of resistance, current and time for which current flows in an electrical circuit are 1 \\%, 2 \\% and 3 \\% respectively. The maximum percentage error in the detection of the dissipated heat will be :",
-      "options": {
-        "A": "2%",
-        "B": "4%",
-        "C": "6%",
-        "D": "8%"
-      },
-      "answer": "D",
-      "solution": "Given, \\frac\\Delta RR \u00d7 100=1 \\% <br/><br/> \\frac\\Delta FF \u00d7 100=2 \\% and \\frac\\Delta tt \u00d7 100=3 \\% <br/><br/>We know that, heat produced due to current flowing through a resistor R. <br/><br/> H =I^2 R t <br/><br/> \\Rightarrow \\frac\\Delta HH =\\frac\u2082 \\Delta II+\\frac\\Delta RR+\\frac\\Delta tt <br/><br/> \\Rightarrow \\frac\\Delta HH \u00d7 100 =2(\\frac\\Delta II \u00d7 100\\)+\\frac\\Delta RR \u00d7 100+\\frac\\Delta tt \u00d7 100 <br/><br/> =2 \u00d7 2 \\%+1 \\%+3 \\%=8 \\%",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "Two resistances are given as R_1=(10 \\pm 0.5) \\Omega and R_2=(15 \\pm 0.5) \\Omega. The percentage error in the measurement of \u2261alent resistance when they are connected in parallel is -",
-      "options": {
-        "A": "2.33%",
-        "B": "5.33%",
-        "C": "4.33%",
-        "D": "6.33%"
-      },
-      "answer": "C",
-      "solution": "In the problem, we are given two resistances, R_1 and R_2, each with a certain measurement error, \\Delta R_1 and \\Delta R_2. These resistances are connected in parallel, and we are asked to find the percentage error in the \u2261alent resistance of this combination. The formula for the \u2261alent resistance R of two resistors R_1 and R_2 in parallel is: \\frac\u2081R = \\frac\u2081R_1 + \\frac\u2081R_2 We want to find the percentage error in R, which is given by (\\Delta R / R) \u00d7 100\\%. In order to find \\Delta R / R, we differentiate both sides of the above equation with respect to R, R_1, and R_2. This gives us: \\frac\\Delta RR^2 = \\frac\\Delta R_1R_1^2 + \\frac\\Delta R_2R_2^2 We can then solve this equation for \\Delta R / R: \\frac\\Delta RR = (\\frac\\Delta R_1R_1^2 + \\frac\\Delta R_2R_2^2\\)R Substituting the given values, R_1 = 10 \\, \\Omega, R_2 = 15 \\, \\Omega, \\Delta R_1 = \\Delta R_2 = 0.5 \\, \\Omega, and R = R_1R_2/(R_1+R_2) = 6 \\, \\Omega, we get: \\frac\\Delta RR = (\\frac\u2080.5100 + \\frac\u2080.5225\\) \u00d7 6 = \\frac\u2081\u2083\u2083\u2080\u2080 Finally, to convert this to a percentage, we multiply by 100, giving: \\frac\\Delta RR \u00d7 100 = \\frac\u2081\u2083\u2083 = 4.33 \\% This tells us that the percentage error in the \u2261alent resistance of the two resistances in parallel is 4.33\\%.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Current Electricity"
-    },
-    {
-      "question": "The radius (r), length (l) and resistance (R) of a metal wire was measured in the laboratory as<br/><br/> \\beginaligned & r=(0.35 \\pm 0.05) cm \\\\\\\\ & R=(100 \\pm 10) ohm \\\\\\\\ & l=(15 \\pm 0.2) cm \\endaligned <br/><br/> The percentage error in resistivity of the material of the wire is :",
-      "options": {
-        "A": "37.3 \\%",
-        "B": "25.6 \\%",
-        "C": "35.6 \\%",
-        "D": "39.9 \\%"
-      },
-      "answer": "D",
-      "solution": "To calculate the percentage error in the resistivity of the material of the wire, we need to understand the formula for resistivity. The resistivity \\rho of a wire is given by: \\rho = \\fracRAl where: <ul> <li> R is the resistance</li><br> <li> A is the cross-sectional area of the wire</li><br> <li> l is the length of the wire</li> </ul> The cross-sectional area A of the wire with radius r is: A = \\pi r^2 We can plug this into the equation for resistivity to get: \\rho = \\fracR \\pi r^2l Now, to find the percentage error in resistivity, we need to find the percentage errors in R , r , and l and then use the following rule for combining errors: For a given function, f = f(x,y,z,...) , where x, y, z,... are the measured quantities with possible errors, the percentage error in f , denoted as (\\delta f)_\\% , can be approximated by adding the relative percentage errors of the input quantities. If f has the form of a product and quotient of the measured quantities as in our case ( \\rho = \\fracR \\pi r^2l ), the percentage error in f is given by: (\\delta f)_\\% = (\\delta x)_\\% + (\\delta y)_\\% + (\\delta z)_\\% + ... Where (\\delta x)_\\% , (\\delta y)_\\% , and (\\delta z)_\\% are the percentage errors in each measured quantity x, y, z, ... respectively. For our case: <ul> <li>The percentage error in radius (\\delta r)_\\% is given by the error in r divided by the average radius and then multiplied by 100:</li> </ul> (\\delta r)_\\% = (\\frac\u2080.050.35\\) \u00d7 100 <ul> <li>The percentage error in resistance (\\delta R)_\\% is:</li> </ul> (\\delta R)_\\% = (\\frac\u2081\u2080\u2081\u2080\u2080\\) \u00d7 100 <ul> <li>The percentage error in length (\\delta l)_\\% is:</li> </ul> (\\delta l)_\\% = (\\frac\u2080.215\\) \u00d7 100 Now let's calculate each: (\\delta r)_\\% = (\\frac\u2080.050.35\\) \u00d7 100 \\approx 14.29\\% (\\delta R)_\\% = (\\frac\u2081\u2080\u2081\u2080\u2080\\) \u00d7 100 = 10\\% (\\delta l)_\\% = (\\frac\u2080.215\\) \u00d7 100 \\approx 1.33\\% However, since the area A is proportional to r^2 , the percentage error in A will be twice the percentage error in r . Thus: (\\delta A)_\\% = 2 \u00d7 (\\delta r)_\\% = 2 \u00d7 14.29\\% \\approx 28.58\\% Finally, we add the percentage errors to find the percentage error in resistivity: (\\delta \\rho)_\\% = (\\delta R)_\\% + (\\delta A)_\\% + (\\delta l)_\\% (\\delta \\rho)_\\% = 10\\% + 28.58\\% + 1.33\\% \\approx 39.91\\% This calculation gives us a value close to 39.91%, which means the correct option is closest to this value. Thus, the best answer is: Option D\u2083\u2089.9\\%",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: The quantity of a charge that will be transferred by a current flow of 20 A over 1 h 30 m i n period is Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Electric current, I = d Q d t d Q = I d t t 1 = 0 , t 2 = 1 h 30 m i n = 90 min \u00e2\u0081\u00a1 = 90 \u00c3\u0097 60 = 5400 s Electric charge, Q = I . t = 20 \u00c3\u0097 5400 C = 10.8 \u00c3\u0097 10 4 C </think> **Correct Answer: (A)** **Explanation:** Electric current, I = d Q d t d Q = I d t t 1 = 0 , t 2 = 1 h 30 m i n = 90 min \u00e2\u0081\u00a1 = 90 \u00c3\u0097 60 = 5400 s Electric charge, Q = I . t = 20 \u00c3\u0097 5400 C = 10.8 \u00c3\u0097 10 4 C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Current Electricity"

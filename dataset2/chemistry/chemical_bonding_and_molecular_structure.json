@@ -1,1491 +1,290 @@
 {
   "subject": "Chemistry",
   "chapter": "Chemical Bonding and Molecular Structure",
-  "total_questions": 99,
+  "total_questions": 19,
   "questions": [
     {
-      "question": "Examine the Molecular Orbital (MO) energy level sequence for the N\u2082 molecule (14 electrons) below. What is the calculated Bond Order for N\u2082?",
-      "image_path": "dataset2/images/chem_mo_diagram.png",
-      "options": {
-        "A": "3.0%",
-        "B": "2.5%",
-        "C": "2.0%",
-        "D": "1.0%"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **MOT Theory:** Bond Order = \\frac\u2081\u2082 (N_b - N_a) = \\frac\u2081\u2082 (10 - 4) = 3.0. A bond order of 3 reflects the stable triple bond (N \u2261 N).",
-      "exam": "NEET CBT Chemical Bonding MO Diagram PYQ",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "[NEET 2019 | Chemistry] Which of the following molecules is paramagnetic?",
-      "options": {
-        "A": "N\\u\u2082\u2080\u2088\u2082",
-        "B": "F\\u\u2082\u2080\u2088\u2082",
-        "C": "O\\u\u2082\u2080\u2088\u2082",
-        "D": "CO"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(C) O\u2082** ## Why O\u2082 is Paramagnetic **Key Concept:** A molecule is **paramagnetic** if it contains **unpaired electrons**. ### Detailed Analysis of O\u2082: **Step 1: Count valence electrons** - Oxygen: 6 valence electrons \u00d7 2 = 12 total electrons **Step 2: Write the Molecular Orbital (MO) configuration** For O\u2082, following the aufbau principle and Hund's rule: ``` \u03c31s\u00b2 \u03c3*1s\u00b2 \u03c32s\u00b2 \u03c3*2s\u00b2 \u03c02p\u2074 \u03c0*2p\u00b2 ``` **Step 3: Focus on the outermost orbitals** The last two electrons fill the \u03c0* antibonding orbitals: - \u03c0*2px\u00b9 (one unpaired electron) - \u03c0*2py\u00b9 (one unpaired electron) **Two unpaired electrons** \u2192 O\u2082 is **PARAMAGNETIC** \u2713 --- ## Why Others Are Wrong: | Molecule | Unpaired Electrons | Property | |----------|-------------------|----------| | **N\u2082** | 0 | Diamagnetic (very stable, all paired) | | **F\u2082** | 0 | Diamagnetic (all electrons paired) | | **CO** | 0 | Diamagnetic (all electrons paired) | --- ## Key Formula to Remember: **Magnetic moment (\u03bc) = \u221a[n(n+2)] B.M.** - Where n = number of unpaired electrons - B.M. = Bohr Magneton For O\u2082: \u03bc = \u221a[2(2+2)] = \u221a8 \u2248 2.83 B.M. (This matches experimental data!) **NEET Tip:** O\u2082's paramagnetism is a classic NEET question. Remember that \u03c0* antibonding orbitals have electrons placed singly (Hund's rule) before pairing!",
-      "exam": "NEET 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following statements is correct?",
-      "options": {
-        "A": "The bond length in CO is",
-        "B": "128 \u00c3 and CO + is",
-        "C": "115 \u00c3 because during conversion of CO to CO + , electron is removed from anti bonding orbital",
-        "D": "115 \u00c3 and CO + is"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Because of the greater difference in electronegativity between C and O , the energy of the molecular orbitals in CO are in the following order \u03c3 1 s 2 \u03c3 1 s * 2 \u03c3 2 s 2 \u03c0 2 p y 2 = \u03c0 2 p z 2 \u03c3 2 p z 2 \u03c3 2 s * 2 Bond order in CO = 12 10 \u2013 4 = 3 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The B\u2013A\u2013B angle of SO 2 molecule is:",
-      "options": {
-        "A": "10%",
-        "B": "5 B\u2081\u2080\u2087 C\u2081\u2080",
-        "C": "5 D\u2081\u2081",
-        "D": "5%"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 4119.5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "[NEET 2016 | Chemistry] Compound containing ionic, covalent AND coordinate bonds:",
-      "options": {
-        "A": "NH\u2084Cl",
-        "B": "NaCl",
-        "C": "SO\u2082",
-        "D": "NH\u2083"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(A) NH\u2084Cl** ## Detailed Explanation ### Structure of NH\u2084Cl NH\u2084Cl contains: - **NH\u2084+** (ammonium ion) - **Cl-** (chloride ion) ### Types of Bonds Present: 1. **Covalent Bonds** (N-H) - Three normal covalent N-H bonds formed by sharing of electrons - Each N and H atom contribute equally to these bonds 2. **Coordinate/Dative Bond** (N-H) - One special N-H bond formed when NH\u2083 accepts a proton (H+) - The N atom donates BOTH electrons to form this bond - Shown as: NH\u2083 + H+ \\u\u2082\u2081\u2089\u2082 NH\u2084+ 3. **Ionic Bond** - Between NH\u2084+ and Cl- ions - Electrostatic attraction between positive and negative ions ``` H | H\\\u2014N\\u\u2082\u2080\u2082\u2082\\u\u2082\u2080\u2082\u2082+\\\u2014H [Cl]- | H (coordinate bond) \\u\u2082\u2081\u2089\u2080 Ionic bond \\u\u2082\u2081\u2089\u2082 ``` ### Why Others Are Wrong: | Option | Bonds Present | Missing | |--------|--------------|---------| | (B) NaCl | Only ionic | Covalent, Coordinate | | (C) SO\u2082 | Only covalent | Ionic, Coordinate | | (D) NH\u2083 | Only covalent | Ionic, Coordinate | ## Key Concept to Remember: **Ammonium compounds (NH\u2084+ containing) always have coordinate bonds** because the ammonium ion is formed by NH\u2083 accepting an H+ ion through coordinate bonding.",
-      "exam": "NEET 2016",
-      "year": 2016,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "[NEET 2022 | Chemistry] The shape of XeF\\u\u2082\u2080\u2088\u2084 is:",
-      "options": {
-        "A": "Tetrahedral",
-        "B": "Square planar",
-        "C": "See-saw",
-        "D": "Trigonal bipyramidal"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(B) Square planar** ## Step-by-Step Reasoning: ### Step 1: Count Valence Electrons Around Xe - Xenon (Group 18): 8 valence electrons - 4 bonds to Fluorine atoms use: 4 electrons - Remaining: 8 - 4 = 4 electrons = **2 lone pairs** ### Step 2: Calculate Steric Number **Steric Number = Bonding pairs + Lone pairs = 4 + 2 = 6** ### Step 3: Determine Electron Geometry - Steric number 6 \\u\u2082\u2081\u2089\u2082 **Octahedral electron geometry** ### Step 4: Arrange Electron Pairs In octahedral geometry with 2 lone pairs: - Lone pairs occupy **axial positions** (maximize distance between them) - 4 Bonding pairs occupy **equatorial positions** ``` F (axial) | F \\\u2014 Xe \\\u2014 F (equatorial plane) | F (axial) Lone pairs above and below plane ``` This arrangement creates a **SQUARE PLANAR** molecular shape. ## Why Other Options Are Wrong: | Option | Why It's Wrong | |--------|---| | **(A) Tetrahedral** | Only 4 electron pairs needed; XeF\\u\u2082\u2080\u2088\u2084 has 6 | | **(C) See-saw** | That's for 5 electron pairs (SF\\u\u2082\u2080\u2088\u2084 shape) | | **(D) Trigonal Bipyramidal** | That's for 5 electron pairs (PCl\\u\u2082\u2080\u2088\u2085 shape) | ## Key Formula to Remember: **For steric number 6 with 2 lone pairs \\u\u2082\u2081\u2089\u2082 Square Planar** \\u\u2082\u2087\u2081\u2083 This is a classic example often tested in NEET!",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The dipole moment of L i H is 1.964 \u00c3\u0097 10 - 29 Coulomb meter and the interatomic distance between L i and H is 1.596 \u00c3 . The percentage ionic character of L i H is",
-      "options": {
-        "A": "8%",
-        "B": "5% B\u2086",
-        "C": "2% C\u2087",
-        "D": "8% D\u2089"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** \u00ce\u00b4 = 1.964 \u00c3\u0097 10 - 291.596 \u00c3\u0097 10 - 10 = 1.2306 \u00c3\u0097 10 - 19 C % i o n i c c h a r a c t e r = 1.2306 \u00c3\u0097 10 - 19 \u00c3\u0097 1001.602 \u00c3\u0097 10 - 19 = 76.8 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The B\u2013A\u2013B angle of H\u2082 O molecule is:",
-      "options": {
-        "A": "10%",
-        "B": "5 B\u2081\u2080",
-        "C": "5 C\u2081\u2081",
-        "D": "5 D\u2081\u2080\u2087"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : 2104.5 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The bond angle H - X - H is the greatest in the compound :",
-      "options": {
-        "A": "CH<sub>4</sub>",
-        "B": "NH<sub>3</sub>",
-        "C": "H<sub>2</sub>O",
-        "D": "PH<sub>3</sub>"
-      },
-      "answer": "A",
-      "solution": "CH<sub>4</sub> - sp<sup>3</sup> hybridisation - Bond angle (109<sup>o</sup>28') <br><br>NH<sub>3</sub> - sp<sup>3</sup> hybridisation - Bond angle ( 107.8<sup>o</sup>) <br><br>H<sub>2</sub>O - sp<sup>3</sup> hybridisation - Bond angle ( 104.5<sup>o</sup>) <br><br>PH<sub>3</sub> - No hybridisation - Bond angle ( 90<sup>o</sup>) <br><br><b>Note :</b> According to DRAGO RULE, lone pair of electrons are in pure s- orbital of the atom P. That is why PH<sub>3</sub> has no hybridisation.",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Arrange the following bonds according to their average bond energies in descending order :<br/> C\\\u2013Cl, C\\\u2013Br, C\\\u2013F, C\\\u2013I",
-      "options": {
-        "A": "C\\\u2013Br >",
-        "B": "C\\\u2013Cl >",
-        "C": "\\\u2013I >",
-        "D": "C\\\u2013F >"
-      },
-      "answer": "D",
-      "solution": "Bond length order in carbon halogen bonds are <br><br>in the order of C \\\u2013 F < C \\\u2013 Cl < C \\\u2013 Br < C \\\u2013 I <br><br>Hence, Bond energy order <br><br>C \\\u2013 F > C \\\u2013 Cl > C \\\u2013 Br > C \\\u2013 I",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "O-O bond length in H_2 O_2 is \\underlineX than the O-O bond length in F_2 O_2. The O-H bond length in H_2 O_2 is \\underlineY than that of the O-F bond in F_2 O_2. Choose the correct option for \\underlineX and \\underlineY from those given below :",
-      "options": {
-        "A": "X - shorter, Y - longer",
-        "B": "X - longer, Y - shorter",
-        "C": "X - shorter, Y - shorter",
-        "D": "X - longer, Y - longer"
-      },
-      "answer": "B",
-      "solution": ".tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqh-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;-align:center;vertical-align:top <thead> <th class=\"tg-amwm\">Bond</th> <th class=\"tg-amwm\">Bond Length</th> </thead> <tbody> O - O\u2081.48 \\,\\mathop A\\limits^o( In H_2 O_2\\) O - O\u2081.22 \\,\\mathop A\\limits^o( In O_2 F_2\\) </tbody> <br/>Thus, O-O bond length in H_2 O_2 is longer than O-O bond length in O_2 F_2. <br/><br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqh-align:center;vertical-align:top .tg .tg-amwmfont-weight:bold;-align:center;vertical-align:top <thead> <th class=\"tg-amwm\">Bond</th> <th class=\"tg-amwm\">Bond Length</th> </thead> <tbody> O - F\u2081\u2085\u2088 \\,pm( In O_2 F_2\\) O - H\u2089\u2085 \\,pm( In H_2 O_2\\) </tbody> <br/>Thus, the O-H bond length in H_2 O_2 is shorter than O-F bond length in O_2 F_2.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The bond dissociation energy is highest for",
-      "options": {
-        "A": "Cl_2",
-        "B": "I_2",
-        "C": "Br_2",
-        "D": "F_2"
-      },
-      "answer": "A",
-      "solution": "Bond energy of F_2 less than Cl_2 due to lone pair lone pair repulsions. <br/><br/> Bond energy order Cl_2>Br_2>F_2>I_2",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Given below are two statements : Statement I : SO_2 and H_2 O both possess V-shaped structure. Statement II : The bond angle of SO_2 is less than that of H_2 O. \nIn the light of the above statements, choose the most appropriate answer from the options given below:",
-      "options": {
-        "A": "Both Statement I and Statement II are incorrect",
-        "B": "Both Statement I and Statement II are correct",
-        "C": "Statement I is correct but Statement II is incorrect",
-        "D": "Statement I is incorrect but Statement II is correct"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgsm\u2080\u2080\u2086a/ddbebe\u2086c-5a\u2080\u2087-4b\u2082\u2081-b\u2081\u2083c-30c\u2081e\u2087d\u2083bc\u2083\u2089/0f\u2082e\u2081c\u2082\u2080-e\u2081\u2086\u2085-11ed-95df-fb\u2088\u2085\u2087d\u2080\u2080bffe/file-1lgsm\u2080\u2080\u2086b.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgsm\u2080\u2080\u2086a/ddbebe\u2086c-5a\u2080\u2087-4b\u2082\u2081-b\u2081\u2083c-30c\u2081e\u2087d\u2083bc\u2083\u2089/0f\u2082e\u2081c\u2082\u2080-e\u2081\u2086\u2085-11ed-95df-fb\u2088\u2085\u2087d\u2080\u2080bffe/file-1lgsm\u2080\u2080\u2086b.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 13th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 65 English Explanation\"><br><b>Statement I:</b> Both SO\u2082 and H\u2082O have a V-shaped (or bent) molecular structure. SO\u2082 has a central sulfur atom with two oxygen atoms and one lone pair, while H\u2082O has a central oxygen atom with two hydrogen atoms and two lone pairs. In both cases, the repulsion between the lone pairs and the bonded electron pairs leads to a V-shaped structure. <br><br> <b>Statement II:</b> The bond angle in H\u2082O is approximately 104.5\u00b0 due to the tetrahedral arrangement of electron pairs (including the lone pairs) around the central oxygen atom. In SO\u2082, the bond angle is approximately 119\u00b0. The presence of a lone pair and the double bonds in SO\u2082 results in a different electron distribution, leading to a larger bond angle compared to H\u2082O.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). Assertion (A) : There is a considerable increase in covalent radius from N to P. However from As to Bi only a small increase in covalent radius is observed. Reason (R) : Covalent and ionic radii in a particular oxidation state increases down the group. \nIn the light of the above statements, choose the most appropriate answer from the options given below:",
-      "options": {
-        "A": "(A) is false but (R) is true",
-        "B": "Oth (A) and (R) are true and (R) is the correct explanation of (A)",
-        "C": "Both (A) and (R) are true but (R) is not the correct explanation of (A)",
-        "D": "(A) is true but (R) is false"
-      },
-      "answer": "C",
-      "solution": "According to NCERT, Statement-I : Factual data, Statement-II is true. But correct explanation is presence of completely filled d and f-orbitals of heavier members",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Given below are two statements. \nStatement I: O_2, Cu^2+, and Fe^3+ are weakly attracted by magnetic field and are magnetized in the same direction as magnetic field. \nStatement II: NaCl and H_2 O are weakly magnetized in opposite direction to magnetic field. \nIn the light of the above statements, choose the most appropriate answer from the options given below.",
-      "options": {
-        "A": "Both Statement I and Statement II are correct.",
-        "B": "Both Statement I and Statement II are incorrect.",
-        "C": "Statement I is correct but Statement II is incorrect.",
-        "D": "Statement I is incorrect but Statement II is correct."
-      },
-      "answer": "A",
-      "solution": "O_2, Cu^2+ and Fe^3+ have 2,1 and 5 unpaired electrons respectively, so these are the paramagnetic species. Hence, they are attracted by magnetic field. <br/><br/> NaCl and H_2 O are the diamagnetic species so they are repelled by the magnetic field.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Number of \\sigma and \\pi bonds present in ethylene molecule is respectively :",
-      "options": {
-        "A": "3 and 1",
-        "B": "5 and 1",
-        "C": "4 and 1",
-        "D": "5 and 2"
-      },
-      "answer": "B",
-      "solution": "Let's analyze the bond structure in an ethylene molecule (C<sub>2</sub>H<sub>4</sub>) to determine the count of \\sigma and \\pi bonds. Ethylene consists of two carbon atoms double-bonded to each other, with each carbon atom also bonded to two hydrogen atoms. Each single bond is a \\sigma bond. The double bond between the carbon atoms is made up of one \\sigma bond and one \\pi bond. Here's how the bonds break down: <ol> <li>Each carbon-hydrogen bond is a \\sigma bond. Since there are four C-H bonds, we have 4 \\sigma bonds from C-H bonding.</li> <li>The carbon-carbon double bond consists of one \\sigma bond and one \\pi bond. Thus, we have 1 additional \\sigma bond from the C=C double bond.</li> <li>Total \\sigma bonds = 4 (from C-H) + 1 (from C=C) = 5.</li> <li>There is 1 \\pi bond present in the carbon-carbon double bond.</li> </ol> Therefore, the correct option is:<br> Option B: 5 and 1",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The dipole of CCl<sub>4</sub>, CHCl<sub>3</sub> and CH<sub>4</sub> are in the order :",
-      "options": {
-        "A": "CCl<sub>4</sub> < CH<sub>4</sub> < CHCl<sub>3</sub>",
-        "B": "CH<sub>4</sub> = CCl<sub>4</sub> < CHCl<sub>3</sub>",
-        "C": "H<sub>4</sub> < CCl<sub>4</sub> < CHCl<sub>3</sub>",
-        "D": "CHCl<sub>3</sub> < CH<sub>4</sub>= CCl<sub>4</sub>"
-      },
-      "answer": "B",
-      "solution": "CHCl<sub>3</sub> is polar while CH<sub>4</sub> and CCl<sub>4</sub> are nonpolar. <br><br>So, dipole moment order is : <br><br> CH<sub>4</sub> = CCl<sub>4</sub> < CHCl<sub>3</sub>",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Match List - I with List - II. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-1wigfont-weight:bold;-align:left;vertical-align:top .tg .tg-0lax-align:left;vertical-align:top <colgroup> <col style=\"width: 53px\"/> <col style=\"width: 205px\"/> <col style=\"width: 40px\"/> <col style=\"width: 196px\"/> </colgroup> <thead> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - I</th> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - II</th> </thead> <tbody> (A) \\psi_MO=\\psi_A-\\psi_B (I) Dipole moment (B) \\mu=Q \u00d7 r (II) Bonding molecular orbital (C) \\fracN_b-N_a\u2082 (III) Anti-bonding molecular orbital (D) \\psi_MO=\\psi_A+\\psi_B (IV) Bond order </tbody> Choose the correct answer from the options given below :",
-      "options": {
-        "A": "(A)-(II),(B)-(I),(C)-(IV),(D)-(III)",
-        "B": "(A)-(III),(B)-(IV),(C)-(I),(D)-(II)",
-        "C": "(A)-(III),(B)-(I),(C)-(IV),(D)-(II)",
-        "D": "(A)-(III),(B)-(IV),(C)-(II),(D)-(I)"
-      },
-      "answer": "C",
-      "solution": "\\Psi_A-\\Psi_B=\\Psi_M O is anti-boding molecular orbital <br/><br/> \\beginaligned &\\mu=Q \u00d7 r is dipole moment \\\\\\\\ &\\fracN_b-N_a\u2082= bond order \\\\\\\\ &\\Psi_A+\\Psi_B=\\Psi_MO is boding molecular orbital. \\endaligned",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Statement I : Dipole moment is a vector quantity and by convention it is depicted by a small arrow with tail on the negative centre and head pointing towards the positive centre. Statement II : The crossed arrow of the dipole moment symbolizes the direction of the shift of charges in the molecules. \nIn the light of the above statements, choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "Statement I is correct but Statement II is incorrect",
-        "B": "Statement I is incorrect but Statement II is correct",
-        "C": "Both Statement I and Statement II are correct",
-        "D": "Both Statement I and Statement II are incorrect"
-      },
-      "answer": "B",
-      "solution": "The dipole moment is a vector quantity and is depicted by an arrow with tail on the positive centre and head pointing towards the negative centre. So, Statement-I is incorrect.<br><br> The crossed arrow of the dipole moment symbolizes the direction of the shift of charges in the molecules. So, Statement-II is correct. <br><br>For example, <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lfhir\u2085ak/bef\u2082a\u2083\u2084\u2088-5bc\u2086-4420-b\u2081b\u2089-83b\u2088\u2080f\u2082\u2088\u2089fc\u2088/86f\u2081\u2080\u2085b\u2080-c\u2087\u2087f-11ed-ad\u2086\u2082-0de\u2087\u2088\u2088\u2088\u2083\u2086\u2081\u2082\u2084/file-1lfhir\u2085al.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lfhir\u2085ak/bef\u2082a\u2083\u2084\u2088-5bc\u2086-4420-b\u2081b\u2089-83b\u2088\u2080f\u2082\u2088\u2089fc\u2088/86f\u2081\u2080\u2085b\u2080-c\u2087\u2087f-11ed-ad\u2086\u2082-0de\u2087\u2088\u2088\u2088\u2083\u2086\u2081\u2082\u2084/file-1lfhir\u2085al.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 25th January Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 72 English Explanation\">",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Consider the following statements: <br/><br/> (A) NF<sub>3</sub> molecule has a trigonal planar structure. <br/><br/> (B) Bond length of N_2 is shorter than O_2. <br/><br/> (C) Isoelectronic molecules or ions have identical bond order. <br/><br/> (D) Dipole moment of H_2S is higher than that of water molecule. <br/><br/> Choose the correct answer from the options given below:",
-      "options": {
-        "A": "(C) and (D) are correct",
-        "B": "(A) and (B) are correct",
-        "C": "(B) and (C) are correct",
-        "D": "(A) and (D) are correct"
-      },
-      "answer": "C",
-      "solution": "The correct answer is (B) and (C). <br/><br/> (A) NF<sub>3</sub> molecule has a trigonal pyramidal structure, not a trigonal planar structure. Therefore, statement (A) is false. <br/><br/> (B) The bond length of N_2 is shorter than that of O_2 due to the smaller atomic radius of nitrogen compared to oxygen. Therefore, statement (B) is true. <br/><br/> (C) Isoelectronic molecules or ions have the same number of electrons and hence the same bond order. Therefore, statement (C) is true. <br/><br/> (D) The dipole moment of water (H_2O) is higher than that of H_2S due to the greater electronegativity of oxygen compared to sulfur. Therefore, statement (D) is false.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Choose the polar molecule from the following:",
-      "options": {
-        "A": "CCl_4",
-        "B": "CO_2",
-        "C": "H_2=CH_2",
-        "D": "CHCl_3"
-      },
-      "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lscvbo\u2084p/8a\u2083\u2087a\u2083ab-5c\u2081\u2080-46d\u2080-80cc-caf\u2081\u2085a\u2085\u2083ab\u2082\u2087/93e\u2087c\u2084a\u2080-c\u2086\u2084f-11ee-9d\u2088b-f\u2081be\u2088\u2086a\u2081b\u2082f\u2083/file-6y\u2083zli\u2081lscvbo\u2084q.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lscvbo\u2084p/8a\u2083\u2087a\u2083ab-5c\u2081\u2080-46d\u2080-80cc-caf\u2081\u2085a\u2085\u2083ab\u2082\u2087/93e\u2087c\u2084a\u2080-c\u2086\u2084f-11ee-9d\u2088b-f\u2081be\u2088\u2086a\u2081b\u2082f\u2083/file-6y\u2083zli\u2081lscvbo\u2084q.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 42 English Explanation\"> \\mu \\neq 0 CHCl_3 is polar molecule and rest all molecules are non-polar.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Given below are two statements: Statement - I: Since Fluorine is more electronegative than nitrogen, the net dipole moment of NF_3 is greater than NH_3. Statement - II: In NH_3, the orbital dipole due to lone pair and the dipole moment of NH bonds are in opposite direction, but in NF_3 the orbital dipole due to lone pair and dipole moments of N-F bonds are in same direction. \nIn the light of the above statements, choose the most appropriate from the options given below:",
-      "options": {
-        "A": "Statement I is true but Statement II is false.",
-        "B": "Both Statement I and Statement II are true.",
-        "C": "Both Statement I and Statement II are false.",
-        "D": "Statement I is false but Statement II is true."
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lspvjcem/17b\u2080\u2082\u2082\u2087\u2083-0610-4df\u2081-827c-98d\u2080\u2087\u2087\u2084\u2088\u2082\u2080d\u2082/99c\u2083\u2086ae\u2080-cd\u2087\u2086-11ee-9be\u2081-85ca\u2085\u2084b\u2089efcb/file-6y\u2083zli\u2081lspvjcen.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lspvjcem/17b\u2080\u2082\u2082\u2087\u2083-0610-4df\u2081-827c-98d\u2080\u2087\u2087\u2084\u2088\u2082\u2080d\u2082/99c\u2083\u2086ae\u2080-cd\u2087\u2086-11ee-9be\u2081-85ca\u2085\u2084b\u2089efcb/file-6y\u2083zli\u2081lspvjcen.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 30th January Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 33 English Explanation\">",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which one of the following molecules has maximum dipole moment?",
-      "options": {
-        "A": "CH_4",
-        "B": "NF_3",
-        "C": "NH_3",
-        "D": "PF_5"
-      },
-      "answer": "C",
-      "solution": "NH_3 have more dipole moment than NF_3 .",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The group of molecules having identical shape is :",
-      "options": {
-        "A": "SF<sub>4</sub> , XeF<sub>4</sub> , CCl<sub>4</sub>",
-        "B": "ClF<sub>3</sub> , XeOF<sub>2</sub> , XeF_3^ +",
-        "C": "BF<sub>3</sub> , PCl<sub>3</sub> , XeO<sub>3</sub>",
-        "D": "PCl<sub>5</sub> , IF<sub>5</sub> , XeO<sub>2</sub>F<sub>2</sub>"
-      },
-      "answer": "B",
-      "solution": "H = 1 \\over 2[VE + MA \\\u2013 c + a] <br><br>ClF<sub>3</sub> , H = 1 \\over 2 (7 + 3 \\\u2013 0 + 0) = 5 (sp<sup>3</sup>d) <br><br>XeOF<sub>2</sub> , H = 1 \\over 2(8 + 2 \\\u2013 0 + 0) = 5 (sp<sup>3</sup>d) <br><br>XeF<sub>3</sub><sup>+</sup> , H = 1 \\over 2 (8 + 3 \\\u2013 1 + 0 ) = 5 (sp<sup>3</sup>d) <br><br>All molecules have sp<sup>3</sup>d hybridization and 3 bond pair + 2 lone pairs. Hence all have identical stucture (T-shape).",
-      "exam": "JEE Main 2016",
-      "year": 2016,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "sp<sup>3</sup>d<sup>2</sup> hybridization is <b>not</b> displayed by :",
-      "options": {
-        "A": "BrF<sub>5</sub>",
-        "B": "SF<sub>6</sub>",
-        "C": "[CrF<sub>6</sub>]<sup>3-</sup>",
-        "D": "PF<sub>5</sub>"
-      },
-      "answer": "D",
-      "solution": "Hybridization (X) = 1 \\over 2 [ VE + MA \\\u2013 c + a ] <br><br>where, VE = No. of valence electrons of central atom <br>MA = No. of monovalent atoms/groups surrounding the central atom, <br>c = Charge on the cation, <br>a = Charge on the anion <br><br>(A) [BrF<sub>5</sub>] : X = 1 \\over 2[ 7 + 5 - 0 + 0] = 6 = sp<sup>3</sup>d<sup>2</sup> hybridized <br><br>(B) [SF<sub>6</sub>] : X = 1 \\over 2[ 6 + 6 - 0 + 0] = 6 = sp<sup>3</sup>d<sup>2</sup> hybridized <br><br>(C) [CrF<sub>6</sub>]<sup>3-</sup> : Cr<sup>+3</sup> = [Ar]3d<sup>3</sup> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2082\u2083/exam_images/ed\u2084ci\u2084lnzwdqy\u2080mmubkw.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2088\u2088\u2089/exam_images/tgkqnzowpqo\u2083j\u2086\u2086lclsu.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2080\u2084\u2089/exam_images/koliovjt\u2085msi\u2085\u2080pe\u2086g\u2087r.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2084\u2083/exam_images/uwgnwaiqfanwybbqj\u2081hr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2017 (Online) 8th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 177 English Explanation\"> <br><br>(D) [PF<sub>5</sub>] : X = 1 \\over 2[ 5 + 5 - 0 + 0] = 5 = sp<sup>3</sup>d hybridized <br><br><b>Note :</b> [CrF<sub>6</sub>]<sup>3-</sup> shows d<sup>2</sup>sp<sup>3</sup> hybridization not sp<sup>3</sup>d<sup>2</sup>. So option (C) should also be the correct answer.",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The group having triangular planar structures is :",
-      "options": {
-        "A": "BF<sub>3</sub>, NF<sub>3</sub>, CO_3^2 -",
-        "B": "CO_3^2 - , NO_3^ - , SO<sub>3</sub>",
-        "C": "NH<sub>3</sub>, SO<sub>3</sub>, CO_3^2 -",
-        "D": "NCl<sub>3</sub>, BCl<sub>3</sub>, SO<sub>3</sub>"
-      },
-      "answer": "B",
-      "solution": "(A) BF<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>NF<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral <br><br>CO_3^2 - : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>(B) CO_3^2 - : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>NO_3^ - : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>(C) NH<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral <br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>CO_3^2 - : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>(D) NCl<sub>3</sub> : sp<sup>3</sup> Hybridization : Tetrahedral <br><br>BCl<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar <br><br>SO<sub>3</sub> : sp<sup>2</sup> Hybridization : Triangular Planar",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The <b>incorrect</b> geometry is represented by :",
-      "options": {
-        "A": "BF<sub>3</sub> - trigonal planar",
-        "B": "H<sub>2</sub>O - bent",
-        "C": "NF<sub>3</sub> - trigonal planar",
-        "D": "AsF<sub>5</sub> - trigonal bipyramidal"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2080\u2084/exam_images/rffnwwheova\u2082wzrcp\u2081ed.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 180 English Explanation\"> <br><br>NF\u2083 has trigonal pyramidal geometry. Here central atom nitrogen has sp<sup>3</sup> hybridization and one lone pair of electron. Because of lone pair there exist repulsion force between lone pair and bond pair of electrons, that is why bond angles are lower than tetrahedral bond angle.",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following conversions involves change in both shape and hybridisation ?",
-      "options": {
-        "A": "NH<sub>3</sub> \\to NH<sub>4</sub><sup>+</sup>",
-        "B": "CH<sub>4</sub> \\to",
-        "C": "H<sub>2</sub>O \\to H<sub>3</sub>O<sup>+</sup>",
-        "D": "BF<sub>3</sub> \\to BF<sub>4</sub><sup>-</sup>"
-      },
-      "answer": "D",
-      "solution": "BF<sub>3</sub> \\to BF<sub>4</sub><sup>-</sup> <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2089\u2089/exam_images/ss\u2086x\u2089ehhur\u2080jibdheuar.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 179 English Explanation\">",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Identify the pair in which the geometry of the species is T-shape and square - pyraidal, respectively :",
-      "options": {
-        "A": "ClF<sub>3</sub> and IO_4^ -",
-        "B": "ICl<sub>2</sub><sup>-</sup> and ICl<sub>5</sub>",
-        "C": "XeOF<sub>2</sub> and XeOF<sub>4</sub>",
-        "D": "IO<sub>3</sub><sup>-</sup> and IO<sub>2</sub>F<sub>2</sub><sup>-</sup>"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2088\u2081\u2087/exam_images/yz\u2082vnobmd\u2084gdky\u2086l\u2086cp\u2088.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 184 English Explanation 1\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2085\u2086/exam_images/ildet\u2085xusjp\u2081rebry\u2088ix.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 184 English Explanation 2\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2082\u2082\u2087/exam_images/bv\u2081dbrqaljsr\u2083pky\u2082nxy.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 184 English Explanation 3\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2080\u2087\u2088/exam_images/wcx\u2087tioayfp\u2080y\u2088\u2080\u2088ziow.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 184 English Explanation 4\">",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Total number of lone pair of electrons in \\rm I_3^ - ion is",
-      "options": {
-        "A": "3%",
-        "B": "9%",
-        "C": "6%",
-        "D": "12%"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2087\u2088\u2084/exam_images/ox\u2089u\u2084d\u2089vskfpz\u2080ze\u2080tkp.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Offline) Chemistry - Chemical Bonding & Molecular Structure Question 187 English Explanation\"> <br><br>\\therefore\\,\\,\\, Total number of lone pair = 9",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The decreasing order of bond angles in BF<sub>3</sub>, NH<sub>3</sub>, PF<sub>3</sub> and I<sub>3</sub><sup>-</sup> is :",
-      "options": {
-        "A": "I<sub>3</sub><sup>-</sup> > NH<sub>3</sub> > PF<sub>3</sub> > BF<sub>3</sub>",
-        "B": "I<sub>3</sub><sup>-</sup> > BF<sub>3</sub> > NH<sub>3</sub> > PF<sub>3</sub>",
-        "C": "BF<sub>3</sub> > I<sub>3</sub><sup>-</sup> > PF<sub>3</sub> > NH<sub>3</sub>",
-        "D": "BF<sub>3</sub> > NH<sub>3</sub> > PF<sub>3</sub> > I<sub>3</sub><sup>-</sup>"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2081\u2086\u2081/exam_images/u\u2085mnojkykht\u2089vo\u2089kznqu.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 183 English Explanation 1\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2086\u2080/exam_images/zzsct\u2080\u2086yvgtznbapbwdy.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 183 English Explanation 2\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2085\u2085\u2081/exam_images/zisebgzmtsegnuaqgtxb.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 183 English Explanation 3\"> <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2086\u2085/exam_images/h\u2087\u2081uy\u2085re\u2080z\u2084wx\u2080olnhwz.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 15th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 183 English Explanation 4\">",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The type of hybridisation and number of lone pair (s) of electrons of Xe in XeOF<sub>4</sub>, respectively, are:",
-      "options": {
-        "A": "sp<sup>3</sup>d and 2",
-        "B": "sp<sup>3</sup>d<sup>2</sup> and 2",
-        "C": "sp<sup>3</sup>d and 1",
-        "D": "sp<sup>3</sup>d<sup>2</sup> and 1"
-      },
-      "answer": "D",
-      "solution": "H = 1 \\over 2 (V + M - c + a) <br><br> \\therefore H = 1 \\over 2(8 + 4) = 6 <br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2085\u2086\u2082/exam_images/wqes\u2086qrlw\u2087\u2083fpigbtuiv.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 170 English Explanation\"> <br><br>From structure, it is clear that it has five bond pairs and one lone pair.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The ion that has sp<sup>3</sup>d<sup>2</sup> hybridization for the central atom, is :",
-      "options": {
-        "A": "[ICl<sub>2</sub>]<sup>-</sup>",
-        "B": "[ICl<sub>4</sub>]<sup>-</sup>",
-        "C": "[IF<sub>6</sub>]<sup>-</sup>",
-        "D": "[BrF<sub>2</sub>]<sup>-</sup>"
-      },
-      "answer": "B",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2088\u2088\u2083/exam_images/rdp\u2088joexq\u2082x\u2081okn\u2084mokl.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2089\u2085\u2080/exam_images/siqh\u2089\u2084apkvnbynd\u2086mu\u2087\u2084.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2080\u2086\u2085/exam_images/fahvisurqjiirr\u2087xphp\u2086.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 168 English Explanation\">",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct statement about ICl<sub>5</sub> and ICl_4^- is",
-      "options": {
-        "A": "ICl<sub>5</sub> is square pyramidal and ICl_4^- is square planar.",
-        "B": "ICl<sub>5</sub> is trigonal bipyramidal and is tetrahedral.",
-        "C": "ICl<sub>5</sub> is square pyramidal and ICl_4^- is tetrahedral",
-        "D": "Both are isostructural."
-      },
-      "answer": "A",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2087\u2087/exam_images/bbz\u2088sl\u2084mqz\u2086lwrqbmndf.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2089\u2087/exam_images/ugtmhdptrsxg\u2086qlk\u2085vo\u2081.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2083\u2082\u2084/exam_images/cfwpm\u2088gzkp\u2084gjtocgi\u2087e.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 165 English Explanation\">",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct statement among the following is :",
-      "options": {
-        "A": "(SiH<sub>3</sub>)<sub>3</sub>N is planar and more basic than (CH<sub>3</sub>)<sub>3</sub>N",
-        "B": "(SiH<sub>3</sub>)<sub>3</sub>N is pyramidal and more basic than (CH<sub>3</sub>)<sub>3</sub>N",
-        "C": "(SiH<sub>3</sub>)<sub>3</sub>N is pyramidal and less basic than (CH<sub>3</sub>)<sub>3</sub>N",
-        "D": "(SiH<sub>3</sub>)<sub>3</sub>N is planar and less basic than (CH<sub>3</sub>)<sub>3</sub>N"
-      },
-      "answer": "D",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2083\u2087\u2086/exam_images/obdcfybfvcetetsqaz\u2082\u2083.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2081\u2087\u2081/exam_images/sqvqhnwdqovtcwtrkaok.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 159 English Explanation 1\"> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2086\u2086/exam_images/wjjcd\u2081\u2084e\u2084\u2087o\u2083u\u2082cowyd\u2089.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2081\u2081\u2084/exam_images/k\u2087o\u2088xh\u2086ervtl\u2083\u2089tizpvf.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th April Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 159 English Explanation 2\"> <br>In (CH<sub>3</sub>)<sub>3</sub>N, one lone pair and 3 sigma bond present. So it's shape is pyramidal. <br><br>But in (SiH<sub>3</sub>)<sub>3</sub>N, due to backbonding lone pair of N shift to vacant 3d orbital of Si. So now N have only 3 sigma bond and hybridization is sp<sup>2</sup>, that is why it has triangular planar geometry. <br><br>As in (SiH<sub>3</sub>)<sub>3</sub>N. nitrogen(N) don't have any lone pair to donate but in (CH<sub>3</sub>)<sub>3</sub>N, lone pair of nitrogen(N) can easily be donated. That is why (CH<sub>3</sub>)<sub>3</sub>N is more basic.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The compound that has the largest H\\\u2013M\\\u2013H bond angle (M = N, O, S, C) is :",
-      "options": {
-        "A": "CH<sub>4</sub>",
-        "B": "H<sub>2</sub>S",
-        "C": "NH<sub>3</sub>",
-        "D": "H<sub>2</sub>O"
-      },
-      "answer": "A",
-      "solution": "CH<sub>4</sub> - Bond angle = 109<sup>o</sup>28' <br><br>H<sub>2</sub>S - Bond angle = 92<sup>o</sup> <br><br>NH<sub>3</sub> - Bond angle = 107<sup>o</sup> <br><br>H<sub>2</sub>O - Bond angle = 104<sup>o</sup>5'",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The molecular geometry of SF<sub>6</sub> is octahedral. What is the geometry of SF<sub>4</sub> (including lone pair(s) of electrons, if any)?",
-      "options": {
-        "A": "Tetrahedral",
-        "B": "Trigonal bipyramidal",
-        "C": "Square planar",
-        "D": "Pyramidal"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2083\u2086\u2080/exam_images/hzqviod\u2081jrllko\u2088vzhxn.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 149 English Explanation\"> <br><br>Here 4\\sigma bonds +1 lone pair <br><br>Electronic geometry is Trigonal bipyramidal. Moleculer Geometry or Moleculer Shape is see-saw. <br><br><b>Note :</b> The difference between Electronic Geometry and Moleculer Geometry(Moleculer Shape) is that in Electronic Geometry we include lone pair but in Moleculer Geometry(Moleculer Shape) we do not include lone pair.",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "If AB<sub>4</sub> molecule is a polar molecule, a possible geometry of AB<sub>4</sub> is",
-      "options": {
-        "A": "Tetrahedral",
-        "B": "See-saw",
-        "C": "Square pyramidal",
-        "D": "Square planar"
-      },
-      "answer": "B",
-      "solution": "<thead> <th class=\"tg-amwm\">Compound</th> <th class=\"tg-amwm\">Electronic Geometry</th> <th class=\"tg-amwm\">Moleculer Geometry<br>or <br>Moleculer Shape</th> <th class=\"tg-amwm\">Lone Pair</th> <th class=\"tg-amwm\">Polarity</th> </thead> <tbody> AB<sub>4</sub> Tetrahedral Tetrahedral 0 Nonpolar AB<sub>4</sub> Trigonal Bipyramidal see-saw 1 Polar AB<sub>4</sub> Octahedral<br>(Square Bipyramidal) Square Planar 2 Nonpolar </tbody> <br><br><b>Note :</b> The difference between Electronic Geometry and Moleculer Geometry(Moleculer Shape) is that in Electronic Geometry we include lone pair but in Moleculer Geometry(Moleculer Shape) we do not include lone pair. <br><br>Here in this question it is not clear which geometry they are talking about, correct answer should be either Trigonal Bipyramidal or see-saw.",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The shape / structure of [XeF<sub>5</sub>]<sup>\\\u2013</sup> and XeO<sub>3</sub>F<sub>2</sub>, respectively, are",
-      "options": {
-        "A": "Pentagonal planar and trigonal bipyramidal",
-        "B": "Trigonal bipyramidal and pentagonal planar",
-        "C": "Octahedral and square pyramidal",
-        "D": "Trigonal bipyramidal and trigonal bipyramidal"
-      },
-      "answer": "A",
-      "solution": "[XeF<sub>5</sub>]<sup>\\\u2013</sup> \\to 5BP + 2LP \\to sp<sup>3</sup>d<sup>3</sup> hybridisation \\to Pentagonal planar <br><br>XeO<sub>3</sub>F<sub>2</sub> \\to 5BP + 0LP \\to sp<sup>3</sup>d hybridisation \\to Trigonal bipyramidal",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct shape and I - I - I bond angles respectively in I_3^ - ion are :",
-      "options": {
-        "A": "Linear; 180^\\circ",
-        "B": "T-shaped; 180^\\circ and 90^\\circ",
-        "C": "Trigonal planar; 120^\\circ",
-        "D": "Istorted trigonal planar; 135^\\circ and 90^\\circ"
-      },
-      "answer": "A",
-      "solution": "Hybridisation of central I in I_3^ - is sp<sup>3</sup>d with 3 lone pair and 2 bond pair. Shape Linear <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083ofi\u2083qr/34712fe\u2081-8d\u2083\u2081-4b\u2081\u2088-8f\u2081\u2085-f\u2080\u2081\u2087ac\u2081\u2080\u2086d\u2084\u2083/b\u2084\u2081\u2082ec\u2083\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofi\u2083qs.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083ofi\u2083qr/34712fe\u2081-8d\u2083\u2081-4b\u2081\u2088-8f\u2081\u2085-f\u2080\u2081\u2087ac\u2081\u2080\u2086d\u2084\u2083/b\u2084\u2081\u2082ec\u2083\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofi\u2083qs.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 24th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 138 English Explanation 1\"> Lone pair 3 lone pair Bond angle 180^\\circ (for linear molecule) <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2083ofiufv/0ee\u2088de\u2083\u2083-cd\u2083\u2086-48ba-8aab-bd\u2088\u2088\u2088\u2087\u2083\u2084\u2080\u2089f\u2082/c\u2088b\u2082\u2087\u2086b\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofiufw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2083ofiufv/0ee\u2088de\u2083\u2083-cd\u2083\u2086-48ba-8aab-bd\u2088\u2088\u2088\u2087\u2083\u2084\u2080\u2089f\u2082/c\u2088b\u2082\u2087\u2086b\u2080-ddb\u2089-11ec-b\u2087c\u2087-a\u2087ac\u2086d\u2089\u2083\u2083\u2084e\u2080/file-1l\u2083ofiufw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 24th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 138 English Explanation 2\">",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which among the following species has unequal bond lengths?",
-      "options": {
-        "A": "XeF<sub>4</sub>",
-        "B": "F_4^ -",
-        "C": "SiF<sub>4</sub>",
-        "D": "SF<sub>4</sub>"
-      },
-      "answer": "D",
-      "solution": "(a) XeF<sub>4</sub> is sp<sup>3</sup>d<sup>2</sup> hybridised with 4 bond pairs and 1 lone pair and structure is square planar. Here all the bond lengths are equal. <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2082\u2085\u2085/exam_images/pyrwkkkosv\u2081muxq\u2087bcmw.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 135 English Explanation 1\"> <br><br>(b) \\,\\,\\,\\, BF_4^ - , 4 bond pair present so angle is 109<sup>o</sup> 28<sup>'</sup> and sp<sup>3</sup> hybridised. So structure is regular tetrahedral. Here all the bond lengths are equal. <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2080\u2085\u2084/exam_images/jzkitnrboscu\u2085illespj.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 135 English Explanation 2\"> <br><br>(c) SiF<sub>4</sub> is sp<sup>3</sup> hybridisation and regular tetrahedral geometry. Here all the bond lengths are equal. <br><br> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2086\u2087\u2087/exam_images/v\u2088lgjevwm\u2088wfhsogjeh\u2088.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2085\u2085\u2080/exam_images/szofoe\u2080wswxye\u2088coydec.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2089\u2080/exam_images/zqu\u2085mzwtimueybd\u2082iobx.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 135 English Explanation 3\"> <br><br>(d) SF<sub>4</sub> is sp<sup>3</sup>d hybridised with 4 bond pairs and 1 lone pair and its expected trigonal bipyramidal geometry gets distorted due to presence of a lone pair of electrons and it becomes distorted tetrahedral or see-saw with the bond angles equal to < 120<sup>o</sup> and 179<sup>o</sup> instead of the expected angles of 120<sup>o</sup> and 180<sup>o</sup> respectively. Here axial and equitorial both bonds are presents. And we know axial bonds are longer and weaker. <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2082\u2080\u2087/exam_images/alxbz\u2080wrpowuvob\u2089\u2088\u2080ot.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 135 English Explanation 4\">",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "central atom in a molecule has two lone pairs of electrons and forms three single bonds. The shape of this molecule is :",
-      "options": {
-        "A": "Trigonal pyramidal",
-        "B": "T-shaped",
-        "C": "See-saw",
-        "D": "Planar triangular"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2084\u2087\u2085/exam_images/ikyy\u2082xvsehf\u2082rnp\u2085\u2080\u2081\u2083\u2082.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 131 English Explanation\"><br> sp<sup>3</sup>d hybridised<br> T-shaped",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Amongst the following, the linear species is :",
-      "options": {
-        "A": "O<sub>3</sub>",
-        "B": "Cl<sub>2</sub>O",
-        "C": "N_3^ -",
-        "D": "NO<sub>2</sub>"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2089\u2086\u2085/exam_images/ox\u2084owl\u2085r\u2087abrp\u2086o\u2083rhe\u2087.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 130 English Explanation\">",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The hybridisations of the atomic orbitals of nitrogen in NO_2^ - , NO_2^ + and NH_4^ + respectively are.",
-      "options": {
-        "A": "sp<sup>3</sup>, sp<sup>2</sup> and sp",
-        "B": "sp, sp<sup>2</sup> and sp<sup>3</sup>",
-        "C": "sp<sup>3</sup>, sp and sp<sup>2</sup>",
-        "D": "sp<sup>2</sup>, sp and sp<sup>3</sup>"
-      },
-      "answer": "D",
-      "solution": "Hybridisation = Number of sigma bonds + number of lone pair of electrons + number of coordinate bond.<br><br>For NO_2^ - hybridisation = 2 sigma NO bonds + 1 lone pair on N = 3; so NO_2^ - is sp<sup>2</sup>-hybridised.<br><br> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2082pl\u2087aq\u2080/65e\u2081e\u2082\u2081\u2088-9a\u2083b-4a\u2089\u2086-93bc-5b\u2082\u2084c\u2081\u2083\u2087\u2083cd\u2086/8f\u2089c\u2082\u2088\u2088\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2087aq\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2082pl\u2087aq\u2080/65e\u2081e\u2082\u2081\u2088-9a\u2083b-4a\u2089\u2086-93bc-5b\u2082\u2084c\u2081\u2083\u2087\u2083cd\u2086/8f\u2089c\u2082\u2088\u2088\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2087aq\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 20th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 126 English Explanation 1\"><br>For NO_2^ + hybridisation = 2 sigma NO bonds = 2; so NO_2^ + sp-hybridised.<br><br> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2082pl\u2087wzv/dce\u2082e\u2080bf-11ef-4f\u2083e-81cb-8d\u2085\u2086fb\u2087\u2085\u2086cae/a\u2080d\u2080e\u2089b\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2087wzw.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2082pl\u2087wzv/dce\u2082e\u2080bf-11ef-4f\u2083e-81cb-8d\u2085\u2086fb\u2087\u2085\u2086cae/a\u2080d\u2080e\u2089b\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2087wzw.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 20th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 126 English Explanation 2\"><br>For NO_4^ + Hybridisation = 4 sigma NH bonds = 4; so NO_4^ + is sp<sup>3</sup>-hybridised.<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2082pl\u2088o\u2085\u2083/71642e\u2089\u2084-0c\u2086\u2083-47b\u2082-9296-d\u2088d\u2086\u2083\u2089dac\u2081c\u2080/b\u2085c\u2088f\u2084\u2087\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2088o\u2085\u2084.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2082pl\u2088o\u2085\u2083/71642e\u2089\u2084-0c\u2086\u2083-47b\u2082-9296-d\u2088d\u2086\u2083\u2089dac\u2081c\u2080/b\u2085c\u2088f\u2084\u2087\u2080-ca\u2089\u2080-11ec-ace\u2083-f\u2085b\u2084d\u2088\u2086f\u2087\u2089\u2087\u2080/file-1l\u2082pl\u2088o\u2085\u2084.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 20th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 126 English Explanation 3\"><br>Therefore, hybridisation of N in NO_2^ - , NO_2^ + , NO_4^ + are sp<sup>2</sup>, sp, sp<sup>3</sup> respectively.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Match List-I with List-II :<br/><br/> <thead> <th></th> <th>List-I<br/>(Species)</th> <th></th> <th>List-II<br/>(Hybrid Orbitals)</th> </thead> <tbody> (a) SF_4 (i) sp^3d^2 (b) IF_5 (ii) d^2sp^3 (c) NO_2^ + (iii) sp^3d (d) NH_4^ + (iv) sp^3 (v) sp </tbody> <br/><br/>Choose the correct answer from the options given below :",
-      "options": {
-        "A": "(a)-(i), (b)-(ii), (c)-(v) and (d)-(iii)",
-        "B": "(a)-(ii), (b)-(i), (c)-(iv) and (d)-(v)",
-        "C": "(a)-(iii), (b)-(i), (c)-(v) and (d)-(iv)",
-        "D": "(a)-(iv), (b)-(iii), (c)-(ii) and (d)-(v)"
-      },
-      "answer": "C",
-      "solution": "(a) SF<sub>4</sub> - sp<sup>3</sup>d hybridization<br><br>(b) IF<sub>5</sub> - sp<sup>3</sup>d<sup>2</sup> hybridization<br><br>(c) NO_2^ + - sp hybridization<br><br>(d) NH_4^ + - sp<sup>3</sup> hybridization",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Consider the species CH<sub>4</sub>, NH_4^ + and BH_4^ - . Choose the correct option with respect to the these species.",
-      "options": {
-        "A": "They are isoelectronic and only two have tetrahedral structures.",
-        "B": "They are isoelectronic and all have tetrahedral structures.",
-        "C": "Only two are isoelectronic and all have tetrahedral structures.",
-        "D": "Only two are isoelectronic and only two have tetrahedral structures."
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2089\u2087wmvs\u2080/61a\u2089\u2080\u2084\u2088e-4f\u2084\u2087-448d-a\u2086f\u2089-c\u2082\u2081ca\u2089\u2083\u2089ed\u2081e/ad\u2086\u2085\u2084\u2086\u2080\u2080-4b\u2086c-11ed-9399-cda\u2084ba\u2081d\u2086\u2089\u2089\u2084/file-1l\u2089\u2087wmvs\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2089\u2087wmvs\u2080/61a\u2089\u2080\u2084\u2088e-4f\u2084\u2087-448d-a\u2086f\u2089-c\u2082\u2081ca\u2089\u2083\u2089ed\u2081e/ad\u2086\u2085\u2084\u2086\u2080\u2080-4b\u2086c-11ed-9399-cda\u2084ba\u2081d\u2086\u2089\u2089\u2084/file-1l\u2089\u2087wmvs\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 110 English Explanation\"><br>All are tetrahedral and each have 10 electrons.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Number of lone pair(s) of electrons on central atom and the shape BrF<sub>3</sub> molecule respectively, are",
-      "options": {
-        "A": "0, triangular planar.",
-        "B": "1, pyramidal.",
-        "C": "2, bent T-shape.",
-        "D": "1, bent T-shape."
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2089\u2087ws\u2083jc/98f\u2083d\u2082\u2080\u2085-4622-417e-955d-87e\u2088c\u2082\u2083b\u2084f\u2085\u2085/3e\u2086f\u2086\u2086\u2088\u2080-4b\u2086d-11ed-9399-cda\u2084ba\u2081d\u2086\u2089\u2089\u2084/file-1l\u2089\u2087ws\u2083jd.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2089\u2087ws\u2083jc/98f\u2083d\u2082\u2080\u2085-4622-417e-955d-87e\u2088c\u2082\u2083b\u2084f\u2085\u2085/3e\u2086f\u2086\u2086\u2088\u2080-4b\u2086d-11ed-9399-cda\u2084ba\u2081d\u2086\u2089\u2089\u2084/file-1l\u2089\u2087ws\u2083jd.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 111 English Explanation\"><br> Steric no. = 5 (sp<sup>3</sup>d), lone pair = 2 <br><br> Bent T shape.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In the structure of SF<sub>4</sub>, the lone pair of electrons on S is in.",
-      "options": {
-        "A": "Equatorial position and there are two lone pair - bond pair repulsions at 90^\\circ.",
-        "B": "Equatorial position and there are three lone pair - bond pair repulsions at 90^\\circ.",
-        "C": "Axial position and there are three lone pair - bond pair repulsion at 90^\\circ.",
-        "D": "Axial position and there are two lone pair - bond pair repulsion at 90^\\circ."
-      },
-      "answer": "A",
-      "solution": "SF<sub>4</sub> \u2192 sp<sup>3</sup>d hybridisation.<br><br> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085iu\u2088g\u2082m/f\u2086e\u2083a\u2080e\u2089-18f\u2085-4382-97a\u2088-c\u2083\u2086fd\u2082d\u2085\u2087\u2089\u2083\u2085/0b\u2084e\u2080\u2080d\u2080-023f-11ed-9915-b\u2081\u2084\u2082ef\u2085d\u2087\u2085\u2081a/file-1l\u2085iu\u2088g\u2082n.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085iu\u2088g\u2082m/f\u2086e\u2083a\u2080e\u2089-18f\u2085-4382-97a\u2088-c\u2083\u2086fd\u2082d\u2085\u2087\u2089\u2083\u2085/0b\u2084e\u2080\u2080d\u2080-023f-11ed-9915-b\u2081\u2084\u2082ef\u2085d\u2087\u2085\u2081a/file-1l\u2085iu\u2088g\u2082n.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 28th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 109 English Explanation\"><br> The lone pair of electrons on S is in an equatorial position and there are two lone pair-bond pair repulsions at 90\u00b0.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Identify the incorrect statement for PCl<sub>5</sub> from the following.",
-      "options": {
-        "A": "In this molecule, orbitals of phosphorous are assumed to undergo sp<sup>3</sup>d hybridization.",
-        "B": "The geometry of PCl<sub>5</sub> is trigonal bipyramidal.",
-        "C": "PCl<sub>5</sub> has two axial bonds stronger than three equatorial bonds.",
-        "D": "The three equatorial bonds of PCl<sub>5</sub> lie in a plane."
-      },
-      "answer": "C",
-      "solution": "<b>PCl<sub>5</sub></b><br><br> <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085jkmy\u2088x/8796e\u2087cd-77d\u2080-4f\u2082\u2087-bcbb-1f\u2089\u2084\u2084\u2089bc\u2082e\u2085a/4c\u2080\u2087f\u2085\u2081\u2080-02a\u2086-11ed-b\u2080f\u2080-b\u2081d\u2085b\u2083\u2086f\u2086c\u2080\u2081/file-1l\u2085jkmy\u2088y.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085jkmy\u2088x/8796e\u2087cd-77d\u2080-4f\u2082\u2087-bcbb-1f\u2089\u2084\u2084\u2089bc\u2082e\u2085a/4c\u2080\u2087f\u2085\u2081\u2080-02a\u2086-11ed-b\u2080f\u2080-b\u2081d\u2085b\u2083\u2086f\u2086c\u2080\u2081/file-1l\u2085jkmy\u2088y.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 106 English Explanation\"><br> All three equatorial bonds in a plane<br><br> sp<sup>3</sup>d hybridization<br><br> Trigonal bipyramidal<br><br> Axial bonds are weaker than equatorial bonds.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Based upon VSEPR theory, match the shape (geometry) of the molecules in List-I with the molecules in List-II and select the most appropriate option. .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-1wigfont-weight:bold;-align:left;vertical-align:top .tg .tg-0lax-align:left;vertical-align:top <colgroup> <col style=\"width: 44px\"/> <col style=\"width: 143px\"/> <col style=\"width: 42px\"/> <col style=\"width: 243px\"/> </colgroup> <thead> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - I<br/>(Shape)</th> <th class=\"tg-1wig\"></th> <th class=\"tg-1wig\">List - II<br/>(Molecules)</th> </thead> <tbody> (A) T-shaped (I) XeF_4 (B) Trigonal planar (II) SF_4 (C) Square planar (III) ClF_3 (D) See-saw (IV) BF_3 </tbody>",
-      "options": {
-        "A": "(A) - (I), (B) - (II), (C) - (III), (D) - (IV)",
-        "B": "(A) - (III), (B) - (IV), (C) - (I), (D) - (II)",
-        "C": "(A) - (III), (B) - (IV), (C) - (I), (D) - (I)",
-        "D": "(A) - (IV), (B) - (III), (C) - (I), (D) - (II)"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2085jlr\u2086\u2089n/5cc\u2087\u2085\u2083\u2084\u2083-17c\u2081-431f-bb\u2080\u2086-5f\u2085\u2085\u2081c\u2084c\u2080\u2084\u2082b/aa\u2089\u2087\u2089\u2084b\u2080-02aa-11ed-9031-556e\u2082cf\u2087e\u2088\u2085\u2081/file-1l\u2085jlr\u2086\u2089o.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2085jlr\u2086\u2089n/5cc\u2087\u2085\u2083\u2084\u2083-17c\u2081-431f-bb\u2080\u2086-5f\u2085\u2085\u2081c\u2084c\u2080\u2084\u2082b/aa\u2089\u2087\u2089\u2084b\u2080-02aa-11ed-9031-556e\u2082cf\u2087e\u2088\u2085\u2081/file-1l\u2085jlr\u2086\u2089o.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 60vh\" alt=\"JEE Main 2022 (Online) 27th June Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 105 English Explanation\">",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following pair of molecules contain odd electron molecule and an expanded octet molecule?",
-      "options": {
-        "A": "BCl_3 and SF_6",
-        "B": "NO and H_2 SO_4",
-        "C": "SF_6 and H_2 SO_4",
-        "D": "BCl_3 and NO"
-      },
-      "answer": "B",
-      "solution": "(A) BCl_3 - Even electron molecules <br/> SF_6 - Expended octet molecules <br/><br/> (B) NO - Odd electron molecules<br/> H_2 SO_4 - Expanded octet<br/><br/> (C) SF_6- Even electron molecules<br/> H_2 SO_4 - Expanded octet <br/><br/> (D) BCl_3- Even electron molecules <br/> NO - odd electron molecules",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Number of lone pairs of electrons in the central atom of SCl_2, O_3, ClF_3 and SF_6, respectively, are :",
-      "options": {
-        "A": "0, 1, 2 and 2",
-        "B": "2, 1, 2 and 0",
-        "C": "1, 2, 2 and 0",
-        "D": "2, 1, 0 and 2"
-      },
-      "answer": "B",
-      "solution": "The number of lone pair of electrons in the central atom of SCl_2, O_3, ClF_3 and SF_6 are 2, 1, 2 and 0 respectively <br><br> Their structures are as,<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l\u2087w\u2080jnd\u2080/62920f\u2080d-1fd\u2083-4ccf-b\u2089ca-05f\u2085\u2084d\u2083b\u2081\u2082\u2089\u2080/58cfac\u2084\u2080-3116-11ed-aea\u2087-cb\u2086fb\u2083\u2084\u2084ee\u2085\u2084/file-1l\u2087w\u2080jnd\u2081.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l\u2087w\u2080jnd\u2080/62920f\u2080d-1fd\u2083-4ccf-b\u2089ca-05f\u2085\u2084d\u2083b\u2081\u2082\u2089\u2080/58cfac\u2084\u2080-3116-11ed-aea\u2087-cb\u2086fb\u2083\u2084\u2084ee\u2085\u2084/file-1l\u2087w\u2080jnd\u2081.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th July Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 84 English Explanation\">",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The number of P-O-P bonds in H_4 P_2 O_7,(HPO_3\\)_3 and P_4 O_10 are respectively :",
-      "options": {
-        "A": "1,3,6",
-        "B": "1,2,4",
-        "C": "0,3,4",
-        "D": "0,3,6"
-      },
-      "answer": "A",
-      "solution": "Let's analyze each compound separately: <br><br> 1. H_4 P_2 O_7: This compound is also known as pyrophosphoric acid. Its structure has two phosphorus atoms (P) connected by one oxygen atom (O), forming a P-O-P bond. There are no other P-O-P bonds in its structure. Number of P-O-P bonds = 1 <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgrz\u2084gh\u2085/49778edb-2079-49bb-b\u2083be-cf\u2084\u2086\u2087d\u2086d\u2088\u2080be/9909f\u2085\u2089\u2080-e\u2081\u2080b-11ed-ad\u2088b-a\u2081\u2083\u2084a\u2081ca\u2082\u2083\u2081\u2085/file-1lgrz\u2084gh\u2086.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgrz\u2084gh\u2085/49778edb-2079-49bb-b\u2083be-cf\u2084\u2086\u2087d\u2086d\u2088\u2080be/9909f\u2085\u2089\u2080-e\u2081\u2080b-11ed-ad\u2088b-a\u2081\u2083\u2084a\u2081ca\u2082\u2083\u2081\u2085/file-1lgrz\u2084gh\u2086.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 67 English Explanation 1\"> <br><br> 2. (HPO_3\\)_3: This compound is also known as cyclotriphosphoric acid. It has three phosphorus atoms and three oxygen atoms, arranged in a cyclic structure with each P atom connected to two O atoms, forming a six-membered ring. In this structure, there are three P-O-P bonds. Number of P-O-P bonds = 3 <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgrz\u2085\u2085iw/42f\u2082a\u2083\u2083\u2080-ff\u2084\u2084-4349-8918-fcd\u2082\u2083d\u2086\u2081\u2080\u2083\u2085\u2082/ac\u2086\u2083\u2086b\u2088\u2080-e\u2081\u2080b-11ed-8f\u2087\u2084-951e\u2082\u2081\u2083f\u2085\u2088\u2082\u2086/file-1lgrz\u2085\u2085ix.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgrz\u2085\u2085iw/42f\u2082a\u2083\u2083\u2080-ff\u2084\u2084-4349-8918-fcd\u2082\u2083d\u2086\u2081\u2080\u2083\u2085\u2082/ac\u2086\u2083\u2086b\u2088\u2080-e\u2081\u2080b-11ed-8f\u2087\u2084-951e\u2082\u2081\u2083f\u2085\u2088\u2082\u2086/file-1lgrz\u2085\u2085ix.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 67 English Explanation 2\"> <br><br> 3. P_4 O_10: This compound is also known as phosphorus pentoxide. Its structure consists of four phosphorus atoms (P) and ten oxygen atoms (O) connected in a cyclic arrangement. In the structure, each phosphorus atom is connected to four oxygen atoms, with two terminal oxygen atoms and two bridging oxygen atoms. There are six P-O-P bonds in the P<sub>4</sub>O<sub>10</sub> structure. <br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgrz\u2085yu\u2086/122fe\u2088e\u2087-9567-4d\u2083f-af\u2088c-59e\u2087\u2082\u2082c\u2082\u2082\u2085\u2086d/c\u2083\u2080\u2088\u2083be\u2080-e\u2081\u2080b-11ed-8f\u2087\u2084-951e\u2082\u2081\u2083f\u2085\u2088\u2082\u2086/file-1lgrz\u2085yu\u2087.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgrz\u2085yu\u2086/122fe\u2088e\u2087-9567-4d\u2083f-af\u2088c-59e\u2087\u2082\u2082c\u2082\u2082\u2085\u2086d/c\u2083\u2080\u2088\u2083be\u2080-e\u2081\u2080b-11ed-8f\u2087\u2084-951e\u2082\u2081\u2083f\u2085\u2088\u2082\u2086/file-1lgrz\u2085yu\u2087.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 15th April Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 67 English Explanation 3\"> <br><br> So, the number of P-O-P bonds in H_4 P_2 O_7,(HPO_3\\)_3, and P_4 O_10 are 1, 3, and 6, respectively.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "ClF_5 at room temperature is a:",
-      "options": {
-        "A": "Colourless liquid with square pyramidal geometry",
-        "B": "Colourless gas with square pyramidal geometry",
-        "C": "Olourless gas with trigonal bipyramidal geometry.",
-        "D": "Colourless liquid with trigonal bipyramidal geometry"
-      },
-      "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lgtthcsj/24428c\u2085\u2082-a\u2082\u2089a-4693-b\u2087e\u2081-f\u2082c\u2082c\u2089a\u2085e\u2081de/1a\u2083c\u2087\u2085\u2083\u2080-e\u2082\u2080f-11ed-9e\u2085\u2082-3dd\u2082\u2085\u2081\u2080\u2080c\u2081\u2080\u2080/file-1lgtthcsk.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lgtthcsj/24428c\u2085\u2082-a\u2082\u2089a-4693-b\u2087e\u2081-f\u2082c\u2082c\u2089a\u2085e\u2081de/1a\u2083c\u2087\u2085\u2083\u2080-e\u2082\u2080f-11ed-9e\u2085\u2082-3dd\u2082\u2085\u2081\u2080\u2080c\u2081\u2080\u2080/file-1lgtthcsk.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 13th April Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 64 English Explanation\"><br>ClF_5 is actually a colorless liquid at room temperature with a square pyramidal geometry.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The compound which does not exist is",
-      "options": {
-        "A": "(NH_4)_2BeF_4",
-        "B": "PbEt_4",
-        "C": "BeH_2",
-        "D": "NaO_2"
-      },
-      "answer": "D",
-      "solution": "Sodium superoxide (NaO_2) is not a stable compound. It is not found in normal conditions due to its high reactivity.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The molecule / ion with square pyramidal shape is",
-      "options": {
-        "A": "PCl_5",
-        "B": "\\left[Ni(CN)_4\\]^2-",
-        "C": "PF_5",
-        "D": "BrF_5"
-      },
-      "answer": "D",
-      "solution": "BrF_5 <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y\u2083zli\u2081lspvcpn\u2082/a\u2087b\u2080\u2085e\u2087\u2085-c\u2084d\u2081-4eca-8add-63d\u2084a\u2080a\u2085db\u2083\u2082/e\u2081\u2085\u2082\u2089ee\u2080-cd\u2087\u2085-11ee-9be\u2081-85ca\u2085\u2084b\u2089efcb/file-6y\u2083zli\u2081lspvcpn\u2083.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y\u2083zli\u2081lspvcpn\u2082/a\u2087b\u2080\u2085e\u2087\u2085-c\u2084d\u2081-4eca-8add-63d\u2084a\u2080a\u2085db\u2083\u2082/e\u2081\u2085\u2082\u2089ee\u2080-cd\u2087\u2085-11ee-9be\u2081-85ca\u2085\u2084b\u2089efcb/file-6y\u2083zli\u2081lspvcpn\u2083.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 30th January Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 32 English Explanation\">",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Aluminium chloride in acidified aqueous solution forms an ion having geometry",
-      "options": {
-        "A": "Square planar",
-        "B": "Octahedral",
-        "C": "Trigonal bipyramidal",
-        "D": "Tetrahedral"
-      },
-      "answer": "B",
-      "solution": "AlCl_3 in acidified aqueous solution forms octahedral geometry [Al(H_2 O)_6]^3+",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct increasing order for bond angles among BF_3, PF_3 and ClF_3 is :",
-      "options": {
-        "A": "BF_3=PF_3<ClF_3",
-        "B": "F_3<PF_3<ClF_3",
-        "C": "LF_3<PF_3<BF_3",
-        "D": "PF_3<BF_3<ClF_3"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lw\u2082xkwii/4c\u2082\u2087\u2080\u2087\u2089\u2081-c\u2085\u2085b-4947-92e\u2084-4c\u2080\u2088\u2087\u2083ba\u2082d\u2088\u2087/6df\u2081\u2083\u2088\u2089\u2080-1009-11ef-bffa-cb\u2080d\u2080a\u2084\u2088\u2089c\u2083\u2085/file-1lw\u2082xkwij.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lw\u2082xkwii/4c\u2082\u2087\u2080\u2087\u2089\u2081-c\u2085\u2085b-4947-92e\u2084-4c\u2080\u2088\u2087\u2083ba\u2082d\u2088\u2087/6df\u2081\u2083\u2088\u2089\u2080-1009-11ef-bffa-cb\u2080d\u2080a\u2084\u2088\u2089c\u2083\u2085/file-1lw\u2082xkwij.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 9th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 25 English Explanation\"> Order of bond angle is ClF_3",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In which one of the following pairs the central atoms exhibit sp^2 hybridization ?",
-      "options": {
-        "A": "BF_3 and NO_2^-",
-        "B": "NH_2^- and BF_3",
-        "C": "NH_2^- and H_2 O",
-        "D": "H_2 O and NO_2"
-      },
-      "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lw\u2083mzkx\u2083/cdddb\u2087e\u2088-7ff\u2085-4031-862d-5bf\u2085\u2081\u2087ff\u2080f\u2089f/ca\u2085a\u2081b\u2087\u2080-106c-11ef-afb\u2081-019815e\u2083e\u2085f\u2083/file-1lw\u2083mzkx\u2084.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lw\u2083mzkx\u2083/cdddb\u2087e\u2088-7ff\u2085-4031-862d-5bf\u2085\u2081\u2087ff\u2080f\u2089f/ca\u2085a\u2081b\u2087\u2080-106c-11ef-afb\u2081-019815e\u2083e\u2085f\u2083/file-1lw\u2083mzkx\u2084.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 9th April Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 23 English Explanation\"> have central atom with sp^2 hybridisation NH_2^- and H_2O have sp^3 hybridised central atom.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Number of molecules/ions from the following in which the central atom is involved in sp^3 hybridization is ________. NO_3^-, BCl_3, ClO_2^-, ClO_3^-",
-      "options": {
-        "A": "2%",
-        "B": "4%",
-        "C": "1%",
-        "D": "3%"
-      },
-      "answer": "A",
-      "solution": "To determine the number of molecules/ions in which the central atom is involved in sp^3 hybridization, we must analyze the hybridization state for each central atom. Hybridization is typically determined by the number of sigma bonds and lone pairs on the central atom. Let's evaluate each molecule/ion: <b>1. NO_3^-</b>: The central atom is nitrogen (N). In NO_3^-, nitrogen forms three sigma bonds with oxygen atoms and has no lone pairs. Using the formula for hybridization: Number of hybrid orbitals = number of sigma bonds + number of lone pairs For NO_3^-: 3 + 0 = 3 hybrid orbitals. Therefore, nitrogen is sp^2 hybridized. <b>2. BCl_3</b>: The central atom is boron (B). In BCl_3, boron forms three sigma bonds with chlorine atoms and has no lone pairs. Using the same formula: For BCl_3: 3 + 0 = 3 hybrid orbitals. Therefore, boron is sp^2 hybridized. <b>3. ClO_2^-</b>: The central atom is chlorine (Cl). In ClO_2^-, chlorine forms two sigma bonds with oxygen atoms and has two lone pairs. Therefore,: For ClO_2^-: 2 + 2 = 4 hybrid orbitals. Thus, chlorine is sp^3 hybridized. <b>4. ClO_3^-</b>: The central atom is chlorine (Cl). In ClO_3^-, chlorine forms three sigma bonds with oxygen atoms and has one lone pair. Therefore,: For ClO_3^-: 3 + 1 = 4 hybrid orbitals. Thus, chlorine is sp^3 hybridized. Based on the analysis, the molecules/ions ClO_2^- and ClO_3^- have their central atoms involved in sp^3 hybridization. Therefore, the total number is <strong>2</strong>. Thus, the correct option is <strong>Option A</strong>.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The number of species from the following that have pyramidal geometry around the central atom is _________ S_2 O_3^2-, SO_4^2-, SO_3^2-, S_2 O_7^2-",
-      "options": {
-        "A": "4%",
-        "B": "3%",
-        "C": "2%",
-        "D": "1%"
-      },
-      "answer": "D",
-      "solution": "SO_3^2- is the only species with pyramidal geometry. <img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lwhsvaob/e\u2085\u2086e\u2086\u2084\u2083\u2088-5a\u2086\u2086-40f\u2081-a\u2082\u2083\u2083-1345578a\u2082fd\u2083/c\u2083\u2081\u2081a\u2089b\u2080-1836-11ef-9081-0ded\u2089\u2086\u2086\u2082\u2085\u2086d\u2088/file-1lwhsvaoc.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lwhsvaob/e\u2085\u2086e\u2086\u2084\u2083\u2088-5a\u2086\u2086-40f\u2081-a\u2082\u2083\u2083-1345578a\u2082fd\u2083/c\u2083\u2081\u2081a\u2089b\u2080-1836-11ef-9081-0ded\u2089\u2086\u2086\u2082\u2085\u2086d\u2088/file-1lwhsvaoc.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 4th April Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 16 English Explanation\">",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The intermolecular interaction that is dependent on the inverse cube of distance between the molecule is:",
-      "options": {
-        "A": "Ion-dipole interaction",
-        "B": "London force",
-        "C": "Hydrogen bond",
-        "D": "Ion-ion interaction"
-      },
-      "answer": "C",
-      "solution": "Hydrogen bond is a type of strong electrostatic dipole- dipole intersection and dependent on the inverse cube of distance between the molecular ion-dipole - <br><br> interaction \\propto 1 \\over r^3.",
-      "exam": "JEE Main 2015",
-      "year": 2015,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Match the type of interaction in column A with the distance dependence of their interaction energy in column B <br/> .tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;-align:center;vertical-align:top .tg .tg-0pkyborder-color:inherit;-align:left;vertical-align:top <thead> <th class=\"tg-c\u2083ow\">A</th> <th class=\"tg-c\u2083ow\">B</th> </thead> <tbody> (i) ion-ion (a) 1 \\over r (ii) dipole-dipole (b) 1 \\over r^2 (iii) London dispersion (c) 1 \\over r^3 (d) 1 \\over r^6 </tbody>",
-      "options": {
-        "A": "(I)-(a), (II)-(b), (III)-(d)",
-        "B": "(I)-(b), (II)-(d), (III)-(c)",
-        "C": "(I)-(a), (II)-(b), (III)-(c)",
-        "D": "(I)-(a), (II)-(c), (III)-(d)"
-      },
-      "answer": "D",
-      "solution": "Ion-ion interaction energy \\propto 1 \\over r <br><br>Dipole-dipole interaction energy \\propto 1 \\over r^3 <br><br>London dispersion \\propto 1 \\over r^6",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct set from the following in which both pairs are in correct order of melting point is :",
-      "options": {
-        "A": "LiCl > LiF ; NaCl > MgO",
-        "B": "LiCl > LiF ; MgO > NaCl",
-        "C": "LiF > LiCl ; NaCl > MgO",
-        "D": "LiF > LiCl ; MgO > NaCl"
-      },
-      "answer": "D",
-      "solution": "Correct option is i.e. LiF > LiCl; MgO > NaCl. Melting point is directly proportional to lattice energy. Lattice energy is the energy required to separate a mole of an ionic solid into gaseous ions. It depends upon charge of ions and size of ions. M.P. \\propto L.E. \\propto Charge \\over Size \\matrix Li \\to + 1 & Li \\to + 1 \\cr F = - 1 & Cl \\to - 1 \\cr Both LiF and LiCl having same charge, so melting point will depend on size. Larger the size of anion, lesser the lattice energy and hence, melting point order is LiF > LiCl. Similarly, \\matrix MgO & NaCl \\cr Mg \\to 2 + & Na \\to 1 + \\cr O \\to 2 - & Cl \\to 1 - \\cr MgO having + 2 charge which is greater than NaCl (+ 1) charge. So, greater the charge on the ions greater will be lattice energy and hence, melting point order is MgO > NaCl.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Arrange the bonds in order of increasing ionic character in the molecules. LiF, K_2 O, N_2, SO_2 and ClF_3 :",
-      "options": {
-        "A": "N_2<SO_2<ClF_3<K_2 O<LiF",
-        "B": "ClF_3<N_2<SO_2<K_2 O<LiF",
-        "C": "LiF<K_2 O<ClF_3<SO_2<N_2",
-        "D": "N_2<ClF_3<SO_2<K_2 O<LiF"
-      },
-      "answer": "A",
-      "solution": "To determine the order of increasing ionic character in the bonds of the given molecules, we should consider the concept of electronegativity, which is a measure of the tendency of an atom to attract a bonding pair of electrons. The larger the difference in electronegativity between two atoms, the more ionic the bond is. Covalent bonds, on the other hand, have smaller differences in electronegativity. <br/> We can qualitatively assess the ionic character of the bonds in each molecule as follows : - N_2 : Both nitrogen atoms have the same electronegativity since it is a diatomic molecule of the same element, therefore the bond is purely covalent with no ionic character. <br/><br/>- SO_2 : Sulfur and oxygen have different electronegativities, with oxygen being more electronegative than sulfur, but not as drastically different as in ionic compounds. Therefore, the bond has some ionic character but is primarily covalent. <br/><br/>- ClF_3 : Chlorine and fluorine have different electronegativities, with fluorine being more electronegative. However, the difference is not as large as between metals and nonmetals, so while this bond has ionic character, it is not as ionic as a bond between a metal and a nonmetal. <br/><br/>- K_2O : Potassium is a metal with low electronegativity, and oxygen is a nonmetal with high electronegativity. Therefore, bonds between potassium and oxygen will have a high degree of ionic character. <br/><br/>- LiF : Lithium is a metal with low electronegativity, and fluorine is a nonmetal with very high electronegativity. The difference in electronegativity is very large, indicating a very high ionic character, even more so than in K_2O because fluorine is more electronegative than oxygen. Given these considerations, the correct order from least to most ionic character is as follows : N_2<SO_2<ClF_3<K_2O<LiF Therefore, the correct option is : Option A : N_2<SO_2<ClF_3<K_2O<LiF",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following is least ionic?",
-      "options": {
-        "A": "CoCl_2",
-        "B": "KCl",
-        "C": "BaCl_2",
-        "D": "AgCl"
-      },
-      "answer": "D",
-      "solution": "AgCl<CoCl_2<BaCl_2<KCl (ionic character) Reason: Ag^+ has pseudo inert gas configuration.",
-      "exam": "JEE Main 2024",
-      "year": 2024,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following species is <b>not</b> paramagnetic?",
-      "options": {
-        "A": "CO",
-        "B": "O<sub>2</sub>",
-        "C": "B<sub>2</sub>",
-        "D": "NO"
-      },
-      "answer": "A",
-      "solution": "Those species which have unpaired electrons are called paramagnetic species. <br><br>(a) CO has 14 electrons. <br><br>Moleculer orbital configuration of CO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>Here is no unpaired electron so it is diamagnetic. <br><br>(b) O_2 has 16 electrons. <br><br>Moleculer orbital configuration of O_2 is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^1^ * <br><br>Here 2 unpaired electron present, so it is paramagnetic. <br><br>(c) B<sub>2</sub> has 10 electrons. <br><br>Molecular orbital configuration of B<sub>2</sub> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^1 = \\pi _2p_y^1 <br><br>Here two unpaired electrons present. So it is paramagnetic. <br><br>(d) NO has 15 electrons. <br><br>Moleculer orbital configuration of NO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^0^ * <br><br>Here is 1 unpaired electron, So it is Paramagnetic.",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Which of the following is paramagnetic ?",
-      "options": {
-        "A": "NO<sup>+</sup>",
-        "B": "CO",
-        "C": "O_2^2 -",
-        "D": "B<sub>2</sub>"
-      },
-      "answer": "D",
-      "solution": "Those species which have unpaired electrons are called paramagnetic species. <br><br>(a) NO<sup>+</sup> has 14 electrons. <br><br>Moleculer orbital configuration of NO<sup>+</sup> is <br><br>\\sigma _1s^2 \\sigma _1s^2^ * \\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,\\, = \\,\\,\\pi _2p_y^2 <br><br>Here is no unpaired electron, So it is Diamagnetic. <br><br>(b) CO has 14 electrons. <br><br>Moleculer orbital configuration of CO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>Here is no unpaired electron so it is diamagnetic. <br><br>(c) O_2^2 - has 18 electrons. <br><br>Moleculer orbital configuration of O_2^2 - is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * = \\,\\,\\pi _2p_y^2^ * <br><br>Here also no unpaired electron present, so it is diamagnetic. <br><br>(d) B<sub>2</sub> has 10 electrons. <br><br>Molecular orbital configuration of B<sub>2</sub> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^1 = \\pi _2p_y^1 <br><br>Here two unpaired electrons present. <br><br>So it is paramagnetic.",
-      "exam": "JEE Main 2017",
-      "year": 2017,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In the molecular orbital diagram for the molecular ion, N<sub>2</sub><sup>+</sup>, the number of electrons in the \\sigma <sub>2p<sub>z</sub></sub> molecular orbital is :",
-      "options": {
-        "A": "0%",
-        "B": "1%",
-        "C": "2%",
-        "D": "3%"
-      },
-      "answer": "B",
-      "solution": "Electrons in N_2^ + = 7 \u00d7 2 - 1 = 13 <br><br>Moleculer orbital configuration of N_2^ + (13) <br><br>= \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^1 <br><br>\\therefore\\,\\,\\, \\,\\sigma _2p_z no. of electrons = 1.",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "According to molecular orbital theory, which of the following will not be a viable molecule?",
-      "options": {
-        "A": "\\rm He_2^2 +",
-        "B": "\\rm He_2^ +",
-        "C": "\\rm H_2^-",
-        "D": "\\rm H_2^2 -"
-      },
-      "answer": "D",
-      "solution": "<b><u>Note</u> :</b> <br><br>According to molecules orbital theory, when a molecule have bond order = 0 then that molecule does not exist. <br><br>(a)\\,\\,\\, Configuration of He_2^2 + (2 electrons) is = \\sigma _1s^2 <br><br>\\therefore\\,\\,\\, Bond order = 1 \\over 2 (2 -0) = 1 <br><br>(b)\\,\\,\\, Configuration of He_2^ + (3 electrons) is = \\sigma _1s^2 \\sigma _1s^1^ * <br><br>\\therefore\\,\\,\\, Bond order = 1 \\over 2 (2 -1) = 0.5 <br><br>(c) \\,\\,\\, Configuration of H_2^ - (3 electrons) is = \\sigma _1s^2 \\sigma _1s^1^ * <br><br>\\therefore Bond order = 1 \\over 2 (2 - 1) = 0.5 <br><br>(d) \\therefore\\,\\,\\, Configuration of He_2^2 - is = \\sigma _1s^2\\,\\,\\sigma _1s^2^ * <br><br>\\therefore\\,\\,\\, Bond order = = 1 \\over 2 (2 - 2) = 0 <br><br>\\therefore\\,\\,\\, H_2^2 - is not a viable molecule.",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "According to molecular orbital theory, which of the following is true with respect to Li<sub>2</sub><sup>+</sup> and Li<sub>2</sub><sup>-</sup> ?",
-      "options": {
-        "A": "Li_2^ + is unstable and Li_2^ - is stable",
-        "B": "Li_2^ + is stable and Li_2^ - unstable",
-        "C": "Both are stable",
-        "D": "Both are unstable"
-      },
-      "answer": "C",
-      "solution": "Li_2^ + (5 electrons) = \\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^1 <br><br>Li_2^ - (7 electrons) = \\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2 \\,\\sigma _2s^1^ * \\, <br><br> \\therefore Bond order of Li_2^ + = 3 - 2 \\over 2 = 0.5 <br><br>Bond order of Li_2^ - = 4 - 3 \\over 2 = 0.5 <br><br>As both Li_2^ + and Li_2^ - has non-zero bond order, so both are stable.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "During the change of O<sub>2</sub> to O<sub>2</sub><sup>-</sup> , the incoming electron goes to the orbital :",
-      "options": {
-        "A": "\\pi 2p_y",
-        "B": "\\sigma ^*2p_z",
-        "C": "\\pi ^*2p_x",
-        "D": "\\pi 2p_x"
-      },
-      "answer": "C",
-      "solution": "Molecular orbital configuration of O<sub>2</sub> (16 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^1^ * <br><br>Molecular orbital configuration of O<sub>2</sub><sup>-</sup> (17 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^1^ * <br><br>So, the incoming electron goes to \\pi _2p_x^ * or \\pi _2p_y^ *",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Among the following species, the diamagnetic molecule is",
-      "options": {
-        "A": "CO",
-        "B": "<sub>2</sub>",
-        "C": "O<sub>2</sub>",
-        "D": "NO"
-      },
-      "answer": "A",
-      "solution": "Those species which have unpaired electrons are called paramagnetic species. <br><br>And those species which have no unpaired electrons are called diamagnetic species. <br><br>(a) CO has 14 electrons. <br><br>Moleculer orbital configuration of CO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>Here is no unpaired electron so it is diamagnetic. <br><br>(b) B<sub>2</sub> has 10 electrons. <br><br>Molecular orbital configuration of B<sub>2</sub> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^1 = \\pi _2p_y^1 <br><br>Here two unpaired electrons present. So it is paramagnetic. <br><br>(c) O_2 has 16 electrons. <br><br>Moleculer orbital configuration of O_2 is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^1^ * <br><br>Here 2 unpaired electron present, so it is paramagnetic. <br><br>(d) NO has 15 electrons. <br><br>Moleculer orbital configuration of NO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^0^ * <br><br>Here is 1 unpaired electron, So it is Paramagnetic.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Among the following, the molecule expected to be stabilized by anion formation is :<br/> C<sub>2</sub>, O<sub>2</sub>, NO, F<sub>2</sub>",
-      "options": {
-        "A": "C<sub>2</sub>",
-        "B": "NO",
-        "C": "O<sub>2</sub>",
-        "D": "F<sub>2</sub>"
-      },
-      "answer": "A",
-      "solution": "C<sub>2</sub> has 12 electrons. <br><br>Moleculer orbital configuration of C<sub>2</sub> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2 <br><br>Bond order of C<sub>2</sub> = 8 - 4 \\over 2 = 2 <br><br>C<sub>2</sub><sup>-</sup> has 13 electrons. <br><br>Moleculer orbital configuration of C<sub>2</sub><sup>-</sup> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2 \\sigma _2p_z^1 <br><br>Bond order of C<sub>2</sub><sup>-</sup> = 9 - 4 \\over 2 = 2.5 <br><br>As we know, higher is the bond order more will be the stability of the molecule. <br><br>So we can say, stability of C<sub>2</sub> increases when it forms C<sub>2</sub><sup>-</sup> ion.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Among the following molecules / ions, C_2^2 - ,N_2^2 - ,O_2^2 - ,O_2 which one is diamagnetic and has the shortest bond length?",
-      "options": {
-        "A": "O_2",
-        "B": "C_2^2 -",
-        "C": "N_2^2 -",
-        "D": "O_2^2 -"
-      },
-      "answer": "B",
-      "solution": "<b><u>Note</u> :</b> <br><br>(1) \\,\\,\\,\\, Bond strength \\propto Bond order <br><br>(2) \\,\\,\\,\\, Bond length \\propto 1 \\over Bond\\,\\,order <br><br>(3) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bending molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 166 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 166 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>(A) In O atom 8 electrons present, so in O<sub>2</sub>, 8 \u00d7 2 = 16 electrons present. <br><br>Then in O_2^2 - no of electrons = 18 <br><br>\\therefore\\,\\,\\,\\, Molecular orbital configuration of O<sub>2</sub> (16 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^1^ * \\,\\, = \\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>Here 2 unpaired electrons are present so it is <b>paramagnetic</b>. <br><br>(D) Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br>Here no unpaired electrons are present so it is <b>diamagnetic</b>. <br><br>(B) C_2^2 - has 14 electrons. <br><br>Moleculer orbital configuration of C_2^2 - is <br><br> \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 4 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3 <br><br>Here no unpaired electron present, so it is <b>diamagnetic</b>. <br><br>(C) N_2^2 - has 16 electrons. <br><br>Moleculer orbital configuration of N_2^2 - is <br><br> \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>Here 2 unpaired electron present, so it is <b>paramagnetic</b>. <br><br>As Bond length \\propto 1 \\over Bond\\,\\,order <br><br>so among two diamagnetic ions C_2^2 - and O_2^2 - , bond order of C_2^2 - is more so it will have shorter bond length.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Two pi and half sigma bonds are present in :",
-      "options": {
-        "A": "O<sub>2</sub>",
-        "B": "N_2^ +",
-        "C": "O_2^ +",
-        "D": "N<sub>2</sub>"
-      },
-      "answer": "B",
-      "solution": "Two pi and half sigma bonds are presents in molecule with bond order 2.5. <br><br>Moleculer orbital configuration of N_2^+ (13 electrons) <br><br>= \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^1 <br><br>Bond order = 1 \\over 2( 9 - 4 \\) = 2.5",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In which of the following process, the bond order has increased and paramagnetic character has charged to diamagnetic ?",
-      "options": {
-        "A": "NO \\to NO<sup>+</sup>",
-        "B": "N<sub>2</sub> \\to N<sub>2</sub><sup>+</sup>",
-        "C": "O<sub>2</sub> \\to O<sub>2</sub><sup>+</sup>",
-        "D": "O<sub>2</sub> \\to O<sub>2</sub><sup>2-</sup>"
-      },
-      "answer": "A",
-      "solution": "Molecular orbital configuration of NO (15 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^o^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 5 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 5 \\] = 2.5 <br><br>And in NO one unpaired electron is present , so it is paramagnetic. <br><br>Similarly Molecular orbital configuration of NO<sup>+</sup> (14 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\, <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3 <br><br>And in NO<sup>+</sup> no unpaired electron is present , so it is diamagnetic.",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The bond order and the magnetic characteristics of CN<sup>-</sup> are :",
-      "options": {
-        "A": "3, paramagnetic",
-        "B": "21 \\over 2, paramagnetic",
-        "C": "3, diamagnetic",
-        "D": "21 \\over 2, diamagnetic"
-      },
-      "answer": "C",
-      "solution": "CN<sup>-</sup> has 14 electrons. <br><br>Moleculer orbital configuration of CN<sup>-</sup> is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>Here is no unpaired electron so it is diamagnetic. <br>N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "If the magnetic moment of a dioxygen species is 1.73 B.M, it may be :",
-      "options": {
-        "A": "O_2^ - or O_2^ +",
-        "B": "O<sub>2</sub>, O_2^ - or O_2^ +",
-        "C": "O<sub>2</sub> or O_2^ +",
-        "D": "O<sub>2</sub> or O_2^ -"
-      },
-      "answer": "A",
-      "solution": "Magnetic moment = 1.73 BM <br><br> \\therefore Unpaired electron = 1 <br><br>(1) O_2 has 16 electrons. <br><br>Moleculer orbital configuration of O_2 is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^1^ * <br><br>Here 2 unpaired electron present. <br><br>(2) O_2^+ has 15 electrons. <br><br>Moleculer orbital configuration of O_2^+ is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * = \\,\\,\\pi _2p_y^0^ * <br><br>Here 1 unpaired electron present. <br><br>(3) O_2^- has 17 electrons. <br><br>Moleculer orbital configuration of O_2^- is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,= \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * = \\,\\,\\pi _2p_y^1^ * <br><br>Here 1 unpaired electron present. <br><br>Hence O_2^- & O_2^+ have one unpaired electron.",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Of the species, NO, NO<sup>+</sup>, NO<sup>2+</sup> and NO<sup>-</sup> , the one with minimum bond strength is :",
-      "options": {
-        "A": "NO<sup>\\\u2013</sup>",
-        "B": "NO",
-        "C": "NO<sup>+</sup>",
-        "D": "NO<sup>2+</sup>"
-      },
-      "answer": "A",
-      "solution": "<b><u>Note</u> :</b> <br><br>(1) \\,\\,\\,\\, Bond strength \\propto Bond order <br><br>(2) \\,\\,\\,\\, Bond length \\propto 1 \\over Bond\\,\\,order <br><br>(3) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 147 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Chemistry - Chemical Bonding & Molecular Structure Question 147 English Explanation 2\"> <br><br>Molecular orbital configuration of NO (15 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^o^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 5 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 5 \\] = 2.5 <br><br>Similarly Molecular orbital configuration of NO<sup>+</sup> (14 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\, <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3 <br><br>Similarly Molecular orbital configuration of NO<sup>2+</sup> (13 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^1\\, <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 9 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 9 - 4 \\] = 2.5 <br><br>Molecular orbital configuration of NO<sup>-</sup> (16 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 6 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>As Bond strength \\propto Bond order <br><br> \\therefore NO<sup>\\\u2013</sup> will have minimum bond strength.",
-      "exam": "JEE Main 2020",
-      "year": 2020,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "According to molecular orbital theory, the species among the following that does not exist is :",
-      "options": {
-        "A": "O_2^2 -",
-        "B": "E_2",
-        "C": "He_2^ -",
-        "D": "He_2^ +"
-      },
-      "answer": "B",
-      "solution": "<b><u>Note</u> :</b> <br><br>According to molecules orbital theory, when a molecule have bond order = 0 then that molecule does not exist. <br><br>We know, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 136 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 136 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br>\\,\\,\\, Configuration of He_2^ + (3 electrons) is = \\sigma _1s^2\\,\\,\\sigma _1s^1^ * <br><br>\\therefore\\,\\,\\, Bond order = 1 \\over 2 (2 -1) = 0.5 <br><br>\\,\\,\\, Configuration of He_2^ - (5 electrons) is = \\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\sigma _2s^1\\, <br><br>\\therefore\\,\\,\\, Bond order = 1 \\over 2 (3 -2) = 0.5 <br><br>\\,\\,\\, Configuration of Be_2 (4 electrons) is = \\sigma _1s^2 \\sigma _1s^2^ * <br><br>\\therefore Bond order = 1 \\over 2 (2 - 2) = 0",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Match List - I with List - II.<br/><br/> <thead> <th></th> <th>List - I (Molecule)</th> <th></th> <th>List - II (Bond order)</th> </thead> <tbody> (a) Ne_2 (i) 1 (b) N_2 (ii) 2 (c) F_2 (iii) 0 (d) O_2 (iv) 3 </tbody> <br/>Choose the correct answer from the options given below :",
-      "options": {
-        "A": "(a) \\to (i), (b) \\to (ii), (c) \\to (iii), (d) \\to (iv)",
-        "B": "(a) \\to (iv), (b) \\to (iii), (c) \\to (ii), (d) \\to (i)",
-        "C": "(a) \\to (iii), (b) \\to (iv), (c) \\to (i), (d) \\to (ii)",
-        "D": "(a) \\to (ii), (b) \\to (i), (c) \\to (iv), (d) \\to (iii)"
-      },
-      "answer": "C",
-      "solution": "Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 133 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 133 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>(a) Molecular orbital configuration of Ne<sub>2</sub> (20 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^2^ * \\,\\, = \\pi _2p_y^2^ * \\sigma _2p_z^2^* <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 10 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 10 \\] = 0 <br><br>(Note : All inert gases has BO = 0 and it does not exist as molecule. Here Ne is also an inert gas.) <br><br>(b) Moleculer orbital configuration of N_2 (14 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 4 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3 <br><br>(d) Molecular orbital configuration of F<sub>2</sub> (18 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^2^ * \\,\\, = \\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 8 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 8 \\] = 1 <br><br>(d) Molecular orbital configuration of O<sub>2</sub> (16 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^1^ * \\,\\, = \\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In the following the correct bond order sequence is :",
-      "options": {
-        "A": "O_2^2 - > O_2^ + > O_2^ - > O_2",
-        "B": "O_2^ + > O_2^ - > O_2^2 - > O_2",
-        "C": "O_2^ + > O_2 > O_2^ - > O_2^2 -",
-        "D": "O_2 > O_2^ - > O_2^2 - > O_2^ +"
-      },
-      "answer": "C",
-      "solution": "<b><u>Note</u> :</b> <br><br>(1) \\,\\,\\,\\, Bond strength \\propto Bond order <br><br>(2) \\,\\,\\,\\, Bond length \\propto 1 \\over Bond\\,\\,order <br><br>(3) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 123 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 123 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>In O atom 8 electrons present, so in O<sub>2</sub>, 8 \u00d7 2 = 16 electrons present. <br><br>Then in O_2^ + no of electrons = 15 <br><br>in O_2^ - no of electrons = 17 <br><br>in O_2^2 - no of electrons = 18 <br><br>\\therefore\\,\\,\\,\\, Molecular orbital configuration of O<sub>2</sub> (16 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^1^ * \\,\\, = \\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>Molecular orbital configuration of O_2^ + (15 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^o^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 5 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 5 \\] = 2.5 <br><br>Molecular orbital configuration of O_2^ - (17 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 7 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 7 \\] = 1.5 <br><br>Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br>As Bond strength \\propto Bond order so, correct order is <br><br>O_2^2 - < O_2^ - < O_2 < O_2^ +",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The bond order and magnetic behaviour of O_2^ - ion are respectively :",
-      "options": {
-        "A": "1.5 and paramagnetic",
-        "B": "1.5 and diamagnetic",
-        "C": "2 and diamagnetic",
-        "D": "1 and paramagnetic"
-      },
-      "answer": "A",
-      "solution": "O_2^ - = (\\sigma _1s)^2(\\sigma _1s^*)^2(\\sigma _2s)^2(\\sigma _2s^*)^2(\\sigma _2p_z)^2( \\pi _2p_x^2 = \\pi _2p_y^2 \\)( \\pi _2p_x^*2 = \\pi _2p_y^*1 \\)<br><br>Bond order = 10 - 7 \\over 2 = 1.5 <br><br>and paramagnetic.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Match items of List-I with those of List-II :<br/><br/> <thead> <th></th> <th>List - I<br/>(Property)</th> <th></th> <th>List - II<br/>(Example)</th> </thead> <tbody> (a) Diamagnetism (i) MnO (b) Ferrimagnetism (ii) O_2 (c) Paramagnetism (iii) NaCl (d) Antiferromagnetism (iv) Fe_3O_4 </tbody> <br/><br/>Choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
-        "B": "(a)-(i), (b)-(iii), (c)-(iv), (d)-(ii)",
-        "C": "(a)-(iii), (b)-(iv), (c)-(ii), (d)-(i)",
-        "D": "(a)-(iv), (b)-(ii), (c)-(i), (d)-(iii)"
-      },
-      "answer": "C",
-      "solution": "A. NaCl is diamagnetic because all electrons are paired in Na<sup>+</sup> and in Cl<sup>\\u\u2082\u2082\u2081\u2082</sup> . So, it shows diamagnetism. B. Fe<sub>3</sub>O<sub>4</sub> is ferrimagnetic because of the presence of the unequal alignment of magnetic moment in opposite direction. C. O<sub>2</sub> molecule has two unpaired electrons. So, it is paramagnetic. D. In MnO, the orientation of the electrons of Mn and O is such that they cancel their effects, hence it is antiferromagnetic.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Number of paramagnetic oxides among the following given oxides is ____________.<br/><br/>Li<sub>2</sub>O, CaO, Na<sub>2</sub>O<sub>2</sub>, KO<sub>2</sub>, MgO and K<sub>2</sub>O",
+      "question": "In a reaction carried out at 400 K , 0.01 % of the total number of collisions is effective. The energy of activation of the reaction is",
       "options": {
         "A": "1%",
-        "B": "2%",
-        "C": "3%",
-        "D": "0%"
+        "B": "3 k J / m o l",
+        "C": "5 k J / m o l",
+        "D": "2 k J / m o l"
       },
       "answer": "A",
-      "solution": "Li<sub>2</sub>O \\Rightarrow 2Li<sup>+</sup> O<sup>2-</sup><br><br>CaO \\Rightarrow Ca<sup>2+</sup> O<sup>2-</sup><br><br>Na<sub>2</sub>O<sub>2</sub> \\Rightarrow 2Na<sup>+</sup> O_2^2 - <br><br>KO<sub>2</sub> \\Rightarrow O_2^- <br><br>MgO \\Rightarrow Mg<sup>2+</sup> O<sup>2-</sup><br><br>K<sub>2</sub>O \\Rightarrow 2K<sup>+</sup> O<sup>2-</sup><br><br>O<sup>2-</sup> \\Rightarrow Complete octet, diamagnetic<br><br>O_2^2\\u\u2082\u2082\u2081\u2082 has 18 electrons. <br><br>Moleculer orbital configuration of O_2^2\\u\u2082\u2082\u2081\u2082 is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>Here is no unpaired electron so it is diamagnetic. <br><br>O_2^\\u\u2082\u2082\u2081\u2082 has 17 electrons. <br><br>Moleculer orbital configuration of O_2^\\u\u2082\u2082\u2081\u2082 is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^1^ * <br><br>Here is 1 unpaired electron so it is paramagnetic.",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Consider the ions/molecule O_2^ + , O<sub>2</sub>, O_2^ - , O_2^ 2- For increasing bond order the correct option is :",
-      "options": {
-        "A": "O_2^ 2- < O_2^ - < O<sub>2</sub> < O_2^ +",
-        "B": "O_2^ - < O_2^ 2- < O<sub>2</sub> < O_2^ +",
-        "C": "O_2^ - < O_2^ 2- < O_2^ + < O<sub>2</sub>",
-        "D": "O_2^ - < O_2^ + < O_2^ 2- < O<sub>2</sub>"
-      },
-      "answer": "A",
-      "solution": "<b><u>Note</u> :</b> <br><br>(1) \\,\\,\\,\\, Bond strength \\propto Bond order <br><br>(2) \\,\\,\\,\\, Bond length \\propto 1 \\over Bond\\,\\,order <br><br>(3) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = Number of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = Number of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2022 (Online) 26th June Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 104 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2022 (Online) 26th June Morning Shift Chemistry - Chemical Bonding & Molecular Structure Question 104 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>In O atom 8 electrons present, so in O<sub>2</sub>, 8 \u00d7 2 = 16 electrons present. <br><br>Then in O_2^ + no of electrons = 15 <br><br>in O_2^ - no of electrons = 17 <br><br>in O_2^2 - no of electrons = 18 <br><br>\\therefore\\,\\,\\,\\, Molecular orbital configuration of O<sub>2</sub> (16 electrons) is <br><br>\\sigma _1s^2\\,\\,\\sigma _1s^2^ * \\, \\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\, \\sigma _2p_z^2\\,\\,\\pi _2p_x^2 = \\pi _2p_y^2\\,\\,\\pi _2p_x^1^ * \\,\\, = \\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>Molecular orbital configuration of O_2^ + (15 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^o^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 5 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 5 \\] = 2.5 <br><br>Molecular orbital configuration of O_2^ - (17 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 7 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 7 \\] = 1.5 <br><br>Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br> So, correct order of Bond order is <br><br>O_2^2 - < O_2^ - < O_2 < O_2^ +",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Bonding in which of the following diatomic molecule(s) become(s) stronger, on the basis of MO Theory, by removal of an electron? (A) NO (B) N<sub>2</sub> (C) O<sub>2</sub> (D) C<sub>2</sub> (E) B<sub>2</sub> Choose the most appropriate answer from the options given below :",
-      "options": {
-        "A": "(A), (B), (C) only",
-        "B": "(B), (C), (E) only",
-        "C": "(A), (C) only",
-        "D": "(D) only"
-      },
-      "answer": "C",
-      "solution": "If an electron is removed from the anti-bonding orbital, then it will tend to increase the bond order. The HOMO in NO and O<sub>2</sub> is antibonding molecular orbital .<br/><br/> Hence, in NO and O<sub>2</sub> bond order will increase on loss of electron.",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The correct order of bond orders of C_2^2 - , N_2^2 - and O_2^2 - is, respectively",
-      "options": {
-        "A": "C_2^2 - < N_2^2 - < O_2^2 -",
-        "B": "O_2^2 - < N_2^2 - < C_2^2 -",
-        "C": "_2^2 - < O_2^2 - < N_2^2 -",
-        "D": "N_2^2 - < C_2^2 - < O_2^2 -"
-      },
-      "answer": "B",
-      "solution": "<b><u>Note</u> :</b> <br><br>(1) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bonding molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(2) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2022 (Online) 24th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 99 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(3) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2022 (Online) 24th June Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 99 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>In O atom 8 electrons present, so in O<sub>2</sub>, 8 \u00d7 2 = 16 electrons present. <br><br>in O_2^2 - no of electrons = 18 <br><br>(A) Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore\\,\\,\\,\\, N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br>(B) C_2^2 - has 14 electrons. <br><br>Moleculer orbital configuration of C_2^2 - is <br><br> \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 4 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 4 \\] = 3 <br><br>(C) N_2^2 - has 16 electrons. <br><br>Moleculer orbital configuration of N_2^2 - is <br><br> \\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\sigma _2p_z^2\\,\\pi _2p_x^1^ * \\, = \\,\\pi _2p_y^1^ * <br><br>\\therefore\\,\\,\\,\\,N<sub>a</sub> = 6 <br><br>N<sub>b</sub> = 10 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2\\left[ 10 - 6 \\] = 2 <br><br>The correct order of bond orders of C_2^2 - , N_2^2 - and O_2^2 - <br><br>O_2^2 - < N_2^2 - < C_2^2 -",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "According to MO theory the bond orders for O_2^2 - , CO and NO^+ respectively, are",
-      "options": {
-        "A": "1, 3 and 3",
-        "B": "2, 3 and 3",
-        "C": "1, 2 and 3",
-        "D": "1, 3 and 2"
-      },
-      "answer": "A",
-      "solution": ".tg border-collapse:collapse;border-spacing:0; .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-baqh-align:center;vertical-align:top <colgroup> <col style=\"width: 113px\"> <col style=\"width: 114px\"> </colgroup> <thead> <th class=\"tg-baqh\">Species</th> <th class=\"tg-baqh\">B.O.</th> </thead> <tbody> O_2^2 - 1 CO 3 NO^ \\oplus 3 </tbody> <b><u>Note</u> :</b> <br><br>(1) \\, Bond order = 1 \\over 2 [N<sub>b </sub> - N<sub>a</sub>] <br><br>N<sub>b</sub> = No of electrons in bending molecular orbital <br><br>N<sub>a</sub> = No of electrons in anti bonding molecular orbital <br><br>(4) \\,\\,\\,\\, upto 14 electrons, molecular orbital configuration is <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2084\u2084\u2081/exam_images/dyi\u2080\u2085nwqikfdrpmfsriz.webp\" loading=\"lazy\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 76 English Explanation 1\"> <br><br>Here N<sub>a</sub> = Anti bonding electron = 4 and N<sub>b</sub> = 10 <br><br>(5) \\,\\,\\,\\, After 14 electrons to 20 electrons molecular orbital configuration is - - - <br><br><img class=\"question-image\" src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2087\u2081\u2088/exam_images/tivzvzeox\u2081orkr\u2082tnz\u2085y.webp\" loading=\"lazy\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 76 English Explanation 2\"> <br><br>Here N<sub>a</sub> = 10 <br><br>and N<sub>b</sub> = 10 <br><br>(A) In O atom 8 electrons present, so in O<sub>2</sub>, 8 \u00d7 2 = 16 electrons present. <br><br>Then in O_2^2 - no of electrons = 18 <br><br> \\therefore Molecular orbital configuration of O _2^2 - (18 electrons) is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\sigma _2p_z^2\\,\\pi _2p_x^2\\, = \\,\\pi _2p_y^2\\,\\pi _2p_x^2^ * \\, = \\,\\pi _2p_y^2^ * <br><br>\\therefore N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 8 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 8] = 1 <br><br>(B) CO has 14 electrons. <br><br>Moleculer orbital configuration of CO is <br><br>\\sigma _1s^2\\,\\sigma _1s^2^ * \\,\\,\\sigma _2s^2\\,\\,\\sigma _2s^2^ * \\,\\,\\pi _2p_x^2 =\\,\\pi _2p_y^2\\,\\sigma _2p_z^2 <br><br>\\therefore N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 4] = 3 <br><br>(C) NO<sup>+</sup> has 14 electrons. <br><br>Moleculer orbital configuration of NO<sup>+</sup> is <br><br>\\sigma _1s^2 \\sigma _1s^2^ * \\sigma _2s^2\\,\\sigma _2s^2^ * \\,\\,\\sigma _2p_z^2\\,\\,\\pi _2p_x^2\\,\\, = \\,\\,\\pi _2p_y^2 <br><br>\\therefore N<sub>b</sub> = 10 <br><br>N<sub>a</sub> = 4 <br><br>\\therefore\\,\\,\\,\\, BO = 1 \\over 2 [ 10 - 4] = 3",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The magnetic behaviour of Li_2O,Na_2O_2 and KO_2, respectively, are :",
-      "options": {
-        "A": "Paramagnetic, paramagnetic and diamagnetic",
-        "B": "Paramagnetic, diamagnetic and paramagnetic",
-        "C": "Diamagnetic, paramagnetic and diamagnetic",
-        "D": "Iamagnetic, diamagnetic and paramagnetic"
-      },
-      "answer": "D",
-      "solution": "Li_2 O \\arrow O^2- \\arrow diamagnetic <br/><br/> Na_2 O_2 \\arrow O_2^2- \\arrow diamagnetic <br/><br/> KO_2 \\arrow O_2^- \\arrow paramagnetic",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "What is the number of unpaired electron(s) in the highest occupied molecular orbital of the following species : N_2;N_2^ + ;O_2;O_2^ + ?",
-      "options": {
-        "A": "0, 1, 0, 1",
-        "B": "2, 1, 0, 1",
-        "C": "0, 1, 2, 1",
-        "D": "2, 1, 2, 1"
-      },
-      "answer": "C",
-      "solution": ".tg border-collapse:collapse;border-spacing:0;width:100% .tg tdborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; overflow:hidden;padding:10px 5px;word-break:normal; .tg thborder-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal; .tg .tg-c\u2083owborder-color:inherit;-align:center;vertical-align:top <thead> <th class=\"tg-c\u2083ow\">Molecule</th> <th class=\"tg-c\u2083ow\">\\begingathered No. of unpaired electron in \\\\ highest occupied \\\\ molecular orbital \\endgathered</th> </thead> <tbody> N_2 0 N_2^\\oplus 1 O_2 2 O_2^\\oplus 1 </tbody>",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "In which of the following processes, the bond order increases and paramagnetic character changes to diamagnetic one ?",
-      "options": {
-        "A": "O_2 \\arrow O_2^2-",
-        "B": "N_2 \\arrow N_2^+",
-        "C": "NO \\arrow NO^+",
-        "D": "O_2 \\arrow O_2^+"
-      },
-      "answer": "C",
-      "solution": "Let's analyze each option: <br/><br/> Option A: O_2 \\arrow O_2^2-<br/><br/> The bond order of O_2 is 2 and it is paramagnetic. When two electrons are added to form O_2^2-, the bond order becomes 1 (decreases) and it becomes diamagnetic. This option does not meet the required conditions. <br/><br/> Option B: N_2 \\arrow N_2^+<br/><br/> The bond order of N_2 is 3 and it is diamagnetic. When one electron is removed to form N_2^+, the bond order becomes 2.5 (decreases) and it remains diamagnetic. This option does not meet the required conditions. <br/><br/> Option C: NO \\arrow NO^+<br/><br/> The bond order of NO is 2.5 and it is paramagnetic. When one electron is removed to form NO^+, the bond order becomes 3 (increases) and it becomes diamagnetic. This option meets the required conditions. <br/><br/> Option D: O_2 \\arrow O_2^+<br/><br/> The bond order of O_2 is 2 and it is paramagnetic. When one electron is removed to form O_2^+, the bond order becomes 2.5 (increases) and it remains paramagnetic. This option does not meet the required conditions. <br/><br/> Therefore, the correct answer is NO \\arrow NO^+.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The bond order and magnetic property of acetylide ion are same as that of",
-      "options": {
-        "A": "O_2^+",
-        "B": "O_2^-",
-        "C": "N_2^+",
-        "D": "NO^+"
-      },
-      "answer": "D",
-      "solution": "The acetylide ion has the formula C_2^2-. To determine its bond order, we need to first write the molecular orbital (MO) diagram for this ion. The MO diagram for C_2^2- is: \\u\u2080\u2083c\u2083_1s^2\\u\u2080\u2083c\u2083_1s^2\\u\u2080\u2083c\u2083_2s^2\\u\u2080\u2083c\u2083_2s^2\\u\u2080\u2083c\u2080_2p^4 The bond order is given by the difference between the number of bonding electrons and the number of antibonding electrons, divided by 2. In this case, there are 4 bonding electrons and 2 antibonding electrons, so the bond order is: \\frac\u2084-22=1 Therefore, the bond order of C_2^2- is 1. Now, we need to determine the magnetic property of C_2^2-. Since the bond order is 1, we know that the ion has a single unpaired electron. Therefore, it is paramagnetic. Among the given options, the only ion with a bond order of 1 and paramagnetic property is NO^+.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "Given below are two statements :<br/><br/> <b>Statement (I)</b> : A \\pi bonding MO has lower electron density above and below the inter-nuclear axis. <br/><br/> <b>Statement (II)</b> : The \\pi^* antibonding MO has a node between the nuclei.<br/><br/> \nIn the light of the above statements, choose the <b>most appropriate</b> answer from the options given below :",
-      "options": {
-        "A": "Both Statement I and Statement II are true",
-        "B": "Both Statement I and Statement II are false",
-        "C": "Statement I is true but Statement II is false",
-        "D": "Statement I is false but Statement II is true"
-      },
-      "answer": "D",
-      "solution": "Let's analyze both statements: <b>Statement (I)</b>: \"A \\pi bonding MO has lower electron density above and below the inter-nuclear axis.\" This statement is false. In molecular orbital (MO) theory, a pi bond (\\pi bond) is formed by the sideways overlap of p-orbitals from two adjacent atoms. The characteristic electron density of a \\pi bonding molecular orbital is concentrated above and below the inter-nuclear axis, not lower. These regions of electron density are where the p-orbitals overlap and electrons are likely to be found. This concentration of electron density above and below the inter-nuclear axis is what allows the \\pi bond to provide additional stability to the molecule, alongside any sigma (\\sigma) bonds that may be present. <b>Statement (II)</b>: \"The \\pi^* antibonding MO has a node between the nuclei.\" This statement is true. In a \\pi^* (pi-star) antibonding molecular orbital, there is indeed a nodal plane between the nuclei where the probability of finding electrons is essentially zero. This node arises from the out-of-phase combination of the p-orbitals from adjacent atoms, which results in destructive interference and a region of zero electron density in the bonding region. The presence of this nodal plane is what makes the \\pi^* orbital antibonding\\\u2014the electrons in this orbital actually serve to destabilize the bond between the two atoms. Therefore, the correct answer is: Option D: Statement I is false but Statement II is true.",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: In a reaction carried out at 400 K , 0.01 % of the total number of collisions is effective. The energy of activation of Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: K = A e - E a RT e E a RT = 0.01 100 \u21d2 E a RT = 2.303 log \u00e2\u0081\u00a1 10 - 4 \u21d2 E a = 2.303 \u00c3\u0097 4 \u00c3\u0097 400 = 30.6 k J / m o l </think> **Correct Answer: (A)** **Explanation:** K = A e - E a RT e E a RT = 0.01 100 \u21d2 E a RT = 2.303 log \u00e2\u0081\u00a1 10 - 4 \u21d2 E a = 2.303 \u00c3\u0097 4 \u00c3\u0097 400 = 30.6 k J / m o l **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Bonding and Molecular Structure"
     },
     {
-      "question": "When \\psi_A and \\psi_B are the wave functions of atomic orbitals, then \\sigma^* is represented by :",
+      "question": "The average kinetic energy of one molecule of an ideal gas at 27 \u00e2\u0084\u0083 and 1 atm pressure is [Avogadro number NA = 6.023 \u00c3\u0097 10 23 ]",
       "options": {
-        "A": "\\psi_A+2 \\psi_B",
-        "B": "\\psi_A-\\psi_B",
-        "C": "\\psi_A-2 \\psi_B",
-        "D": "\\psi_A+\\psi_B"
+        "A": "900 cal K -1 mol -1",
+        "B": "21 \u00c3\u0097 10 - 2 1 JK -1 molecule -1",
+        "C": "7 JK -1 mol -1",
+        "D": "3 JK -1 mol -1"
       },
-      "answer": "B",
-      "solution": "In Molecular Orbital Theory, molecular orbitals are formed by the linear combination of atomic orbitals (LCAO). The wave functions of atomic orbitals \\psi_A and \\psi_B can combine in two ways: <ol> <li><strong>Constructive Interference</strong>: This leads to the formation of a bonding molecular orbital (\\sigma):</li> </ol> \\sigma = \\psi_A + \\psi_B <ol> <li><strong>Destructive Interference</strong>: This leads to the formation of an antibonding molecular orbital (\\sigma^*):</li> </ol> \\sigma^* = \\psi_A - \\psi_B <h\u2083>Conclusion</h\u2083> The antibonding molecular orbital \\sigma^* is represented by: \\sigma^* = \\psi_A - \\psi_B Therefore, the correct answer is: Option B: \\psi_A - \\psi_B",
-      "exam": "JEE Main 2024",
+      "answer": "A",
+      "solution": "<think> The question asks about: The average kinetic energy of one molecule of an ideal gas at 27 \u00e2\u0084\u0083 and 1 atm pressure is [Avogadro number NA = 6.023 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The average kinetic energy per molecule, = 3 2 kT Or = 3 2 RN AT = 3 2 \u00c3\u0097 8.314 6.023 \u00c3\u0097 1 0 2 3 \u00c3\u0097 3 0 0 = 6.21 \u00c3\u0097 1 0 - 2 1 JK -1 molecule -1 </think> **Correct Answer: (A)** **Explanation:** The average kinetic energy per molecule, = 3 2 kT Or = 3 2 RN AT = 3 2 \u00c3\u0097 8.314 6.023 \u00c3\u0097 1 0 2 3 \u00c3\u0097 3 0 0 = 6.21 \u00c3\u0097 1 0 - 2 1 JK -1 molecule -1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Bonding and Molecular Structure"
     },
     {
-      "question": "Identify the species having one \\pi-bond and maximum number of canonical forms from the following :",
+      "question": "A sample of milk splits after 60 min. at 300 K and after 40 min. at 400 K when the population of lactobacillus acidophilus in it doubles. The activation energy (in kJ/mol) for this process is closest to (Given, R = 8.3 J m o l - 1 K - 1 , l n 2 3 = 0.4 , e - 3 = 4.0 )",
       "options": {
-        "A": "SO<sub>3</sub>",
-        "B": "O<sub>2</sub>",
-        "C": "SO<sub>2</sub>",
-        "D": "CO_3^2 -"
-      },
-      "answer": "D",
-      "solution": "Among SO<sub>3</sub>, O<sub>2</sub>, SO<sub>2</sub> and CO_3^2 - , only O<sub>2</sub> and CO_3^2 - has only one \\pi-bond.<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2082\u2083/exam_images/ta\u2087fcu\u2084vvzhmhpraq\u2080w\u2084.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th July Evening Shift Chemistry - Chemical Bonding & Molecular Structure Question 124 English Explanation\">",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Chemistry",
-      "chapter": "Chemical Bonding and Molecular Structure"
-    },
-    {
-      "question": "The pair that contains two P \\\u2013 H bonds in each of the oxoacids is",
-      "options": {
-        "A": "H<sub>3</sub>PO<sub>2</sub> and H<sub>4</sub>P<sub>2</sub>O<sub>5</sub>",
-        "B": "H<sub>4</sub>P<sub>2</sub>O<sub>5</sub> and H<sub>4</sub>P<sub>2</sub>O<sub>6</sub>",
-        "C": "H<sub>4</sub>P<sub>2</sub>O<sub>5</sub> and H<sub>3</sub>PO<sub>3</sub>",
-        "D": "H<sub>3</sub>PO<sub>3</sub> and H<sub>3</sub>PO<sub>2</sub>"
+        "A": "3%",
+        "B": "8%",
+        "C": "9%",
+        "D": "98%"
       },
       "answer": "A",
-      "solution": "<source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2084\u2080\u2081/exam_images/a\u2087dwpsa\u2086n\u2087njmos\u2087lcxb.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2083\u2089\u2089\u2089/exam_images/xrv\u2085xps\u2083c\u2080fvcjfmqcev.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 169 English Explanation 1\"> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2085\u2083\u2087\u2088/exam_images/sm\u2083\u2083nsrvszcyeivjhrcg.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2084\u2086\u2082\u2086/exam_images/zhofsp\u2087zcvgqhmzovays.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 169 English Explanation 2\"> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2085\u2080\u2087/exam_images/n\u2089rsmyclopql\u2084\u2085lr\u2086\u2087s\u2081.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2085\u2084\u2088/exam_images/uwwerstvtftk\u2085tuzpkru.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 169 English Explanation 3\"> <source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2086\u2082\u2088/exam_images/fswywbubdxaxq\u2085r\u2084ncxk.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2083\u2081\u2082/exam_images/dvvhhtk\u2086jrakbgytptip.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 10th January Evening Slot Chemistry - Chemical Bonding & Molecular Structure Question 169 English Explanation 4\">",
-      "exam": "JEE Main 2019",
-      "year": 2019,
+      "solution": "<think> The question asks about: A sample of milk splits after 60 min. at 300 K and after 40 min. at 400 K when the population of lactobacillus acidophil Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: l n k 2 k 1 = E a R\u2081 T\u2081 - 1 T\u2082 l n 60 40 = E a 8.3 1 300 - 1 400 E a = 3.98 k J / m o l e </think> **Correct Answer: (A)** **Explanation:** l n k 2 k 1 = E a R\u2081 T\u2081 - 1 T\u2082 l n 60 40 = E a 8.3 1 300 - 1 400 E a = 3.98 k J / m o l e **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Bonding and Molecular Structure"
     },
     {
-      "question": "The relative strength of interionic/intermolecular forces in decreasing order is :",
+      "question": "The energy of activation for an uncatalysed reaction is 100 kJ mol -1 . Presence of a catalyst lowers the energy of activation by 75%. The log 1 0 K\u2082 K\u2081 of the ratio of rate constant of catalysed and uncatalysed reactions at 27\u00b0C is? Assume the frequency factor is same for both reactions. (Given 2.303 \u00c3\u0097 8.314 = 19.147)",
       "options": {
-        "A": "Dipole-dipole > ion-dipole > ion-ion",
-        "B": "Ion-dipole > dipole-dipole > ion-ion",
-        "C": "Ion-dipole > ion-ion > dipole-dipole",
-        "D": "Ion-ion > ion-dipole > dipole-dipole"
+        "A": "1%",
+        "B": "05%",
+        "C": "10%",
+        "D": "52%"
       },
-      "answer": "D",
-      "solution": "Ionic interactions are stronger as compared to van der waal interactions. <br><br>So, correct order is <br><br>ion-ion > ion-dipole > dipole-dipole",
-      "exam": "JEE Main 2020",
-      "year": 2020,
+      "answer": "A",
+      "solution": "<think> The question asks about: The energy of activation for an uncatalysed reaction is 100 kJ mol -1 . Presence of a catalyst lowers the energy of acti Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: In absence of catalyst, K\u2081 = Ae - 1 0 0 / RT In presence of catalyst ; K\u2082 = Ae - 2 5 / RT \u2234 K\u2082 K\u2081 = e 7 5 / RT \u21d2 log e K\u2082 K\u2081 = 7 5 RT \u21d2 log 1 0 K\u2082 K\u2081 = 7 5 2.303 \u00d7 R \u00d7 T \u21d2 log 1 0 K\u2082 K\u2081 = 7 5 2.303 \u00d7 8.314 \u00d7 1 0 - 3 \u00d7 3 0 0 = 13.057 </think> **Correct Answer: (A)** **Explanation:** In absence of catalyst, K\u2081 = Ae - 1 0 0 / RT In presence of catalyst ; K\u2082 = Ae - 2 5 / RT \u2234 K\u2082 K\u2081 = e 7 5 / RT \u21d2 log e K\u2082 K\u2081 = 7 5 RT \u21d2 log 1 0 K\u2082 K\u2081 = 7 5 2.303 \u00d7 R \u00d7 T \u21d2 log 1 0 K\u2082 K\u2081 = 7 5 2.303 \u00d7 8.314 \u00d7 1 0 - 3 \u00d7 3 0 0 = 13.057 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The rate constants of a reaction at 500K and 700K are 0.02 s \u00e2\u0080\u00931 and 0.07 s \u00e2\u0080\u00931 respectively. What are the values of E a and A?",
+      "options": {
+        "A": "E a = 1152",
+        "B": "5 J and",
+        "C": "56%",
+        "D": "8 J and"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The rate constants of a reaction at 500K and 700K are 0.02 s \u00e2\u0080\u00931 and 0.07 s \u00e2\u0080\u00931 respectively. What are the values of E Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (D) E a = 18230.8 J and A = 1.61 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (D) E a = 18230.8 J and A = 1.61 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The rate of a reaction quadruples when temperature changes from 27^\\circ C to 57^\\circ C. Calculate the energy o activation. Given R=8.314 JK^-1 mol^-1, \\log 4=0.6021",
+      "options": {
+        "A": "38%",
+        "B": "4 kJ / mol",
+        "C": "80 kJ / mol",
+        "D": "04 kJ / mol"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The rate of a reaction quadruples when temperature changes from 27^\\circ C to 57^\\circ C. Calc Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: \\beginaligned & \\log (\\frack_2k_1\\)=\\fracE_a\u2082.303 R(\\frac\u2081 T_1-\\frac\u2081 T_2\\) \\\\ & \\log (\\frac\u2084\u2081\\)=\\fracE_a\u2082.303 R(\\frac\u2081\u2083\u2080\u2080-\\frac\u2081\u2083\u2083\u2080\\) \\\\ & E_a=\\frac(\\log (4)) \u00d7 2.303 \u00d7 8.314 \u00d7 300 \u00d7 3303 </think> **Correct Answer: (A)** **Explanation:** \\beginaligned & \\log (\\frack_2k_1\\)=\\fracE_a\u2082.303 R(\\frac\u2081 T_1-\\frac\u2081 T_2\\) \\\\ & \\log (\\frac\u2084\u2081\\)=\\fracE_a\u2082.303 R(\\frac\u2081\u2083\u2080\u2080-\\frac\u2081\u2083\u2083\u2080\\) \\\\ & E_a=\\frac(\\log (4)) \u00d7 2.303 \u00d7 8.314 \u00d7 300 \u00d7 33030 \\\\ & =3.804 \u00d7 10^4 J / mol \\\\ & =38.04 kJ / mol\\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "In a first order reaction A \\arrow B if k is rate constant and initial concentration of the reactant A is 0.5 M, then the half-life is:",
+      "options": {
+        "A": "\\frac\\log 2k",
+        "B": "5%",
+        "C": "693%",
+        "D": "5 k"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: In a first order reaction A \\arrow B if k is rate constant and initial concentration of the r Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: For a first order reaction. k=\\frac\u2082.303t \\log _10 \\fracaa-x when t=t_1 / 2 k=\\frac\u2082.303t_1 / 2 \\log _10 \\fracaa-\\fraca\u2082 or t_1 / 2=\\frac\u2082.303k \\log _10 2=\\frac\\ln 2k A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is con </think> **Correct Answer: (A)** **Explanation:** For a first order reaction. k=\\frac\u2082.303t \\log _10 \\fracaa-x when t=t_1 / 2 k=\\frac\u2082.303t_1 / 2 \\log _10 \\fracaa-\\fraca\u2082 or t_1 / 2=\\frac\u2082.303k \\log _10 2=\\frac\\ln 2k A Caution The half-life offirst order reaction is constant because the initial concentration of the reactant has no influence on the half-life of the reaction, i.e. the half-life is constant regardless of the concentration of the reactant. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The half-life period of a first order chemical reaction is 6.93 minutes. The time required for the completion of 99% of the chemical reaction will be [ l o g 2 = 0.301 ]",
+      "options": {
+        "A": "2%",
+        "B": "03 minutes",
+        "C": "06 minutes",
+        "D": "6 minutes"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The half-life period of a first order chemical reaction is 6.93 minutes. The time required for the completion of 99% of Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: As k = 0.6932 t 1 / 2 = 0.6932 6.93 m i n - 1 Also t = 2.303 \u00ce\u00bb l o g [ A o ] [ A ] [ A n ] = initial concentration (amount) [A] = final concentration (amount) So t = 2.303 \u00c3\u0097 6.93 0.6932 l o g 100 1 = 46.06 m i n u t e s </think> **Correct Answer: (A)** **Explanation:** As k = 0.6932 t 1 / 2 = 0.6932 6.93 m i n - 1 Also t = 2.303 \u00ce\u00bb l o g [ A o ] [ A ] [ A n ] = initial concentration (amount) [A] = final concentration (amount) So t = 2.303 \u00c3\u0097 6.93 0.6932 l o g 100 1 = 46.06 m i n u t e s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "In a reaction, 2A \u00e2\u0086\u0092 Products, the concentration of A decreases from 0.5 mol L \u00e2\u0080\u00931 to 0.4 mol L \u00e2\u0080\u00931 in 10 minutes.What is the rate during this interval?",
+      "options": {
+        "A": "Rate of reaction = Rate of disappearance of",
+        "B": "022 mol litre \u00e2\u0080\u00931 min \u00e2\u0080\u00931",
+        "C": "012 mol litre \u00e2\u0080\u00931 min \u00e2\u0080\u00931",
+        "D": "005 mol litre \u00e2\u0080\u00931 min \u00e2\u0080\u00931"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: In a reaction, 2A \u00e2\u0086\u0092 Products, the concentration of A decreases from 0.5 mol L \u00e2\u0080\u00931 to 0.4 mol L \u00e2\u0080\u00931 in 10 minutes.Wha Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) Rate of reaction = Rate of disappearance of A = 0.005 mol litre \u00e2\u0080\u00931 min \u00e2\u0080\u00931 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) Rate of reaction = Rate of disappearance of A = 0.005 mol litre \u00e2\u0080\u00931 min \u00e2\u0080\u00931 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "A first order reaction has a specific reaction rate of 1 0 \u00e2\u0080\u0093 2 s e c - 1 . How much time will it take for 20 g of the reactant to reduce to 5 g?",
+      "options": {
+        "A": "13%",
+        "B": "8 sec",
+        "C": "5 sec",
+        "D": "0 sec"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: A first order reaction has a specific reaction rate of 1 0 \u00e2\u0080\u0093 2 s e c - 1 . How much time will it take for 20 g of the Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: It is based on first order kinetics so using the given relation K = 2.303 t l o g 10 N\u2080 NT t = 2.303 1 0 - 2 \u00c3\u0097 l o g 10 20 5 On solving t = 138.87 sec. </think> **Correct Answer: (A)** **Explanation:** It is based on first order kinetics so using the given relation K = 2.303 t l o g 10 N\u2080 NT t = 2.303 1 0 - 2 \u00c3\u0097 l o g 10 20 5 On solving t = 138.87 sec. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The reaction between A and B is first order with respect to A and zero order with respect to B. Fill in the blanks in the following table:",
+      "options": {
+        "A": "(i)",
+        "B": "1 molL \u00e2\u0088\u00921 , (ii)",
+        "C": "2 mol L \u00e2\u0088\u00921 and (iii)",
+        "D": "0\u00c3\u009710 \u00e2\u0088\u00922 mol L \u00e2\u0088\u00921 min \u00e2\u0088\u00921"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The reaction between A and B is first order with respect to A and zero order with respect to B. Fill in the blanks in th Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) (i) 0.2 molL \u00e2\u0088\u00921 , (ii) 0.1 mol L \u00e2\u0088\u00921 and (iii) 8.0\u00c3\u009710 \u00e2\u0088\u00922 mol L \u00e2\u0088\u00921 min \u00e2\u0088\u00921 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) (i) 0.2 molL \u00e2\u0088\u00921 , (ii) 0.1 mol L \u00e2\u0088\u00921 and (iii) 8.0\u00c3\u009710 \u00e2\u0088\u00922 mol L \u00e2\u0088\u00921 min \u00e2\u0088\u00921 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "A first order reaction takes 40 min for 30% decomposition. What is t 1/2 ?",
+      "options": {
+        "A": "9%",
+        "B": "2 minutes",
+        "C": "4 minutes",
+        "D": "7 minutes"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: A first order reaction takes 40 min for 30% decomposition. What is t 1/2 ? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (C) 77.7 minutes </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (C) 77.7 minutes **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "A substance undergoes first order decomposition involving two parallel first order reactions as : k 1 = 1.25 \u00c3\u0097 10 - 4 s - 1 k 2 = 3.80 \u00c3\u0097 10 - 5 s - 1 The mole percentage of B in the products is :",
+      "options": {
+        "A": "2%",
+        "B": "17%",
+        "C": "16%",
+        "D": "84%"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: A substance undergoes first order decomposition involving two parallel first order reactions as : k 1 = 1.25 \u00c3\u0097 10 - 4 s Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: mole % o f B = 12.5 \u00c3\u0097 1 0 - 5 12.5 + 3.8 \u00c3\u0097 1 0 - 5 \u00c3\u0097 100 = 12.5 16.3 \u00c3\u0097 100 = 76.68 % </think> **Correct Answer: (A)** **Explanation:** mole % o f B = 12.5 \u00c3\u0097 1 0 - 5 12.5 + 3.8 \u00c3\u0097 1 0 - 5 \u00c3\u0097 100 = 12.5 16.3 \u00c3\u0097 100 = 76.68 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. What is E a ?",
+      "options": {
+        "A": "E a = 6",
+        "B": "985 kJ mol \u00e2\u0080\u00931",
+        "C": "897 kJ mol \u00e2\u0080\u00931",
+        "D": "137 kJ mol \u00e2\u0080\u00931"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The rate of the chemical reaction doubles for an increase of 10 K in absolute temperature from 298 K. What is E a ? Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) E a = 52.897 kJ mol \u00e2\u0080\u00931 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) E a = 52.897 kJ mol \u00e2\u0080\u00931 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The decomposition of hydrocarbon follows the equation k = (4.5 \u00c3\u0097 10 11 s \u00e2\u0080\u00931 ) e -28000K/T .Calculate E a .",
+      "options": {
+        "A": "46%",
+        "B": "12 kJ mol -1",
+        "C": "79 kJ mol \u00e2\u0080\u00931",
+        "D": "45 kJ mol -1"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The decomposition of hydrocarbon follows the equation k = (4.5 \u00c3\u0097 10 11 s \u00e2\u0080\u00931 ) e -28000K/T .Calculate E a . Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (B) 232.79 kJ mol \u00e2\u0080\u00931 </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (B) 232.79 kJ mol \u00e2\u0080\u00931 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The rate constant for the first order decomposition of H\u2082 O\u2082 is given by the following equation: log k = 14.34 \u00e2\u0080\u0093 1.25 \u00c3\u0097 10 4 K/T Calculate (i) E a for this reaction and (ii) at what temperature will its half-period be 256 minutes?",
+      "options": {
+        "A": "(i) 23",
+        "B": "339 kJ mol \u00e2\u0080\u00931 and (ii) 669K",
+        "C": "339 kJ mol \u00e2\u0080\u00931 and (ii) 1028K",
+        "D": "223 kJ mol \u00e2\u0080\u00931 and (ii) 669K"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The rate constant for the first order decomposition of H\u2082 O\u2082 is given by the following equation: log k = 14.34 \u00e2\u0080\u0093 1.2 Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Correct Option is : (A) (i) 239.339 kJ mol \u00e2\u0080\u00931 and (ii) 669K </think> **Correct Answer: (A)** **Explanation:** Correct Option is : (A) (i) 239.339 kJ mol \u00e2\u0080\u00931 and (ii) 669K **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "Calculate the average life (in minutes), if the half-life of a radionuclide is 69.3 minutes.",
+      "options": {
+        "A": "100%",
+        "B": "3 \u00c3\u0097 1",
+        "C": "4%",
+        "D": "693 \u00c3\u0097 6"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: Calculate the average life (in minutes), if the half-life of a radionuclide is 69.3 minutes. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Average life ( \u00cf\u0084 ) = 1.44 t 1 / 2 = 1.44 \u00c3\u0097 69.3 = 99.7 \u00e2\u0089\u0088 100 minutes. </think> **Correct Answer: (A)** **Explanation:** Average life ( \u00cf\u0084 ) = 1.44 t 1 / 2 = 1.44 \u00c3\u0097 69.3 = 99.7 \u00e2\u0089\u0088 100 minutes. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "At\u2083\u2080\u2080 \u00b0 C the pressure necessary to obtained 80% dissociation of PC l 5 is numerically equal to",
+      "options": {
+        "A": "KP = 1",
+        "B": "7 p",
+        "C": "77 p",
+        "D": "22 p"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: At\u2083\u2080\u2080 \u00b0 C the pressure necessary to obtained 80% dissociation of PC l 5 is numerically equal to Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: PC l 5 1 1 - 0.8 \u00e2\u0087\u008c PC l 5 0 0.8 + C l 2 0 0.8 Total number of moles at equilibrium = 0.2 + 0.8 + 0.8 = 1.8 KP = ( PP C l 3 ) ( PC l 2 ) ( PP C l 5 ) = 0.8 1.8 p \u00c3\u0097 0.8 1.8 p 0.2 1.8 p = 2.22 p </think> **Correct Answer: (A)** **Explanation:** PC l 5 1 1 - 0.8 \u00e2\u0087\u008c PC l 5 0 0.8 + C l 2 0 0.8 Total number of moles at equilibrium = 0.2 + 0.8 + 0.8 = 1.8 KP = ( PP C l 3 ) ( PC l 2 ) ( PP C l 5 ) = 0.8 1.8 p \u00c3\u0097 0.8 1.8 p 0.2 1.8 p = 2.22 p **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
+    {
+      "question": "The reaction, \\(2 A_(g)+B_(g) \\leftharpoons 3 C_(g)+D_(g)\\) is begun with the concentrations of \\(A\\) and \\(B\\) both at an initial value of 1.00 M When equilibrium is reached, the concentration of \\(D\\) is measured and found to be 0.25 M. The value for the equilibrium constant for this reaction is given by the expression",
+      "options": {
+        "A": "\\(\\left[(",
+        "B": "7%",
+        "C": "^3(",
+        "D": "2%"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: The reaction, \\(2 A_(g)+B_(g) \\leftharpoons 3 C_(g)+\\m Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: \\(\\beginarraylcccc & 2 A_(g) & + & B_(g) & \\leftharpoons & 3 C_(g) & + & D_(g) \\\\ Initial moles : & 1 & & 1 & & 0 & & 0 \\\\ Moles at eq. : & 1-(2 \u00d7 0.25) & & 1-0.25 & & 3 \u00d7 0.25 & & 0.25 \\\\ & =0.5 & & =0.75 & & =0.75 & & =0.25 \\endarray\\) Equilibrium constant, \\(K=\\frac[C]^3[D][A]^2[B]\\) \\(\\therefore \\quad K=\\frac(0.75)^3(0.25)(0.5)^2(0.75)\\) </think> **Correct Answer: (A)** **Explanation:** \\(\\beginarraylcccc & 2 A_(g) & + & B_(g) & \\leftharpoons & 3 C_(g) & + & D_(g) \\\\ Initial moles : & 1 & & 1 & & 0 & & 0 \\\\ Moles at eq. : & 1-(2 \u00d7 0.25) & & 1-0.25 & & 3 \u00d7 0.25 & & 0.25 \\\\ & =0.5 & & =0.75 & & =0.75 & & =0.25 \\endarray\\) Equilibrium constant, \\(K=\\frac[C]^3[D][A]^2[B]\\) \\(\\therefore \\quad K=\\frac(0.75)^3(0.25)(0.5)^2(0.75)\\) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Chemistry",
       "chapter": "Chemical Bonding and Molecular Structure"
     }

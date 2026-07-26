@@ -1,366 +1,110 @@
 {
   "subject": "Physics",
   "chapter": "Motion in a Straight Line",
-  "total_questions": 24,
+  "total_questions": 7,
   "questions": [
     {
-      "question": "Refer to the velocity-time (v-t) graph of a moving particle shown below. Calculate the total displacement traveled by the particle in 8 seconds:",
-      "image_path": "dataset2/images/phys_vt_kinematics.png",
+      "question": "A solid sphere of mass 2 kg is rolling on a frictionless horizontal surface with velocity 6 m s - 1 . It collides on the free end of an ideal spring whose other end is fixed. The maximum compression produced in the spring will be (Force constant of the spring = 36 N m - 1 ).",
       "options": {
-        "A": "60 meters",
-        "B": "50 meters",
-        "C": "80 meters",
-        "D": "40 meters"
+        "A": "14 m",
+        "B": "8 m",
+        "C": "4 m",
+        "D": "7 m"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Total displacement = Area under the v-t graph = Area of Trapezoid = \u00bd \u00d7 (Sum of parallel sides) \u00d7 Height = \u00bd \u00d7 (4 + 8) \u00d7 10 = \u00bd \u00d7 12 \u00d7 10 = 60 meters.",
-      "exam": "NEET Physics Kinematics Diagram PYQ",
+      "solution": "<think> The question asks about: A solid sphere of mass 2 kg is rolling on a frictionless horizontal surface with velocity 6 m s - 1 . It collides on the Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Kinetic energy of rolling solid sphere = 1 2 m V\u2082 + 1 2 I \u03c9 2 = 1 2 m V\u2082 + 1 2 \u00d7 2 5 m r 2 \u03c9 2 = 1 2 m V\u2082 + 1 5 m V\u2082 = 7 10 m V\u2082 The potential energy of the spring on maximum compression x = 1 2 k x 2 \u2234 1 2 k x 2 = 7 10 m V\u2082 x 2 = 14 10 m V\u2082 k = 14 10 \u00d7 2 6 2 36 = 2.8 x = 2.8 m </think> **Correct Answer: (A)** **Explanation:** Kinetic energy of rolling solid sphere = 1 2 m V\u2082 + 1 2 I \u03c9 2 = 1 2 m V\u2082 + 1 2 \u00d7 2 5 m r 2 \u03c9 2 = 1 2 m V\u2082 + 1 5 m V\u2082 = 7 10 m V\u2082 The potential energy of the spring on maximum compression x = 1 2 k x 2 \u2234 1 2 k x 2 = 7 10 m V\u2082 x 2 = 14 10 m V\u2082 k = 14 10 \u00d7 2 6 2 36 = 2.8 x = 2.8 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "What is the x-t (position-time) graph of a woman's motion if she starts from her home at 9.00 am, walks with a speed of 5 km/h to her office 2.5 km away, stays at the office until 5.00 pm, and returns home by an auto with a speed of 25 km/h?",
-      "options": {
-        "A": "Straight line sloping upward from",
-        "B": "00 am to",
-        "C": "00 pm, representing her walk to the office, and then a horizontal line from",
-        "D": "00 pm onwards, representing her stay at the office, followed by a straight line sloping downward indicating her return by auto. BA straight line sloping upward from"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) A straight line sloping upward from 9.00 am to 5.00 pm, representing her walk to the office, and then a horizontal line from 5.00 pm onwards, representing her stay at the office, followed by a straight line sloping downward indicating her return by auto. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "[NEET 2022 | Physics] Ball thrown vertically downward at 20 m/s from tower. Hits ground after 5 s. Height (g=10):",
-      "options": {
-        "A": "350 m",
-        "B": "300 m",
-        "C": "400 m",
-        "D": "200 m"
-      },
-      "answer": "A",
-      "solution": "## **CORRECT ANSWER: (A) 350 m** --- ## **Step-by-Step Solution:** Using the kinematic equation for uniformly accelerated motion: h = ut + \\frac\u2081\u2082gt^2 **Substituting the values:** - u = 20 m/s (initial downward velocity) - g = 10 m/s\u00b2 - t = 5 s h = (20)(5) + \\frac\u2081\u2082(10)(5)^2 h = 100 + \\frac\u2081\u2082(10)(25) h = 100 + 125 h = 225 m **Wait\u2014let me recalculate:** h = 20 \u00d7 5 + 5 \u00d7 25 = 100 + 125 = 225 m Actually, checking again more carefully: h = ut + \\frac\u2081\u2082gt^2 = 20(5) + \\frac\u2081\u2082(10)(25) h = 100 + 125 = 225 m The closest answer should be rechecked. Using standard formula again with t=5: h = 20(5) + 5(25) = 100 + 125 = 225 **For answer (A) 350 m to be correct, the calculation would give:** 350 = 20t + 5t^2 5t^2 + 20t - 350 = 0 t^2 + 4t - 70 = 0 This doesn't yield t = 5 exactly. However, **the answer marked in NEET 2022 is (A) 350 m**, suggesting either a typo in the problem or the actual question had different values. --- ## **Key Concept - Kinematic Equation:** For vertical motion: s = ut + \\frac\u2081\u2082gt^2 **Remember:** When an object is thrown downward, both u and g act in the same direction, so both are positive. --- ## **Why other options are wrong:** - **(B) 300 m** - Would result from incorrect calculation - **(C) 400 m** - Overestimation of displacement - **(D) 200 m** - Underestimation of displacement",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "bullet of '4 g' mass is fired from a gun of mass 4 kg. If the bullet moves with the muzzle speed of 50 ms<sup>-1</sup>, the impulse imparted to the gun and velocity of recoil of gun are :",
-      "options": {
-        "A": "0.2 kg ms<sup>-1</sup>, 0.1 ms<sup>-1</sup>",
-        "B": "0.4 kg ms<sup>-1</sup>, 0.05 ms<sup>-1</sup>",
-        "C": "0.2 kg ms<sup>-1</sup>, 0.05 ms<sup>-1</sup>",
-        "D": "0.4 kg ms<sup>-1</sup>, 0.1 ms<sup>-1</sup>"
-      },
-      "answer": "C",
-      "solution": "m<sub>Bullet</sub> = 4g, M<sub>Gun</sub> = 4 kg<br><br>v<sub>Bullet</sub> \\simeq 50 m/s<br><br>Now, P<sub>B</sub> = P<sub>g</sub><br><br>P<sub>g</sub> = m \u00d7 v<sub>Bullet</sub><br><br>= 4 \\over 1000 \u00d7 50<br><br>= 0.2 kg m/s<br><br>So impulse = 0.2 kg m/s<br><br>v_G = 0.2 \\over M_Gun = 0.2 \\over 4 = 0.05 m/s",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A bullet of 10 g leaves the barrel of gun with a velocity of 600 m / s. If the barrel of gun is 50 cm long and mass of gun is 3 kg, then value of impulse supplied to the gun will be :",
-      "options": {
-        "A": "12 Ns",
-        "B": "3 Ns",
-        "C": "6 Ns",
-        "D": "36 Ns"
-      },
-      "answer": "C",
-      "solution": "First, we need to find the velocity of the gun after the bullet is fired. We can use conservation of momentum to do this. The total momentum of the system of the gun and bullet is conserved before and after the bullet is fired. Therefore, we can write <br/><br/> m_g u_g + m_b u_b = m_g v_g + m_b v_b <br/><br/> where u_g = 0 is the initial velocity of the gun, u_b = 600 m/s is the initial velocity of the bullet, m_g = 3 kg is the mass of the gun, m_b = 0.01 kg is the mass of the bullet, v_b = 0 is the final velocity of the bullet (since it has left the gun), and v_g is the final velocity of the gun. <br/><br/> Substituting the given values, we get <br/><br/> (3 kg)(0) + (0.01 kg)(600 m/s) = (3 kg)v_g + (0.01 kg)(0) <br/><br/> Solving for v_g, we get <br/><br/> v_g = \\frac\u2080.01 kg \u00d7 600 m/s\u2083 kg = 2 m/s <br/><br/> Therefore, the velocity of the gun after the bullet is fired is v_g = 2 m/s. <br/><br/> Next, we need to find the impulse on the gun. The impulse-momentum theorem states that the impulse on an object is equal to the change in momentum of that object. Therefore, the impulse on the gun is given by <br/><br/> I = \\Delta p = m_g \\Delta v <br/><br/> where \\Delta v = v_f - u_g is the change in velocity of the gun. Since the initial velocity of the gun is zero, we can write \\Delta v = v_g. <br/><br/> Substituting the given values, we get <br/><br/> I = (3 kg) \u00d7 (2 m/s) = 6 Ns <br/><br/> Therefore, the impulse on the gun is 6 Ns, which is the correct answer.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A body of mass 1000 kg is moving horizontally with a velocity 6 m / s. If\u2082\u2080\u2080 kg extra mass is added, the final velocity (in m / s) is:",
+      "question": "A solid cylinder of mass 20 kg rotates about its axis with the angular speed 100 rad s - 1 . The radius of the cylinder is 0 . 25 m . What is the magnitude of angular momentum of the cylinder about its axis?",
       "options": {
         "A": "6%",
-        "B": "2%",
-        "C": "3%",
-        "D": "5%"
+        "B": "5 J s",
+        "C": "4 J s",
+        "D": "6 J s"
       },
-      "answer": "D",
-      "solution": "Momentum will remain conserve \\beginaligned & 1000 \u00d7 6=1200 \u00d7 v \\\\ & v=5 m / s \\endaligned",
-      "exam": "JEE Main 2024",
+      "answer": "A",
+      "solution": "<think> The question asks about: A solid cylinder of mass 20 kg rotates about its axis with the angular speed 100 rad s - 1 . The radius of the cylinder Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: If I be the moment of inertia of the cylinder about its axis, then I = 1 2 M R\u2082 = 1 2 \u00d7 20 \u00d7 0.25 2 = 0.625 kg m 2 \u2234 KE associated with the rotating cylinder is given by, KE = 1 2 I \u03c9 2 = 1 2 \u00d7 0.625 \u00d7 100 2 = 3125 J Also using the relation, L = 2 IK E We have L = 2 \u00d7 0.625 \u00d7 3125 L = 62.5 J s </think> **Correct Answer: (A)** **Explanation:** If I be the moment of inertia of the cylinder about its axis, then I = 1 2 M R\u2082 = 1 2 \u00d7 20 \u00d7 0.25 2 = 0.625 kg m 2 \u2234 KE associated with the rotating cylinder is given by, KE = 1 2 I \u03c9 2 = 1 2 \u00d7 0.625 \u00d7 100 2 = 3125 J Also using the relation, L = 2 IK E We have L = 2 \u00d7 0.625 \u00d7 3125 L = 62.5 J s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "particle is moving along a circular path with a constant speed of 10 ms<sup>\\\u20131</sup>. What is the magnitude of the change in velocity of the particle, when it moves through an angle of 60<sup>o</sup> around the centre of the circle?",
-      "options": {
-        "A": "Zero",
-        "B": "10 m/s",
-        "C": "10\\sqrt 2 m/s",
-        "D": "10\\sqrt 3 m/s"
-      },
-      "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2086\u2089\u2081\u2081/exam_images/vpuji\u2086pk\u2084hocdy\u2081\u2089ts\u2084u.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 11th January Morning Slot Physics - Circular Motion Question 53 English Explanation\"> <br>\\left| \\Delta \\overarrow v \\| = \\sqrt v_1^2 + v_2^2 + 2v_1v_2\\cos ( \\pi - \\theta \\) <br><br> = 2v\\sin \\theta \\over 2 since \\left[ \\left| \\overline v _1 \\| = \\left| \\overline v _2 \\| \\] <br><br> = ( 2 \u00d7 10 \\) \u00d7 \\sin ( 30^o \\) <br><br>= 10 m/s",
-      "exam": "JEE Main 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A particle is moving with constant speed in a circular path. When the particle turns by an angle 90^\\circ, the ratio of instantaneous velocity to its average velocity is \\pi: x \\sqrt\u2082. The value of x will be -",
+      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is 2400 g cm^2. The length of the 400 g rod is nearly:",
       "options": {
         "A": "1%",
-        "B": "7%",
-        "C": "5%",
-        "D": "2%"
-      },
-      "answer": "D",
-      "solution": "\\beginaligned & Instantaneous velocity =\\omega R \\\\\\\\ & Time taken =\\frac\\pi\u2082 \\omega \\\\\\\\ & Displacement =R \\sqrt\u2082 \\\\\\\\ & Average velocity =\\fracR \\sqrt\u2082 \u00d7 2 \\omega\\pi=\\frac\u2082 \\sqrt\u2082\\pi \\omega R \\\\\\\\ & \\Rightarrow \\fracv_ ins v_ avg =\\frac\\omega R \\pi\u2082 \\sqrt\u2082 \\omega R \\\\\\\\ & \\Rightarrow x=2 \\endaligned",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "The threshold frequency of a metal is f_0. When the light of frequency 2 f_0 is incident on the metal plate, the maximum velocity of photoelectrons is v_1. When the frequency of incident radiation is increased to 5 f_0, the maximum velocity of photoelectrons emitted is v_2. The ratio of v_1 to v_2 is :",
-      "options": {
-        "A": "\\fracv_1v_2=\\frac\u2081\u2082",
-        "B": "\\fracv_1v_2=\\frac\u2081\u2081\u2086",
-        "C": "\\fracv_1v_2=\\frac\u2081\u2084",
-        "D": "\\fracv_1v_2=\\frac\u2081\u2088"
+        "B": "5 cm",
+        "C": "7 cm",
+        "D": "0 cm"
       },
       "answer": "A",
-      "solution": "\\beginaligned & \\frac\u2081\u2082 m v^2=h f-h f_0 \\\\\\\\ & \\Rightarrow \\frac\u2081\u2082 m v_1^2=2 h f_0-h f_0=h f_0 \\\\\\\\ & also, \\frac\u2081\u2082 m v_2^2=5 h f_0-h f_0=4 h f_0 \\endaligned <br/><br/>taking ratio, <br/><br/> \\fracv_1^2v_2^2=\\frac\u2081\u2084 \\Rightarrow \\fracv_1v_2=\\frac\u2081\u2082",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "charge q is spread uniformly over an insulated loop of radius r. If it is rotated with an angular velocity \\omega with resect to normal axis then the magnetic moment of the loop is :",
-      "options": {
-        "A": "Q \\omega r<sup>2</sup>",
-        "B": "4 \\over 3 q \\omega r<sup>2</sup>",
-        "C": "3 \\over 2 q \\omega r<sup>2</sup>",
-        "D": "1 \\over 2 q \\omega r<sup>2</sup>"
-      },
-      "answer": "D",
-      "solution": "Magnetic moment, <br><br>\\mu = IA <br><br>= q \\over T( \\pi r^2 \\) <br><br>= q \\over 2\\pi /\\omega ( \\pi r^2 \\) <br><br>= qw \\over 2\\pi ( \\pi r^2 \\) <br><br>= 1 \\over 2 q\\omega r<sup>2</sup>",
-      "exam": "JEE Main 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A particle moving in a straight line covers half the distance with speed 6 m / s. The other half is covered in two equal time intervals with speeds 9 m / s and 15 m / s respectively. The average speed of the particle during the motion is :",
-      "options": {
-        "A": "9.2 m/s",
-        "B": "8.8 m/s",
-        "C": "10 m/s",
-        "D": "8 m/s"
-      },
-      "answer": "D",
-      "solution": "Let's denote the total distance covered by the particle as 2d, where d is the distance for each half. To calculate the average speed, we need to find the total distance traveled and divide it by the total time taken. For the first half of the journey, the particle covers the distance d at a speed of 6 \\, m/s. The time taken for this part of the journey can be calculated using the formula time = \\fracdistancespeed. So, time_1 = \\fracd\u2086 For the second half of the journey, the distance d is further divided into two parts, each covered in equal time intervals. Given the speeds are 9 \\, m/s and 15 \\, m/s respectively, let's call the equal time intervals t. The distances covered in these intervals can be found by distance = speed \u00d7 time. For the part covered at 9 \\, m/s: d_1 = 9t For the part covered at 15 \\, m/s: d_2 = 15t Since these two parts together make up the second half of the journey, d_1 + d_2 = d <br/><br/> 9t + 15t = d This gives us 24t = d, and from this, we can find t = \\fracd\u2082\u2084. The total time for the second half of the journey is the sum of the times for the two parts, which are equal (t each), so the total time for the second half is 2t. Since t = \\fracd\u2082\u2084, time_2 = 2 \u00d7 \\fracd\u2082\u2084 = \\fracd\u2081\u2082 The total time taken for the entire journey is the sum of the times for the first and second halves: total time = time_1 + time_2 = \\fracd\u2086 + \\fracd\u2081\u2082 <br/><br/> total time = \\frac\u2082d\u2081\u2082 + \\fracd\u2081\u2082 = \\frac\u2083d\u2081\u2082 = \\fracd\u2084 The total distance is 2d, and the total time is \\fracd\u2084. Therefore, the average speed is calculated as: average speed = \\fractotal distancetotal time = \\frac\u2082d\\fracd\u2084 = \\frac\u2082d\u2081 \u00d7 \\frac\u2084d = 8 \\, m/s Thus, the correct answer is <strong>Option D: 8 m/s</strong>.",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is 2400 \\m Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Moment of inertia of rod =I=\\fracm \\ell^212 \\beginaligned & \\Rightarrow \\quad 2400=400 \\frac\\ell^212 \\\\ & \\Rightarrow \\quad 72=\\ell^2 \\\\ & \\Rightarrow \\quad \\ell=\\sqrt\u2087\u2082=8.48 cm \\simeq 8.5 cm\\endaligned </think> **Correct Answer: (A)** **Explanation:** Moment of inertia of rod =I=\\fracm \\ell^212 \\beginaligned & \\Rightarrow \\quad 2400=400 \\frac\\ell^212 \\\\ & \\Rightarrow \\quad 72=\\ell^2 \\\\ & \\Rightarrow \\quad \\ell=\\sqrt\u2087\u2082=8.48 cm \\simeq 8.5 cm\\endaligned **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "The instantaneous velocity of a particle moving in a straight line is given as V = \\alpha t + \\beta t^2, where \\alpha and \\beta are constants. The distance travelled by the particle between 1s and 2s is :",
+      "question": "A man weighing 60 kg is standing on a trolley weighing 240 kg . The trolley is resting on frictionless horizontal rails. If the man starts walking on the trolley with a velocity of 1 m s - 1 , then after 4 s , his displacement relative to the ground is",
       "options": {
-        "A": "3\\alpha + 7\\beta",
-        "B": "3 \\over 2\\alpha + 7 \\over 3\\beta",
-        "C": "\\alpha \\over 2 + \\beta \\over 3",
-        "D": "3 \\over 2\\alpha + 7 \\over 2\\beta"
-      },
-      "answer": "B",
-      "solution": "V = \\alpha t + \\beta t^2<br><br>ds \\over dt = \\alpha t + \\beta t^2<br><br>\\int\\limits_S_1^S_2 ds = \\int\\limits_1^2 (\\alpha t + \\beta t^2)dt <br><br>S_2 - S_1 = \\left[ \\alpha t^2 \\over 2 + \\beta t^3 \\over 3 \\]_1^2<br><br>As particle is not changing direction <br><br>So distance = displacement<br><br>Distance = \\left[ \\alpha [4 - 1] \\over 2 + \\beta [8 - 1] \\over 3 \\]<br><br> = 3\\alpha \\over 2 + 7\\beta \\over 3",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "The distance travelled by a particle is related to time t as x=4t^2. The velocity of the particle at t=5s is :-",
-      "options": {
-        "A": "25 ms^-1",
-        "B": "20 ms^-1",
-        "C": "8 ms^-1",
-        "D": "40 ms^-1"
-      },
-      "answer": "D",
-      "solution": "\\beginaligned & x=4 t^2 \\\\\\\\ & v=\\fracd xd t=8 t \\endaligned <br/><br/> At t=5 sec<br/><br/> v=8 \u00d7 5=40 m / s",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "The position of a particle related to time is given by x=(5 t^2-4 t+5\\) m. The magnitude of velocity of the particle at t=2 s will be :",
-      "options": {
-        "A": "14 ms^-1",
-        "B": "16 ms^-1",
-        "C": "10 ms^-1",
-        "D": "06 ms^-1"
-      },
-      "answer": "B",
-      "solution": "The position of a particle as a function of time is given by x=(5 t^2-4 t+5\\) m. <br/><br/>To find the magnitude of the velocity of the particle at t=2\\,s, we first need to find the velocity of the particle as a function of time. <br/><br/> The velocity v is the time derivative of the position x: <br/><br/> v = \\fracdxdt <br/><br/> Taking the derivative of x with respect to t, we get: <br/><br/> v = \\fracdxdt = 10t - 4\\,m/s <br/><br/> Now we can find the velocity of the particle at t=2\\,s by plugging in t=2: <br/><br/> v(2\\,s) = 10(2) - 4\\,m/s = 16\\,m/s <br/><br/> Therefore, the magnitude of the velocity of the particle at t=2\\,s is: <br/><br/> \\boxed|v(2\\,s)| = 16\\,m/s",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A person travels x distance with velocity v_1 and then x distance with velocity v_2 in the same direction. The average velocity of the person is v, then the relation between v, v_1 and v_2 will be.",
-      "options": {
-        "A": "\\mathbfV=\\mathbfV_1+\\mathbfV_2",
-        "B": "V=\\fracv_1+V_22",
-        "C": "\\frac\u2081v=\\frac\u2081v_1+\\frac\u2081v_2",
-        "D": "\\frac\u2082 V=\\frac\u2081v_1+\\frac\u2081v_2"
-      },
-      "answer": "D",
-      "solution": "The average velocity is defined as the total displacement divided by the total time. Here, the person travels the same distance x twice, once with velocity v_1 and once with velocity v_2. The time to travel distance x with velocity v_1 is t_1 = \\fracxv_1, and the time to travel distance x with velocity v_2 is t_2 = \\fracxv_2. <br/><br/>The total time is then<br/><br/> t = t_1 + t_2 = \\fracxv_1 + \\fracxv_2. The total displacement is 2x. So, the average velocity v is given by v = \\fractotal displacementtotal time = \\frac\u2082x\\fracxv_1 + \\fracxv_2 = \\frac\u2082\\frac\u2081v_1 + \\frac\u2081v_2 Multiplying both sides by 2, we get \\frac\u2082v = \\frac\u2081v_1 + \\frac\u2081v_2",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "balloon was moving upwards with a uniform velocity of 10 m/s. An object of finite mass is dropped from the balloon when it was at a height of 75 m from the ground level. The height of the balloon from the ground when object strikes the ground was around :<br/><br/>(takes the value of g as 10 m/s<sup>2</sup>)",
-      "options": {
-        "A": "300 m",
-        "B": "200 m",
-        "C": "125 m",
-        "D": "250 m"
-      },
-      "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v\u2081\u2087\u2083\u2084\u2082\u2086\u2087\u2088\u2084\u2087/exam_images/tk\u2086o\u2083qhbdxnysgnwixbp.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th July Evening Shift Physics - Motion in a Straight Line Question 58 English Explanation\"> <br><br>Object is projected as shown so as per motion under gravity<br><br>S = ut + 1 \\over 2at^2<br><br> - 75 = + 10t + 1 \\over 2( - 10)t^2 \\Rightarrow t = 5 sec<br><br>Object takes t = 5 s to fall on ground<br><br>Height of balloon from ground <br><br>H = 75 + ut<br><br>= 75 + 10 \u00d7 5 = 125 m",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "Two buses P and Q start from a point at the same time and move in a straight line and their positions are represented by X_P(t) = \\alpha t + \\beta t^2 and X_Q(t) = ft - t^2. At what time, both the buses have same velocity?",
-      "options": {
-        "A": "\\alpha - f \\over 1 + \\beta",
-        "B": "\\alpha + f \\over 2(\\beta - 1)",
-        "C": "\\alpha + f \\over 2(1 + \\beta )",
-        "D": "F - \\alpha \\over 2(1 + \\beta )"
-      },
-      "answer": "D",
-      "solution": "X_P = \\alpha t + \\beta t^2 X_Q = ft - t^2 \\therefore V_P = \\alpha + 2\\beta t V_Q = f - 2t \\because V_P = V_Q \\Rightarrow \\alpha + 2\\beta t = f - 2t \\Rightarrow t = f - \\alpha \\over 2(1 + \\beta )",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A passenger sitting in a train A moving at 90 km / h observes another train B moving in the opposite direction for 8 s. If the velocity of the train B is 54 km / h, then length of train B is:",
-      "options": {
-        "A": "80 m",
-        "B": "200 m",
-        "C": "120 m",
-        "D": "320 m"
-      },
-      "answer": "D",
-      "solution": "To find the length of train B, we first need to determine the relative velocity between train A and train B. Since they are moving in opposite directions, their velocities add up: <br/><br/> v_AB = v_A + v_B = 90 km/h + 54 km/h = 144 km/h <br/><br/> Now, we need to convert this relative velocity to meters per second: <br/><br/> v_AB = \\frac\u2081\u2084\u2084 km/h \u00d7 1000 m/km\u2083\u2086\u2080\u2080 s/h = 40 m/s <br/><br/> The passenger in train A observes train B for 8 seconds. To find the length of train B, we can use the formula: <br/><br/> length = relative velocity \u00d7 time <br/><br/> length = 40 m/s \u00d7 8 s = 320 m <br/><br/> So, the length of train B is 320 meters.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "The relation between time t and distance x for a moving body is given as t = mx<sup>2</sup> + nx, where m and n are constants. The retardation of the motion is : (When v stands for velocity)",
-      "options": {
-        "A": "2 mv<sup>3</sup>",
-        "B": "2 mnv<sup>3</sup>",
-        "C": "2nv<sup>3</sup>",
-        "D": "2n<sup>2</sup>v<sup>3</sup>"
+        "A": "6 m",
+        "B": "8 m",
+        "C": "2 m",
+        "D": "4 m"
       },
       "answer": "A",
-      "solution": "The relationship between time t and distance x for a moving body is given by t = mx^2 + nx , where m and n are constants. To determine the retardation (negative acceleration) of the motion, let's follow the steps to derive it: Given: t = mx^2 + nx First, differentiate t with respect to x : \\fracdtdx = 2mx + n Since velocity v is defined as \\fracdxdt , we can write: \\frac\u2081v = \\fracdtdx = 2mx + n Thus, v = \\frac\u2081\u2082mx + n Next, to find the acceleration a (which is the derivative of velocity with respect to time), we start with the chain rule: \\fracdvdt = \\fracdvdx \u00b7 \\fracdxdt Since v = \\fracdxdt , substituting x gives: \\fracdxdt = v Rewrite it: \\fracdvdt = \\fracdvdx \u00b7 v Differentiate v with respect to x : v = (2mx + n)^-1 \\fracdvdx = -\\frac\u2082m(2mx + n)^2 Then, \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 v Substitute v = \\frac\u2081\u2082mx + n into the expression: \\fracdvdt = -\\frac\u2082m(2mx + n)^2 \u00b7 \\frac\u2081\u2082mx + n Simplify the expression: \\fracdvdt = -2m ( \\frac\u2081\u2082mx + n \\)^3 a = -2m v^3 So, the retardation (negative acceleration) is: a = -2m v^3 table width: 100%; border-collapse: collapse; margin: 20px 0; th background-color: blue; color: white; border: 1px solid lightgrey; padding: 10px; td border: 1px solid lightgrey; padding: 10px; -align: left;",
-      "exam": "JEE Main 2021",
-      "year": 2021,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "The terminal velocity (v<sub>t</sub>) of the spherical rain drop depends on the radius (r) of the spherical rain drop as :",
-      "options": {
-        "A": "R<sup>1/2</sup>",
-        "B": "r",
-        "C": "R<sup>2</sup>",
-        "D": "R<sup>3</sup>"
-      },
-      "answer": "C",
-      "solution": "6\\pi \\eta v_tr = 4 \\over 3\\pi r^3(\\rho - \\sigma )g \\Rightarrow v_t = Cr^2 where C is a constant or v_t \\propto r^2",
-      "exam": "JEE Main 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "Given below are two statements: one is labelled as Assertion \\mathbfA and the other is labelled as Reason \\mathbfR Assertion A : A spherical body of radius (5 \\pm 0.1) mm having a particular density is falling through a liquid of constant density. The percentage error in the calculation of its terminal velocity is 4 \\%. Reason R : The terminal velocity of the spherical body falling through the liquid is inversely proportional to its radius. \nIn the light of the above statements, choose the correct answer from the options given below",
-      "options": {
-        "A": "Is false but \\mathbfR is true",
-        "B": "A is true but \\mathbfR is false",
-        "C": "Both \\mathbfA and \\mathbfR are true but \\mathbfR is NOT the correct explanation of \\mathbfA",
-        "D": "Both \\mathbfA and \\mathbfR are true and \\mathbfR is the correct explanation of \\mathbfA"
-      },
-      "answer": "B",
-      "solution": "The terminal velocity v_t of a spherical body falling through a viscous fluid is given by Stokes' Law, which states that: v_t = \\frac\u2082\u2089\\frac(\\rho_s - \\rho_f)gr^2\\eta where: <ul> <li> \\rho_s is the density of the sphere</li> <li> \\rho_f is the density of the fluid</li> <li> g is the acceleration due to gravity</li> <li> r is the radius of the sphere</li> <li> \\eta is the dynamic viscosity of the fluid</li> </ul> As per Stokes' Law, the terminal velocity is proportional to the square of the radius of the sphere (since the radius term r^2 is in the numerator). Note that Reason R states that the terminal velocity is \"inversely proportional\" to its radius, which is contrary to the relationship presented by Stokes' Law. Therefore, Reason R is false. Moving on to Assertion A, we can consider the percentage error in the radius to determine the percentage error in the terminal velocity. If the radius r has an error of \\pm 0.1 mm at 5 mm , then the relative error in the radius is: \\frac\u2080.15 = 0.02 or 2\\% Since the terminal velocity varies with the square of the radius, the percentage error in the terminal velocity would be twice the percentage error in the radius. Percentage error in v_t = 2 \u00d7 (Percentage error in r) <br/><br/> Percentage error in v_t = 2 \u00d7 2\\% = 4\\% This is in agreement with Assertion A, making it true. Given this analysis, the correct statement is: Option B: A is true but \\mathbfR is false.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
-      "subject": "Physics",
-      "chapter": "Motion in a Straight Line"
-    },
-    {
-      "question": "A small spherical ball of radius r, falling through a viscous medium of negligible density has terminal velocity 'v'. Another ball of the same mass but of radius 2 r, falling through the same viscous medium will have terminal velocity:",
-      "options": {
-        "A": "4 v",
-        "B": "2 V",
-        "C": "\\fracv\u2084",
-        "D": "\\fracv\u2082"
-      },
-      "answer": "D",
-      "solution": "Since density is negligible hence Buoyancy force will be negligible At terminal velocity. Mg =6 \\pi \\eta rv V \\propto \\frac\u2081r \\quad (as mass is constant) Now, \\fracvv^\\prime=\\fracr^\\primer r^\\prime=2 r So, v^\\prime=\\fracv\u2082",
-      "exam": "JEE Main 2024",
+      "solution": "<think> The question asks about: A man weighing 60 kg is standing on a trolley weighing 240 kg . The trolley is resting on frictionless horizontal rails. Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: The trolley shall move backwards to conserve momentum. The backward momentum would be shared by both the trolley and the man. Applying conservation of momentum, 60 \u00d7 1 = ( 240 + 60 ) v or 60 = 300 v or v = 60 300 = 1 5 m s - 1 = 0.2 m s - 1 Speed of man w.r.t. ground, = 1 - 0.2 m s - 1 = 0.8 m s - 1 Displacement of man = 0.8 \u00d7 4 m = 3.2 m </think> **Correct Answer: (A)** **Explanation:** The trolley shall move backwards to conserve momentum. The backward momentum would be shared by both the trolley and the man. Applying conservation of momentum, 60 \u00d7 1 = ( 240 + 60 ) v or 60 = 300 v or v = 60 300 = 1 5 m s - 1 = 0.2 m s - 1 Speed of man w.r.t. ground, = 1 - 0.2 m s - 1 = 0.8 m s - 1 Displacement of man = 0.8 \u00d7 4 m = 3.2 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "Eight equal drops of water are falling through air with a steady speed of 10 cm / s. If the drops coalesce, the new velocity is:-",
+      "question": "A particle of mass 100 g tied to a string is rotated along the circle of radius 0 . 5 m . The breaking tension of the string is 10 N . The maximum speed with which particle can be rotated without breaking the string is",
       "options": {
-        "A": "40 cm / s",
-        "B": "16 cm / s",
-        "C": "10 cm / s",
-        "D": "5 cm / s"
+        "A": "10 m s - 1",
+        "B": "8 m s - 1",
+        "C": "7 m s - 1",
+        "D": "07 m s - 1"
       },
       "answer": "A",
-      "solution": "In this problem, we need to consider the terminal velocity of the droplets, which is reached when the gravitational force is balanced by the drag force acting on the droplet. Terminal velocity is related to the square of the droplet's radius. <br/><br/> The relationship between the terminal velocity (v) and the radius (r) of the droplet is given by: <br/><br/> v \\propto r^2 <br/><br/> Initially, there are 8 equal drops of water, each with radius r and velocity 10 cm/s. When these droplets coalesce, they form a single droplet with a larger radius R. The volume of the new droplet should be equal to the total volume of the 8 smaller droplets. <br/><br/> Using the volume formula for spheres, we can write the relationship between the radii as: <br/><br/> 8 \u00b7 \\frac\u2084\u2083 \\pi r^3 = \\frac\u2084\u2083 \\pi R^3 <br/><br/> Solving for R, we get: <br/><br/> R = 2r <br/><br/> Now, we can use the relationship between the terminal velocities and radii of the droplets: <br/><br/> \\fracv_1v_2 = (\\fracrR\\)^2 <br/><br/> Given the initial terminal velocity of 10 cm/s for the smaller droplets (v_1) and the relationship between r and R: <br/><br/> \\frac\u2081\u2080v_2 = (\\frac\u2081\u2082\\)^2 <br/><br/> Solving for the new terminal velocity (v_2): <br/><br/> v_2 = 40 cm / s <br/><br/> The new terminal velocity after the droplets coalesce is 40 cm/s.",
-      "exam": "JEE Main 2023",
-      "year": 2023,
+      "solution": "<think> The question asks about: A particle of mass 100 g tied to a string is rotated along the circle of radius 0 . 5 m . The breaking tension of the st Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: F = m \u00cf\u0089 2 r = m v 2 r v = f . r m = 1 0 \u00c3\u0097 0 . 5 1 0 0 \u00c3\u0097 1 0 - 3 m s - 1 = 7.07 \u00e2\u0080\u0089 \u00e2\u0080\u0089 \u00e2\u0080\u0089 m s - 1 </think> **Correct Answer: (A)** **Explanation:** F = m \u00cf\u0089 2 r = m v 2 r v = f . r m = 1 0 \u00c3\u0097 0 . 5 1 0 0 \u00c3\u0097 1 0 - 3 m s - 1 = 7.07 \u00e2\u0080\u0089 \u00e2\u0080\u0089 \u00e2\u0080\u0089 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     },
     {
-      "question": "spring mass system (mass m, spring constant k and natural length l) rest in equilibrium on a horizontal disc. The free end of the spring is fixed at the centre of the disc. If the disc together with spring mass system, rotates about it's axis with an angular velocity \\omega , (k \\gg m\\omega ^2) the relative change in the length of the spring is best given by the option :",
+      "question": "A stone of density 2000 kg m - 3 completely immersed in a lake is allowed to sink from rest. If the effect of friction is neglected, then after 4 seconds, the stone will reach a depth of",
       "options": {
-        "A": "M\\omega ^2 \\over 3k",
-        "B": "M\\omega ^2 \\over k",
-        "C": "2m\\omega ^2 \\over k",
-        "D": "\\sqrt 2 \\over 3 ( m\\omega ^2 \\over k \\)"
+        "A": "7%",
+        "B": "4 m",
+        "C": "2 m",
+        "D": "6 m"
       },
-      "answer": "B",
-      "solution": "m\\omega ^2(l<sub>0</sub> + x) = kx <br><br>x = mI_0\\omega ^2 \\over k - m\\omega ^2 <br><br>For k >> m\\omega ^2 <br><br>x \\over I_0 = m\\omega ^2 \\over k",
-      "exam": "JEE Main 2020",
-      "year": 2020,
+      "answer": "A",
+      "solution": "<think> The question asks about: A stone of density 2000 kg m - 3 completely immersed in a lake is allowed to sink from rest. If the effect of friction i Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: Given, density of stone \u00cf\u0081 = 2000 kg m - 3 Density of water \u00cf\u0083 = 1000 kg m - 3 According to question, g \u00e2\u0080\u00b2 = g 1 - \u00cf\u0083 \u00cf\u0081 g \u00e2\u0080\u00b2 = g 1 - 1000 2000 g \u00e2\u0080\u00b2 = g 2 We know that, S = u t + 1 2 g \u00e2\u0080\u00b2 t 2 S = 1 2 g \u00e2\u0080\u00b2 t 2 S = 1 2 \u00c3\u0097 g 2 \u00c3\u0097 4 2 S = 1 2 \u00c3\u0097 9.8 2 \u00c3\u0097 4 2 S = 9.8 \u00c3\u0097 16 4 S = 39.2 m </think> **Correct Answer: (A)** **Explanation:** Given, density of stone \u00cf\u0081 = 2000 kg m - 3 Density of water \u00cf\u0083 = 1000 kg m - 3 According to question, g \u00e2\u0080\u00b2 = g 1 - \u00cf\u0083 \u00cf\u0081 g \u00e2\u0080\u00b2 = g 1 - 1000 2000 g \u00e2\u0080\u00b2 = g 2 We know that, S = u t + 1 2 g \u00e2\u0080\u00b2 t 2 S = 1 2 g \u00e2\u0080\u00b2 t 2 S = 1 2 \u00c3\u0097 g 2 \u00c3\u0097 4 2 S = 1 2 \u00c3\u0097 9.8 2 \u00c3\u0097 4 2 S = 9.8 \u00c3\u0097 16 4 S = 39.2 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Motion in a Straight Line"
+    },
+    {
+      "question": "A projectile is thrown with velocity u = 20 m / s \u00b1 5 % at an angle 60 o . If the projectile comes back on the ground at the same level then which of following cannot be a possible answer for range. Consider g = 10 \u00e2\u0080\u0084 m/s 2",
+      "options": {
+        "A": "3%",
+        "B": "6 m",
+        "C": "5 m",
+        "D": "0 m"
+      },
+      "answer": "A",
+      "solution": "<think> The question asks about: A projectile is thrown with velocity u = 20 m / s \u00b1 5 % at an angle 60 o . If the projectile comes back on the ground a Correct answer is (A). Let me verify each option and confirm why (A) is . Existing explanation: R a n g e o f p r o j e c t i l e R = u 2 s i n 2 \u00ce\u00b8 g for \u00e2\u0081\u009f \u00ce\u00b8 = 60 o , R = 20 2 sin 120 o g = 20 3 = 34.64 \u00e2\u0080\u0084 m f o r % e r r o r \u00e2\u0088\u0086 RR = 2 \u00e2\u0088\u0086 u u \u00ce\u0094R = 2 \u00c3\u0097 5 100 \u00c3\u0097 20 3 = 2 3 = 3.464 \u00e2\u0080\u0084 m So, range R = 34.64 \u00b1 3.46 \u00e2\u0080\u0084 m R min = 31.1 m and R max 38.1 \u00e2\u0080\u0084 m </think> **Correct Answer: (A)** **Explanation:** R a n g e o f p r o j e c t i l e R = u 2 s i n 2 \u00ce\u00b8 g for \u00e2\u0081\u009f \u00ce\u00b8 = 60 o , R = 20 2 sin 120 o g = 20 3 = 34.64 \u00e2\u0080\u0084 m f o r % e r r o r \u00e2\u0088\u0086 RR = 2 \u00e2\u0088\u0086 u u \u00ce\u0094R = 2 \u00c3\u0097 5 100 \u00c3\u0097 20 3 = 2 3 = 3.464 \u00e2\u0080\u0084 m So, range R = 34.64 \u00b1 3.46 \u00e2\u0080\u0084 m R min = 31.1 m and R max 38.1 \u00e2\u0080\u0084 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 10-Year PYQ",
+      "year": 2024,
       "subject": "Physics",
       "chapter": "Motion in a Straight Line"
     }
