@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Semiconductor Electronics",
-  "total_questions": 95,
+  "total_questions": 96,
   "questions": [
+    {
+      "question": "Identify the digital logic gate represented by the symbol shown below and choose its correct truth table output Y for inputs A=1, B=1:",
+      "image_path": "dataset2/images/phys_logic_gate.png",
+      "options": {
+        "A": "NAND Gate; Output Y = 0 when A=1, B=1",
+        "B": "AND Gate; Output Y = 1 when A=1, B=1",
+        "C": "NOR Gate; Output Y = 1 when A=1, B=1",
+        "D": "OR Gate; Output Y = 0 when A=1, B=1"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** The given symbol represents a NAND gate (AND gate followed by a NOT inversion bubble). The Boolean expression is $Y = \\overline{A \\cdot B}$. When $A=1$ and $B=1$, $Y = \\overline{1 \\cdot 1} = \\overline{1} = 0$.",
+      "exam": "NEET Semiconductor Logic Gate Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Semiconductor Electronics"
+    },
     {
       "question": "The V-I characteristic of a silicon diode is shown in the Fig. Calculate the resistance of the diode at V D = \u201310 V.",
       "options": {

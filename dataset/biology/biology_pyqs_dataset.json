@@ -1,7 +1,7 @@
 {
   "subject": "Biology",
   "total_chapters": 32,
-  "total_questions": 11280,
+  "total_questions": 11283,
   "source_breakdown": {
     "NEET_PYQs": 1836,
     "Popular_NCERT_Questions": 8591
@@ -104257,6 +104257,22 @@
     ],
     "Body Fluids and Circulation": [
       {
+        "question": "Refer to the schematic internal diagram of the 4-chambered human heart below. Which chamber possesses the thickest muscular wall to pump oxygenated blood throughout the systemic circulation via the Aorta?",
+        "image_path": "dataset2/images/bio_heart_structure.png",
+        "options": {
+          "A": "Left Ventricle",
+          "B": "Right Ventricle",
+          "C": "Left Atrium",
+          "D": "Right Atrium"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**NCERT Anatomy:** The Left Ventricle has the thickest myocardium (muscular wall) because it must generate high hydrostatic pressure to pump oxygenated blood into the Aorta for distribution throughout the entire body (systemic circulation).",
+        "exam": "NEET Biology Anatomy Diagram PYQ",
+        "year": 2024,
+        "subject": "Biology",
+        "chapter": "Body Fluids and Circulation"
+      },
+      {
         "question": "Examine the schematic diagram of the 4-chambered human heart shown below. Which chamber receives deoxygenated blood directly from the vena cava and pumps it into the right ventricle?",
         "image_path": "dataset2/images/human_heart_structure.png",
         "options": {
@@ -111655,6 +111671,22 @@
     ],
     "Excretory Products and Their Elimination": [
       {
+        "question": "Refer to the structural diagram of a mammalian renal nephron. Which region of the hairpin Loop of Henle is highly permeable to water but almost impermeable to electrolytes?",
+        "image_path": "dataset2/images/bio_nephron_structure.png",
+        "options": {
+          "A": "Descending Limb of Loop of Henle",
+          "B": "Ascending Limb of Loop of Henle",
+          "C": "Proximal Convoluted Tubule (PCT)",
+          "D": "Distal Convoluted Tubule (DCT)"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**NCERT Renal Physiology:** The descending limb of Loop of Henle is permeable to water but impermeable to electrolytes. As filtrate moves down into the renal medulla, water is reabsorbed osmotically, concentrating the filtrate.",
+        "exam": "NEET Biology Excretory System Diagram PYQ",
+        "year": 2024,
+        "subject": "Biology",
+        "chapter": "Excretory Products and Their Elimination"
+      },
+      {
         "question": "Match the items in Column-I with those in Column II Select the correct option from the following",
         "options": {
           "A": "A",
@@ -118873,6 +118905,22 @@
       }
     ],
     "Neural Control and Coordination": [
+      {
+        "question": "Examine the diagram of a myelinated motor neuron below. What are the unmyelinated gaps between adjacent Schwann cell myelin sheaths along the axon termed?",
+        "image_path": "dataset2/images/bio_neuron_anatomy.png",
+        "options": {
+          "A": "Nodes of Ranvier",
+          "B": "Synaptic Cleft",
+          "C": "Nissl's Granules",
+          "D": "Dendritic Spines"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**NCERT Neuroanatomy:** The gaps between adjacent myelin sheaths along the axon are called Nodes of Ranvier. In myelinated nerve fibers, action potentials jump rapidly from node to node in a process known as saltatory conduction.",
+        "exam": "NEET Biology Nervous System Diagram PYQ",
+        "year": 2024,
+        "subject": "Biology",
+        "chapter": "Neural Control and Coordination"
+      },
       {
         "question": "[NEET 2023 | Biology]\n\nNode of Ranvier is found in:",
         "options": {

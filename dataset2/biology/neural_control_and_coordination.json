@@ -1,8 +1,24 @@
 {
   "subject": "Biology",
   "chapter": "Neural Control and Coordination",
-  "total_questions": 192,
+  "total_questions": 193,
   "questions": [
+    {
+      "question": "Examine the diagram of a myelinated motor neuron below. What are the unmyelinated gaps between adjacent Schwann cell myelin sheaths along the axon termed?",
+      "image_path": "dataset2/images/bio_neuron_anatomy.png",
+      "options": {
+        "A": "Nodes of Ranvier",
+        "B": "Synaptic Cleft",
+        "C": "Nissl's Granules",
+        "D": "Dendritic Spines"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**NCERT Neuroanatomy:** The gaps between adjacent myelin sheaths along the axon are called Nodes of Ranvier. In myelinated nerve fibers, action potentials jump rapidly from node to node in a process known as saltatory conduction.",
+      "exam": "NEET Biology Nervous System Diagram PYQ",
+      "year": 2024,
+      "subject": "Biology",
+      "chapter": "Neural Control and Coordination"
+    },
     {
       "question": "[NEET 2023 | Biology]\n\nNode of Ranvier is found in:",
       "options": {

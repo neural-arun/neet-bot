@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Thermal Properties and Thermodynamics",
-  "total_questions": 224,
+  "total_questions": 225,
   "questions": [
+    {
+      "question": "Refer to the given P-V indicator diagram. Identify which curve represents Isothermal expansion and which represents Adiabatic expansion:",
+      "image_path": "dataset2/images/phys_pv_indicator.png",
+      "options": {
+        "A": "Curve A is Isothermal expansion; Curve B is Adiabatic expansion",
+        "B": "Curve A is Adiabatic expansion; Curve B is Isothermal expansion",
+        "C": "Both curves represent Isobaric expansion",
+        "D": "Both curves represent Isochoric expansion"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** The magnitude of slope of an adiabatic curve ($dP/dV = -\\gamma P/V$) is $\\gamma$ times greater than that of an isothermal curve ($dP/dV = -P/V$). Thus, Curve A (gentler slope) is Isothermal and Curve B (steeper slope) is Adiabatic.",
+      "exam": "NEET Physics Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Thermal Properties and Thermodynamics"
+    },
     {
       "question": "Refer to the given P-V indicator diagram below. Identify which process represents Isothermal Expansion and which represents Adiabatic Expansion:",
       "image_path": "dataset2/images/pv_diagram.png",

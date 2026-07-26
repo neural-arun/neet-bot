@@ -1,8 +1,24 @@
 {
   "subject": "Biology",
   "chapter": "Body Fluids and Circulation",
-  "total_questions": 493,
+  "total_questions": 494,
   "questions": [
+    {
+      "question": "Refer to the schematic internal diagram of the 4-chambered human heart below. Which chamber possesses the thickest muscular wall to pump oxygenated blood throughout the systemic circulation via the Aorta?",
+      "image_path": "dataset2/images/bio_heart_structure.png",
+      "options": {
+        "A": "Left Ventricle",
+        "B": "Right Ventricle",
+        "C": "Left Atrium",
+        "D": "Right Atrium"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**NCERT Anatomy:** The Left Ventricle has the thickest myocardium (muscular wall) because it must generate high hydrostatic pressure to pump oxygenated blood into the Aorta for distribution throughout the entire body (systemic circulation).",
+      "exam": "NEET Biology Anatomy Diagram PYQ",
+      "year": 2024,
+      "subject": "Biology",
+      "chapter": "Body Fluids and Circulation"
+    },
     {
       "question": "Examine the schematic diagram of the 4-chambered human heart shown below. Which chamber receives deoxygenated blood directly from the vena cava and pumps it into the right ventricle?",
       "image_path": "dataset2/images/human_heart_structure.png",

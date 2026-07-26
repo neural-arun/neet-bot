@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Redox Reactions and Electrochemistry",
-  "total_questions": 372,
+  "total_questions": 373,
   "questions": [
+    {
+      "question": "Refer to the schematic diagram of the Galvanic Daniell Cell shown below. What is the primary function of the salt bridge connecting the two half-cells?",
+      "image_path": "dataset2/images/chem_daniell_cell.png",
+      "options": {
+        "A": "Maintains electrical neutrality of solutions and completes the internal electrical circuit",
+        "B": "Increases the overall cell voltage to double",
+        "C": "Prevents electrons from flowing through external wire",
+        "D": "Acts as a catalyst for oxidation at cathode"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** The salt bridge contains an inert electrolyte (like $KNO_3$ or $KCl$ in agar-agar). It maintains electrical neutrality in both half-cell solutions by allowing migration of ions and completes the internal circuit without allowing bulk mixing of liquids.",
+      "exam": "NEET Electrochemistry Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Redox Reactions and Electrochemistry"
+    },
     {
       "question": "When 9.65 C of electricity is passed through a solution of silver nitrate (atomic weight of Ag = 107.87 taking as 108), the amount of silver deposited is",
       "options": {

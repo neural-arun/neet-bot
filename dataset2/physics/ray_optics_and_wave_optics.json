@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Ray Optics and Wave Optics",
-  "total_questions": 332,
+  "total_questions": 333,
   "questions": [
+    {
+      "question": "In the ray optics diagram showing light refraction through a triangular glass prism, what condition is satisfied at the angle of minimum deviation (\u03b4_min)?",
+      "image_path": "dataset2/images/phys_ray_prism.png",
+      "options": {
+        "A": "Angle of incidence (i) equals angle of emergence (e), and ray inside prism travels parallel to base",
+        "B": "Angle of incidence (i) is zero",
+        "C": "Angle of emergence (e) is 90 degrees",
+        "D": "Refracted ray travels perpendicular to base"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** At minimum deviation $\\delta_{min}$, the ray passes symmetrically through the prism such that angle of incidence equals angle of emergence ($i = e$) and angle of refraction $r_1 = r_2 = A/2$. The ray inside the prism travels parallel to the base.",
+      "exam": "NEET Physics Optics Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Ray Optics and Wave Optics"
+    },
     {
       "question": "Refer to the ray optics diagram of a light ray passing through a triangular glass prism. What happens to the angle of deviation (\u03b4) as the angle of incidence (i) is gradually increased from a small value?",
       "image_path": "dataset2/images/ray_optics_prism.png",

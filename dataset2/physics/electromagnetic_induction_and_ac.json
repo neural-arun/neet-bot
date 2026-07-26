@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Electromagnetic Induction and AC",
-  "total_questions": 1579,
+  "total_questions": 1580,
   "questions": [
+    {
+      "question": "Examine the Current vs Frequency response curve for a series LCR AC circuit shown below. At the resonant frequency f\u2080, what is the nature of the circuit impedance?",
+      "image_path": "dataset2/images/phys_lcr_resonance.png",
+      "options": {
+        "A": "Purely resistive (Z = R) and current is maximum",
+        "B": "Purely inductive (Z = X_L)",
+        "C": "Purely capacitive (Z = X_C)",
+        "D": "Impedance is infinite and current is zero"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** At resonance, inductive reactance equals capacitive reactance ($X_L = X_C$). Therefore, net impedance is purely resistive ($Z = R$), which is minimum, and current amplitude $I_0 = V_0/R$ is maximum.",
+      "exam": "NEET Physics AC Circuit Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Electromagnetic Induction and AC"
+    },
     {
       "question": "The displacement of an object attached to a spring and executing simple harmonic motion is given by x = 2 \u00c3\u0097 10 - 2 cos \u00e2\u0081\u00a1 \u00cf\u0080 t metre. The time at which the maximum speed first occurs is",
       "options": {

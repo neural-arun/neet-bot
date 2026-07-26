@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Coordination Compounds",
-  "total_questions": 223,
+  "total_questions": 224,
   "questions": [
+    {
+      "question": "In an octahedral coordination complex, how do the d-orbitals of the central transition metal ion split under the influence of surrounding ligands as shown in the crystal field diagram?",
+      "image_path": "dataset2/images/chem_cft_octahedral.png",
+      "options": {
+        "A": "Splits into higher energy e_g set (d_x\u00b2-y\u00b2, d_z\u00b2) and lower energy t_2g set (d_xy, d_yz, d_zx)",
+        "B": "Splits into lower energy e_g set and higher energy t_2g set",
+        "C": "All five d-orbitals remain completely degenerate",
+        "D": "Splits into three energy levels of 2, 2, and 1 orbitals"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** In octahedral symmetry, ligands approach along the Cartesian axes ($x, y, z$). Thus, orbitals directed along axes ($d_{x^2-y^2}, d_{z^2}$) experience greater repulsion and rise in energy ($e_g$), while orbitals pointing between axes ($d_{xy}, d_{yz}, d_{zx}$) experience less repulsion and fall in energy ($t_{2g}$).",
+      "exam": "NEET Coordination Compounds Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Coordination Compounds"
+    },
     {
       "question": "The magnetic moment of [MnCl\u2084]\u00b2\u207b is 5.92 BM. Explain giving a reason.",
       "options": {

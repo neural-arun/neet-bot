@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "total_chapters": 20,
-  "total_questions": 4526,
+  "total_questions": 4531,
   "source_breakdown": {
     "NEET": 2253,
     "JEE_Mains": 2271
@@ -3445,6 +3445,22 @@
       }
     ],
     "Motion in a Straight Line": [
+      {
+        "question": "Refer to the velocity-time (v-t) graph of a moving particle shown below. Calculate the total displacement traveled by the particle in 8 seconds:",
+        "image_path": "dataset2/images/phys_vt_kinematics.png",
+        "options": {
+          "A": "60 meters",
+          "B": "50 meters",
+          "C": "80 meters",
+          "D": "40 meters"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** Total displacement = Area under the v-t graph = Area of Trapezoid = \u00bd \u00d7 (Sum of parallel sides) \u00d7 Height = \u00bd \u00d7 (4 + 8) \u00d7 10 = \u00bd \u00d7 12 \u00d7 10 = 60 meters.",
+        "exam": "NEET Physics Kinematics Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Motion in a Straight Line"
+      },
       {
         "question": "A man throws balls with the same speed vertically upwards one after the other at an interval of 2 seconds. What should be the speed of the throw so that more than two balls are in the sky at any time?",
         "options": {
@@ -11949,6 +11965,22 @@
       }
     ],
     "Thermal Properties and Thermodynamics": [
+      {
+        "question": "Refer to the given P-V indicator diagram. Identify which curve represents Isothermal expansion and which represents Adiabatic expansion:",
+        "image_path": "dataset2/images/phys_pv_indicator.png",
+        "options": {
+          "A": "Curve A is Isothermal expansion; Curve B is Adiabatic expansion",
+          "B": "Curve A is Adiabatic expansion; Curve B is Isothermal expansion",
+          "C": "Both curves represent Isobaric expansion",
+          "D": "Both curves represent Isochoric expansion"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** The magnitude of slope of an adiabatic curve ($dP/dV = -\\gamma P/V$) is $\\gamma$ times greater than that of an isothermal curve ($dP/dV = -P/V$). Thus, Curve A (gentler slope) is Isothermal and Curve B (steeper slope) is Adiabatic.",
+        "exam": "NEET Physics Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Thermal Properties and Thermodynamics"
+      },
       {
         "question": "Refer to the given P-V indicator diagram below. Identify which process represents Isothermal Expansion and which represents Adiabatic Expansion:",
         "image_path": "dataset2/images/pv_diagram.png",
@@ -27247,6 +27279,22 @@
       }
     ],
     "Electromagnetic Induction and AC": [
+      {
+        "question": "Examine the Current vs Frequency response curve for a series LCR AC circuit shown below. At the resonant frequency f\u2080, what is the nature of the circuit impedance?",
+        "image_path": "dataset2/images/phys_lcr_resonance.png",
+        "options": {
+          "A": "Purely resistive (Z = R) and current is maximum",
+          "B": "Purely inductive (Z = X_L)",
+          "C": "Purely capacitive (Z = X_C)",
+          "D": "Impedance is infinite and current is zero"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** At resonance, inductive reactance equals capacitive reactance ($X_L = X_C$). Therefore, net impedance is purely resistive ($Z = R$), which is minimum, and current amplitude $I_0 = V_0/R$ is maximum.",
+        "exam": "NEET Physics AC Circuit Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Electromagnetic Induction and AC"
+      },
       {
         "question": "The displacement of an object attached to a spring and executing simple harmonic motion is given by x = 2 \u00c3\u0097 10 - 2 cos \u00e2\u0081\u00a1 \u00cf\u0080 t metre. The time at which the maximum speed first occurs is",
         "options": {
@@ -51942,6 +51990,22 @@
     ],
     "Ray Optics and Wave Optics": [
       {
+        "question": "In the ray optics diagram showing light refraction through a triangular glass prism, what condition is satisfied at the angle of minimum deviation (\u03b4_min)?",
+        "image_path": "dataset2/images/phys_ray_prism.png",
+        "options": {
+          "A": "Angle of incidence (i) equals angle of emergence (e), and ray inside prism travels parallel to base",
+          "B": "Angle of incidence (i) is zero",
+          "C": "Angle of emergence (e) is 90 degrees",
+          "D": "Refracted ray travels perpendicular to base"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** At minimum deviation $\\delta_{min}$, the ray passes symmetrically through the prism such that angle of incidence equals angle of emergence ($i = e$) and angle of refraction $r_1 = r_2 = A/2$. The ray inside the prism travels parallel to the base.",
+        "exam": "NEET Physics Optics Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Ray Optics and Wave Optics"
+      },
+      {
         "question": "Refer to the ray optics diagram of a light ray passing through a triangular glass prism. What happens to the angle of deviation (\u03b4) as the angle of incidence (i) is gradually increased from a small value?",
         "image_path": "dataset2/images/ray_optics_prism.png",
         "options": {
@@ -66513,6 +66577,22 @@
       }
     ],
     "Semiconductor Electronics": [
+      {
+        "question": "Identify the digital logic gate represented by the symbol shown below and choose its correct truth table output Y for inputs A=1, B=1:",
+        "image_path": "dataset2/images/phys_logic_gate.png",
+        "options": {
+          "A": "NAND Gate; Output Y = 0 when A=1, B=1",
+          "B": "AND Gate; Output Y = 1 when A=1, B=1",
+          "C": "NOR Gate; Output Y = 1 when A=1, B=1",
+          "D": "OR Gate; Output Y = 0 when A=1, B=1"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** The given symbol represents a NAND gate (AND gate followed by a NOT inversion bubble). The Boolean expression is $Y = \\overline{A \\cdot B}$. When $A=1$ and $B=1$, $Y = \\overline{1 \\cdot 1} = \\overline{1} = 0$.",
+        "exam": "NEET Semiconductor Logic Gate Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Semiconductor Electronics"
+      },
       {
         "question": "The V-I characteristic of a silicon diode is shown in the Fig. Calculate the resistance of the diode at V D = \u201310 V.",
         "options": {

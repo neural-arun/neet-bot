@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Motion in a Straight Line",
-  "total_questions": 47,
+  "total_questions": 48,
   "questions": [
+    {
+      "question": "Refer to the velocity-time (v-t) graph of a moving particle shown below. Calculate the total displacement traveled by the particle in 8 seconds:",
+      "image_path": "dataset2/images/phys_vt_kinematics.png",
+      "options": {
+        "A": "60 meters",
+        "B": "50 meters",
+        "C": "80 meters",
+        "D": "40 meters"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Total displacement = Area under the v-t graph = Area of Trapezoid = \u00bd \u00d7 (Sum of parallel sides) \u00d7 Height = \u00bd \u00d7 (4 + 8) \u00d7 10 = \u00bd \u00d7 12 \u00d7 10 = 60 meters.",
+      "exam": "NEET Physics Kinematics Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Motion in a Straight Line"
+    },
     {
       "question": "A man throws balls with the same speed vertically upwards one after the other at an interval of 2 seconds. What should be the speed of the throw so that more than two balls are in the sky at any time?",
       "options": {
