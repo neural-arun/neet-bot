@@ -1,0 +1,832 @@
+{
+  "subject": "Chemistry",
+  "chapter": "Aldehydes, Ketones and Carboxylic Acids",
+  "total_questions": 55,
+  "questions": [
+    {
+      "question": "Explain 'Aldol Condensation; Cannizzaro Reaction' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPTS & DEFINITIONS\n\n### **ALDOL CONDENSATION**\n\n**Definition:** An aldol condensation is a reaction between two molecules of **aldehydes (or ketones)** containing **\u03b1-hydrogen atoms**, in the presence of a dilute base, to form a \u03b2-hydroxy carbonyl compound (aldol), which then dehydrates to give an unsaturated carbonyl compound.\n\n**General Reaction:**\n```\n2 RCHO \u2192 R-CH(OH)-CH(R)CHO (aldol) \u2192 R-CH=CH-CHO (\u03b1,\u03b2-unsaturated aldehyde)\n         (dilute base)                    (heat)\n```\n\n**Mechanism (3 steps):**\n\n**Step 1: Enolate Formation (Nucleophile generation)**\n```\nBase abstracts \u03b1-hydrogen \u2192 Carbanion/Enolate ion forms\n     O\u207b          O\u207b\n     \u2551           |\nR-CH\u2082-C-H \u2192 R-CH-C\u207b + H\u2082O\n  (aldehyde)  (Enolate - strong nucleophile)\n```\n\n**Step 2: Nucleophilic Addition (C-C bond formation)**\n```\nEnolate attacks electrophilic carbonyl carbon of another aldehyde\n     O\u207b                 OH\n     |                  |\nR-CH-C\u207b + R'CHO \u2192 R-CH-CH-CHO\n                    |   |\n                    R'  (Aldol product)\n```\n\n**Step 3: Dehydration (optional)**\n```\n      OH                      O\n      |                       \u2551\nR-CH-CH-CHO ---(Heat)\u2192 R-CH=CH-CHO + H\u2082O\n      |              (Conc. base)   \n      R'                    (\u03b1,\u03b2-unsaturated aldehyde)\n```\n\n---\n\n### **CANNIZZARO REACTION**\n\n**Definition:** A Cannizzaro reaction is the **disproportionation** of an aldehyde that **has NO \u03b1-hydrogen atoms**, in the presence of concentrated base (NaOH), to form an alcohol and a carboxylic acid.\n\n**General Reaction:**\n```\n2 HCHO \u2192 CH\u2083OH + HCOONa (sodium formate)\n         (conc. NaOH)\n```\n\n**Mechanism (2 steps):**\n\n**Step 1: Nucleophilic Addition (hydride transfer)**\n```\nConcentrated base activates aldehyde\n         O\u207b                    O\u207b\n         \u2551                     |\nAr-CHO + OH\u207b \u2192 Ar-CH-OH \u2190 (Tetrahedral intermediate)\n                           (Resonance stabilized)\n```\n\n**Step 2: Hydride Transfer (Disproportionation)**\n```\n         O\u207b           O\u207b\n         |            \u2551\nAr-CH-OH + Ar-CHO \u2192 Ar-CH\u2082-O\u207b + Ar-C-O\u207b\n(Intermediate)    (Product 1)   (Product 2)\n                  (Alcohol)      (Carboxylate)\n```\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n| Feature | Aldol Condensation | Cannizzaro Reaction |\n|---------|-------------------|-------------------|\n| **Reactant Type** | Aldehydes/Ketones WITH \u03b1-H | Aldehydes WITHOUT \u03b1-H |\n| **Catalyst** | Dilute base (NaOH, KOH) | Concentrated base (NaOH) |\n| **Type of Reaction** | Addition-Condensation | Disproportionation (Redox) |\n| **Products** | \u03b2-hydroxy carbonyl + unsaturated carbonyl | Alcohol + Carboxylic acid |\n| **Examples** | Acetaldehyde, Benzaldehyde | Formaldehyde, Benzaldehyde |\n| **Product Ratio** | 1:1 (2 molecules condense) | 1:1 (Alcohol : Carboxylate) |\n| **No. of Aldehyde needed** | Same aldehyde (2 molecules) | Different aldehydes possible |\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identifying the Reaction Type**\n*\"Which compound will NOT undergo aldol condensation?\"*\n- Answer: Formaldehyde (HCHO) - no \u03b1-H\n- Also: Benzaldehyde (C\u2086H\u2085CHO) - no \u03b1-H\n\n### **Pattern 2: Product Prediction**\n*\"What is the aldol product of acetaldehyde?\"*\n- CH\u2083CHO + CH\u2083CHO \u2192 CH\u2083CH(OH)CH\u2082CHO (aldol)\n- Then: CH\u2083CH=CHCHO (after dehydration)\n\n### **Pattern 3: Mechanism-Based Questions**\n*\"What is the first step in aldol condensation?\"*\n- Enolate ion formation (base abstracts \u03b1-H)\n\n### **Pattern 4: Cannizzaro Specifics**\n*\"Why does formaldehyde undergo Cannizzaro reaction?\"*\n- No \u03b1-hydrogens available\n- Strong base activates it for disproportionation\n\n### **Pattern 5: Mixed Scenarios**\n*\"Can benzaldehyde undergo Cannizzaro with formaldehyde?\"*\n- Cross-Cannizzaro: Yes! (HCHO is reduced, Ar-CHO is oxidized)\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **Tip 1: ALDOL = \"ALCOHOL + ALDEHYDE\"**\n- The product contains both OH group (alcohol part) and CHO group (aldehyde part)\n- Hence \"ALcohol + ALdehyde\" = ALDOL\n\n### **Tip 2: \u03b1-HYDROGEN RULE**\n- **WITH \u03b1-H** \u2192 Aldol Condensation (coupling of two molecules)\n- **WITHOUT \u03b1-H** \u2192 Cannizzaro (self-disproportionation)\n\n```\nThink: \"\u03b1-H helps aldol, no \u03b1-H needs Cannizzaro\"\n```\n\n### **Tip 3: BASE CONCENTRATION MATTERS**\n- **Dilute base** = Aldol (milder conditions, reversible)\n- **Concentrated base** = Cannizzaro (harsh conditions, one-way disproportionation)\n\n### **Tip 4: OXIDATION STATE CHANGE**\n- **Aldol:** Both reactant molecules retain same oxidation state\n- **Cannizzaro:** One molecule OXIDIZED (\u2192 carboxylic acid), one REDUCED (\u2192 alcohol)\n\n---\n\n## 5. WORKED EXAMPLE WITH SOLUTION\n\n### **Example Problem:**\n\n**Question:** \n\"5.4 g of benzaldehyde (C\u2086H\u2085CHO) is treated with (a) dilute NaOH and (b) concentrated NaOH. What products form in each case? (Molar mass of benzaldehyde = 106 g/mol)\"\n\n---\n\n### **Solution:**\n\n**Given:**\n- Mass of benzaldehyde = 5.4 g\n- Molar mass = 106 g/mol\n- Moles = 5.4/106 \u2248 0.051 mol\n\n**Check:** Does benzaldehyde have \u03b1-hydrogens?\n- Structure: C\u2086H\u2085-CHO\n- No CH\u2082 or CH group adjacent to C=O\n- **NO \u03b1-hydrogen available**\n\n---\n\n#### **Case (a): Dilute NaOH**\n\n**Analysis:**\n- Benzaldehyde has NO \u03b1-H\n- Dilute base promotes aldol mechanism (requires enolate formation)\n- **Enolate CANNOT form** (no \u03b1-H available)\n- **Result:** NO REACTION \u2717\n\n---\n\n#### **Case (b): Concentrated NaOH**\n\n**Analysis:**\n- Benzaldehyde has NO \u03b1-H\n- Concentrated base can trigger disproportionation\n- Concentrated NaOH directly attacks C=O without requiring enolate\n- **Cannizzaro reaction occurs** \u2713\n\n**Mechanism:**\n```\n2 C\u2086H\u2085CHO ---(conc. NaOH)\u2192 C\u2086H\u2085CH\u2082OH + C\u2086H\u2085COONa\n   (Benzaldehyde)          (Benzyl alcohol)  (Sodium benzoate)\n```\n\n**Products:**\n1. **Benzyl alcohol** (C\u2086H\u2085CH\u2082OH) - reduced product\n2. **Sodium benzoate** (C\u2086H\u2085COONa) - oxidized product\n\n**Moles calculation:**\n- 0.051 mol benzaldehyde \u2192 0.051 mol benzyl alcohol + 0.051 mol benzoate\n- Mass of benzyl alcohol = 0.051 \u00d7 108 \u2248 **5.5 g**\n- Mass of benzoate = 0.051 \u00d7 144 \u2248 **7.3 g**\n\n---\n\n### **Key Learning Point:**\n\n\u2705 **Benzaldehyde WITHOUT dilute base \u2192 No reaction** (can't form enolate)\n\n\u2705 **Benzaldehyde WITH concentrated base \u2192 Cannizzaro products** (disproportionation)\n\n---\n\n## QUICK REFERENCE TABLE FOR ALDEHYDES\n\n| Aldehyde | \u03b1-H Present? | With Dilute Base | With Conc. Base |\n|----------|-------------|------------------|-----------------|\n| HCHO (Formaldehyde) | \u274c | No Reaction | Cannizzaro \u2713 |\n| CH\u2083CHO (Acetaldehyde) | \u2705 | Aldol \u2713 | Cannizzaro (possible) |\n| C\u2086H\u2085CHO (",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Reduction; Decarboxylation; Hell-Volhard-Zelinsky Reaction' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "# Reduction, Decarboxylation & HVZ Reaction - Complete NEET Guide\n\n---\n\n## 1. CORE CONCEPTS & DEFINITIONS\n\n### A) REDUCTION OF ALDEHYDES, KETONES & CARBOXYLIC ACIDS\n\n**Definition**: Reduction is the addition of hydrogen atoms (or removal of oxygen) to functional groups, converting them to lower oxidation states.\n\n| Compound | Reducing Agent | Product |\n|----------|---|---|\n| **Aldehyde** (RCHO) | LiAlH\u2084 or NaBH\u2084 | Primary alcohol (RCH\u2082OH) |\n| **Ketone** (RCOR') | LiAlH\u2084 or NaBH\u2084 | Secondary alcohol (RCHR'OH) |\n| **Carboxylic Acid** (RCOOH) | LiAlH\u2084 (NOT NaBH\u2084) | Primary alcohol (RCH\u2082OH) |\n| **Ester** | LiAlH\u2084 | Alcohol + Alcohol |\n\n**Key Distinction**:\n- **NaBH\u2084** = Mild reducing agent (reduces aldehydes/ketones only)\n- **LiAlH\u2084** = Strong reducing agent (reduces all carbonyl compounds)\n\n---\n\n### B) DECARBOXYLATION\n\n**Definition**: Removal of CO\u2082 group from carboxylic acids (or their derivatives) producing hydrocarbons with one less carbon atom.\n\n**General Equation**:\n```\nR-COOH \u2192 R-H + CO\u2082\n```\n\n**Types of Decarboxylation**:\n\n| Type | Conditions | Example |\n|------|-----------|---------|\n| **Thermal Decarboxylation** | Strong heating (400-500\u00b0C) | HCOOH \u2192 Not possible (formic acid cannot decarboxylate) |\n| **Catalytic Decarboxylation** | Soda lime (NaOH + CaO), heat | CH\u2083COOH + NaOH \u2192 CH\u2084 + Na\u2082CO\u2083 |\n| **Kolbe's Decarboxylation** | Electrolysis of sodium salt | (RCOO)\u207bNa\u207a \u2192 R\u2022 \u2192 R-R (dimer) |\n\n**Order of Ease of Decarboxylation**:\n```\nHCOOH > Phenolic COOH > Aromatic COOH > Aliphatic COOH\n```\n\nReason: Stability of resulting carbanion/radical\n\n---\n\n### C) HELL-VOLHARD-ZELINSKY (HVZ) REACTION\n\n**Definition**: \u03b1-halogenation of carboxylic acids (halogen substitutes H atom at the carbon adjacent to COOH group).\n\n**General Equation**:\n```\nR-CH\u2082-COOH + X\u2082 \u2192 R-CHX-COOH + HX\n(with P or PX\u2083 as catalyst)\n```\n\nWhere: X = Cl, Br, or I (not F)\n\n**Mechanism**:\n1. Carboxylic acid converts to acyl halide: RCOOH + PX\u2083 \u2192 RCOCl + PH\u2083\n2. Enolization of acyl halide occurs\n3. Halogenation at \u03b1-carbon\n4. Hydrolysis regenerates carboxylic acid\n\n**Key Features**:\n- Requires **P (red) or PX\u2083** as catalyst\n- **Only \u03b1-hydrogen** is replaced (H directly attached to carbon next to COOH)\n- Can be mono-, di-, or tri-halogenated\n- **Cannot halogenate formic acid** (no \u03b1-carbon)\n\n---\n\n## 2. KEY FORMULAS & FACTS TO REMEMBER\n\n### Reduction Reactions:\n\n```\nRCHO + [H] \u2192 RCH\u2082OH                    (Primary alcohol)\n           (NaBH\u2084 or LiAlH\u2084)\n\nR\u2082CO + [H] \u2192 R\u2082CHOH                    (Secondary alcohol)\n           (NaBH\u2084 or LiAlH\u2084)\n\nRCOOH + 4[H] \u2192 RCH\u2082OH + H\u2082O            (Primary alcohol)\n             (LiAlH\u2084 only)\n```\n\n### Decarboxylation:\n\n```\nRCOOH \u23af(Soda lime, heat)\u2192 RH + CO\u2082\n\n(RCOO)\u207bNa\u207a \u23af(Electrolysis)\u2192 R-R + CO\u2082 + 2Na\u207a + 2e\u207b\n            (Kolbe reaction)\n```\n\n### HVZ Reaction:\n\n```\nR-CH\u2082-COOH + X\u2082 \u23af(P or PX\u2083, heat)\u2192 R-CHX-COOH + HX\n\nCH\u2083COOH + Br\u2082 \u23af(P)\u2192 CH\u2082Br-COOH + HBr\n              (Bromoacetic acid)\n```\n\n**Reagent Combinations to Remember**:\n- Aldehyde/Ketone to alcohol: **NaBH\u2084** \u2713\n- Carboxylic acid to alcohol: **LiAlH\u2084** \u2713\n- \u03b1-Halogenation: **X\u2082 + P** \u2713\n- Decarboxylation: **Soda lime + heat** \u2713\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Identifying Reducing Agents\n**Question Type**: \"Which reagent reduces carboxylic acids?\"\n- **Correct**: LiAlH\u2084\n- **Wrong**: NaBH\u2084, H\u2082/Ni, Zn/HCl\n\n### Pattern 2: Decarboxylation Products\n**Question Type**: \"Product of decarboxylation of adipic acid?\"\n```\nHOOC-(CH\u2082)\u2084-COOH \n\u23af(Soda lime, heat)\u2192 CH\u2082=CH-CH\u2082-CH\u2083 (1-butene)\n```\n\n### Pattern 3: HVZ Reaction Products\n**Question Type**: \"What is the product when propionic acid reacts with Br\u2082/P?\"\n```\nCH\u2083-CH\u2082-COOH + Br\u2082 \u23af(P)\u2192 CH\u2083-CHBr-COOH\n(Propionic acid)        (2-bromopropionic acid)\n```\n\n### Pattern 4: Halogenation Limitations\n**Question Type**: \"Which carboxylic acid cannot undergo HVZ reaction?\"\n- **Answer**: HCOOH (formic acid has no \u03b1-carbon)\n\n### Pattern 5: Multi-step Synthesis\n**Question Type**: Converts A \u2192 B \u2192 C using different reactions\n- Tests understanding of when to use which reaction\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### Tip 1: \"STRONG vs MILD\"\n- **LiAlH\u2084** = \"**Rambo**\" (reduces everything aggressively)\n- **NaBH\u2084** = \"**Selective cop**\" (only reduces aldehydes/ketones)\n\n### Tip 2: \"HVZ = HALOGEN at ALPHA\"\n- **H**ell-**V**olhard-**Z**elinsky\n- **Alpha** substitution (not beta, not gamma)\n- Remember: \"Only the \u03b1-hydrogen gets replaced\"\n\n### Tip 3: \"Decarboxylation Direction\"\n- Think of CO\u2082 as leaving group (easiest to leave from formic acid)\n- HCOOH > ArCOOH > RCH\u2082COOH\n- Reason: Stability of formed intermediate\n\n### Tip 4: \"Catalyst Code for HVZ\"\n- **P** or **PX\u2083** is ESSENTIAL\n- Without it, no \u03b1-halogenation occurs\n- Think: \"P = Phosphorus makes it Possible\"\n\n---\n\n## 5. SOLVED EXAMPLE PROBLEM\n\n### Question (NEET-Level):\n*A compound 'A' (C\u2082H\u2086O\u2082) when heated with soda lime gives 'B'. When 'A' is treated with Br\u2082/P, it gives compound 'C' (C\u2082H\u2085BrO\u2082). Identify A, B, and C. Also, explain why NaBH\u2084 cannot reduce 'A' to alcohol.*\n\n---\n\n### Solution:\n\n**Step 1: Identify Compound A**\n- Molecular formula: C\u2082H\u2086O\u2082\n- Can undergo decarboxylation (soda lime reaction) \u2192 contains COOH group\n- Can undergo HVZ reaction \u2192 contains \u03b1-hydrogen\n- Only possibility: **A = Acetic acid (CH\u2083COOH)**\n\nVerification:\n- C\u2082H\u2086O\u2082 = CH\u2083COOH \u2713\n- Has \u03b1-CH\u2083 group \u2713\n- Has COOH group \u2713\n\n---\n\n**Step 2: Identify Compound B**\n- Formed from decarboxylation of acetic acid\n```\nCH\u2083-COOH \u23af(Soda lime, heat)\u2192 CH\u2084 + CO\u2082\n```\n- **B = Methane (CH\u2084)**\n\nMechanism:\n- COOH group is removed as CO\u2082\n- CH\u2083 group becomes CH\u2084\n- One carbon is eliminated\n\n---\n\n**Step 3: Identify Compound C**\n- Formed from HVZ reaction on acetic acid\n```\nCH\u2083-COOH + Br\u2082 \u23af(Red P, heat)\u2192 CH\u2082Br-COOH + HBr\n```\n- **C = Bromoacetic acid (CH\u2082BrCOOH)**\n\nVerification:\n- Molecular formula: C\u2082H\u2085BrO",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Chemical Reactions of Aldehydes and Ketones:' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT AND DEFINITION\n\n### What are Aldehydes and Ketones?\n\n**Aldehydes (RCHO):**\n- Functional group: **-CHO** (carbonyl carbon bonded to H and one alkyl/aryl group)\n- General formula: RCHO\n- Examples: Formaldehyde (HCHO), Acetaldehyde (CH\u2083CHO)\n\n**Ketones (RCOR'):**\n- Functional group: **C=O** (carbonyl carbon bonded to two alkyl/aryl groups)\n- General formula: RCOR'\n- Examples: Acetone (CH\u2083COCH\u2083), Benzophenone (C\u2086H\u2085COC\u2086H\u2085)\n\n### Why Are They Reactive?\n\nThe **C=O double bond** (carbonyl group) is the reactive site:\n- Carbon is **sp\u00b2 hybridized** (trigonal planar)\n- The \u03c0 bond is **polarized**: C^\u03b4+ = O^\u03b4-\n- This makes the carbon electrophilic (electron-deficient)\n- Makes them susceptible to **nucleophilic attack**\n\n```\n    \u03b4+\n    |\nR\u2014C=O \u03b4-     \u2190 \u03c0 bond easily broken\n    |\n    R'\n```\n\n---\n\n## 2. KEY FORMULAS AND IMPORTANT FACTS\n\n### A. NUCLEOPHILIC ADDITION REACTIONS\n\n**General Mechanism:**\n```\n    O                 O\u207b                OH\n    \u2016        Nu\u207b      |        H\u207a       |\nR\u2014C\u2014R' \u2500\u2500\u2500\u2192 R\u2014C\u2014R' \u2500\u2500\u2500\u2192 R\u2014C\u2014R'\n             |                |\n             Nu              Nu\n```\n\n**Key Reactions:**\n\n| Nucleophile | Reagent | Product Name |\n|------------|---------|--------------|\n| HCN | KCN/HCN | **Cyanohydrin** |\n| NH\u2082OH | Hydroxylamine | **Oxime** |\n| NH\u2082NH\u2082 | Hydrazine | **Hydrazone** |\n| H\u2082NNH-C\u2086H\u2084-NO\u2082 | 2,4-DNP | **2,4-DNP Derivative** |\n| NaHSO\u2083 | Na Bisulfite | **Bisulfite Addition** |\n| Grignard (RMgX) | RMgX | **Secondary/Tertiary Alcohol** |\n| LiAlH\u2084 | LiAlH\u2084 | **Primary/Secondary Alcohol** |\n\n### B. OXIDATION REACTIONS\n\n**Aldehydes (Easy to Oxidize):**\n```\n        [O]\nRCHO \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2192 RCOOH\n        Mild oxidizing agent\n        (KMnO\u2084, K\u2082Cr\u2082O\u2087, etc.)\n```\n\n**Ketones (Resistant to Oxidation):**\n- Only oxidized under **harsh conditions** (strong KMnO\u2084, hot K\u2082Cr\u2082O\u2087)\n- Break at C=O bond \u2192 mixture of carboxylic acids\n\n**Important**: This is the key difference between aldehydes and ketones!\n\n### C. REDUCTION REACTIONS\n\n```\n        LiAlH\u2084 or NaBH\u2084\nRCHO \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2192 RCH\u2082OH (Primary Alcohol)\n\n        LiAlH\u2084 or NaBH\u2084\nRCOR' \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2192 RCHOHR' (Secondary Alcohol)\n```\n\n### D. CONDENSATION REACTIONS\n\n**Aldol Condensation:**\n```\n    CH\u2083CHO + CH\u2083CHO  \u2192  CH\u2083-CH(OH)-CH\u2082CHO  \u2192  CH\u2083-CH=CH-CHO\n                        (Aldol)                (Crotonaldehyde)\n```\n\n**Cannizzaro Reaction** (for formaldehyde only):\n```\n         Base (NaOH)\n2 HCHO \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2192 CH\u2083OH + HCOONa\n```\n\n**Schiff Base Formation:**\n```\n        RNH\u2082\nRCHO \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2192 RCH=NR (Schiff Base)\n```\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Reactivity Comparison\n**Question Type:** \"Why are aldehydes more reactive than ketones?\"\n\n**Answer Framework:**\n- Aldehydes have **one H on carbonyl carbon** (less steric hindrance)\n- Ketones have **two alkyl groups** (more steric hindrance)\n- Both electronic and steric factors favor aldehyde reactivity\n- **Inductive effect**: The H is electron-donating compared to alkyl groups\n- Result: **Aldehydes readily undergo nucleophilic addition**\n\n---\n\n### Pattern 2: Product Identification\n**Most Common:** Given reagent, identify product\n- NaBH\u2084 + Aldehyde \u2192 ?\n- KMnO\u2084 + Ketone \u2192 ?\n- HCN + Aldehyde \u2192 ?\n\n---\n\n### Pattern 3: Mechanism-Based\n**Question:** \"What is the first step in nucleophilic addition to carbonyl compounds?\"\n\n**Answer:** **Nucleophilic attack on electrophilic carbon of C=O**, forming a tetrahedral intermediate\n\n---\n\n### Pattern 4: Distinguish Tests\n**Silver Mirror Test (Tollens' Test):**\n- Aldehydes: **Silver mirror forms** \u2713\n- Ketones: **No reaction** \u2717\n\n**Fehling's Test:**\n- Aldehydes: **Red precipitate (Cu\u2082O)** \u2713\n- Ketones: **No reaction** \u2717\n\n---\n\n## 4. MEMORY TIP / ANALOGY\n\n### **\"Aldehydes = Open Target, Ketones = Protected Target\"**\n\nThink of nucleophilic attack like an archer targeting a city:\n- **Aldehyde (RCHO)**: One gate (H) + one wall = **Easy access** \u2713\n- **Ketone (RCOR')**: Two walls (R + R') = **Harder to breach** \u2717\n\n**This explains why:**\n- Aldehydes oxidize easily \u2192 \"Unprotected\"\n- Aldehydes undergo addition easily \u2192 \"Easy target\"\n- Ketones need harsher conditions \u2192 \"Better protected\"\n\n### **Golden Rule for NEET:**\n> **\"Remember: When a compound has only ONE substituent on carbonyl carbon (aldehyde), it's more reactive than when it has TWO (ketone)\"**\n\n---\n\n## 5. EXAMPLE PROBLEM WITH COMPLETE SOLUTION\n\n### **NEET-Style Question:**\n\nA compound **A** (C\u2082H\u2084O) shows the following reactions:\n1. With KMnO\u2084 (dilute, cold) \u2192 Acetic acid\n2. With NaBH\u2084 \u2192 Ethanol\n3. With Tollens' reagent \u2192 Silver mirror\n4. With HCN \u2192 Cyanohydrin (C\u2083H\u2085NO)\n\n**Identify A and explain its reactivity.**\n\n---\n\n### **SOLUTION:**\n\n**Step 1: Analyze Molecular Formula**\n- C\u2082H\u2084O with degree of unsaturation = 1\n- One degree = one double bond (likely C=O)\n\n**Step 2: Interpret Reactions**\n\n| Reaction | Inference |\n|----------|-----------|\n| KMnO\u2084 gives RCOOH | **Contains aldehyde** (ketones don't oxidize under mild conditions) |\n| NaBH\u2084 gives alcohol | Contains **carbonyl group** |\n| Tollens' positive | **Definitely aldehyde** |\n| Forms cyanohydrin | Confirms **C=O present** |\n\n**Step 3: Deduce Structure**\nWith C\u2082H\u2084O:\n- Must be **CH\u2083CHO** (Acetaldehyde)\n- Can't be dimethyl ether (not reactive with KMnO\u2084)\n\n**Answer: A = CH\u2083CHO (Acetaldehyde)**\n\n---\n\n### **Explain Reactivity:**\n\n```\n      \u03b4+\n      |\nCH\u2083\u2014C=O \u03b4-\n      |\n      H\n```\n\n**Why it's reactive:**\n1. **Electrophilic carbon**: \u03c0 electrons shift to oxygen, making C electron-deficient\n2. **Only one alkyl group**: Minimal steric hindrance for nucleophile approach\n3. **Hydrogen on carbonyl**: Less electron-donating than alkyl group, making C more positive\n4. **Result**: Readily attacked by nucleophiles (CN\u207b, H\u207b, OH\u207b, etc.)\n\n---\n\n### **Reaction Mechanisms (Key Insight):**\n\n**Nucleophilic Addition:**\n```\n        \u03b4+ \nCH\u2083CHO + CN\u207b \u2192 [CH\u2083CH(-CN)O\u207b] \u2192 CH\u2083CH(OH)CN\n                 (Tetrahedral       (Cyanohydrin)\n                  Intermediate)\n```\n\n**Oxidation:**\n```\nCH\u2083CHO + [O] \u2192 CH\u2083COOH (Acetic Acid)\n(Easy because H on carbonyl \nis easily removed)\n```\n\n**Reduction:**\n```\nCH\u2083CHO + 2H\u207b (from NaBH\u2084) \u2192 CH\u2083CH\u2082OH (Ethanol)\n```\n\n---\n\n## QUICK REFERENCE FOR NEET EXAM\n\n### **Aldehydes - Reaction Summary**\n| Reaction | Reagent | Product | Notes |\n|----------|---------|---------|-------|\n| Oxidation | KMnO\u2084/K\u2082Cr\u2082O\u2087 | Carboxylic acid | **Easy oxidation** |\n| Reduction | LiAlH\u2084/NaBH",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "What is the pK a value of ethanol?",
+      "options": {
+        "A": "A",
+        "B": "23",
+        "C": "19",
+        "D": "0 D 10"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe pK a value of ethanol is approximately 4.19.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Nomenclature and Structure of Carbonyl Group' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT AND DEFINITION\n\n### What is the Carbonyl Group?\nThe **carbonyl group (C=O)** is a **carbon-oxygen double bond** consisting of:\n- **One \u03c3 (sigma) bond** - formed by sp\u00b2 hybridization overlap\n- **One \u03c0 (pi) bond** - formed by p-orbital overlap\n\n```\n        O (more electronegative)\n        \u2551\n    R\u2014C\u2014R' or H\n        \u2502\n    (Carbon is sp\u00b2 hybridized)\n```\n\n### Key Structural Features:\n| Feature | Detail |\n|---------|--------|\n| **Bond angle** | ~120\u00b0 (sp\u00b2 hybridization) |\n| **Bond length** | 1.21 \u00c5 (shorter than C-O single bond: 1.43 \u00c5) |\n| **Polarity** | Polar (C is \u03b4+, O is \u03b4-) |\n| **Reactivity** | Electrophilic at C, nucleophilic at O |\n\n---\n\n## 2. KEY FORMULAS AND IMPORTANT FACTS\n\n### General Formulas:\n```\nALDEHYDES:        R\u2014CHO  or  R\u2014C(=O)H\nKETONES:          R\u2014CO\u2014R'  or  R\u2014C(=O)\u2014R'\nCARBOXYLIC ACIDS: R\u2014COOH  or  R\u2014C(=O)OH\n```\n\n### Critical Facts for NEET:\n\u2713 **All aldehydes have at least one H atom** attached to C=O  \n\u2713 **All ketones have two carbon atoms** attached to C=O  \n\u2713 **Carboxylic acids always end with -COOH**  \n\u2713 **The carbonyl carbon is always position #1** in naming  \n\u2713 **Carbonyl group is electron-withdrawing** (-I effect)\n\n---\n\n## 3. NOMENCLATURE RULES (IUPAC & COMMON)\n\n### **A. ALDEHYDES**\n\n**IUPAC Rule:** Replace \"-e\" of parent alkane with **\"-al\"**\n\n| Structure | IUPAC Name | Common Name |\n|-----------|-----------|------------|\n| HCHO | Methanal | Formaldehyde |\n| CH\u2083CHO | Ethanal | Acetaldehyde |\n| CH\u2083CH\u2082CHO | Propanal | Propionaldehyde |\n| (CH\u2083)\u2082CHCHO | 2-Methylpropanal | Isobutyraldehyde |\n| CHO-CH=CH-CHO | Butenedial | Malondialdehyde |\n\n**Position numbering:** The carbonyl carbon is C-1 (even if not stated)\n\n---\n\n### **B. KETONES**\n\n**IUPAC Rule:** Replace \"-e\" of parent alkane with **\"-one\"**  \n**Must number chain** to give carbonyl carbon the lowest number\n\n| Structure | IUPAC Name | Common Name |\n|-----------|-----------|------------|\n| CH\u2083COCH\u2083 | Propanone | Acetone |\n| CH\u2083COCH\u2082CH\u2083 | Butanone | Methyl ethyl ketone (MEK) |\n| CH\u2083COC(CH\u2083)\u2083 | 2,2-Dimethylbutan-3-one | \u2014 |\n| Cyclic with C=O | Cyclopentanone | \u2014 |\n\n**Example:** \n```\n    CH\u2083\n     |\nCH\u2083-CH-CO-CH\u2083\n\nName: 3-methylbutan-2-one\n(NOT 2-methylbutan-3-one, because C=O gets position 2)\n```\n\n---\n\n### **C. CARBOXYLIC ACIDS**\n\n**IUPAC Rule:** Replace \"-e\" with **\"-oic acid\"**  \n**Carbonyl carbon is always C-1** (no number needed)\n\n| Structure | IUPAC Name | Common Name |\n|-----------|-----------|------------|\n| HCOOH | Methanoic acid | Formic acid |\n| CH\u2083COOH | Ethanoic acid | Acetic acid |\n| CH\u2083CH\u2082COOH | Propanoic acid | Propionic acid |\n| HOOC-COOH | Ethanedioic acid | Oxalic acid |\n| HOOC-CH\u2082-COOH | Propanedioic acid | Malonic acid |\n\n---\n\n## 4. STRUCTURE REPRESENTATION AND SHAPES\n\n### Electronic Structure:\n```\n        \u2295\u03b4\n        C\u2550O\u2296\u03b4    (Partial charges due to electronegativity)\n       /  \\\n      R    R'\n\nResonance Forms:\n    C\u2550O  \u2194  \u2295C\u2014O\u2296\n```\n\n### 3D Orientation:\n```\nThe C=O bond lies in a plane with sp\u00b2 carbons:\n       O\n       \u2551\n   H\u2014C\u2014H  (Formaldehyde - planar)\n       \nApproaching nucleophiles attack from ~107\u00b0 angle to the C=O bond axis\n(B\u00fcrgi-Dunitz angle) - IMPORTANT for reaction mechanisms!\n```\n\n---\n\n## 5. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Nomenclature Identification**\n**Q:** Which is the correct IUPAC name?\n- CH\u2083CH(OH)CH\u2082CHO\n- A) 3-Hydroxybutan-1-al \u274c (Wrong)\n- B) 2-Hydroxybutan-4-al \u274c (Wrong)\n- C) 3-Hydroxybutanal \u2705 (Correct)\n\n**Why:** Aldehyde takes priority (position 1), then hydroxyl is numbered from that end.\n\n---\n\n### **Pattern 2: Isomerism Detection**\n**Q:** How many isomers of C\u2084H\u2088O (containing C=O) are possible?\n- Aldehydes: CH\u2083CH\u2082CH\u2082CHO, CH\u2083CH(CH\u2083)CHO = 2\n- Ketones: CH\u2083COCH\u2082CH\u2083, CH\u2083COCH(CH\u2083) = 2\n- **Total: 4 isomers** (excludes cyclic ethers)\n\n---\n\n### **Pattern 3: Functional Group Priority**\n**Q:** In HO-CH\u2082-CH\u2082-CHO, what's the principal functional group?\n- Answer: **Aldehyde** (higher priority than alcohol)\n- Nomenclature: **3-Hydroxypropanal** \u2705\n\n---\n\n### **Pattern 4: Position Numbering**\n**Q:** Name: CH\u2083-CHO attached to a benzene ring\n- Answer: **Benzaldehyde** (CHO is position 1)\n\n---\n\n## 6. MEMORY TIPS FOR NEET SUCCESS\n\n### **\"The Carbonyl Quartet\" Rule:**\nRemember the **4 main carbonyl compounds:**\n\n| Type | Ends with | Example | Key Point |\n|------|-----------|---------|-----------|\n| **Aldehyde** | **-al** | Methan**al** | Has H on C=O |\n| **Ketone** | **-one** | Propan**one** | NO H on C=O |\n| **Carboxylic Acid** | **-oic acid** | Ethan**oic acid** | Acidic (COOH) |\n| **Ester** | **-ate** | Ethyl ethanoate | R-COO-R' |\n\n---\n\n### **Visual Acronym: \"ALK-1\"**\n- **A** = **Aldehyde**: Ends in **-AL**, H attached\n- **L** = **Ketone (K sound)**: Two carbons attached\n- **K** = **Ketone (with K)**\n- **1** = **Carboxylic acid**: Comes first (priority #1)\n\n---\n\n## 7. WORKED EXAMPLE (NEET-STYLE)\n\n### **Example Problem:**\n\nA compound has molecular formula **C\u2086H\u2081\u2080O\u2082** containing TWO carbonyl groups. One carbonyl is at position 1 (chain end), and another is at position 4. The compound also has a methyl branch at position 2.\n\n**Structure:**\n```\n    CH\u2083\n    |\nCHO\u2014CH\u2014CH\u2082\u2014CO\u2014CH\u2082\u2014CH\u2083\n1    2   3   4   5   6\n```\n\n**Question:** What is the correct IUPAC name?\n\n### **Solution:**\n\n**Step 1:** Identify functional groups\n- Carbonyl at position 1 (CHO) = **Aldehyde** (higher priority)\n- Carbonyl at position 4 (CO) = **Ketone** (secondary functional group)\n\n**Step 2:** Number the chain\n- Start from aldehyde end (C=O at position 1)\n- Count: CHO (1)\u2014CH (2)\u2014CH\u2082 (3)\u2014CO (4)\u2014CH\u2082 (5)\u2014CH\u2083 (6)\n- Parent chain = 6 carbons = **hex-**\n\n**Step 3:** Identify all substituents\n- Methyl group at position 2\n- Ketone at position 4\n\n**Step 4:** Construct the name\n- Base: **hex-** (6 carbons)\n- Aldehyde suffix: **-al** (position 1, always)\n- Ketone: **4-oxo-** (substituent notation)\n- Methyl: **2-methyl-**\n\n**Answer: 2-Methylhex-4-one-1-al** or **2-Methyl-4-oxohexanal**\n\n\u2705 **Correct IUPAC Name: 2-Methylhex-4-oneone-1-al**\n\n---\n\n## 8. SUMMARY TABLE FOR QUICK REVISION\n\n| Aspect | Aldehyde | Ketone",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Reactions Involving C\\u2013OH Bond (Esterification, Acyl Chloride)' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "# Reactions Involving C\\u2013OH Bond: Esterification & Acyl Chloride Formation\n\n## 1. CORE CONCEPT & DEFINITION\n\n### Understanding the C-OH Bond in Carboxylic Acids\nThe carboxylic acid functional group (-COOH) contains a C-OH bond that is highly polar and reactive due to:\n- **Electron-withdrawing carbonyl carbon** (C=O)\n- **Electron-withdrawing oxygen in -OH group**\n- **Acidic hydrogen** that can be displaced\n\nThe C-OH bond in carboxylic acids is **NOT like alcohols** \\u2014 it's part of a carboxyl group, making it much more reactive.\n\n### Definition of Key Reactions:\n\n**Esterification:**\nFormation of an ester by reaction between a carboxylic acid and an alcohol, with loss of water.\n\n**Acyl Chloride Formation:**\nConversion of carboxylic acid to acyl chloride (acid chloride) by replacing -OH with -Cl.\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **Esterification Reaction:**\n\n```\nR-COOH + R'-OH \\u21cc R-COO-R' + H\\u2082O\n(Carboxylic acid) (Alcohol)    (Ester)\n```\n\n**Mechanism: Fischer Esterification (2 steps)**\n\n**Step 1 - Nucleophilic Acyl Addition:**\n- Protonated carboxylic acid: R-CO\\u207aOH\\u2082\n- Nucleophile: Alcohol (R'-OH)\n- Forms tetrahedral intermediate\n\n**Step 2 - Elimination:**\n- Water (H\\u2082O) is eliminated\n- Double bond reforms\n- Ester product obtained\n\n**Reaction Conditions:**\n- **Catalyst:** H\\u2082SO\\u2084 (conc.) or HCl\n- **Temperature:** Room temperature to mild heating\n- **Equilibrium:** Reversible reaction (\\u2234 use excess alcohol to shift forward)\n\n---\n\n### **Acyl Chloride Formation:**\n\n```\nR-COOH + SOCl\\u2082 \\u2192 R-COCl + SO\\u2082 + HCl\n         (or PCl\\u2085, PCl\\u2083)\n```\n\n**Alternative Reagents:**\n- **SOCl\\u2082** (thionyl chloride) \\u2014 most commonly used\n- **PCl\\u2085** (phosphorus pentachloride)\n- **PCl\\u2083** (phosphorus trichloride)\n\n**Advantages of Each Reagent:**\n\n| Reagent | Advantage | Byproducts |\n|---------|-----------|-----------|\n| **SOCl\\u2082** | Byproducts (SO\\u2082, HCl) are gaseous \\u2014 escape from reaction mixture | Cleanest product |\n| **PCl\\u2085** | Stronger acid chlorinating agent | Liquid/solid byproducts contaminate |\n| **PCl\\u2083** | Less reactive, milder | Requires heating; incomplete reaction |\n\n**Mechanism (SOCl\\u2082):**\n- SOCl\\u2082 activates the carboxylic acid\n- Nucleophilic displacement of OH\\u207b group\n- Chlorine from SOCl\\u2082 attacks carbon\n- HCl and SO\\u2082 gas escape\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identifying Correct Reagent**\n*\"Which reagent converts carboxylic acid to acyl chloride?\"*\n- **Expected Answer:** SOCl\\u2082 (primary choice), PCl\\u2085 (secondary)\n- **Trap:** Confusing with alcohols (which need PBr\\u2083, etc.)\n\n### **Pattern 2: Esterification Conditions**\n*\"Esterification requires H\\u2082SO\\u2084 because:\"*\n- **(a)** It provides Cl\\u207b ions\n- **(b)** It acts as catalyst and dehydrating agent\n- **(c)** It increases temperature\n- **(d)** It provides H\\u207a ions for protonation\n\n**Correct:** (b) \\u2014 H\\u2082SO\\u2084 protonates the carbonyl oxygen AND removes water produced\n\n### **Pattern 3: Product Identification**\n*\"What happens when acetic acid reacts with ethanol in presence of H\\u2082SO\\u2084?\"*\n- Product: **Ethyl acetate (CH\\u2083-COO-CH\\u2082CH\\u2083)**\n- Water is byproduct\n\n### **Pattern 4: Reversibility Understanding**\n*\"Esterification is reversible. How to shift equilibrium toward ester?\"*\n- Use **excess alcohol** (Le Chatelier's principle)\n- Use **Dean-Stark apparatus** (to remove water)\n- Use **anhydrous conditions**\n\n### **Pattern 5: Comparing Reactivity**\n*\"In esterification, why is the reactivity order: Acid chloride > Acid anhydride > Carboxylic acid?\"*\n- Acyl chloride has **best leaving group** (Cl\\u207b)\n- Carboxylic acid has **poorest leaving group** (OH\\u207b)\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **Tip 1: \"SOCl\\u2082 = Clean Reaction\"**\nRemember: **SOCl\\u2082 byproducts escape as gases** (SO\\u2082 \\u2191 and HCl \\u2191)\n- This means clean separation of product\n- Like a vacuum cleaner removing dust!\n\n### **Tip 2: \"Esterification = Reverse of Hydrolysis\"**\n```\nEsterification: R-COOH + R'-OH \\u2192 R-COO-R' + H\\u2082O\nEster Hydrolysis (Saponification): R-COO-R' + H\\u2082O \\u2192 R-COOH + R'-OH\n```\nSame reaction, opposite direction!\n\n### **Tip 3: \"Fischer Esterification = Nucleophilic Acyl Substitution\"**\nThe OH in -COOH is **leaving group**, alcohol's oxygen is **nucleophile**\n- Analogous to SN2, but on carbonyl carbon\n- Requires catalyst to activate carbonyl\n\n### **Tip 4: \"Acyl Chloride is Most Reactive\"**\nThink: **Chlorine is small & polarizable** \\u2192 excellent leaving group\n- More reactive than anhydrides, much more than carboxylic acid\n- That's why it's used as intermediate in synthesis\n\n---\n\n## 5. EXAMPLE PROBLEM WITH COMPLETE SOLUTION\n\n### **Problem:**\nPropionic acid (C\\u2082H\\u2085COOH) is treated with:\n- **(A)** Excess methanol + H\\u2082SO\\u2084\n- **(B)** SOCl\\u2082\n\nFor each reaction:\n1. Write the product(s)\n2. Name the product\n3. Identify the reaction type\n4. Explain why the conditions are necessary\n\n---\n\n### **SOLUTION:**\n\n#### **Reaction (A): Esterification**\n\n**Chemical Equation:**\n```\nC\\u2082H\\u2085-COOH + CH\\u2083-OH \\u21cc C\\u2082H\\u2085-COO-CH\\u2083 + H\\u2082O\n(Propionic acid) (Methanol)  (Methyl propionate)\n```\n\n**Product Name:** Methyl propionate (or Methyl propanoate)\n\n**Reaction Type:** Fischer Esterification (reversible condensation)\n\n**Why Conditions Matter:**\n- **H\\u2082SO\\u2084 as catalyst:** Protonates C=O group \\u2192 makes carbon more electrophilic\n  ```\n  C\\u2082H\\u2085-C(=O)-OH + H\\u207a \\u2192 C\\u2082H\\u2085-C\\u207a(-OH\\u2082)-OH\n  (More electrophilic)\n  ```\n- **Excess CH\\u2083OH:** Shifts equilibrium rightward (Le Chatelier)\n- **H\\u2082SO\\u2084 as dehydrating agent:** Removes H\\u2082O \\u2192 equilibrium favors ester\n\n**Mechanism Summary:**\n```\nStep 1: Protonation of carbonyl\nStep 2: Nucleophilic attack by -OH of methanol\nStep 3: Proton transfer (tetrahedral intermediate)\nStep 4: Loss of water\nStep 5: Deprotonation \\u2192 ester formed\n```\n\n---\n\n#### **Reaction (B): Acyl Chloride Formation**\n\n**Chemical Equation:**\n```\nC\\u2082H\\u2085-COOH + SOCl\\u2082 \\u2192 C\\u2082H\\u2085-COCl + SO\\u2082\\u2191 + HCl\\u2191\n(Propionic acid)    (Propionyl chloride)\n```\n\n**Product Name:** Propionyl chloride (or Propanoyl chloride)\n\n**Reaction Type:** Substitution reaction (C-OH bond replaced by C-Cl)\n\n**Why SOCl\\u2082 is Used:**\n- **Excellent chlorinating agent:** Activates carboxylic acid\n- **Gaseous byproducts:** SO\\u2082 and HCl escape, driving reaction forward\n- **Clean product:** No side reactions, water not produced\n- **Milder conditions:** Room temperature sufficient\n\n**Comparison with PCl\\u2085:**\n```\nC\\u2082H\\u2085-COOH + PCl\\u2085 \\u2192 C\\u2082H\\u2085-COCl + POCl\\u2083 + HCl\n```\n\\u274c POCl\\u2083 is liquid \\u2192 contaminates product\n\\u274c More vigorous reaction\n\\u2713 SOCl\\u2082 is preferred\n\n---\n\n### **Key Differences Summary:**\n\n| Feature | Esterification | Acyl Chloride |\n|---------|---|---|\n| **Starting Material** | Carboxylic acid + Alcohol | Carboxylic acid |\n| **Reagent** | H\\u2082SO\\u2084 catalyst | SOCl\\u2082 |\n| **Leaving Group** | OH from acid or OH from alcohol | Cl (from SOCl\\u2082) |\n| **Byproduct** | H\\u2082O",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Physical Properties' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n**Physical Properties** are observable characteristics of aldehydes, ketones, and carboxylic acids that do NOT involve breaking covalent bonds within molecules. These include:\n- Boiling point\n- Melting point\n- Solubility in water\n- Density\n- Odor\n- State at room temperature\n\nThese properties depend on **intermolecular forces**, not chemical structure.\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **A. BOILING POINT (B.P.) ORDER:**\n\n```\nCARBOXYLIC ACIDS >> ALDEHYDES > KETONES >> ALKANES\nExample:\nAcetic acid (CH\u2083COOH): 118\u00b0C\nAcetaldehyde (CH\u2083CHO): 21\u00b0C\nAcetone (CH\u2083COCH\u2083): 56\u00b0C\nEthane (CH\u2083CH\u2083): -89\u00b0C\n```\n\n**Why this order?**\n\n| Compound Type | Intermolecular Forces | B.P. | Reason |\n|---|---|---|---|\n| **Carboxylic Acids** | Hydrogen bonding (very strong) | Highest | **Dimer formation** via hydrogen bonding |\n| **Aldehydes** | Dipole-dipole + weak H-bonding | Medium | Polar C=O, but no H on O |\n| **Ketones** | Dipole-dipole only | Lower | Polar C=O, but weaker than aldehydes |\n| **Alkanes** | Van der Waals forces | Lowest | Nonpolar, weakest forces |\n\n---\n\n### **B. SOLUBILITY IN WATER:**\n\n```\nCARBOXYLIC ACIDS > ALDEHYDES > KETONES >> ALKANES\n```\n\n**Solubility Rule:**\n- **Lower molecular weight** (up to ~5 carbons): Water soluble\n- **Higher molecular weight**: Water insoluble (hydrophobic part dominates)\n\n| Compound | Solubility | Reason |\n|---|---|---|\n| Formic acid (HCOOH) | Completely miscible | Can form H-bonds with water |\n| Acetic acid (CH\u2083COOH) | Completely miscible | Strong H-bonding |\n| Propionic acid (C\u2082H\u2085COOH) | Miscible | Still polar enough |\n| Benzoic acid (C\u2086H\u2085COOH) | Slightly soluble | Hydrophobic benzene ring |\n| Acetaldehyde | Soluble | Polar C=O, small molecule |\n| Acetone | Miscible | Polar C=O, good hydrogen bond acceptor |\n| Hexanal | Insoluble | Large hydrocarbon chain dominates |\n\n---\n\n### **C. DENSITY:**\n\n```\nGenerally: CARBOXYLIC ACIDS > ALDEHYDES > KETONES > ALKANES\n```\n\n- Carboxylic acids: 0.92-1.2 g/cm\u00b3\n- Aldehydes/Ketones: 0.80-1.0 g/cm\u00b3\n- Alkanes: 0.7-0.8 g/cm\u00b3\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Boiling Point Comparison**\n*\"Arrange in increasing order of boiling point\"*\n- **Strategy:** Identify functional groups \u2192 Apply intermolecular force hierarchy\n\n### **Pattern 2: Solubility Reasoning**\n*\"Why is formic acid soluble in water but hexanoic acid is not?\"*\n- **Answer:** Molecular weight effect on H-bonding potential\n\n### **Pattern 3: Density Comparison**\n*\"Which has greater density: acetic acid or acetone?\"*\n- **Answer:** Carboxylic acids have higher density (stronger intermolecular forces pack molecules tighter)\n\n### **Pattern 4: Dipole Moment Analysis**\n*\"Which has the highest dipole moment?\"*\n- Carboxylic acids (both C=O and O-H contributions)\n\n### **Pattern 5: Hydrogen Bonding**\n*\"Carboxylic acids form dimers in solution. Explain.\"*\n- **Concept:** Two molecules linked by two H-bonds forming a 6-membered ring\n\n```\n    O\u00b7\u00b7\u00b7H-O\n   /       \\\nR-C         C-R\n   \\       /\n    O-H\u00b7\u00b7\u00b7O\n```\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **Tip 1: \"H-Bond Hierarchy\"**\nThink of it as **\"strength in numbers\"**:\n- Carboxylic acids: **2 sites** (C=O and O-H) \u2192 Can form **dimer H-bonds** \u2192 Highest B.P.\n- Aldehydes: **1 site** (only C=O) \u2192 **No H on O** \u2192 Medium B.P.\n- Ketones: **1 site** (only C=O) \u2192 Even less favorable \u2192 Lower B.P.\n\n### **Tip 2: \"The 5-Carbon Rule\"**\n- Up to 5 carbons in carboxylic acids \u2192 Usually **water soluble**\n- Beyond 5 carbons \u2192 **Water insoluble** (hydrophobic tail wins)\n\n### **Tip 3: \"COOH is a Superhero\"**\nCOOH group is highly polarized:\n```\n\u03b4+        \u03b4-\nC = O  (most polar)\n|\nO-H (can both donate AND accept H-bonds)\n```\nThis dual nature makes COOH compounds stand out!\n\n---\n\n## 5. EXAMPLE PROBLEM WITH SOLUTION\n\n### **NEET-TYPE QUESTION:**\n\n**Q: Arrange the following compounds in **increasing order of boiling point** and justify:**\n1. Propionic acid (CH\u2083CH\u2082COOH)\n2. Propionaldehyde (CH\u2083CH\u2082CHO)\n3. Acetone (CH\u2083COCH\u2083)\n4. Propane (CH\u2083CH\u2082CH\u2083)\n\n**SOLUTION:**\n\n**Step 1:** Identify functional groups\n- Propionic acid: **Carboxylic acid** (COOH)\n- Propionaldehyde: **Aldehyde** (CHO)\n- Acetone: **Ketone** (C=O)\n- Propane: **Alkane** (only C-H and C-C bonds)\n\n**Step 2:** Determine intermolecular forces\n| Compound | Intermolecular Force | Strength |\n|---|---|---|\n| Propionic acid | Hydrogen bonding (dimer) + dipole-dipole | **Strongest** |\n| Propionaldehyde | Dipole-dipole + weak H-bonding | Strong |\n| Acetone | Dipole-dipole only | Medium |\n| Propane | Van der Waals only | **Weakest** |\n\n**Step 3:** Arrange in increasing order\n```\nPropane < Acetone < Propionaldehyde < Propionic acid\n(-42\u00b0C)   (56\u00b0C)   (48\u00b0C)              (141\u00b0C)\n```\n\n**Step 4:** Justification\n- **Propane** (lowest): No polar groups, only van der Waals forces\n- **Acetone** (higher): Polar C=O, but no H-bonding\n- **Propionaldehyde** (higher): Polar C=O + weak H-bonding (C-H\u00b7\u00b7\u00b7O possible)\n- **Propionic acid** (highest): **Strong hydrogen bonding + dimer formation**\n\n**KEY INSIGHT:** Carboxylic acids form associated dimers through H-bonding, effectively creating **\"pseudo-larger molecules\"** requiring more energy to vaporize.\n\n---\n\n## 6. QUICK REFERENCE TABLE FOR NEET\n\n| Property | Carboxylic Acids | Aldehydes | Ketones | Alkanes |\n|---|---|---|---|---|\n| **B.P.** | Highest | High | Moderate | Lowest |\n| **Solubility** | High (low M.W.) | High | Moderate | Very Low |\n| **Density** | Highest | Medium | Medium | Lowest |\n| **Dipole Moment** | Highest | High | Moderate | Zero |\n| **H-bonding** | Yes (self-associate) | Weak (as H-bond acceptor) | No (only acceptor) | No |\n| **State (25\u00b0C)** | Liquid/Solid | Liquid | Liquid | Gas/Liquid |\n\n---\n\n## FINAL TIPS FOR NEET SUCCESS:\n\n\u2705 **Always think about intermolecular forces first** \u2014 physical properties are ALL about them\n\n\u2705 **H-bonding is the game-changer** \u2014 this single concept explains most B.P. anomalies\n\n\u2705 **Compare with alkanes as baseline** \u2014 carboxylic acids can be 100+ \u00b0C higher than corresponding alkanes!\n\n\u2705 **Molecular weight vs. functional group** \u2014 functional group wins for small molecules; M.W. dominates for large ones\n\n---\n\nWould you like me to create practice questions or clarify any specific aspect further? \ud83c\udfaf",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2023 | Chemistry]\n\nWhich does NOT undergo Cannizzaro reaction?",
+      "options": {
+        "A": "HCHO",
+        "B": "CH3CHO",
+        "C": "C6H5CHO",
+        "D": "(CH3)3CCHO"
+      },
+      "answer": "A",
+      "solution": "## Answer: **(B) CH\\u2083CHO**\n\n---\n\n## Why This Is Correct:\n\n### **The Cannizzaro Reaction Rule**\nThe Cannizzaro reaction is a **disproportionation** of aldehydes that occurs **ONLY when the aldehyde has NO \\u03b1-hydrogen atoms**.\n\n### **Checking Each Option:**\n\n| Compound | Has \\u03b1-H? | Undergoes Cannizzaro? |\n|----------|----------|----------------------|\n| HCHO | NO | \\u2713 YES |\n| CH\\u2083CHO | **YES** | **\\u2717 NO** |\n| C\\u2086H\\u2085CHO | NO | \\u2713 YES |\n| (CH\\u2083)\\u2083CCHO | NO | \\u2713 YES |\n\n---\n\n## Why CH\\u2083CHO Does NOT Undergo Cannizzaro:\n\n**CH\\u2083CHO (Acetaldehyde)** has:\n- Three \\u03b1-hydrogens on the methyl group (CH\\u2083-)\n- These hydrogens are easily abstractable\n- Instead of Cannizzaro, it undergoes **aldol condensation**\n\n```\n2 CH\\u2083CHO \\u2192 CH\\u2083CH(OH)CH\\u2082CHO \\u2192 CH\\u2083CH=CHCHO\n         (base)        (dehydration)\n```\n\n---\n\n## Key Concept to Remember:\n\n**Cannizzaro Reaction Requirements:**\n- \\u2713 Aldehyde with NO \\u03b1-hydrogen\n- \\u2713 Requires concentrated KOH or NaOH\n- \\u2713 Results in: one molecule oxidized to carboxylic acid salt, one reduced to alcohol\n\n**Formula HCHO**, **C\\u2086H\\u2085CHO**, and **(CH\\u2083)\\u2083CCHO** all lack \\u03b1-hydrogens, so they readily undergo Cannizzaro.\n\n---\n\n**Pro Tip for NEET:** Always check for \\u03b1-hydrogens first when you see a Cannizzaro reaction question. If \\u03b1-H exists \\u2192 **Aldol condensation** happens instead!",
+      "exam": "NEET 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2019 | Chemistry]\n\nTollens' reagent is used to distinguish between:",
+      "options": {
+        "A": "Aldehydes and ketones",
+        "B": "Primary and secondary alcohols",
+        "C": "Alkane and alkene",
+        "D": "Organic acids and esters"
+      },
+      "answer": "A",
+      "solution": "## **Answer: (A) Aldehydes and Ketones**\n\n---\n\n## **Step-by-Step Explanation**\n\n### What is Tollens' Reagent?\n- **Composition**: Ammoniacal silver nitrate solution [Ag(NH\\u2083)\\u2082]\\u207a\n- **Function**: A mild oxidizing agent that selectively oxidizes certain organic compounds\n\n### The Reaction with Aldehydes\n```\nR-CHO + 2[Ag(NH\\u2083)\\u2082]\\u207a + 2OH\\u207b \\u2192 R-COO\\u207b + 2Ag\\u2193 + 3NH\\u2083 + H\\u2082O\n                                    (Silver mirror)\n```\n- **Result**: Bright silver mirror forms on the test tube wall\n- **Positive Test**: Indicates presence of aldehyde group (-CHO)\n\n### Why Ketones Don't React\n```\nR-CO-R' + Tollens' reagent \\u2192 NO REACTION\n```\n- Ketones have the carbonyl group between two alkyl groups\n- They lack an \\u03b1-hydrogen adjacent to the carbonyl that can be oxidized\n- Cannot be oxidized by mild oxidizing agents like Tollens' reagent\n\n---\n\n## **Why Other Options Are Wrong**\n\n| Option | Why Wrong |\n|--------|-----------|\n| **(B) Alcohols** | Lucas test or Jones oxidation is used for this distinction |\n| **(C) Alkanes & Alkenes** | Bromine water or KMnO\\u2084 test distinguishes these |\n| **(D) Acids & Esters** | Sodium bicarbonate test (CO\\u2082 gas evolution) is used |\n\n---\n\n## **Key Point to Remember**\n\\U0001f3af **\"Tollens test is the aldehyde-specific test\"** - Only aldehydes give the characteristic silver mirror with Tollens' reagent.",
+      "exam": "NEET 2019",
+      "year": 2019,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Methods of Preparation of Aldehydes and Ketones' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITIONS\n\n### **Aldehydes vs Ketones**\n\n| Feature | Aldehydes | Ketones |\n|---------|-----------|---------|\n| **Structure** | R-CHO (carbonyl at end) | R-CO-R' (carbonyl in middle) |\n| **General Formula** | RCHO | RCOR' |\n| **Oxidation State** | +1 | 0 |\n| **Reactivity** | More reactive | Less reactive |\n\n**Key Point for NEET:** Aldehydes are always at the terminal position; ketones are always internal. This determines which preparation methods work for each.\n\n---\n\n## 2. KEY METHODS OF PREPARATION\n\n### **METHOD 1: OXIDATION OF PRIMARY ALCOHOLS \u2192 ALDEHYDES**\n\n```\nPrimary Alcohol \u2192 Aldehyde\nR-CH\u2082OH \u2192 R-CHO\n```\n\n**Oxidizing Agents Used:**\n- **PCC (Pyridinium Chlorochromate)** - MILD oxidizer (stops at aldehyde stage) \u2713 BEST\n- **K\u2082Cr\u2082O\u2087/H\u2082SO\u2084** - STRONG oxidizer (goes to carboxylic acid) \u2717 For aldehydes\n- **KMnO\u2084/cold dilute** - Mild oxidation\n- **Cu/Heat** - Dehydrogenation\n\n**Reaction Example:**\n```\nCH\u2083CH\u2082CH\u2082OH + PCC \u2192 CH\u2083CH\u2082CHO + Cr(III)\n```\n\n**\u26a0\ufe0f NEET Trick:** With dilute K\u2082Cr\u2082O\u2087/H\u2082SO\u2084, primary alcohols don't stop at aldehyde\u2014they continue to carboxylic acids! PCC is the smart choice for aldehydes.\n\n---\n\n### **METHOD 2: OXIDATION OF SECONDARY ALCOHOLS \u2192 KETONES**\n\n```\nSecondary Alcohol \u2192 Ketone\nR-CHOH-R' \u2192 R-CO-R'\n```\n\n**Oxidizing Agents:**\n- **K\u2082Cr\u2082O\u2087/H\u2082SO\u2084** (concentrated) \u2713\n- **KMnO\u2084/dilute** \u2713\n- **PCC** \u2713\n- **Acetone in presence of Al(isopropoxide)** - Oppenauer oxidation\n\n**Reaction Example:**\n```\nCH\u2083-CHOH-CH\u2083 + K\u2082Cr\u2082O\u2087/H\u2082SO\u2084 \u2192 CH\u2083-CO-CH\u2083 + Cr(III)\n```\n\n**\u2713 Advantage:** Secondary alcohols stop at ketone stage (can't be oxidized further without breaking C-C bonds)\n\n---\n\n### **METHOD 3: OXIDATION OF HYDROCARBONS**\n\n#### **A. Alkene Oxidation (Ozonolysis)**\n```\nR-CH=CH-R' + O\u2083 \u2192 R-CHO + O=CHR'\n                    (aldehydes or ketones)\n```\n\n**When used for NEET:**\n- Alkene has H attached: produces **aldehyde**\n- Alkene has no H attached: produces **ketone**\n\n**Example:**\n```\nCH\u2083-CH=CH-CH\u2083 + O\u2083 \u2192 CH\u2083CHO + CH\u2083CHO\n(produces aldehydes because adjacent to H)\n```\n\n#### **B. Alkylbenzene Oxidation**\n```\nAr-CH\u2082-R + [O] \u2192 Ar-CHO + products\n(Produces aldehyde if primary position)\n```\n\n---\n\n### **METHOD 4: HYDRATION OF ALKYNES**\n\n```\nR-C\u2261C-H + H\u2082O \u2192 R-CO-CH\u2083\n           (Hg\u00b2\u207a/H\u2082SO\u2084)\n```\n\n**Mechanism: Markovnikov's Rule applies**\n- H adds to carbon with more H (already)\n- OH adds to carbon with fewer H\n\n**Produces:**\n- **Methyl ketones** (if terminal alkyne)\n- **Ketone** (if internal alkyne)\n\n**Reaction:**\n```\nCH\u2083-C\u2261C-H + H\u2082O \u2192 CH\u2083-CO-CH\u2083\n(Acetylene \u2192 Acetone)\n```\n\n---\n\n### **METHOD 5: REDUCTION OF CARBOXYLIC ACIDS & ACID DERIVATIVES**\n\n#### **Rosenmund Reduction**\n```\nR-COCl + H\u2082 \u2192 R-CHO\n        (Pd/BaSO\u2084)\n```\n**Produces aldehydes from acid chlorides**\n\n#### **Clemmensen Reduction**\n```\nR-CO-R' + Zn/Hg/conc.HCl \u2192 R-CH\u2082-R'\n(NOT for preparation, but for distinguishing)\n```\n\n---\n\n### **METHOD 6: FRIEDEL-CRAFTS ACYLATION**\n\n```\nAr-H + R-COCl \u2192 Ar-CO-R + HCl\n     (AlCl\u2083)\n```\n\n**Produces:** Aromatic ketones from benzene/alkylbenzenes\n\n**Example:**\n```\nC\u2086H\u2086 + CH\u2083COCl \u2192 C\u2086H\u2085-CO-CH\u2083 + HCl\n              (AlCl\u2083)\n(Acetophenone)\n```\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern A: \"Which method produces aldehyde from alcohol?\"**\n**Answer:** PCC (not K\u2082Cr\u2082O\u2087) - stops at aldehyde stage\n\n### **Pattern B: \"Oxidation of primary alcohol with dilute K\u2082Cr\u2082O\u2087 gives?\"**\n**Answer:** Carboxylic acid (not aldehyde) - because it continues oxidation\n\n### **Pattern C: \"Ozonolysis of alkene gives?\"**\n**Answer:** Depends on substitution - if H present \u2192 aldehyde; if no H \u2192 ketone\n\n### **Pattern D: \"Hydration of HC\u2261CH gives?\"**\n**Answer:** CH\u2083CHO (acetaldehyde) by Markovnikov's rule\n\n### **Pattern E: \"Friedel-Crafts acylation produces?\"**\n**Answer:** Aromatic ketone (aromatic aldehydes NOT possible)\n\n---\n\n## 4. MEMORY TIP (NEET CHEAT SHEET)\n\n### **\"POHKA\" Method (My Memory System)**\n\n**P** - **PCC** = Primary alcohol \u2192 **Aldehyde** \u2713\n\n**O** - **Oxidation (K\u2082Cr\u2082O\u2087)** = Secondary alcohol \u2192 **Ketone** \u2713\n\n**H** - **Hydration of Alkynes** (Hg\u00b2\u207a) = Terminal alkyne \u2192 **Methyl Ketone**\n\n**K** - **Ketones from Friedel-Crafts** = Aromatic ketone (NOT aldehyde)\n\n**A** - **Alkynes/Alkenes (Ozonolysis)** = Depends on H substitution\n\n---\n\n## 5. EXAMPLE PROBLEM WITH SOLUTION\n\n### **NEET-Style Question:**\n\n**\"A compound (A) C\u2082H\u2086O, when oxidized with PCC, gives compound (B) C\u2082H\u2084O. Compound (B) when further oxidized with dilute K\u2082Cr\u2082O\u2087 gives compound (C) C\u2082H\u2084O\u2082. Identify A, B, C and write equations.\"**\n\n---\n\n### **SOLUTION APPROACH:**\n\n**Step 1: Analyze molecular formulas**\n- A: C\u2082H\u2086O \u2192 This is an alcohol (lost 2H to become B)\n- B: C\u2082H\u2084O \u2192 This is an aldehyde or ketone\n- C: C\u2082H\u2084O\u2082 \u2192 This is a carboxylic acid\n\n**Step 2: Determine structure from PCC oxidation**\n- PCC oxidizes primary alcohols to aldehydes (stops there)\n- A must be **primary alcohol** \u2192 A = **CH\u2083CH\u2082OH (Ethanol)**\n\n**Step 3: Identify B**\n- From A with PCC: **B = CH\u2083CHO (Acetaldehyde)**\n\n**Step 4: Identify C**\n- B oxidized with K\u2082Cr\u2082O\u2087: **C = CH\u2083COOH (Acetic acid)**\n\n---\n\n### **EQUATIONS:**\n\n```\nStep 1: CH\u2083CH\u2082OH + PCC \u2192 CH\u2083CHO + HCl + Cr(III)\n        (Ethanol)           (Acetaldehyde)\n\nStep 2: CH\u2083CHO + [O] (K\u2082Cr\u2082O\u2087/H\u2082SO\u2084) \u2192 CH\u2083COOH\n        (Acetaldehyde)                  (Acetic acid)\n```\n\n### **Why other options are wrong:**\n\n- If A were secondary alcohol, PCC would still give ketone (not aldehyde pathway)\n- If direct K\u2082Cr\u2082O\u2087 used on A, we'd get acetic acid directly (C\u2082H\u2084O\u2082), skipping aldehyde\n- This shows the NEET pattern: Primary \u2192 PCC \u2192 Aldehyde; then Aldehyde \u2192 K\u2082Cr\u2082O\u2087 \u2192 Carboxylic acid\n\n---\n\n## **KEY FORMULAS TO REMEMBER FOR NEET:**\n\n| Reaction Type | Reactant | Reagent | Product |\n|---------------|----------|---------|---------|\n| Primary Alcohol | R-CH\u2082OH | PCC | R-CHO |\n| Secondary Alcohol | R-CHOH-R' | K\u2082Cr\u2082O\u2087 | R-CO-R' |\n| Terminal Alk",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Nomenclature and Structure of Carboxylic Acids' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT AND DEFINITION\n\n### What are Carboxylic Acids?\n\n**Definition:** Carboxylic acids are organic compounds containing a **carboxyl functional group (-COOH)** directly attached to a carbon atom.\n\n### The Carboxyl Group Structure\n\n```\n     O\n     \u2551\n  \u2014C\u2014OH  (or -COOH)\n```\n\n**Key structural features:**\n- **C=O bond** (carbonyl, polar)\n- **O-H bond** (hydroxyl, polar)\n- Both groups are covalently bonded to the same carbon\n- This creates a highly polarized, reactive functional group\n\n### Why the Carboxyl Group is Important?\n\n| Feature | Reason |\n|---------|--------|\n| **Acidity** | The H in -OH is highly acidic (Ka range: 10\u207b\u00b3 to 10\u207b\u2075) |\n| **Polarity** | Two electronegative oxygens make it very polar |\n| **Hydrogen bonding** | Forms strong intermolecular H-bonds |\n| **Resonance stability** | Carboxylate ion (COO\u207b) is stabilized by resonance |\n\n---\n\n## 2. KEY FORMULAS AND FACTS\n\n### General Formula\n```\nR-COOH  (where R = alkyl or aryl group)\n```\n\n### Acidity Constant\n```\nKa = [H\u207a][RCOO\u207b] / [RCOOH]\n\npKa = -log Ka\n\nFor most carboxylic acids: pKa \u2248 4-5\n(Stronger acid than alcohols and phenols!)\n```\n\n### Resonance Stabilization of Carboxylate Ion\n```\n      O\u207b                  O\n      \u2551      \u2194      \u2014C\u2014OH\n  \u2014C\u2014OH              \u2551\n                     O\u207b\n\nThis resonance stabilization is WHY carboxylic acids are acidic!\n```\n\n### Important Facts to Remember\n\n| Fact | Application |\n|------|-------------|\n| **Carboxylic acids form dimers** | Via H-bonding; affects boiling point |\n| **PKa values:** Formic acid (3.75) < Acetic acid (4.76) | More substituted = less acidic |\n| **Electron-withdrawing groups increase acidity** | Example: CCl\u2083COOH (pKa = 0.65) |\n| **Electron-donating groups decrease acidity** | Example: CH\u2083COOH (pKa = 4.76) |\n\n---\n\n## 3. NOMENCLATURE RULES\n\n### A. IUPAC Nomenclature (Systematic)\n\n**Rule:** Name the parent alkane chain and replace the final 'e' with **'-oic acid'**\n\n#### Step-by-Step Process:\n\n1. **Identify the carboxyl group** (it gets priority - C no. 1)\n2. **Count carbons** in the longest chain (including the carboxyl carbon)\n3. **Number from the carboxyl carbon** (as position 1)\n4. **Name substituents** and their positions\n5. **Combine:** [position-substituent] + [chain name] + oic acid\n\n#### Examples:\n\n```\nCH\u2083-COOH\n\u2193\n1 carbon chain = methane \u2192 remove 'e' + oic acid\n= FORMIC ACID (or methanoic acid)\n\nCH\u2083-CH\u2082-COOH\n\u2193\n2 carbon chain = ethane \u2192 replace 'e' with oic acid\n= ACETIC ACID (or ethanoic acid)\n\nCH\u2083-CH\u2082-CH\u2082-COOH\n\u2193\n3 carbon chain = propane \u2192 replace 'e' with oic acid\n= PROPIONIC ACID (or propanoic acid)\n\nCH\u2083-CH\u2082-CH\u2082-CH\u2082-COOH\n\u2193\n4 carbon chain = butane \u2192 replace 'e' with oic acid\n= BUTYRIC ACID (or butanoic acid)\n\n    CH\u2083\n     |\nCH\u2083-CH-CH\u2082-COOH\n     |\n    Position 3 (from carboxyl)\n= 3-METHYLBUTANOIC ACID\n```\n\n### B. Common Names (Trivial Names)\n\nThese are **historically used names** and very important for NEET!\n\n| Molecular Formula | IUPAC Name | Common Name | Source |\n|-------------------|-----------|------------|--------|\n| HCOOH | Methanoic acid | **Formic acid** | Ant venom (formica) |\n| CH\u2083COOH | Ethanoic acid | **Acetic acid** | Vinegar (acetum) |\n| CH\u2083CH\u2082COOH | Propanoic acid | **Propionic acid** | - |\n| CH\u2083(CH\u2082)\u2082COOH | Butanoic acid | **Butyric acid** | Butter (butyrum) |\n| CH\u2083(CH\u2082)\u2083COOH | Pentanoic acid | **Valeric acid** | Valerian root |\n| CH\u2083(CH\u2082)\u2081\u2086COOH | Octadecanoic acid | **Stearic acid** | Animal fat |\n| CH\u2083(CH\u2082)\u2087CH=CH(CH\u2082)\u2087COOH | 9-octadecenoic acid | **Oleic acid** | Olive oil |\n\n### C. Greek Letters for Common Names (Old System)\n\nFor compounds like: CH\u2083-CH(X)-COOH\n\n```\nThe position relative to carboxyl uses Greek letters:\n\n    \u03b2   \u03b1\n    |   |\nR\u2014C\u2014C\u2014COOH\n      |\n     Position name\n     \nExamples:\nCH\u2083-CHCl-COOH = \u03b1-chloropropionic acid\n```\n\n---\n\n## 4. MEMORY TIPS AND ANALOGIES\n\n### Tip 1: \"COOH = COO\u207bH\u207a\" Concept\nThink of carboxylic acids as **\"partial protons waiting to escape\"** because of resonance stabilization of the conjugate base.\n\n### Tip 2: Naming Pattern Recognition\n```\nAlkane \u2192 Alkene \u2192 Alkyne \u2192 Aldehyde \u2192 Carboxylic Acid\n  -ane     -ene      -yne      -al         -oic acid\n\nAlways replace the final 'e' with 'oic acid'\n(NEVER add it, REPLACE it!)\n```\n\n### Tip 3: Why are Carboxylic Acids Acidic?\n```\nThink: \"The carboxyl group is like a 'H\u207a factory'\"\n\nIt's acidic because:\n1. The C=O withdraws electrons \u2192 weakens O-H bond\n2. The resulting COO\u207b is stabilized by resonance\n3. Loss of H\u207a is favorable (thermodynamically)\n```\n\n### Tip 4: Common Exam Trap\n\u274c **WRONG:** \"CH\u2083COOH\" is called \"acetic acid\" with 2 carbons\n\u2705 **CORRECT:** The name includes the COOH carbon, so it's ethanoic acid\n\n---\n\n## 5. EXAMPLE PROBLEM WITH SOLUTION\n\n### Question (NEET-style):\n\n**Problem:** \nAn organic compound has the following structure:\n\n```\n        CH\u2083\n         |\n    CH\u2083-CH-CH\u2082-CH\u2082-COOH\n         |\n        Br\n```\n\n(a) Give its IUPAC name\n(b) Give its common name family\n(c) How many carbons total?\n(d) What is the degree of unsaturation?\n\n---\n\n### SOLUTION:\n\n#### (a) IUPAC Name\n\n**Step 1:** Identify functional group \u2192 **-COOH** (carboxylic acid)\n\n**Step 2:** Find the longest carbon chain including the COOH\n```\n        CH\u2083\n         |\n    CH\u2083-CH-CH\u2082-CH\u2082-COOH\n    5    4   3   2    1 (numbering from carboxyl)\n```\nLongest chain = **5 carbons** \u2192 pentane base \u2192 **pentanoic acid**\n\n**Step 3:** Identify substituents\n- Position 4: Methyl group (-CH\u2083)\n- Position 4: Bromo group (-Br)\n\n**Step 4:** Alphabetical order \u2192 Br comes before CH\u2083\n- **4-bromo-4-methylpentanoic acid** \u2705\n\n#### (b) Common Name Family\nSince it's a 5-carbon chain: **Valeric acid derivative**\nOr more specifically: **4-bromovaleric acid**\n\n#### (c) Total Carbons\n- 1 (in COOH) + 4 (in the chain) = **5 carbons total**\n\n#### (d) Degree of Unsaturation (DBE)\nFormula: **DBE = (2C + 2 + N - H - X)/2**\n\nFor C\u2085H\u2089BrO\u2082:\n- C = 5, H = 9, Br = 1\n- DBE = (2\u00d75 + 2 - 9 - 1)/2\n- DBE = (12 - 10)/2 = **1**\n\nThis represents the **C=O double bond** in the carboxyl group.\n\n---\n\n## QUICK REFERENCE TABLE FOR NEET\n\n| Property | Details |\n|----------|---------|\n| **Functional group** | -COOH (carboxyl) |\n| **General formula** | R-COOH or C\u2099H\u2082\u2099O\u2082 (saturated) |\n| **Acidity** | Strong (pKa = 3-5); stronger than alcohols |\n| **Naming rule** | Replace '-e' of alkane with '-oic acid' |\n| **Numbering** |",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Oxidation and Reduction of Aldehydes and Ketones' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "# Oxidation and Reduction of Aldehydes and Ketones - Complete NEET Guide\n\n---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is Oxidation of Aldehydes/Ketones?\n\n**Oxidation = Loss of electrons / Increase in oxidation state of carbon atom**\n\nIn aldehydes and ketones, oxidation involves breaking the C=O double bond and adding oxygen atoms.\n\n### Key Difference: Aldehydes vs Ketones\n\n| Property | Aldehydes (R-CHO) | Ketones (R-CO-R) |\n|----------|------------------|------------------|\n| **H atom on carbonyl?** | YES (1 H attached) | NO (2 R groups) |\n| **Ease of oxidation** | EASY | DIFFICULT/RESISTANT |\n| **Oxidation product** | Carboxylic acids (RCOOH) | Carbon chain cleavage or ketonic acids |\n| **NEET priority** | \\u2b50\\u2b50\\u2b50 High | \\u2b50\\u2b50 Medium |\n\n**Why this difference?**\n- Aldehydes have an \\u03b1-hydrogen that can be easily removed\n- Ketones lack this hydrogen, making them more stable to oxidation\n- This is why nature and lab reactions preferentially oxidize aldehydes\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### OXIDATION REACTIONS:\n\n#### **A) Oxidation of Aldehydes (Most Important for NEET)**\n\n```\n     O                    O\n     \\u2016                    \\u2016\nR\\u2014C\\u2014H  + [O] \\u2014\\u2014\\u2014\\u2192  R\\u2014C\\u2014OH  (Carboxylic Acid)\nALDEHYDE           CARBOXYLIC ACID\n```\n\n**Common oxidizing agents:**\n\n| Reagent | Condition | Product | NEET Frequency |\n|---------|-----------|---------|----------------|\n| **KMnO\\u2084** | Neutral/Acidic, warm | R-COOH | \\u2b50\\u2b50\\u2b50 |\n| **K\\u2082Cr\\u2082O\\u2087** | Acidic (H\\u2082SO\\u2084) | R-COOH | \\u2b50\\u2b50\\u2b50 |\n| **Tollens' (AgNH\\u2083\\u207a)** | Mild, ammoniacal | R-COONH\\u2084 | \\u2b50\\u2b50\\u2b50 |\n| **Fehling's** | Mild, alkaline | R-COONa | \\u2b50\\u2b50 |\n\n#### **B) Oxidation of Ketones (Less reactive)**\n\n```\n     O                     O\n     \\u2016                     \\u2016\nR\\u2014C\\u2014R  + KMnO\\u2084 \\u2014\\u2014\\u2014\\u2192  R\\u2014C\\u2014OH + R'\\u2014COOH\nKETONE            (Cleavage occurs)\n```\n\n**Key Point:** Ketones undergo **C-C bond cleavage** at the carbonyl carbon, producing two carboxylic acids (or ketonic acids).\n\n**Example:** \n```\nCH\\u2083-CO-CH\\u2082-CH\\u2083 + [O] \\u2192 CH\\u2083-COOH + CH\\u2083-CH\\u2082-COOH\n(Methyl ethyl ketone)  (Acetic acid) (Propionic acid)\n```\n\n---\n\n### REDUCTION REACTIONS:\n\n#### **A) Complete Reduction (to Alcohols)**\n\n```\n     O                    OH\n     \\u2016                    |\nR\\u2014C\\u2014H + 2[H] \\u2014\\u2014\\u2014\\u2192  R\\u2014C\\u2014H  (Primary alcohol)\nALDEHYDE\n\n     O                    OH\n     \\u2016                    |\nR\\u2014C\\u2014R + 2[H] \\u2014\\u2014\\u2014\\u2192  R\\u2014C\\u2014R  (Secondary alcohol)\nKETONE\n```\n\n**Common reducing agents:**\n\n| Reagent | Mechanism | Product | Selectivity |\n|---------|-----------|---------|-------------|\n| **LiAlH\\u2084** | Strong hydride donor | Alcohols | \\u2b50\\u2b50\\u2b50 Excellent |\n| **NaBH\\u2084** | Mild hydride donor | Alcohols | \\u2b50\\u2b50\\u2b50 Selective |\n| **Zn-Hg/HCl** (Clemmensen) | Carbene mechanism | Alkanes | \\u2b50\\u2b50 |\n| **HCOOH/Pd** (Formic acid) | Hydride transfer | Alcohols | \\u2b50\\u2b50 |\n\n#### **B) Selective Reduction (to Hydrocarbons) - Clemmensen Reduction**\n\n```\n     O\n     \\u2016                    \nR\\u2014C\\u2014R + Zn-Hg/HCl \\u2014\\u2014\\u2014\\u2192  R\\u2014CH\\u2082\\u2014R\nKETONE                    ALKANE\n```\n\n**Mechanism:** Formation of zinc methylal intermediate \\u2192 removal of oxygen as H\\u2082O\n\n#### **C) Partial Oxidation (Aldol Condensation)**\nThis is technically not a redox but important for NEET:\n```\n2 R-CHO \\u2014\\u2014\\u2014(base)\\u2014\\u2014\\u2014\\u2192  R-CH=C(OH)-R  (Aldol product)\n```\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Identifying Oxidation Products\n**Question Type:** \"What is the product of oxidation of 2-methylpropanal with KMnO\\u2084?\"\n\n**Solution Strategy:**\n- Identify the aldehyde functional group\n- Apply oxidation rule (R-CHO \\u2192 R-COOH)\n- Answer: 2-methylpropanoic acid\n\n### Pattern 2: Identifying which compound oxidizes easily\n**Question Type:** \"Which is most easily oxidized?\"\n- A) Pentan-3-one\n- B) Pentanal \\u2713 (ANSWER - has aldehyde H)\n- C) 2-methylpentan-3-one\n- D) Pentane\n\n### Pattern 3: Multiple Oxidizing Agents\n**Question Type:** \"Which reagent gives R-COO\\u207b directly from aldehyde?\"\n- Answer: **Tollens' or Fehling's** (gives ammonium or sodium salt of carboxylic acid)\n\n### Pattern 4: Ketone Cleavage\n**Question Type:** \"Identify the products when 3-methylpentan-2-one is oxidized with KMnO\\u2084?\"\n\n**Solution:**\n```\nCH\\u2083-CO-CH(CH\\u2083)-CH\\u2082-CH\\u2083\n      \\u2193 (cleavage at C=O)\nCH\\u2083-COOH  +  (CH\\u2083)-CH(COOH)-CH\\u2082-CH\\u2083\n(Acetic acid)  (2-Methylpropanoic acid)\n```\n\n### Pattern 5: Clemmensen vs other reductions\n**Question Type:** \"Product of acetone with LiAlH\\u2084 vs Zn-Hg/HCl?\"\n- LiAlH\\u2084 \\u2192 Isopropyl alcohol (CH\\u2083-CHOH-CH\\u2083)\n- Zn-Hg/HCl \\u2192 Propane (CH\\u2083-CH\\u2082-CH\\u2083)\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **The \"Ladder Rule\" for Aldehydes:**\n```\nALDEHYDE \\u2190[oxidation]\\u2192 CARBOXYLIC ACID\n         \\u2190[reduction]\\u2192 PRIMARY ALCOHOL\n\nThink: Aldehydes are in the MIDDLE of the oxidation ladder\n- Go UP (oxidize) \\u2192 Carboxylic acid\n- Go DOWN (reduce) \\u2192 Alcohol\n```\n\n### **The \"Ketone Stubbornness\" Rule:**\n> \\U0001f3af **Ketones are like stubborn mules - they don't give up easily!**\n- Aldehydes: \"I'll happily become a carboxylic acid\"\n- Ketones: \"Make me break apart into pieces, or I stay as I am\"\n\n**Memory trick: \"A-K rule\"**\n- **A**ldehyde = **A**lways easy to oxidize\n- **K**etone = **K**eeps intact (doesn't oxidize easily)\n\n### **Reagent Selection Chart:**\n```\nWANT ALCOHOL? \\u2192 Use NaBH\\u2084 or LiAlH\\u2084\nWANT CARBOXYLIC ACID? \\u2192 Use KMnO\\u2084 or K\\u2082Cr\\u2082O\\u2087\nWANT ALKANE? \\u2192 Use Zn-Hg/HCl\nWANT MIRROR TEST? \\u2192 Use Tollens' (AgNH\\u2083\\u207a)\n```\n\n---\n\n## 5. COMPLETE EXAMPLE PROBLEM WITH SOLUTION\n\n### **Example Problem (NEET-Style):**\n\n**Question:**\nAn organic compound A (C\\u2086H\\u2081\\u2082O) gives the following:\n- Positive Tollens' test\n- Forms white ppt with AgNO\\u2083/NH\\u2083\n- On oxidation with KMnO\\u2084, gives acetic acid and one other product\n\n**Identify A and write the balanced equation for oxidation.**\n\n---\n\n### **STEP-BY-STEP SOLUTION:**\n\n**Step 1: Analyze the Molecular Formula**\n- C\\u2086H\\u2081\\u2082O with one degree of unsaturation\n- This unsaturation is due to C=O (since it's carbonyl-positive)\n\n**Step 2: Interpret Tollens' Test**\n- \\u2713 Positive Tollens' test = **Aldehyde functional group present**\n- \\u2717 Would be negative for ketone\n- Conclusion: A contains R-CHO\n\n**Step 3: Analyze Oxidation Product**\n- Oxidation gives: **Acetic acid (CH\\u2083COOH)** + another product\n- Since we get acetic acid, there must be a CH\\u2083- group attached to CHO\n- This means: **CH\\u2083-CH",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2023 | Chemistry]\n\nWhich does NOT undergo Cannizzaro reaction?",
+      "options": {
+        "A": "HCHO",
+        "B": "CH3CHO",
+        "C": "C6H5CHO",
+        "D": "(CH3)3CCHO"
+      },
+      "answer": "A",
+      "solution": "## Answer: **(B) CH\\u2083CHO**\n\n---\n\n## Why CH\\u2083CHO Does NOT Undergo Cannizzaro Reaction:\n\n### Understanding Cannizzaro Reaction\n\nThe **Cannizzaro reaction** is a base-catalyzed **disproportionation** of aldehydes that have **NO \\u03b1-hydrogen atoms**.\n\n**Requirement:** \n- The aldehyde must have **no H atoms on the \\u03b1-carbon** (carbon next to C=O)\n- Without \\u03b1-H, the aldehyde cannot undergo typical condensation reactions\n\n### Analysis of Each Option:\n\n| Compound | Structure | \\u03b1-Hydrogens | Reaction |\n|----------|-----------|-------------|----------|\n| **(A) HCHO** | H-CHO | \\u274c None | \\u2713 Cannizzaro |\n| **(B) CH\\u2083CHO** | CH\\u2083-CHO | \\u2713 **Present** | \\u274c Aldol condensation |\n| **(C) C\\u2086H\\u2085CHO** | Ph-CHO | \\u274c None | \\u2713 Cannizzaro |\n| **(D) (CH\\u2083)\\u2083CCHO** | (CH\\u2083)\\u2083C-CHO | \\u274c None | \\u2713 Cannizzaro |\n\n---\n\n## Why CH\\u2083CHO Doesn't Undergo Cannizzaro:\n\nCH\\u2083CHO has **active \\u03b1-hydrogen atoms** in the methyl group. In basic conditions, these H atoms are more easily abstracted, so the molecule preferentially undergoes:\n- **Aldol condensation** (with itself)\n- **Crossed aldol condensation** (with other aldehydes)\n\nInstead of disproportionation\n\n---\n\n## Key Formula to Remember:\n\n**Cannizzaro Reaction:** 2 RCHO + NaOH \\u2192 RCH\\u2082OH + RCOONa\n\n*Where R = H, Ph, or any group with **NO \\u03b1-hydrogens***",
+      "exam": "NEET 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2019 | Chemistry]\n\nTollens' reagent is used to distinguish between:",
+      "options": {
+        "A": "Aldehydes and ketones",
+        "B": "Primary and secondary alcohols",
+        "C": "Alkane and alkene",
+        "D": "Organic acids and esters"
+      },
+      "answer": "A",
+      "solution": "# Tollens' Reagent Test - NEET Answer\n\n## **Correct Answer: (A) Aldehydes and Ketones**\n\n---\n\n## Step-by-Step Reasoning:\n\n### What is Tollens' Reagent?\n- **Composition**: Ammoniacal silver nitrate [Ag(NH\\u2083)\\u2082]\\u207a NO\\u2083\\u207b\n- **Nature**: A mild oxidizing agent\n- **Appearance**: Colorless solution\n\n### The Reaction:\n\n**With Aldehydes (Positive Test):**\n```\nR-CHO + 2[Ag(NH\\u2083)\\u2082]\\u207a \\u2192 R-COONH\\u2084 + 2Ag\\u2193 + 3NH\\u2083 + H\\u2082O\n```\n- Silver is reduced to metallic Ag (silver mirror forms on test tube walls)\n- **Observable**: Bright silver mirror deposit\n\n**With Ketones (Negative Test):**\n```\nR-CO-R' \\u2192 NO REACTION\n```\n- Ketones are NOT oxidized by Tollens' reagent\n- No silver mirror forms\n\n---\n\n## Key Concept:\n\n**Aldehydes are easily oxidized** (aldehyde group has an \\u03b1-hydrogen), while **ketones are resistant to oxidation** under mild conditions. Tollens' test exploits this difference.\n\n---\n\n## Why Other Options Are Wrong:\n\n| Option | Why It's Wrong |\n|--------|---|\n| **(B) Primary & secondary alcohols** | Both are oxidized by Tollens' - no distinction |\n| **(C) Alkanes & alkenes** | Tollens' is not a reagent for testing unsaturation |\n| **(D) Organic acids & esters** | Tollens' doesn't specifically distinguish these |\n\n---\n\n## **\\U0001f3af NEET Tip:**\nRemember the **\"Silver Mirror Test\"** - if you see a silver mirror forming in the test tube, it's **definitely an aldehyde**!",
+      "exam": "NEET 2019",
+      "year": 2019,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2019 | Chemistry]\n\nTollens' reagent is used to distinguish between:",
+      "options": {
+        "A": "Aldehydes and ketones",
+        "B": "Primary and secondary alcohols",
+        "C": "Alkane and alkene",
+        "D": "Organic acids and esters"
+      },
+      "answer": "A",
+      "solution": "# Answer: **(A) Aldehydes and Ketones**\n\n## Explanation:\n\n### What is Tollens' Reagent?\nTollens' reagent is **ammoniacal silver nitrate** solution, denoted as [Ag(NH\\u2083)\\u2082]\\u207a\n\n### The Chemical Reaction:\n\n**With Aldehydes (POSITIVE TEST):**\n```\nR-CHO + 2[Ag(NH\\u2083)\\u2082]\\u207a + 2OH\\u207b \\u2192 R-COONH\\u2084 + 2Ag\\u2193 + 3NH\\u2083 + H\\u2082O\n```\n- **Silver mirror** forms on the test tube walls (distinctive bright silver coating)\n- Aldehydes are oxidized to carboxylic acid salts\n- Ag\\u207a is reduced to metallic Ag\n\n**With Ketones (NEGATIVE TEST):**\n```\nR-CO-R' + Tollens' reagent \\u2192 NO REACTION\n```\n- No silver mirror forms\n- Ketones lack the reactive aldehyde hydrogen (-CHO)\n- They are NOT easily oxidized by mild oxidizing agents like Tollens'\n\n## Key Distinction:\n| Feature | Aldehyde | Ketone |\n|---------|----------|--------|\n| Structure | R-**CHO** | R-CO-R' |\n| Tollens' Test | \\u2713 Silver mirror | \\u2717 No reaction |\n| Oxidation | Easy | Difficult |\n\n## Why Other Options Are Wrong:\n- **(B)** Primary vs secondary alcohols \\u2192 Use **Lucas test** or **chromic acid oxidation**\n- **(C)** Alkane vs alkene \\u2192 Use **bromine water** decolorization\n- **(D)** Acids vs esters \\u2192 Use **NaHCO\\u2083** test\n\n## Remember:\n**Tollens' reagent = Aldehyde detector** \\u2192 Forms characteristic silver mirror with aldehydes only!",
+      "exam": "NEET 2019",
+      "year": 2019,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Equal volumes of three acid solutions of $\\mathrm{pH} 3,4$ and 5 are mixed in a vessel. What will be the $\\mathrm{H}^{+}$ ion concentration in the mixture?",
+      "options": {
+        "A": "A $",
+        "B": "11 \\times 10^{-4} \\mathrm{M}$",
+        "C": "7 \\times 10^{-4} \\mathrm{M}$",
+        "D": "7 \\times 10^{-3} \\mathrm{M}$"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nLet the volume of each acid \\(=V\\) \\(p H\\) of first, second and third acids \\(=3,4\\) and 5 respectively \\(\\left[H^{+}\\right]\\)of first acid \\(\\left(M_1\\right)=1 \\times 10^{-3}\\left[\\therefore H^{+}=1 \\times 10^{-p H}\\right]\\) \\(\\left[H^{+}\\right]\\)of second acid \\(\\left(M_2\\right)=1 \\times 10^{-4}\\) \\(\\left[H^{+}\\right]\\)of third acid \\(\\left(M_3\\right)=1 \\times 10^{-5}\\) Total \\(\\left[H^{+}\\right]\\)concentrated of mixture \\(\\begin{aligned} & (M)=\\frac{M_1 V_1+M_2 V_2+M_3 V_3}{V_1+V_2+V_3} \\\\ & =\\frac{1 \\times 10^3 \\times V+1 \\times 10^4 \\times V+1 \\times 10^5 \\times V}{V+V+V} \\\\ & =\\frac{1 \\times 10^3 \\times V(1+0.1+0.01)}{3 V} \\\\ & =\\frac{1.11 \\times 10^3}{3}=3.7 \\times 10^{-4} M \\end{aligned}\\)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "What is the pK a value of ethanol?",
+      "options": {
+        "A": "A",
+        "B": "23",
+        "C": "19",
+        "D": "0 D 10"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe pK a value of ethanol is approximately 4.19.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "[NEET 2023 | Chemistry]\n\nWhich does NOT undergo Cannizzaro reaction?",
+      "options": {
+        "A": "HCHO",
+        "B": "CH3CHO",
+        "C": "C6H5CHO",
+        "D": "(CH3)3CCHO"
+      },
+      "answer": "A",
+      "solution": "# Answer: **(B) CH3CHO**\n\n## Why This is Correct:\n\n**The Cannizzaro reaction only occurs with aldehydes that have NO alpha-hydrogens.**\n\n### Checking Each Option:\n\n| Compound | Structure | Alpha-H Present? | Undergoes Cannizzaro? |\n|----------|-----------|------------------|----------------------|\n| (A) HCHO | H-CHO | NO | \\u2713 YES |\n| **(B) CH\\u2083CHO** | **CH\\u2083-CHO** | **YES** | **\\u2717 NO** |\n| (C) C\\u2086H\\u2085CHO | C\\u2086H\\u2085-CHO | NO | \\u2713 YES |\n| (D) (CH\\u2083)\\u2083CCHO | (CH\\u2083)\\u2083C-CHO | NO | \\u2713 YES |\n\n## Why CH\\u2083CHO Doesn't Undergo Cannizzaro:\n\n**CH\\u2083CHO (acetaldehyde) has alpha-hydrogens** on the methyl carbon adjacent to the carbonyl group. \n\nWhen alpha-hydrogens are present, the aldehyde preferentially undergoes:\n- **Aldol condensation** (in basic conditions)\n- **Hydrogen addition reactions**\n\nInstead of disproportionation.\n\n## Key Concept to Remember:\n\n**Cannizzaro Reaction Requirements:**\n- Aldehyde with NO alpha-hydrogens (Ar-CHO or R\\u2083C-CHO, where R = alkyl)\n- Strong base (NaOH, KOH)\n- Produces: Salt of carboxylic acid + primary alcohol\n\n$$2\\text{Ar-CHO} + \\text{NaOH} \\rightarrow \\text{Ar-COONa} + \\text{Ar-CH}_2\\text{OH}$$",
+      "exam": "NEET 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Methods of Preparation; Physical Properties' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "### A. ALDEHYDES (R-CHO)\n\n**Definition:** Organic compounds with a carbonyl group (-C=O) bonded to at least one hydrogen atom and a carbon or hydrogen on the other side.\n\n**General structure:** R-CHO (where R = alkyl/aryl group)\n\n---\n\n### B. KETONES (R-CO-R')\n\n**Definition:** Organic compounds with a carbonyl group (-C=O) bonded to two carbon atoms.\n\n**General structure:** R-CO-R' (where R and R' = alkyl/aryl groups)\n\n---\n\n### C. CARBOXYLIC ACIDS (R-COOH)\n\n**Definition:** Organic compounds with a carboxyl group (-COOH) containing both carbonyl and hydroxyl groups.\n\n**General structure:** R-COOH\n\n---\n\n## 2. METHODS OF PREPARATION\n\n### **A. ALDEHYDES**\n\n| Method | Reagent/Condition | Reaction Type | Example |\n|--------|-------------------|---------------|---------|\n| **1. From Primary Alcohols** | PCC or mild oxidizing agent | Oxidation (controlled) | CH\u2083CH\u2082OH \u2192 CH\u2083CHO |\n| **2. From Alkenes** | O\u2083/Zn (Ozonolysis) | Addition-cleavage | RCH=CHR' \u2192 RCHO + R'CHO |\n| **3. From Alkynes** | Hg\u00b2\u207a/H\u2082SO\u2084 (Hydration) | Addition | RC\u2261CH + H\u2082O \u2192 RCHO |\n| **4. From Acyl Chlorides** | LiAlH\u2084 (careful) or DIBAL-H | Reduction (partial) | RCOCl \u2192 RCHO |\n| **5. From Esters** | DIBAL-H at -78\u00b0C | Reduction (partial) | RCOOR' \u2192 RCHO |\n\n**MOST IMPORTANT FOR NEET:**\n- **Primary alcohols + PCC/mild oxidation = Aldehydes**\n- **Ozonolysis of alkenes**\n\n---\n\n### **B. KETONES**\n\n| Method | Reagent/Condition | Reaction Type | Example |\n|--------|-------------------|---------------|---------|\n| **1. From Secondary Alcohols** | K\u2082Cr\u2082O\u2087/H\u2082SO\u2084 or KMnO\u2084 | Oxidation | (CH\u2083)\u2082CHOH \u2192 (CH\u2083)\u2082CO |\n| **2. From Alkenes** | O\u2083/Zn (Ozonolysis) | Addition-cleavage | RCH=CRR' \u2192 RCOR' |\n| **3. From Alkynes** | Hg\u00b2\u207a/H\u2082SO\u2084/H\u2082SO\u2084 | Hydration | RC\u2261CR' + H\u2082O \u2192 RCOR' |\n| **4. From Acyl Chlorides** | R-MgX (Grignard) | Nucleophilic acyl substitution | RCOCl + R'MgX \u2192 RCOR' |\n| **5. From Carboxylic Acids** | Heat with CaO (Decarboxylation) | Removal of CO\u2082 | RCOOOH + heat \u2192 RCO + CO\u2082 |\n| **6. From Aromatic Compounds** | Friedel-Crafts Acylation | Electrophilic aromatic | Benzene + CH\u2083COCl \u2192 C\u2086H\u2085COCH\u2083 |\n\n**MOST IMPORTANT FOR NEET:**\n- **Secondary alcohols + strong oxidizing agents = Ketones**\n- **Friedel-Crafts acylation for aromatic ketones**\n\n---\n\n### **C. CARBOXYLIC ACIDS**\n\n| Method | Reagent/Condition | Reaction Type | Example |\n|--------|-------------------|---------------|---------|\n| **1. From Primary Alcohols** | Strong oxidizing agent (KMnO\u2084/K\u2082Cr\u2082O\u2087) | Oxidation | CH\u2083CH\u2082OH \u2192 CH\u2083COOH |\n| **2. From Aldehydes** | Mild oxidizing agent (KMnO\u2084, H\u2082O\u2082) | Oxidation | RCHO \u2192 RCOOH |\n| **3. From Alkenes** | KMnO\u2084 (hot, conc.) + heat | Oxidative cleavage | RCH=CHR' \u2192 RCOOH + R'COOH |\n| **4. From Alkynes** | KMnO\u2084 (hot, conc.) | Oxidative cleavage | RC\u2261CR' \u2192 RCOOH + R'COOH |\n| **5. From Grignard Reagent + CO\u2082** | R-MgX + CO\u2082 then HCl | Carboxylation | CH\u2083MgBr + CO\u2082 \u2192 CH\u2083COOH |\n| **6. From Acyl Chlorides** | Hydrolysis | Nucleophilic acyl | RCOCl + H\u2082O \u2192 RCOOH |\n| **7. From Esters** | Saponification (NaOH) | Hydrolysis | RCOOR' + NaOH \u2192 RCOONa + R'OH |\n| **8. From Nitriles** | Hydrolysis (H\u207a or OH\u207b) + heat | Hydrolysis | R-C\u2261N + H\u2082O \u2192 RCOOH |\n\n**MOST IMPORTANT FOR NEET:**\n- **Grignard + CO\u2082 = Carboxylic acids**\n- **Ester saponification (hydrolysis)**\n- **Oxidation of primary alcohols/aldehydes**\n\n---\n\n## 3. PHYSICAL PROPERTIES\n\n### **KEY COMPARISON TABLE**\n\n| Property | Aldehydes | Ketones | Carboxylic Acids |\n|----------|-----------|---------|------------------|\n| **Boiling Point** | Lower than alcohols | Lower than alcohols | **Very high** (due to H-bonding) |\n| **Solubility in Water** | Slight (C\u2081-C\u2083 soluble) | Slight (C\u2081-C\u2083 soluble) | **Good** (C\u2081-C\u2084 miscible) |\n| **Polarity** | Polar (due to C=O) | Polar (due to C=O) | **Highly polar** (due to COOH) |\n| **Hydrogen Bonding** | No (as H-bond donor) | No (as H-bond donor) | **Strong** (OH group) |\n| **Odor** | Pungent | Pleasant | **Sharp, distinctive** |\n| **Density** | Generally < 1 g/cm\u00b3 | Generally < 1 g/cm\u00b3 | Generally < 1 g/cm\u00b3 |\n| **Molecular Association** | Weak | Weak | **Strong** (dimer formation) |\n\n### **WHY CARBOXYLIC ACIDS ARE DIFFERENT:**\n\nCarboxylic acids form **hydrogen bonded dimers** in the liquid and solid state:\n\n```\n    O---H\u00b7\u00b7\u00b7O\n    \u2551       \u2551\nR-C       C-R\n    O\u00b7\u00b7\u00b7H---O\n```\n\nThis explains their:\n- Unusually high boiling points\n- Strong intermolecular forces\n- Good water solubility\n\n---\n\n## 4. KEY FORMULAS & IMPORTANT FACTS\n\n### **Memory Aids:**\n\n| Concept | Remember | Application |\n|---------|----------|-------------|\n| **PCC Oxidation** | Primary Alcohol \u2192 **ALDEHYDE only** (stops here) | PCC is selective, mild oxidizer |\n| **Strong Oxidation** | Primary Alcohol \u2192 Aldehyde \u2192 **Carboxylic Acid** (goes all the way) | KMnO\u2084, K\u2082Cr\u2082O\u2087 |\n| **Secondary Alcohol** | Always \u2192 **KETONE** (cannot be oxidized further) | Cannot make carboxylic acids directly |\n| **Ozonolysis** | Breaks C=C bonds \u2192 **Aldehydes OR Ketones** | Depends on substitution pattern |\n| **Grignard + CO\u2082** | **Best method for COOH** from alkyl halides | Common NEET question |\n| **Friedel-Crafts Acylation** | Makes **Aromatic Ketones** (direct attachment to benzene) | AlCl\u2083 catalyst needed |\n\n---\n\n## 5. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identification of Preparation Method**\n*\"Which of the following will give an aldehyde when oxidized with PCC?\"*\n- Answer strategy: Look for **primary alcohols**\n\n### **Pattern 2: Product Prediction**\n*\"Ozonolysis of but-2-ene (CH\u2083CH=CHCH\u2083) followed by Zn gives...\"*\n- Answer: **Acetaldehyde** (2 molecules)\n\n### **Pattern 3: Distinguishing Aldehydes vs. Ketones**\n*\"Which physical property best distinguishes aldehydes from ketones?\"*\n- Both have similar BP and solubility\n- **Reactivity with reagents** (Tollens, Fehling's) is the key difference\n\n### **Pattern 4: Multi-step Synthesis**\n*\"Convert ethanol to acetic acid in minimum steps\"*\n- Answer: CH\u2083CH\u2082OH \u2192 **CH\u2083CHO (oxidation)** \u2192 **CH\u2083COOH (oxidation)**\n\n### **Pattern 5: Carboxylic Acid Property**\n*\"Why do carboxylic acids have higher boiling points than aldehydes/ketones?\"*\n- Answer: **Hydrogen bonding and dimer formation**\n\n---\n\n##",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Equal volumes of three acid solutions of $\\mathrm{pH} 3,4$ and 5 are mixed in a vessel. What will be the $\\mathrm{H}^{+}$ ion concentration in the mixture?",
+      "options": {
+        "A": "A $",
+        "B": "11 \\times 10^{-4} \\mathrm{M}$",
+        "C": "7 \\times 10^{-4} \\mathrm{M}$",
+        "D": "7 \\times 10^{-3} \\mathrm{M}$"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nLet the volume of each acid \\(=V\\) \\(p H\\) of first, second and third acids \\(=3,4\\) and 5 respectively \\(\\left[H^{+}\\right]\\)of first acid \\(\\left(M_1\\right)=1 \\times 10^{-3}\\left[\\therefore H^{+}=1 \\times 10^{-p H}\\right]\\) \\(\\left[H^{+}\\right]\\)of second acid \\(\\left(M_2\\right)=1 \\times 10^{-4}\\) \\(\\left[H^{+}\\right]\\)of third acid \\(\\left(M_3\\right)=1 \\times 10^{-5}\\) Total \\(\\left[H^{+}\\right]\\)concentrated of mixture \\(\\begin{aligned} & (M)=\\frac{M_1 V_1+M_2 V_2+M_3 V_3}{V_1+V_2+V_3} \\\\ & =\\frac{1 \\times 10^3 \\times V+1 \\times 10^4 \\times V+1 \\times 10^5 \\times V}{V+V+V} \\\\ & =\\frac{1 \\times 10^3 \\times V(1+0.1+0.01)}{3 V} \\\\ & =\\frac{1.11 \\times 10^3}{3}=3.7 \\times 10^{-4} M \\end{aligned}\\)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Explain 'Chemical Reactions of Carboxylic Acids:' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
+      "options": {
+        "A": "Core concept and definition",
+        "B": "Key formula(s) or important facts",
+        "C": "Common NEET question patterns on this topic",
+        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
+      },
+      "answer": "A",
+      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What are Carboxylic Acids?\nCarboxylic acids are organic compounds containing the **carboxyl group (-COOH)** where:\n- **C=O** (carbonyl carbon) is bonded to\n- **O-H** (hydroxyl group) on the same carbon\n\n```\n      O\n      \\u2551\n  R\\u2014C\n      \\u2502\n      O-H\n```\n\n**Key Point:** The carboxyl group is **acidic** because:\n- The O-H bond is highly polar\n- The conjugate base (COO\\u207b) is stabilized by resonance (negative charge distributed on both O atoms)\n- They easily donate H\\u207a ions\n\n---\n\n## 2. MAJOR CHEMICAL REACTIONS\n\n### **A. ESTERIFICATION** (Most Important for NEET)\n\n**Reaction:** Carboxylic acid + Alcohol \\u2192 Ester + Water\n\n```\n       O                    O\n       \\u2551                    \\u2551\n  R\\u2014C    + R'\\u2014OH  \\u21cc  R\\u2014C     + H\\u2082O\n       \\u2502            \\u2502\n       OH           O-R'\n    Carboxylic     Alcohol      Ester    Water\n     Acid\n```\n\n**Conditions:** Concentrated H\\u2082SO\\u2084 (catalyst), heat\n\n**Mechanism:** \n- Acid protonates C=O (activates it)\n- Alcohol attacks carbonyl carbon\n- Water leaves, forming ester\n\n**Key Characteristics:**\n- **Reversible reaction** (equilibrium)\n- Excess alcohol shifts equilibrium toward ester\n- **Fischer esterification**\n\n#### NEET-Type Question:\n*Which factor increases ester yield?*\n- \\u2713 Excess alcohol\n- \\u2713 Removing water\n- \\u2713 Using acid catalyst\n- \\u2717 Increase in temperature (shifts left in equilibrium)\n\n---\n\n### **B. REDUCTION**\n\n**Strong reducing agents:** LiAlH\\u2084 or NaBH\\u2084\n\n```\n          O\n          \\u2551\n  R\\u2014C     + 4[H]  \\u2192  R\\u2014CH\\u2082\\u2014OH\n          \\u2502\n          OH\n  (Carboxylic acid)   (Primary alcohol)\n```\n\n**Important:** Carboxylic acids require **strong reducing agents** (unlike aldehydes/ketones which use mild reducing agents)\n\n---\n\n### **C. DECARBOXYLATION**\n\n**Removal of CO\\u2082 group**\n\n#### i) **Thermal Decarboxylation** (heating with CaO/soda lime)\n```\n          O\n          \\u2551\n  R\\u2014C     + CaO, heat  \\u2192  R\\u2014H + CaCO\\u2083\n          \\u2502\n          O-Ca\n  (Calcium carboxylate)\n```\n\n#### ii) **Kolbe's Reaction** (electrolysis)\n```\n  2R\\u2014COOH  \\u2192(electrolysis)  R\\u2014R + 2CO\\u2082 + H\\u2082\n```\nTwo alkyl groups couple to form an alkane.\n\n#### iii) **Keto-acid Decarboxylation** (heating)\n```\n  R\\u2014CO\\u2014COOH  \\u2192heat  R\\u2014CO\\u2014CH\\u2083 + CO\\u2082\n  (\\u03b2-keto acid)      (ketone)\n```\n\n---\n\n### **D. HALOGENATION** (Hell-Volhard-Zelinsky Reaction)\n\n```\n       O                    O\n       \\u2551                    \\u2551\n  R\\u2014CH\\u2082\\u2014C     + X\\u2082  \\u2192  R\\u2014CHX\\u2014C     + HX\n       \\u2502                   \\u2502\n       OH                  OH\n     (\\u03b1-substitution)\n```\n\n**Conditions:** PX\\u2083 or X\\u2082/red phosphorus catalyst\n\n**Key Point:** Substitution occurs at **\\u03b1-carbon** (next to COOH)\n\n---\n\n### **E. ACID-BASE REACTIONS**\n\n#### i) **With Bases:**\n```\n  R\\u2014COOH + NaOH  \\u2192  R\\u2014COONa + H\\u2082O\n  (carboxylic acid)  (sodium salt)\n```\n\n#### ii) **With Carbonates/Bicarbonates:**\n```\n  2R\\u2014COOH + Na\\u2082CO\\u2083  \\u2192  2R\\u2014COONa + H\\u2082O + CO\\u2082\\u2191\n  \n  R\\u2014COOH + NaHCO\\u2083  \\u2192  R\\u2014COONa + H\\u2082O + CO\\u2082\\u2191\n```\n\n**This produces CO\\u2082 gas** - characteristic test for carboxylic acids!\n\n---\n\n### **F. REACTION WITH PCl\\u2085 / PCl\\u2083** (Forms Acid Chloride)\n\n```\n       O                    O\n       \\u2551                    \\u2551\n  R\\u2014C     + PCl\\u2085  \\u2192  R\\u2014C     + POCl\\u2083 + HCl\n       \\u2502                   \\u2502\n       OH                  Cl\n  (Carboxylic acid)   (Acid chloride)\n```\n\n**Acid chlorides** are reactive intermediates used in:\n- Friedel-Crafts acylation\n- Making anhydrides\n- Forming amides\n\n---\n\n## 3. KEY FORMULAS & FACTS TABLE\n\n| Reaction | Reactant | Product | Condition | Type |\n|----------|----------|---------|-----------|------|\n| Esterification | R-COOH + R'-OH | R-COOR' | H\\u2082SO\\u2084, heat | Equilibrium |\n| Reduction | R-COOH | R-CH\\u2082OH | LiAlH\\u2084 | Irreversible |\n| Decarboxylation | R-COOH | R-H | CaO, heat | Loss of CO\\u2082 |\n| Halogenation | R-CH\\u2082COOH | R-CHXCOOH | PX\\u2083 | \\u03b1-position |\n| Acid chloride | R-COOH | R-COCl | PCl\\u2085 | Reactive |\n| Salt formation | R-COOH | R-COONa | NaOH | Acid-base |\n\n---\n\n## 4. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identifying Products**\n*\"Acetic acid reacts with ethanol in presence of H\\u2082SO\\u2084. The product is...\"*\n- Answer: Ethyl acetate (ester)\n\n### **Pattern 2: Mechanism Understanding**\n*\"Esterification is a reversible reaction because...\"*\n- Answer: It's an equilibrium between ester formation and hydrolysis\n\n### **Pattern 3: Reduction Comparison**\n*\"Unlike aldehydes, carboxylic acids require strong reducing agents because...\"*\n- Answer: The C=O in COOH is less reactive due to resonance with -OH group\n\n### **Pattern 4: Decarboxylation Recognition**\n*\"Which compound loses CO\\u2082 on heating with soda lime?\"*\n- Answer: Carboxylic acids and their salts\n\n### **Pattern 5: \\u03b1-Halogenation**\n*\"In the bromination of propanoic acid (CH\\u2083CH\\u2082COOH), where does substitution occur?\"*\n- Answer: \\u03b1-carbon (the CH\\u2082 group becomes CHBr)\n\n---\n\n## 5. MEMORY TIPS & ANALOGIES\n\n### **\"COMA\" Method** (remember 4 main reactions):\n\n- **C** = **Carbonyl reduction** (\\u2192 alcohol)\n- **O** = **CO\\u2082 loss** (decarboxylation)\n- **M** = **Make esters** (esterification)\n- **A** = **Acid-base** (salt formation)\n\n### **Analogy:**\nThink of the carboxyl group as a \"double vulnerability\":\n- The **C=O is reactive** (like in ketones) \\u2192 reduction, nucleophilic attack\n- The **O-H is acidic** \\u2192 loses H\\u207a, forms salts\n\nThis dual nature explains why carboxylic acids undergo so many reactions!\n\n### **Visual Memory:**\n```\nStrong acid \\u2192 Donates H\\u207a \\u2192 Forms salts (R-COONa)\n              \\u2193\n          R\\u2014C=O (reactive) \\u2192 Esters, reduction, acylation\n              \\u2502\n              O-H (acidic)\n```\n\n---\n\n## 6. COMPLETE SOLVED EXAMPLE\n\n### **NEET-Style Problem:**\n\n**Question:** \nPropanoic acid (CH\\u2083CH\\u2082COOH) reacts with methanol in presence of concentrated H\\u2082SO\\u2084. The ester formed is then hydrolyzed with aqueous NaOH. \n\n(a) Write the structure of the ester formed\n(b) Write the equation for saponification\n(c) Why does esterification require an acid catalyst?\n\n### **Solution:**\n\n**(a) Structure of ester:**\n```\nPropanoic acid: CH\\u2083\\u2014CH\\u2082\\u2014COOH\n+ Methanol: CH\\u2083\\u2014OH\n                    \\u2193 (H\\u2082SO\\u2084, heat)\nMethyl propanoate: CH\\u2083\\u2014CH\\u2082\\u2014COO\\u2014CH\\u2083 + H\\u2082O\n```\n\n**Name:** Methyl propanoate (or methyl propionate)\n\n---\n\n**(b) Saponification equation:**\n```\n       O\n       \\u2551\nCH\\u2083\\u2014CH\\u2082\\u2014C     + NaOH  \\u2192  CH\\u2083\\u2014CH\\u2082\\u2014COONa + CH\\u2083\\u2014OH\n       \\u2502\n       O\\u2014CH\\u2083\n(Methyl propanoate)      (Sodium salt)    (Methanol)\n```\n\nOR: **CH\\u2083CH\\u2082COOCH\\u2083 + NaOH \\u2192 CH\\u2083CH\\u2082COONa + CH\\u2083OH**\n\n---\n\n**(c) Why acid catalyst is needed:**\n\nThe carbonyl carbon (C=O) in the carboxylic acid is **not sufficiently electrophilic** on its own to attract the alcohol",
+      "exam": "NEET 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Which of the following compounds will most readily be dehydrated to give alkene under acidic condition ? ",
+      "options": {
+        "A": "1- Pentanol ",
+        "B": "4-Hydroxypentan - 2-one",
+        "C": "3-Hydroxypentan - 2-one",
+        "D": "2-Hydroxycyclopentanone"
+      },
+      "answer": "B",
+      "solution": "Among those compounds which have most acidic hydrogen will undergo dehydration most readily. That is why 4 $$-$$ Hydroxypentan $$-$$ 2 $$-$$ one will most readily dehydrated to give unsaturated ketone. \n<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264391/exam_images/rzgqbobqeppeljwwejjn.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2018 (Online) 16th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 191 English Explanation\">",
+      "exam": "JEE Main 2018",
+      "year": 2018,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The increasing order of the reactivity of the\nfollowing compound in nucleophilic addition\nreaction is :\n<br/><br/>Propanal, Benzaldehyde, Propanone, Butanone",
+      "options": {
+        "A": "Butanone &lt; Propanone &lt; Benzaldehyde &lt;\nPropanal",
+        "B": "Benzaldehyde &lt; Butanone &lt; Propanone &lt;\nPropanal",
+        "C": "Propanal &lt; Propanone &lt; Butanone &lt;\nBenzaldehyde",
+        "D": "Benzaldehyde &lt; Propanal &lt; Propanone &lt;\nButanone"
+      },
+      "answer": "A",
+      "solution": "<b>Rate of Nucleophilic addition :</b>\n<br><br>1. Aldehyde &gt; Ketone\n<br><br>2. Aliphatic aldehyde &gt; Aromatic aldehyde\n<br><br>$$ \\therefore $$ Correct order of nucleophilic addition reaction is :\n<br><picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265943/exam_images/cxtxjnwcvlj5fgmkqybe.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267496/exam_images/e7lgjptjiunftcxnx1l4.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264525/exam_images/t0hpiudq44qr7ast7xly.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 146 English Explanation\"></picture>",
+      "exam": "JEE Main 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Assertion A : Enol form of acetone [CH<sub>3</sub>COCH<sub>3</sub>] exists in &lt; 0.1% quantity. However, the enol form of acetyl acetone [CH<sub>3</sub>COCH<sub>2</sub>OCCH<sub>3</sub>] exists in approximately 15% quantity.<br/><br/>Reason R : Enol form of acetyl acetone is stabilized by intramolecular hydrogen bonding, which is not possible in enol form of acetone.<br/><br/>Choose the correct statement :",
+      "options": {
+        "A": "Both A and R are true but R is not the correct explanation of A",
+        "B": "A is true but R is false",
+        "C": "A is false but R is true",
+        "D": "Both A and R are true and R is the correct explanation of A"
+      },
+      "answer": "D",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266762/exam_images/e89gnvqyyvcrdqvnzaph.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 16th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 121 English Explanation\"><br>\nAcetyl acetone in enol form have intramolecular\nH-bonding, which is absent in acetone.",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Experimentally reducing a functional group cannot be done by which one of the following reagents?",
+      "options": {
+        "A": "Pt-C/H<sub>2</sub>",
+        "B": "Na/H<sub>2</sub>",
+        "C": "Pd-C/H<sub>2</sub>",
+        "D": "Zn/H<sub>2</sub>O"
+      },
+      "answer": "B",
+      "solution": "Na in presence of H<sub>2</sub>, will not release electron\nwhich are required for reduction.\n<br><br>H<sub>2</sub> gas also not get adsorbed on Na. Hence\nNa/H<sub>2</sub> cannot be used as a reducing agent.",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Given below are two statements :<br/><br/>Statement I : The nucleophilic addition of sodium hydrogen sulphite to an aldehyde or a ketone involves proton transfer to form a stable ion.<br/><br/>Statement II : The nucleophilic addition of hydrogen cyanide to an aldehyde or a ketone yields amine as final product.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "options": {
+        "A": "Both Statement I and Statement are true.",
+        "B": "Statement I is true but Statement II is false.",
+        "C": "Statement I is false but  Statement II is true.",
+        "D": "Both Statement I and Statement II are false."
+      },
+      "answer": "B",
+      "solution": "Statement I : Correct<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwop8pxa/7298daf6-0626-4bfe-9ad3-8065a89148f0/46c195e0-534a-11ec-9cbb-695a838b20fb/file-1kwop8pxb.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwop8pxa/7298daf6-0626-4bfe-9ad3-8065a89148f0/46c195e0-534a-11ec-9cbb-695a838b20fb/file-1kwop8pxb.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 1\"><br>Statement  II : Wrong<br><br><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kwopady4/5819d067-7014-45ec-a7e0-07db3bf190cf/751f8cd0-534a-11ec-9cbb-695a838b20fb/file-1kwopady5.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kwopady4/5819d067-7014-45ec-a7e0-07db3bf190cf/751f8cd0-534a-11ec-9cbb-695a838b20fb/file-1kwopady5.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 1st September Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 94 English Explanation 2\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Given below are two statements :</p>\n<p>Statements I : Acidity of $$\\alpha$$-hydrogens of aldehydes and ketones is responsible for Aldol reaction.</p>\n<p>Statement II : Reaction between benzaldehyde and ethanal will NOT give Cross - Aldol product.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below :</p>",
+      "options": {
+        "A": "Both Statement I and Statement II are incorrect\n",
+        "B": "Statement I is correct but Statement II is incorrect\n",
+        "C": "Both Statement I and Statement II are correct\n",
+        "D": "Statement I is incorrect but Statement II is correct"
+      },
+      "answer": "B",
+      "solution": "<p>Let's analyze the given statements in detail:</p>\n\n<p><strong>Statement I:</strong> Acidity of $$\\alpha$$-hydrogens of aldehydes and ketones is responsible for Aldol reaction.</p>\n\n<p>This statement is correct. The presence of acidic $$\\alpha$$-hydrogens in aldehydes and ketones makes it possible for these compounds to undergo deprotonation, forming enolates. These enolates can then attack the carbonyl carbon of another aldehyde or ketone, leading to the formation of the Aldol product. Therefore, the acidity of the $$\\alpha$$-hydrogens is crucial for the Aldol reaction.</p>\n\n<p><strong>Statement II:</strong> Reaction between benzaldehyde and ethanal will NOT give Cross-Aldol product.</p>\n\n<p>This statement is incorrect. Benzaldehyde (which lacks an $$\\alpha$$-hydrogen) can indeed react with ethanal (which has an $$\\alpha$$-hydrogen) in a Cross-Aldol reaction. In a Cross-Aldol reaction, one molecule (ethanal) forms an enolate and reacts with another molecule (benzaldehyde), resulting in the formation of a Cross-Aldol product.</p>\n\n<p>Based on these explanations, the most appropriate answer is:</p>\n\n<p><strong>Option B</strong></p>\n\n<p>Statement I is correct but Statement II is incorrect.</p>",
+      "exam": "JEE Main 2024",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The correct match between Item-I (starting\nmaterial) and Item-II (reagent) for the\npreparation of benzaldehyde is :\n<br/><br/><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n</style>\n<table class=\"tg\">\n<thead>\n<tr>\n<th class=\"tg-baqh\"><b>Item-I</b></th>\n<th class=\"tg-baqh\"><b>Item-II</b></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"tg-baqh\">(I) Benzene</td>\n<td class=\"tg-baqh\">(P) HCl and SnCl<sub>2</sub>,\nH<sub>3</sub>O<sup>+</sup></td>\n</tr>\n<tr>\n<td class=\"tg-baqh\">(II) Benzonitrile</td>\n<td class=\"tg-baqh\">(Q) H<sub>2</sub>, Pd-BaSO<sub>4</sub>, S\nand quinoline</td>\n</tr>\n<tr>\n<td class=\"tg-baqh\">(III) Benzoyl Chloride</td>\n<td class=\"tg-baqh\">(R) CO, HCl and AlCl<sub>3</sub></td>\n</tr>\n</tbody>\n</table>",
+      "options": {
+        "A": "(I) - (R), (II) - (P) and (III) - (Q)",
+        "B": "(I) - (P), (II) - (Q) and (III) - (R)",
+        "C": "(I) - (Q), (II) - (R) and (III) - (P)",
+        "D": "(I) - (R), (II) - (Q) and (III) - (P)"
+      },
+      "answer": "A",
+      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265983/exam_images/tnxetxym5lapbou036bs.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265165/exam_images/d74cwil8uicrreg1dho5.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266208/exam_images/sznr93cizyaix9lnbd8c.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265427/exam_images/ecps259vu7lcxevp7v3e.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 135 English Explanation\"></picture>",
+      "exam": "JEE Main 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Which one of the following reactions will not form acetaldehyde?",
+      "options": {
+        "A": "$$C{H_3}C{H_2}OH\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{573K}^{Cu}} $$",
+        "B": "$$C{H_3}C{H_2}OH\\buildrel {Cr{O_3} - {H_2}S{O_4}} \\over\n \\longrightarrow $$",
+        "C": "$$C{H_2} = C{H_2} + {O_2}\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{{H_2}O}^{Pd(II)/Cu(II)}} $$",
+        "D": "$$C{H_3}CN\\mathrel{\\mathop{\\kern0pt\\longrightarrow}\n\\limits_{ii)\\,{H_2}O}^{i)\\,DIBAL - H}} $$"
+      },
+      "answer": "B",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263822/exam_images/zt6na7p1ou9eucpeqigr.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 25th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 130 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The predominant intermolecular forces present in ethyl acetate, a liquid, are:",
+      "options": {
+        "A": "Dipole-dipole and hydrogen bonding",
+        "B": "hydrogen bonding and London dispersion",
+        "C": "London dispersion, dipole-dipole and hydrogen bonding",
+        "D": "London dispersion and dipole-dipole"
+      },
+      "answer": "D",
+      "solution": "<p>Ethyl acetate (CH<sub>3</sub>COOCH<sub>2</sub>CH<sub>3</sub>) is an organic compound with a molecular structure that does not include any hydrogen atoms bonded directly to highly electronegative atoms like nitrogen, oxygen, or fluorine. Because of this, it cannot form hydrogen bonds. However, ethyl acetate does possess a polar carbonyl group (C=O), which contributes to dipole-dipole interactions, and like all molecules, it can experience London dispersion forces. Therefore, the predominant intermolecular forces present in ethyl acetate are dipole-dipole interactions and London dispersion forces.</p>\n\n<p>Hence, the correct option is :</p>\n\n<p><strong>Option D: London dispersion and dipole-dipole</strong></p>",
+      "exam": "JEE Main 2020",
+      "year": 2020,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Which of the following reagent is used for the following reaction ?<br/><br/>\n$$\n\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_3 \\stackrel{?}{\\longrightarrow} \\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CHO}\n$$",
+      "options": {
+        "A": "Molybdenum oxide",
+        "B": "Manganese acetate",
+        "C": "Copper at high temperature and pressure",
+        "D": "Potassium permanganate"
+      },
+      "answer": "A",
+      "solution": "Molybdenum oxide (Mo<sub>2</sub>O<sub>3</sub> ) is used for oxidising alkanes to\naldehyde. It used to manufacture molybdenum metal, which serves\nas an additive to steel and corrosive resistant alloys.\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1kxhci1gp/478f2156-9f7d-414a-bcc7-e58c22e6ac31/2e1b3d90-630b-11ec-877b-854219a26a55/file-1kxhci1gq.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1kxhci1gp/478f2156-9f7d-414a-bcc7-e58c22e6ac31/2e1b3d90-630b-11ec-877b-854219a26a55/file-1kxhci1gq.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2021 (Online) 24th February Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 134 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Mesityl oxide is a common name of :",
+      "options": {
+        "A": "3-Methyl cyclohexane carbaldehyde",
+        "B": "4-Methyl pent-3-en-2-one",
+        "C": "2,4-Dimethyl pentan-3-one",
+        "D": "2-Methyl cyclohexanone"
+      },
+      "answer": "B",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263428/exam_images/yga7xz57fu9lgwe0npdz.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 17th March Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 118 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Oxidation of toluene to benzaldehyde can be easily carried out with which of the following reagents?</p>",
+      "options": {
+        "A": "CrO<sub>3</sub>/acetic acid, H<sub>3</sub>O<sup>+</sup>",
+        "B": "CrO<sub>3</sub>/acetic anhydride, H<sub>3</sub>O<sup>+</sup>",
+        "C": "KMnO<sub>4</sub>/HCl, H<sub>3</sub>O<sup>+</sup>",
+        "D": "CO/HCl, anhydrous AlCl<sub>3</sub>"
+      },
+      "answer": "B",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l9bly2tx/1e22714e-7969-43f2-8965-fccf0ae504cb/02ebf050-4d76-11ed-bdbc-253e8d1bba81/file-1l9bly2ty.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l9bly2tx/1e22714e-7969-43f2-8965-fccf0ae504cb/02ebf050-4d76-11ed-bdbc-253e8d1bba81/file-1l9bly2ty.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 26th June Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 81 English Explanation\">",
+      "exam": "JEE Main 2022",
+      "year": 2022,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The correct sequential addition of reagents in the preparation of 3-nitrobenzoic acid from benzene is :",
+      "options": {
+        "A": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>",
+        "B": "Br<sub>2</sub>/AlBr<sup>3</sup>, NaCN, H<sub>3</sub>O<sup>+</sup>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>",
+        "C": "Br<sub>2</sub>/AlBr<sub>3</sub>, HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, NaCN, H<sub>3</sub>O<sup>+</sup>",
+        "D": "HNO<sub>3</sub>/H<sub>2</sub>SO<sub>4</sub>, Br<sub>2</sub>/AlBr<sub>3</sub>, Mg/ether, CO<sub>2</sub>, H<sub>3</sub>O<sup>+</sup>"
+      },
+      "answer": "D",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266618/exam_images/hrm8cmsjmfz8koohspgh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th August Morning Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 102 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Which one of the following reactions will not yield propionic acid?",
+      "options": {
+        "A": "CH<sub>3</sub>CH<sub>2</sub>COCH<sub>3</sub> + OI<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
+        "B": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>3</sub> + KMnO<sub>4</sub>(Heat), OH<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
+        "C": "CH<sub>3</sub>CH<sub>2</sub>CCl<sub>3</sub> + OH<sup>$$-$$</sup>/H<sub>3</sub>O<sup>+</sup>",
+        "D": "CH<sub>3</sub>CH<sub>2</sub>CH<sub>2</sub>Br + Mg, CO<sub>2</sub> dry ether/H<sub>3</sub>O<sup>+</sup>"
+      },
+      "answer": "D",
+      "solution": "All gives propanoic acid as product but option (d) gives butanoic as product<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264261/exam_images/umrm8mjbn9mw5yctxox5.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 98 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Two statements are given below :</p>\n<p>Statement I : The melting point of monocarboxylic acid with even number of carbon atoms is higher than that of with odd number of carbon atoms acid immediately below and above it in the series.</p>\n<p>Statement II : The solubility of monocarboxylic acids in water decreases with increase in molar mass.</p>\n<p>Choose the most appropriate option :</p>",
+      "options": {
+        "A": "Both Statement I and Statement II are correct.",
+        "B": "Both Statement I and Statement II are incorrect.",
+        "C": "Statement I is correct but Statement II is incorrect.",
+        "D": "Statement I is incorrect but Statement II is correct."
+      },
+      "answer": "A",
+      "solution": "Statement (I) is correct as monocarboxylic acids\nwith even number of carbon atoms show better\npacking efficiency in the solid state, statement (II) is\nalso correct as the solubility of carboxylic acids\ndecreases with an increase in molar mass due to\nincrease in the hydrophobic portion with an increase in\nthe number of carbon atoms.",
+      "exam": "JEE Main 2022",
+      "year": 2022,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Given below are two statements, one is labelled as Assertion A and the other is labelled as Reason R.</p>\n<p>Assertion A : A solution of the product obtained by heating a mole of glycine with a mole of chlorine in presence of red phosphorous generates chiral carbon atom.</p>\n<p>Reason R : A molecule with 2 chiral carbons is always optically active.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below:</p>",
+      "options": {
+        "A": "Both A and R are true and R is the correct explanation of A",
+        "B": "Both A and R are true but R is NOT the correct explanation of A",
+        "C": "A is true but R is false",
+        "D": "A is false but R is true"
+      },
+      "answer": "C",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1libm5ngg/24f28c50-e2c2-4a57-aafa-ce6edaa17551/c7edc000-ffa4-11ed-b6d4-23f7435f51f2/file-1libm5ngh.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1libm5ngg/24f28c50-e2c2-4a57-aafa-ce6edaa17551/c7edc000-ffa4-11ed-b6d4-23f7435f51f2/file-1libm5ngh.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 11th April Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 36 English Explanation\">\n<br><br>As for Reason R, it is false. A molecule with 2 chiral carbons is not necessarily optically active. It may be if the molecule is not superimposable on its mirror image (i.e., it's chiral). But if the molecule is superimposable on its mirror image (i.e., it's achiral), then it will not be optically active. This can occur if the molecule has a plane of symmetry, in which case it is a meso compound.",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Which among the followng has highest boiling point?",
+      "options": {
+        "A": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CH}_2-\\mathrm{OH}$",
+        "B": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CH}_3$",
+        "C": "$\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CHO}$",
+        "D": "$\\mathrm{H}_5 \\mathrm{C}_2-\\mathrm{O}-\\mathrm{C}_2 \\mathrm{H}_5$"
+      },
+      "answer": "A",
+      "solution": "<p>To predict the boiling point of these compounds, we need to consider the types of intermolecular forces present in each molecule. These intermolecular forces include van der Waals forces, dipole-dipole interactions, and hydrogen bonding.</p>\n\n<p>The compounds given are:</p>\n<ul>\n<li>Option A : Butanol ($\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CH}_2-\\mathrm{OH}$) - a primary alcohol</li>\n<br/><li>Option B : Butane ($\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CH}_3$) - an alkane</li>\n<br/><li>Option C : Butyraldehyde ($\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CHO}$) - an aldehyde</li>\n<br/><li>Option D : Diethyl ether ($\\mathrm{H}_5 \\mathrm{C}_2-\\mathrm{O}-\\mathrm{C}_2 \\mathrm{H}_5$) - an ether</li>\n</ul>\n\n<p>Now let's analyze each one:</p>\n\n<p>Option A: Butanol is capable of hydrogen bonding because it has an $\\mathrm{-OH}$ group. Hydrogen bonding is the strongest intermolecular force among the forces affecting these molecules. Therefore, butanol will have the highest boiling point among the compounds without considering the others.</p>\n\n<p>Option B: Butane only has van der Waals forces because it is a non-polar molecule. Van der Waals forces are the weakest intermolecular forces, resulting in a lower boiling point compared to molecules that can hydrogen bond or have permanent dipoles.</p>\n\n<p>Option C: Butyraldehyde can form dipole-dipole interactions because of its polar carbonyl ($\\mathrm{C=O}$) group, but it cannot form hydrogen bonds with itself since there is no $\\mathrm{OH}$ group. Dipole-dipole interactions are stronger than van der Waals forces but weaker than hydrogen bonds. As a result, butyraldehyde will have a higher boiling point than butane but a lower boiling point than butanol.</p>\n\n<p>Option D: Diethyl ether has an oxygen atom, which makes it polar and enables dipole-dipole interactions. However, ethers cannot form hydrogen bonds with themselves, so diethyl ether will have a higher boiling point than butane but lower than butanol.</p>\n\n<p>Considering the intermolecular forces, the compound with the highest boiling point is the one that can form hydrogen bonds, which in this list is the primary alcohol, butanol.</p>\n\n<p>Therefore, the compound with the highest boiling point is:</p>\n<p>Option A : Butanol ($\\mathrm{CH}_3 \\mathrm{CH}_2 \\mathrm{CH}_2 \\mathrm{CH}_2-\\mathrm{OH}$).</p>",
+      "exam": "JEE Main 2024",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>The molecular formula of second homologue in the homologous series of mono carboxylic acids is</p>",
+      "options": {
+        "A": "$$\\mathrm{C}_2 \\mathrm{H}_4 \\mathrm{O}_2$$\n",
+        "B": "$$\\mathrm{C}_2 \\mathrm{H}_2 \\mathrm{O}_2$$\n",
+        "C": "$$\\mathrm{CH}_2 \\mathrm{O}$$\n",
+        "D": "$$\\mathrm{C}_3 \\mathrm{H}_6 \\mathrm{O}_2$$"
+      },
+      "answer": "A",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lt1la4fb/dc1fd62d-8a7c-41e7-977d-3e058c2f64ae/e5d14f70-d3e7-11ee-999e-8967c8762139/file-1lt1la4fc.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lt1la4fb/dc1fd62d-8a7c-41e7-977d-3e058c2f64ae/e5d14f70-d3e7-11ee-999e-8967c8762139/file-1lt1la4fc.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 27 English Explanation\"></p>",
+      "exam": "JEE Main 2024",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The correct statement about the synthesis of erythritol  (C(CH<sub>2</sub>OH)4) used in the preparation of PETN is : ",
+      "options": {
+        "A": "The synthesis requires four aldol condensations between methanol\nand ethanol.",
+        "B": "The synthesis requires two aldol condensations and two Cannizzaro\nreactions.",
+        "C": "The synthesis requires three aldol condensations and one Cannizzaro\nreaction.",
+        "D": "Alpha hydrogens of ethanol and methanol are involved in this\nreaction."
+      },
+      "answer": "C",
+      "solution": "<p>The synthesis of erythritol from aldehyde requires three aldol condensation and one Cannizzaro reaction.</p>\n<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l3pdjr00/0556c59a-0141-4dc2-98ef-f90a0a9c89ce/d83d5700-de3e-11ec-8d15-d70e976d6a92/file-1l3pdjr01.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l3pdjr00/0556c59a-0141-4dc2-98ef-f90a0a9c89ce/d83d5700-de3e-11ec-8d15-d70e976d6a92/file-1l3pdjr01.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2016 (Online) 10th April Morning Slot Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 187 English Explanation\">",
+      "exam": "JEE Main 2016",
+      "year": 2016,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The correct match between <b>Item I</b> and <b>Item II</b> is :\n<br/><br/><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}\n.tg .tg-wv9z{font-size:22px;text-align:center}\n.tg .tg-de48{font-weight:bold;font-size:22px;text-align:center}\n</style>\n<table class=\"tg\">\n<tbody><tr>\n<th class=\"tg-de48\" colspan=\"2\">Item - I</th>\n<th class=\"tg-de48\" colspan=\"2\">Item - II</th>\n</tr>\n<tr>\n<td class=\"tg-de48\">(A)</td>\n<td class=\"tg-wv9z\">Benzaldehyde</td>\n<td class=\"tg-de48\">(P)</td>\n<td class=\"tg-wv9z\">Mobile phase</td>\n</tr>\n<tr>\n<td class=\"tg-de48\">(B)</td>\n<td class=\"tg-wv9z\">Alumina</td>\n<td class=\"tg-de48\">(Q)</td>\n<td class=\"tg-wv9z\">Adsorbent</td>\n</tr>\n<tr>\n<td class=\"tg-de48\">(C)</td>\n<td class=\"tg-wv9z\">Acetonitrile</td>\n<td class=\"tg-de48\">(R)</td>\n<td class=\"tg-wv9z\">Adsorbate</td>\n</tr>\n</tbody></table>",
+      "options": {
+        "A": "(A)  $$ \\to $$  (Q);  (B)  $$ \\to $$  (P);  (C)  $$ \\to $$  (R)",
+        "B": "(A)  $$ \\to $$  (R);  (B)  $$ \\to $$  (Q);  (C)  $$ \\to $$  (P)",
+        "C": "(A)  $$ \\to $$  (Q);  (B)  $$ \\to $$  (R);  (C)  $$ \\to $$  (P)",
+        "D": "(A)  $$ \\to $$  (P);  (B)  $$ \\to $$  (R);  (C)  $$ \\to $$  (Q)"
+      },
+      "answer": "B",
+      "solution": "<p>To determine the correct match between <b>Item I</b> and <b>Item II</b>, let's analyze each item and its corresponding match :</p>\n\n<p>1. <b>Benzaldehyde:</b> Benzaldehyde is an aromatic aldehyde, which is typically considered as an adsorbate in chromatography. An adsorbate is a substance that is adsorbed on a surface.</p>\n\n<p>2. <b>Alumina:</b> Alumina (Aluminum oxide) is well known for its use as an adsorbent in chromatography processes. An adsorbent is a material that adsorbs another substance.</p>\n\n<p>3. <b>Acetonitrile:</b> Acetonitrile is an organic solvent often used as a mobile phase in chromatography. The mobile phase is the phase that moves in chromatography, helping to carry the sample through the stationary phase.</p>\n\n<p>Now, let's match the items :</p>\n\n<table class=\"tg\">\n\n<tbody><tr>\n\n<th class=\"tg-de48\" colspan=\"2\">Item - I</th>\n\n<th class=\"tg-de48\" colspan=\"2\">Item - II</th>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-de48\">(A)</td>\n\n<td class=\"tg-wv9z\">Benzaldehyde</td>\n\n<td class=\"tg-de48\">(R)</td>\n\n<td class=\"tg-wv9z\">Adsorbate</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-de48\">(B)</td>\n\n<td class=\"tg-wv9z\">Alumina</td>\n\n<td class=\"tg-de48\">(Q)</td>\n\n<td class=\"tg-wv9z\">Adsorbent</td>\n\n</tr>\n\n<tr>\n\n<td class=\"tg-de48\">(C)</td>\n\n<td class=\"tg-wv9z\">Acetonitrile</td>\n\n<td class=\"tg-de48\">(P)</td>\n\n<td class=\"tg-wv9z\">Mobile phase</td>\n\n</tr>\n\n</tbody></table>\n\n<p>Therefore, the correct match is :</p>\n\n<p>(A) $$\\to$$ (R); (B) $$\\to$$ (Q); (C) $$\\to$$ (P)</p>\n\n<p>This corresponds to <b>Option B</b>.</p>",
+      "exam": "JEE Main 2019",
+      "year": 2019,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "2, 4-DNP test can be used to identify :",
+      "options": {
+        "A": "ether",
+        "B": "amine",
+        "C": "aldehyde",
+        "D": "halogens"
+      },
+      "answer": "C",
+      "solution": "2,4 DNP test is used to identify\n\\u2013 (CO) \\u2013 group. It\ngives addition reaction with carbonyl\ncompounds. So, it can be used to identify\naldehyde in the given option. It gives yellow/\norange ppt with carbonyl containing\ncompounds.\n<br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263687/exam_images/dgz4kaenmlgfyszjbim7.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Evening Shift Chemistry - Aldehydes, Ketones and Carboxylic Acids Question 123 English Explanation\">",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Which of the following compounds will give silver mirror with ammoniacal silver nitrate?</p>\n<p>A. Formic acid</p>\n<p>B. Formaldehyde</p>\n<p>C. Benzaldehyde</p>\n<p>D. Acetone</p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": {
+        "A": "B and C only",
+        "B": "C and D only",
+        "C": "A, B and C only",
+        "D": "A only"
+      },
+      "answer": "C",
+      "solution": "<p>The reaction involved here is the Tollen's test, which detects aldehydes and alpha-hydroxy ketones, as they are able to reduce the ammoniacal silver nitrate solution to metallic silver, producing a mirror-like coating on the glassware. This test specifically distinguishes these reducing sugars from non-reducing sugars and is often used to identify the presence of an aldehyde functional group. </p>\n\n<p>Let's analyze each option:</p>\n\n<p>A. Formic acid - Formic acid ($HCOOH$) is a carboxylic acid but importantly, it can also reduce silver ions to metallic silver because it can act as a reducing agent just like aldehydes. Thus, it will give a positive Tollen's test. </p>\n\n<p>B. Formaldehyde ($HCHO$) is the simplest aldehyde, and aldehydes are known to give positive results with the Tollen's test since they can be oxidized to carboxylic acids, reducing the silver ions in the process to metallic silver.</p>\n\n<p>C. Benzaldehyde ($C_6H_5CHO$) is an aromatic aldehyde and, similar to formaldehyde, it can be oxidized to an acid, thereby reducing the silver ions to silver in the Tollen's test, giving a positive result.</p>\n\n<p>D. Acetone ($CH_3COCH_3$) is a ketone. Generally, ketones do not undergo oxidation easily and do not reduce ammoniacal silver nitrate, and thus, do not give a silver mirror with the Tollen's reagent.</p>\n\n<p>Therefore, the compounds that will give a silver mirror with ammoniacal silver nitrate (positive Tollen's test) are Formic acid, Formaldehyde, and Benzaldehyde, but not Acetone.</p>\n\n<p>The correct answer from the options given is therefore:</p>\n\n<p>Option C: A, B, and C only.</p>",
+      "exam": "JEE Main 2024",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>The descending order of acidity for the following carboxylic acid is-</p>\n<p>A. $$\\mathrm{CH}_{3} \\mathrm{COOH}$$</p>\n<p>B. $$\\mathrm{F}_{3} \\mathrm{C}-\\mathrm{COOH}$$</p>\n<p>C. $$\\mathrm{ClCH}_{2}-\\mathrm{COOH}$$</p>\n<p>D. $$\\mathrm{FCH}_{2}-\\mathrm{COOH}$$</p>\n<p>E. $$\\mathrm{BrCH}_{2}-\\mathrm{COOH}$$</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": {
+        "A": "B > C > D > E > A",
+        "B": "D > B > A > E > C",
+        "C": "B > D > C > E > A",
+        "D": "E > D > B > A > C"
+      },
+      "answer": "C",
+      "solution": "<p>The acidity of carboxylic acids is influenced by the electron-withdrawing ability of the groups attached to the carboxylic acid. The stronger the electron-withdrawing ability of the group, the more it stabilizes the carboxylate anion (formed after losing the acidic proton), and hence the stronger the acid. </p>\n<p>Let&#39;s look at the groups attached to the carboxylic acid in each option:</p>\n<p>A. $$\\mathrm{CH}_{3}\\mathrm{-}$$: Methyl group. It&#39;s electron-donating due to the hyperconjugation effect.</p>\n<p>B. $$\\mathrm{F}_{3}\\mathrm{C}-$$: Trifluoromethyl group. Strong electron-withdrawing group due to the electronegativity of fluorine atoms and inductive effect.</p>\n<p>C. $$\\mathrm{ClCH}_{2}-$$: Chloromethyl group. It has some electron-withdrawing ability due to the electronegativity of the chlorine atom, but it&#39;s less than that of fluorine.</p>\n<p>D. $$\\mathrm{FCH}_{2}-$$: Fluoromethyl group. It has electron-withdrawing ability due to the electronegativity of the fluorine atom, but less than that of the trifluoromethyl group.</p>\n<p>E. $$\\mathrm{BrCH}_{2}-$$: Bromomethyl group. It has some electron-withdrawing ability due to the electronegativity of the bromine atom, but it&#39;s less than that of chlorine and fluorine.</p>\n<p>So the order of acidity will be: B &gt; D &gt; C &gt; E &gt; A</p>",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 596px\">\n<colgroup>\n<col style=\"width: 51px\"/>\n<col style=\"width: 226px\"/>\n<col style=\"width: 46px\"/>\n<col style=\"width: 273px\"/>\n</colgroup>\n<thead>\n<tr>\n<th class=\"tg-7btt\"></th>\n<th class=\"tg-7btt\">List I</th>\n<th class=\"tg-7btt\"></th>\n<th class=\"tg-7btt\">List II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"tg-amwm\"></td>\n<td class=\"tg-amwm\">Test</td>\n<td class=\"tg-amwm\"></td>\n<td class=\"tg-amwm\">Functional group / Class of Compound</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">A.</td>\n<td class=\"tg-0pky\">Molisch's Test</td>\n<td class=\"tg-0pky\">I.</td>\n<td class=\"tg-0pky\">Peptide</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">B.</td>\n<td class=\"tg-0pky\">Biuret Test</td>\n<td class=\"tg-0pky\">II.</td>\n<td class=\"tg-0pky\">Carbohydrate</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">C.</td>\n<td class=\"tg-0pky\">Carbylamine Test</td>\n<td class=\"tg-0pky\">III.</td>\n<td class=\"tg-0pky\">Primary amine</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">D.</td>\n<td class=\"tg-0pky\">Schiff's Test</td>\n<td class=\"tg-0pky\">IV.</td>\n<td class=\"tg-0pky\">Aldehyde</td>\n</tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": {
+        "A": "(A) - III, (B) - IV, (C) - II, (D) - I",
+        "B": "(A) - II, (B) - I, (C) - III, (D) - IV",
+        "C": "(A) - III, (B) - IV, (C) - I, (D) - II",
+        "D": "(A) - I, (B) - II, (C) - III, (D) - IV"
+      },
+      "answer": "B",
+      "solution": "(A) Molisch test is for carbohydrates\n<br/><br/>(B) Biuret test is for proteins/peptide\n<br/><br/>(C) Carbylamine test is for primary amine\n<br/><br/>(D) Schiff\\u2019s test is for aldehyde",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "At 518<sup>o</sup>C the rate of decomposition of a sample of gaseous acetaldehyde initially at a pressure of 363 Torr,\nwas 1.00 Torr s<sup>\\u20131</sup> when 5% had reacted and 0.5 Torr s<sup>\\u20131</sup> when 33% had reacted. The order of the reaction is  ",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "3",
+        "D": "1"
+      },
+      "answer": "B",
+      "solution": "For a n<sup>th</sup> order reaction, the rate of reaction at time t ,\n<br><br>Rate = K [P<sub>t</sub>] <sup>n</sup> \n<br><br>Here P<sub>t</sub> = pressure at time t, k = constant.\n<br><br><b><u>Note :</u></b> \n<br><br>Here instead of concentration of product, pressure of product is given. \n<br><br>When 5% is reacted at a rate 1 Toss S<sup>$$-$$1</sup> \n<br><br>Then un-reacted is 95%..\n<br><br>As initial pressure is 363 Torr \n<br><br>then after 5% reaction completed the pressure will be \n<br><br>= 363 $$ \\times $$ $${{95} \\over {100}}$$ Torr. \n<br><br>$$\\therefore\\,\\,\\,$$ 1 = K $${\\left[ {363 \\times {{95} \\over {100}}} \\right]^n}$$ . . . . . . . .(1)\n<br><br>When 33% is reacted at a rate 0.5 , Torr S<sup>$$-$$1</sup> then un-reacted  is 67%\n<br><br>So, after 33% reaction completion, the pressure is = $$363 \\times {{67} \\over {100}}$$ Torr.  \n<br><br>$$\\therefore\\,\\,\\,$$ 0.5 = K $${\\left[ {363 \\times {{67} \\over {100}}} \\right]^n}.......$$ (2)\n<br><br>Dividing (1) by (2), we get \n<br><br>$${1 \\over {0.5}} = {{{{\\left[ {363 \\times {{95} \\over {100}}} \\right]}^n}} \\over {{{\\left[ {363 \\times {{67} \\over {100}}} \\right]}^n}}}$$ \n<br><br>$$ \\Rightarrow \\,\\,2 = {\\left[ {{{95} \\over {67}}} \\right]^n}$$\n<br><br>$$ \\Rightarrow \\,\\,$$ 2 = $${\\left[ {1.41} \\right]^n}$$ \n<br><br>$$ \\Rightarrow \\,\\,$$  2 = $${\\left[ {\\sqrt 2 } \\right]^n}$$ \n<br><br>$$ \\Rightarrow \\,\\,\\,\\,2 = {2^{{n \\over 2}}}$$ \n<br><br>$$\\therefore\\,\\,\\,$$ $${n \\over 2}$$ = 1 \n<br><br>$$ \\Rightarrow \\,\\,\\,\\,$$ n = 2\n<br><br>This is a 2nd order reaction.",
+      "exam": "JEE Main 2018",
+      "year": 2018,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Given below are two statements :<br/><br/>Statement I : CeO<sub>2</sub> can be used for oxidation of aldehydes and ketones.<br/><br/>Statement II : Aqueous solution of EuSO<sub>4</sub> is a strong reducing agent.<br/><br/>In the light of the above statements, choose the correct answer from the options given below :",
+      "options": {
+        "A": "Statement I is true but Statement II is false.",
+        "B": "Statement I is false but Statement II is true",
+        "C": "Both Statement I and Statement II are false",
+        "D": "Both Statement I and Statement II are true"
+      },
+      "answer": "D",
+      "solution": "The +3 oxidation state of lanthanide is most\nstable and therefore lanthanide in +4 oxidation\nstate has strong tendence to gain e<sup>\\u2013</sup>\n and\nconverted into +3 and therefore act as strong\noxidizing agent.\neg Ce<sup>+4</sup>\n<br>And therefore CeO<sub>2</sub>\n is used to oxidized alcohol\naldehyde and ketones.\n<br><br>Lanthanide in +2 oxidation state has strong\ntendency to loss e<sup>\\u2013</sup>\n and converted into +3\noxidation state therefore act as strong reducing\nagent.\n<br><br>$$ \\therefore $$ EuSO<sub>4</sub> act as a strong reducing agent.",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Given below are two statements : one is labelled as Assertion (A) and the other is labelled as Reason (R). <br/><br/>Assertion (A) : Photochemical smog causes cracking of rubber.<br/><br/>Reason (R) : Presence of ozone, nitric oxide, acrolein, formaldehyde and peroxyacetyl nitrate in photochemical smog makes it oxidizing.<br/><br/>Choose the most appropriate answer from the options given below :",
+      "options": {
+        "A": "Both (A) and (R) are true but (R) is not the true explanation of (A)",
+        "B": "(A) is false but (R) is true.",
+        "C": "(A) is true but (R) is false.",
+        "D": "Both (A) and (R) are true and (R) is the true explanation of (A)"
+      },
+      "answer": "D",
+      "solution": "Photochemical smog causes cracking of rubber, the common component of photochemical smog are ozone, nitric oxide, acrolein, formaldehyde and peroxyacetyel nitrate (PAN).",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Given below are two Statements:</p>\n<p>Statement I : Classical smog occurs in cool humid climate. It is a reducing mixture of smoke, fog and sulphur dioxide.</p>\n<p>Statement II : Photochemical smog has components, ozone, nitric oxide, acrolein, formaldehyde, PAN etc.</p>\n<p>In the light of the above statements, choose the most appropriate answer from the options given below.</p>",
+      "options": {
+        "A": "Both Statement I and Statement II are correct.",
+        "B": "Both Statement I and Statement II are incorrect.",
+        "C": "Statement I is correct but Statement II is incorrect.",
+        "D": "Statement I is incorrect but Statement II is correct."
+      },
+      "answer": "A",
+      "solution": "(I) Classical smog occurs in cool humid climate. It is a reducing mixture of smoke, fog and sulphur dioxide. This is a correct statement.\n<br/><br/>\n(II) This statement is also based on fact and is a correct statement.",
+      "exam": "JEE Main 2022",
+      "year": 2022,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Two isomers 'A' and 'B' with molecular formula C<sub>4</sub>H<sub>8</sub> give different products on oxidation with KMnO<sub>4</sub> in acidic medium. Isomer 'A' on reaction with KMnO<sub>4</sub>/H<sup>+</sup> results in effervescence of a gas and gives ketone. The compound 'A' is</p>",
+      "options": {
+        "A": "But-1-ene.",
+        "B": "cis-But-2-ene.",
+        "C": "trans-But-2-ene.",
+        "D": "2-methyl propene."
+      },
+      "answer": "D",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lc3xvqcx/1c429d41-7d0c-4e07-9dc6-b4c856bde6af/1028fa10-84a3-11ed-9935-c94109650755/file-1lc3xvqcy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lc3xvqcx/1c429d41-7d0c-4e07-9dc6-b4c856bde6af/1028fa10-84a3-11ed-9935-c94109650755/file-1lc3xvqcy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 29th June Morning Shift Chemistry - Hydrocarbons Question 53 English Explanation\">",
+      "exam": "JEE Main 2022",
+      "year": 2022,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "A hydrocarbon ' $\\mathrm{X}$ ' with formula $\\mathrm{C}_{6} \\mathrm{H}_{8}$ uses two moles of $\\mathrm{H}_{2}$ on catalytic hydrogenation of its one mole. On ozonolysis, ' $\\mathrm{X}$ ' yields two moles of methane dicarbaldehyde. The hydrocarbon ' $\\mathrm{X}$ ' is:",
+      "options": {
+        "A": "hexa-1, 3, 5-triene",
+        "B": "cyclohexa-1, 4-diene",
+        "C": "cyclohexa - 1,3 - diene",
+        "D": "1-methylcyclopenta-1, 4-diene"
+      },
+      "answer": "B",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lecv71tn/b6f44ebf-4470-4793-b575-e856895b1919/0c21bcb0-b124-11ed-a8fc-b3bd3ab31931/file-1lecv71to.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lecv71tn/b6f44ebf-4470-4793-b575-e856895b1919/0c21bcb0-b124-11ed-a8fc-b3bd3ab31931/file-1lecv71to.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 31st January Evening Shift Chemistry - Hydrocarbons Question 41 English Explanation\">",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "Bakelite is a cross-linked polymer of formaldehyde and :",
+      "options": {
+        "A": "PHBV",
+        "B": "Buna-S",
+        "C": "Novolac",
+        "D": "Dacron"
+      },
+      "answer": "C",
+      "solution": "Novolac (phenol formaldehyde Resin) $$\\to$$ Bakelite",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "The polymer formed on heating Novolac with formaldehyde is :",
+      "options": {
+        "A": "Bakelite",
+        "B": "Polyester",
+        "C": "Melamine",
+        "D": "Nylon 6, 6"
+      },
+      "answer": "A",
+      "solution": "Novolac + formaldehyde $$\\to$$ Bakelite",
+      "exam": "JEE Main 2021",
+      "year": 2021,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 607px\">\n<colgroup>\n<col style=\"width: 50px\"/>\n<col style=\"width: 249px\"/>\n<col style=\"width: 45px\"/>\n<col style=\"width: 263px\"/>\n</colgroup>\n<thead>\n<tr>\n<th class=\"tg-7btt\"></th>\n<th class=\"tg-7btt\">List I</th>\n<th class=\"tg-7btt\"></th>\n<th class=\"tg-7btt\">List II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"tg-0pky\">A.</td>\n<td class=\"tg-0pky\">Elastomeric polymer</td>\n<td class=\"tg-0pky\">I.</td>\n<td class=\"tg-0pky\">Urea formaldehyde resin</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">B.</td>\n<td class=\"tg-0pky\">Fibre Polymer</td>\n<td class=\"tg-0pky\">II.</td>\n<td class=\"tg-0pky\">Polystyrene</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">C.</td>\n<td class=\"tg-0pky\">Thermosetting Polymer</td>\n<td class=\"tg-0pky\">III.</td>\n<td class=\"tg-0pky\">Polyester</td>\n</tr>\n<tr>\n<td class=\"tg-0pky\">D.</td>\n<td class=\"tg-0pky\">Thermoplastic Polymer</td>\n<td class=\"tg-0pky\">IV.</td>\n<td class=\"tg-0pky\">Neoprene</td>\n</tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below :</p>",
+      "options": {
+        "A": "A-II, B-I, C-IV, D-III",
+        "B": "A-IV, B-I, C-III, D-II",
+        "C": "A-IV, B-III, C-I, D-II",
+        "D": "A-II, B-III, C-I, D-IV"
+      },
+      "answer": "C",
+      "solution": "<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}\n.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 604px\">\n<colgroup>\n<col style=\"width: 44px\">\n<col style=\"width: 224px\">\n<col style=\"width: 49px\">\n<col style=\"width: 287px\">\n</colgroup>\n<thead>\n  <tr>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\"></th>\n    <th class=\"tg-7btt\"></th>\n  </tr>\n</thead>\n<tbody>\n  <tr>\n    <td class=\"tg-c3ow\">A.</td>\n    <td class=\"tg-0pky\">Elastomeric fibre</td>\n    <td class=\"tg-c3ow\">(IV)</td>\n    <td class=\"tg-0pky\">Neoprene</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">B.</td>\n    <td class=\"tg-0pky\">Fibre polymer</td>\n    <td class=\"tg-c3ow\">(III)</td>\n    <td class=\"tg-0pky\">Polyester</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">C.</td>\n    <td class=\"tg-0pky\">Thermosetting polymer</td>\n    <td class=\"tg-c3ow\">(I)</td>\n    <td class=\"tg-0pky\">Urea Formaldehyde Resin</td>\n  </tr>\n  <tr>\n    <td class=\"tg-c3ow\">D.</td>\n    <td class=\"tg-0pky\">Thermoplastic polymer</td>\n    <td class=\"tg-c3ow\">(II)</td>\n    <td class=\"tg-0pky\">Polystyrene</td>\n  </tr>\n</tbody>\n</table></p>",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
+    {
+      "question": "<p>Match List I with List II</p>\n<p><style type=\"text/css\">\n.tg  {border-collapse:collapse;border-spacing:0;}\n.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;\n  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}\n.tg .tg-baqh{text-align:center;vertical-align:top}\n.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}\n.tg .tg-0lax{text-align:left;vertical-align:top}\n</style>\n<table class=\"tg\" style=\"undefined;table-layout: fixed; width: 625px\">\n<colgroup>\n<col style=\"width: 46px\"/>\n<col style=\"width: 267px\"/>\n<col style=\"width: 48px\"/>\n<col style=\"width: 264px\"/>\n</colgroup>\n<thead>\n<tr>\n<th class=\"tg-amwm\"></th>\n<th class=\"tg-amwm\">List I<br/>Polymer</th>\n<th class=\"tg-amwm\"></th>\n<th class=\"tg-amwm\">List II<br/>Type/Class</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"tg-baqh\">(A)</td>\n<td class=\"tg-0lax\">Nylon-2-Nylon-6</td>\n<td class=\"tg-baqh\">(I)</td>\n<td class=\"tg-0lax\">Thermosetting polymer</td>\n</tr>\n<tr>\n<td class=\"tg-baqh\">(B)</td>\n<td class=\"tg-0lax\">Buna-N</td>\n<td class=\"tg-baqh\">(II)</td>\n<td class=\"tg-0lax\">Biodegradable polymer</td>\n</tr>\n<tr>\n<td class=\"tg-baqh\">(C)</td>\n<td class=\"tg-0lax\">Urea-formaldehyde resin</td>\n<td class=\"tg-baqh\">(III)</td>\n<td class=\"tg-0lax\">Synthetic rubber</td>\n</tr>\n<tr>\n<td class=\"tg-baqh\">(D)</td>\n<td class=\"tg-0lax\">Dacron</td>\n<td class=\"tg-baqh\">(IV)</td>\n<td class=\"tg-0lax\">Polyester</td>\n</tr>\n</tbody>\n</table></p>\n<p>Choose the correct answer from the options given below:</p>",
+      "options": {
+        "A": "(A)-(IV), (B)-(I), (C)-(III), (D)-(II)",
+        "B": "(A)-(II), (B)-(I), (C)-(IV), (D)-(III)",
+        "C": "(A)-(II), (B)-(III), (C)-(I), (D)-(IV)",
+        "D": "(A)-(IV), (B)-(III), (C)-(I), (D)-(II)"
+      },
+      "answer": "C",
+      "solution": "<ul>\n<li><strong>Nylon-2-Nylon-6</strong> is a biodegradable polymer. It is made from two monomers, hexamethylenediamine and adipic acid. The polymer is strong and durable, but it can also be broken down by bacteria and other microorganisms. This makes it a good choice for use in products that are designed to be biodegradable, such as food packaging and medical implants.</li><br/>\n<li><strong>Buna N</strong> is a synthetic rubber. It is made from a mixture of 1,3-butadiene and acrylonitrile. The polymer is strong and flexible, and it is resistant to wear and tear. Buna N is used in a variety of applications, including tires, hoses, and belts.</li><br/>\n<li><strong>Urea-formaldehyde</strong> is a thermosetting resin. It is made from a mixture of urea and formaldehyde. The polymer is hard and strong, and it is resistant to heat, water, and chemicals. Urea-formaldehyde is used in a variety of applications, including adhesives, coatings, and foams.</li><br/>\n<li><strong>Dacron</strong> is a polyester. It is made from a mixture of terephthalic acid and ethylene glycol. The polymer is strong, durable, and lightweight. Dacron is used in a variety of applications, including clothing, fabrics, and bottles.</li>\n</ul>",
+      "exam": "JEE Main 2023",
+      "year": 2023,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    }
+  ]
+}
