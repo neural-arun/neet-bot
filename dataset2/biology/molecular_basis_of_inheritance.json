@@ -1,8 +1,24 @@
 {
   "subject": "Biology",
   "chapter": "Molecular Basis of Inheritance",
-  "total_questions": 303,
+  "total_questions": 304,
   "questions": [
+    {
+      "question": "Refer to the double-stranded DNA helical model diagrammed below. According to Chargaff's rule and Watson-Crick base pairing, what holds the complementary nitrogenous bases (A-T and G-C) together?",
+      "image_path": "dataset2/images/bio_dna_helix.png",
+      "options": {
+        "A": "Hydrogen bonds (2 between A-T; 3 between G-C)",
+        "B": "Covalent peptide bonds",
+        "C": "Phosphodiester backbone bonds",
+        "D": "Ionic bonds"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Genetics:** Nitrogenous base pairs on opposite antiparallel strands are joined by Hydrogen bonds: Adenine forms 2 hydrogen bonds with Thymine ($A = T$), while Guanine forms 3 hydrogen bonds with Cytosine ($G \\equiv C$).",
+      "exam": "NEET CBT Molecular Genetics Diagram PYQ",
+      "year": 2024,
+      "subject": "Biology",
+      "chapter": "Molecular Basis of Inheritance"
+    },
     {
       "question": "The haploid content of human DNA is ________.",
       "options": {

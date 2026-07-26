@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Oscillations and Waves",
-  "total_questions": 206,
+  "total_questions": 207,
   "questions": [
+    {
+      "question": "Examine the displacement-time graph of a particle executing Simple Harmonic Motion (SHM). At what positions is the velocity of the particle maximum?",
+      "image_path": "dataset2/images/phys_shm_wave.png",
+      "options": {
+        "A": "At the mean position (x = 0)",
+        "B": "At the positive extreme position (x = +A)",
+        "C": "At the negative extreme position (x = -A)",
+        "D": "At x = +A/2"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**SHM Kinematics:** Velocity in SHM is $v = \\omega \\sqrt{A^2 - x^2}$. At the mean position ($x = 0$), velocity is maximum ($v_{max} = \\omega A$). At the extreme positions ($x = \\pm A$), velocity drops to zero.",
+      "exam": "NEET CBT Physics Oscillations Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Oscillations and Waves"
+    },
     {
       "question": "At what time was the second curve in Fig. 15.3 plotted if the velocity of two waves superimposing to form stationary waves is 360 ms\u20131 and their frequencies are 256 Hz?",
       "options": {

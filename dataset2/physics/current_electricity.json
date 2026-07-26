@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Current Electricity",
-  "total_questions": 195,
+  "total_questions": 196,
   "questions": [
+    {
+      "question": "Examine the Wheatstone bridge circuit diagram shown below. If the bridge is in a balanced condition (zero deflection in galvanometer G), calculate the value of unknown resistance S:",
+      "image_path": "dataset2/images/phys_wheatstone_bridge.png",
+      "options": {
+        "A": "60 \u03a9",
+        "B": "50 \u03a9",
+        "C": "40 \u03a9",
+        "D": "15 \u03a9"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Electricity:** For a balanced Wheatstone bridge, $P/Q = R/S$. Substituting given values: $10/20 = 30/S \\Rightarrow 1/2 = 30/S \\Rightarrow S = 60\\ \\Omega$.",
+      "exam": "NEET CBT Physics Circuit Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Current Electricity"
+    },
     {
       "question": "The length of a wire of a potentiometer is 100 cm , and the emf of its primary cell is E volt . It is employed to measure the emf of a battery whose internal resistance is 0 . 5 \u03a9 . If the balance point is obtained at l = 30 cm from the positive end, the emf of the battery is",
       "options": {

@@ -1,8 +1,24 @@
 {
   "subject": "Biology",
   "chapter": "Cell Cycle and Cell Division",
-  "total_questions": 134,
+  "total_questions": 135,
   "questions": [
+    {
+      "question": "Examine the cell division stage diagram shown below. During which phase of mitosis do all chromosomes align along the equatorial metaphase plate and attach to spindle fibers via kinetochores?",
+      "image_path": "dataset2/images/bio_metaphase_stage.png",
+      "options": {
+        "A": "Metaphase",
+        "B": "Prophase",
+        "C": "Anaphase",
+        "D": "Telophase"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**NCERT Cytology:** In Metaphase, chromosomes reach maximum condensation and align at the cell's equatorial plane (metaphase plate). Spindle fibers from opposite poles attach to kinetochores on sister chromatids.",
+      "exam": "NEET CBT Cell Division Stage Diagram PYQ",
+      "year": 2024,
+      "subject": "Biology",
+      "chapter": "Cell Cycle and Cell Division"
+    },
     {
       "question": "[NEET 2020 | Biology]\n\nSynapsis of homologous chromosomes occurs during:",
       "options": {

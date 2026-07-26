@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Aldehydes, Ketones and Carboxylic Acids",
-  "total_questions": 55,
+  "total_questions": 56,
   "questions": [
+    {
+      "question": "Examine the organic reaction scheme below. What essential structural feature must an aldehyde or ketone possess to undergo self-Aldol condensation in dilute alkali?",
+      "image_path": "dataset2/images/chem_aldol_condensation.png",
+      "options": {
+        "A": "At least one \u03b1-hydrogen atom",
+        "B": "No \u03b1-hydrogen atoms",
+        "C": "A halogen substituent on benzene ring",
+        "D": "A terminal triple bond"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Organic Chemistry:** Aldol condensation requires aldehydes or ketones containing at least one $\\alpha$-hydrogen atom. Dilute alkali depolymerizes the $\\alpha$-hydrogen to form an enolate ion nucleophile.",
+      "exam": "NEET CBT Organic Chemistry Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+    },
     {
       "question": "Explain 'Aldol Condensation; Cannizzaro Reaction' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
       "options": {

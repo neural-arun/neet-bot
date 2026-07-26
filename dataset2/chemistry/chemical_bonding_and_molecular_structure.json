@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Chemical Bonding and Molecular Structure",
-  "total_questions": 148,
+  "total_questions": 149,
   "questions": [
+    {
+      "question": "Examine the Molecular Orbital (MO) energy level sequence for the N\u2082 molecule (14 electrons) below. What is the calculated Bond Order for N\u2082?",
+      "image_path": "dataset2/images/chem_mo_diagram.png",
+      "options": {
+        "A": "3.0",
+        "B": "2.5",
+        "C": "2.0",
+        "D": "1.0"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**MOT Theory:** Bond Order $= \\frac{1}{2} (N_b - N_a) = \\frac{1}{2} (10 - 4) = 3.0$. A bond order of 3 reflects the stable triple bond ($N \\equiv N$).",
+      "exam": "NEET CBT Chemical Bonding MO Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Chemical Bonding and Molecular Structure"
+    },
     {
       "question": "[NEET 2019 | Chemistry]\n\nWhich of the following molecules is paramagnetic?",
       "options": {

@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Motion in a Plane",
-  "total_questions": 67,
+  "total_questions": 68,
   "questions": [
+    {
+      "question": "Refer to the parabolic trajectory of a projectile launched with velocity u at angle \u03b8. At the highest point of its flight (H_max), what are the vertical and horizontal velocity components?",
+      "image_path": "dataset2/images/phys_projectile_motion.png",
+      "options": {
+        "A": "Vertical velocity v_y = 0; Horizontal velocity v_x = u cos \u03b8",
+        "B": "Both vertical and horizontal velocities are zero",
+        "C": "Vertical velocity v_y = u sin \u03b8; Horizontal velocity v_x = 0",
+        "D": "Both components equal u sin \u03b8"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Mechanics:** Throughout projectile flight, horizontal acceleration is zero, so $v_x = u \\cos \\theta$ remains constant. At peak height $H_{max}$, vertical velocity $v_y = 0$.",
+      "exam": "NEET CBT Kinematics Trajectory PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Motion in a Plane"
+    },
     {
       "question": "Explain 'Motion in a plane' from Physics (Class 11, Chapter 4: Motion in a Plane) in detail for NEET preparation.\n\nCover:",
       "options": {

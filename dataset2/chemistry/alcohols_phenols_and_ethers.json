@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Alcohols, Phenols and Ethers",
-  "total_questions": 105,
+  "total_questions": 106,
   "questions": [
+    {
+      "question": "Refer to the Grignard addition reaction scheme shown below. What class of alcohol is produced when Formaldehyde (HCHO) reacts with Methylmagnesium bromide followed by acid hydrolysis?",
+      "image_path": "dataset2/images/chem_grignard_addition.png",
+      "options": {
+        "A": "Primary Alcohol (1\u00b0 Alcohol)",
+        "B": "Secondary Alcohol (2\u00b0 Alcohol)",
+        "C": "Tertiary Alcohol (3\u00b0 Alcohol)",
+        "D": "Phenol derivative"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Reaction:** Formaldehyde ($HCHO$) reacts with Grignard reagents ($RMgX$) followed by hydrolysis to yield Primary alcohols ($1^\\circ$ alcohol). Other aldehydes yield $2^\\circ$ alcohols, and ketones yield $3^\\circ$ alcohols.",
+      "exam": "NEET CBT Alcohols Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Alcohols, Phenols and Ethers"
+    },
     {
       "question": "Read the following statements and choose the set of correct statements: (A) Chrome steel is used for cutting tools and crushing machines. (B) The fine dust of aluminium is used in paints and lacquers. (C) Copper is used for reduction of alcohol. (D) Zinc dust is used as a reducing agent in the manufacture of paints. (E) Iron is used for galvanising zinc. Choose the most appropriate answer from the options given below:",
       "options": {

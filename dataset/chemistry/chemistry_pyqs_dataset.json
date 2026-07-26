@@ -1,7 +1,7 @@
 {
   "subject": "Chemistry",
   "total_chapters": 18,
-  "total_questions": 4397,
+  "total_questions": 4400,
   "source_breakdown": {
     "NEET": 2588,
     "JEE_Mains": 1972
@@ -21749,6 +21749,22 @@
       }
     ],
     "Chemical Bonding and Molecular Structure": [
+      {
+        "question": "Examine the Molecular Orbital (MO) energy level sequence for the N\u2082 molecule (14 electrons) below. What is the calculated Bond Order for N\u2082?",
+        "image_path": "dataset2/images/chem_mo_diagram.png",
+        "options": {
+          "A": "3.0",
+          "B": "2.5",
+          "C": "2.0",
+          "D": "1.0"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**MOT Theory:** Bond Order $= \\frac{1}{2} (N_b - N_a) = \\frac{1}{2} (10 - 4) = 3.0$. A bond order of 3 reflects the stable triple bond ($N \\equiv N$).",
+        "exam": "NEET CBT Chemical Bonding MO Diagram PYQ",
+        "year": 2024,
+        "subject": "Chemistry",
+        "chapter": "Chemical Bonding and Molecular Structure"
+      },
       {
         "question": "[NEET 2019 | Chemistry]\n\nWhich of the following molecules is paramagnetic?",
         "options": {
@@ -58902,6 +58918,22 @@
     ],
     "Alcohols, Phenols and Ethers": [
       {
+        "question": "Refer to the Grignard addition reaction scheme shown below. What class of alcohol is produced when Formaldehyde (HCHO) reacts with Methylmagnesium bromide followed by acid hydrolysis?",
+        "image_path": "dataset2/images/chem_grignard_addition.png",
+        "options": {
+          "A": "Primary Alcohol (1\u00b0 Alcohol)",
+          "B": "Secondary Alcohol (2\u00b0 Alcohol)",
+          "C": "Tertiary Alcohol (3\u00b0 Alcohol)",
+          "D": "Phenol derivative"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Reaction:** Formaldehyde ($HCHO$) reacts with Grignard reagents ($RMgX$) followed by hydrolysis to yield Primary alcohols ($1^\\circ$ alcohol). Other aldehydes yield $2^\\circ$ alcohols, and ketones yield $3^\\circ$ alcohols.",
+        "exam": "NEET CBT Alcohols Diagram PYQ",
+        "year": 2024,
+        "subject": "Chemistry",
+        "chapter": "Alcohols, Phenols and Ethers"
+      },
+      {
         "question": "Read the following statements and choose the set of correct statements: (A) Chrome steel is used for cutting tools and crushing machines. (B) The fine dust of aluminium is used in paints and lacquers. (C) Copper is used for reduction of alcohol. (D) Zinc dust is used as a reducing agent in the manufacture of paints. (E) Iron is used for galvanising zinc. Choose the most appropriate answer from the options given below:",
         "options": {
           "A": "A $(",
@@ -60478,6 +60510,22 @@
       }
     ],
     "Aldehydes, Ketones and Carboxylic Acids": [
+      {
+        "question": "Examine the organic reaction scheme below. What essential structural feature must an aldehyde or ketone possess to undergo self-Aldol condensation in dilute alkali?",
+        "image_path": "dataset2/images/chem_aldol_condensation.png",
+        "options": {
+          "A": "At least one \u03b1-hydrogen atom",
+          "B": "No \u03b1-hydrogen atoms",
+          "C": "A halogen substituent on benzene ring",
+          "D": "A terminal triple bond"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Organic Chemistry:** Aldol condensation requires aldehydes or ketones containing at least one $\\alpha$-hydrogen atom. Dilute alkali depolymerizes the $\\alpha$-hydrogen to form an enolate ion nucleophile.",
+        "exam": "NEET CBT Organic Chemistry Diagram PYQ",
+        "year": 2024,
+        "subject": "Chemistry",
+        "chapter": "Aldehydes, Ketones and Carboxylic Acids"
+      },
       {
         "question": "Explain 'Aldol Condensation; Cannizzaro Reaction' from Chemistry (Class 12, Chapter 12: Aldehydes, Ketones and Carboxylic Acids) in detail for NEET preparation.\n\nCover:",
         "options": {

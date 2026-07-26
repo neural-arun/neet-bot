@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Dual Nature of Radiation and Matter",
-  "total_questions": 231,
+  "total_questions": 232,
   "questions": [
+    {
+      "question": "Refer to the Photoelectric Current vs Collector Voltage graph below. Why does the stopping potential V\u2080 remain identical for both radiation intensities I\u2081 and I\u2082?",
+      "image_path": "dataset2/images/phys_photoelectric_graph.png",
+      "options": {
+        "A": "Stopping potential depends solely on light frequency (\u03bd), not on light intensity",
+        "B": "Stopping potential depends only on intensity, not frequency",
+        "C": "Current becomes zero at maximum voltage",
+        "D": "Electrons are emitted with zero kinetic energy"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Modern Physics:** Einstein's photoelectric equation states $e V_0 = h\\nu - \\Phi$. Stopping potential $V_0$ depends strictly on the frequency $\\nu$ of incident light and work function $\\Phi$, independent of light intensity.",
+      "exam": "NEET CBT Modern Physics Graph PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Dual Nature of Radiation and Matter"
+    },
     {
       "question": "Ultraviolet radiation of 6.2 eV falls on an aluminium surface (work function 4.2 eV). The kinetic energy of the faster electron emitted is approximately",
       "options": {

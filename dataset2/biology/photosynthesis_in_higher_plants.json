@@ -1,8 +1,24 @@
 {
   "subject": "Biology",
   "chapter": "Photosynthesis in Higher Plants",
-  "total_questions": 105,
+  "total_questions": 106,
   "questions": [
+    {
+      "question": "Refer to the chloroplast ultrastructure diagram below. Where do the Light-dependent reactions (photophosphorylation) and Dark reactions (Calvin cycle) take place, respectively?",
+      "image_path": "dataset2/images/bio_chloroplast_structure.png",
+      "options": {
+        "A": "Light Reactions in Thylakoid Membrane/Grana; Dark Reactions in Stroma",
+        "B": "Light Reactions in Stroma; Dark Reactions in Thylakoid Membrane",
+        "C": "Both Light and Dark Reactions occur exclusively in Outer Membrane",
+        "D": "Both Reactions occur inside the Nucleolus"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**NCERT Botany:** Light-dependent reactions (ATP & NADPH synthesis) occur in the thylakoid membranes of grana where photosystems I and II reside. Light-independent Dark reactions (Calvin $C_3$ cycle) occur in the stroma fluid matrix containing RuBisCO.",
+      "exam": "NEET CBT Photosynthesis Diagram PYQ",
+      "year": 2024,
+      "subject": "Biology",
+      "chapter": "Photosynthesis in Higher Plants"
+    },
     {
       "question": "What is the concentration of CO\u2082 in the atmosphere?",
       "options": {
