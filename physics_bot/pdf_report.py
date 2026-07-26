@@ -134,6 +134,15 @@ def _build_question_table(i, q, user_ans, correct_letter, opts, styles):
 
         rows.append([Paragraph(line, ostyle), Paragraph('', badg_style)])
 
+    img_p = q.get('image_path') or q.get('image_url')
+    if img_p and os.path.exists(img_p):
+        try:
+            from reportlab.platypus import Image
+            img_flow = Image(img_p, width=120*mm, height=65*mm)
+            rows.append([img_flow, Paragraph('', badg_style)])
+        except Exception:
+            pass
+
     score_row = [
         Paragraph(f"<b>Score:</b>  {q_score}", score_style),
         Paragraph('', badg_style),

@@ -1,8 +1,24 @@
 {
   "subject": "Chemistry",
   "chapter": "Organic Chemistry: Basic Principles",
-  "total_questions": 77,
+  "total_questions": 78,
   "questions": [
+    {
+      "question": "Examine the electrophilic substitution reaction scheme shown below. What is the active electrophile involved in converting Benzene into Nitrobenzene using a mixture of Conc. HNO\u2083 and Conc. H\u2082SO\u2084?",
+      "image_path": "dataset2/images/benzene_nitration.png",
+      "options": {
+        "A": "Nitronium ion (NO\u2082\u207a)",
+        "B": "Nitrite ion (NO\u2082\u207b)",
+        "C": "Nitrosyl cation (NO\u207a)",
+        "D": "Hydronium ion (H\u2083O\u207a)"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Mechanism:** In nitration of benzene, sulfuric acid acts as a proton donor to nitric acid, generating the powerful nitronium electrophile: $HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-$. The nitronium ion $NO_2^+$ attacks the aromatic benzene ring.",
+      "exam": "NEET Organic Chemistry Diagram PYQ",
+      "year": 2024,
+      "subject": "Chemistry",
+      "chapter": "Organic Chemistry: Basic Principles"
+    },
     {
       "question": "Base strength of (1) $\\mathrm{CH}_3 \\stackrel{\\ominus}{\\mathrm{CH}_2}$ (2) $\\mathrm{H}_2 \\mathrm{C}=\\stackrel{\\ominus}{\\mathrm{C} \\mathrm{H}}$ and (3) $\\mathrm{H}-\\mathrm{C} \\equiv \\stackrel{\\ominus}{\\mathrm{C}}$ is in the order of",
       "options": {

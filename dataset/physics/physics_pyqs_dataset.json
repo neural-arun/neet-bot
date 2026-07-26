@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "total_chapters": 20,
-  "total_questions": 4524,
+  "total_questions": 4526,
   "source_breakdown": {
     "NEET": 2253,
     "JEE_Mains": 2271
@@ -11949,6 +11949,22 @@
       }
     ],
     "Thermal Properties and Thermodynamics": [
+      {
+        "question": "Refer to the given P-V indicator diagram below. Identify which process represents Isothermal Expansion and which represents Adiabatic Expansion:",
+        "image_path": "dataset2/images/pv_diagram.png",
+        "options": {
+          "A": "Process A is Isothermal Expansion; Process B is Adiabatic Expansion",
+          "B": "Process A is Adiabatic Expansion; Process B is Isothermal Expansion",
+          "C": "Both Process A and Process B are Isochoric Processes",
+          "D": "Process A is Isobaric Expansion; Process B is Isothermal Expansion"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** The slope of an adiabatic curve on a P-V diagram is $\\gamma$ times steeper than the slope of an isothermal curve ($dP/dV_{ad} = \\gamma dP/dV_{iso}$). Therefore, curve A with the gentler slope is Isothermal Expansion, while curve B with the steeper slope is Adiabatic Expansion.",
+        "exam": "NEET High-Yield Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Thermal Properties and Thermodynamics"
+      },
       {
         "question": "Steam at 100 \u00b0 C is passed into 1.1     kg of water contained in a calorimeter of water equivalent 0.02     kg at 15 \u00b0 C , till the temperature of the calorimeter and its contents rises to 80  \u00b0 C . The mass of steam condensed (in kg ) is ( Take latent heat of steam = 540 c a l g - 1 ) :",
         "options": {
@@ -51925,6 +51941,22 @@
       }
     ],
     "Ray Optics and Wave Optics": [
+      {
+        "question": "Refer to the ray optics diagram of a light ray passing through a triangular glass prism. What happens to the angle of deviation (\u03b4) as the angle of incidence (i) is gradually increased from a small value?",
+        "image_path": "dataset2/images/ray_optics_prism.png",
+        "options": {
+          "A": "First decreases to a minimum value (\u03b4_min) and then increases",
+          "B": "Continuously increases linearly without bound",
+          "C": "Continuously decreases to zero",
+          "D": "Remains strictly constant regardless of the angle of incidence"
+        },
+        "answer": "A",
+        "solution": "**Correct Answer: (A)**\n\n**Explanation:** For a triangular glass prism, as the angle of incidence $i$ increases, the angle of deviation $\\delta$ first decreases, reaches a unique minimum value $\\delta_{min}$ (where $i = e$ and the ray inside the prism travels parallel to the base), and then increases as $i$ increases further.",
+        "exam": "NEET High-Yield Optics Diagram PYQ",
+        "year": 2024,
+        "subject": "Physics",
+        "chapter": "Ray Optics and Wave Optics"
+      },
       {
         "question": "Which of the following options correctly represents the location of the image when a 4.5 cm needle is placed 12 cm away from a convex mirror with a focal length of 15 cm?",
         "options": {

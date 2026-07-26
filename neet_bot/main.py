@@ -37,6 +37,9 @@ class WebServerHandler(BaseHTTPRequestHandler):
             self._serve_file(os.path.join(WEB_DIR, 'app.js'), 'application/javascript; charset=utf-8')
         elif path == '/logo.png':
             self._serve_file(os.path.join(WEB_DIR, 'logo.png'), 'image/png')
+        elif path.startswith('/dataset2/images/') or path.startswith('/dataset/images/'):
+            full_p = os.path.join(os.path.dirname(os.path.dirname(__file__)), path.lstrip('/'))
+            self._serve_file(full_p, 'image/png')
         elif path == '/api/chapters':
             subject = params.get('subject', ['biology'])[0]
             chapters = qs.get_chapter_list(subject)

@@ -1,8 +1,24 @@
 {
   "subject": "Physics",
   "chapter": "Ray Optics and Wave Optics",
-  "total_questions": 331,
+  "total_questions": 332,
   "questions": [
+    {
+      "question": "Refer to the ray optics diagram of a light ray passing through a triangular glass prism. What happens to the angle of deviation (\u03b4) as the angle of incidence (i) is gradually increased from a small value?",
+      "image_path": "dataset2/images/ray_optics_prism.png",
+      "options": {
+        "A": "First decreases to a minimum value (\u03b4_min) and then increases",
+        "B": "Continuously increases linearly without bound",
+        "C": "Continuously decreases to zero",
+        "D": "Remains strictly constant regardless of the angle of incidence"
+      },
+      "answer": "A",
+      "solution": "**Correct Answer: (A)**\n\n**Explanation:** For a triangular glass prism, as the angle of incidence $i$ increases, the angle of deviation $\\delta$ first decreases, reaches a unique minimum value $\\delta_{min}$ (where $i = e$ and the ray inside the prism travels parallel to the base), and then increases as $i$ increases further.",
+      "exam": "NEET High-Yield Optics Diagram PYQ",
+      "year": 2024,
+      "subject": "Physics",
+      "chapter": "Ray Optics and Wave Optics"
+    },
     {
       "question": "Which of the following options correctly represents the location of the image when a 4.5 cm needle is placed 12 cm away from a convex mirror with a focal length of 15 cm?",
       "options": {
