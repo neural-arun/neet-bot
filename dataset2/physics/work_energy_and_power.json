@@ -1,7 +1,7 @@
 {
   "subject": "Physics",
   "chapter": "Work, Energy, and Power",
-  "total_questions": 68,
+  "total_questions": 51,
   "questions": [
     {
       "question": "What is the power used by the human heart if it beats 72 times in a minute, assuming the average work done by the heart per beat is 0.5 J?",
@@ -12,14 +12,14 @@
         "D": "5 watts"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (D) 0.6 watts\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 0.6 watts **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "[NEET 2022 | Physics]\n\nBody 0.5 kg with v = 5*x^(3/2) m/s. Work done from x=0 to x=2m:",
+      "question": "[NEET 2022 | Physics] Body 0.5 kg with v = 5*x^(3/2) m/s. Work done from x=0 to x=2m:",
       "options": {
         "A": "15 J",
         "B": "50 J",
@@ -27,24 +27,9 @@
         "D": "100 J"
       },
       "answer": "B",
-      "solution": "# Solution: Work Done by Variable Force\n\n## **Correct Answer: (B) 50 J**\n\n---\n\n## Step-by-Step Solution\n\n### **Given Information:**\n- Mass: m = 0.5 kg\n- Velocity: v = 5x^(3/2) m/s\n- Displacement: x = 0 to x = 2m\n\n### **Strategy: Use Work-Energy Theorem**\n\nThe most efficient approach is:\n$$W = \\Delta KE = \\frac{1}{2}m(v_f^2 - v_i^2)$$\n\n### **Step 1: Find initial velocity (at x = 0)**\n$$v_0 = 5(0)^{3/2} = 0 \\text{ m/s}$$\n\n### **Step 2: Find final velocity (at x = 2m)**\n$$v_2 = 5(2)^{3/2} = 5 \\times 2\\sqrt{2} = 10\\sqrt{2} \\text{ m/s}$$\n\n### **Step 3: Calculate v\u2082\u00b2**\n$$v_2^2 = (10\\sqrt{2})^2 = 100 \\times 2 = 200 \\text{ m}^2/\\text{s}^2$$\n\n### **Step 4: Apply Work-Energy Theorem**\n$$W = \\frac{1}{2} \\times 0.5 \\times (200 - 0)$$\n$$W = 0.25 \\times 200$$\n$$W = 50 \\text{ J}$$\n\n---\n\n## Key Concept to Remember\n\n**Work-Energy Theorem:** When dealing with variable forces where you know the velocity-position relationship, always use:\n$$W = \\Delta KE = \\frac{1}{2}m(v_f^2 - v_i^2)$$\n\nThis avoids the complexity of finding the force function F(x) and integrating.\n\n---\n\n## Why Other Options Are Wrong\n- **(A) 15 J**: Incorrect calculation of velocities\n- **(C) 10 J**: Underestimation of final kinetic energy\n- **(D) 100 J**: Would require double the mass or different velocity relation",
+      "solution": "# Solution: Work Done by Variable Force ## **Correct Answer: (B) 50 J** --- ## Step-by-Step Solution ### **Given Information:** - Mass: m = 0.5 kg - Velocity: v = 5x^(3/2) m/s - Displacement: x = 0 to x = 2m ### **Strategy: Use Work-Energy Theorem** The most efficient approach is: $$W = \\Delta KE = \\frac12m(v_f^2 - v_i^2)$$ ### **Step 1: Find initial velocity (at x = 0)** $$v_0 = 5(0)^3/2 = 0 \\text m/s$$ ### **Step 2: Find final velocity (at x = 2m)** $$v_2 = 5(2)^3/2 = 5 \\times 2\\sqrt2 = 10\\sqrt2 \\text m/s$$ ### **Step 3: Calculate v\u2082\u00b2** $$v_2^2 = (10\\sqrt2)^2 = 100 \\times 2 = 200 \\text m^2/\\texts^2$$ ### **Step 4: Apply Work-Energy Theorem** $$W = \\frac12 \\times 0.5 \\times (200 - 0)$$ $$W = 0.25 \\times 200$$ $$W = 50 \\text J$$ --- ## Key Concept to Remember **Work-Energy Theorem:** When dealing with variable forces where you know the velocity-position relationship, always use: $$W = \\Delta KE = \\frac12m(v_f^2 - v_i^2)$$ This avoids the complexity of finding the force function F(x) and integrating. --- ## Why Other Options Are Wrong - **(A) 15 J**: Incorrect calculation of velocities - **(C) 10 J**: Underestimation of final kinetic energy - **(D) 100 J**: Would require double the mass or different velocity relation",
       "exam": "NEET 2022",
       "year": 2022,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Explain 'Conservation of mechanical energy' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# \u26a1 Conservation of Mechanical Energy\n### Class 11 | Chapter 6: Work, Energy and Power | NEET Physics\n\n---\n\n## 1. \ud83e\udde0 Core Concept & Definition\n\n**Mechanical Energy** is the sum of two types of energy a body can possess:\n\n$$\\boxed{E_{mechanical} = KE + PE}$$\n\n> **The Law states:**\n> *\"In the absence of non-conservative forces (like friction, air resistance), the total mechanical energy of a system remains constant.\"*\n\n$$KE_i + PE_i = KE_f + PE_f$$\n\n### \ud83d\udd11 Key Distinction:\n| Conservative Forces | Non-Conservative Forces |\n|---|---|\n| Gravity, Spring force | Friction, Air drag, Viscosity |\n| Energy is **conserved** | Energy is **lost** as heat |\n| Path **independent** | Path **dependent** |\n\n> \u26a0\ufe0f **Critical point for NEET:** This law ONLY holds when work done by non-conservative forces = **ZERO**\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas\n\n### Formula 1 \u2014 General Form:\n$$KE_1 + PE_1 = KE_2 + PE_2$$\n\n$$\\frac{1}{2}mv_1^2 + mgh_1 = \\frac{1}{2}mv_2^2 + mgh_2$$\n\n### Formula 2 \u2014 Free Fall (object falling height h):\n$$v = \\sqrt{2gh}$$\n*(derived directly from energy conservation)*\n\n### Formula 3 \u2014 Spring System:\n$$\\frac{1}{2}mv^2 + \\frac{1}{2}kx^2 = \\text{constant}$$\n\nAt maximum compression/extension \u2192 **v = 0**, so ALL energy is stored as spring PE\n\n### Formula 4 \u2014 When friction is present (modified):\n$$KE_i + PE_i = KE_f + PE_f + W_{friction}$$\n\nwhere $W_{friction}$ = energy **lost** to heat\n\n---\n\n## 3. \ud83c\udfaf Common NEET Question Patterns\n\n### Pattern 1: **Free Fall / Projectile**\n> *\"A ball is dropped from height H. Find its speed at height h.\"*\n\n$$\\frac{1}{2}mv^2 = mg(H - h)$$\n$$v = \\sqrt{2g(H-h)}$$\n\n---\n\n### Pattern 2: **Simple Pendulum**\n> *\"A pendulum of length L is released from angle \u03b8. Find speed at lowest point.\"*\n\nHeight gained = $h = L(1 - \\cos\\theta)$\n\n$$\\frac{1}{2}mv^2 = mgh = mgL(1-\\cos\\theta)$$\n$$\\boxed{v = \\sqrt{2gL(1-\\cos\\theta)}}$$\n\n---\n\n### Pattern 3: **Spring-Mass System**\n> *\"A spring of constant k is compressed by x. A mass m is released. Find its maximum speed.\"*\n\n$$\\frac{1}{2}kx^2 = \\frac{1}{2}mv_{max}^2$$\n$$v_{max} = x\\sqrt{\\frac{k}{m}}$$\n\n---\n\n### Pattern 4: **Ratio/Percentage Questions**\n> *\"At what height is KE equal to PE?\" or \"At what point is KE = 2PE?\"*\n\nIf KE = PE at height h (object dropped from H):\n$$mg(H-h) = mgh \\Rightarrow H - h = h \\Rightarrow h = \\frac{H}{2}$$\n\n---\n\n### Pattern 5: **With Friction (energy lost)**\n> *\"A block slides down a rough incline...\"*\n$$\\text{Loss in PE} = \\text{Gain in KE} + \\text{Heat generated}$$\n\n---\n\n## 4. \ud83d\udca1 Memory Tip & Analogy\n\n### \ud83c\udfa2 The Roller Coaster Analogy:\nImagine a roller coaster with **no friction:**\n- At the **top** \u2192 Maximum PE, Minimum KE (speed = 0 if starting from rest)\n- At the **bottom** \u2192 Minimum PE, Maximum KE (fastest speed)\n- At any **intermediate point** \u2192 Some PE converts to KE\n\n> **Think of it as a \"energy bank account\":**\n> You can withdraw from PE and deposit into KE, or vice versa \u2014 but the **total balance never changes!**\n\n### \ud83e\udde0 Mnemonic:\n**\"KPKP stays same in CP\"**\n\u2192 **K**inetic + **P**otential stays same in **C**onservative **P**rocess\n\n---\n\n## 5. \ud83d\udcdd Example Problem (NEET Style)\n\n### Question:\nA ball of mass **2 kg** is thrown vertically upward with a speed of **20 m/s**. What is its kinetic energy when it has risen to a height of **10 m**? (Take g = 10 m/s\u00b2)\n\n**(A) 100 J   (B) 200 J   (C) 300 J   (D) 400 J**\n\n---\n\n### \u2705 Solution:\n\n**Given:**\n- m = 2 kg, u = 20 m/s, h = 10 m, g = 10 m/s\u00b2\n\n**Step 1:** Calculate initial KE at ground:\n$$KE_i = \\frac{1}{2}mu^2 = \\frac{1}{2}(2)(20)^2 = 400 \\text{ J}$$\n\n**Step 2:** Calculate PE gained at h = 10 m:\n$$PE = mgh = (2)(10)(10) = 200 \\text{ J}$$\n\n**Step 3:** Apply Conservation of Energy:\n$$KE_i + PE_i = KE_f + PE_f$$\n$$400 + 0 = KE_f + 200$$\n$$\\boxed{KE_f = 200 \\text{ J}}$$\n\n**Answer: (B) 200 J** \u2713\n\n> **Alternatively:** Use $KE_f = \\frac{1}{2}mv^2$ where $v^2 = u^2 - 2gh = 400 - 200 = 200$\n> \u2192 $KE_f = \\frac{1}{2}(2)(200) = 200$ J \u2713 *(Same answer, cross-verified!)*\n\n---\n\n## \ud83d\udccc Quick Revision Box\n\n| Situation | Formula to Use |\n|---|---|\n| Free fall from H | $v = \\sqrt{2gH}$ |\n| Pendulum from angle \u03b8 | $v = \\sqrt{2gL(1-\\cos\\theta)}$ |\n| Spring releases mass | $v = x\\sqrt{k/m}$ |\n| With friction | Loss in ME = Heat generated |\n| KE = PE at height h | $h = H/2$ |\n\n> \ud83d\udd34 **NEET Alert:** Questions often test whether students confuse *mechanical energy conservation* (no friction) vs. *energy conservation* (always true). **Total energy is ALWAYS conserved; mechanical energy is conserved ONLY without non-conservative forces.**\n\n---\n\n*Master this concept and you can solve 3-4 NEET questions per year on Work, Energy & Power! \ud83c\udfaf*",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
@@ -57,7 +42,7 @@
         "D": "8 horsepower"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 44000watts, 59 horsepower\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 44000watts, 59 horsepower **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -72,7 +57,7 @@
         "D": "6 m/s"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) 63.2 m/s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 63.2 m/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -87,7 +72,7 @@
         "D": "55 D"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) 13.54\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) 13.54 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -102,14 +87,14 @@
         "D": "40"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nInitial velocity before colliding floor u = 2 g h u = 5 final velocity after colliding floor v = 2 g h \u2032 v= 0.8 We know that coefficient of restitution e = v u e = 0 . 8 5 = 0.4\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Initial velocity before colliding floor u = 2 g h u = 5 final velocity after colliding floor v = 2 g h \u2032 v= 0.8 We know that coefficient of restitution e = v u e = 0 . 8 5 = 0.4 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "[NEET 2016 | Physics]\n\nA body of mass 1 kg is thrown upwards with velocity 20 m/s. It comes to rest after 18 m. Energy lost due to air friction (g=10):",
+      "question": "[NEET 2016 | Physics] A body of mass 1 kg is thrown upwards with velocity 20 m/s. It comes to rest after 18 m. Energy lost due to air friction (g=10):",
       "options": {
         "A": "20 J",
         "B": "30 J",
@@ -117,29 +102,14 @@
         "D": "10 J"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) 20 J**\n\n## Step-by-Step Solution\n\n**Given Information:**\n- Mass = 1 kg\n- Initial velocity = 20 m/s (upward)\n- Height reached = 18 m\n- g = 10 m/s\u00b2\n\n**Step 1: Calculate Initial Kinetic Energy**\n$$KE_i = \\frac{1}{2}mu^2 = \\frac{1}{2}(1)(20)^2 = 200 \\text{ J}$$\n\n**Step 2: Calculate Final Potential Energy**\nWhen the body comes to rest at height h = 18 m:\n$$PE_f = mgh = (1)(10)(18) = 180 \\text{ J}$$\n\n**Step 3: Apply Energy Conservation with Friction**\n$$\\text{Initial KE} = \\text{Final PE} + \\text{Energy lost to friction}$$\n$$200 = 180 + E_{\\text{friction}}$$\n$$E_{\\text{friction}} = 20 \\text{ J}$$\n\n## Key Concept\n\nWithout air friction, a body thrown upward with 20 m/s would reach:\n$$h = \\frac{u^2}{2g} = \\frac{400}{20} = 20 \\text{ m}$$\n\nBut it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated.\n\n## Why Other Options Are Wrong\n- **(B) 30 J**: Would give h = 17 m\n- **(C) 40 J**: Would give h = 16 m  \n- **(D) 10 J**: Would give h = 18.5 m\n\n**Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
+      "solution": "# Answer: **(A) 20 J** ## Step-by-Step Solution **Given Information:** - Mass = 1 kg - Initial velocity = 20 m/s (upward) - Height reached = 18 m - g = 10 m/s\u00b2 **Step 1: Calculate Initial Kinetic Energy** $$KE_i = \\frac12mu^2 = \\frac12(1)(20)^2 = 200 \\text J$$ **Step 2: Calculate Final Potential Energy** When the body comes to rest at height h = 18 m: $$PE_f = mgh = (1)(10)(18) = 180 \\text J$$ **Step 3: Apply Energy Conservation with Friction** $$\\textInitial KE = \\textFinal PE + \\textEnergy lost to friction$$ $$200 = 180 + E_\\textfriction$$ $$E_\\textfriction = 20 \\text J$$ ## Key Concept Without air friction, a body thrown upward with 20 m/s would reach: $$h = \\fracu^22g = \\frac40020 = 20 \\text m$$ But it only reaches 18 m, meaning 2 m of potential height is \"lost\" to friction. This corresponds to the 20 J of energy dissipated. ## Why Other Options Are Wrong - **(B) 30 J**: Would give h = 17 m - **(C) 40 J**: Would give h = 16 m - **(D) 10 J**: Would give h = 18.5 m **Remember:** Energy lost = Initial KE - Final PE (when final KE = 0)",
       "exam": "NEET 2016",
       "year": 2016,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "What is the power used by the human heart if it beats 72 times in a minute, assuming the average work done by the heart per beat is 0.5 J?",
-      "options": {
-        "A": "A",
-        "B": "3 watts",
-        "C": "4 watts",
-        "D": "5 watts"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (D) 0.6 watts\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "[NEET 2019 | Physics]\n\nIf the momentum of a body is increased by 50%, its kinetic energy will increase by:",
+      "question": "[NEET 2019 | Physics] If the momentum of a body is increased by 50%, its kinetic energy will increase by:",
       "options": {
         "A": "125%",
         "B": "100%",
@@ -147,194 +117,29 @@
         "D": "150%"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) 125%**\n\n## Step-by-Step Solution:\n\n**Step 1: Recall the relationship between KE and momentum**\n$$\\text{KE} = \\frac{p^2}{2m}$$\n\nThis shows that kinetic energy is **directly proportional to the square of momentum**.\n\n**Step 2: Apply the 50% increase to momentum**\n- Initial momentum: p\n- Final momentum: p' = 1.5p (50% increase means multiplying by 1.5)\n\n**Step 3: Calculate the new kinetic energy**\n$$\\text{KE}_{\\text{final}} = \\frac{(1.5p)^2}{2m} = \\frac{2.25p^2}{2m}$$\n\n$$\\text{KE}_{\\text{final}} = 2.25 \u00d7 \\text{KE}_{\\text{initial}}$$\n\n**Step 4: Find percentage increase**\n$$\\text{Percentage increase} = \\frac{\\text{KE}_{\\text{final}} - \\text{KE}_{\\text{initial}}}{\\text{KE}_{\\text{initial}}} \u00d7 100\\%$$\n\n$$= \\frac{2.25 - 1}{1} \u00d7 100\\% = 1.25 \u00d7 100\\% = \\boxed{125\\%}$$\n\n## Key Concept:\nSince KE \u221d p\u00b2, if momentum increases by a factor of **k**, kinetic energy increases by a factor of **k\u00b2**.\n\n| Change in p | Factor | Change in KE | Factor |\n|---|---|---|---|\n| \u00d71.5 | 1.5\u00b2 | = \u00d72.25 | **125% increase** |\n\n## Why other options are wrong:\n- **(B) 100%**: This would happen if KE \u221d p directly (incorrect relationship)\n- **(C) 225%**: This confuses 2.25 times with percentage directly\n- **(D) 150%**: This equals 1.5 \u00d7 100%, again treating it linearly",
+      "solution": "# Answer: **(A) 125%** ## Step-by-Step Solution: **Step 1: Recall the relationship between KE and momentum** $$\\textKE = \\fracp^22m$$ This shows that kinetic energy is **directly proportional to the square of momentum**. **Step 2: Apply the 50% increase to momentum** - Initial momentum: p - Final momentum: p' = 1.5p (50% increase means multiplying by 1.5) **Step 3: Calculate the new kinetic energy** $$\\textKE_\\textfinal = \\frac(1.5p)^22m = \\frac2.25p^22m$$ $$\\textKE_\\textfinal = 2.25 \u00d7 \\textKE_\\textinitial$$ **Step 4: Find percentage increase** $$\\textPercentage increase = \\frac\\textKE_\\textfinal - \\textKE_\\textinitial\\textKE_\\textinitial \u00d7 100\\%$$ $$= \\frac2.25 - 11 \u00d7 100\\% = 1.25 \u00d7 100\\% = \\boxed125\\%$$ ## Key Concept: Since KE \u221d p\u00b2, if momentum increases by a factor of **k**, kinetic energy increases by a factor of **k\u00b2**. | Change in p | Factor | Change in KE | Factor | |---|---|---|---| | \u00d71.5 | 1.5\u00b2 | = \u00d72.25 | **125% increase** | ## Why other options are wrong: - **(B) 100%**: This would happen if KE \u221d p directly (incorrect relationship) - **(C) 225%**: This confuses 2.25 times with percentage directly - **(D) 150%**: This equals 1.5 \u00d7 100%, again treating it linearly",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A 1.0 k g ball drops vertically into a floor from a height of 25 c m . It rebounds to a height of 4 c m . The coefficient of restitution for the collision is",
-      "options": {
-        "A": "A",
-        "B": "16",
-        "C": "32",
-        "D": "40"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nInitial velocity before colliding floor u = 2 g h u = 5 final velocity after colliding floor v = 2 g h \u2032 v= 0.8 We know that coefficient of restitution e = v u e = 0 . 8 5 = 0.4\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Explain 'Collisions \\u2014 elastic and inelastic collisions in one and two dimensions' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# \u26a1 Collisions \u2014 Elastic & Inelastic | Class 11, Chapter 6\n\n---\n\n## 1. \ud83d\udd37 CORE CONCEPT & DEFINITION\n\n### What is a Collision?\nA **collision** is a brief, forceful interaction between two bodies during which **large impulsive forces** act for a **very short time**, changing their momenta.\n\n> **Key Rule to Remember:**\n> **Momentum is ALWAYS conserved** in every collision (as long as no net external force acts).\n> **Kinetic Energy conservation depends on the TYPE of collision.**\n\n---\n\n### \ud83d\udcca Types of Collisions \u2014 At a Glance\n\n| Property | Elastic | Inelastic | Perfectly Inelastic |\n|---|---|---|---|\n| Momentum | \u2705 Conserved | \u2705 Conserved | \u2705 Conserved |\n| Kinetic Energy | \u2705 Conserved | \u274c NOT conserved | \u274c Maximum loss |\n| Coefficient of Restitution (e) | e = 1 | 0 < e < 1 | e = 0 |\n| Objects after collision | Separate | Separate | **Stick together** |\n| Real-life example | Billiard balls, atomic collisions | Car crash | Bullet embedding in block |\n\n---\n\n## 2. \ud83d\udcd0 KEY FORMULAS\n\n### \ud83d\udd39 A) Elastic Collision in 1D\n\nFor mass **m\u2081** (velocity **u\u2081**) hitting **m\u2082** (velocity **u\u2082**):\n\n$$\\boxed{v_1 = \\frac{m_1 - m_2}{m_1 + m_2}u_1 + \\frac{2m_2}{m_1 + m_2}u_2}$$\n\n$$\\boxed{v_2 = \\frac{2m_1}{m_1 + m_2}u_1 + \\frac{m_2 - m_1}{m_1 + m_2}u_2}$$\n\n**Also important:** In elastic collision \u2192 **relative velocity of approach = relative velocity of separation**\n$$u_1 - u_2 = v_2 - v_1$$\n\n---\n\n### \ud83d\udd39 B) Special Cases of Elastic Collision (NEET Favourites!)\n\n| Condition | Result |\n|---|---|\n| **m\u2081 = m\u2082** (equal masses, u\u2082 = 0) | v\u2081 = 0, v\u2082 = u\u2081 \u2192 **Velocities EXCHANGE** |\n| **m\u2081 >> m\u2082** (heavy hits light, u\u2082 = 0) | v\u2081 \u2248 u\u2081, v\u2082 \u2248 **2u\u2081** |\n| **m\u2081 << m\u2082** (light hits heavy wall, u\u2082 = 0) | v\u2081 \u2248 **\u2212u\u2081**, v\u2082 \u2248 0 (light bounces back) |\n\n---\n\n### \ud83d\udd39 C) Perfectly Inelastic Collision\n\nObjects **stick together** \u2192 move with **common velocity v**\n\n$$\\boxed{v = \\frac{m_1 u_1 + m_2 u_2}{m_1 + m_2}}$$\n\n**Loss in Kinetic Energy:**\n$$\\boxed{\\Delta KE = \\frac{1}{2} \\cdot \\frac{m_1 m_2}{m_1 + m_2}(u_1 - u_2)^2}$$\n\n> This is the **maximum possible loss** for given initial conditions.\n\n---\n\n### \ud83d\udd39 D) Coefficient of Restitution (e)\n\n$$\\boxed{e = \\frac{\\text{Relative velocity of separation}}{\\text{Relative velocity of approach}} = \\frac{v_2 - v_1}{u_1 - u_2}}$$\n\n**For a ball dropped from height H, bouncing to height h:**\n$$e = \\sqrt{\\frac{h}{H}}$$\n\n---\n\n### \ud83d\udd39 E) 2D (Oblique) Elastic Collision\n\n- Resolve momentum along **x-axis** and **y-axis** separately\n- KE conservation gives the third equation\n\n**\u2b50 Golden Rule for equal masses (one at rest) in 2D elastic collision:**\n$$\\boxed{\\theta_1 + \\theta_2 = 90\u00b0}$$\nThe two bodies always move **perpendicular to each other** after collision!\n\n---\n\n## 3. \ud83c\udfaf COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Bullet-Block Problem (Perfectly Inelastic)\n> *A bullet of mass m, velocity v embeds in a block of mass M. Find common velocity and KE lost.*\n- Use: mv = (m+M)V \u2192 find V\n- Then calculate \u0394KE\n\n### Pattern 2: Equal Mass Elastic Collision\n> *Two identical balls collide. One is at rest. What happens?*\n- Answer: First stops, second moves with first's initial velocity\n\n### Pattern 3: Coefficient of Restitution from Heights\n> *Ball dropped from 10m bounces to 2.5m. Find e.*\n- e = \u221a(2.5/10) = \u221a(1/4) = **0.5**\n\n### Pattern 4: Loss in KE Formula Application\n> *Find the fraction of KE lost in perfectly inelastic collision when equal masses collide, one at rest.*\n- v = u/2\n- KE_initial = \u00bdmu\u00b2, KE_final = \u00bd(2m)(u/2)\u00b2 = mu\u00b2/4\n- Fraction lost = **50%**\n\n### Pattern 5: Oblique Collision Direction\n> *Two equal mass balls, one at rest. After elastic collision, angle between them?*\n- Always **90\u00b0**\n\n---\n\n## 4. \ud83e\udde0 MEMORY TIPS & ANALOG",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "What is the minimum power delivered by the motor to the elevator, in both watts and horsepower, when an elevator with a maximum load of 1800 kg (elevator + passengers) is moving upward at a constant speed of 2 m/s, and the frictional force opposing the motion is 4000 N?",
-      "options": {
-        "A": "A 44000watts, 59 horsepower B 48000watts, 6",
-        "B": "36 horsepower C 56000 watts, 7",
-        "C": "1 horsepower D 64000 watts, 8",
-        "D": "8 horsepower"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 44000watts, 59 horsepower\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Explain 'Conservative and non-conservative forces' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# \u26a1 Conservative & Non-Conservative Forces\n### Class 11 | Chapter 6: Work, Energy & Power | NEET Physics\n\n---\n\n## 1. \ud83e\udde0 CORE CONCEPT & DEFINITION\n\n### \ud83d\udd35 Conservative Forces\n\n> A force is **conservative** if the work done by it on an object moving between two points is **completely independent of the path taken** and depends only on the **initial and final positions**.\n\n**Key Identity:**\n> Work done in a **complete closed loop = 0**\n\n$$W_{\\text{closed loop}} = 0 \\quad \\text{(for conservative force)}$$\n\n| Property | Description |\n|----------|-------------|\n| Path Dependence | \u274c Path-independent |\n| Closed Loop Work | = 0 |\n| Energy Associated | \u2705 Has Potential Energy |\n| Mechanical Energy | \u2705 Conserved |\n\n**Examples:** Gravity, Spring force (Hooke's Law), Electrostatic force (Coulomb's force)\n\n---\n\n### \ud83d\udd34 Non-Conservative Forces\n\n> A force is **non-conservative** if the work done by it **depends on the path taken** between two points.\n\n| Property | Description |\n|----------|-------------|\n| Path Dependence | \u2705 Path-dependent |\n| Closed Loop Work | \u2260 0 |\n| Energy Associated | \u274c No Potential Energy |\n| Mechanical Energy | \u274c NOT Conserved |\n\n**Examples:** Friction, Air resistance, Viscous drag, Tension (in some cases)\n\n---\n\n### \ud83d\udcca Visual Understanding\n\n```\nPoint A ----Path 1 (straight)---- Point B\n         \\                       /\n          ---Path 2 (curved)----\n\nConservative Force:  W(Path 1) = W(Path 2) \u2705\nNon-Conservative:    W(Path 1) \u2260 W(Path 2) \u274c\n```\n\n---\n\n## 2. \ud83d\udcd0 KEY FORMULAS & IMPORTANT FACTS\n\n### Formula 1: Conservative Force & Potential Energy\n$$\\boxed{W_{\\text{conservative}} = -\\Delta U = -(U_f - U_i) = U_i - U_f}$$\n\n> Work done **by** a conservative force = **decrease** in potential energy\n\n---\n\n### Formula 2: Conservation of Mechanical Energy\n*(Valid ONLY when only conservative forces act)*\n\n$$\\boxed{KE_i + PE_i = KE_f + PE_f}$$\n$$\\Delta KE + \\Delta PE = 0$$\n\n---\n\n### Formula 3: Work-Energy Theorem (General)\n$$W_{\\text{net}} = \\Delta KE$$\n$$W_{\\text{conservative}} + W_{\\text{non-conservative}} = \\Delta KE$$\n\n---\n\n### Formula 4: When Non-Conservative Forces Act\n$$\\boxed{W_{\\text{non-conservative}} = \\Delta KE + \\Delta PE = \\Delta E_{\\text{mechanical}}}$$\n\n> Work done by friction = Change in total mechanical energy\n> (This is usually **negative** \u2192 energy is lost as heat)\n\n---\n\n### \u26a0\ufe0f Critical Facts for NEET\n\n| Fact | Detail |\n|------|--------|\n| Gravity | Always conservative (even on inclined planes or curved paths) |\n| Spring Force | Conservative |\n| Friction | Always non-conservative |\n| Normal force | Does zero work on horizontal surface (not classified) |\n| Potential Energy | Can ONLY be defined for conservative forces |\n\n---\n\n## 3. \ud83c\udfaf COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Identify the Force Type\n> *\"Which of the following is a non-conservative force?\"*\n> \u2192 **Friction, Air resistance, Viscous force**\n\n---\n\n### Pattern 2: Path-Independence Problems\n> *\"A particle moves from A to B via two different paths under gravity. Compare work done.\"*\n> \u2192 Work done by gravity = **same on both paths** (mgh, depends only on height difference)\n\n---\n\n### Pattern 3: Energy Conservation Problems\n> *\"A ball of mass m falls from height h. Find its speed just before hitting ground.\"*\n> \u2192 Use: $mgh = \\frac{1}{2}mv^2$ \u2192 $v = \\sqrt{2gh}$\n\n---\n\n### Pattern 4: Friction + Energy\n> *\"A block slides down a rough incline. Find velocity at bottom.\"*\n> \u2192 Use: $W_{\\text{friction}} = \\Delta KE + \\Delta PE$\n> \u2192 $-\\mu mg\\cos\\theta \\cdot L = \\frac{1}{2}mv^2 - mgL\\sin\\theta$\n\n---\n\n### Pattern 5: Closed Loop Work\n> *\"Work done by a conservative force when a particle returns to its starting point is...\"*\n> \u2192 **Zero** \u2705\n\n---\n\n## 4. \ud83e\udde0 MEMORY TIP & ANALOGY\n\n### \ud83c\udfe6 The \"Bank Account\" Analogy\n\nThink of **Potential Energy as a bank account:**\n\n- **Conservative Force** = Honest bank \ud83c\udfe6\n  - You deposit (gain PE) or withdraw (lose PE) but the **total money is always trackable**\n  - No matter which route you take to the bank, your account balance depends only on where you started and ended\n  - Energy is **stored and recoverable**\n\n- **Non-Conservative Force** = A leaky wallet \ud83d\udc5b\n  - Friction is like a hole in your wallet \u2014 money (energy) **leaks out as heat** on the way\n  - The longer/rougher the path, the more money you lose\n  - Energy is **NOT recoverable**\n\n---\n\n### \ud83d\udd11 Memory Trick: \"**CPIE**\" for Conservative Forces\n- **C**losed loop work = zero\n- **P**ath independent\n- **I**nterchangeable (KE \u2194 PE)\n- **E**nergy conserved\n\n---\n\n## 5. \ud83d\udcdd EXAMPLE PROBLEM WITH SOLUTION\n\n### Problem:\n> A block of mass **2 kg** starts from rest and slides down a rough inclined plane of length **5 m** and height **3 m**. The coefficient of kinetic friction is **\u03bc = 0.2**. Find the speed of the block at the bottom of the incline. (g = 10 m/s\u00b2)\n\n---\n\n### Solution:\n\n**Step 1: Identify forces**\n- Gravity \u2192 Conservative \u2705\n- Friction \u2192 Non-conservative \u2705\n\n**Step 2: Find the angle/cos \u03b8**\n\n$$\\sin\\theta = \\frac{3}{5} = 0.6, \\quad \\cos\\theta = \\frac{4}{5} = 0.8$$\n\n**Step 3: Calculate Work done by each force**\n\nWork by gravity:\n$$W_g = mgh = 2 \\times 10 \\times 3 = 60 \\text{ J}$$\n\nNormal force:\n$$N = mg\\cos\\theta = 2 \\times 10 \\times 0.8 = 16 \\text{ N}$$\n\nWork by friction (negative, opposes motion):\n$$W_f = -\\mu N \\cdot L = -0.2 \\times 16 \\times 5 = -16 \\text{ J}$$\n\n**Step 4: Apply Work-Energy Theorem**\n$$W_{\\text{net}} = \\Delta KE$$\n$$W_g + W_f = \\frac{1}{2}mv^2 - 0$$\n$$60 + (-16) = \\frac{1}{2} \\times 2 \\times v^2$$\n$$44 = v^2$$\n\n$$\\boxed{v = \\sqrt{44} \\approx 6.6 \\text{ m/s}}$$\n\n---\n\n**Verification using energy method:**\n$$W_{\\text{friction}} = \\Delta E_{\\text{mechanical}}$$\n$$-16 = \\left(\\frac{1}{2}mv^2 + 0\\right) - (0 + mgh)$$\n$$-16 = v^2 - 60 \\implies v^2 = 44 \u2705$$\n\n---\n\n## \ud83d\udccc QUICK REVISION SUMMARY\n\n```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502           CONSERVATIVE vs NON-CONSERVATIVE          \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502   CONSERVATIVE       \u2502    NON-CONSERVATIVE           \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 Path-independent     \u2502 Path-dependent               \u2502\n\u2502 Closed loop W = 0   \u2502 Closed loop W \u2260 0            \u2502\n\u2502 Has PE associated    \u2502 No PE defined                \u2502\n\u2502 ME conserved         \u2502 ME not conserved             \u2502\n\u2502 Gravity, Spring,     \u2502 Friction, Air resistance,    \u2502\n\u2502 Coulomb force        \u2502 Viscous drag                 \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Water falls from a height of $60 \\mathrm{~m}$ at the rate of $15 \\mathrm{~kg} / \\mathrm{s}$ to operate a turbine. The losses due to frictional forces are $10 \\%$ of energy. How much power is generated by the turbine? $\\left(g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)$",
+      "question": "Water falls from a height of $60 ~m$ at the rate of $15 ~kg / s$ to operate a turbine. The losses due to frictional forces are $10 \\%$ of energy. How much power is generated by the turbine? $\\left(g=10 ~m / s^2\\right)$",
       "options": {
         "A": "A $",
-        "B": "1 \\mathrm{~kW}$ B $1",
-        "C": "2 \\mathrm{~kW}$ C $1",
-        "D": "3 \\mathrm{~kW}$"
+        "B": "1 ~kW$ B $1",
+        "C": "2 ~kW$ C $1",
+        "D": "3 ~kW$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPower generated by the turbine is, $\\begin{aligned} P_{\\text {gene rated }} & =P_{\\text {input }} \\times \\frac{90}{100} \\\\ & =\\frac{M g h}{t} \\times \\frac{90}{100} \\end{aligned}$ Putting the given values $\\begin{aligned} & \\frac{M}{t}=15 \\mathrm{~kg} / \\mathrm{s}, g=10 \\mathrm{~m} / \\mathrm{s}^2, h=60 \\mathrm{~m} \\\\ & P_{\\text {generated }}=(15 \\times 10 \\times 60) \\times \\frac{90}{100} \\\\ &=8.1 \\mathrm{~kW} \\end{aligned}$\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Power generated by the turbine is, $\\beginaligned P_\\text gene rated & =P_\\text input \\times \\frac90100 \\\\ & =\\fracM g ht \\times \\frac90100 \\endaligned$ Putting the given values $\\beginaligned & \\fracMt=15 ~kg / s, g=10 ~m / s^2, h=60 ~m \\\\ & P_\\text generated =(15 \\times 10 \\times 60) \\times \\frac90100 \\\\ &=8.1 ~kW \\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "What is the emergent speed of the bullet when a police officer fires a 50.0 g bullet with an initial speed of 200 m/s (see Table 5.2) into soft plywood with a thickness of 2.00 cm, and the bullet emerges with only 10% of its initial kinetic energy?",
-      "options": {
-        "A": "A 50 m/s B 6",
-        "B": "2 m/s C 12",
-        "C": "4 m/s D",
-        "D": "6 m/s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) 63.2 m/s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "[NEET 2022 | Physics]\n\nBody 0.5 kg with v = 5*x^(3/2) m/s. Work done from x=0 to x=2m:",
-      "options": {
-        "A": "15 J",
-        "B": "50 J",
-        "C": "10 J",
-        "D": "100 J"
-      },
-      "answer": "B",
-      "solution": "# Solution: Work Done Using Work-Energy Theorem\n\n## **Correct Answer: (B) 50 J**\n\n---\n\n## Step-by-Step Solution\n\n**Given:**\n- Mass (m) = 0.5 kg\n- Velocity relation: v = 5x^(3/2) m/s\n- Displacement: x = 0 to x = 2 m\n\n**Step 1: Apply Work-Energy Theorem**\n\nThe work done equals the change in kinetic energy:\n$$W = \\Delta KE = \\frac{1}{2}m(v_f^2 - v_i^2)$$\n\n**Step 2: Find velocities at initial and final positions**\n\nAt x = 0:\n$$v_0 = 5(0)^{3/2} = 0 \\text{ m/s}$$\n\nAt x = 2:\n$$v_2 = 5(2)^{3/2} = 5 \\times 2\\sqrt{2} = 10\\sqrt{2} \\text{ m/s}$$\n\n**Step 3: Calculate kinetic energies**\n\nInitial KE:\n$$KE_0 = \\frac{1}{2}(0.5)(0)^2 = 0 \\text{ J}$$\n\nFinal KE:\n$$KE_2 = \\frac{1}{2}(0.5)(10\\sqrt{2})^2 = \\frac{1}{2}(0.5)(200) = 50 \\text{ J}$$\n\n**Step 4: Find work done**\n\n$$W = 50 - 0 = \\boxed{50 \\text{ J}}$$\n\n---\n\n## Key Concept\n\n**Work-Energy Theorem:** The net work done on an object equals its change in kinetic energy. This is the fastest way to solve such problems when velocity is given as a function of position.\n\n$$W_{net} = \\Delta KE = \\frac{1}{2}m(v_f^2 - v_i^2)$$\n\n## Why Other Options Are Wrong\n- **(A) 15 J** - Incorrect calculation\n- **(C) 10 J** - Missing a factor in the velocity calculation\n- **(D) 100 J** - Likely from doubling the correct answer",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Water falls from a height of $60 \\mathrm{~m}$ at the rate of $15 \\mathrm{~kg} / \\mathrm{s}$ to operate a turbine. The losses due to frictional forces are $10 \\%$ of energy. How much power is generated by the turbine? $\\left(g=10 \\mathrm{~m} / \\mathrm{s}^2\\right)$",
-      "options": {
-        "A": "A $",
-        "B": "1 \\mathrm{~kW}$ B $1",
-        "C": "2 \\mathrm{~kW}$ C $1",
-        "D": "3 \\mathrm{~kW}$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPower generated by the turbine is, $\\begin{aligned} P_{\\text {gene rated }} & =P_{\\text {input }} \\times \\frac{90}{100} \\\\ & =\\frac{M g h}{t} \\times \\frac{90}{100} \\end{aligned}$ Putting the given values $\\begin{aligned} & \\frac{M}{t}=15 \\mathrm{~kg} / \\mathrm{s}, g=10 \\mathrm{~m} / \\mathrm{s}^2, h=60 \\mathrm{~m} \\\\ & P_{\\text {generated }}=(15 \\times 10 \\times 60) \\times \\frac{90}{100} \\\\ &=8.1 \\mathrm{~kW} \\end{aligned}$\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "[NEET 2019 | Physics]\n\nIf the momentum of a body is increased by 50%, its kinetic energy will increase by:",
-      "options": {
-        "A": "125%",
-        "B": "100%",
-        "C": "225%",
-        "D": "150%"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(A) 125%**\n\n## Step-by-Step Solution\n\n**Step 1: Write the relationship between KE and momentum**\n\nWe know that:\n$$KE = \\frac{1}{2}mv^2$$\n\nSince momentum $p = mv$, we can write $v = \\frac{p}{m}$\n\nSubstituting:\n$$KE = \\frac{1}{2}m\\left(\\frac{p}{m}\\right)^2 = \\frac{p^2}{2m}$$\n\n**Key insight:** KE \u221d p\u00b2\n\n---\n\n**Step 2: Calculate initial and final kinetic energies**\n\n| | Initial | Final |\n|---|---|---|\n| **Momentum** | p\u2081 | p\u2082 = 1.5p\u2081 |\n| **KE** | KE\u2081 = p\u2081\u00b2/(2m) | KE\u2082 = (1.5p\u2081)\u00b2/(2m) |\n\n$$KE_2 = \\frac{(1.5p_1)^2}{2m} = \\frac{2.25p_1^2}{2m} = 2.25 \\times KE_1$$\n\n---\n\n**Step 3: Calculate percentage increase**\n\n$$\\text{Increase} = KE_2 - KE_1 = 2.25KE_1 - KE_1 = 1.25KE_1$$\n\n$$\\text{Percentage increase} = \\frac{1.25KE_1}{KE_1} \\times 100\\% = \\boxed{125\\%}$$\n\n---\n\n## Why Other Options Are Wrong:\n\n- **(B) 100%** \u2014 This would be true if KE were directly proportional to p, but it's proportional to p\u00b2\n- **(C) 225%** \u2014 This is (1.5)\u00b2 \u00d7 100 - 100 = 225%, which miscounts the starting point\n- **(D) 150%** \u2014 This is the percentage increase in momentum itself, not kinetic energy\n\n## Key Formula to Remember:\n$$\\boxed{KE = \\frac{p^2}{2m}}$$\n\nSince KE depends on **p\u00b2**, a 50% increase in momentum (factor of 1.5) leads to a (1.5)\u00b2 = 2.25 factor, which is a **125% increase**.",
-      "exam": "NEET 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "[NEET 2016 | Physics]\n\nA body of mass 1 kg is thrown upwards with velocity 20 m/s. It comes to rest after 18 m. Energy lost due to air friction (g=10):",
-      "options": {
-        "A": "20 J",
-        "B": "30 J",
-        "C": "40 J",
-        "D": "10 J"
-      },
-      "answer": "A",
-      "solution": "# Energy Lost Due to Air Friction\n\n**Answer: (A) 20 J**\n\n## Step-by-Step Solution:\n\n### Initial Energy (at ground level):\n- Kinetic Energy = \u00bdmu\u00b2\n- KE = \u00bd(1)(20)\u00b2 = **200 J**\n- PE = 0 (at ground level)\n- **Total Initial Energy = 200 J**\n\n### Final Energy (at height 18 m):\n- Kinetic Energy = 0 (comes to rest)\n- PE = mgh = (1)(10)(18) = **180 J**\n- **Total Final Energy = 180 J**\n\n### Energy Lost to Air Friction:\n**Energy lost = Initial Energy - Final Energy**\n**Energy lost = 200 - 180 = 20 J**\n\n## Understanding the Concept:\n\nBy the **Conservation of Energy with non-conservative forces**:\n$$E_{initial} = E_{final} + E_{friction}$$\n\nWithout air resistance, the body would reach:\n$$h_0 = \\frac{u^2}{2g} = \\frac{400}{20} = 20 \\text{ m}$$\n\nBut it only reaches 18 m due to air friction, losing 2 m of height equivalent to:\n$$\\Delta PE = mg(h_0 - h) = (1)(10)(2) = 20 \\text{ J}$$\n\n## Why Other Options are Wrong:\n- **(B) 30 J, (C) 40 J, (D) 10 J**: These don't match the energy balance calculation. They might result from calculation errors or using incorrect formulas.\n\n**Key Formula to Remember:**\n$$\\text{Energy Lost} = \\frac{1}{2}mu^2 - mgh$$",
-      "exam": "NEET 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "[NEET 2022 | Physics]\n\nBody 0.5 kg with v = 5*x^(3/2) m/s. Work done from x=0 to x=2m:",
-      "options": {
-        "A": "15 J",
-        "B": "50 J",
-        "C": "10 J",
-        "D": "100 J"
-      },
-      "answer": "A",
-      "solution": "# Solution: Work Done Using Work-Energy Theorem\n\n## Correct Answer: **(B) 50 J**\n\n---\n\n## Step-by-Step Solution\n\n**Given Information:**\n- Mass (m) = 0.5 kg\n- Velocity function: v = 5x^(3/2) m/s\n- Displacement: from x = 0 to x = 2 m\n\n**Step 1: Find velocity at initial position (x = 0)**\n$$v_0 = 5(0)^{3/2} = 0 \\text{ m/s}$$\n\n**Step 2: Find velocity at final position (x = 2m)**\n$$v_2 = 5(2)^{3/2} = 5 \\times 2\\sqrt{2} \\text{ m/s}$$\n\nCalculate 2^(3/2):\n$$2^{3/2} = \\sqrt{2^3} = \\sqrt{8} = 2\\sqrt{2}$$\n\nSo: $v_2 = 5 \\times 2\\sqrt{2} = 10\\sqrt{2}$ m/s\n\n**Step 3: Calculate kinetic energy at both positions**\n\n$$KE_0 = \\frac{1}{2}mv_0^2 = \\frac{1}{2}(0.5)(0)^2 = 0 \\text{ J}$$\n\n$$KE_2 = \\frac{1}{2}mv_2^2 = \\frac{1}{2}(0.5)[5 \\times 2^{3/2}]^2$$\n\n$$= 0.25 \\times 25 \\times (2^{3/2})^2$$\n\n$$= 0.25 \\times 25 \\times 2^3 = 0.25 \\times 25 \\times 8 = 50 \\text{ J}$$\n\n**Step 4: Apply Work-Energy Theorem**\n$$W = \\Delta KE = KE_2 - KE_0 = 50 - 0 = \\boxed{50 \\text{ J}}$$\n\n---\n\n## Key Concept to Remember\n\n**Work-Energy Theorem:** The work done by all forces equals the change in kinetic energy.\n$$W = \\frac{1}{2}m(v_f^2 - v_i^2)$$\n\nThis is often the fastest way to find work when velocity information is given!\n\n---\n\n## Why Other Options Are Wrong\n\n- **(A) 15 J**: Result if calculation error made with exponent\n- **(C) 10 J**: Incomplete calculation or arithmetic mistake\n- **(D) 100 J**: Could result if mass was incorrectly doubled or exponent handled wrongly",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "An electron and a proton are detected in a cosmic ray experiment, the first with kinetic energy 10 keV, and the second with 100 keV. Which is faster, the electron or the proton ? Obtain the ratio of their speeds. (electron mass = 9.11\u00d710-31 kg, proton mass = 1.67\u00d710\u201327 kg, 1 eV = 1.60 \u00d710\u201319 J).",
-      "options": {
-        "A": "A",
-        "B": "65 B",
-        "C": "54 C",
-        "D": "55 D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) 13.54\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "The energy required to break one bond in DNA is 10 \\u2013 20 J . This value in eV is nearly",
+      "question": "The energy required to break one bond in DNA is 10 \\\u2013 20 J . This value in eV is nearly",
       "options": {
         "A": "A",
         "B": "6",
@@ -342,82 +147,22 @@
         "D": "006 D 6"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nE = 10 - 20 1 . 6 \u00d7 10 - 19 eV = 0 . 625 \u00d7 10 - 1 = 0 . 0625 eV\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** E = 10 - 20 1 . 6 \u00d7 10 - 19 eV = 0 . 625 \u00d7 10 - 1 = 0 . 0625 eV **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "[NEET 2016 | Physics]\n\nA body of mass 1 kg is thrown upwards with velocity 20 m/s. It comes to rest after 18 m. Energy lost due to air friction (g=10):",
+      "question": "In an a.c. circuit, the instantaneous e.m.f. and current are given by <br/> e = 100 sin 30 t<br/> i = 20 sin $$\\left( 30t - \\pi \\over 4 \\right)$$<br/> In one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively",
       "options": {
-        "A": "20 J",
-        "B": "30 J",
-        "C": "40 J",
-        "D": "10 J"
-      },
-      "answer": "A",
-      "solution": "# Solution\n\n## The Correct Answer: **(C) 40 J**\n\n## Step-by-Step Solution:\n\n### Method 1: Using Work-Energy Theorem\n\n**Initial state (at ground):**\n- Kinetic Energy = \u00bdmu\u00b2 = \u00bd(1)(20)\u00b2 = 200 J\n- Potential Energy = 0 J\n- **Total Energy = 200 J**\n\n**Final state (at height 18 m, at rest):**\n- Kinetic Energy = 0 J (comes to rest)\n- Potential Energy = mgh = (1)(10)(18) = 180 J\n- **Total Energy = 180 J**\n\n**Energy lost to air friction:**\n$$\\text{Energy lost} = \\text{Initial Energy} - \\text{Final Energy}$$\n$$= 200 - 180 = 20 \\text{ J}$$\n\nWait, let me recalculate using the expected height without friction...\n\n### Method 2: Comparing with Frictionless Case\n\n**If there were NO air resistance**, the body would reach height:\n$$v^2 = u^2 - 2gh_0$$\n$$0 = (20)^2 - 2(10)h_0$$\n$$h_0 = \\frac{400}{20} = 20 \\text{ m}$$\n\n**With air friction, actual height = 18 m**\n\nEnergy that should have gone to potential energy:\n$$\\text{Energy lost} = mg(h_0 - h)$$\n$$= (1)(10)(20 - 18)$$\n$$= 10 \u00d7 2 = 20 \\text{ J}$$\n\nHmm, this gives 20 J. Let me reconsider the problem...\n\n---\n\n### Correct Approach:\n\nActually, using **direct energy conservation**:\n\nInitial KE = Final PE + Energy lost to friction\n$$\\frac{1}{2}mu^2 = mgh + E_{\\text{friction}}$$\n$$\\frac{1}{2}(1)(20)^2 = (1)(10)(18) + E_{\\text{friction}}$$\n$$200 = 180 + E_{\\text{friction}}$$\n$$E_{\\text{friction}} = 20 \\text{ J}$$\n\n**But the answer given as (C) 40 J suggests the height should be interpreted differently or there's an energy consideration I'm missing. Based on standard NEET interpretation and the calculation showing 200 J initial - 180 J final = 20 J loss, the answer should be (A) 20 J.**\n\nHowever, **if the problem means total mechanical energy loss = 40 J**, this could occur if the body's velocity when it returns to ground level is being considered in the return journey.\n\n## Key Concepts to Remember:\n\n1. **Energy Conservation**: Total initial energy = Final energy + Energy dissipated\n2. **Work-Energy Theorem**: Work by friction = Change in mechanical energy\n3. **In projectile motion with air resistance**: Energy is continuously lost throughout the motion\n\nThe most reliable method is: **Initial KE = Final PE + Friction loss**",
-      "exam": "NEET 2016",
-      "year": 2016,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Explain 'Work-energy theorem' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# \u26a1 Work-Energy Theorem \u2014 Complete NEET Guide\n\n---\n\n## 1. \ud83c\udfaf Core Concept & Definition\n\nThe **Work-Energy Theorem** states:\n\n> *\"The net work done by all forces acting on an object equals the change in its kinetic energy.\"*\n\nThis theorem is essentially **Newton's Second Law rewritten in terms of energy**, and it forms the backbone of energy-based problem solving in NEET.\n\n**Physical Meaning:**\n| Net Work Done | Effect on Object |\n|---|---|\n| **Positive** (+ve) | KE increases \u2192 object speeds up |\n| **Negative** (\u2212ve) | KE decreases \u2192 object slows down |\n| **Zero** | KE unchanged \u2192 constant speed |\n\n> \u26a0\ufe0f **NEET Trap:** Zero net work does NOT mean the object is at rest \u2014 it means velocity is *constant* (could still be moving!)\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas\n\n### Primary Formula:\n$$\\boxed{W_{net} = \\Delta KE = \\frac{1}{2}mv^2 - \\frac{1}{2}mu^2}$$\n\nWhere:\n- $W_{net}$ = Total work done by **all** forces\n- $m$ = mass of object\n- $v$ = final velocity\n- $u$ = initial velocity\n\n### Derivation (Quick & Clean):\nStarting from Newton's 2nd Law:\n\n$$F = ma$$\n\nUsing kinematics: $v^2 = u^2 + 2as \\Rightarrow as = \\dfrac{v^2 - u^2}{2}$\n\n$$W = F \\cdot s = ma \\cdot s = m \\cdot \\frac{v^2 - u^2}{2} = \\frac{1}{2}mv^2 - \\frac{1}{2}mu^2 \u2713$$\n\n### For Variable Force:\n$$W = \\int_{x_1}^{x_2} F \\cdot dx$$\n*(Area under F-x graph = Work done)*\n\n### Work Done by Individual Forces:\n$$W_{net} = W_{gravity} + W_{normal} + W_{friction} + W_{applied} + ...$$\n\n---\n\n## 3. \ud83d\udd25 Common NEET Question Patterns\n\n### Pattern 1: Find Final Velocity\n*\"A force does X joules of work on a body of mass m initially at rest. Find final velocity.\"*\n$$v = \\sqrt{\\frac{2W}{m}}$$\n\n---\n\n### Pattern 2: Work Done by Friction (Most Common!)\n*\"A force is applied, body accelerates \u2014 find work done by friction.\"*\n$$W_{friction} = \\Delta KE - W_{applied}$$\n\n---\n\n### Pattern 3: F-x Graph Based\n*\"From graph of Force vs displacement, find KE at point X\"*\n\u2192 Calculate area under graph = $W_{net}$ \u2192 Add to initial KE\n\n---\n\n### Pattern 4: Inclined Plane\n*\"Block slides down rough incline \u2014 find speed at bottom\"*\n$$W_{gravity} + W_{friction} = \\Delta KE$$\n$$mgh - \\mu mg\\cos\\theta \\cdot d = \\frac{1}{2}mv^2$$\n\n---\n\n### Pattern 5: Spring Problems\n$$W_{spring} = \\frac{1}{2}kx_1^2 - \\frac{1}{2}kx_2^2 = \\Delta KE$$\n\n---\n\n## 4. \ud83e\udde0 Memory Tip & Analogy\n\n**Analogy \u2014 \"Bank Account of Motion\":**\n> Think of **Kinetic Energy as your bank balance**.\n> **Work done on you = money deposited** (KE increases) \ud83d\udcc8\n> **Work done by you = money withdrawn** (KE decreases) \ud83d\udcc9\n> **Net work = Net change in your balance** \ud83c\udfe6\n\n**Memory Formula Trick:**\n$$W_{net} = KE_f - KE_i$$\n*\"What you GET minus what you HAD = what was GIVEN to you\"*\n\n---\n\n## 5. \ud83d\udca1 Example Problem (NEET-Style)\n\n**Question:**\nA block of mass **2 kg** is pushed by a horizontal force of **20 N** on a rough surface. It travels **5 m** and its velocity increases from **0 to 6 m/s**. Find the **work done by friction**.\n\n**Solution:**\n\n**Step 1:** Find net work done using Work-Energy Theorem\n$$W_{net} = \\frac{1}{2}mv^2 - \\frac{1}{2}mu^2$$\n$$W_{net} = \\frac{1}{2}(2)(6)^2 - 0 = \\frac{1}{2} \\times 2 \\times 36 = \\boxed{36 \\text{ J}}$$\n\n**Step 2:** Find work done by applied force\n$$W_{applied} = F \\times d = 20 \\times 5 = 100 \\text{ J}$$\n\n**Step 3:** Apply net work formula\n$$W_{net} = W_{applied} + W_{friction}$$\n$$36 = 100 + W_{friction}$$\n$$\\boxed{W_{friction} = -64 \\text{ J}}$$\n\n**Answer:** Work done by friction = **\u221264 J**\n*(Negative sign confirms friction opposes motion \u2713)*\n\n---\n\n## \ud83d\udccc Quick Revision Card\n\n| Point | Detail |\n|-------|--------|\n| **Theorem** | $W_{net} = \\Delta KE$ |\n| **Valid for** | Variable & constant forces, any path |\n| **Normal force** | Always does **zero work** (\u22a5 to motion) |\n| **Friction** | Always does **negative work** |\n| **Gravity** | Does +ve work going down, \u2212ve going up |\n| **Key fact** | Work is a **scalar**, path matters for friction |\n\n---\n\n> \ud83c\udfc6 **NEET Strategy:** Whenever a problem involves **force + displacement + velocity**, your first thought should be *\"Can I apply the Work-Energy Theorem?\"* \u2014 it often gives the answer in just 2 steps!",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "The energy required to break one bond in DNA is 10 \\u2013 20 J . This value in eV is nearly",
-      "options": {
-        "A": "A",
-        "B": "6",
-        "C": "06",
-        "D": "006 D 6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nE = 10 - 20 1 . 6 \u00d7 10 - 19 eV = 0 . 625 \u00d7 10 - 1 = 0 . 0625 eV\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "Explain 'Work done by a constant force and a variable force' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# Work Done by Constant & Variable Forces\n## Class 11 | Chapter 6: Work, Energy and Power | NEET Focus\n\n---\n\n## 1. \ud83c\udfaf Core Concept & Definition\n\n> **Work is done when a force causes displacement in its direction (or has a component along displacement).**\n\n### Key Points First:\n- Work is a **scalar quantity**\n- SI unit: **Joule (J)** = N\u00b7m\n- Work can be **positive, negative, or zero**\n\n### When is Work ZERO?\n| Condition | Example |\n|-----------|---------|\n| F = 0 | Object in free space |\n| d = 0 | Pushing a wall |\n| \u03b8 = 90\u00b0 | Coolie carrying load on head (walks horizontally) |\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas\n\n### \u2705 Case 1: CONSTANT Force\n\n$$\\boxed{W = \\vec{F} \\cdot \\vec{d} = Fd\\cos\\theta}$$\n\nWhere:\n- **F** = magnitude of force\n- **d** = magnitude of displacement\n- **\u03b8** = angle between **F\u20d7** and **d\u20d7** (displacement vector)\n\n#### Sign Convention:\n```\n\u03b8 < 90\u00b0  \u2192  W is POSITIVE  (force aids motion)\n\u03b8 = 90\u00b0  \u2192  W is ZERO      (force \u22a5 displacement)\n\u03b8 > 90\u00b0  \u2192  W is NEGATIVE  (force opposes motion)\n```\n\n#### Special Cases:\n| Scenario | \u03b8 | Work |\n|----------|---|------|\n| Lifting a box (by hand) | 0\u00b0 | W = Fd \u2705 Positive |\n| Friction on sliding block | 180\u00b0 | W = \u2013Fd \u274c Negative |\n| Normal force on horizontal surface | 90\u00b0 | W = 0 |\n| Gravity on projectile (horizontal) | 90\u00b0 | W = 0 |\n\n---\n\n### \u2705 Case 2: VARIABLE Force\n\nWhen force **changes with position**, we cannot directly use W = Fd cos\u03b8.\n\n**Approach:** Divide the path into **infinitesimally small steps** (dx), and sum up all tiny works done.\n\n$$\\boxed{W = \\int_{x_i}^{x_f} F(x)\\, dx}$$\n\n> \ud83d\udca1 **Graphically:** Work done = **Area under the F-x graph** (Force vs Displacement graph)\n\n#### \u26a0\ufe0f Important: Area ABOVE x-axis = +W, Area BELOW x-axis = \u2212W\n\n---\n\n### \u2705 Most Important Variable Force: SPRING FORCE\n\nSpring force is variable: **F = \u2013kx** (Hooke's Law)\n\n```\nWork done BY spring on block (stretching from 0 to x):\nW_spring = \u2013\u00bdkx\u00b2   (negative, spring pulls back)\n\nWork done AGAINST spring (by external agent):\nW_ext = +\u00bdkx\u00b2      (positive, you do work to stretch it)\n```\n\n**Derivation:**\n$$W = \\int_0^x kx\\, dx = k\\cdot\\frac{x^2}{2} = \\frac{1}{2}kx^2$$\n\n---\n\n## 3. \ud83d\udd01 Common NEET Question Patterns\n\n### Pattern 1: Direct W = Fd cos\u03b8\n*\"A force of 10 N pulls a block at 60\u00b0 to horizontal through 5 m. Find work done.\"*\n\u2192 W = 10 \u00d7 5 \u00d7 cos60\u00b0 = 50 \u00d7 0.5 = **25 J**\n\n### Pattern 2: Work done against/by gravity\n- Lifting: W_gravity = \u2013mgh (gravity does negative work)\n- Falling: W_gravity = +mgh (gravity does positive work)\n\n### Pattern 3: Area under F-x graph (most tricky!)\n- Graph given with triangles/rectangles\n- Calculate area = net work done\n- **Watch signs carefully** (below x-axis = negative work)\n\n### Pattern 4: Spring problems\n- Work to compress/stretch a spring\n- Comparison of work for different extensions\n- Note: To stretch spring to **2x** \u2192 work = **4 \u00d7 (work to stretch to x)**\n\n### Pattern 5: Multiple forces\n- Find work done by each force separately\n- Net work = algebraic sum of all works\n\n---\n\n## 4. \ud83e\udde0 Memory Tips & Analogies\n\n### Analogy for Variable Force:\n> Imagine climbing a hill where the slope keeps changing. You can't calculate total effort from just one slope value. Instead, you add up tiny efforts at each small step \u2192 that's **integration!**\n\n### Trick to Remember Signs:\n> **\"SAME direction = GAIN, OPPOSITE = PAIN\"**\n> - Same direction \u2192 positive work (energy gained by object)\n> - Opposite direction \u2192 negative work (energy taken from object)\n\n### Spring Work Formula Trick:\n> **\"Half k x squared\"** \u2192 W = \u00bdkx\u00b2\n> (Same as kinetic energy formula structure: \u00bdmv\u00b2)\n\n### \u03b8 Quick Recall:\n```\n0\u00b0   \u2192 cos0\u00b0 = 1   \u2192 Maximum work\n90\u00b0  \u2192 cos90\u00b0 = 0  \u2192 Zero work\n180\u00b0 \u2192 cos180\u00b0 = \u20131 \u2192 Maximum negative work\n```\n\n---\n\n## 5. \ud83d\udcdd Example Problem (NEET Style)\n\n### Problem:\nA force acts on a particle along x-axis as shown in the graph below. Find the total work done by the force as the particle moves from x = 0 to x = 6 m.\n\n```\nF(N)\n \u2191\n10 |\u2588\u2588\u2588\u2588\u2588\u2588\u2588\u2588|\n   |        |         (Triangle)\n 5 |        |  \u25cf----\u25cf\n   |        | /\n 0 |--------|/---------|----\u2192 x(m)\n   0        2    4     6\n  \u20135                |\u2588\u2588\u2588\u2588|\n```\n*(Rectangle from 0\u20132m: F = 10N; Triangle from 2\u20134m; Rectangle 4\u20136m: F = \u20135N)*\n\n> **Let's use a clean numerical version:**\n> - From x = 0 to 2 m: F = 10 N (constant)\n> - From x = 2 to 4 m: F decreases linearly from 10 N to 0\n> - From x = 4 to 6 m: F = \u20135 N (constant)\n\n### Solution:\n\n**Step 1:** Work from x = 0 to 2 m\n$$W_1 = \\text{Area of rectangle} = 10 \\times 2 = +20 \\text{ J}$$\n\n**Step 2:** Work from x = 2 to 4 m\n$$W_2 = \\text{Area of triangle} = \\frac{1}{2} \\times 2 \\times 10 = +10 \\text{ J}$$\n\n**Step 3:** Work from x = 4 to 6 m\n$$W_3 = \\text{Area of rectangle (below axis)} = (-5) \\times 2 = -10 \\text{ J}$$\n\n**Step 4:** Total Work\n$$W_{total} = W_1 + W_2 + W_3 = 20 + 10 + (\u201310) = \\boxed{+20 \\text{ J}}$$\n\n---\n\n## \ud83d\udccc Quick Revision Card\n\n```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502           WORK \u2014 QUICK SUMMARY                  \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 Constant Force:  W = Fd cos\u03b8                    \u2502\n\u2502 Variable Force:  W = \u222bF(x)dx = Area under F-x  \u2502\n\u2502 Spring Work:     W = \u00bdkx\u00b2                       \u2502\n\u2502 Gravity Work:    W = mgh (\u2193) or \u2013mgh (\u2191)        \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 Unit: Joule (J) | Scalar quantity               \u2502\n\u2502 \u03b8 < 90\u00b0 \u2192 +W  | \u03b8 = 90\u00b0 \u2192 0 | \u03b8 > 90\u00b0 \u2192 \u2013W   \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```\n\n---\n\n>",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Work, Energy, and Power"
-    },
-    {
-      "question": "In an a.c. circuit, the instantaneous e.m.f. and current are given by <br/>\ne = 100 sin 30 t<br/>\ni = 20 sin $$\\left( {30t - {\\pi  \\over 4}} \\right)$$<br/>\nIn one cycle of a.c., the average power consumed by the circuit and the wattless current are, respectively ",
-      "options": {
-        "A": "50, 0 ",
-        "B": "50, 10 ",
-        "C": "$${{1000} \\over {\\sqrt 2 }},10$$ ",
-        "D": "$${{50} \\over {\\sqrt 2 }}$$ "
+        "A": "50, 0",
+        "B": "50, 10",
+        "C": "$$1000 \\over \\sqrt 2 ,10$$",
+        "D": "$$50 \\over \\sqrt 2 $$"
       },
       "answer": "C",
-      "solution": "Wattless current,\n<br><br>here &nbsp;$$\\phi $$ &nbsp;is the angle between i and e.\n<br><br>Average power,\n<br><br>P<sub>av</sub> = V<sub>rms</sub>&nbsp;I<sub>rms</sub>&nbsp;cos$$\\phi $$\n<br><br>= $${{100} \\over {\\sqrt 2 }} \\times {{20} \\over {\\sqrt 2 }}$$ cos$${\\pi  \\over 4}$$\n<br><br>= $${{1000} \\over {\\sqrt 2 }}$$ watt.",
+      "solution": "Wattless current, <br><br>here $$\\phi $$ is the angle between i and e. <br><br>Average power, <br><br>P<sub>av</sub> = V<sub>rms</sub> I<sub>rms</sub> cos$$\\phi $$ <br><br>= $$100 \\over \\sqrt 2 \\times 20 \\over \\sqrt 2 $$ cos$$\\pi \\over 4$$ <br><br>= $$1000 \\over \\sqrt 2 $$ watt.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -439,37 +184,37 @@
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A particle of mass $$m$$ moving in the $$x$$ direction with speed $$2v$$ is hit by another particle of mass $$2m$$  moving in the $$y$$ direction with speed $$v.$$  If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to: ",
+      "question": "A particle of mass $$m$$ moving in the $$x$$ direction with speed $$2v$$ is hit by another particle of mass $$2m$$ moving in the $$y$$ direction with speed $$v.$$ If the collision is perfectly inelastic, the percentage loss in the energy during the collision is close to:",
       "options": {
-        "A": "$$56\\% $$ ",
+        "A": "$$56\\% $$",
         "B": "$$62\\% $$",
         "C": "$$44\\% $$",
         "D": "$$50\\% $$"
       },
       "answer": "A",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 112 English Explanation\">\n<br>Applying conservation of linear momentum in x direction\n<br><br>$$2mv = \\left( {2m + m} \\right){V_x}$$\n<br><br>$$ \\Rightarrow {V_x} = {2 \\over 3}v$$\n<br><br>Applying conservation of linear momentum in y direction\n<br><br>$$2mv = \\left( {2m + m} \\right){V_y}$$\n<br><br>$$ \\Rightarrow {V_y} = {2 \\over 3}v$$\n<br><br>Final speed of 3m mass, $${V_f}$$  = $$\\sqrt {V_x^2 + V_y^2} $$\n<br><br>= $$\\sqrt {{{4{v^2}} \\over 9} + {{4{v^2}} \\over 9}} $$\n<br><br>= $$\\sqrt {{{8{v^2}} \\over 9}} $$\n<br><br>Initial kinetic energy\n<br><br>$${E_i} = {1 \\over 2}m{\\left( {2v} \\right)^2} + {1 \\over 2}\\left( {2m} \\right){\\left( v \\right)^2}$$\n<br><br> $$ = 2m{v^2} + m{v^2}$$\n<br><br>= $$3m{v^2}$$\n<br><br>Final kinetic energy,\n<br><br>$${E_f} = {1 \\over 2}\\left( {3m} \\right)$$$${V_f^2}$$\n<br><br>$$ = {{3m} \\over 2}\\left[ {{{8{v^2}} \\over 9}} \\right]$$\n<br><br>$$ = {{4m{v^2}} \\over 3}$$\n<br><br>Energy loss = $${E_i} - {E_f}$$\n<br><br>= $$3m{v^2} - {{4m{v^2}} \\over 3}$$\n<br><br>= $${{5m{v^2}} \\over 3}$$\n<br><br>Percentage loss in the energy during the collision\n<br><br>= $${{{E_i} - {E_f}} \\over {{E_i}}}$$$$ \\times 100$$\n<br><br>= $${{{{5m{v^2}} \\over 3}} \\over {3m{v^2}}}$$$$ \\times 100$$\n<br><br>= $${5 \\over 9} \\times 100$$\n<br><br>$$ \\simeq 56\\% $$",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l91oguxy/85d124a8-cb21-4c9b-ad8d-99746c3176de/08f77b70-4800-11ed-8757-0f869593f41f/file-1l91oguxz.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 112 English Explanation\"> <br>Applying conservation of linear momentum in x direction <br><br>$$2mv = \\left( 2m + m \\right)V_x$$ <br><br>$$ \\Rightarrow V_x = 2 \\over 3v$$ <br><br>Applying conservation of linear momentum in y direction <br><br>$$2mv = \\left( 2m + m \\right)V_y$$ <br><br>$$ \\Rightarrow V_y = 2 \\over 3v$$ <br><br>Final speed of 3m mass, $$V_f$$ = $$\\sqrt V_x^2 + V_y^2 $$ <br><br>= $$\\sqrt 4v^2 \\over 9 + 4v^2 \\over 9 $$ <br><br>= $$\\sqrt 8v^2 \\over 9 $$ <br><br>Initial kinetic energy <br><br>$$E_i = 1 \\over 2m\\left( 2v \\right)^2 + 1 \\over 2\\left( 2m \\right)\\left( v \\right)^2$$ <br><br> $$ = 2mv^2 + mv^2$$ <br><br>= $$3mv^2$$ <br><br>Final kinetic energy, <br><br>$$E_f = 1 \\over 2\\left( 3m \\right)$$$$V_f^2$$ <br><br>$$ = 3m \\over 2\\left[ 8v^2 \\over 9 \\right]$$ <br><br>$$ = 4mv^2 \\over 3$$ <br><br>Energy loss = $$E_i - E_f$$ <br><br>= $$3mv^2 - 4mv^2 \\over 3$$ <br><br>= $$5mv^2 \\over 3$$ <br><br>Percentage loss in the energy during the collision <br><br>= $$E_i - E_f \\over E_i$$$$ \\times 100$$ <br><br>= $$5mv^2 \\over 3 \\over 3mv^2$$$$ \\times 100$$ <br><br>= $$5 \\over 9 \\times 100$$ <br><br>$$ \\simeq 56\\% $$",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "In a collinear collision, a particle with an initial speed v<sub>0</sub> strikes a stationary particle of the same mass. If\nthe final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative\nvelocity between the two particles, after collision, is :",
+      "question": "In a collinear collision, a particle with an initial speed v<sub>0</sub> strikes a stationary particle of the same mass. If the final total kinetic energy is 50% greater than the original kinetic energy, the magnitude of the relative velocity between the two particles, after collision, is :",
       "options": {
-        "A": "$${{{v_0}} \\over {\\sqrt 2 }}$$ ",
-        "B": "$${{v_0}} \\over 4$$ ",
-        "C": "$$\\sqrt 2 {v_0}$$",
-        "D": "$${{v_0}} \\over 2$$ "
+        "A": "$$v_0 \\over \\sqrt 2 $$",
+        "B": "$$v_0 \\over 4$$",
+        "C": "$$\\sqrt 2 v_0$$",
+        "D": "$$v_0 \\over 2$$"
       },
       "answer": "C",
-      "solution": "From conservation of linear momentum,\n<br><br>mv<sub>0</sub> = mv<sub>1</sub> + mv<sub>2</sub>\n<br><br>or v<sub>0</sub> = v<sub>1</sub> + v<sub>2</sub> ........(1)\n<br><br>According to the question,\n<br><br>K<sub>f</sub> = $${3 \\over 2}$$K<sub>i</sub>\n<br><br>$$ \\Rightarrow $$ $${1 \\over 2}mv_1^2 + {1 \\over 2}mv_2^2 = {3 \\over 2} \\times {1 \\over 2}mv_0^2$$\n<br><br>$$ \\Rightarrow $$ $$v_1^2 + v_2^2 = {3 \\over 2}v_0^2$$\n<br><br>Using eq (1) $${\\left( {{v_1} + {v_2}} \\right)^2} = v_0^2$$\n<br><br>$$ \\Rightarrow $$ $$v_1^2 + v_2^2 + 2{v_1}{v_2}$$ = $$v_0^2$$\n<br><br>$$ \\Rightarrow $$ $$2{v_1}{v_2}$$ = $$v_0^2 - {3 \\over 2}v_0^2$$ = $$ - {1 \\over 2}v_0^2$$\n<br><br>Now, $${\\left( {{v_1} - {v_2}} \\right)^2}$$ = $${\\left( {{v_1} + {v_2}} \\right)^2} - 4{v_1}{v_2}$$\n<br><br>= $$v_0^2 - \\left( { - v_0^2} \\right)$$ = $$2v_0^2$$\n<br><br>$$\\therefore$$ $${{v_1} - {v_2}}$$ = $$\\sqrt 2 {v_0}$$",
+      "solution": "From conservation of linear momentum, <br><br>mv<sub>0</sub> = mv<sub>1</sub> + mv<sub>2</sub> <br><br>or v<sub>0</sub> = v<sub>1</sub> + v<sub>2</sub> ........(1) <br><br>According to the question, <br><br>K<sub>f</sub> = $$3 \\over 2$$K<sub>i</sub> <br><br>$$ \\Rightarrow $$ $$1 \\over 2mv_1^2 + 1 \\over 2mv_2^2 = 3 \\over 2 \\times 1 \\over 2mv_0^2$$ <br><br>$$ \\Rightarrow $$ $$v_1^2 + v_2^2 = 3 \\over 2v_0^2$$ <br><br>Using eq (1) $$\\left( v_1 + v_2 \\right)^2 = v_0^2$$ <br><br>$$ \\Rightarrow $$ $$v_1^2 + v_2^2 + 2v_1v_2$$ = $$v_0^2$$ <br><br>$$ \\Rightarrow $$ $$2v_1v_2$$ = $$v_0^2 - 3 \\over 2v_0^2$$ = $$ - 1 \\over 2v_0^2$$ <br><br>Now, $$\\left( v_1 - v_2 \\right)^2$$ = $$\\left( v_1 + v_2 \\right)^2 - 4v_1v_2$$ <br><br>= $$v_0^2 - \\left( - v_0^2 \\right)$$ = $$2v_0^2$$ <br><br>$$\\therefore$$ $$v_1 - v_2$$ = $$\\sqrt 2 v_0$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A body of mass 2 kg makes an eleastic collision\nwith a second body at rest and continues to move\nin the original direction but with one fourth of its\noriginal speed. What is the mass of the second\nbody ?",
+      "question": "A body of mass 2 kg makes an eleastic collision with a second body at rest and continues to move in the original direction but with one fourth of its original speed. What is the mass of the second body ?",
       "options": {
         "A": "1.2 kg",
         "B": "1.0 kg",
@@ -477,59 +222,59 @@
         "D": "1.5 kg"
       },
       "answer": "A",
-      "solution": "By conservation of linear momentum:<br><br>\n$$2{v_0} = 2\\left( {{{{v_0}} \\over 4}} \\right) + mv \\Rightarrow 2{v_0} = {{{v_0}} \\over 2} + mv$$<br><br>\n$$ \\Rightarrow {{3{v_0}} \\over 2} = mv\\,\\,...(1)$$<br><br>\nSince collision is elastic<br><br>\n$${V_{separation}} = {V_{approch}}$$<br><br>\n$$ \\Rightarrow v - {{{v_0}} \\over 4} = {v_0} \\Rightarrow m = {6 \\over 5} = 1.2\\,kg$$",
+      "solution": "By conservation of linear momentum:<br><br> $$2v_0 = 2\\left( v_0 \\over 4 \\right) + mv \\Rightarrow 2v_0 = v_0 \\over 2 + mv$$<br><br> $$ \\Rightarrow 3v_0 \\over 2 = mv\\,\\,...(1)$$<br><br> Since collision is elastic<br><br> $$V_separation = V_approch$$<br><br> $$ \\Rightarrow v - v_0 \\over 4 = v_0 \\Rightarrow m = 6 \\over 5 = 1.2\\,kg$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A body of mass m<sub>1</sub> moving with an unknown\nvelocity of $${v_1}\\mathop i\\limits^ \\wedge  $$, undergoes a collinear collision\nwith a body of mass m<sub>2</sub> moving with a velocity\n$${v_2}\\mathop i\\limits^ \\wedge  $$ . After collision, m<sub>1</sub> and m<sub>2</sub> move with\nvelocities of $${v_3}\\mathop i\\limits^ \\wedge  $$ and $${v_4}\\mathop i\\limits^ \\wedge  $$ , respectively.\nIf m<sub>2</sub> = 0.5 m<sub>1</sub> and v<sub>3</sub> = 0.5 v<sub>1</sub>, then v<sub>1</sub> is :-",
+      "question": "A body of mass m<sub>1</sub> moving with an unknown velocity of $$v_1\\mathop i\\limits^ \\wedge $$, undergoes a collinear collision with a body of mass m<sub>2</sub> moving with a velocity $$v_2\\mathop i\\limits^ \\wedge $$ . After collision, m<sub>1</sub> and m<sub>2</sub> move with velocities of $$v_3\\mathop i\\limits^ \\wedge $$ and $$v_4\\mathop i\\limits^ \\wedge $$ , respectively. If m<sub>2</sub> = 0.5 m<sub>1</sub> and v<sub>3</sub> = 0.5 v<sub>1</sub>, then v<sub>1</sub> is :-",
       "options": {
-        "A": "$${v_4} - {{{v_2}} \\over 2}$$",
-        "B": "$${v_4} - {{{v_2}} \\over 4}$$",
-        "C": "$${v_4} - {v_2}$$",
-        "D": "$${v_4} + {v_2}$$"
+        "A": "$$v_4 - v_2 \\over 2$$",
+        "B": "$$v_4 - v_2 \\over 4$$",
+        "C": "$$v_4 - v_2$$",
+        "D": "$$v_4 + v_2$$"
       },
       "answer": "C",
-      "solution": "Applying linear momentum conservation<br><br>\n$${m_1}{v_1}\\widehat i + {m_2}{v_2}\\widehat i = {m_1}{v_3}\\widehat i + {m_2}{v_4}\\widehat i$$<br><br>\nm<sub>1</sub>v<sub>1</sub> + 0.5 m<sub>1</sub>v<sub>2</sub> =  m<sub>1</sub>(0.5 v<sub>1</sub>) + 0.5 m<sub>1</sub>v<sub>4</sub><br><br>\n0.5 m<sub>1</sub>v<sub>1</sub> = 0.5 m<sub>1</sub>(v<sub>4</sub> - v<sub>2</sub>)<br><br>\nv<sub>1</sub> = v<sub>4</sub> - v<sub>2</sub>",
+      "solution": "Applying linear momentum conservation<br><br> $$m_1v_1\\widehat i + m_2v_2\\widehat i = m_1v_3\\widehat i + m_2v_4\\widehat i$$<br><br> m<sub>1</sub>v<sub>1</sub> + 0.5 m<sub>1</sub>v<sub>2</sub> = m<sub>1</sub>(0.5 v<sub>1</sub>) + 0.5 m<sub>1</sub>v<sub>4</sub><br><br> 0.5 m<sub>1</sub>v<sub>1</sub> = 0.5 m<sub>1</sub>(v<sub>4</sub> - v<sub>2</sub>)<br><br> v<sub>1</sub> = v<sub>4</sub> - v<sub>2</sub>",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Two particles of equal mass m have respective\n<br/>initial velocities $$u\\widehat i$$ and $$u\\left( {{{\\widehat i + \\widehat j} \\over 2}} \\right)$$.\n<br/>They collide\ncompletely inelastically. The energy lost in the\nprocess is :",
+      "question": "Two particles of equal mass m have respective <br/>initial velocities $$u\\widehat i$$ and $$u\\left( \\widehat i + \\widehat j \\over 2 \\right)$$. <br/>They collide completely inelastically. The energy lost in the process is :",
       "options": {
-        "A": "$${1 \\over 3}m{u^2}$$",
-        "B": "$${1 \\over 8}m{u^2}$$",
-        "C": "$${3 \\over 4}m{u^2}$$",
-        "D": "$$\\sqrt {{2 \\over 3}} m{u^2}$$"
+        "A": "$$1 \\over 3mu^2$$",
+        "B": "$$1 \\over 8mu^2$$",
+        "C": "$$3 \\over 4mu^2$$",
+        "D": "$$\\sqrt 2 \\over 3 mu^2$$"
       },
       "answer": "B",
-      "solution": "$$\\overrightarrow {{P_i}}  = \\overrightarrow {{P_f}} $$\n<br><br>$$ \\Rightarrow $$ mu$$\\widehat i$$ + m$$\\left( {{u \\over 2}\\widehat i + {u \\over 2}\\widehat j} \\right)$$ = 2m$$\\overrightarrow v $$\n<br><br>Compare both side\n<br><br>$$\\overrightarrow v  = $$ $${{3u} \\over 4}\\widehat i + {u \\over 4}\\widehat j$$\n<br><br>$$ \\Rightarrow $$ $${\\left| {\\overrightarrow v } \\right|^2}$$ = $${{10{u^2}} \\over {16}}$$\n<br><br>$$\\Delta $$KE = KE<sub>f</sub> \\u2013 KE<sub>i</sub>\n<br><br>= $${1 \\over 2}2m \\times {{10{u^2}} \\over {16}}$$ - $${1 \\over 2}m{u^2}$$ - $${1 \\over 2}m{\\left( {{u \\over {\\sqrt 2 }}} \\right)^2}$$\n<br><br>= $$ - {1 \\over 8}m{u^2}$$",
+      "solution": "$$\\overrightarrow P_i = \\overrightarrow P_f $$ <br><br>$$ \\Rightarrow $$ mu$$\\widehat i$$ + m$$\\left( u \\over 2\\widehat i + u \\over 2\\widehat j \\right)$$ = 2m$$\\overrightarrow v $$ <br><br>Compare both side <br><br>$$\\overrightarrow v = $$ $$3u \\over 4\\widehat i + u \\over 4\\widehat j$$ <br><br>$$ \\Rightarrow $$ $$\\left| \\overrightarrow v \\right|^2$$ = $$10u^2 \\over 16$$ <br><br>$$\\Delta $$KE = KE<sub>f</sub> \\\u2013 KE<sub>i</sub> <br><br>= $$1 \\over 22m \\times 10u^2 \\over 16$$ - $$1 \\over 2mu^2$$ - $$1 \\over 2m\\left( u \\over \\sqrt 2 \\right)^2$$ <br><br>= $$ - 1 \\over 8mu^2$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A particle of mass m with an initial velocity $$u\\widehat i$$\ncollides perfectly elastically with a mass 3 m at\nrest. It moves with a velocity $$v\\widehat j$$ after collision,\nthen, v is given by :",
+      "question": "A particle of mass m with an initial velocity $$u\\widehat i$$ collides perfectly elastically with a mass 3 m at rest. It moves with a velocity $$v\\widehat j$$ after collision, then, v is given by :",
       "options": {
-        "A": "$$v = \\sqrt {{2 \\over 3}} u$$",
-        "B": "$$v = {u \\over {\\sqrt 3 }}$$",
-        "C": "$$v = {u \\over {\\sqrt 2 }}$$",
-        "D": "$$v = {1 \\over {\\sqrt 6 }}u$$"
+        "A": "$$v = \\sqrt 2 \\over 3 u$$",
+        "B": "$$v = u \\over \\sqrt 3 $$",
+        "C": "$$v = u \\over \\sqrt 2 $$",
+        "D": "$$v = 1 \\over \\sqrt 6 u$$"
       },
       "answer": "C",
-      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263788/exam_images/poqdjc1xnmmdiphatyez.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263934/exam_images/utvlhagwigwe4k8ngxgy.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265717/exam_images/nwijf9rwaqeaylnr89dj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Center of Mass and Collision Question 68 English Explanation\"></picture>\n<br><br>From momentum conservation\n<br><br>m(u)$$\\widehat i$$ + 3m(0) = mv$$\\widehat j$$ + 3m$$\\overrightarrow {v'} $$\n<br><br>$$ \\Rightarrow $$ 3m$$\\overrightarrow {v'} $$ = m(u)$$\\widehat i$$ - mv$$\\widehat j$$\n<br><br>$$ \\Rightarrow $$ $$\\overrightarrow {v'}  = {{u\\widehat i - v\\widehat j} \\over 3}$$\n<br><br>$$ \\therefore $$ $$\\left| {\\overrightarrow {v'} } \\right| = {{\\sqrt {{u^2} + {v^2}} } \\over 3}$$\n<br><br>$$ \\Rightarrow $$ $${\\left| {\\overrightarrow {v'} } \\right|^2} = {{{u^2} + {v^2}} \\over 9}$$ ......(1)\n<br><br>As collision is perfectely elastic hence <br><br>KE<sub>i</sub>\n = KE<sub>j</sub>\n<br><br>$$ \\Rightarrow $$ $${1 \\over 2}m{u^2} + {1 \\over 2}\\left( {3m} \\right) \\times {0^2} = {1 \\over 2}m{v^2} + {1 \\over 2}3m{\\left( {v'} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ u<sup>2</sup> = v<sup>2</sup> + 3$${\\left( {v'} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ u<sup>2</sup> = v<sup>2</sup> + 3$$\\left( {{{{u^2} + {v^2}} \\over 9}} \\right)$$\n<br><br>$$ \\Rightarrow $$ 3u<sup>2</sup> = 3v<sup>2</sup> + u<sup>2</sup> + v<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ 2u<sup>2</sup> = 4v<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ $$v = {u \\over {\\sqrt 2 }}$$",
+      "solution": "<picture><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263788/exam_images/poqdjc1xnmmdiphatyez.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263934/exam_images/utvlhagwigwe4k8ngxgy.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265717/exam_images/nwijf9rwaqeaylnr89dj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 2nd September Morning Slot Physics - Center of Mass and Collision Question 68 English Explanation\"></picture> <br><br>From momentum conservation <br><br>m(u)$$\\widehat i$$ + 3m(0) = mv$$\\widehat j$$ + 3m$$\\overrightarrow v' $$ <br><br>$$ \\Rightarrow $$ 3m$$\\overrightarrow v' $$ = m(u)$$\\widehat i$$ - mv$$\\widehat j$$ <br><br>$$ \\Rightarrow $$ $$\\overrightarrow v' = u\\widehat i - v\\widehat j \\over 3$$ <br><br>$$ \\therefore $$ $$\\left| \\overrightarrow v' \\right| = \\sqrt u^2 + v^2 \\over 3$$ <br><br>$$ \\Rightarrow $$ $$\\left| \\overrightarrow v' \\right|^2 = u^2 + v^2 \\over 9$$ ......(1) <br><br>As collision is perfectely elastic hence <br><br>KE<sub>i</sub> = KE<sub>j</sub> <br><br>$$ \\Rightarrow $$ $$1 \\over 2mu^2 + 1 \\over 2\\left( 3m \\right) \\times 0^2 = 1 \\over 2mv^2 + 1 \\over 23m\\left( v' \\right)^2$$ <br><br>$$ \\Rightarrow $$ u<sup>2</sup> = v<sup>2</sup> + 3$$\\left( v' \\right)^2$$ <br><br>$$ \\Rightarrow $$ u<sup>2</sup> = v<sup>2</sup> + 3$$\\left( u^2 + v^2 \\over 9 \\right)$$ <br><br>$$ \\Rightarrow $$ 3u<sup>2</sup> = 3v<sup>2</sup> + u<sup>2</sup> + v<sup>2</sup> <br><br>$$ \\Rightarrow $$ 2u<sup>2</sup> = 4v<sup>2</sup> <br><br>$$ \\Rightarrow $$ $$v = u \\over \\sqrt 2 $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : Body 'P' having mass M moving with speed 'u' has head-on collision elastically with another body 'Q' having mass 'm' initially at rest. If m &lt;&lt; M, body 'Q' will have a maximum speed equal to '2u' after collision.<br/><br/>Reason R : During elastic collision, the momentum and kinetic energy are both conserved.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Given below are two statements : one is labelled as Assertion A and the other is labelled as Reason R.<br/><br/>Assertion A : Body 'P' having mass M moving with speed 'u' has head-on collision elastically with another body 'Q' having mass 'm' initially at rest. If m << M, body 'Q' will have a maximum speed equal to '2u' after collision.<br/><br/>Reason R : During elastic collision, the momentum and kinetic energy are both conserved.<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "A is correct but R is not correct.",
         "B": "A is not correct but R is correct.",
@@ -537,7 +282,7 @@
         "D": "Both A and R are correct but R is NOT the correct explanation of A."
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267752/exam_images/hynytorlgqmtqikmstpj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Morning Shift Physics - Center of Mass and Collision Question 55 English Explanation\">\n<br><br>m &lt; &lt; M<br><br>e = $${{{v_2} - {v_1}} \\over {{u_1} - {u_2}}}$$<br><br>For elastic collision $$ \\to $$ e = 1<br><br>1 = $${{{v_2} - u} \\over {u - 0}}$$<br><br>u = v<sub>2</sub> $$-$$ u<br><br>v<sub>2</sub> = 2u<br><br>In elastic collision kinetic energy &amp; momentum are conserved.",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267752/exam_images/hynytorlgqmtqikmstpj.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 26th February Morning Shift Physics - Center of Mass and Collision Question 55 English Explanation\"> <br><br>m < < M<br><br>e = $$v_2 - v_1 \\over u_1 - u_2$$<br><br>For elastic collision $$ \\to $$ e = 1<br><br>1 = $$v_2 - u \\over u - 0$$<br><br>u = v<sub>2</sub> $$-$$ u<br><br>v<sub>2</sub> = 2u<br><br>In elastic collision kinetic energy & momentum are conserved.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -552,7 +297,7 @@
         "D": "1 : 2"
       },
       "answer": "B",
-      "solution": "Before collision<br><br> <picture><source media=\"(max-width: 2321px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263574/exam_images/qndypg8zbkjbtu5wxz22.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267376/exam_images/ou7eyc6dkyg7qew4uu9j.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267506/exam_images/yofjepa4wuaduvcoeuu3.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265339/exam_images/p5yh5lta7nzxzzx71b1i.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267567/exam_images/wjvjzd4agmzft4wvxerq.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266576/exam_images/cjasfznfpfvkk8zu8pyx.webp\"><source media=\"(max-width: 1220px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267238/exam_images/uvw309v7bco7zcafc3xp.webp\"><source media=\"(max-width: 1400px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266294/exam_images/vvokmzpjnqxgeyfnlbpr.webp\"><source media=\"(max-width: 1580px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266395/exam_images/hqof9d3c2ef0qowtnb9l.webp\"><source media=\"(max-width: 1760px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265473/exam_images/cleduxritctcp0que6rv.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263745/exam_images/ljpavkqhq5dilkime3yy.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Center of Mass and Collision Question 48 English Explanation 1\"></picture> <br><br>After collision,<br><br> <picture><source media=\"(max-width: 3423px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264205/exam_images/shivr6bzgparq5ga5bxj.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265127/exam_images/gilf1znlnmdk7qfcbxll.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266058/exam_images/i32gidrix8jdslcoaeqr.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266682/exam_images/oe9xzpcnht2meojttbqc.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267317/exam_images/klbvyoeqrhhwxtqne1oz.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264946/exam_images/mlovrt0mzwvne4lipjkj.webp\"><source media=\"(max-width: 1220px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267473/exam_images/frh3zg4xy5wqrg3xmiyi.webp\"><source media=\"(max-width: 1400px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263711/exam_images/hxtxzcco25jr5rg1txdq.webp\"><source media=\"(max-width: 1580px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264859/exam_images/n3nfzos0vzgvg9kviip6.webp\"><source media=\"(max-width: 1760px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266928/exam_images/h7claq8pzxhncjkkzvz3.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264069/exam_images/tjslxrzg7ryb7tnzp55m.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Center of Mass and Collision Question 48 English Explanation 2\"></picture> <br><br>Applying momentum conservation,<br><br>m<sub>1</sub>v<sub>1</sub> = m<sub>2</sub>v $$-$$ m<sub>1</sub>v ..... (1)<br><br>As collision is elastic,<br><br>$$ \\therefore $$ e = 1<br><br>$$ \\Rightarrow $$ $${{v - ( - v)} \\over {0 - {v_1}}} = 1$$<br><br>$$ \\Rightarrow $$ v<sub>1</sub> = 2v ..... (2)<br><br>Put value of v<sub>1</sub> in equation (1),<br><br>m<sub>1</sub> (2v) = (m<sub>2</sub> $$-$$ m<sub>1</sub>)v<br><br>$$ \\Rightarrow $$ 2m<sub>1</sub> = m<sub>2</sub> $$-$$ m<sub>1</sub><br><br>$$ \\Rightarrow $$ 3m<sub>1</sub> = m<sub>2</sub> $$ \\Rightarrow $$ $${{{m_2}} \\over {{m_1}}} = {3 \\over 1}$$",
+      "solution": "Before collision<br><br> <picture><source media=\"(max-width: 2321px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263574/exam_images/qndypg8zbkjbtu5wxz22.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267376/exam_images/ou7eyc6dkyg7qew4uu9j.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267506/exam_images/yofjepa4wuaduvcoeuu3.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265339/exam_images/p5yh5lta7nzxzzx71b1i.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267567/exam_images/wjvjzd4agmzft4wvxerq.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266576/exam_images/cjasfznfpfvkk8zu8pyx.webp\"><source media=\"(max-width: 1220px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267238/exam_images/uvw309v7bco7zcafc3xp.webp\"><source media=\"(max-width: 1400px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266294/exam_images/vvokmzpjnqxgeyfnlbpr.webp\"><source media=\"(max-width: 1580px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266395/exam_images/hqof9d3c2ef0qowtnb9l.webp\"><source media=\"(max-width: 1760px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265473/exam_images/cleduxritctcp0que6rv.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263745/exam_images/ljpavkqhq5dilkime3yy.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Center of Mass and Collision Question 48 English Explanation 1\"></picture> <br><br>After collision,<br><br> <picture><source media=\"(max-width: 3423px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264205/exam_images/shivr6bzgparq5ga5bxj.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265127/exam_images/gilf1znlnmdk7qfcbxll.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266058/exam_images/i32gidrix8jdslcoaeqr.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266682/exam_images/oe9xzpcnht2meojttbqc.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267317/exam_images/klbvyoeqrhhwxtqne1oz.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264946/exam_images/mlovrt0mzwvne4lipjkj.webp\"><source media=\"(max-width: 1220px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267473/exam_images/frh3zg4xy5wqrg3xmiyi.webp\"><source media=\"(max-width: 1400px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263711/exam_images/hxtxzcco25jr5rg1txdq.webp\"><source media=\"(max-width: 1580px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264859/exam_images/n3nfzos0vzgvg9kviip6.webp\"><source media=\"(max-width: 1760px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266928/exam_images/h7claq8pzxhncjkkzvz3.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264069/exam_images/tjslxrzg7ryb7tnzp55m.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Center of Mass and Collision Question 48 English Explanation 2\"></picture> <br><br>Applying momentum conservation,<br><br>m<sub>1</sub>v<sub>1</sub> = m<sub>2</sub>v $$-$$ m<sub>1</sub>v ..... (1)<br><br>As collision is elastic,<br><br>$$ \\therefore $$ e = 1<br><br>$$ \\Rightarrow $$ $$v - ( - v) \\over 0 - v_1 = 1$$<br><br>$$ \\Rightarrow $$ v<sub>1</sub> = 2v ..... (2)<br><br>Put value of v<sub>1</sub> in equation (1),<br><br>m<sub>1</sub> (2v) = (m<sub>2</sub> $$-$$ m<sub>1</sub>)v<br><br>$$ \\Rightarrow $$ 2m<sub>1</sub> = m<sub>2</sub> $$-$$ m<sub>1</sub><br><br>$$ \\Rightarrow $$ 3m<sub>1</sub> = m<sub>2</sub> $$ \\Rightarrow $$ $$m_2 \\over m_1 = 3 \\over 1$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -567,14 +312,14 @@
         "D": "2"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264319/exam_images/mcdijut1xrwp3d57papi.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Center of Mass and Collision Question 38 English Explanation\"><br>Given $$\\theta$$<sub>1</sub> = $$\\theta$$<sub>2</sub> = $$\\theta$$<br><br>from momentum conservation<br><br>in x-direction MV<sub>0</sub> = MV<sub>1</sub> cos$$\\theta$$ + mV<sub>2</sub> cos$$\\theta$$<br><br>in y-direction 0 = MV<sub>1</sub> sin$$\\theta$$ $$-$$ mV<sub>2</sub> sin$$\\theta$$<br><br>Solving above equations<br><br>$${V_2} = {{M{V_1}} \\over m}$$, V<sub>0</sub> = 2V<sub>1</sub> cos$$\\theta$$<br><br>From energy conservation<br><br>$${1 \\over 2}MV_0^2 = {1 \\over 2}MV_1^2 + {1 \\over 2}MV_2^2$$<br><br>Substituting value of V<sub>2</sub> &amp; V<sub>0</sub>, we will get<br><br>$${M \\over m} + 1 = 4{\\cos ^2}\\theta  \\le 4$$<br><br>$${M \\over m} \\le 3$$<br><br>Option (c)",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264319/exam_images/mcdijut1xrwp3d57papi.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Center of Mass and Collision Question 38 English Explanation\"><br>Given $$\\theta$$<sub>1</sub> = $$\\theta$$<sub>2</sub> = $$\\theta$$<br><br>from momentum conservation<br><br>in x-direction MV<sub>0</sub> = MV<sub>1</sub> cos$$\\theta$$ + mV<sub>2</sub> cos$$\\theta$$<br><br>in y-direction 0 = MV<sub>1</sub> sin$$\\theta$$ $$-$$ mV<sub>2</sub> sin$$\\theta$$<br><br>Solving above equations<br><br>$$V_2 = MV_1 \\over m$$, V<sub>0</sub> = 2V<sub>1</sub> cos$$\\theta$$<br><br>From energy conservation<br><br>$$1 \\over 2MV_0^2 = 1 \\over 2MV_1^2 + 1 \\over 2MV_2^2$$<br><br>Substituting value of V<sub>2</sub> & V<sub>0</sub>, we will get<br><br>$$M \\over m + 1 = 4\\cos ^2\\theta \\le 4$$<br><br>$$M \\over m \\le 3$$<br><br>Option (c)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>What percentage of kinetic energy of a moving particle is transferred to a stationary particle when it strikes the stationary particle of 5 times its mass?</p>\n<p>(Assume the collision to be head-on elastic collision)</p>",
+      "question": "<p>What percentage of kinetic energy of a moving particle is transferred to a stationary particle when it strikes the stationary particle of 5 times its mass?</p> <p>(Assume the collision to be head-on elastic collision)</p>",
       "options": {
         "A": "50.0%",
         "B": "66.6%",
@@ -582,7 +327,7 @@
         "D": "33.3%"
       },
       "answer": "C",
-      "solution": "<p>For a head on elastic collision</p>\n<p>$${v_2} = {{m{u_1}} \\over {m + 5m}} + {{m{u_1}} \\over {m + 5m}}$$</p>\n<p>$$ = {{2{u_1}} \\over 6}$$ or $${{{u_1}} \\over 3}$$</p>\n<p>Initial kinetic energy of first mass $$ = {1 \\over 2}mu_1^2$$</p>\n<p>Final kinetic energy of second mass</p>\n<p>$$ = {1 \\over 2} \\times 5m{\\left( {{{{u_1}} \\over 3}} \\right)^2}$$</p>\n<p>$$ = {5 \\over 9}\\left( {{1 \\over 2}mu_1^2} \\right)$$</p>\n<p>$$\\Rightarrow$$ kinetic energy transferred = 55% of initial kinetic energy of first colliding mass</p>",
+      "solution": "<p>For a head on elastic collision</p> <p>$$v_2 = mu_1 \\over m + 5m + mu_1 \\over m + 5m$$</p> <p>$$ = 2u_1 \\over 6$$ or $$u_1 \\over 3$$</p> <p>Initial kinetic energy of first mass $$ = 1 \\over 2mu_1^2$$</p> <p>Final kinetic energy of second mass</p> <p>$$ = 1 \\over 2 \\times 5m\\left( u_1 \\over 3 \\right)^2$$</p> <p>$$ = 5 \\over 9\\left( 1 \\over 2mu_1^2 \\right)$$</p> <p>$$\\Rightarrow$$ kinetic energy transferred = 55% of initial kinetic energy of first colliding mass</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -592,19 +337,19 @@
       "question": "<p>A particle of mass m moving with velocity v collides with a stationary particle of mass 2m. After collision, they stick together and continue to move together with velocity</p>",
       "options": {
         "A": "$$v$$",
-        "B": "$$\\frac{v}{3}$$",
-        "C": "$$\\frac{v}{4}$$",
-        "D": "$$\\frac{v}{2}$$"
+        "B": "$$\\fracv3$$",
+        "C": "$$\\fracv4$$",
+        "D": "$$\\fracv2$$"
       },
       "answer": "B",
-      "solution": "<p>When two particles collide, the total momentum before the collision is equal to the total momentum after the collision, according to the law of conservation of momentum. Therefore, we can write:</p>\n<p>$$mv = (m+2m) v_f$$</p>\n<p>where $v_f$ is the final velocity of the combined particles.</p>\n<p>Simplifying the above equation, we get:</p>\n<p>$$v_f = \\frac{mv}{3m} = \\frac{v}{3}$$</p>\n<p>So, the correct option is $$\\frac{v}{3}$$.</p>",
+      "solution": "<p>When two particles collide, the total momentum before the collision is equal to the total momentum after the collision, according to the law of conservation of momentum. Therefore, we can write:</p> <p>$$mv = (m+2m) v_f$$</p> <p>where $v_f$ is the final velocity of the combined particles.</p> <p>Simplifying the above equation, we get:</p> <p>$$v_f = \\fracmv3m = \\fracv3$$</p> <p>So, the correct option is $$\\fracv3$$.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Particle A of mass m<sub>1</sub>\n moving with velocity $$\\left( {\\sqrt3\\widehat i + \\widehat j} \\right)m{s^{ - 1}}$$ collides with another particle B of mass m<sub>2</sub>\nwhich is at rest initially. Let $$\\overrightarrow {{V_1}} $$\n and $$\\overrightarrow {{V_2}} $$\n be the velocities of particles A and B after collision\nrespectively. If m<sub>1</sub>\n = 2m<sub>2</sub>\n and after<br/> collision $$\\overrightarrow {{V_1}}  = $$$$\\left( {\\widehat i + \\sqrt 3 \\widehat j} \\right)$$\n, the angle between $$\\overrightarrow {{V_1}} $$\n and $$\\overrightarrow {{V_2}} $$\n is :",
+      "question": "Particle A of mass m<sub>1</sub> moving with velocity $$\\left( \\sqrt3\\widehat i + \\widehat j \\right)ms^ - 1$$ collides with another particle B of mass m<sub>2</sub> which is at rest initially. Let $$\\overrightarrow V_1 $$ and $$\\overrightarrow V_2 $$ be the velocities of particles A and B after collision respectively. If m<sub>1</sub> = 2m<sub>2</sub> and after<br/> collision $$\\overrightarrow V_1 = $$$$\\left( \\widehat i + \\sqrt 3 \\widehat j \\right)$$ , the angle between $$\\overrightarrow V_1 $$ and $$\\overrightarrow V_2 $$ is :",
       "options": {
         "A": "105<sup>o</sup>",
         "B": "15<sup>o</sup>",
@@ -612,7 +357,7 @@
         "D": "60<sup>o</sup>"
       },
       "answer": "A",
-      "solution": "Given m<sub>1</sub>\n = 2m<sub>2</sub>\n<br>So let, m<sub>2</sub> = m and m<sub>1</sub> = 2m\n<br><br>From momentum conservation\n<br><br>$${\\overrightarrow p _i}$$ = $${\\overrightarrow p _f}$$\n<br><br>$$ \\Rightarrow $$ (2m)$$\\left( {\\sqrt 3 \\widehat i + \\widehat j} \\right)$$ + 0 = 2m$$\\left( {\\widehat i + \\sqrt 3 \\widehat j} \\right)$$ + m$${\\overrightarrow V _2}$$\n<br><br>$$ \\Rightarrow $$ $${\\overrightarrow V _2}$$ = 2$$\\left( {\\sqrt 3 \\widehat i + \\widehat j} \\right)$$ - 2$$\\left( {\\widehat i + \\sqrt 3 \\widehat j} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${\\overrightarrow V _2}$$ = $$\\left( {2\\sqrt 3  - 2} \\right)\\widehat i - \\widehat j\\left( {2\\sqrt 3  - 2} \\right)$$\n<br><br>= $$2\\left( {\\sqrt 3  - 1} \\right)\\left( {\\widehat i - \\widehat j} \\right)$$\n<br><br>Also given after collision $$\\overrightarrow {{V_1}}  = \\left( {\\widehat i + \\sqrt3\\widehat j} \\right)m{s^{ - 1}}$$\n\n<br><br>For angle between $${\\overrightarrow V _1}$$ &amp; $${\\overrightarrow V _2}$$,\n<br><br>cos $$\\theta $$ = $${{{{\\overrightarrow V }_1}.{{\\overrightarrow V }_2}} \\over {\\left| {{{\\overrightarrow V }_1}} \\right|\\left| {{{\\overrightarrow V }_2}} \\right|}}$$\n<br><br>= $${{2\\left( {\\sqrt 3  - 1} \\right) \\times 1 - 2\\left( {\\sqrt 3  - 1} \\right) \\times \\sqrt 3 } \\over {2 \\times 2\\sqrt 2 \\left( {\\sqrt 3  - 1} \\right)}}$$\n<br><br>= $${{2\\left( {\\sqrt 3  - 1} \\right)\\left( {1 - \\sqrt 3 } \\right)} \\over {2 \\times 2\\sqrt 2 \\left( {\\sqrt 3  - 1} \\right)}}$$\n<br><br>= $${{\\left( {1 - \\sqrt 3 } \\right)} \\over {2\\sqrt 2 }}$$\n<br><br>$$ \\Rightarrow $$ $$\\theta $$ = 105<sup>o</sup>",
+      "solution": "Given m<sub>1</sub> = 2m<sub>2</sub> <br>So let, m<sub>2</sub> = m and m<sub>1</sub> = 2m <br><br>From momentum conservation <br><br>$$\\overrightarrow p _i$$ = $$\\overrightarrow p _f$$ <br><br>$$ \\Rightarrow $$ (2m)$$\\left( \\sqrt 3 \\widehat i + \\widehat j \\right)$$ + 0 = 2m$$\\left( \\widehat i + \\sqrt 3 \\widehat j \\right)$$ + m$$\\overrightarrow V _2$$ <br><br>$$ \\Rightarrow $$ $$\\overrightarrow V _2$$ = 2$$\\left( \\sqrt 3 \\widehat i + \\widehat j \\right)$$ - 2$$\\left( \\widehat i + \\sqrt 3 \\widehat j \\right)$$ <br><br>$$ \\Rightarrow $$ $$\\overrightarrow V _2$$ = $$\\left( 2\\sqrt 3 - 2 \\right)\\widehat i - \\widehat j\\left( 2\\sqrt 3 - 2 \\right)$$ <br><br>= $$2\\left( \\sqrt 3 - 1 \\right)\\left( \\widehat i - \\widehat j \\right)$$ <br><br>Also given after collision $$\\overrightarrow V_1 = \\left( \\widehat i + \\sqrt3\\widehat j \\right)ms^ - 1$$ <br><br>For angle between $$\\overrightarrow V _1$$ & $$\\overrightarrow V _2$$, <br><br>cos $$\\theta $$ = $$\\overrightarrow V _1.\\overrightarrow V _2 \\over \\left| \\overrightarrow V _1 \\right|\\left| \\overrightarrow V _2 \\right|$$ <br><br>= $$2\\left( \\sqrt 3 - 1 \\right) \\times 1 - 2\\left( \\sqrt 3 - 1 \\right) \\times \\sqrt 3 \\over 2 \\times 2\\sqrt 2 \\left( \\sqrt 3 - 1 \\right)$$ <br><br>= $$2\\left( \\sqrt 3 - 1 \\right)\\left( 1 - \\sqrt 3 \\right) \\over 2 \\times 2\\sqrt 2 \\left( \\sqrt 3 - 1 \\right)$$ <br><br>= $$\\left( 1 - \\sqrt 3 \\right) \\over 2\\sqrt 2 $$ <br><br>$$ \\Rightarrow $$ $$\\theta $$ = 105<sup>o</sup>",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -627,14 +372,14 @@
         "D": "400%"
       },
       "answer": "A",
-      "solution": "K<sub>2</sub> = 4K<sub>1</sub><br><br>$${1 \\over 2}$$mv$$_2^2$$ = 4$${1 \\over 2}$$mv$$_1^2$$<br><br>v<sub>2</sub> = 2v<sub>1</sub><br><br>P = mv<br><br>P<sub>2</sub> = mv<sub>2</sub> = 2mv<sub>1</sub><br><br>P<sub>1</sub> = mv<sub>1</sub><br><br>% change = $${{\\Delta P} \\over {{P_1}}} \\times 100 = {{2m{v_1} - m{v_1}} \\over {m{v_1}}} \\times 100 = 100\\% $$",
+      "solution": "K<sub>2</sub> = 4K<sub>1</sub><br><br>$$1 \\over 2$$mv$$_2^2$$ = 4$$1 \\over 2$$mv$$_1^2$$<br><br>v<sub>2</sub> = 2v<sub>1</sub><br><br>P = mv<br><br>P<sub>2</sub> = mv<sub>2</sub> = 2mv<sub>1</sub><br><br>P<sub>1</sub> = mv<sub>1</sub><br><br>% change = $$\\Delta P \\over P_1 \\times 100 = 2mv_1 - mv_1 \\over mv_1 \\times 100 = 100\\% $$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A body of mass $$8 \\mathrm{~kg}$$ and another of mass $$2 \\mathrm{~kg}$$ are moving with equal kinetic energy. The ratio of their respective momentum will be :</p>",
+      "question": "<p>A body of mass $$8 ~kg$$ and another of mass $$2 ~kg$$ are moving with equal kinetic energy. The ratio of their respective momentum will be :</p>",
       "options": {
         "A": "1 : 1",
         "B": "2 : 1",
@@ -642,7 +387,7 @@
         "D": "4 : 1"
       },
       "answer": "B",
-      "solution": "<p>$$P = \\sqrt {2m\\,KE} $$</p>\n<p>$$ \\Rightarrow {{{P_1}} \\over {{P_2}}} = \\sqrt {{{{m_1}} \\over {{m_2}}}} $$</p>\n<p>$$ = \\sqrt {{8 \\over 2}}  = {2 \\over 1}$$</p>",
+      "solution": "<p>$$P = \\sqrt 2m\\,KE $$</p> <p>$$ \\Rightarrow P_1 \\over P_2 = \\sqrt m_1 \\over m_2 $$</p> <p>$$ = \\sqrt 8 \\over 2 = 2 \\over 1$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -657,14 +402,14 @@
         "D": "48%"
       },
       "answer": "C",
-      "solution": "<p>Let, initial momentum of body $$({p_i}) = p$$</p>\n<p>$$\\therefore$$ Final momentum $$({p_f}) = {p_i} + 20\\% $$ of $${p_i}$$</p>\n<p>$$ = p + 0.2~p$$</p>\n<p>$$ = 1.2~p$$</p>\n<p>We know,</p>\n<p>Kinetic energy $$(E) = {{{p^2}} \\over {2m}}$$</p>\n<p>$$\\therefore$$ $${E_i} = {{{p^2}} \\over {2m}}$$</p>\n<p>and $${E_f} = {{{{(1.2p)}^2}} \\over {2m}} = {{1.44\\,{p^2}} \\over {2m}}$$</p>\n<p>$$\\therefore$$ % Change in kinetic energy</p>\n<p>$$ = {{{E_f} - {E_i}} \\over {{E_i}}} \\times 100$$</p>\n<p>$$ = {{{{1.44\\,{p^2}} \\over {2m}} - {{{p^2}} \\over {2m}}} \\over {{{{p^2}} \\over {2m}}}} \\times 100$$</p>\n<p>$$ = {{{{{p^2}} \\over {2m}}(1.44 - 1)} \\over {{{{p^2}} \\over {2m}}}} \\times 100 = 0.44 \\times 100 = 44$$</p>",
+      "solution": "<p>Let, initial momentum of body $$(p_i) = p$$</p> <p>$$\\therefore$$ Final momentum $$(p_f) = p_i + 20\\% $$ of $$p_i$$</p> <p>$$ = p + 0.2~p$$</p> <p>$$ = 1.2~p$$</p> <p>We know,</p> <p>Kinetic energy $$(E) = p^2 \\over 2m$$</p> <p>$$\\therefore$$ $$E_i = p^2 \\over 2m$$</p> <p>and $$E_f = (1.2p)^2 \\over 2m = 1.44\\,p^2 \\over 2m$$</p> <p>$$\\therefore$$ % Change in kinetic energy</p> <p>$$ = E_f - E_i \\over E_i \\times 100$$</p> <p>$$ = 1.44\\,p^2 \\over 2m - p^2 \\over 2m \\over p^2 \\over 2m \\times 100$$</p> <p>$$ = p^2 \\over 2m(1.44 - 1) \\over p^2 \\over 2m \\times 100 = 0.44 \\times 100 = 44$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A ball of mass $$200 \\mathrm{~g}$$ rests on a vertical post of height $$20 \\mathrm{~m}$$. A bullet of mass $$10 \\mathrm{~g}$$, travelling in horizontal direction, hits the centre of the ball. After collision both travels independently. The ball hits the ground at a distance $$30 \\mathrm{~m}$$ and the bullet at a distance of $$120 \\mathrm{~m}$$ from the foot of the post. The value of initial velocity of the bullet will be (if $$g=10 \\mathrm{~m} / \\mathrm{s}^{2}$$) :</p>",
+      "question": "<p>A ball of mass $$200 ~g$$ rests on a vertical post of height $$20 ~m$$. A bullet of mass $$10 ~g$$, travelling in horizontal direction, hits the centre of the ball. After collision both travels independently. The ball hits the ground at a distance $$30 ~m$$ and the bullet at a distance of $$120 ~m$$ from the foot of the post. The value of initial velocity of the bullet will be (if $$g=10 ~m / s^2$$) :</p>",
       "options": {
         "A": "120 m/s",
         "B": "360 m/s",
@@ -672,7 +417,7 @@
         "D": "60 m/s"
       },
       "answer": "B",
-      "solution": "<p>$$\\because$$ Time of flight of each ball and bullet</p>\n<p>$$ = \\sqrt {{{2H} \\over g}}  = \\sqrt {{{2 \\times 20} \\over {10}}}  = 2$$ s</p>\n<p>$$\\Rightarrow$$ By applying linear momentum conservation</p>\n<p>$$100u + 200(0) = 200\\left( {{{30} \\over 2}} \\right) + 10\\left( {{{120} \\over 2}} \\right)$$</p>\n<p>$$u = 360$$ m/s</p>",
+      "solution": "<p>$$\\because$$ Time of flight of each ball and bullet</p> <p>$$ = \\sqrt 2H \\over g = \\sqrt 2 \\times 20 \\over 10 = 2$$ s</p> <p>$$\\Rightarrow$$ By applying linear momentum conservation</p> <p>$$100u + 200(0) = 200\\left( 30 \\over 2 \\right) + 10\\left( 120 \\over 2 \\right)$$</p> <p>$$u = 360$$ m/s</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -681,35 +426,35 @@
     {
       "question": "<p>An artillery piece of mass $$M_1$$ fires a shell of mass $$M_2$$ horizontally. Instantaneously after the firing, the ratio of kinetic energy of the artillery and that of the shell is:</p>",
       "options": {
-        "A": "$$M_1 /\\left(M_1+M_2\\right)$$\n",
-        "B": "$$\\frac{M_2}{M_1}$$\n",
-        "C": "$$\\frac{M_1}{M_2}$$\n",
+        "A": "$$M_1 /\\left(M_1+M_2\\right)$$",
+        "B": "$$\\fracM_2M_1$$",
+        "C": "$$\\fracM_1M_2$$",
         "D": "$$M_2 /\\left(M_1+M_2\\right)$$"
       },
       "answer": "B",
-      "solution": "<p>$$\\begin{aligned}\n& \\left|\\overrightarrow{\\mathrm{p}_1}\\right|=\\left|\\overrightarrow{\\mathrm{p}_2}\\right| \\\\\n& \\mathrm{KE}=\\frac{\\mathrm{p}^2}{2 \\mathrm{M}} ; \\mathrm{p} \\text { same } \\\\\n& \\mathrm{KE} \\propto \\frac{1}{\\mathrm{~m}} \\\\\n& \\frac{\\mathrm{KE}_1}{\\mathrm{KE}_2}=\\frac{\\mathrm{p}^2 / 2 \\mathrm{M}_1}{\\mathrm{p}^2 / 2 \\mathrm{M}_2}=\\frac{\\mathrm{M}_2}{\\mathrm{M}_1}\n\\end{aligned}$$</p>",
+      "solution": "<p>$$\\beginaligned & \\left|\\overrightarrowp_1\\right|=\\left|\\overrightarrowp_2\\right| \\\\ & KE=\\fracp^22 M ; p \\text same \\\\ & KE \\propto \\frac1~m \\\\ & \\fracKE_1KE_2=\\fracp^2 / 2 M_1p^2 / 2 M_2=\\fracM_2M_1 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A small object at rest, absorbs a light pulse of power $$20 \\mathrm{~mW}$$ and duration $$300 \\mathrm{~ns}$$. Assuming speed of light as $$3 \\times 10^{8} \\mathrm{~m} / \\mathrm{s}$$, the momentum of the object becomes equal to :</p>",
+      "question": "<p>A small object at rest, absorbs a light pulse of power $$20 ~mW$$ and duration $$300 ~ns$$. Assuming speed of light as $$3 \\times 10^8 ~m / s$$, the momentum of the object becomes equal to :</p>",
       "options": {
-        "A": "$$1 \\times 10^{-17} \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$$",
-        "B": "$$0.5 \\times 10^{-17} \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$$",
-        "C": "$$3 \\times 10^{-17} \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$$",
-        "D": "$$2 \\times 10^{-17} \\mathrm{~kg} \\mathrm{~m} / \\mathrm{s}$$"
+        "A": "$$1 \\times 10^-17 ~kg ~m / s$$",
+        "B": "$$0.5 \\times 10^-17 ~kg ~m / s$$",
+        "C": "$$3 \\times 10^-17 ~kg ~m / s$$",
+        "D": "$$2 \\times 10^-17 ~kg ~m / s$$"
       },
       "answer": "D",
-      "solution": "<p>Assuming the small object as photon.</p>\n<p>Momentum $$(p)=\\frac{E}{C}$$</p>\n<p>$$=\\frac{20\\times10^{-3}\\times300\\times10^{-9}}{3\\times10^8}$$</p>\n<p>$$=2\\times10^{-17}$$ kg m/s</p>",
+      "solution": "<p>Assuming the small object as photon.</p> <p>Momentum $$(p)=\\fracEC$$</p> <p>$$=\\frac20\\times10^-3\\times300\\times10^-93\\times10^8$$</p> <p>$$=2\\times10^-17$$ kg m/s</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>In photo electric effect</p>\n<p>A. The photocurrent is proportional to the intensity of the incident radiation</p>\n<p>B. Maximum Kinetic energy with which photoelectrons are emitted depends on the intensity of incident light.</p>\n<p>C. Max. K.E with which photoelectrons are emitted depends on the frequency of incident light.</p>\n<p>D. The emission of photoelectrons require a minimum threshold intensity of incident radiation.</p>\n<p>E. Max. K.E of the photoelectrons is independent of the frequency of the incident light.</p>\n<p>Choose the correct answer from the options given below:</p>",
+      "question": "<p>In photo electric effect</p> <p>A. The photocurrent is proportional to the intensity of the incident radiation</p> <p>B. Maximum Kinetic energy with which photoelectrons are emitted depends on the intensity of incident light.</p> <p>C. Max. K.E with which photoelectrons are emitted depends on the frequency of incident light.</p> <p>D. The emission of photoelectrons require a minimum threshold intensity of incident radiation.</p> <p>E. Max. K.E of the photoelectrons is independent of the frequency of the incident light.</p> <p>Choose the correct answer from the options given below:</p>",
       "options": {
         "A": "A and E only",
         "B": "A and B only",
@@ -717,14 +462,14 @@
         "D": "A and C only"
       },
       "answer": "D",
-      "solution": "<p>The photoelectric effect is the phenomenon of emission of electrons (or photoelectrons) from the surface of a metal when it is illuminated by light of sufficient energy. The observations from the photoelectric effect led to the development of quantum theory. </p>\n<p>According to the principles of the photoelectric effect:</p>\n<p>A. The photocurrent (number of photoelectrons ejected per unit time) is indeed proportional to the intensity of the incident radiation. More intense light means more photons hitting the surface and thus more electrons being ejected.</p>\n<p>B. The maximum kinetic energy of the photoelectrons does not depend on the intensity of the incident light but rather on its frequency. Increasing the intensity of light increases the number of photoelectrons (current) but does not increase their maximum kinetic energy. </p>\n<p>C. The maximum kinetic energy of the photoelectrons does indeed depend on the frequency of the incident light. If the frequency of the incident light is below a certain threshold frequency specific to the metal, no photoelectrons are emitted regardless of the intensity of the light. Above this threshold, the maximum kinetic energy of the photoelectrons increases linearly with the frequency of the light.</p>\n<p>D. The emission of photoelectrons does not require a minimum threshold intensity of incident radiation, but rather a minimum threshold frequency. </p>\n<p>E. The maximum kinetic energy of the photoelectrons is not independent of the frequency of the incident light, but rather depends on it.</p>\n<p>Therefore, only statements A and C are correct.</p>",
+      "solution": "<p>The photoelectric effect is the phenomenon of emission of electrons (or photoelectrons) from the surface of a metal when it is illuminated by light of sufficient energy. The observations from the photoelectric effect led to the development of quantum theory. </p> <p>According to the principles of the photoelectric effect:</p> <p>A. The photocurrent (number of photoelectrons ejected per unit time) is indeed proportional to the intensity of the incident radiation. More intense light means more photons hitting the surface and thus more electrons being ejected.</p> <p>B. The maximum kinetic energy of the photoelectrons does not depend on the intensity of the incident light but rather on its frequency. Increasing the intensity of light increases the number of photoelectrons (current) but does not increase their maximum kinetic energy. </p> <p>C. The maximum kinetic energy of the photoelectrons does indeed depend on the frequency of the incident light. If the frequency of the incident light is below a certain threshold frequency specific to the metal, no photoelectrons are emitted regardless of the intensity of the light. Above this threshold, the maximum kinetic energy of the photoelectrons increases linearly with the frequency of the light.</p> <p>D. The emission of photoelectrons does not require a minimum threshold intensity of incident radiation, but rather a minimum threshold frequency. </p> <p>E. The maximum kinetic energy of the photoelectrons is not independent of the frequency of the incident light, but rather depends on it.</p> <p>Therefore, only statements A and C are correct.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>Two cylindrical vessels of equal cross-sectional area $$16 \\mathrm{~cm}^{2}$$ contain water upto heights $$100 \\mathrm{~cm}$$ and $$150 \\mathrm{~cm}$$ respectively. The vessels are interconnected so that the water levels in them become equal. The work done by the force of gravity during the process, is [Take, density of water $$=10^{3} \\mathrm{~kg} / \\mathrm{m}^{3}$$ and $$\\mathrm{g}=10 \\mathrm{~ms}^{-2}$$ ] :</p>",
+      "question": "<p>Two cylindrical vessels of equal cross-sectional area $$16 ~cm^2$$ contain water upto heights $$100 ~cm$$ and $$150 ~cm$$ respectively. The vessels are interconnected so that the water levels in them become equal. The work done by the force of gravity during the process, is [Take, density of water $$=10^3 ~kg / m^3$$ and $$g=10 ~ms^-2$$ ] :</p>",
       "options": {
         "A": "0.25 J",
         "B": "1 J",
@@ -732,14 +477,14 @@
         "D": "12 J"
       },
       "answer": "B",
-      "solution": "<p>$$A = 16 \\times {10^{ - 4}}$$ m<sup>2</sup></p>\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 107 English Explanation\"></p>\n<p>$${E_{in}} = {m_1}g{{{H_1}} \\over 2} + {m_2}g{{{H_2}} \\over 2}$$</p>\n<p>$$ = \\rho g{A \\over 2}\\left( {H_1^2 + H_2^2} \\right) = \\rho g{A \\over 2}\\left( {{1^2} + {{1.5}^2}} \\right)$$</p>\n<p>$${E_{fin}} = \\rho g{A \\over 2}\\left( {2{H^2}} \\right) = \\rho g{A \\over 2}\\left( {2 \\times {{1.25}^2}} \\right)$$</p>\n<p>$$W = \\rho g{A \\over 2}\\left( {3.25 - 3.125} \\right)$$</p>\n<p>$$ = 1$$ J</p>",
+      "solution": "<p>$$A = 16 \\times 10^ - 4$$ m<sup>2</sup></p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6xtieam/d201f0d2-be5e-46cd-9d09-4eab63f03c0c/3003afe0-1e48-11ed-9c61-4529b721806b/file-1l6xtiean.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Morning Shift Physics - Properties of Matter Question 107 English Explanation\"></p> <p>$$E_in = m_1gH_1 \\over 2 + m_2gH_2 \\over 2$$</p> <p>$$ = \\rho gA \\over 2\\left( H_1^2 + H_2^2 \\right) = \\rho gA \\over 2\\left( 1^2 + 1.5^2 \\right)$$</p> <p>$$E_fin = \\rho gA \\over 2\\left( 2H^2 \\right) = \\rho gA \\over 2\\left( 2 \\times 1.25^2 \\right)$$</p> <p>$$W = \\rho gA \\over 2\\left( 3.25 - 3.125 \\right)$$</p> <p>$$ = 1$$ J</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Two steel wires having same length are\nsuspended from a ceiling under the same load.\nIf the ratio of their energy stored per unit\nvolume is 1 : 4, the ratio of their diameters is:",
+      "question": "Two steel wires having same length are suspended from a ceiling under the same load. If the ratio of their energy stored per unit volume is 1 : 4, the ratio of their diameters is:",
       "options": {
         "A": "1 : 2",
         "B": "2 : 1",
@@ -747,14 +492,14 @@
         "D": "$$\\sqrt 2 :1$$"
       },
       "answer": "D",
-      "solution": "$${{du} \\over {dv}}$$ = $${1 \\over 2}$$ $$ \\times $$ stress \u00d7 strain\n<br><br>= $${1 \\over 2}{F \\over A} \\times {F \\over {AY}}$$ $$ \\propto $$ $${1 \\over {{A^2}}}$$ $$ \\propto $$ $${1 \\over {{d^4}}}$$\n<br><br>$${{du} \\over {dv}}$$ = $${1 \\over 4}$$\n<br><br>$$ \\Rightarrow $$ $${\\left( {{{{d_1}} \\over {{d_2}}}} \\right)^4}$$ = 4\n<br><br>$$ \\Rightarrow $$ $${{{d_1}} \\over {{d_2}}} = {\\left( 4 \\right)^{{1 \\over 4}}}$$ = $$\\sqrt 2 :1$$",
+      "solution": "$$du \\over dv$$ = $$1 \\over 2$$ $$ \\times $$ stress \u00d7 strain <br><br>= $$1 \\over 2F \\over A \\times F \\over AY$$ $$ \\propto $$ $$1 \\over A^2$$ $$ \\propto $$ $$1 \\over d^4$$ <br><br>$$du \\over dv$$ = $$1 \\over 4$$ <br><br>$$ \\Rightarrow $$ $$\\left( d_1 \\over d_2 \\right)^4$$ = 4 <br><br>$$ \\Rightarrow $$ $$d_1 \\over d_2 = \\left( 4 \\right)^1 \\over 4$$ = $$\\sqrt 2 :1$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A block of mass 0.1 kg is connected to an elastic spring of spring constant 640 Nm<sup>\\u22121</sup> and oscillates in a damping medium of damping constant 10<sup>\\u22122</sup>  kg s<sup>\\u22121</sup> . The system dissipates its energy gradually. The  time taken for its mechanical energy of vibration to drop to half of its initial value, is closest to :",
+      "question": "A block of mass 0.1 kg is connected to an elastic spring of spring constant 640 Nm<sup>\\u22121</sup> and oscillates in a damping medium of damping constant 10<sup>\\u22122</sup> kg s<sup>\\u22121</sup> . The system dissipates its energy gradually. The time taken for its mechanical energy of vibration to drop to half of its initial value, is closest to :",
       "options": {
         "A": "2 s",
         "B": "3.5 s",
@@ -762,44 +507,44 @@
         "D": "7 s"
       },
       "answer": "D",
-      "solution": "<p>To determine the time taken for the mechanical energy of the damped oscillator to drop to half its initial value, we'll use the principles of damped harmonic motion.</p>\n<h3><strong>Given:</strong></h3>\n\n<p><p><strong>Mass of the block ($ m $)</strong>: 0.1\\u202fkg</p></p>\n<p><p><strong>Spring constant ($ k $)</strong>: 640\\u202fN/m</p></p>\n<p><p><strong>Damping constant ($ b $)</strong>: $ 10^{-2} $\\u202fkg/s</p></p>\n\n<h3><strong>Understanding Damped Harmonic Motion:</strong></h3>\n<p>In damped harmonic motion, the amplitude of oscillation decreases exponentially over time due to the damping force. The mechanical energy ($ E $) of the oscillator is proportional to the square of its amplitude ($ A $):</p>\n<p>$ E(t) \\propto A(t)^2 $</p>\n<p>The amplitude as a function of time is given by:</p>\n<p>$ A(t) = A_0 \\, e^{- \\frac{b}{2m} t} $</p>\n<p>Where:</p>\n\n<p><p>$ A_0 $ is the initial amplitude.</p></p>\n<p><p>$ b $ is the damping constant.</p></p>\n<p><p>$ m $ is the mass.</p></p>\n<p><p>$ t $ is the time.</p></p>\n\n<p>Therefore, the mechanical energy as a function of time is:</p>\n<p>$ E(t) = E_0 \\, e^{- \\frac{b}{m} t} $</p>\n<p>Where $ E_0 $ is the initial mechanical energy.</p>\n<h3><strong>Calculating the Time When Energy Drops to Half:</strong></h3>\n<p>We need to find the time $ t $ when $ E(t) = \\frac{1}{2} E_0 $:</p>\n<p>$ \\frac{1}{2} E_0 = E_0 \\, e^{- \\frac{b}{m} t} $</p>\n<p>Simplify:</p>\n<p>$ \\frac{1}{2} = e^{- \\frac{b}{m} t} $</p>\n<p>Take the natural logarithm of both sides:</p>\n<p>$ \\ln\\left(\\frac{1}{2}\\right) = - \\frac{b}{m} t $</p>\n<p>Simplify $ \\ln\\left(\\frac{1}{2}\\right) = -\\ln(2) $:</p>\n<p>$ - \\ln(2) = - \\frac{b}{m} t $</p>\n<p>Cancel negatives:</p>\n<p>$ \\ln(2) = \\frac{b}{m} t $</p>\n<p>Solve for $ t $:</p>\n<p>$ t = \\frac{m}{b} \\ln(2) $</p>\n<h3><strong>Plugging in the Given Values:</strong></h3>\n<p>$ t = \\frac{0.1\\, \\text{kg}}{10^{-2}\\, \\text{kg/s}} \\ln(2) $</p>\n<p>Calculate $ \\ln(2) $:</p>\n<p>$ \\ln(2) \\approx 0.6931 $</p>\n<p>Now compute $ t $:</p>\n<p>$ t = \\frac{0.1}{0.01} \\times 0.6931 = 10 \\times 0.6931 = 6.931\\, \\text{s} $</p>\n<h3><strong>Conclusion:</strong></h3>\n<p>The time taken for the mechanical energy to drop to half its initial value is approximately <strong>6.93 seconds</strong>, which is closest to <strong>7 seconds</strong> among the given options.</p>",
+      "solution": "<p>To determine the time taken for the mechanical energy of the damped oscillator to drop to half its initial value, we'll use the principles of damped harmonic motion.</p> <h3><strong>Given:</strong></h3> <p><p><strong>Mass of the block ($ m $)</strong>: 0.1\\u202fkg</p></p> <p><p><strong>Spring constant ($ k $)</strong>: 640\\u202fN/m</p></p> <p><p><strong>Damping constant ($ b $)</strong>: $ 10^-2 $\\u202fkg/s</p></p> <h3><strong>Understanding Damped Harmonic Motion:</strong></h3> <p>In damped harmonic motion, the amplitude of oscillation decreases exponentially over time due to the damping force. The mechanical energy ($ E $) of the oscillator is proportional to the square of its amplitude ($ A $):</p> <p>$ E(t) \\propto A(t)^2 $</p> <p>The amplitude as a function of time is given by:</p> <p>$ A(t) = A_0 \\, e^- \\fracb2m t $</p> <p>Where:</p> <p><p>$ A_0 $ is the initial amplitude.</p></p> <p><p>$ b $ is the damping constant.</p></p> <p><p>$ m $ is the mass.</p></p> <p><p>$ t $ is the time.</p></p> <p>Therefore, the mechanical energy as a function of time is:</p> <p>$ E(t) = E_0 \\, e^- \\fracbm t $</p> <p>Where $ E_0 $ is the initial mechanical energy.</p> <h3><strong>Calculating the Time When Energy Drops to Half:</strong></h3> <p>We need to find the time $ t $ when $ E(t) = \\frac12 E_0 $:</p> <p>$ \\frac12 E_0 = E_0 \\, e^- \\fracbm t $</p> <p>Simplify:</p> <p>$ \\frac12 = e^- \\fracbm t $</p> <p>Take the natural logarithm of both sides:</p> <p>$ \\ln\\left(\\frac12\\right) = - \\fracbm t $</p> <p>Simplify $ \\ln\\left(\\frac12\\right) = -\\ln(2) $:</p> <p>$ - \\ln(2) = - \\fracbm t $</p> <p>Cancel negatives:</p> <p>$ \\ln(2) = \\fracbm t $</p> <p>Solve for $ t $:</p> <p>$ t = \\fracmb \\ln(2) $</p> <h3><strong>Plugging in the Given Values:</strong></h3> <p>$ t = \\frac0.1\\, \\textkg10^-2\\, \\textkg/s \\ln(2) $</p> <p>Calculate $ \\ln(2) $:</p> <p>$ \\ln(2) \\approx 0.6931 $</p> <p>Now compute $ t $:</p> <p>$ t = \\frac0.10.01 \\times 0.6931 = 10 \\times 0.6931 = 6.931\\, \\texts $</p> <h3><strong>Conclusion:</strong></h3> <p>The time taken for the mechanical energy to drop to half its initial value is approximately <strong>6.93 seconds</strong>, which is closest to <strong>7 seconds</strong> among the given options.</p>",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "If momentum (P), area (A) and time (T) are\ntaken to be the fundamental quantities then the\ndimensional formula for energy is",
+      "question": "If momentum (P), area (A) and time (T) are taken to be the fundamental quantities then the dimensional formula for energy is",
       "options": {
-        "A": "[P<sup>2</sup>AT<sup>\\u20132</sup>]",
-        "B": "$$\\left[ {{P^{{1 \\over 2}}}A{T^{ - 1}}} \\right]$$",
-        "C": "$$\\left[ {P{A^{{1 \\over 2}}}{T^{ - 1}}} \\right]$$",
-        "D": "[PA<sup>\\u20131</sup>T<sup>\\u20132</sup>]"
+        "A": "[P<sup>2</sup>AT<sup>\\\u20132</sup>]",
+        "B": "$$\\left[ P^1 \\over 2AT^ - 1 \\right]$$",
+        "C": "$$\\left[ PA^1 \\over 2T^ - 1 \\right]$$",
+        "D": "[PA<sup>\\\u20131</sup>T<sup>\\\u20132</sup>]"
       },
       "answer": "C",
-      "solution": "Let\n\n[E] =\nK[P]<sup>x</sup>[A]<sup>y</sup> [T]<sup>z</sup>\n<br><br> [ML<sup>2</sup>T<sup>\\u20132</sup>] = [MLT<sup>\\u20131</sup>]<sup>x</sup>[L<sup>2</sup>]<sup>y</sup>[T]<sup>z</sup>\n\n<br><br>  [ML<sup>2</sup>T<sup>\\u20132</sup>] = [M<sup>x</sup>][L<sup>x+2y</sup>][T<sup>\\u2013x+z</sup>]\n <br><br>Comparing both side we get,\n<br><br> x = 1\n<br><br> x + 2y = 2 <br><br>$$ \\Rightarrow $$ 1 + 2y= 2 or y = $$\\frac{1}{2} $$\n<br><br> z \\u2013 x = \\u20132 $$ \\Rightarrow $$ z\\u20131 = \\u20132 or z = \\u20131\n<br><br>$$ \\therefore $$ [E] = $$\\left[ {P{A^{{1 \\over 2}}}{T^{ - 1}}} \\right]$$",
+      "solution": "Let [E] = K[P]<sup>x</sup>[A]<sup>y</sup> [T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [MLT<sup>\\\u20131</sup>]<sup>x</sup>[L<sup>2</sup>]<sup>y</sup>[T]<sup>z</sup> <br><br> [ML<sup>2</sup>T<sup>\\\u20132</sup>] = [M<sup>x</sup>][L<sup>x+2y</sup>][T<sup>\\\u2013x+z</sup>] <br><br>Comparing both side we get, <br><br> x = 1 <br><br> x + 2y = 2 <br><br>$$ \\Rightarrow $$ 1 + 2y= 2 or y = $$\\frac12 $$ <br><br> z \\\u2013 x = \\\u20132 $$ \\Rightarrow $$ z\\\u20131 = \\\u20132 or z = \\\u20131 <br><br>$$ \\therefore $$ [E] = $$\\left[ PA^1 \\over 2T^ - 1 \\right]$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A body of mass $$(5 \\pm 0.5) ~\\mathrm{kg}$$ is moving with a velocity of $$(20 \\pm 0.4) ~\\mathrm{m} / \\mathrm{s}$$. Its kinetic energy will be</p>",
+      "question": "<p>A body of mass $$(5 \\pm 0.5) ~kg$$ is moving with a velocity of $$(20 \\pm 0.4) ~m / s$$. Its kinetic energy will be</p>",
       "options": {
-        "A": "$$(1000 \\pm 140) ~\\mathrm{J}$$",
-        "B": "$$(500 \\pm 0.14) ~\\mathrm{J}$$",
-        "C": "$$(1000 \\pm 0.14) ~\\mathrm{J}$$",
-        "D": "$$(500 \\pm 140) ~\\mathrm{J}$$"
+        "A": "$$(1000 \\pm 140) ~J$$",
+        "B": "$$(500 \\pm 0.14) ~J$$",
+        "C": "$$(1000 \\pm 0.14) ~J$$",
+        "D": "$$(500 \\pm 140) ~J$$"
       },
       "answer": "A",
-      "solution": "To find the kinetic energy of the body, we can use the formula:\n<br/><br/>\n$$KE = \\frac{1}{2}mv^2$$\n<br/><br/>\nGiven the mass $$m = (5 \\pm 0.5) \\,\\text{kg}$$ and the velocity $$v = (20 \\pm 0.4) \\,\\text{m/s}$$, we can find the kinetic energy and its uncertainty by applying the rules for the propagation of errors in multiplication.\n<br/><br/>\nFor the product of two quantities, the relative error is the sum of the relative errors of the individual quantities:\n<br/><br/>\n$$\\frac{\\Delta (mv^2)}{mv^2} = \\frac{\\Delta m}{m} + \\frac{\\Delta v}{v} + \\frac{\\Delta v}{v}$$\n<br/><br/>\nNow, substitute the given values:\n<br/><br/>\n$$\\frac{\\Delta (mv^2)}{mv^2} = \\frac{0.5}{5} + \\frac{0.4}{20} + \\frac{0.4}{20}$$\n<br/><br/>\n$$\\frac{\\Delta (mv^2)}{mv^2} = 0.1 + 0.02 + 0.02$$\n<br/><br/>\n$$\\frac{\\Delta (mv^2)}{mv^2} = 0.14$$\n<br/><br/>\nNow, calculate the kinetic energy:\n<br/><br/>\n$$KE = \\frac{1}{2}(5)(20)^2 = 1000 \\,\\text{J}$$\n<br/><br/>\nTo find the uncertainty in the kinetic energy, multiply the relative error by the calculated kinetic energy:\n<br/><br/>\n$$\\Delta KE = 0.14 \\times 1000 = 140 \\,\\text{J}$$\n<br/><br/>\nSo, the kinetic energy of the body is $$(1000 \\pm 140) \\,\\text{J}$$.",
+      "solution": "To find the kinetic energy of the body, we can use the formula: <br/><br/> $$KE = \\frac12mv^2$$ <br/><br/> Given the mass $$m = (5 \\pm 0.5) \\,\\textkg$$ and the velocity $$v = (20 \\pm 0.4) \\,\\textm/s$$, we can find the kinetic energy and its uncertainty by applying the rules for the propagation of errors in multiplication. <br/><br/> For the product of two quantities, the relative error is the sum of the relative errors of the individual quantities: <br/><br/> $$\\frac\\Delta (mv^2)mv^2 = \\frac\\Delta mm + \\frac\\Delta vv + \\frac\\Delta vv$$ <br/><br/> Now, substitute the given values: <br/><br/> $$\\frac\\Delta (mv^2)mv^2 = \\frac0.55 + \\frac0.420 + \\frac0.420$$ <br/><br/> $$\\frac\\Delta (mv^2)mv^2 = 0.1 + 0.02 + 0.02$$ <br/><br/> $$\\frac\\Delta (mv^2)mv^2 = 0.14$$ <br/><br/> Now, calculate the kinetic energy: <br/><br/> $$KE = \\frac12(5)(20)^2 = 1000 \\,\\textJ$$ <br/><br/> To find the uncertainty in the kinetic energy, multiply the relative error by the calculated kinetic energy: <br/><br/> $$\\Delta KE = 0.14 \\times 1000 = 140 \\,\\textJ$$ <br/><br/> So, the kinetic energy of the body is $$(1000 \\pm 140) \\,\\textJ$$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A body of mass m = 10<sup>\\u20132</sup> kg is moving in a medium and experiences a frictional force F = \\u2013kv<sup>2</sup>. Its initial speed is v<sub>0</sub> = 10 ms<sup>\\u20131</sup>. If, after 10 s, its energy is $${1 \\over 8}mv_0^2$$, the value of k will be: ",
+      "question": "A body of mass m = 10<sup>\\\u20132</sup> kg is moving in a medium and experiences a frictional force F = \\\u2013kv<sup>2</sup>. Its initial speed is v<sub>0</sub> = 10 ms<sup>\\\u20131</sup>. If, after 10 s, its energy is $$1 \\over 8mv_0^2$$, the value of k will be:",
       "options": {
         "A": "10<sup>-1</sup> kg m<sup>-1</sup> s<sup>-1</sup>",
         "B": "10<sup>-3</sup> kg m<sup>-1</sup>",
@@ -807,7 +552,7 @@
         "D": "10<sup>-4</sup> kg m<sup>-1</sup>"
       },
       "answer": "D",
-      "solution": "According to the question, final kinetic energy  = $${1 \\over 8}mv_0^2$$\n<br><br>Let final speed of the body = V<sub>f</sub>\n<br><br>So final kinetic energy = $${1 \\over 2}mv_f^2$$\n<br><br>According to question,\n<br><br>$${1 \\over 2}mv_f^2$$ = $${1 \\over 8}mv_0^2$$\n<br><br>$$ \\Rightarrow {v_f} = {{{v_0}} \\over 2}$$ = $${{10} \\over 2}$$ = 5 m/s\n<br><br>Given that, F = \\u2013kv<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ $$m\\left( {{{dv} \\over {dt}}} \\right)$$$$ =  - k{v^2}$$\n<br><br>$$ \\Rightarrow {10^{ - 2}}\\left( {{{dv} \\over {dt}}} \\right) =  - k{v^2}$$\n<br><br>$$ \\Rightarrow \\int\\limits_{10}^5 {{{dv} \\over {{v^2}}}}  =  - 100k\\int\\limits_0^{10} {dt} $$\n<br><br>$$ \\Rightarrow {1 \\over 5} - {1 \\over {10}} = 100k \\times 10$$\n<br><br>$$ \\Rightarrow k = {10^{ - 4}}kg\\,{m^{ - 1}}$$",
+      "solution": "According to the question, final kinetic energy = $$1 \\over 8mv_0^2$$ <br><br>Let final speed of the body = V<sub>f</sub> <br><br>So final kinetic energy = $$1 \\over 2mv_f^2$$ <br><br>According to question, <br><br>$$1 \\over 2mv_f^2$$ = $$1 \\over 8mv_0^2$$ <br><br>$$ \\Rightarrow v_f = v_0 \\over 2$$ = $$10 \\over 2$$ = 5 m/s <br><br>Given that, F = \\\u2013kv<sup>2</sup> <br><br>$$ \\Rightarrow $$ $$m\\left( dv \\over dt \\right)$$$$ = - kv^2$$ <br><br>$$ \\Rightarrow 10^ - 2\\left( dv \\over dt \\right) = - kv^2$$ <br><br>$$ \\Rightarrow \\int\\limits_10^5 dv \\over v^2 = - 100k\\int\\limits_0^10 dt $$ <br><br>$$ \\Rightarrow 1 \\over 5 - 1 \\over 10 = 100k \\times 10$$ <br><br>$$ \\Rightarrow k = 10^ - 4kg\\,m^ - 1$$",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
@@ -818,26 +563,26 @@
       "options": {
         "A": "3h",
         "B": "$$\\infty $$",
-        "C": "$${5 \\over 3}$$h",
-        "D": "$${8 \\over 3}$$h"
+        "C": "$$5 \\over 3$$h",
+        "D": "$$8 \\over 3$$h"
       },
       "answer": "A",
-      "solution": "Let, \n<br><br>Kinetic energy (k) = $${1 \\over 2}$$ m $$\\upsilon $$<sup>2</sup> before it hit the ground. \n<br><br>After hitting the ground kinetic energy \n<br><br>(k') = $${1 \\over 2}$$ m $$\\upsilon $$$$_1^2$$\n<br><br>$$\\therefore\\,\\,\\,$$According to the question,\n<br><br> $${1 \\over 2}$$ m$$\\upsilon $$$$_1^2$$ = $${1 \\over 2}$$ $$ \\times $$ $${1 \\over 2}$$ m$$\\upsilon $$<sup>2</sup>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $$\\upsilon $$<sub>1</sub> = $${v \\over {\\sqrt 2 }}$$\n<br><br>After hitting the ground the object will bounce \n<br><br>h' =  $${{v_1^2} \\over {2g}}$$ = $${{{v^2}} \\over {4g}}$$ = $${h \\over 2}$$ [ as &nbsp;&nbsp; h = $${{{v^2}} \\over {2g}}$$ ] \n<br><br>Total distance travelled from the time it first hits the ground to the next time it hits the ground is = $${h \\over 2}$$ + $${h \\over 2}$$ = h\n<br><br>So, this will create a infinite geometric progression with the common ration $${1 \\over 2}$$.\n<br><br>$$\\therefore\\,\\,\\,$$  Total distance covered \n<br><br>= h (distance travelled by the obhect when first dropped, before it hits the ground)\n<br>+ (h + $${h \\over 2}$$ + $${h \\over 4}$$ + . . . . . . . .$$ \\propto $$)\n<br><br>= h + $${h \\over {1 - {1 \\over 2}}}$$\n<br><br>= h + 2h\n<br><br>= 3h",
+      "solution": "Let, <br><br>Kinetic energy (k) = $$1 \\over 2$$ m $$\\upsilon $$<sup>2</sup> before it hit the ground. <br><br>After hitting the ground kinetic energy <br><br>(k') = $$1 \\over 2$$ m $$\\upsilon $$$$_1^2$$ <br><br>$$\\therefore\\,\\,\\,$$According to the question, <br><br> $$1 \\over 2$$ m$$\\upsilon $$$$_1^2$$ = $$1 \\over 2$$ $$ \\times $$ $$1 \\over 2$$ m$$\\upsilon $$<sup>2</sup> <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ $$\\upsilon $$<sub>1</sub> = $$v \\over \\sqrt 2 $$ <br><br>After hitting the ground the object will bounce <br><br>h' = $$v_1^2 \\over 2g$$ = $$v^2 \\over 4g$$ = $$h \\over 2$$ [ as h = $$v^2 \\over 2g$$ ] <br><br>Total distance travelled from the time it first hits the ground to the next time it hits the ground is = $$h \\over 2$$ + $$h \\over 2$$ = h <br><br>So, this will create a infinite geometric progression with the common ration $$1 \\over 2$$. <br><br>$$\\therefore\\,\\,\\,$$ Total distance covered <br><br>= h (distance travelled by the obhect when first dropped, before it hits the ground) <br>+ (h + $$h \\over 2$$ + $$h \\over 4$$ + . . . . . . . .$$ \\propto $$) <br><br>= h + $$h \\over 1 - 1 \\over 2$$ <br><br>= h + 2h <br><br>= 3h",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "Two particles of the same mass m are moving in circular orbits because of force, given by $$F\\left( r \\right) = {{ - 16} \\over r} - {r^3}$$\n<br/><br/>The first particle is at a distance r = 1, and the second, at r = 4. The best estimate for the ratio of kinetic energies of the first and the second particle is closest to : ",
+      "question": "Two particles of the same mass m are moving in circular orbits because of force, given by $$F\\left( r \\right) = - 16 \\over r - r^3$$ <br/><br/>The first particle is at a distance r = 1, and the second, at r = 4. The best estimate for the ratio of kinetic energies of the first and the second particle is closest to :",
       "options": {
-        "A": "$$6 \\times {10^{ - 2}}$$",
-        "B": "$$3 \\times {10^{ - 3}}$$",
-        "C": "$${10^{ - 1}}$$",
-        "D": "$$6 \\times {10^{  2}}$$"
+        "A": "$$6 \\times 10^ - 2$$",
+        "B": "$$3 \\times 10^ - 3$$",
+        "C": "$$10^ - 1$$",
+        "D": "$$6 \\times 10^ 2$$"
       },
       "answer": "A",
-      "solution": "In circular motion the force required \n<br><br>$$\\left| F \\right| = {{m{v^2}} \\over r}$$\n<br><br>$$\\therefore\\,\\,\\,$$ $${{m{v^2}} \\over r} = {{16} \\over r} + {r^3}$$\n<br><br>$$ \\Rightarrow $$ mv<sup>2</sup> = 16 + r<sup>4</sup>\n<br><br>$$\\therefore\\,\\,\\,$$  kinetic energy (K) = $${1 \\over 2}$$ mv<sup>2</sup> = $${1 \\over 2}$$  [ 16 + r<sup>4</sup>]\n<br><br>$$\\therefore\\,\\,\\,$$  Kinetic energy  of first particle  (K<sub>1</sub>) = $${1 \\over 2}$$ [16 + 1]\n<br><br>Kinetic energy of second particle (K<sub>2</sub>) = $${1 \\over 2}$$ [16 + 4<sup>4</sup>]\n<br><br>$$\\therefore\\,\\,\\,\\,$$  $${{{K_1}} \\over {{K_2}}}$$ = $${{{{16 + 1} \\over 2}} \\over {{{16 + 256} \\over 2}}}$$ = $${{17} \\over {272}}$$ \n<br><br>$$ \\Rightarrow $$ $$\\,\\,\\,$$ $${{{K_1}} \\over {{K_2}}} = 6 \\times {10^{ - 2}}$$",
+      "solution": "In circular motion the force required <br><br>$$\\left| F \\right| = mv^2 \\over r$$ <br><br>$$\\therefore\\,\\,\\,$$ $$mv^2 \\over r = 16 \\over r + r^3$$ <br><br>$$ \\Rightarrow $$ mv<sup>2</sup> = 16 + r<sup>4</sup> <br><br>$$\\therefore\\,\\,\\,$$ kinetic energy (K) = $$1 \\over 2$$ mv<sup>2</sup> = $$1 \\over 2$$ [ 16 + r<sup>4</sup>] <br><br>$$\\therefore\\,\\,\\,$$ Kinetic energy of first particle (K<sub>1</sub>) = $$1 \\over 2$$ [16 + 1] <br><br>Kinetic energy of second particle (K<sub>2</sub>) = $$1 \\over 2$$ [16 + 4<sup>4</sup>] <br><br>$$\\therefore\\,\\,\\,\\,$$ $$K_1 \\over K_2$$ = $$16 + 1 \\over 2 \\over 16 + 256 \\over 2$$ = $$17 \\over 272$$ <br><br>$$ \\Rightarrow $$ $$\\,\\,\\,$$ $$K_1 \\over K_2 = 6 \\times 10^ - 2$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
@@ -852,29 +597,29 @@
         "D": "19.6 J"
       },
       "answer": "B",
-      "solution": "<p>Loss in $$KE = {1 \\over 2} \\times {{{m_1}{m_2}} \\over {{m_1} + {m_2}}} \\times {v^2}$$</p>\n<p>$$ = {1 \\over 2} \\times {{9.8 \\times 0.2} \\over {10}} \\times {(10)^2}$$</p>\n<p>$$= 9.8$$ J</p>",
+      "solution": "<p>Loss in $$KE = 1 \\over 2 \\times m_1m_2 \\over m_1 + m_2 \\times v^2$$</p> <p>$$ = 1 \\over 2 \\times 9.8 \\times 0.2 \\over 10 \\times (10)^2$$</p> <p>$$= 9.8$$ J</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A ball is projected with kinetic energy E, at an angle of $$60^{\\circ}$$ to the horizontal. The kinetic energy of this ball at the highest point of its flight will become :</p>",
+      "question": "<p>A ball is projected with kinetic energy E, at an angle of $$60^\\circ$$ to the horizontal. The kinetic energy of this ball at the highest point of its flight will become :</p>",
       "options": {
         "A": "Zero",
-        "B": "$$\\frac{E}{2}$$",
-        "C": "$$\\frac{E}{4}$$",
+        "B": "$$\\fracE2$$",
+        "C": "$$\\fracE4$$",
         "D": "E"
       },
       "answer": "C",
-      "solution": "<p>$$K.E. = E = {1 \\over 2}m{v^2}$$</p>\n<p>at highest point</p>\n<p>$$K.E' = {1 \\over 2}m{v^2}{\\cos ^2}\\theta $$</p>\n<p>$$ = {1 \\over 2}m{v^2}\\left( {{1 \\over 4}} \\right)$$</p>\n<p>$$ = {E \\over 4}$$</p>",
+      "solution": "<p>$$K.E. = E = 1 \\over 2mv^2$$</p> <p>at highest point</p> <p>$$K.E' = 1 \\over 2mv^2\\cos ^2\\theta $$</p> <p>$$ = 1 \\over 2mv^2\\left( 1 \\over 4 \\right)$$</p> <p>$$ = E \\over 4$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A stone is projected at angle $$30^{\\circ}$$ to the horizontal. The ratio of kinetic energy of the stone at point of projection to its kinetic energy at the highest point of flight will be -</p>",
+      "question": "<p>A stone is projected at angle $$30^\\circ$$ to the horizontal. The ratio of kinetic energy of the stone at point of projection to its kinetic energy at the highest point of flight will be -</p>",
       "options": {
         "A": "1 : 4",
         "B": "1 : 2",
@@ -882,7 +627,7 @@
         "D": "4 : 1"
       },
       "answer": "C",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lei2tyfx/a6b83f8a-8e8e-45f4-97f6-f032b2abb398/d44804d0-b401-11ed-bf7e-c52177c53cde/file-1lei2tyfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lei2tyfx/a6b83f8a-8e8e-45f4-97f6-f032b2abb398/d44804d0-b401-11ed-bf7e-c52177c53cde/file-1lei2tyfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Morning Shift Physics - Work Power &amp; Energy Question 35 English Explanation\"><br>$$\n\\mathrm{KE}_{\\mathrm{in}}=\\frac{1}{2} m v^{2}\n$$<br><br>\n$\\mathrm{KE}_{\\text {final }}=\\frac{1}{2} m v^{2} \\cos ^{2} 30^{\\circ}=\\frac{1}{2} m v^{2}\\left(\\frac{\\sqrt{3}}{2}\\right)^{2}$\n<br><br>\n$\\frac{\\mathrm{KE}_{\\mathrm{in}}}{\\mathrm{KE}_{\\mathrm{f}}}=\\frac{\\frac{1}{2} m v^{2}}{\\frac{1}{2} m v^{2}\\left(\\frac{3}{4}\\right)}=\\frac{4}{3}$",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1lei2tyfx/a6b83f8a-8e8e-45f4-97f6-f032b2abb398/d44804d0-b401-11ed-bf7e-c52177c53cde/file-1lei2tyfy.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1lei2tyfx/a6b83f8a-8e8e-45f4-97f6-f032b2abb398/d44804d0-b401-11ed-bf7e-c52177c53cde/file-1lei2tyfy.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Morning Shift Physics - Work Power & Energy Question 35 English Explanation\"><br>$$ KE_in=\\frac12 m v^2 $$<br><br> $KE_\\text final =\\frac12 m v^2 \\cos ^2 30^\\circ=\\frac12 m v^2\\left(\\frac\\sqrt32\\right)^2$ <br><br> $\\fracKE_inKE_f=\\frac\\frac12 m v^2\\frac12 m v^2\\left(\\frac34\\right)=\\frac43$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -897,14 +642,14 @@
         "D": "$$16: 9$$"
       },
       "answer": "C",
-      "solution": "The kinetic energy of a body of mass $m$ and velocity $v$ is given by $K=\\frac{1}{2}mv^2$. Since the bodies have the same linear momentum, we can write:\n<br/><br/>\n$$p=mv$$\n<br/><br/>\nwhere $p$ is the linear momentum of the bodies.\n<br/><br/>\nLet the masses of the two bodies be $m_1$ and $m_2$ and their kinetic energies be $K_1$ and $K_2$, respectively. Then, we have:\n<br/><br/>\n$$\\frac{K_1}{K_2}=\\frac{16}{9}$$\n<br/><br/>\n$$\\frac{1}{2}m_1v_1^2\\div\\frac{1}{2}m_2v_2^2=\\frac{16}{9}$$\n<br/><br/>\nSince $p=mv$, we have $v_1=\\frac{p}{m_1}$ and $v_2=\\frac{p}{m_2}$. Substituting these in the above equation, we get:\n<br/><br/>\n$$\\frac{m_2}{m_1}=\\frac{9}{16}$$\n<br/><br/>\nTherefore, the ratio of the masses of the two bodies is $\\boxed{9:16}$.",
+      "solution": "The kinetic energy of a body of mass $m$ and velocity $v$ is given by $K=\\frac12mv^2$. Since the bodies have the same linear momentum, we can write: <br/><br/> $$p=mv$$ <br/><br/> where $p$ is the linear momentum of the bodies. <br/><br/> Let the masses of the two bodies be $m_1$ and $m_2$ and their kinetic energies be $K_1$ and $K_2$, respectively. Then, we have: <br/><br/> $$\\fracK_1K_2=\\frac169$$ <br/><br/> $$\\frac12m_1v_1^2\\div\\frac12m_2v_2^2=\\frac169$$ <br/><br/> Since $p=mv$, we have $v_1=\\fracpm_1$ and $v_2=\\fracpm_2$. Substituting these in the above equation, we get: <br/><br/> $$\\fracm_2m_1=\\frac916$$ <br/><br/> Therefore, the ratio of the masses of the two bodies is $\\boxed9:16$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A bullet is fired into a fixed target looses one third of its velocity after travelling $$4 \\mathrm{~cm}$$. It penetrates further $$\\mathrm{D} \\times 10^{-3} \\mathrm{~m}$$ before coming to rest. The value of $$\\mathrm{D}$$ is :</p>",
+      "question": "<p>A bullet is fired into a fixed target looses one third of its velocity after travelling $$4 ~cm$$. It penetrates further $$D \\times 10^-3 ~m$$ before coming to rest. The value of $$D$$ is :</p>",
       "options": {
         "A": "23",
         "B": "32",
@@ -912,7 +657,7 @@
         "D": "52"
       },
       "answer": "B",
-      "solution": "<p>$$\\begin{aligned}\n& v^2-u^2=2 a S \\\\\n& \\left(\\frac{2 u}{3}\\right)^2=u^2+2(-a)\\left(4 \\times 10^{-2}\\right) \\\\\n& \\frac{4 u^2}{9}=u^2-2 a\\left(4 \\times 10^{-2}\\right) \\\\\n& -\\frac{5 u^2}{9}=-2 a\\left(4 \\times 10^{-2}\\right) \\ldots(1) \\\\\n& 0=\\left(\\frac{2 u}{3}\\right)^2+2(-a)(x) \\\\\n& -\\frac{4 u^2}{9}=-2 a x \\ldots(2)\n\\end{aligned}$$</p>\n<p>$$(1)/(2)$$</p>\n<p>$$\\begin{aligned}\n& \\frac{5}{4}=\\frac{4 \\times 10^{-2}}{\\mathrm{x}} \\\\\n& \\mathrm{x}=\\frac{16}{5} \\times 10^{-2} \\\\\n& \\mathrm{x}=3 \\cdot 2 \\times 10^{-2} \\mathrm{~m} \\\\\n& \\mathrm{x}=32 \\times 10^{-3} \\mathrm{~m}\n\\end{aligned}$$</p>",
+      "solution": "<p>$$\\beginaligned & v^2-u^2=2 a S \\\\ & \\left(\\frac2 u3\\right)^2=u^2+2(-a)\\left(4 \\times 10^-2\\right) \\\\ & \\frac4 u^29=u^2-2 a\\left(4 \\times 10^-2\\right) \\\\ & -\\frac5 u^29=-2 a\\left(4 \\times 10^-2\\right) \\ldots(1) \\\\ & 0=\\left(\\frac2 u3\\right)^2+2(-a)(x) \\\\ & -\\frac4 u^29=-2 a x \\ldots(2) \\endaligned$$</p> <p>$$(1)/(2)$$</p> <p>$$\\beginaligned & \\frac54=\\frac4 \\times 10^-2x \\\\ & x=\\frac165 \\times 10^-2 \\\\ & x=3 \\cdot 2 \\times 10^-2 ~m \\\\ & x=32 \\times 10^-3 ~m \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -921,13 +666,13 @@
     {
       "question": "<p>If a rubber ball falls from a height $$h$$ and rebounds upto the height of $$h / 2$$. The percentage loss of total energy of the initial system as well as velocity ball before it strikes the ground, respectively, are :</p>",
       "options": {
-        "A": "$$50 \\%, \\sqrt{2 \\mathrm{gh}}$$\n",
-        "B": "$$50 \\%, \\sqrt{\\mathrm{gh}}$$\n",
-        "C": "$$50 \\%, \\sqrt{\\frac{\\text { gh }}{2}}$$\n",
-        "D": "$$40 \\%, \\sqrt{2 \\mathrm{gh}}$$"
+        "A": "$$50 \\%, \\sqrt2 gh$$",
+        "B": "$$50 \\%, \\sqrtgh$$",
+        "C": "$$50 \\%, \\sqrt\\frac\\text gh 2$$",
+        "D": "$$40 \\%, \\sqrt2 gh$$"
       },
       "answer": "A",
-      "solution": "<p>To solve this problem, we need to analyze both the energy loss and the initial velocity of the rubber ball before it strikes the ground.</p>\n\n<p>First, let's consider the energy loss. The energy involved here is gravitational potential energy. The initial potential energy of the ball when it is about to fall is given by $$U_i = mgh$$, where $$U_i$$ is the initial potential energy, $$m$$ is the mass of the ball, $$g$$ is the acceleration due to gravity, and $$h$$ is the initial height from which the ball falls. After the ball rebounds, it reaches a height of $$h/2$$. The potential energy at this new height is $$U_f = mg \\cdot \\frac{h}{2}$$.</p>\n\n<p>The energy loss can be calculated as the difference between the initial and final potential energies, and to find the percentage energy loss, we divide this difference by the initial energy and multiply by 100:</p>\n\n<p>$$\\text{Energy loss percentage} = \\frac{(U_i - U_f)}{U_i} \\times 100$$</p>\n\n<p>Substituting the values of $$U_i$$ and $$U_f$$ gives:</p>\n\n<p>$$\\text{Energy loss percentage} = \\frac{(mgh - mg\\frac{h}{2})}{mgh} \\times 100$$</p>\n\n<p>By simplifying, we find:</p>\n\n<p>$$\\text{Energy loss percentage} = \\frac{mgh - \\frac{1}{2} mgh}{mgh} \\times 100 = \\frac{1}{2} \\times 100 = 50\\%$$</p>\n\n<p>This tells us that the energy loss percentage is indeed $$50\\%$$.</p>\n\n<p>Next, we'll find the velocity of the ball just before it strikes the ground. The velocity can be determined using the formula for the velocity of an object in free fall:</p>\n\n<p>$$v = \\sqrt{2gh}$$</p>\n\n<p>Here, $$v$$ is the velocity of the ball just before impact, $$g$$ is the acceleration due to gravity, and $$h$$ is the height from which the ball falls. This formula shows that the initial velocity of the ball before it strikes the ground is $$\\sqrt{2gh}$$, not taking into account air resistance and assuming it starts from rest.</p>\n\n<p>Therefore, the correct answer is <strong>Option A</strong>: $$50\\%$$, $$\\sqrt{2gh}$$.</p>",
+      "solution": "<p>To solve this problem, we need to analyze both the energy loss and the initial velocity of the rubber ball before it strikes the ground.</p> <p>First, let's consider the energy loss. The energy involved here is gravitational potential energy. The initial potential energy of the ball when it is about to fall is given by $$U_i = mgh$$, where $$U_i$$ is the initial potential energy, $$m$$ is the mass of the ball, $$g$$ is the acceleration due to gravity, and $$h$$ is the initial height from which the ball falls. After the ball rebounds, it reaches a height of $$h/2$$. The potential energy at this new height is $$U_f = mg \\cdot \\frach2$$.</p> <p>The energy loss can be calculated as the difference between the initial and final potential energies, and to find the percentage energy loss, we divide this difference by the initial energy and multiply by 100:</p> <p>$$\\textEnergy loss percentage = \\frac(U_i - U_f)U_i \\times 100$$</p> <p>Substituting the values of $$U_i$$ and $$U_f$$ gives:</p> <p>$$\\textEnergy loss percentage = \\frac(mgh - mg\\frach2)mgh \\times 100$$</p> <p>By simplifying, we find:</p> <p>$$\\textEnergy loss percentage = \\fracmgh - \\frac12 mghmgh \\times 100 = \\frac12 \\times 100 = 50\\%$$</p> <p>This tells us that the energy loss percentage is indeed $$50\\%$$.</p> <p>Next, we'll find the velocity of the ball just before it strikes the ground. The velocity can be determined using the formula for the velocity of an object in free fall:</p> <p>$$v = \\sqrt2gh$$</p> <p>Here, $$v$$ is the velocity of the ball just before impact, $$g$$ is the acceleration due to gravity, and $$h$$ is the height from which the ball falls. This formula shows that the initial velocity of the ball before it strikes the ground is $$\\sqrt2gh$$, not taking into account air resistance and assuming it starts from rest.</p> <p>Therefore, the correct answer is <strong>Option A</strong>: $$50\\%$$, $$\\sqrt2gh$$.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -942,29 +687,29 @@
         "D": "600%"
       },
       "answer": "B",
-      "solution": "<p>The relationship between kinetic energy (K.E) and momentum (p) of a body can be expressed through their respective definitions. Kinetic energy is given by $$K.E = \\frac{1}{2} mv^2$$ where $m$ is the mass of the body and $v$ is its velocity. The momentum (p) of a body is given by $$p = mv$$. To express kinetic energy in terms of momentum, we can manipulate the expression for momentum as follows:</p>\n\n<p>$$p = mv \\implies v = \\frac{p}{m}$$</p>\n\n<p>Substituting $v$ in the kinetic energy formula, we get</p>\n\n<p>$$K.E = \\frac{1}{2} m\\left(\\frac{p}{m}\\right)^2 = \\frac{1}{2} \\frac{p^2}{m}$$</p>\n\n<p>Therefore, we see that kinetic energy is directly proportional to the square of the momentum $(K.E \\propto p^2)$.</p>\n\n<p>Now, given that the kinetic energy of a body becomes 36 times its original value, we can set up the proportionality as</p>\n\n<p>$$\\frac{K.E_{\\text{final}}}{K.E_{\\text{original}}} = 36$$</p>\n\n<p>Since $K.E_{\\text{final}} = 36 \\times K.E_{\\text{original}}$ and knowing $K.E \\propto p^2$, we can express this relationship through the squares of the initial and final momentum:</p>\n\n<p>$$\\frac{p_{\\text{final}}^2}{p_{\\text{original}}^2} = 36$$</p>\n\n<p>Taking the square root of both sides to find the ratio of final to initial momentum, we have</p>\n\n<p>$$\\frac{p_{\\text{final}}}{p_{\\text{original}}} = \\sqrt{36} = 6$$</p>\n\n<p>This indicates that the final momentum is 6 times the original momentum. To find the percentage increase in the momentum, we calculate the increase from the original to the final, subtracting the original momentum (which is considered 1 times itself):</p>\n\n<p>$$\\text{Percentage increase} = \\left(\\frac{p_{\\text{final}} - p_{\\text{original}}}{p_{\\text{original}}}\\right) \\times 100\\% = \\left(\\frac{6p - p}{p}\\right) \\times 100\\% \n= \\left(6 - 1\\right) \\times 100\\% = 5 \\times 100\\% = 500\\%$$</p>\n\n<p>Therefore, the correct answer is Option B: 500%.</p>",
+      "solution": "<p>The relationship between kinetic energy (K.E) and momentum (p) of a body can be expressed through their respective definitions. Kinetic energy is given by $$K.E = \\frac12 mv^2$$ where $m$ is the mass of the body and $v$ is its velocity. The momentum (p) of a body is given by $$p = mv$$. To express kinetic energy in terms of momentum, we can manipulate the expression for momentum as follows:</p> <p>$$p = mv \\implies v = \\fracpm$$</p> <p>Substituting $v$ in the kinetic energy formula, we get</p> <p>$$K.E = \\frac12 m\\left(\\fracpm\\right)^2 = \\frac12 \\fracp^2m$$</p> <p>Therefore, we see that kinetic energy is directly proportional to the square of the momentum $(K.E \\propto p^2)$.</p> <p>Now, given that the kinetic energy of a body becomes 36 times its original value, we can set up the proportionality as</p> <p>$$\\fracK.E_\\textfinalK.E_\\textoriginal = 36$$</p> <p>Since $K.E_\\textfinal = 36 \\times K.E_\\textoriginal$ and knowing $K.E \\propto p^2$, we can express this relationship through the squares of the initial and final momentum:</p> <p>$$\\fracp_\\textfinal^2p_\\textoriginal^2 = 36$$</p> <p>Taking the square root of both sides to find the ratio of final to initial momentum, we have</p> <p>$$\\fracp_\\textfinalp_\\textoriginal = \\sqrt36 = 6$$</p> <p>This indicates that the final momentum is 6 times the original momentum. To find the percentage increase in the momentum, we calculate the increase from the original to the final, subtracting the original momentum (which is considered 1 times itself):</p> <p>$$\\textPercentage increase = \\left(\\fracp_\\textfinal - p_\\textoriginalp_\\textoriginal\\right) \\times 100\\% = \\left(\\frac6p - pp\\right) \\times 100\\% = \\left(6 - 1\\right) \\times 100\\% = 5 \\times 100\\% = 500\\%$$</p> <p>Therefore, the correct answer is Option B: 500%.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A bullet of mass $$50 \\mathrm{~g}$$ is fired with a speed $$100 \\mathrm{~m} / \\mathrm{s}$$ on a plywood and emerges with $$40 \\mathrm{~m} / \\mathrm{s}$$. The percentage loss of kinetic energy is :</p>",
+      "question": "<p>A bullet of mass $$50 ~g$$ is fired with a speed $$100 ~m / s$$ on a plywood and emerges with $$40 ~m / s$$. The percentage loss of kinetic energy is :</p>",
       "options": {
-        "A": "$$44 \\%$$\n",
-        "B": "$$16 \\%$$\n",
-        "C": "$$84 \\%$$\n",
+        "A": "$$44 \\%$$",
+        "B": "$$16 \\%$$",
+        "C": "$$84 \\%$$",
         "D": "$$32 \\%$$"
       },
       "answer": "C",
-      "solution": "<p>To find the percentage loss of kinetic energy of the bullet, we first calculate the initial kinetic energy before the bullet hits the plywood and the final kinetic energy after it emerges. The formula for kinetic energy (KE) is given by:</p>\n\n<p>$$KE = \\frac{1}{2} mv^2$$</p>\n\n<p>where $m$ is the mass of the object and $v$ is its velocity.</p>\n\n<p>Let's calculate the initial and final kinetic energies.</p>\n\n<p><strong>Initial Kinetic Energy:</strong></p>\n\n<p>$$KE_{\\text{initial}} = \\frac{1}{2} \\times 50 \\times (100)^2 = \\frac{1}{2} \\times 50 \\times 10000 = 25 \\times 10000 = 250000 \\, \\text{g.m}^2/\\text{s}^2$$</p>\n\n<p>Note: To keep units consistent, we used grams and meters per second. We can also convert the mass to kilograms (by dividing by 1000) which would result in the energy being calculated in Joules, but for the purpose of finding the percentage change, the form of units does not matter as long as they are consistent, since it will be a ratio.</p>\n\n<p><strong>Final Kinetic Energy:</strong></p>\n\n<p>$$KE_{\\text{final}} = \\frac{1}{2} \\times 50 \\times (40)^2 = \\frac{1}{2} \\times 50 \\times 1600 = 25 \\times 1600 = 40000 \\, \\text{g.m}^2/\\text{s}^2$$</p>\n\n<p>The loss of kinetic energy is then:</p>\n\n<p>$$\\Delta KE = KE_{\\text{initial}} - KE_{\\text{final}} = 250000 - 40000 = 210000 \\, \\text{g.m}^2/\\text{s}^2$$</p>\n\n<p>Finally, the percentage loss of kinetic energy can be calculated using the formula:</p>\n\n<p>$$\\text{Percentage loss of KE} = \\left( \\frac{\\Delta KE}{KE_{\\text{initial}}} \\right) \\times 100\\%$$</p>\n\n<p>$$\\text{Percentage loss of KE} = \\left( \\frac{210000}{250000} \\right) \\times 100\\% = 0.84 \\times 100\\% = 84\\%$$</p>\n\n<p>Thus, the percentage loss of kinetic energy is <strong>84%</strong>, which corresponds to <strong>Option C</strong>.</p>",
+      "solution": "<p>To find the percentage loss of kinetic energy of the bullet, we first calculate the initial kinetic energy before the bullet hits the plywood and the final kinetic energy after it emerges. The formula for kinetic energy (KE) is given by:</p> <p>$$KE = \\frac12 mv^2$$</p> <p>where $m$ is the mass of the object and $v$ is its velocity.</p> <p>Let's calculate the initial and final kinetic energies.</p> <p><strong>Initial Kinetic Energy:</strong></p> <p>$$KE_\\textinitial = \\frac12 \\times 50 \\times (100)^2 = \\frac12 \\times 50 \\times 10000 = 25 \\times 10000 = 250000 \\, \\textg.m^2/\\texts^2$$</p> <p>Note: To keep units consistent, we used grams and meters per second. We can also convert the mass to kilograms (by dividing by 1000) which would result in the energy being calculated in Joules, but for the purpose of finding the percentage change, the form of units does not matter as long as they are consistent, since it will be a ratio.</p> <p><strong>Final Kinetic Energy:</strong></p> <p>$$KE_\\textfinal = \\frac12 \\times 50 \\times (40)^2 = \\frac12 \\times 50 \\times 1600 = 25 \\times 1600 = 40000 \\, \\textg.m^2/\\texts^2$$</p> <p>The loss of kinetic energy is then:</p> <p>$$\\Delta KE = KE_\\textinitial - KE_\\textfinal = 250000 - 40000 = 210000 \\, \\textg.m^2/\\texts^2$$</p> <p>Finally, the percentage loss of kinetic energy can be calculated using the formula:</p> <p>$$\\textPercentage loss of KE = \\left( \\frac\\Delta KEKE_\\textinitial \\right) \\times 100\\%$$</p> <p>$$\\textPercentage loss of KE = \\left( \\frac210000250000 \\right) \\times 100\\% = 0.84 \\times 100\\% = 84\\%$$</p> <p>Thus, the percentage loss of kinetic energy is <strong>84%</strong>, which corresponds to <strong>Option C</strong>.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "A car of weight W is on an inclined road that rises by 100 m over a distance of 1 km\nand applies a constant frictional force $${W \\over 20}$$ on the car. While moving uphill on the road at a speed of 10 ms<sup>\\u22121</sup>, the car needs power P. If it needs power $${p \\over 2}$$ while moving downhill at speed v then value of $$\\upsilon $$ is :",
+      "question": "A car of weight W is on an inclined road that rises by 100 m over a distance of 1 km and applies a constant frictional force $$W \\over 20$$ on the car. While moving uphill on the road at a speed of 10 ms<sup>\\u22121</sup>, the car needs power P. If it needs power $$p \\over 2$$ while moving downhill at speed v then value of $$\\upsilon $$ is :",
       "options": {
         "A": "20 ms<sup>$$-$$1</sup>",
         "B": "15 ms<sup>$$-$$1</sup>",
@@ -972,14 +717,14 @@
         "D": "5 ms<sup>$$-$$1</sup>"
       },
       "answer": "B",
-      "solution": "Here, tan$$\\theta $$ = $${{100} \\over {1000}} = {1 \\over {10}}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;sin$$\\theta $$ = $${1 \\over {10}}$$ (as &nbsp;&nbsp;$$\\theta $$&nbsp;&nbsp;is very small),\n<br><br>when car is moving uphill : \n<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264844/exam_images/w4ba1kfvqtexl7o03gba.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power &amp; Energy Question 94 English Explanation 1\">\n<br><br>P = f $$ \\times $$ u\n<br><br>=&nbsp;&nbsp;(wsin$$\\theta $$ + f) $$ \\times $$ u\n<br><br>=&nbsp;&nbsp;$$\\left( {{w \\over {10}} + {w \\over {20}}} \\right) \\times 10$$\n<br><br>P  =  $${{3w} \\over {20}} \\times 10$$ = $${{3w} \\over 2}$$\n<br><br>When car is moving down hill : \n<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265860/exam_images/vcg0fso4anwqfxzos40i.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power &amp; Energy Question 94 English Explanation 2\">\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$${P \\over 2}$$ = (wsin$$\\theta $$ $$-$$ f) $$ \\times $$ v\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$${{3w} \\over 4}$$ = $$\\left( {{w \\over {10}} - {w \\over {20}}} \\right)$$ $$ \\times $$ v\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$${{w \\over {20}} \\times }$$ v = $${{3w} \\over 4}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;v = 15 m/s",
+      "solution": "Here, tan$$\\theta $$ = $$100 \\over 1000 = 1 \\over 10$$ <br><br>$$ \\therefore $$ sin$$\\theta $$ = $$1 \\over 10$$ (as $$\\theta $$ is very small), <br><br>when car is moving uphill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264844/exam_images/w4ba1kfvqtexl7o03gba.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 1\"> <br><br>P = f $$ \\times $$ u <br><br>= (wsin$$\\theta $$ + f) $$ \\times $$ u <br><br>= $$\\left( w \\over 10 + w \\over 20 \\right) \\times 10$$ <br><br>P = $$3w \\over 20 \\times 10$$ = $$3w \\over 2$$ <br><br>When car is moving down hill : <br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265860/exam_images/vcg0fso4anwqfxzos40i.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2016 (Online) 9th April Morning Slot Physics - Work Power & Energy Question 94 English Explanation 2\"> <br><br>$$ \\therefore $$ $$P \\over 2$$ = (wsin$$\\theta $$ $$-$$ f) $$ \\times $$ v <br><br>$$ \\Rightarrow $$ $$3w \\over 4$$ = $$\\left( w \\over 10 - w \\over 20 \\right)$$ $$ \\times $$ v <br><br>$$ \\Rightarrow $$ $$w \\over 20 \\times $$ v = $$3w \\over 4$$ <br><br>$$ \\Rightarrow $$ v = 15 m/s",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>Sand is being dropped from a stationary dropper at a rate of $$0.5 \\,\\mathrm{kgs}^{-1}$$ on a conveyor belt moving with a velocity of $$5 \\mathrm{~ms}^{-1}$$. The power needed to keep the belt moving with the same velocity will be :</p>",
+      "question": "<p>Sand is being dropped from a stationary dropper at a rate of $$0.5 \\,kgs^-1$$ on a conveyor belt moving with a velocity of $$5 ~ms^-1$$. The power needed to keep the belt moving with the same velocity will be :</p>",
       "options": {
         "A": "1.25 W",
         "B": "2.5 W",
@@ -987,7 +732,7 @@
         "D": "12.5 W"
       },
       "answer": "D",
-      "solution": "<p>$${{dm} \\over {dt}} = 0.5$$ kg/s</p>\n<p>$$v = 5$$ m/s</p>\n<p>$$F = {{vdm} \\over {dt}} = 2.5$$ kg m/s<sup>2</sup></p>\n<p>$$P = \\overline F \\,.\\,\\overline v  = (2.5)(5)$$ W</p>\n<p>$$ = 12.5$$ W</p>",
+      "solution": "<p>$$dm \\over dt = 0.5$$ kg/s</p> <p>$$v = 5$$ m/s</p> <p>$$F = vdm \\over dt = 2.5$$ kg m/s<sup>2</sup></p> <p>$$P = \\overline F \\,.\\,\\overline v = (2.5)(5)$$ W</p> <p>$$ = 12.5$$ W</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -1002,14 +747,14 @@
         "D": "784.0 J"
       },
       "answer": "C",
-      "solution": "$$W =  - N \\times \\Delta x$$<br><br>$$ =  - 80 \\times 9.8 \\times {{80} \\over {100}}$$<br><br>$$ =  - 627.2$$ J",
+      "solution": "$$W = - N \\times \\Delta x$$<br><br>$$ = - 80 \\times 9.8 \\times 80 \\over 100$$<br><br>$$ = - 627.2$$ J",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Work, Energy, and Power"
     },
     {
-      "question": "<p>A particle experiences a variable force $$\\overrightarrow F  = \\left( {4x\\widehat i + 3{y^2}\\widehat j} \\right)$$ in a horizontal x-y plane. Assume distance in meters and force is newton. If the particle moves from point (1, 2) to point (2, 3) in the x-y plane, then Kinetic Energy changes by :</p>",
+      "question": "<p>A particle experiences a variable force $$\\overrightarrow F = \\left( 4x\\widehat i + 3y^2\\widehat j \\right)$$ in a horizontal x-y plane. Assume distance in meters and force is newton. If the particle moves from point (1, 2) to point (2, 3) in the x-y plane, then Kinetic Energy changes by :</p>",
       "options": {
         "A": "50.0 J",
         "B": "12.5 J",
@@ -1017,7 +762,7 @@
         "D": "0 J"
       },
       "answer": "C",
-      "solution": "<p>$$W = \\int {\\overrightarrow F \\,.\\,d\\overrightarrow r } $$</p>\n<p>$$ = \\int\\limits_1^2 {4xdx + \\int\\limits_2^3 {3{y^2}dy} } $$</p>\n<p>$$ = [2{x^2}]_1^2 + [{y^3}]_2^3$$</p>\n<p>$$ = 2 \\times 3 + (27 - 8)$$</p>\n<p>$$ = 25$$ J</p>",
+      "solution": "<p>$$W = \\int \\overrightarrow F \\,.\\,d\\overrightarrow r $$</p> <p>$$ = \\int\\limits_1^2 4xdx + \\int\\limits_2^3 3y^2dy $$</p> <p>$$ = [2x^2]_1^2 + [y^3]_2^3$$</p> <p>$$ = 2 \\times 3 + (27 - 8)$$</p> <p>$$ = 25$$ J</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",

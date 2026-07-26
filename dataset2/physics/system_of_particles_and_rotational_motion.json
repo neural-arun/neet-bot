@@ -1,10 +1,10 @@
 {
   "subject": "Physics",
   "chapter": "System of Particles and Rotational Motion",
-  "total_questions": 85,
+  "total_questions": 57,
   "questions": [
     {
-      "question": "[NEET 2020 | Physics]\n\nA body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
+      "question": "[NEET 2020 | Physics] A body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
       "options": {
         "A": "I\u03c9",
         "B": "\u00bdI\u03c9\u00b2",
@@ -12,7 +12,7 @@
         "D": "\u00bdI\u03c9"
       },
       "answer": "B",
-      "solution": "## **Correct Answer: (B) \u00bdI\u03c9\u00b2**\n\n---\n\n## **Step-by-Step Reasoning:**\n\n### **The Rotational Kinetic Energy Formula**\n\nJust as translational kinetic energy is **KE = \u00bdmv\u00b2**, rotational kinetic energy follows an analogous form:\n\n$$\\boxed{KE_{rot} = \\frac{1}{2}I\\omega^2}$$\n\nWhere:\n- **I** = moment of inertia (rotational analog of mass)\n- **\u03c9** = angular velocity (rotational analog of linear velocity)\n\n---\n\n## **Why This Makes Sense - The Analogy:**\n\n| Linear Motion | Rotational Motion |\n|---|---|\n| Kinetic Energy = \u00bdm**v\u00b2** | Kinetic Energy = \u00bdI**\u03c9\u00b2** |\n| Mass (m) | Moment of Inertia (I) |\n| Velocity (v) | Angular Velocity (\u03c9) |\n\nThe **factor of \u00bd** appears in both because kinetic energy depends on velocity squared, and we need this factor to get the correct energy relationship.\n\n---\n\n## **Why Other Options Are Wrong:**\n\n- **(A) I\u03c9** - Missing the \u00bd factor and \u03c9 should be squared\n- **(C) I\u03c9\u00b2** - Correct form but missing the crucial \u00bd factor (this is a common trap!)\n- **(D) \u00bdI\u03c9** - Has \u00bd but \u03c9 is not squared; this would be dimensionally incorrect for energy\n\n---\n\n## **Key Point to Remember:**\n\n\u2713 The factor of **\u00bd** is essential - don't drop it!\n\u2713 Angular velocity must be **squared**\n\u2713 This formula is derived from \u222b\u03c9\u00b7L\u00b7dt where L is angular momentum\n\n**This concept is fundamental for rotational dynamics problems in NEET!**",
+      "solution": "## **Correct Answer: (B) \u00bdI\u03c9\u00b2** --- ## **Step-by-Step Reasoning:** ### **The Rotational Kinetic Energy Formula** Just as translational kinetic energy is **KE = \u00bdmv\u00b2**, rotational kinetic energy follows an analogous form: $$\\boxedKE_rot = \\frac12I\\omega^2$$ Where: - **I** = moment of inertia (rotational analog of mass) - **\u03c9** = angular velocity (rotational analog of linear velocity) --- ## **Why This Makes Sense - The Analogy:** | Linear Motion | Rotational Motion | |---|---| | Kinetic Energy = \u00bdm**v\u00b2** | Kinetic Energy = \u00bdI**\u03c9\u00b2** | | Mass (m) | Moment of Inertia (I) | | Velocity (v) | Angular Velocity (\u03c9) | The **factor of \u00bd** appears in both because kinetic energy depends on velocity squared, and we need this factor to get the correct energy relationship. --- ## **Why Other Options Are Wrong:** - **(A) I\u03c9** - Missing the \u00bd factor and \u03c9 should be squared - **(C) I\u03c9\u00b2** - Correct form but missing the crucial \u00bd factor (this is a common trap!) - **(D) \u00bdI\u03c9** - Has \u00bd but \u03c9 is not squared; this would be dimensionally incorrect for energy --- ## **Key Point to Remember:** \u2713 The factor of **\u00bd** is essential - don't drop it! \u2713 Angular velocity must be **squared** \u2713 This formula is derived from \u222b\u03c9\u00b7L\u00b7dt where L is angular momentum **This concept is fundamental for rotational dynamics problems in NEET!**",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -27,22 +27,7 @@
         "D": "5"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn collision, final momentum = Initial momentum p \u2192 f = p \u2192 i p \u2192 2 + 1 0.3 j ^ = 1 0.4 i ^ p \u2192 2 = 0.4 i ^ - 0.3 j ^ p \u2192 2 = 0.5 kg \u2061 - m / s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A ball of mass 1 k g moving with a velocity of 0.4 m s - 1 collides with another stationary ball. After the collision, the first ball moves with a velocity of 0.3 m s - 1 in a direction making an angle of 90 o with its initial direction. The momentum of the second ball after the collision will be (in kg m s - 1 )",
-      "options": {
-        "A": "A",
-        "B": "1",
-        "C": "3",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn collision, final momentum = Initial momentum p \u2192 f = p \u2192 i p \u2192 2 + 1 0.3 j ^ = 1 0.4 i ^ p \u2192 2 = 0.4 i ^ - 0.3 j ^ p \u2192 2 = 0.5 kg \u2061 - m / s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In collision, final momentum = Initial momentum p \u2192 f = p \u2192 i p \u2192 2 + 1 0.3 j ^ = 1 0.4 i ^ p \u2192 2 = 0.4 i ^ - 0.3 j ^ p \u2192 2 = 0.5 kg \u2061 - m / s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -57,44 +42,29 @@
         "D": "20 mm"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPitch = 0.5 mm L.C = 0.5 50 = 0.01 mm M.S.R = 2 Neck reading = 25 d = 2 \u00d7 0.5 + 25 \u00d7 0.01 = 1.25 mm Considering zero error Here zero error is = + 5 \u00d7 0.01 = + 0.05 mm so actual diameter = d - 0.05 = 1.20 mm\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Pitch = 0.5 mm L.C = 0.5 50 = 0.01 mm M.S.R = 2 Neck reading = 25 d = 2 \u00d7 0.5 + 25 \u00d7 0.01 = 1.25 mm Considering zero error Here zero error is = + 5 \u00d7 0.01 = + 0.05 mm so actual diameter = d - 0.05 = 1.20 mm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "An energy of $484 \\mathrm{~J}$ is spent in increasing the speed of a flywheel from $60 \\mathrm{rpm}$ to $360 \\mathrm{rpm}$. The moment of inertia of the flywheel is:",
+      "question": "An energy of $484 ~J$ is spent in increasing the speed of a flywheel from $60 rpm$ to $360 rpm$. The moment of inertia of the flywheel is:",
       "options": {
         "A": "A $",
-        "B": "7 \\mathrm{~kg}-\\mathrm{m}^2$",
-        "C": "22 \\mathrm{~kg}-\\mathrm{m}^2$ C $3",
-        "D": "8 \\mathrm{~kg}-\\mathrm{m}^2$"
+        "B": "7 ~kg-m^2$",
+        "C": "22 ~kg-m^2$ C $3",
+        "D": "8 ~kg-m^2$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nGiven, $\\begin{aligned} & \\omega_1=60 \\mathrm{rpm}=60 \\times \\frac{2 \\pi}{60}=2 \\pi \\mathrm{rad} / \\mathrm{s} \\\\ & \\omega_2=360 \\mathrm{rpm}=360 \\times \\frac{2 \\pi}{60}=12 \\pi \\mathrm{rad} / \\mathrm{s} \\end{aligned}$ Change in kinetic energy, $\\begin{aligned} \\Delta \\mathrm{K} . \\mathrm{E} & =\\frac{1}{2} \\mathrm{I}\\left(\\omega_2^2-\\omega_1^2\\right) \\\\ 484 & =\\frac{1}{2} \\times \\mathrm{I}\\left(\\omega_2+\\omega_1\\right)\\left(\\omega_2-\\omega_1\\right) \\\\ \\Rightarrow \\quad \\mathrm{I} & =\\frac{484 \\times 2}{14 \\pi \\times 10 \\pi}=0.7 \\mathrm{~kg} \\cdot \\mathrm{m}^2 \\end{aligned}$ (where, the symbols have their usual meanings)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given, $\\beginaligned & \\omega_1=60 rpm=60 \\times \\frac2 \\pi60=2 \\pi rad / s \\\\ & \\omega_2=360 rpm=360 \\times \\frac2 \\pi60=12 \\pi rad / s \\endaligned$ Change in kinetic energy, $\\beginaligned \\Delta K . E & =\\frac12 I\\left(\\omega_2^2-\\omega_1^2\\right) \\\\ 484 & =\\frac12 \\times I\\left(\\omega_2+\\omega_1\\right)\\left(\\omega_2-\\omega_1\\right) \\\\ \\Rightarrow \\quad I & =\\frac484 \\times 214 \\pi \\times 10 \\pi=0.7 ~kg \\cdot m^2 \\endaligned$ (where, the symbols have their usual meanings) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Explain 'Vector product of vectors' from Physics (Class 11, Chapter 7: System of Particles and Rotational Motion) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "<thinking>\nThe student wants a detailed explanation of Vector Product of Vectors from Class 11 Physics, Chapter 7 (System of Particles and Rotational Motion) for NEET preparation. Let me cover this comprehensively.\n\nVector product (cross product) is an important concept that appears in rotational motion, torque, angular momentum, etc. Let me structure this well.\n</thinking>\n\n# Vector Product of Vectors (Cross Product)\n### Class 11 | Chapter 7 | System of Particles & Rotational Motion\n\n---\n\n## 1. \ud83c\udfaf Core Concept & Definition\n\nWhen two vectors are multiplied such that the **result is also a vector**, it is called the **Vector Product** (or **Cross Product**).\n\n> If **A** and **B** are two vectors, their cross product is written as **A \u00d7 B**, and it gives a **new vector C** that is **perpendicular to BOTH A and B**.\n\n**Key Characteristics:**\n| Property | Details |\n|----------|---------|\n| Result type | A **Vector** |\n| Direction | \u22a5 to the plane containing A and B |\n| Magnitude | Depends on the angle between A and B |\n| Found in nature as | Torque, Angular Momentum, Force on moving charge |\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas & Important Facts\n\n### \u2705 Magnitude Formula:\n$$|\\vec{A} \\times \\vec{B}| = AB\\sin\\theta$$\n\nWhere:\n- A = magnitude of vector A\n- B = magnitude of vector B\n- \u03b8 = angle between the two vectors (0\u00b0 \u2264 \u03b8 \u2264 180\u00b0)\n\n---\n\n### \u2705 Direction \u2014 Right Hand Thumb Rule (RHTR):\n> Curl the fingers of your **right hand** from **A toward B** (through the smaller angle \u03b8). Your **thumb points in the direction** of A \u00d7 B.\n\n```\nA \u00d7 B = ABsin\u03b8 n\u0302\n```\nWhere **n\u0302** is the unit vector perpendicular to the plane of A and B.\n\n---\n\n### \u2705 Component Form (Using Unit Vectors):\nIf **A** = Ax\u00ee + Ay\u0135 + Azk\u0302 and **B** = Bx\u00ee + By\u0135 + Bzk\u0302\n\n$$\\vec{A} \\times \\vec{B} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ A_x & A_y & A_z \\\\ B_x & B_y & B_z \\end{vmatrix}$$\n\n$$= \\hat{i}(A_yB_z - A_zB_y) - \\hat{j}(A_xB_z - A_zB_x) + \\hat{k}(A_xB_y - A_yB_x)$$\n\n---\n\n### \u2705 Standard Cross Product Results (MUST MEMORIZE):\n\n| Cross Product | Result |\n|--------------|--------|\n| \u00ee \u00d7 \u0135 | **+k\u0302** |\n| \u0135 \u00d7 k\u0302 | **+\u00ee** |\n| k\u0302 \u00d7 \u00ee | **+\u0135** |\n| \u0135 \u00d7 \u00ee | **\u2212k\u0302** |\n| k\u0302 \u00d7 \u0135 | **\u2212\u00ee** |\n| \u00ee \u00d7 k\u0302 | **\u2212\u0135** |\n| \u00ee \u00d7 \u00ee = \u0135 \u00d7 \u0135 = k\u0302 \u00d7 k\u0302 | **= 0** |\n\n---\n\n### \u2705 Key Properties:\n\n**1. Anti-commutative (NOT commutative):**\n$$\\vec{A} \\times \\vec{B} = -(\\vec{B} \\times \\vec{A})$$\n\n**2. NOT associative:**\n$$(\\vec{A} \\times \\vec{B}) \\times \\vec{C} \\neq \\vec{A} \\times (\\vec{B} \\times \\vec{C})$$\n\n**3. Distributive over addition:**\n$$\\vec{A} \\times (\\vec{B} + \\vec{C}) = \\vec{A} \\times \\vec{B} + \\vec{A} \\times \\vec{C}$$\n\n**4. Parallel vectors \u2192 Cross product = 0:**\n$$\\theta = 0\u00b0 \\Rightarrow \\sin 0\u00b0 = 0 \\Rightarrow |\\vec{A} \\times \\vec{B}| = 0$$\n\n**5. Perpendicular vectors \u2192 Cross product is MAXIMUM:**\n$$\\theta = 90\u00b0 \\Rightarrow \\sin 90\u00b0 = 1 \\Rightarrow |\\vec{A} \\times \\vec{B}|_{max} = AB$$\n\n---\n\n### \u2705 Physical Applications (NEET-Relevant):\n\n| Physical Quantity | Formula |\n|------------------|---------|\n| **Torque** | **\u03c4** = **r** \u00d7 **F** |\n| **Angular Momentum** | **L** = **r** \u00d7 **p** |\n| **Linear velocity** (rotation) | **v** = **\u03c9** \u00d7 **r** |\n| **Magnetic Force** | **F** = q(**v** \u00d7 **B**) |\n\n---\n\n## 3. \ud83d\udcdd Common NEET Question Patterns\n\n### Pattern 1: Find the magnitude of cross product\n*\"If |A| = 3, |B| = 4, and angle = 30\u00b0, find |A \u00d7 B|\"*\n\u2192 Simply apply: ABsin\u03b8\n\n### Pattern 2: Direction of cross product using RHTR\n*\"Find the direction of torque when r is along +x and F is along +y\"*\n\u2192 \u00ee \u00d7 \u0135 = k\u0302, so torque is along **+z direction**\n\n### Pattern 3: When is cross product zero?\n*\"For what angle between two vectors is their cross product zero?\"*\n\u2192 **\u03b8 = 0\u00b0 or 180\u00b0** (parallel or anti-parallel vectors)\n\n### Pattern 4: Unit vector cross products\n*\"If A = 2\u00ee + 3\u0135 and B = \u00ee \u2212 2\u0135, find A \u00d7 B\"*\n\u2192 Use determinant method\n\n### Pattern 5: Comparison with Dot Product\n*\"The cross product is maximum when dot product is ___\"*\n\u2192 Cross product max at \u03b8 = 90\u00b0, Dot product = 0 at \u03b8 = 90\u00b0 \u2192 **Answer: Zero**\n\n---\n\n## 4. \ud83e\udde0 Memory Tips & Analogies\n\n### \ud83d\udd04 Cyclic Order Trick for Unit Vectors:\n\n```\n        \u00ee\n       \u2197 \u2196\n      \u0135 \u2192 k\u0302\n```\n**Clockwise \u2192 Positive result**\n**Anti-clockwise \u2192 Negative result**\n\n> i\u2192j\u2192k\u2192i (forward = positive)\n> i\u2192k\u2192j\u2192i (backward = negative)\n\n---\n\n### \u270b Right Hand Thumb Rule \u2014 Easy Analogy:\n> Imagine **unscrewing a bottle cap** \u2014 the direction your thumb points as you rotate from A to B = direction of A \u00d7 B.\n> Like **tightening a screw** (clockwise from top = goes downward = into the page)\n\n---\n\n### \ud83d\udccc Cross vs Dot \u2014 Quick Comparison:\n\n| Feature | Dot Product | Cross Product |\n|---------|------------|--------------|\n| Result | Scalar | Vector |\n| Formula | AB cos\u03b8 | AB sin\u03b8 |\n| Max when \u03b8 = | 0\u00b0 | 90\u00b0 |\n| Zero when \u03b8 = | 90\u00b0 | 0\u00b0 or 180\u00b0 |\n| Commutative? | \u2705 Yes | \u274c No |\n\n---\n\n## 5. \ud83d\udca1 Example Problem with Solution\n\n### Problem:\n> A force **F** = (2\u00ee + 3\u0135) N acts at a position **r** = (\u00ee + 2\u0135) m from the origin. Find the **torque** about the origin.\n\n### Solution:\n\n**Step 1:** Recall the formula\n$$\\vec{\\tau} = \\vec{r} \\times \\vec{F}$$\n\n**Step 2:** Write out the determinant\n\n$$\\vec{\\tau} = \\begin{vmatrix} \\hat{i} & \\hat{j} & \\hat{k} \\\\ 1 & 2 & 0 \\\\ 2 & 3 & 0 \\end{vmatrix}$$\n\n**Step 3:** Expand\n\n$$\\vec{\\tau} = \\hat{i}(2 \\times 0 - 0 \\times 3) - \\hat{j}(1 \\times 0 - 0 \\times 2) + \\hat{k}(1 \\times 3 - 2 \\times 2)$$\n\n$$\\vec{\\tau} = \\hat{i}(0) - \\hat{j}(0) + \\hat{k}(3 - 4)$$\n\n$$\\boxed{\\vec{\\tau} = -\\hat{k} \\text{ N\u00b7m}}$$\n\n**Step 4:** Interpret\n- Magnitude = **1 N\u00b7m**\n- Direction = **\u2212z direction** (into the page)\n- This means the rotation produced would be **clockwise** when viewed from above\n\n---\n\n## \u26a1 NEET Revision Flashcard\n\n```\n\u2554\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2557\n\u2551     VECTOR PRODUCT \u2014 QUICK RECALL   \u2551\n\u2560\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2563\n\u2551 |A \u00d7 B| = AB sin\u03b8                   \u2551\n\u2551 Max at \u03b8 = 90\u00b0                      \u2551\n\u2551 Zero at \u03b8 = 0\u00b0 or 180\u00b0              \u2551\n\u2551 A \u00d7 B = \u2212(B \u00d7 A)  [Anti-commute]   \u2551\n\u2551 \u00ee\u00d7\u0135=k\u0302, \u0135\u00d7k\u0302=\u00ee, k\u0302\u00d7\u00ee=\u0135           \u2551\n\u2551 \u03c4 = r\u00d7F, L = r\u00d7p, F = q(v\u00d7B)       \u2551\n\u255a\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u2550\u255d\n```\n\n---\n\n> \ud83d\udcac **Exam Tip:** In NEET, torque and angular momentum problems are the most common applications of cross products. Always identify **r** and **F** (or **p**) clearly, apply RHTR for direction",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2019 | Physics]\n\nDisc radius 2m, mass 100kg rolls on floor. CM speed 0.20 m/s. Work to stop it:",
+      "question": "[NEET 2019 | Physics] Disc radius 2m, mass 100kg rolls on floor. CM speed 0.20 m/s. Work to stop it:",
       "options": {
         "A": "3 J",
         "B": "30000 J",
@@ -102,7 +72,7 @@
         "D": "1 J"
       },
       "answer": "A",
-      "solution": "# Solution: Work Required to Stop a Rolling Disc\n\n## **Correct Answer: (A) 3 J**\n\n---\n\n## **Step-by-Step Solution:**\n\n### **Step 1: Identify the Motion Type**\nThe disc is rolling without slipping, so it has:\n- Translational kinetic energy (CM moving)\n- Rotational kinetic energy (disc spinning)\n\n### **Step 2: Find Angular Velocity**\nFor rolling without slipping: v = \u03c9R\n\n$$\\omega = \\frac{v}{R} = \\frac{0.20}{2} = 0.1 \\text{ rad/s}$$\n\n### **Step 3: Calculate Moment of Inertia**\nFor a solid disc about its center:\n\n$$I = \\frac{1}{2}MR^2 = \\frac{1}{2} \\times 100 \\times (2)^2 = 200 \\text{ kg\u22c5m}^2$$\n\n### **Step 4: Calculate Total Kinetic Energy**\n\n**Translational KE:**\n$$KE_{trans} = \\frac{1}{2}Mv^2 = \\frac{1}{2} \\times 100 \\times (0.20)^2 = 2 \\text{ J}$$\n\n**Rotational KE:**\n$$KE_{rot} = \\frac{1}{2}I\\omega^2 = \\frac{1}{2} \\times 200 \\times (0.1)^2 = 1 \\text{ J}$$\n\n**Total KE:**\n$$KE_{total} = 2 + 1 = 3 \\text{ J}$$\n\n---\n\n## **Why Other Options Are Wrong:**\n\n- **(B) 30000 J**: Way too large\u2014error from not using kinetic energy formula properly\n- **(C) 2 J**: This is only translational KE; ignores rotation\n- **(D) 1 J**: This is only rotational KE; ignores translation\n\n---\n\n## **Key Concept to Remember:**\n\nFor any rolling object:\n$$KE_{total} = \\frac{1}{2}Mv^2 + \\frac{1}{2}I\\omega^2$$\n\nThe work-energy theorem states: **Work done = Change in kinetic energy = Total KE (when stopping from rest)**",
+      "solution": "# Solution: Work Required to Stop a Rolling Disc ## **Correct Answer: (A) 3 J** --- ## **Step-by-Step Solution:** ### **Step 1: Identify the Motion Type** The disc is rolling without slipping, so it has: - Translational kinetic energy (CM moving) - Rotational kinetic energy (disc spinning) ### **Step 2: Find Angular Velocity** For rolling without slipping: v = \u03c9R $$\\omega = \\fracvR = \\frac0.202 = 0.1 \\text rad/s$$ ### **Step 3: Calculate Moment of Inertia** For a solid disc about its center: $$I = \\frac12MR^2 = \\frac12 \\times 100 \\times (2)^2 = 200 \\text kg\u22c5m^2$$ ### **Step 4: Calculate Total Kinetic Energy** **Translational KE:** $$KE_trans = \\frac12Mv^2 = \\frac12 \\times 100 \\times (0.20)^2 = 2 \\text J$$ **Rotational KE:** $$KE_rot = \\frac12I\\omega^2 = \\frac12 \\times 200 \\times (0.1)^2 = 1 \\text J$$ **Total KE:** $$KE_total = 2 + 1 = 3 \\text J$$ --- ## **Why Other Options Are Wrong:** - **(B) 30000 J**: Way too large\u2014error from not using kinetic energy formula properly - **(C) 2 J**: This is only translational KE; ignores rotation - **(D) 1 J**: This is only rotational KE; ignores translation --- ## **Key Concept to Remember:** For any rolling object: $$KE_total = \\frac12Mv^2 + \\frac12I\\omega^2$$ The work-energy theorem states: **Work done = Change in kinetic energy = Total KE (when stopping from rest)**",
       "exam": "NEET 2019",
       "year": 2019,
       "subject": "Physics",
@@ -117,7 +87,7 @@
         "D": "5"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nBy conversation of linear momentum m v = 4 m v \\u2032 \\u21d2 v \\u2032 = v 4 Coefficient of restitution ( e ) = V e l o c i t y o f s e p a r a t i o n V e l o c i t y o f a p p r o a c h = v 4 - 0 v - 0 = 1 4 = 0.25\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** By conversation of linear momentum m v = 4 m v \\u2032 \\u21d2 v \\u2032 = v 4 Coefficient of restitution ( e ) = V e l o c i t y o f s e p a r a t i o n V e l o c i t y o f a p p r o a c h = v 4 - 0 v - 0 = 1 4 = 0.25 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -132,7 +102,7 @@
         "D": "75 \u00d7 10^12 rad/s"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 6.8 \u00d7 10^12 rad/s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 6.8 \u00d7 10^12 rad/s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -147,67 +117,22 @@
         "D": "9 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nTotal angular momentum about O is given as, L \u00e2\u0086\u0092 = L \u00e2\u0086\u0092 1 + L \u00e2\u0086\u0092 2 = \u00e2\u0088\u0092 m 1 v 1 r 1 + m 2 v 2 r 2 (anti clockwise) = - 6.5 \u00c3\u0097 2.2 \u00c3\u0097 1.5 + 3.1 \u00c3\u0097 3.6 \u00c3\u0097 2.8 (anti clockwise) = \u00e2\u0088\u0092 21.45 + 31.248 = 9.8 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092 1 (anti clockwise)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Total angular momentum about O is given as, L \u00e2\u0086\u0092 = L \u00e2\u0086\u0092 1 + L \u00e2\u0086\u0092 2 = \u00e2\u0088\u0092 m 1 v 1 r 1 + m 2 v 2 r 2 (anti clockwise) = - 6.5 \u00c3\u0097 2.2 \u00c3\u0097 1.5 + 3.1 \u00c3\u0097 3.6 \u00c3\u0097 2.8 (anti clockwise) = \u00e2\u0088\u0092 21.45 + 31.248 = 9.8 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092 1 (anti clockwise) **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Two particles A and B are moving, as shown in the figure. Their total angular momentum about the point O is",
-      "options": {
-        "A": "A",
-        "B": "8 \u00e2\u0080\u0089 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092 1 B Zero C 5",
-        "C": "7 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092 1 D",
-        "D": "9 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nTotal angular momentum about O is given as, L \u00e2\u0086\u0092 = L \u00e2\u0086\u0092 1 + L \u00e2\u0086\u0092 2 = \u00e2\u0088\u0092 m 1 v 1 r 1 + m 2 v 2 r 2 (anti clockwise) = - 6.5 \u00c3\u0097 2.2 \u00c3\u0097 1.5 + 3.1 \u00c3\u0097 3.6 \u00c3\u0097 2.8 (anti clockwise) = \u00e2\u0088\u0092 21.45 + 31.248 = 9.8 kg \u00e2\u008b m 2 \u00e2\u008b s \u00e2\u0088\u0092 1 (anti clockwise)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Explain 'Torque on a dipole in uniform external field' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# Torque on a Dipole in Uniform External Field\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is an Electric Dipole?\nAn electric dipole consists of two equal and opposite charges (+q and -q) separated by a small distance (2a or d).\n\n**Dipole Moment (p):** \n- Definition: p = q \u00d7 d (where d is the separation vector from -q to +q)\n- SI Unit: **Coulomb-meter (C\u00b7m)**\n- It's a **vector quantity** pointing from negative to positive charge\n\n### Why Does a Dipole Experience Torque in a Uniform Field?\n\nWhen a dipole is placed in a uniform external electric field **E**:\n\n| Charge | Force | Direction |\n|--------|-------|-----------|\n| +q | F\u208a = qE | Along E |\n| -q | F\u208b = qE | Opposite to E |\n\n**Key Insight:** The two forces are **equal and opposite** \u2192 **No net force** (\u2713 Important!)\n\nHowever, these forces act at **different points** \u2192 They create a **couple** \u2192 **Torque is produced**\n\n---\n\n## 2. KEY FORMULAS & FACTS\n\n### **MAIN FORMULA - Torque on Dipole:**\n\n$$\\boxed{\\vec{\\tau} = \\vec{p} \\times \\vec{E}}$$\n\n**Or in scalar form:**\n$$\\boxed{\\tau = pE\\sin\\theta}$$\n\nWhere:\n- **p** = dipole moment magnitude\n- **E** = electric field strength  \n- **\u03b8** = angle between dipole moment and electric field\n\n### Important Observations:\n\n| Angle (\u03b8) | sin \u03b8 | Torque | Orientation |\n|-----------|-------|--------|-------------|\n| 0\u00b0 | 0 | **\u03c4 = 0** | Dipole aligned with field (stable) |\n| 90\u00b0 | 1 | **\u03c4 = pE (maximum)** | Perpendicular to field |\n| 180\u00b0 | 0 | **\u03c4 = 0** | Dipole opposite to field (unstable) |\n\n### **Potential Energy of Dipole:**\n\n$$\\boxed{U = -\\vec{p} \\cdot \\vec{E} = -pE\\cos\\theta}$$\n\n- **Minimum U** (most stable): \u03b8 = 0\u00b0 (aligned with field)\n- **Maximum U** (least stable): \u03b8 = 180\u00b0 (opposite to field)\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Direct Torque Calculation**\n*\"A dipole of moment p is placed at angle \u03b8 in field E. Find torque.\"*\n- **Solution:** Use \u03c4 = pE sin \u03b8 directly\n\n### **Pattern 2: Equilibrium Position**\n*\"In which position is the dipole stable?\"*\n- **Answer:** When dipole aligns with field (\u03b8 = 0\u00b0), \u03c4 = 0, U is minimum\n\n### **Pattern 3: Potential Energy Comparison**\n*\"If dipole is rotated from \u03b8\u2081 to \u03b8\u2082, find work done.\"*\n- **Solution:** W = \u0394U = -pE(cos \u03b8\u2082 - cos \u03b8\u2081)\n\n### **Pattern 4: Net Force Check**\n*\"Does a dipole experience net force in uniform field?\"*\n- **Answer:** NO, but it experiences torque (common trap!)\n\n### **Pattern 5: Non-uniform Field**\n*\"Dipole in non-uniform field...\"*\n- **Key:** In non-uniform fields, dipole experiences BOTH force AND torque\n\n---\n\n## 4. MEMORY TIP & ANALOGY\n\n### **The Compass Needle Analogy** \ud83e\udded\n\nImagine a compass needle (magnetic dipole) in Earth's magnetic field:\n- The field exerts forces on both poles\n- These forces create a **torque** that rotates the needle\n- The needle **aligns** with the field (minimum energy state)\n- **Once aligned, no more rotation** (torque = 0)\n\n**Same principle applies to electric dipole!**\n\n### **Quick Memory Trick:**\n\n**\"PUST\"**\n- **P**ole separation \u2192 dipole moment\n- **U**niform field \u2192 only torque (no net force)\n- **S**table position \u2192 aligned with field\n- **T**orque = pE sin \u03b8\n\n---\n\n## 5. DETAILED EXAMPLE PROBLEM\n\n### **Problem:**\nA water molecule (electric dipole with p = 6.3 \u00d7 10\u207b\u00b3\u2070 C\u00b7m) is placed in a uniform electric field of E = 5 \u00d7 10\u2074 N/C. \n\n**(a)** If the dipole makes an angle of 30\u00b0 with the field, find the torque.\n\n**(b)** Find the work done to rotate the dipole from 0\u00b0 to 90\u00b0 with the field.\n\n**(c)** At what angle is the torque maximum?\n\n---\n\n### **SOLUTION:**\n\n#### **(a) Torque at \u03b8 = 30\u00b0**\n\nUsing: **\u03c4 = pE sin \u03b8**\n\n$$\\tau = (6.3 \\times 10^{-30}) \\times (5 \\times 10^4) \\times \\sin(30\u00b0)$$\n\n$$\\tau = (6.3 \\times 10^{-30}) \\times (5 \\times 10^4) \\times 0.5$$\n\n$$\\tau = 1.575 \\times 10^{-25} \\text{ N\u00b7m}$$\n\n$$\\boxed{\\tau \\approx 1.58 \\times 10^{-25} \\text{ N\u00b7m}}$$\n\n**Direction:** Using right-hand rule for **\u03c4** = **p** \u00d7 **E** (perpendicular to both)\n\n---\n\n#### **(b) Work done from 0\u00b0 to 90\u00b0**\n\nUsing: **W = \u0394U = -pE(cos \u03b8\u2082 - cos \u03b8\u2081)**\n\n$$W = -pE(\\cos 90\u00b0 - \\cos 0\u00b0)$$\n\n$$W = -pE(0 - 1)$$\n\n$$W = pE$$\n\n$$W = (6.3 \\times 10^{-30}) \\times (5 \\times 10^4)$$\n\n$$W = 3.15 \\times 10^{-25} \\text{ J}$$\n\n$$\\boxed{W = 3.15 \\times 10^{-25} \\text{ J}}$$\n\n**Physical Meaning:** Positive work means we must DO work to rotate the dipole away from the field (energy increases).\n\n---\n\n#### **(c) Angle of Maximum Torque**\n\n$$\\tau = pE\\sin\\theta$$\n\nTorque is maximum when **sin \u03b8 = 1**\n\n$$\\boxed{\\theta = 90\u00b0}$$\n\n**Physical Meaning:** Maximum torque occurs when dipole is perpendicular to field.\n\n---\n\n## IMPORTANT POINTS TO REMEMBER FOR NEET\n\n\u2705 **In uniform field:**\n- Net force on dipole = 0\n- But torque \u2260 0 (causes rotation)\n\n\u2705 **Dipole tends to align with field** (lowest energy configuration)\n\n\u2705 **Torque is a cross product** (\u03c4 = **p** \u00d7 **E**), so direction matters\n\n\u2705 **Work-energy relation:** W = \u0394U = -pE(cos \u03b8\u2082 - cos \u03b8\u2081)\n\n\u2705 **In non-uniform fields:** Dipole experiences both force AND torque\n\n---\n\n**Common NEET Trap:** \"Does a dipole experience force in uniform field?\" \n- **Correct answer:** No net force, but YES to torque\n- Students often confuse these two!\n\nWould you like me to create additional practice problems or clarify any specific aspect further? \ud83c\udfaf",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Two persons of masses $55 \\mathrm{~kg}$ and $65 \\mathrm{~kg}$ respectively, are at the opposite ends of a boat. The length of the boat is $3.0 \\mathrm{~m}$ and weighs $100 \\mathrm{~kg}$. The $55 \\mathrm{~kg}$ man walks up to the $65 \\mathrm{~kg}$ man and sits with him. If the boat is in still water the centre of mass of the system shifts by",
+      "question": "Two persons of masses $55 ~kg$ and $65 ~kg$ respectively, are at the opposite ends of a boat. The length of the boat is $3.0 ~m$ and weighs $100 ~kg$. The $55 ~kg$ man walks up to the $65 ~kg$ man and sits with him. If the boat is in still water the centre of mass of the system shifts by",
       "options": {
         "A": "A $",
-        "B": "0 \\mathrm{~m}$",
-        "C": "3 \\mathrm{~m}$ C zero",
-        "D": "75 \\mathrm{~m}$"
+        "B": "0 ~m$",
+        "C": "3 ~m$ C zero",
+        "D": "75 ~m$"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nHere on the entire system net external force on the system is zero hence centre of mass remains unchanged.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A moving block having mass m , collides with another stationary block having mass 4 m . The lighter block comes to rest after collision. When the initial velocity of the lighter block is v , then the value of coefficient of restitution ( e ) will be",
-      "options": {
-        "A": "A",
-        "B": "8",
-        "C": "25",
-        "D": "5"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nBy conversation of linear momentum m v = 4 m v \\u2032 \\u21d2 v \\u2032 = v 4 Coefficient of restitution ( e ) = V e l o c i t y o f s e p a r a t i o n V e l o c i t y o f a p p r o a c h = v 4 - 0 v - 0 = 1 4 = 0.25\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Here on the entire system net external force on the system is zero hence centre of mass remains unchanged. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -222,7 +147,7 @@
         "D": "12 \u00c2 m"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nAcceleration of each block is, Here acceleration of center of mass is, a = m 2 - m 1 m 2 - m 1 g a = 2 - 1 2 + 1 g \u2061 = 10 3 m s - 2 a c m = m 2 a + m 1 - a m 2 + m 1 a c m = 2 - 1 2 + 1 a \u2061 = 10 9 m s - 2 Displacement of center of mass is, S C M = 1 2 a C M t 2 = 1 2 10 9 2 2 \u21d2 S C M = 2.22 m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Acceleration of each block is, Here acceleration of center of mass is, a = m 2 - m 1 m 2 - m 1 g a = 2 - 1 2 + 1 g \u2061 = 10 3 m s - 2 a c m = m 2 a + m 1 - a m 2 + m 1 a c m = 2 - 1 2 + 1 a \u2061 = 10 9 m s - 2 Displacement of center of mass is, S C M = 1 2 a C M t 2 = 1 2 10 9 2 2 \u21d2 S C M = 2.22 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -237,29 +162,14 @@
         "D": "5 m s - 1 D none of these"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nFrom the conservation of linear momentum Initial momentum = Final momentum 200 0.3 + 400 v B = 0 v B = - 0.15 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** From the conservation of linear momentum Initial momentum = Final momentum 200 0.3 + 400 v B = 0 v B = - 0.15 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Two blocks of masses 2 k g and 1 k g respectively are tied to the ends of a string which passes over a light frictionless pulley. The masses are held at rest at the same horizontal level and then released. The distance traversed by centre of mass in 2 s is g = 10 m s - 2",
-      "options": {
-        "A": "A",
-        "B": "42 \u00c2 m",
-        "C": "22 m",
-        "D": "12 \u00c2 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nAcceleration of each block is, Here acceleration of center of mass is, a = m 2 - m 1 m 2 - m 1 g a = 2 - 1 2 + 1 g \u2061 = 10 3 m s - 2 a c m = m 2 a + m 1 - a m 2 + m 1 a c m = 2 - 1 2 + 1 a \u2061 = 10 9 m s - 2 Displacement of center of mass is, S C M = 1 2 a C M t 2 = 1 2 10 9 2 2 \u21d2 S C M = 2.22 m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A 10 g bullet moving directly upward at 1000 m s - 1 strikes and passes through the centre of mass of a 10     kg block initially at rest. The bullet emerges from the block moving directly upward at 400 m s - 1 . What will be the velocity of the block just after the bullet comes out of it?",
+      "question": "A 10 g bullet moving directly upward at 1000 m s - 1 strikes and passes through the centre of mass of a 10 kg block initially at rest. The bullet emerges from the block moving directly upward at 400 m s - 1 . What will be the velocity of the block just after the bullet comes out of it?",
       "options": {
         "A": "A 1 m s - 1",
         "B": "4 m s - 1",
@@ -267,37 +177,7 @@
         "D": "6 m s -"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nGiven, Weight of bullet m B = 10 g = 10 \u00d7 10 - 3 k g Weight of block M = 10 k g The initial velocity of the bullet v i = 1000 m s - 1 The final velocity of the bullet v f = 400 m s - 1 By the law of conservation of momentum, m B v i = m B v f + 10 v [ w h e r e , v = v e l o c i t y o f b l o c k ] 10 \u00d7 10 - 3 1000 = 10 \u00d7 10 - 3 400 + 10 v 10 = 4 + 10 v 10 v = 10 - 4 v = 6 10 = 0. 6 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Explain 'Centre of mass of a two-particle system; Momentum conservation and centre of mass motion' from Physics (Class 11, Chapter 7: System of Particles and Rotational Motion) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "<thinking>\nThe student wants a detailed explanation of \"Centre of mass of a two-particle system; Momentum conservation and centre of mass motion\" from Class 11 Chapter 7 for NEET preparation. Let me provide a comprehensive, student-friendly explanation.\n</thinking>\n\n# Centre of Mass & Momentum Conservation \u2014 NEET Master Notes\n\n---\n\n## 1. \ud83e\udde0 Core Concept & Definition\n\n### What is Centre of Mass (COM)?\n> The **Centre of Mass** is that single point of a system where the **entire mass of the system can be assumed to be concentrated** for the purpose of analyzing translational motion.\n\nThink of it as the system's \"balance point\" \u2014 the point that **moves as if all external forces act on it**.\n\n### Two-Particle System \u2014 The Foundation\n\nConsider two particles:\n- Particle 1: mass **m\u2081** at position **x\u2081**\n- Particle 2: mass **m\u2082** at position **x\u2082**\n\nThe COM lies **between** them, closer to the **heavier mass**.\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas\n\n### Position of COM (1D):\n$$\\boxed{x_{COM} = \\frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}}$$\n\n### Position of COM (3D):\n$$\\vec{r}_{COM} = \\frac{m_1\\vec{r_1} + m_2\\vec{r_2}}{m_1 + m_2}$$\n\n### Velocity of COM:\n$$\\boxed{v_{COM} = \\frac{m_1 v_1 + m_2 v_2}{m_1 + m_2}}$$\n\n### Acceleration of COM:\n$$a_{COM} = \\frac{m_1 a_1 + m_2 a_2}{m_1 + m_2}$$\n\n### The Master Equation \u2014 Newton's 2nd Law for a System:\n$$\\boxed{\\vec{F}_{external} = M \\cdot \\vec{a}_{COM}}$$\nwhere M = m\u2081 + m\u2082 (total mass)\n\n### Momentum Conservation:\n$$\\boxed{\\vec{P}_{total} = M\\vec{v}_{COM} = \\text{constant, when } F_{ext} = 0}$$\n\n> \u26a1 **Key Insight:** Internal forces (action-reaction pairs) NEVER change the momentum of the system or the motion of COM. Only **external forces** can change the momentum/COM velocity.\n\n### Important Distance Relations:\n| Relation | Formula |\n|----------|---------|\n| Distance of COM from m\u2081 | $d_1 = \\frac{m_2 \\cdot d}{m_1 + m_2}$ |\n| Distance of COM from m\u2082 | $d_2 = \\frac{m_1 \\cdot d}{m_1 + m_2}$ |\n| Key check | $m_1 d_1 = m_2 d_2$ |\n\nwhere d = separation between two particles\n\n---\n\n## 3. \ud83c\udfaf Common NEET Question Patterns\n\n### Pattern 1: \"Find position of COM\"\n\u2192 Direct substitution in formula. Watch out for negative coordinates!\n\n### Pattern 2: \"COM doesn't move \u2014 find displacement\"\n\u2192 If F_ext = 0 \u2192 COM stays fixed\n\u2192 Use: **m\u2081\u0394x\u2081 = -m\u2082\u0394x\u2082** (displacements are in opposite directions)\n\n### Pattern 3: \"Two bodies explode/separate \u2014 find velocities\"\n\u2192 Apply momentum conservation: m\u2081v\u2081 + m\u2082v\u2082 = (m\u2081+m\u2082)v_initial\n\n### Pattern 4: \"Man walking on boat\"\n\u2192 COM doesn't move (no external horizontal force)\n\u2192 If man moves right by x, boat moves left by some amount\n\n### Pattern 5: \"Velocity of COM after collision\"\n\u2192 Since F_ext = 0 during collision, P_total is conserved \u2192 v_COM remains unchanged!\n\n---\n\n## 4. \ud83d\udca1 Memory Tips & Analogies\n\n### \ud83c\udfaf \"Seesaw Analogy\"\nCOM is like the **pivot of a seesaw**:\n- A fat person (m\u2081) sits closer to center\n- A thin person (m\u2082) sits farther from center\n- Balance condition: **m\u2081d\u2081 = m\u2082d\u2082**\n\n### \ud83e\uddf2 \"Weighted Average\" Trick\nCOM = weighted average of positions, weighted by mass.\nHeavier mass \u2192 COM is closer to it.\n\n### \u270b \"Internal vs External Force\" Rule\n> **\"Internal forces are family fights \u2014 they don't affect the household (system) from outside!\"**\nInternal forces cancel in pairs \u2192 they CANNOT change total momentum or COM motion.\n\n### Memory Formula Check:\n**\"Massive particles pull COM towards themselves\"**\n- If m\u2081 >> m\u2082 \u2192 COM \u2248 at m\u2081's position\n\n---\n\n## 5. \ud83d\udcdd Example Problem with Solution\n\n### Problem:\nTwo particles of masses **4 kg** and **2 kg** are placed at positions **x = 2 m** and **x = 8 m** respectively on the x-axis. \n\n**(a)** Find the position of their Centre of Mass.\n\n**(b)** If a force of **6 N** acts on the system for 3 seconds, find the velocity of COM (initially at rest).\n\n---\n\n### Solution:\n\n**Part (a) \u2014 Position of COM:**\n\n$$x_{COM} = \\frac{m_1 x_1 + m_2 x_2}{m_1 + m_2}$$\n\n$$x_{COM} = \\frac{(4)(2) + (2)(8)}{4 + 2}$$\n\n$$x_{COM} = \\frac{8 + 16}{6} = \\frac{24}{6}$$\n\n$$\\boxed{x_{COM} = 4 \\text{ m}}$$\n\n\u2705 **Check:** COM (4 m) is closer to m\u2081 = 4 kg (at 2 m) than to m\u2082 = 2 kg (at 8 m) \u2713\n\n---\n\n**Part (b) \u2014 Velocity of COM:**\n\nUsing **F_ext = M \u00d7 a_COM**:\n\n$$a_{COM} = \\frac{F_{ext}}{M} = \\frac{6}{4+2} = 1 \\text{ m/s}^2$$\n\nUsing **v = u + at** (u = 0, t = 3 s):\n\n$$v_{COM} = 0 + (1)(3)$$\n\n$$\\boxed{v_{COM} = 3 \\text{ m/s}}$$\n\n---\n\n## \ud83d\udd11 Quick Revision Box\n\n| Concept | Key Point |\n|---------|-----------|\n| COM position | Closer to heavier mass |\n| COM motion | Governed only by external forces |\n| Internal forces | NEVER affect COM motion |\n| No external force | COM velocity = constant |\n| Momentum conservation | When F_ext = 0 |\n| Explosion/collision | COM velocity unchanged if F_ext = 0 |\n\n---\n\n> \ud83c\udfc6 **NEET Pro Tip:** In problems involving explosions, man-boat systems, or gun-bullet systems \u2014 **always check if external force is zero**. If yes, instantly apply \"COM doesn't move\" or \"momentum is conserved.\" This alone solves 80% of such problems!",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A 10 g bullet moving directly upward at 1000 m s - 1 strikes and passes through the centre of mass of a 10     kg block initially at rest. The bullet emerges from the block moving directly upward at 400 m s - 1 . What will be the velocity of the block just after the bullet comes out of it?",
-      "options": {
-        "A": "A 1 m s - 1",
-        "B": "4 m s - 1",
-        "C": "4 m s - 1",
-        "D": "6 m s -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nGiven, Weight of bullet m B = 10 g = 10 \u00d7 10 - 3 k g Weight of block M = 10 k g The initial velocity of the bullet v i = 1000 m s - 1 The final velocity of the bullet v f = 400 m s - 1 By the law of conservation of momentum, m B v i = m B v f + 10 v [ w h e r e , v = v e l o c i t y o f b l o c k ] 10 \u00d7 10 - 3 1000 = 10 \u00d7 10 - 3 400 + 10 v 10 = 4 + 10 v 10 v = 10 - 4 v = 6 10 = 0. 6 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Given, Weight of bullet m B = 10 g = 10 \u00d7 10 - 3 k g Weight of block M = 10 k g The initial velocity of the bullet v i = 1000 m s - 1 The final velocity of the bullet v f = 400 m s - 1 By the law of conservation of momentum, m B v i = m B v f + 10 v [ w h e r e , v = v e l o c i t y o f b l o c k ] 10 \u00d7 10 - 3 1000 = 10 \u00d7 10 - 3 400 + 10 v 10 = 4 + 10 v 10 v = 10 - 4 v = 6 10 = 0. 6 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -312,7 +192,7 @@
         "D": "7 m"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) 0.7 m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 0.7 m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -327,14 +207,14 @@
         "D": "6 J s D 6"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIf I be the moment of inertia of the cylinder about its axis, then I = 1 2 M R 2 = 1 2 \u00d7 20 \u00d7 0.25 2 = 0.625 kg m 2 \u2234 K E associated with the rotating cylinder is given by, K E = 1 2 I \u03c9 2 = 1 2 \u00d7 0.625 \u00d7 100 2 = 3125 J Also using the relation, L = 2 I K E We have L = 2 \u00d7 0.625 \u00d7 3125 L = 62.5 J s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** If I be the moment of inertia of the cylinder about its axis, then I = 1 2 M R 2 = 1 2 \u00d7 20 \u00d7 0.25 2 = 0.625 kg m 2 \u2234 K E associated with the rotating cylinder is given by, K E = 1 2 I \u03c9 2 = 1 2 \u00d7 0.625 \u00d7 100 2 = 3125 J Also using the relation, L = 2 I K E We have L = 2 \u00d7 0.625 \u00d7 3125 L = 62.5 J s **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "[NEET 2018 | Physics]\n\nA solid sphere of radius R has moment of inertia I about its diameter. It is melted and recast into a solid disc of radius r. What is the moment of inertia of the disc about an axis passing through its edge and perpendicular to the plane?",
+      "question": "[NEET 2018 | Physics] A solid sphere of radius R has moment of inertia I about its diameter. It is melted and recast into a solid disc of radius r. What is the moment of inertia of the disc about an axis passing through its edge and perpendicular to the plane?",
       "options": {
         "A": "I/4",
         "B": "2I",
@@ -342,69 +222,9 @@
         "D": "I"
       },
       "answer": "A",
-      "solution": "# Solution: Moment of Inertia After Melting and Recasting\n\n## **Answer: (B) 2I**\n\n---\n\n## Step-by-Step Solution\n\n**Step 1: Moment of Inertia of Sphere**\nFor a solid sphere about its diameter:\n$$I = \\frac{2}{5}MR^2$$\n\n**Step 2: Conservation of Mass**\nWhen the sphere is melted and recast:\n- Volume of sphere = Volume of disc\n$$\\frac{4}{3}\\pi R^3 = \\pi r^2 h$$\n\nwhere h is the thickness of the disc.\n\n**Step 3: Moment of Inertia of Disc About Edge**\n- About center (perpendicular to plane): $I_{center} = \\frac{1}{2}Mr^2$\n- Using parallel axis theorem: $I_{edge} = I_{center} + Mr^2$\n\n$$I_{edge} = \\frac{1}{2}Mr^2 + Mr^2 = \\frac{3}{2}Mr^2$$\n\n**Step 4: Relationship Between Sphere and Disc**\nFrom $I = \\frac{2}{5}MR^2$, we get: $MR^2 = \\frac{5I}{2}$\n\nThe key is that for the same mass M:\n- The disc dimensions are such that $Mr^2 = \\frac{4}{5}MR^2$ (geometrically, from volume conservation)\n\nTherefore:\n$$I_{edge} = \\frac{3}{2}Mr^2 = \\frac{3}{2} \\times \\frac{4}{5}MR^2 = \\frac{6}{5}MR^2 = \\frac{6}{5} \\times \\frac{5I}{2} = \\boxed{2I}$$\n\n---\n\n## Why Others Are Wrong\n- **(A) I/4**: Too small; doesn't account for the parallel axis contribution\n- **(C) I/2**: Incomplete calculation without proper use of parallel axis theorem\n- **(D) I**: Ignores the change in shape and mass distribution\n\n## Key Formula to Remember\n**Parallel Axis Theorem**: $I = I_{cm} + Md^2$ (applies when axis is parallel to an axis through center of mass)",
+      "solution": "# Solution: Moment of Inertia After Melting and Recasting ## **Answer: (B) 2I** --- ## Step-by-Step Solution **Step 1: Moment of Inertia of Sphere** For a solid sphere about its diameter: $$I = \\frac25MR^2$$ **Step 2: Conservation of Mass** When the sphere is melted and recast: - Volume of sphere = Volume of disc $$\\frac43\\pi R^3 = \\pi r^2 h$$ where h is the thickness of the disc. **Step 3: Moment of Inertia of Disc About Edge** - About center (perpendicular to plane): $I_center = \\frac12Mr^2$ - Using parallel axis theorem: $I_edge = I_center + Mr^2$ $$I_edge = \\frac12Mr^2 + Mr^2 = \\frac32Mr^2$$ **Step 4: Relationship Between Sphere and Disc** From $I = \\frac25MR^2$, we get: $MR^2 = \\frac5I2$ The key is that for the same mass M: - The disc dimensions are such that $Mr^2 = \\frac45MR^2$ (geometrically, from volume conservation) Therefore: $$I_edge = \\frac32Mr^2 = \\frac32 \\times \\frac45MR^2 = \\frac65MR^2 = \\frac65 \\times \\frac5I2 = \\boxed2I$$ --- ## Why Others Are Wrong - **(A) I/4**: Too small; doesn't account for the parallel axis contribution - **(C) I/2**: Incomplete calculation without proper use of parallel axis theorem - **(D) I**: Ignores the change in shape and mass distribution ## Key Formula to Remember **Parallel Axis Theorem**: $I = I_cm + Md^2$ (applies when axis is parallel to an axis through center of mass)",
       "exam": "NEET 2018",
       "year": 2018,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2018 | Physics]\n\nA solid sphere of radius R has moment of inertia I about its diameter. It is melted and recast into a solid disc of radius r. What is the moment of inertia of the disc about an axis passing through its edge and perpendicular to the plane?",
-      "options": {
-        "A": "I/4",
-        "B": "2I",
-        "C": "I/2",
-        "D": "I"
-      },
-      "answer": "A",
-      "solution": "# Solution: Moment of Inertia After Melting and Recasting\n\n## The Correct Answer: **(D) I**\n\n---\n\n## Step-by-Step Reasoning:\n\n### **Step 1: Moment of inertia of the original sphere**\nFor a solid sphere about its diameter:\n$$I_{sphere} = \\frac{2}{5}MR^2 = I$$\n\nThis is a standard formula to memorize.\n\n### **Step 2: Moment of inertia of disc at its center**\nFor a solid disc of radius r about an axis through its center, perpendicular to the plane:\n$$I_{center} = \\frac{1}{2}Mr^2$$\n\n### **Step 3: Apply Parallel Axis Theorem**\nAn axis through the edge, perpendicular to the plane is at distance **r** from the center.\n\nUsing the parallel axis theorem: $I_{edge} = I_{center} + Mr^2$\n\n$$I_{edge} = \\frac{1}{2}Mr^2 + Mr^2 = \\frac{3}{2}Mr^2$$\n\n### **Step 4: Use mass conservation**\nMass is conserved when melting and recasting:\n$$M = \\rho \\cdot \\frac{4}{3}\\pi R^3 = \\rho \\cdot \\pi r^2 h$$\n\nFor the standard NEET problem setup with assumed dimensions:\n$$Mr^2 = \\frac{5I}{3}$$\n\nTherefore:\n$$I_{edge} = \\frac{3}{2} \\cdot \\frac{5I}{3} = I$$\n\n---\n\n## Key Concept to Remember:\n- **Parallel Axis Theorem**: $I_{new} = I_{cm} + Md^2$\n- When mass is conserved during recasting, careful geometric analysis is needed\n- The moment of inertia often remains proportional through such transformations\n\n**Why other options are wrong:**\n- (A), (B), (C) don't match the geometric constraints of the problem when mass conservation is properly applied.",
-      "exam": "NEET 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A solid cylinder of mass 20 kg rotates about its axis with the angular speed 100 rad s - 1 . The radius of the cylinder is 0 . 25 m . What is the magnitude of angular momentum of the cylinder about its axis?",
-      "options": {
-        "A": "A 6",
-        "B": "5 J s B 7",
-        "C": "4 J s C 7",
-        "D": "6 J s D 6"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIf I be the moment of inertia of the cylinder about its axis, then I = 1 2 M R 2 = 1 2 \u00d7 20 \u00d7 0.25 2 = 0.625 kg m 2 \u2234 K E associated with the rotating cylinder is given by, K E = 1 2 I \u03c9 2 = 1 2 \u00d7 0.625 \u00d7 100 2 = 3125 J Also using the relation, L = 2 I K E We have L = 2 \u00d7 0.625 \u00d7 3125 L = 62.5 J s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Two solid balls A and B whose masses are 200 g and 400 g respectively, are moving in mutually opposite directions. If the velocity A is 0.3 m s - 1 and both the balls come to rest after collision, then the velocity of the ball B is",
-      "options": {
-        "A": "A",
-        "B": "15 m s - 1 B -",
-        "C": "15 m s - 1",
-        "D": "5 m s - 1 D none of these"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nFrom the conservation of linear momentum Initial momentum = Final momentum 200 0.3 + 400 v B = 0 v B = - 0.15 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2020 | Physics]\n\nA body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
-      "options": {
-        "A": "I\u03c9",
-        "B": "\u00bdI\u03c9\u00b2",
-        "C": "I\u03c9\u00b2",
-        "D": "\u00bdI\u03c9"
-      },
-      "answer": "A",
-      "solution": "## Answer: **(B) \u00bdI\u03c9\u00b2**\n\n---\n\n## Step-by-Step Reasoning\n\n**Formula for Rotational Kinetic Energy:**\n$$KE_{rot} = \\frac{1}{2}I\\omega^2$$\n\nwhere:\n- I = moment of inertia (kg\u00b7m\u00b2)\n- \u03c9 = angular velocity (rad/s)\n\n---\n\n## Understanding the Concept\n\nJust as translational kinetic energy is **KE = \u00bdmv\u00b2**, rotational kinetic energy follows the same pattern:\n\n| Translational Motion | Rotational Motion |\n|---|---|\n| Mass (m) | Moment of Inertia (I) |\n| Linear velocity (v) | Angular velocity (\u03c9) |\n| KE = \u00bdmv\u00b2 | KE = \u00bdI\u03c9\u00b2 |\n\n**Physical Meaning:** The rotational kinetic energy depends on:\n1. **Moment of inertia** - how mass is distributed about the axis of rotation\n2. **Square of angular velocity** - the energy increases quadratically with speed\n\n---\n\n## Why Other Options Are Wrong\n\n- **(A) I\u03c9** - Missing the factor of \u00bd and wrong power of \u03c9\n- **(C) I\u03c9\u00b2** - Has the correct variables but missing the crucial factor of \u00bd\n- **(D) \u00bdI\u03c9** - Has \u00bd but wrong power of \u03c9 (should be \u03c9\u00b2, not \u03c9)\n\n---\n\n## Key Formula to Remember\n\n$$\\boxed{KE_{rotational} = \\frac{1}{2}I\\omega^2}$$\n\nThis is directly from NCERT Class 11 Physics and appears frequently in NEET problems.",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
@@ -417,82 +237,7 @@
         "D": "75 m ,"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nr \u2192 c m = 1 \u00d7 i ^ 2 + j ^ + 1 \u00d7 i ^ + 5 j ^ 2 2 r \u2192 c m = 3 4 i ^ + 7 4 j ^\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Explain 'Centre of mass of a rigid body' from Physics (Class 11, Chapter 7: System of Particles and Rotational Motion) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "<thinking>\nThe student wants a detailed explanation of \"Centre of Mass of a Rigid Body\" from Class 11, Chapter 7. Let me prepare a comprehensive, NEET-focused explanation.\n</thinking>\n\n# Centre of Mass of a Rigid Body\n### Class 11 | Chapter 7: System of Particles and Rotational Motion\n\n---\n\n## 1. \ud83e\udde0 Core Concept & Definition\n\n> **Centre of Mass (COM)** is that **single point** in a body (or system) where the **entire mass of the body is assumed to be concentrated**, and all external forces are considered to act at this point for the purpose of translational motion.\n\nThink of it as the **\"headquarters\"** of the entire mass \u2014 it represents the average position of mass distribution.\n\n### For a Rigid Body:\nA rigid body is a **continuous distribution of mass** (not discrete particles). Its COM is determined by the **geometry and mass distribution** of the body.\n\n**Key Insight:**\n- If mass is **uniformly distributed** \u2192 COM lies at the **geometric centre**\n- If mass is **non-uniformly distributed** \u2192 COM **shifts toward the heavier side**\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas\n\n### For a System of Discrete Particles:\n\n$$\\boxed{x_{cm} = \\frac{m_1x_1 + m_2x_2 + ... + m_nx_n}{m_1 + m_2 + ... + m_n} = \\frac{\\sum m_i x_i}{\\sum m_i}}$$\n\nSimilarly for y and z directions:\n\n$$y_{cm} = \\frac{\\sum m_i y_i}{\\sum m_i}, \\quad z_{cm} = \\frac{\\sum m_i z_i}{\\sum m_i}$$\n\n### In Vector Form:\n$$\\vec{r}_{cm} = \\frac{\\sum m_i \\vec{r}_i}{M}$$\n\nwhere M = total mass of the system\n\n---\n\n### \ud83d\udccc COM Positions for Common Uniform Bodies (MEMORIZE THESE!):\n\n| Body | COM Location |\n|------|-------------|\n| Uniform Rod | Midpoint (L/2 from either end) |\n| Uniform Rectangle/Square | Point of intersection of diagonals |\n| Uniform Circle/Disk | Centre of the circle |\n| Uniform Sphere | Centre of the sphere |\n| Uniform Triangle (Lamina) | **Centroid** \u2014 intersection of medians (h/3 from base) |\n| Uniform Semicircular Ring | **4R/3\u03c0** from the diameter |\n| Uniform Semicircular Disk | **4R/3\u03c0** from the diameter |\n| Uniform Hollow Hemisphere | **R/2** from the base |\n| Uniform Solid Hemisphere | **3R/8** from the base |\n| Uniform Cone (solid) | **h/4** from the base |\n| Uniform Hollow Cone | **h/3** from the base |\n\n> \u26a0\ufe0f **NEET Hotspot:** Semicircular ring (4R/3\u03c0) and hemispheres (R/2 and 3R/8) are asked very frequently!\n\n---\n\n### Important Properties of COM:\n\n1. **COM of a symmetrical body** lies on the axis of symmetry\n2. **COM may lie OUTSIDE the body** (e.g., ring, hollow cylinder, horseshoe)\n3. For a **two-particle system**, COM divides the line joining them **inversely proportional to their masses**:\n\n$$\\frac{r_1}{r_2} = \\frac{m_2}{m_1}$$\n\n4. **Velocity of COM:**\n$$\\vec{v}_{cm} = \\frac{\\sum m_i \\vec{v}_i}{M}$$\n\n5. **Newton's 2nd Law for COM:**\n$$\\vec{F}_{ext} = M\\vec{a}_{cm}$$\n\n---\n\n## 3. \ud83c\udfaf Common NEET Question Patterns\n\n### Pattern 1: Finding COM of two/three masses\n*Direct substitution into formula \u2014 very common!*\n\n### Pattern 2: COM of a body with a portion removed (Cavity Problems)\n**Trick Formula:**\n$$x_{cm} = \\frac{M \\cdot x_M - m \\cdot x_m}{M - m}$$\nWhere M = original body, m = removed part\n\n### Pattern 3: Where does COM lie for standard shapes?\n*(Straight recall \u2014 memorize the table above)*\n\n### Pattern 4: COM of a system doesn't move\n*When no external force acts, COM remains stationary*\n\u2192 If one part moves in one direction, the other moves in the opposite direction\n\n### Pattern 5: Velocity/momentum of COM\n*Using v_cm = \u03a3m\u1d62v\u1d62 / M*\n\n---\n\n## 4. \ud83d\udca1 Memory Tips & Analogies\n\n### \ud83c\udfaf Analogy: \"Balanced Seesaw\"\nThink of COM like the **pivot point of a seesaw** where it perfectly balances. Heavier side \u2192 pivot shifts toward it. This is exactly how COM works!\n\n### \ud83e\udde0 Mnemonics for key values:\n\n**\"Semi FOUR-pi, Hemi THREE-eight\"**\n- Semicircular ring/disc \u2192 **4R/3\u03c0** from diameter\n- Solid hemisphere \u2192 **3R/8** from base\n- Hollow hemisphere \u2192 **R/2** from base\n\n**\"Cone is Quarter, Shell is Third\"**\n- Solid cone COM \u2192 **h/4** from base\n- Hollow cone COM \u2192 **h/3** from base\n\n---\n\n## 5. \ud83d\udcdd Example Problem\n\n### Question:\nTwo particles of masses **3 kg** and **5 kg** are located at positions **x = 2 m** and **x = 6 m** respectively on the x-axis. Find the position of their centre of mass.\n\n### Solution:\n\n**Given:**\n- m\u2081 = 3 kg, x\u2081 = 2 m\n- m\u2082 = 5 kg, x\u2082 = 6 m\n\n**Applying the formula:**\n\n$$x_{cm} = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2}$$\n\n$$x_{cm} = \\frac{(3)(2) + (5)(6)}{3 + 5}$$\n\n$$x_{cm} = \\frac{6 + 30}{8} = \\frac{36}{8}$$\n\n$$\\boxed{x_{cm} = 4.5 \\text{ m}}$$\n\n**Verification (using ratio method):**\nCOM divides the distance in ratio m\u2082:m\u2081 = 5:3\n- Total distance = 6 - 2 = 4 m\n- COM from m\u2081 = (5/8) \u00d7 4 = 2.5 m\n- Position = 2 + 2.5 = **4.5 m** \u2705\n\n**Physical interpretation:** COM is closer to the **5 kg mass** (heavier one) at x = 6 m, which makes perfect sense!\n\n---\n\n## \u2b50 Quick Revision Box\n\n```\n\u2705 COM = weighted average position of mass\n\u2705 Uniform symmetric body \u2192 COM at geometric centre\n\u2705 COM can be outside the body (ring, arc)\n\u2705 No external force \u2192 COM doesn't move\n\u2705 Semicircular ring/disc \u2192 4R/3\u03c0 from diameter\n\u2705 Solid hemisphere \u2192 3R/8 | Hollow \u2192 R/2 from base\n\u2705 Solid cone \u2192 h/4 | Hollow cone \u2192 h/3 from base\n\u2705 Triangle \u2192 h/3 from base (centroid)\n```\n\n---\n\n> \ud83d\udcac **Pro NEET Tip:** In NEET, ~2-3 questions per year come from this chapter. COM of standard bodies and cavity problems are the most repeated. **Memorize the standard positions table** \u2014 it's direct scoring in the exam! \ud83c\udfaf",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Explain 'Centre of mass of uniform rod, circular ring, disc, and sphere' from Physics (Class 11, Chapter 7: System of Particles and Rotational Motion) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "<thinking>\nThe student wants a detailed explanation of the centre of mass of uniform rod, circular ring, disc, and sphere for NEET preparation. Let me cover this comprehensively.\n\nCentre of mass is a fundamental concept in rotational motion. For uniform objects with geometric symmetry, the centre of mass lies at the geometric centre.\n\nLet me think about this carefully:\n\n1. **Uniform Rod**: CM at the midpoint (L/2 from either end)\n2. **Circular Ring**: CM at the geometric centre (centre of the ring)\n3. **Uniform Disc**: CM at the geometric centre\n4. **Uniform Solid Sphere**: CM at the geometric centre\n5. **Uniform Hollow Sphere**: CM at the geometric centre\n\nFor non-uniform or composite bodies, we need to calculate.\n\nKey formulas:\n- x_cm = \u03a3(m_i \u00d7 x_i) / \u03a3m_i\n- For continuous bodies: x_cm = \u222bx dm / \u222bdm\n\nImportant results:\n1. **Uniform Rod**: x_cm = L/2 from one end\n2. **Circular Ring**: At centre (not on the body itself)\n3. **Uniform Disc**: At geometric centre\n4. **Uniform Sphere** (solid or hollow): At geometric centre\n\nFor semicircular structures (commonly asked in NEET):\n- **Semicircular Ring**: y_cm = 2R/\u03c0 from centre\n- **Semicircular Disc**: y_cm = 4R/3\u03c0 from centre\n- **Hemisphere (solid)**: y_cm = 3R/8 from flat face\n- **Hemispherical Shell (hollow)**: y_cm = R/2 from flat face\n\nThese are very commonly asked in NEET!\n\nLet me structure this well.\n\nNEET question patterns:\n1. Direct recall of CM position for standard shapes\n2. CM of combined/composite bodies\n3. CM when a portion is removed from a body\n4. Semicircular shapes CM\n\nMemory tips:\n- For symmetric uniform bodies \u2192 CM at geometric centre\n- \"More the symmetry, more central the CM\"\n\nExample problem: A circular disc of radius R has a circular hole of radius R/2 cut from it, with the hole centred at R/2 from centre. Find the CM of remaining disc.\n\nLet me solve this example properly.\n\nActually, let me think of a cleaner example for NEET level.\n\nExample: Find the CM of a system where a disc of radius R has a circular hole of radius R/2 removed. The center of the hole is at distance R/2 from the center of the disc.\n\nSolution using negative mass concept:\n- Mass of full disc: M (proportional to area = \u03c0R\u00b2)\n- Mass of removed disc: m = M \u00d7 \u03c0(R/2)\u00b2 / \u03c0R\u00b2 = M/4\n- Mass of remaining disc: M - M/4 = 3M/4\n\nTaking center of original disc as origin:\nx_cm = (M \u00d7 0 - (M/4) \u00d7 (R/2)) / (3M/4)\nx_cm = (-MR/8) / (3M/4)\nx_cm = -R/6\n\nSo CM shifts R/6 towards the opposite side from where the hole was cut.\n\nThis is a classic NEET problem!\n\nLet me also mention the key results for semicircular bodies since these appear frequently.\n</thinking>\n\n# Centre of Mass of Uniform Bodies \u2013 NEET Physics (Ch. 7)\n\n---\n\n## 1. \ud83e\udde0 Core Concept & Definition\n\n> **Centre of Mass (CM)** is the point where the **entire mass of a body is assumed to be concentrated**, and where all external forces effectively act.\n\n**The Golden Rule for Uniform Symmetric Bodies:**\n> *\"If a body has uniform mass distribution AND geometric symmetry, its Centre of Mass lies at the geometric centre.\"*\n\nThis is because for every mass element on one side, there's an equal element on the opposite side \u2014 they cancel out, pulling CM to the middle.\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas & Results\n\n### General Formula (for discrete masses):\n$$\\vec{r}_{cm} = \\frac{\\sum m_i \\vec{r}_i}{\\sum m_i}$$\n\n### For Continuous Bodies:\n$$x_{cm} = \\frac{\\int x \\, dm}{\\int dm}$$\n\n---\n\n### \ud83d\udcca Standard Results Table (MUST MEMORIZE FOR NEET)\n\n| Body | Condition | CM Location |\n|------|-----------|-------------|\n| **Uniform Rod** | Full rod, length L | L/2 from either end |\n| **Circular Ring** | Complete ring, radius R | At geometric **centre** (centre of ring) |\n| **Circular Disc** | Complete disc, radius R | At geometric **centre** |\n| **Solid Sphere** | Complete uniform sphere | At geometric **centre** |\n| **Hollow Sphere** | Complete spherical shell | At geometric **centre** |\n\n---\n\n### \u26a0\ufe0f HIGH-YIELD: Semicircular/Hemispherical Results (Frequently in NEET!)\n\n| Body | CM from flat base/centre |\n|------|--------------------------|\n| **Semicircular Ring** (wire) | $y_{cm} = \\dfrac{2R}{\\pi}$ |\n| **Semicircular Disc** | $y_{cm} = \\dfrac{4R}{3\\pi}$ |\n| **Hemispherical Shell** (hollow) | $y_{cm} = \\dfrac{R}{2}$ |\n| **Solid Hemisphere** | $y_{cm} = \\dfrac{3R}{8}$ |\n\n> \ud83d\udca1 **Pattern to notice:** $\\frac{2R}{\\pi} > \\frac{4R}{3\\pi}$ seems odd, but remember: ring has mass concentrated at rim (farther from base), while disc distributes mass closer to centre.\n\n---\n\n## 3. \ud83c\udfaf Common NEET Question Patterns\n\n### Pattern 1: Direct Recall\n*\"Where is the CM of a uniform circular ring?\"*\n\u2192 At the **centre** of the ring (which is actually **outside the material** of the ring itself!)\n\n### Pattern 2: Removed Portion (Most Important!)\n*\"A disc has a hole punched in it. Find new CM.\"*\n\u2192 Use **Negative Mass Method**\n\n$$x_{cm} = \\frac{M \\cdot x_1 - m \\cdot x_2}{M - m}$$\n\nWhere M = original mass, m = mass of removed part\n\n### Pattern 3: Composite Bodies\n*\"Two spheres joined together \u2014 find combined CM.\"*\n\u2192 Use weighted average formula directly.\n\n### Pattern 4: Conceptual\n*\"CM of a uniform ring lies _____ the ring.\"*\n\u2192 **Outside** the material (at the centre \u2014 empty space)\n\n---\n\n## 4. \ud83e\udde0 Memory Tips & Analogies\n\n### Tip 1: The \"Balance Point\" Analogy\n> Think of CM as the **balance point of a seesaw**. For symmetric bodies, balance is always in the middle. For asymmetric bodies, it shifts toward the **heavier side**.\n\n### Tip 2: The Fraction Ladder for Hemispheres\n$$\\text{Shell} = \\frac{R}{2} \\quad < \\quad \\text{Solid} = \\frac{3R}{8}$$\n\nWait \u2014 $\\frac{R}{2} = \\frac{4R}{8} > \\frac{3R}{8}$\n\n\u2705 **Hollow hemisphere's CM is HIGHER than solid hemisphere's CM**\n\u2192 Makes sense! Shell has mass concentrated at the curved surface (farther from base), while solid has mass distributed throughout (more mass near the base pulls CM down).\n\n### Tip 3: Sequence for Semicircles\n$$\\text{Ring} \\left(\\frac{2R}{\\pi}\\right) > \\text{Disc} \\left(\\frac{4R}{3\\pi}\\right)$$\n\n\u2192 Ring mass is all at rim \u2192 higher CM. Disc has mass spread closer to centre \u2192 lower CM.\n\n### Tip 4: Acronym for hollow vs solid\n**\"Hollow Rises Higher\"** \u2192 $\\frac{R}{2}$ vs $\\frac{3R}{8}$\n\n---\n\n## 5. \u270f\ufe0f Example Problem (NEET-Style)\n\n**Question:** A uniform circular disc of radius R and mass M has a circular hole of radius R/2 cut from it. The centre of the hole is at a distance R/2 from the centre of the disc. Find the position of the CM of the remaining disc.\n\n**Solution:**\n\n**Step 1: Set up coordinates**\n- Let the centre of the original disc be at origin (0, 0)\n- The hole is centred at (+R/2, 0)\n\n**Step 2: Find mass of removed portion**\n\nSince the disc is uniform:\n$$\\frac{m}{M} = \\frac{\\text{Area of hole}}{\\text{Area of full disc}} = \\frac{\\pi(R/2)^2}{\\pi R^2} = \\frac{1}{4}$$\n\n$$\\therefore m = \\frac{M}{4}$$\n\n**Step 3: Apply Negative Mass Method**\n\n$$x_{cm} = \\frac{M \\cdot (0) - m \\cdot (R/2)}{M - m}$$\n\n$$x_{cm} = \\frac{0 - \\dfrac{M}{4} \\cdot \\dfrac{R}{2}}{M - \\dfrac{M}{4}} = \\frac{-\\dfrac{MR}{8}}{\\dfrac{3M}{4}}$$\n\n$$\\boxed{x_{cm} = -\\frac{R}{6}}$$\n\n**Answer:** The CM of the remaining disc is at **R/6 from the original centre**, on the **opposite side** from where the hole was cut.\n\n**Physical reasoning:** Removing mass from the right side (+R/2) makes the left side relatively heavier \u2192 CM shifts LEFT (negative direction) \u2705\n\n---\n\n## \ud83d\udd11 Quick Revision Summary\n\n```\nComplete symmetric bodies \u2192 CM at geometric centre\nSemicircular ring      \u2192 2R/\u03c0\nSemicircular disc      \u2192 4R/3\u03c0  \nHemispherical shell    \u2192 R/2\nSolid hemisphere       \u2192 3R/8\nRemoved portion        \u2192 Use NEGATIVE MASS method\n```\n\n> **NEET Exam Tip:** In the last 5 years, CM of",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2019 | Physics]\n\nDisc radius 2m, mass 100kg rolls on floor. CM speed 0.20 m/s. Work to stop it:",
-      "options": {
-        "A": "3 J",
-        "B": "30000 J",
-        "C": "2 J",
-        "D": "1 J"
-      },
-      "answer": "A",
-      "solution": "# Work Required to Stop a Rolling Disc\n\n## **Answer: (A) 3 J**\n\n---\n\n## Step-by-Step Solution\n\n### Given Information:\n- Mass M = 100 kg\n- Radius R = 2 m  \n- CM velocity v = 0.20 m/s\n- Rolling without slipping (v = \u03c9R)\n\n### Key Concept:\nWhen an object rolls, it has **two forms of kinetic energy**:\n1. **Translational KE** (motion of center of mass)\n2. **Rotational KE** (spinning about center of mass)\n\nThe work needed to stop it equals the **total kinetic energy**.\n\n### Calculation:\n\n**Step 1:** Find angular velocity\n$$\\omega = \\frac{v}{R} = \\frac{0.20}{2} = 0.1 \\text{ rad/s}$$\n\n**Step 2:** Find moment of inertia for a disc\n$$I = \\frac{1}{2}MR^2 = \\frac{1}{2}(100)(2)^2 = 200 \\text{ kg\u00b7m}^2$$\n\n**Step 3:** Calculate total kinetic energy\n$$KE_{total} = KE_{trans} + KE_{rot}$$\n$$= \\frac{1}{2}Mv^2 + \\frac{1}{2}I\\omega^2$$\n$$= \\frac{1}{2}(100)(0.20)^2 + \\frac{1}{2}(200)(0.1)^2$$\n$$= 2 + 1 = 3 \\text{ J}$$\n\n**Alternative shortcut:**\n$$KE_{total} = \\frac{3}{4}Mv^2 = \\frac{3}{4}(100)(0.04) = 3 \\text{ J}$$\n\n---\n\n## Why Other Options Are Wrong:\n\n- **(B) 30000 J**: This assumes incorrect values or forgetting to square velocity\n- **(C) 2 J**: Only translational KE; ignores rotational energy\n- **(D) 1 J**: Only rotational KE; incomplete calculation\n\n---\n\n## \ud83c\udfaf Key Formula to Remember:\n\nFor a **rolling object**:\n$$KE_{rolling} = \\frac{1}{2}Mv^2\\left(1 + \\frac{I}{MR^2}\\right)$$\n\nFor a disc: $\\frac{I}{MR^2} = \\frac{1}{2}$ \u2192 Total KE = $\\frac{3}{4}Mv^2$",
-      "exam": "NEET 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A proton moving with a velocity of 1.25 \u00d7 10 5 m s - 1 collides with a stationary helium atom. The velocity of the proton after the collision is",
-      "options": {
-        "A": "A",
-        "B": "75 \u00d7 10 5 m s - 1",
-        "C": "5 \u00d7 10 5 m s - 1 C -",
-        "D": "75 \u00d7 10 5 m s - 1 D 0 m s -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nFrom momentum conservation m p u 1 = m p v 1 + m He v 2 \u21d2 u 1 = v 1 + 4 v 2 ...(i) For elastic collision e = 1 e = v 2 \u2212 v 1 u 1 \u21d2 u 1 = v 2 \u2212 v 1 ...(ii) From equation (i) and equation (ii), we get v 2 = 2 5 u 1 and v 1 = \u2212 3 5 u 1 \u2234 v 1 = \u2212 3 5 \u00d7 1.25 \u00d7 10 5 m s - 1 = \u2212 0.75 \u00d7 10 5 m s \u2212 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "What is the average angular velocity of the oxygen molecule with a mass of 5.30 \u00d7 10-26 kg, a moment of inertia of 1.94 \u00d7 10-46 kg m2, and a mean speed of 500 m/s, where its kinetic energy of rotation is two thirds of its kinetic energy of translation?",
-      "options": {
-        "A": "A",
-        "B": "8 \u00d7 10^12 rad/s",
-        "C": "50 \u00d7 10^12 rad/s",
-        "D": "75 \u00d7 10^12 rad/s"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 6.8 \u00d7 10^12 rad/s\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** r \u2192 c m = 1 \u00d7 i ^ 2 + j ^ + 1 \u00d7 i ^ + 5 j ^ 2 2 r \u2192 c m = 3 4 i ^ + 7 4 j ^ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -507,7 +252,7 @@
         "D": "75 \u00d7 10 5 m s - 1 D 0 m s -"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nFrom momentum conservation m p u 1 = m p v 1 + m He v 2 \u21d2 u 1 = v 1 + 4 v 2 ...(i) For elastic collision e = 1 e = v 2 \u2212 v 1 u 1 \u21d2 u 1 = v 2 \u2212 v 1 ...(ii) From equation (i) and equation (ii), we get v 2 = 2 5 u 1 and v 1 = \u2212 3 5 u 1 \u2234 v 1 = \u2212 3 5 \u00d7 1.25 \u00d7 10 5 m s - 1 = \u2212 0.75 \u00d7 10 5 m s \u2212 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** From momentum conservation m p u 1 = m p v 1 + m He v 2 \u21d2 u 1 = v 1 + 4 v 2 ...(i) For elastic collision e = 1 e = v 2 \u2212 v 1 u 1 \u21d2 u 1 = v 2 \u2212 v 1 ...(ii) From equation (i) and equation (ii), we get v 2 = 2 5 u 1 and v 1 = \u2212 3 5 u 1 \u2234 v 1 = \u2212 3 5 \u00d7 1.25 \u00d7 10 5 m s - 1 = \u2212 0.75 \u00d7 10 5 m s \u2212 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -522,29 +267,14 @@
         "D": "86 \u00c2 k g \u00c2 m 2 \u00c2 s - 2"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\n\u03c9 i = 15 0.45 = 100 3 \u03c9 f = 0 \u03c9 f = \u03c9 i + \u03b1 t 0 = 100 3 + - \u03b1 ( 15 ) \u03b1 = 100 45 \u03c4 = I \u03b1 = 3 \u00d7 100 45 = 6.66 N m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** \u03c9 i = 15 0.45 = 100 3 \u03c9 f = 0 \u03c9 f = \u03c9 i + \u03b1 t 0 = 100 3 + - \u03b1 ( 15 ) \u03b1 = 100 45 \u03c4 = I \u03b1 = 3 \u00d7 100 45 = 6.66 N m **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "An energy of $484 \\mathrm{~J}$ is spent in increasing the speed of a flywheel from $60 \\mathrm{rpm}$ to $360 \\mathrm{rpm}$. The moment of inertia of the flywheel is:",
-      "options": {
-        "A": "A $",
-        "B": "7 \\mathrm{~kg}-\\mathrm{m}^2$",
-        "C": "22 \\mathrm{~kg}-\\mathrm{m}^2$ C $3",
-        "D": "8 \\mathrm{~kg}-\\mathrm{m}^2$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nGiven, $\\begin{aligned} & \\omega_1=60 \\mathrm{rpm}=60 \\times \\frac{2 \\pi}{60}=2 \\pi \\mathrm{rad} / \\mathrm{s} \\\\ & \\omega_2=360 \\mathrm{rpm}=360 \\times \\frac{2 \\pi}{60}=12 \\pi \\mathrm{rad} / \\mathrm{s} \\end{aligned}$ Change in kinetic energy, $\\begin{aligned} \\Delta \\mathrm{K} . \\mathrm{E} & =\\frac{1}{2} \\mathrm{I}\\left(\\omega_2^2-\\omega_1^2\\right) \\\\ 484 & =\\frac{1}{2} \\times \\mathrm{I}\\left(\\omega_2+\\omega_1\\right)\\left(\\omega_2-\\omega_1\\right) \\\\ \\Rightarrow \\quad \\mathrm{I} & =\\frac{484 \\times 2}{14 \\pi \\times 10 \\pi}=0.7 \\mathrm{~kg} \\cdot \\mathrm{m}^2 \\end{aligned}$ (where, the symbols have their usual meanings)\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is $2400 \\mathrm{~g} \\mathrm{~cm}^2$. The length of the 400 g rod is nearly:",
+      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is $2400 ~g ~cm^2$. The length of the 400 g rod is nearly:",
       "options": {
         "A": "A",
         "B": "5 cm B",
@@ -552,22 +282,7 @@
         "D": "0 cm"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nMoment of inertia of rod $=I=\\frac{m \\ell^2}{12}$ $\\begin{aligned} & \\Rightarrow \\quad 2400=400 \\frac{\\ell^2}{12} \\\\ & \\Rightarrow \\quad 72=\\ell^2 \\\\ & \\Rightarrow \\quad \\ell=\\sqrt{72}=8.48 \\mathrm{~cm} \\simeq 8.5 \\mathrm{~cm}\\end{aligned}$\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Two persons of masses $55 \\mathrm{~kg}$ and $65 \\mathrm{~kg}$ respectively, are at the opposite ends of a boat. The length of the boat is $3.0 \\mathrm{~m}$ and weighs $100 \\mathrm{~kg}$. The $55 \\mathrm{~kg}$ man walks up to the $65 \\mathrm{~kg}$ man and sits with him. If the boat is in still water the centre of mass of the system shifts by",
-      "options": {
-        "A": "A $",
-        "B": "0 \\mathrm{~m}$",
-        "C": "3 \\mathrm{~m}$ C zero",
-        "D": "75 \\mathrm{~m}$"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nHere on the entire system net external force on the system is zero hence centre of mass remains unchanged.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Moment of inertia of rod $=I=\\fracm \\ell^212$ $\\beginaligned & \\Rightarrow \\quad 2400=400 \\frac\\ell^212 \\\\ & \\Rightarrow \\quad 72=\\ell^2 \\\\ & \\Rightarrow \\quad \\ell=\\sqrt72=8.48 ~cm \\simeq 8.5 ~cm\\endaligned$ **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -582,164 +297,29 @@
         "D": "3 m s - 1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nApplying conservation of momentum m 6 .6 i ^ + 0 = m 3 .3 cos \u2061 60 o i ^ + 3 .3 sin \u2061 60 o j ^ + m v \u2192 v \u2192 = 4 .95 i ^ - 2 .85 j ^ v = 5 .7 ms - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Applying conservation of momentum m 6 .6 i ^ + 0 = m 3 .3 cos \u2061 60 o i ^ + 3 .3 sin \u2061 60 o j ^ + m v \u2192 v \u2192 = 4 .95 i ^ - 2 .85 j ^ v = 5 .7 ms - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "The moment of inertia of a thin rod about an axis passing through its mid point and perpendicular to the rod is $2400 \\mathrm{~g} \\mathrm{~cm}^2$. The length of the 400 g rod is nearly:",
+      "question": "Distance of the center of mass of a solid uniform cone from its vertex is $$z_0$$. If the radius of its base is $$R$$ and its height is $$h$$ then $$z_0$$ is equal to :",
       "options": {
-        "A": "A",
-        "B": "5 cm B",
-        "C": "7 cm C 7",
-        "D": "0 cm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nMoment of inertia of rod $=I=\\frac{m \\ell^2}{12}$ $\\begin{aligned} & \\Rightarrow \\quad 2400=400 \\frac{\\ell^2}{12} \\\\ & \\Rightarrow \\quad 72=\\ell^2 \\\\ & \\Rightarrow \\quad \\ell=\\sqrt{72}=8.48 \\mathrm{~cm} \\simeq 8.5 \\mathrm{~cm}\\end{aligned}$\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2019 | Physics]\n\nDisc radius 2m, mass 100kg rolls on floor. CM speed 0.20 m/s. Work to stop it:",
-      "options": {
-        "A": "3 J",
-        "B": "30000 J",
-        "C": "2 J",
-        "D": "1 J"
-      },
-      "answer": "A",
-      "solution": "# Solution: Work to Stop a Rolling Disc\n\n## Answer: **(A) 3 J**\n\n## Step-by-Step Solution\n\n**Step 1: Identify the type of motion**\n- The disc is rolling, so it has both translational and rotational motion\n- We must account for BOTH forms of kinetic energy\n\n**Step 2: Calculate translational kinetic energy**\n$$KE_{trans} = \\frac{1}{2}Mv^2 = \\frac{1}{2}(100)(0.20)^2 = 2 \\text{ J}$$\n\n**Step 3: Calculate rotational kinetic energy**\n\nFor rolling without slipping: $v = \\omega R$\n\n$$\\omega = \\frac{v}{R} = \\frac{0.20}{2} = 0.1 \\text{ rad/s}$$\n\nFor a disc: $I = \\frac{1}{2}MR^2$\n\n$$KE_{rot} = \\frac{1}{2}I\\omega^2 = \\frac{1}{2} \\cdot \\frac{1}{2}MR^2\\omega^2$$\n\n$$KE_{rot} = \\frac{1}{4}MR^2 \\cdot \\left(\\frac{v}{R}\\right)^2 = \\frac{1}{4}Mv^2$$\n\n$$KE_{rot} = \\frac{1}{4}(100)(0.20)^2 = 1 \\text{ J}$$\n\n**Step 4: Total energy**\n$$E_{total} = KE_{trans} + KE_{rot} = 2 + 1 = 3 \\text{ J}$$\n\n## Key Concept to Remember\n\nFor a rolling disc, total KE can be expressed as:\n$$E_{total} = \\frac{3}{4}Mv^2$$\n\nThe factor **3/4** comes from:\n- 1/2 from translation\n- 1/4 from rotation (for a disc)\n\n## Why Other Options Are Wrong\n\n- **(B) 30000 J**: Results from multiplying instead of proper KE calculation\n- **(C) 2 J**: Only translational KE (ignoring rotation)\n- **(D) 1 J**: Only rotational KE (incomplete)",
-      "exam": "NEET 2019",
-      "year": 2019,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "What is the distance d of the center of gravity of the 2 m long non-uniform bar (weight W) from its left end when it is suspended at rest by two strings with angles of 36.9\u00b0 and 53.1\u00b0 with the vertical?",
-      "options": {
-        "A": "A",
-        "B": "2 m",
-        "C": "4 m",
-        "D": "7 m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) 0.7 m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "A billiard ball moving at a speed of 6.6 m s - 1 strikes an identical stationary ball elastically. After the collision, one ball is found to be moving at a speed of 3.3 m s - 1 in a direction making an angle of 60 \u00b0 with the original line of motion. The velocity of the other ball is",
-      "options": {
-        "A": "A",
-        "B": "4 m s - 1",
-        "C": "6 m s - 1",
-        "D": "3 m s - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nApplying conservation of momentum m 6 .6 i ^ + 0 = m 3 .3 cos \u2061 60 o i ^ + 3 .3 sin \u2061 60 o j ^ + m v \u2192 v \u2192 = 4 .95 i ^ - 2 .85 j ^ v = 5 .7 ms - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "The coordinates of the centre of mass of a uniform flag-shaped lamina (thin flat plate) of mass 4 k g . (The coordinates of the same are shown in the figure) are:",
-      "options": {
-        "A": "A",
-        "B": "25 m ,",
-        "C": "50 m",
-        "D": "75 m ,"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nr \u2192 c m = 1 \u00d7 i ^ 2 + j ^ + 1 \u00d7 i ^ + 5 j ^ 2 2 r \u2192 c m = 3 4 i ^ + 7 4 j ^\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "An automobile moves on a road with a speed of 54 k m h - 1 . The radius of its wheels is 0.45 \u00e2\u0080\u0089 m and the moment of inertia of the wheel about its axis of rotation is 3 k g m 2 . If the vehicle is brought to rest in 15 s , the magnitude of average torque transmitted by its brakes to the wheel is:",
-      "options": {
-        "A": "A",
-        "B": "58 k g m 2 s - 2 B",
-        "C": "86 \u00c2 k g \u00c2 m 2 \u00c2 s - 2",
-        "D": "86 \u00c2 k g \u00c2 m 2 \u00c2 s - 2"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\n\u03c9 i = 15 0.45 = 100 3 \u03c9 f = 0 \u03c9 f = \u03c9 i + \u03b1 t 0 = 100 3 + - \u03b1 ( 15 ) \u03b1 = 100 45 \u03c4 = I \u03b1 = 3 \u00d7 100 45 = 6.66 N m\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "The figure shows two diagrams of the same screw gauge. In the first case, nothing is kept in its jaw and in the second case a small ball is kept between the jaws for which the diameter is required to be measured. The number of circular divisions on the shown screw gauge is 50 . It moves 0 . 5 mm on the main scale for one complete rotation and the main scale has 1 2 mm marks. The diameter of the ball is",
-      "options": {
-        "A": "A",
-        "B": "25 mm",
-        "C": "20 mm",
-        "D": "20 mm"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPitch = 0.5 mm L.C = 0.5 50 = 0.01 mm M.S.R = 2 Neck reading = 25 d = 2 \u00d7 0.5 + 25 \u00d7 0.01 = 1.25 mm Considering zero error Here zero error is = + 5 \u00d7 0.01 = + 0.05 mm so actual diameter = d - 0.05 = 1.20 mm\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2020 | Physics]\n\nA body of moment of inertia I rotates with angular velocity \u03c9. Its rotational kinetic energy is:",
-      "options": {
-        "A": "I\u03c9",
-        "B": "\u00bdI\u03c9\u00b2",
-        "C": "I\u03c9\u00b2",
-        "D": "\u00bdI\u03c9"
-      },
-      "answer": "B",
-      "solution": "# Rotational Kinetic Energy - NEET 2020\n\n## **Correct Answer: (B) \u00bdI\u03c9\u00b2**\n\n---\n\n## Step-by-Step Reasoning\n\n### The Analogy Method\nJust as **translational kinetic energy** = \u00bdm**v\u00b2**\n\n**Rotational kinetic energy** = \u00bdI**\u03c9\u00b2**\n\nWhere:\n- **I** = moment of inertia (rotational analog of mass)\n- **\u03c9** = angular velocity (rotational analog of linear velocity)\n\n### Derivation\nFor a rigid body rotating about a fixed axis:\n- Each particle at distance r from axis has velocity: v = \u03c9r\n- Kinetic energy of particle: \u00bdm_i\u00b7v\u00b2 = \u00bdm_i\u00b7(\u03c9r)\u00b2\n\nTotal KE:\n$$KE_{rot} = \\sum \\frac{1}{2}m_i(\u03c9r_i)^2 = \\frac{1}{2}\u03c9^2\\sum m_ir_i^2 = \\frac{1}{2}I\u03c9^2$$\n\n---\n\n## Why Other Options Are Wrong\n\n| Option | Why Wrong |\n|--------|-----------|\n| **(A) I\u03c9** | Missing the \u00bd factor and \u03c9 should be squared; this is dimensionally incorrect for energy |\n| **(C) I\u03c9\u00b2** | Missing the \u00bd factor (the energy formula always has this factor) |\n| **(D) \u00bdI\u03c9** | Angular velocity must be squared, not linear; dimensionally incorrect |\n\n---\n\n## Key Formula to Remember\n\n$$\\boxed{KE_{rotational} = \\frac{1}{2}I\\omega^2}$$\n\n**Dimensional Check:** [I][\u03c9\u00b2] = (kg\u00b7m\u00b2)(rad/s)\u00b2 = kg\u00b7m\u00b2/s\u00b2 = **Joules** \u2713\n\nThis is one of the most frequently used formulas in rotational mechanics!",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "[NEET 2018 | Physics]\n\nA solid sphere of radius R has moment of inertia I about its diameter. It is melted and recast into a solid disc of radius r. What is the moment of inertia of the disc about an axis passing through its edge and perpendicular to the plane?",
-      "options": {
-        "A": "I/4",
-        "B": "2I",
-        "C": "I/2",
-        "D": "I"
-      },
-      "answer": "A",
-      "solution": "# Solution\n\n**The answer is (B) 2I**\n\n## Step-by-Step Reasoning:\n\n**Step 1: Moment of inertia of solid sphere**\n- For a solid sphere about its diameter: **I = (2/5)MR\u00b2**\n\n**Step 2: Mass conservation (sphere \u2192 disc)**\n- Since the sphere is melted and recast into a disc, the mass is conserved\n- Volume of sphere: V_s = (4/3)\u03c0R\u00b3\n- Volume of disc: V_d = \u03c0r\u00b2h (where h is thickness)\n- With constant density: **(4/3)\u03c0R\u00b3 = \u03c0r\u00b2h**\n\n**Step 3: Moment of inertia of disc about edge**\n- About center (perpendicular to plane): I_center = (1/2)mr\u00b2\n- About edge (using parallel axis theorem):\n  - **I_edge = I_center + mr\u00b2 = (3/2)mr\u00b2**\n\n**Step 4: Relating sphere and disc using mass conservation**\n- From sphere: **MR\u00b2 = (5I/2)**\n- From mass conservation and geometric constraints, when we work through the algebra:\n  - **m = M** and **r\u00b2 = (2R\u00b2/3)**\n  \n- Therefore:\n  - **I_edge = (3/2)M \u00d7 (2R\u00b2/3) = MR\u00b2**\n  - **I_edge = (5I/2) \u00d7 (2/5) = 2I**\n\n## Key Concepts to Remember:\n\n| Object | Axis | Moment of Inertia |\n|--------|------|-------------------|\n| Solid sphere | Diameter | (2/5)MR\u00b2 |\n| Solid disc | Center (\u22a5 to plane) | (1/2)mr\u00b2 |\n| Solid disc | Edge (\u22a5 to plane) | (3/2)mr\u00b2 |\n\n**Parallel Axis Theorem:** I = I_cm + Md\u00b2\n\nThe answer is **(B) 2I**",
-      "exam": "NEET 2018",
-      "year": 2018,
-      "subject": "Physics",
-      "chapter": "System of Particles and Rotational Motion"
-    },
-    {
-      "question": "Distance of the center of mass of a solid uniform cone from its vertex is $$z{}_0$$. If the radius of its base is $$R$$ and its height is $$h$$ then $$z{}_0$$ is equal to : ",
-      "options": {
-        "A": "$${{5h} \\over 8}$$ ",
-        "B": "$${{3{h^2}} \\over {8R}}$$ ",
-        "C": "$${{{h^2}} \\over {4R}}$$ ",
-        "D": "$${{3h} \\over 4}$$"
+        "A": "$$5h \\over 8$$",
+        "B": "$$3h^2 \\over 8R$$",
+        "C": "$$h^2 \\over 4R$$",
+        "D": "$$3h \\over 4$$"
       },
       "answer": "D",
-      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 107 English Explanation\"><br>\nLet the density of solid cone $$\\rho $$.\n<br><br>$$dm = \\rho \\pi {r^2}dy$$\n<br><br>$${y_{cm}} = {{\\int {ydm} } \\over {\\int {dm} }}$$\n<br><br>$$ = {{\\int\\limits_0^h {\\pi {r^2}} dy\\rho  \\times y} \\over {{1 \\over 3}\\pi {R^2}h\\rho }}$$\n<br><br>$$ = {{3h} \\over 4}$$",
+      "solution": "<img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l91ofg7j/6a0d62ec-2d96-49cf-9855-a36685260c79/e1c685f0-47ff-11ed-8757-0f869593f41f/file-1l91ofg7k.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2015 (Offline) Physics - Center of Mass and Collision Question 107 English Explanation\"><br> Let the density of solid cone $$\\rho $$. <br><br>$$dm = \\rho \\pi r^2dy$$ <br><br>$$y_cm = \\int ydm \\over \\int dm $$ <br><br>$$ = \\int\\limits_0^h \\pi r^2 dy\\rho \\times y \\over 1 \\over 3\\pi R^2h\\rho $$ <br><br>$$ = 3h \\over 4$$",
       "exam": "JEE Main 2015",
       "year": 2015,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A block of mass 1.9 kg is at rest at the edge of a table, of height 1 m. A bullet of mass 0.1 kg\ncollides with the block and sticks to it. If the velocity of the bullet is 20 m/s in the horizontal\ndirection just before the collision then the kinetic energy just before the combined system strikes\nthe floor, is [Take g = 10 m/s<sup>2</sup>\n . Assume there is no rotational motion and loss of energy after the\ncollision is negligable.]",
+      "question": "A block of mass 1.9 kg is at rest at the edge of a table, of height 1 m. A bullet of mass 0.1 kg collides with the block and sticks to it. If the velocity of the bullet is 20 m/s in the horizontal direction just before the collision then the kinetic energy just before the combined system strikes the floor, is [Take g = 10 m/s<sup>2</sup> . Assume there is no rotational motion and loss of energy after the collision is negligable.]",
       "options": {
         "A": "23 J",
         "B": "21 J",
@@ -747,14 +327,14 @@
         "D": "19 J"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267066/exam_images/oubyomaxlt5cjmbgbozw.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Physics - Center of Mass and Collision Question 64 English Explanation\">\n<br><br>Let velocity of block after collision = v\n<br><br>Using momentum conservation,\n<br><br>p<sub>i</sub> = p<sub>f</sub>\n<br><br>0.1\u00d720 = (1.9 + 0.1)V\n<br><br>$$ \\Rightarrow $$ 2 = 2 V\n<br><br>$$ \\Rightarrow $$ V = 1 m/sec\n<br><br>Kinetic energy just before striking the floor\n<br><br>= $${1 \\over 2}m{v^2} + mgh$$\n<br><br>= $${1 \\over 2} \\times 2{\\left( 1 \\right)^2} + 2 \\times 10 \\times 1$$\n<br><br>= 21 J",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267066/exam_images/oubyomaxlt5cjmbgbozw.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Evening Slot Physics - Center of Mass and Collision Question 64 English Explanation\"> <br><br>Let velocity of block after collision = v <br><br>Using momentum conservation, <br><br>p<sub>i</sub> = p<sub>f</sub> <br><br>0.1\u00d720 = (1.9 + 0.1)V <br><br>$$ \\Rightarrow $$ 2 = 2 V <br><br>$$ \\Rightarrow $$ V = 1 m/sec <br><br>Kinetic energy just before striking the floor <br><br>= $$1 \\over 2mv^2 + mgh$$ <br><br>= $$1 \\over 2 \\times 2\\left( 1 \\right)^2 + 2 \\times 10 \\times 1$$ <br><br>= 21 J",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<p>A child of mass $$5 \\mathrm{~kg}$$ is going round a merry-go-round that makes 1 rotation in $$3.14 \\mathrm{~s}$$. The radius of the merry-go-round is $$2 \\mathrm{~m}$$. The centrifugal force on the child will be</p>",
+      "question": "<p>A child of mass $$5 ~kg$$ is going round a merry-go-round that makes 1 rotation in $$3.14 ~s$$. The radius of the merry-go-round is $$2 ~m$$. The centrifugal force on the child will be</p>",
       "options": {
         "A": "50 N",
         "B": "80 N",
@@ -762,74 +342,74 @@
         "D": "40 N"
       },
       "answer": "D",
-      "solution": "<p>To calculate the centrifugal force acting on the child, we need to find the angular velocity of the merry-go-round and then apply the formula for centrifugal force. </p>\n<p>The merry-go-round makes 1 rotation in 3.14 seconds, so its angular velocity ($$\\omega$$) can be calculated as:</p>\n<p>$$\\omega = \\frac{2\\pi}{T}$$, where $$T$$ is the time period for one rotation.</p>\n<p>$$\\omega = \\frac{2\\pi}{3.14} = 2 \\, \\text{radians/s}$$</p>\n<p>Now, the formula for centrifugal force ($$F$$) is:</p>\n<p>$$F = m \\cdot r \\cdot \\omega^2$$, where $$m$$ is the mass of the child, $$r$$ is the radius of the merry-go-round, and $$\\omega$$ is the angular velocity.</p>\n<p>$$F = 5\\,\\text{kg} \\cdot 2\\,\\text{m} \\cdot (2\\,\\text{radians/s})^2 = 5\\,\\text{kg} \\cdot 2\\,\\text{m} \\cdot 4\\,(\\text{radians/s})^2$$</p>\n<p>$$F = 40\\,\\text{N}$$</p>\n<p>Therefore, the centrifugal force on the child is $$40\\,\\text{N}$$.</p>",
+      "solution": "<p>To calculate the centrifugal force acting on the child, we need to find the angular velocity of the merry-go-round and then apply the formula for centrifugal force. </p> <p>The merry-go-round makes 1 rotation in 3.14 seconds, so its angular velocity ($$\\omega$$) can be calculated as:</p> <p>$$\\omega = \\frac2\\piT$$, where $$T$$ is the time period for one rotation.</p> <p>$$\\omega = \\frac2\\pi3.14 = 2 \\, \\textradians/s$$</p> <p>Now, the formula for centrifugal force ($$F$$) is:</p> <p>$$F = m \\cdot r \\cdot \\omega^2$$, where $$m$$ is the mass of the child, $$r$$ is the radius of the merry-go-round, and $$\\omega$$ is the angular velocity.</p> <p>$$F = 5\\,\\textkg \\cdot 2\\,\\textm \\cdot (2\\,\\textradians/s)^2 = 5\\,\\textkg \\cdot 2\\,\\textm \\cdot 4\\,(\\textradians/s)^2$$</p> <p>$$F = 40\\,\\textN$$</p> <p>Therefore, the centrifugal force on the child is $$40\\,\\textN$$.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $${\\rho _0}{x \\over l}$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
+      "question": "An insulating thin rod of length $$l$$ has a linear charge density $$\\rho \\left( x \\right)$$ = $$\\rho _0x \\over l$$ on it. The rod is rotated about an axis passing through the origin (x = 0) and perpendicular to the rod. If the rod makes n rotations per second, then the time averaged magnetic moment of the rod is -",
       "options": {
-        "A": "$${\\pi  \\over 3}n\\rho {l^3}$$",
-        "B": "$${\\pi  \\over 4}n\\rho {l^3}$$",
-        "C": "$$n\\rho {l^3}$$ ",
-        "D": "$$\\pi n\\rho {l^3}$$"
+        "A": "$$\\pi \\over 3n\\rho l^3$$",
+        "B": "$$\\pi \\over 4n\\rho l^3$$",
+        "C": "$$n\\rho l^3$$",
+        "D": "$$\\pi n\\rho l^3$$"
       },
       "answer": "B",
-      "solution": "$$ \\because $$ &nbsp;&nbsp;M = NIA\n<br><br>dq = $$\\lambda $$dx&nbsp;&nbsp;&amp;&nbsp;&nbsp; A = $$\\pi $$x<sup>2</sup>\n<br><br>$$\\int {dm}  = \\int {\\left( x \\right){{{\\rho _0}x} \\over \\ell }} \\,dx.\\pi {x^2}$$\n<br><br>M = $${{n{\\rho _0}\\pi } \\over \\ell }.\\int\\limits_0^\\ell  {{x^3}.dx}  = {{n{\\rho _0}\\pi } \\over \\ell }.\\left[ {{{{L^4}} \\over 4}} \\right]$$\n<br><br>M = $${{n{\\rho _0}\\pi {\\ell ^3}} \\over 4}$$  or  $${\\pi  \\over 4}n\\rho {\\ell ^3}$$",
+      "solution": "$$ \\because $$ M = NIA <br><br>dq = $$\\lambda $$dx & A = $$\\pi $$x<sup>2</sup> <br><br>$$\\int dm = \\int \\left( x \\right)\\rho _0x \\over \\ell \\,dx.\\pi x^2$$ <br><br>M = $$n\\rho _0\\pi \\over \\ell .\\int\\limits_0^\\ell x^3.dx = n\\rho _0\\pi \\over \\ell .\\left[ L^4 \\over 4 \\right]$$ <br><br>M = $$n\\rho _0\\pi \\ell ^3 \\over 4$$ or $$\\pi \\over 4n\\rho \\ell ^3$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A long cylindrical vessel is half filled with a liquid. When the vessel is rotated about its own vertical axis, the liquid rises up near the wall. If the radius of vessel is 5 cm and its rotational speed is 2 rotations per second, then the difference in the heights between the centre and the sides, in cm, will be : ",
+      "question": "A long cylindrical vessel is half filled with a liquid. When the vessel is rotated about its own vertical axis, the liquid rises up near the wall. If the radius of vessel is 5 cm and its rotational speed is 2 rotations per second, then the difference in the heights between the centre and the sides, in cm, will be :",
       "options": {
-        "A": "2.0 ",
+        "A": "2.0",
         "B": "1.2",
         "C": "0.1",
         "D": "0.4"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266696/exam_images/yrsxnxrpr5bg7m39gw3x.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Properties of Matter Question 204 English Explanation\">\n<br><br>y = $${{{\\omega ^2}{x^2}} \\over {2g}}$$ = $${{{{\\left( {2 \\times 2\\pi } \\right)}^2} \\times {{\\left( {0.05} \\right)}^2}} \\over {20}}$$  $$ \\simeq $$ 2 cm",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266696/exam_images/yrsxnxrpr5bg7m39gw3x.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Evening Slot Physics - Properties of Matter Question 204 English Explanation\"> <br><br>y = $$\\omega ^2x^2 \\over 2g$$ = $$\\left( 2 \\times 2\\pi \\right)^2 \\times \\left( 0.05 \\right)^2 \\over 20$$ $$ \\simeq $$ 2 cm",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A person of mass M is, sitting on a swing of length L and swinging with an angular amplitude $$\\theta $$<sub>0</sub>. If the\nperson stands up when the swing passes through its lowest point, the work done by him, assuming that his\ncenter of mass moves by a distance $$\\ell $$($$\\ell $$ &lt;&lt; L), is close to;\n",
+      "question": "A person of mass M is, sitting on a swing of length L and swinging with an angular amplitude $$\\theta $$<sub>0</sub>. If the person stands up when the swing passes through its lowest point, the work done by him, assuming that his center of mass moves by a distance $$\\ell $$($$\\ell $$ << L), is close to;",
       "options": {
         "A": "mg$$\\ell $$(1 + $$\\theta $$<sub>0</sub><sup>2</sup>)",
         "B": "mg$$\\ell $$",
-        "C": "mg$$\\ell $$(1 + $${{\\theta _0^2} \\over 2}$$)",
+        "C": "mg$$\\ell $$(1 + $$\\theta _0^2 \\over 2$$)",
         "D": "mg$$\\ell $$(1 - $$\\theta $$<sub>0</sub><sup>2</sup>)"
       },
       "answer": "A",
-      "solution": "Angular momentum conservation<br>\nMV<sub>0</sub>L = MV<sub>1</sub>(L \\u2013 $$\\ell $$ )<br><br>\n$${V_1} = {V_0}\\left( {{L \\over {L - \\ell }}} \\right)$$<br><br>\n$${w_g} + {w_p} = \\Delta KE$$<br><br>\n$$ - mg\\ell  + {w_p} = {1 \\over 2}m\\left( {V_1^2 - V_0^2} \\right)$$<br><br>\n$${w_p} = mg\\ell  + {1 \\over 2}mV_0^2\\left( {{{\\left( {{L \\over {L - \\ell }}} \\right)}^2} - 1} \\right)$$<br><br>\n$$ = mg\\ell  + {1 \\over 2}mV_0^2\\left( {{{\\left( {1 - {L \\over {L - \\ell }}} \\right)}^{ - 2}} - 1} \\right)$$<br><br>\nNow $$\\ell  \\ll L$$<br><br>\nBy, Binomial approximation<br><br>\n$$ = mg\\ell  + {1 \\over 2}mV_0^2\\left( {{{\\left( {1 + {L \\over {L - \\ell }}} \\right)}^{ - 2}} - 1} \\right)$$<br><br>\n$$ = mg\\ell  + {1 \\over 2}mV_0^2\\left( {{{2\\ell } \\over L}} \\right)$$<br><br>\n$${w_p} = mg\\ell  + mV_0^2{\\ell  \\over L}$$<br><br>\nHere, V<sub>0</sub> = maximum velocity = $$\\omega  \\times A = \\left( {\\sqrt {{g \\over L}} } \\right)\\left( {{\\theta _0}L} \\right)$$<br><br>\nSo, $${w_p} = mg\\ell  + m{\\left( {{\\theta _0}\\sqrt {gL} } \\right)^2}{\\ell  \\over L}$$<br><br>\n= $$mg\\ell \\left( {1 + \\theta _0^2} \\right)$$",
+      "solution": "Angular momentum conservation<br> MV<sub>0</sub>L = MV<sub>1</sub>(L \\\u2013 $$\\ell $$ )<br><br> $$V_1 = V_0\\left( L \\over L - \\ell \\right)$$<br><br> $$w_g + w_p = \\Delta KE$$<br><br> $$ - mg\\ell + w_p = 1 \\over 2m\\left( V_1^2 - V_0^2 \\right)$$<br><br> $$w_p = mg\\ell + 1 \\over 2mV_0^2\\left( \\left( L \\over L - \\ell \\right)^2 - 1 \\right)$$<br><br> $$ = mg\\ell + 1 \\over 2mV_0^2\\left( \\left( 1 - L \\over L - \\ell \\right)^ - 2 - 1 \\right)$$<br><br> Now $$\\ell \\ll L$$<br><br> By, Binomial approximation<br><br> $$ = mg\\ell + 1 \\over 2mV_0^2\\left( \\left( 1 + L \\over L - \\ell \\right)^ - 2 - 1 \\right)$$<br><br> $$ = mg\\ell + 1 \\over 2mV_0^2\\left( 2\\ell \\over L \\right)$$<br><br> $$w_p = mg\\ell + mV_0^2\\ell \\over L$$<br><br> Here, V<sub>0</sub> = maximum velocity = $$\\omega \\times A = \\left( \\sqrt g \\over L \\right)\\left( \\theta _0L \\right)$$<br><br> So, $$w_p = mg\\ell + m\\left( \\theta _0\\sqrt gL \\right)^2\\ell \\over L$$<br><br> = $$mg\\ell \\left( 1 + \\theta _0^2 \\right)$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "The time dependence of the position of a particle of mass m = 2 is given by $$\\overrightarrow r \\left( t \\right) = 2t\\widehat i - 3{t^2}\\widehat j$$\n. Its angular\nmomentum, with respect to the origin, at time t = 2 is",
+      "question": "The time dependence of the position of a particle of mass m = 2 is given by $$\\overrightarrow r \\left( t \\right) = 2t\\widehat i - 3t^2\\widehat j$$ . Its angular momentum, with respect to the origin, at time t = 2 is",
       "options": {
         "A": "36 $$\\widehat k$$",
         "B": "- 48 $$\\widehat k$$",
-        "C": "$$ - 34\\left( {\\widehat k - \\widehat i} \\right)$$",
-        "D": "$$48\\left( {\\widehat i + \\widehat j} \\right)$$"
+        "C": "$$ - 34\\left( \\widehat k - \\widehat i \\right)$$",
+        "D": "$$48\\left( \\widehat i + \\widehat j \\right)$$"
       },
       "answer": "B",
-      "solution": "$$\\overrightarrow v  = 2\\widehat i - 6 + \\widehat j$$<br><br>\nAt t = 2\n<br>\n$$\\overrightarrow v  = 2\\widehat i - 12\\widehat j$$<br><br>\n$$\\overrightarrow P  = m\\overrightarrow v  = 4i - 24\\widehat j$$<br><br>\nAt t = 2<br>\n$$\\overrightarrow r  = 4\\widehat i - 12\\widehat j$$<br><br>\n$$\\overrightarrow L  = \\overrightarrow r  \\times \\overrightarrow P  = \\left| {\\matrix{\n   {\\widehat i} &amp; {\\widehat j} &amp; {\\widehat k}  \\cr \n   4 &amp; { - 12} &amp; 0  \\cr \n   4 &amp; { - 24} &amp; 0  \\cr \n\n } } \\right|$$<br><br>\n$$ = \\left\\{ {4( - 2) + 4 \\times 12} \\right\\}\\widehat k$$<br><br>\n$$ = \\left( { - 96 + 48} \\right)\\widehat k$$<br><br>\n$$ = \\left(  -  \\right)48\\widehat k$$",
+      "solution": "$$\\overrightarrow v = 2\\widehat i - 6 + \\widehat j$$<br><br> At t = 2 <br> $$\\overrightarrow v = 2\\widehat i - 12\\widehat j$$<br><br> $$\\overrightarrow P = m\\overrightarrow v = 4i - 24\\widehat j$$<br><br> At t = 2<br> $$\\overrightarrow r = 4\\widehat i - 12\\widehat j$$<br><br> $$\\overrightarrow L = \\overrightarrow r \\times \\overrightarrow P = \\left| \\matrix \\widehat i & \\widehat j & \\widehat k \\cr 4 & - 12 & 0 \\cr 4 & - 24 & 0 \\cr \\right|$$<br><br> $$ = \\left\\ 4( - 2) + 4 \\times 12 \\right\\\\widehat k$$<br><br> $$ = \\left( - 96 + 48 \\right)\\widehat k$$<br><br> $$ = \\left( - \\right)48\\widehat k$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A solid sphere of mass M and radius R is divided into two unequal parts. The first part has a mass of $${{7M} \\over 8}$$\nand is converted into a uniform disc of radius 2R. The second part is converted into a uniform solid sphere.\nLet I<sub>1</sub> be the moment of inertia of the disc about its axis and I<sub>2</sub> be the moment of inertia of the new sphere\nabout its axis. The ratio I<sub>1</sub>/I<sub>2</sub> is given by :",
+      "question": "A solid sphere of mass M and radius R is divided into two unequal parts. The first part has a mass of $$7M \\over 8$$ and is converted into a uniform disc of radius 2R. The second part is converted into a uniform solid sphere. Let I<sub>1</sub> be the moment of inertia of the disc about its axis and I<sub>2</sub> be the moment of inertia of the new sphere about its axis. The ratio I<sub>1</sub>/I<sub>2</sub> is given by :",
       "options": {
         "A": "65",
         "B": "140",
@@ -837,52 +417,52 @@
         "D": "285"
       },
       "answer": "B",
-      "solution": "$${I_1} = {{\\left( {{{7M} \\over 8}} \\right){{\\left( {2R} \\right)}^2}} \\over 2} = {{7M \\times 4{R^2}} \\over {2 \\times 8}} = {{7M{R^2}} \\over 4}$$<br><br>\n$${I_2} = {2 \\over 5}{M \\over 8}{\\left( {{R \\over 2}} \\right)^2} = {{2M} \\over {5 \\times 8}}{{{R^2}} \\over 4} = {{M{R^2}} \\over {80}}$$<br><br>\n$${{{I_1}} \\over {{I_2}}} = {{7M{R^2} \\times 80} \\over {4M{R^2}}} = 140$$",
+      "solution": "$$I_1 = \\left( 7M \\over 8 \\right)\\left( 2R \\right)^2 \\over 2 = 7M \\times 4R^2 \\over 2 \\times 8 = 7MR^2 \\over 4$$<br><br> $$I_2 = 2 \\over 5M \\over 8\\left( R \\over 2 \\right)^2 = 2M \\over 5 \\times 8R^2 \\over 4 = MR^2 \\over 80$$<br><br> $$I_1 \\over I_2 = 7MR^2 \\times 80 \\over 4MR^2 = 140$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "If the angular momentum of a planet of mass m, moving around the Sun in a circular orbit is L, about the center of the Sun, its areal velocity is : ",
+      "question": "If the angular momentum of a planet of mass m, moving around the Sun in a circular orbit is L, about the center of the Sun, its areal velocity is :",
       "options": {
-        "A": "$${L \\over m}$$",
-        "B": "$${4L \\over m}$$",
-        "C": "$${L \\over 2m}$$",
-        "D": "$${2L \\over m}$$"
+        "A": "$$L \\over m$$",
+        "B": "$$4L \\over m$$",
+        "C": "$$L \\over 2m$$",
+        "D": "$$2L \\over m$$"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267094/exam_images/truruquwyu57sgraxwbz.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Morning Slot Physics - Rotational Motion Question 164 English Explanation\">\n<br><br>dA = $${1 \\over 2}$$ r<sup>2</sup>d$$\\theta $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$${{dA} \\over {dt}} = {1 \\over 2}{r^2}{{d\\theta } \\over {dt}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$${{dA} \\over {dt}} = {1 \\over 2}{r^2}\\omega $$ &nbsp;&nbsp;&nbsp;. . . . . (1)\n<br><br>We know, \n<br><br>angular momentum, \n<br><br>L = $$mvr$$\n<br><br>=  $$m\\left( {\\omega r} \\right)r$$\n<br><br>=  mr<sup>2</sup>$$\\omega $$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$$\\omega $$ =  $${L \\over {m{r^2}}}$$ &nbsp;&nbsp;&nbsp; . . . . . (2)\n<br><br>Put value of $$\\omega $$ in equation(1),\n<br><br>$${{dA} \\over {dt}}$$ = $${1 \\over 2}{r^2}$$ ($${L \\over {m{r^2}}}$$)\n<br><br>=  $${L \\over {2m}}$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267094/exam_images/truruquwyu57sgraxwbz.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Morning Slot Physics - Rotational Motion Question 164 English Explanation\"> <br><br>dA = $$1 \\over 2$$ r<sup>2</sup>d$$\\theta $$ <br><br>$$ \\therefore $$ $$dA \\over dt = 1 \\over 2r^2d\\theta \\over dt$$ <br><br>$$ \\Rightarrow $$ $$dA \\over dt = 1 \\over 2r^2\\omega $$ . . . . . (1) <br><br>We know, <br><br>angular momentum, <br><br>L = $$mvr$$ <br><br>= $$m\\left( \\omega r \\right)r$$ <br><br>= mr<sup>2</sup>$$\\omega $$ <br><br>$$ \\therefore $$ $$\\omega $$ = $$L \\over mr^2$$ . . . . . (2) <br><br>Put value of $$\\omega $$ in equation(1), <br><br>$$dA \\over dt$$ = $$1 \\over 2r^2$$ ($$L \\over mr^2$$) <br><br>= $$L \\over 2m$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Two uniform circular discs are rotating\nindependently in the same direction around\ntheir common axis passing through their\ncentres. The moment of inertia and angular\nvelocity of the first disc are 0.1 kg-m<sup>2</sup> and 10\nrad s<sup>\\u20131</sup> respectively while those for the second\none are 0.2 kg-m<sup>2</sup> and 5 rad s<sup>\\u20131</sup> respectively. At\nsome instant they get stuck together and start\nrotating as a single system about their common\naxis with some angular speed. The kinetic\nenergy of the combined system is :",
+      "question": "Two uniform circular discs are rotating independently in the same direction around their common axis passing through their centres. The moment of inertia and angular velocity of the first disc are 0.1 kg-m<sup>2</sup> and 10 rad s<sup>\\\u20131</sup> respectively while those for the second one are 0.2 kg-m<sup>2</sup> and 5 rad s<sup>\\\u20131</sup> respectively. At some instant they get stuck together and start rotating as a single system about their common axis with some angular speed. The kinetic energy of the combined system is :",
       "options": {
-        "A": "$${{20} \\over 3}J$$",
-        "B": "$${{5} \\over 3}J$$",
-        "C": "$${{10} \\over 3}J$$",
-        "D": "$${{2} \\over 3}J$$"
+        "A": "$$20 \\over 3J$$",
+        "B": "$$5 \\over 3J$$",
+        "C": "$$10 \\over 3J$$",
+        "D": "$$2 \\over 3J$$"
       },
       "answer": "A",
-      "solution": "Angular momentum conserved for the system\n<br><br>I<sub>1</sub>$${\\omega _1}$$ + I<sub>2</sub>$${\\omega _2}$$ = (I<sub>1</sub> + I<sub>2</sub>)$${\\omega _f}$$\n<br><br>$$ \\Rightarrow $$ 0.1 \u00d7 10 + 0.2 \u00d7 5 = (0.1 + 0.2) \u00d7 $${\\omega _f}$$\n<br><br>$$ \\Rightarrow $$ $${\\omega _f}$$ = $${{20} \\over 3}$$\n<br><br>Kinetic energy of combined disc system\n<br><br>= $${1 \\over 2}\\left( {{I_1} + {I_2}} \\right)\\omega _f^2$$\n<br><br>= $${1 \\over 2}\\left( {0.1 + 0.2} \\right){\\left( {{{20} \\over 3}} \\right)^2}$$\n<br><br>= $${{20} \\over 3}J$$",
+      "solution": "Angular momentum conserved for the system <br><br>I<sub>1</sub>$$\\omega _1$$ + I<sub>2</sub>$$\\omega _2$$ = (I<sub>1</sub> + I<sub>2</sub>)$$\\omega _f$$ <br><br>$$ \\Rightarrow $$ 0.1 \u00d7 10 + 0.2 \u00d7 5 = (0.1 + 0.2) \u00d7 $$\\omega _f$$ <br><br>$$ \\Rightarrow $$ $$\\omega _f$$ = $$20 \\over 3$$ <br><br>Kinetic energy of combined disc system <br><br>= $$1 \\over 2\\left( I_1 + I_2 \\right)\\omega _f^2$$ <br><br>= $$1 \\over 2\\left( 0.1 + 0.2 \\right)\\left( 20 \\over 3 \\right)^2$$ <br><br>= $$20 \\over 3J$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Consider a uniform rod of mass M = 4m and\nlength $$\\ell $$ pivoted about its centre. A mass m\nmoving with velocity v making angle $$\\theta  = {\\pi  \\over 4}$$ to\nthe rod's long axis collides with one end of the\nrod and sticks to it. The angular speed of the\nrod-mass system just after the collision is :",
+      "question": "Consider a uniform rod of mass M = 4m and length $$\\ell $$ pivoted about its centre. A mass m moving with velocity v making angle $$\\theta = \\pi \\over 4$$ to the rod's long axis collides with one end of the rod and sticks to it. The angular speed of the rod-mass system just after the collision is :",
       "options": {
-        "A": "$${{3\\sqrt 2 } \\over 7}{v \\over \\ell }$$",
-        "B": "$${3 \\over 7}{v \\over \\ell }$$",
-        "C": "$${3 \\over {7\\sqrt 2 }}{v \\over \\ell }$$",
-        "D": "$${4 \\over 7}{v \\over \\ell }$$"
+        "A": "$$3\\sqrt 2 \\over 7v \\over \\ell $$",
+        "B": "$$3 \\over 7v \\over \\ell $$",
+        "C": "$$3 \\over 7\\sqrt 2 v \\over \\ell $$",
+        "D": "$$4 \\over 7v \\over \\ell $$"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263502/exam_images/ft4efq5vaelxd7r62j1c.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Rotational Motion Question 128 English Explanation\">\n<br><br>About hinge(O) net torque $$\\tau $$ = 0\n<br><br>So angular momentum is conserved about hinge(O),\n<br><br>L<sub>initial</sub> = L<sub>final</sub>\n<br><br>m$$\\left( {{v \\over {\\sqrt 2 }}} \\right)\\left( {{l \\over 2}} \\right)$$ + 0 = $$\\left[ {{{4m{l^2}} \\over {12}} + m{{\\left( {{l \\over 2}} \\right)}^2}} \\right]\\omega $$\n<br><br>$$ \\Rightarrow $$ $$\\omega $$ = $${{3\\sqrt 2 } \\over 7}{v \\over \\ell }$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263502/exam_images/ft4efq5vaelxd7r62j1c.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 8th January Morning Slot Physics - Rotational Motion Question 128 English Explanation\"> <br><br>About hinge(O) net torque $$\\tau $$ = 0 <br><br>So angular momentum is conserved about hinge(O), <br><br>L<sub>initial</sub> = L<sub>final</sub> <br><br>m$$\\left( v \\over \\sqrt 2 \\right)\\left( l \\over 2 \\right)$$ + 0 = $$\\left[ 4ml^2 \\over 12 + m\\left( l \\over 2 \\right)^2 \\right]\\omega $$ <br><br>$$ \\Rightarrow $$ $$\\omega $$ = $$3\\sqrt 2 \\over 7v \\over \\ell $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -897,14 +477,14 @@
         "D": "is zero"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263868/exam_images/mm2wetdpg7wzm8abx2gd.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Rotational Motion Question 71 English Explanation\"><br>$$\\left| {\\overrightarrow L } \\right|$$ = mvr<br><br>And direction will be upward &amp; remain constant.<br><br>Option (b)",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263868/exam_images/mm2wetdpg7wzm8abx2gd.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 31st August Morning Shift Physics - Rotational Motion Question 71 English Explanation\"><br>$$\\left| \\overrightarrow L \\right|$$ = mvr<br><br>And direction will be upward & remain constant.<br><br>Option (b)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<p>Given below are two statements: one is labelled as Assertion $$\\mathbf{A}$$ and the other is labelled as Reason $$\\mathbf{R}$$</p>\n<p>Assertion A : An electric fan continues to rotate for some time after the current is switched off.</p>\n<p>Reason R : Fan continues to rotate due to inertia of motion.</p>\n<p>In the light of above statements, choose the most appropriate answer from the options given below.</p>",
+      "question": "<p>Given below are two statements: one is labelled as Assertion $$\\mathbfA$$ and the other is labelled as Reason $$\\mathbfR$$</p> <p>Assertion A : An electric fan continues to rotate for some time after the current is switched off.</p> <p>Reason R : Fan continues to rotate due to inertia of motion.</p> <p>In the light of above statements, choose the most appropriate answer from the options given below.</p>",
       "options": {
         "A": "A is not correct but R is correct",
         "B": "A is correct but R is not correct",
@@ -912,22 +492,22 @@
         "D": "Both A and R are correct but R is NOT the correct explanation of A"
       },
       "answer": "C",
-      "solution": "<p>The correct answer is Both A and R are correct and R is the correct explanation of A.</p>\n<p>Explanation:</p>\n<p><b>Assertion A</b>: An electric fan continues to rotate for some time after the current is switched off. This is a correct statement. When you switch off the fan, it doesn&#39;t stop immediately but continues to rotate for some time.</p>\n<p><b>Reason R</b>: Fan continues to rotate due to inertia of motion. This is also a correct statement. Inertia is the resistance of any physical object to any change in its state of motion. This includes changes to the object&#39;s speed or direction of motion. An object will stay in its state of motion unless a force acts on it. In the case of the fan, after the current is switched off, the fan blades have inertia and continue to move due to this inertia until the frictional forces (like air resistance and friction in the fan&#39;s bearings) cause it to stop. Therefore, inertia of motion is the correct reason for the fan&#39;s continued motion after the current is switched off.</p>",
+      "solution": "<p>The correct answer is Both A and R are correct and R is the correct explanation of A.</p> <p>Explanation:</p> <p><b>Assertion A</b>: An electric fan continues to rotate for some time after the current is switched off. This is a correct statement. When you switch off the fan, it doesn't stop immediately but continues to rotate for some time.</p> <p><b>Reason R</b>: Fan continues to rotate due to inertia of motion. This is also a correct statement. Inertia is the resistance of any physical object to any change in its state of motion. This includes changes to the object's speed or direction of motion. An object will stay in its state of motion unless a force acts on it. In the case of the fan, after the current is switched off, the fan blades have inertia and continue to move due to this inertia until the frictional forces (like air resistance and friction in the fan's bearings) cause it to stop. Therefore, inertia of motion is the correct reason for the fan's continued motion after the current is switched off.</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<p>A particle of mass $$\\mathrm{m}$$ is projected with a velocity '$$\\mathrm{u}$$' making an angle of $$30^{\\circ}$$ with the horizontal. The magnitude of angular momentum of the projectile about the point of projection when the particle is at its maximum height $$\\mathrm{h}$$ is :</p>",
+      "question": "<p>A particle of mass $$m$$ is projected with a velocity '$$u$$' making an angle of $$30^\\circ$$ with the horizontal. The magnitude of angular momentum of the projectile about the point of projection when the particle is at its maximum height $$h$$ is :</p>",
       "options": {
-        "A": "$$\\frac{\\mathrm{mu}^3}{\\sqrt{2} \\mathrm{~g}}$$\n",
-        "B": "zero\n",
-        "C": "$$\\frac{\\sqrt{3}}{2} \\frac{\\mathrm{mu}^2}{\\mathrm{~g}}$$\n",
-        "D": "$$\\frac{\\sqrt{3}}{16} \\frac{\\mathrm{mu}^3}{\\mathrm{~g}}$$"
+        "A": "$$\\fracmu^3\\sqrt2 ~g$$",
+        "B": "zero",
+        "C": "$$\\frac\\sqrt32 \\fracmu^2~g$$",
+        "D": "$$\\frac\\sqrt316 \\fracmu^3~g$$"
       },
       "answer": "D",
-      "solution": "<p>$$\\begin{aligned}\n& \\mathrm{L}=m u \\cos \\theta H \\\\\n& =m u \\cos \\theta \\times \\frac{u^2 \\sin ^2 \\theta}{2 g} \\\\\n& =\\frac{m u^3}{2 g} \\times \\frac{\\sqrt{3}}{2} \\times\\left(\\frac{1}{2}\\right)^2=\\frac{\\sqrt{3} m u^3}{16 g}\n\\end{aligned}$$</p>",
+      "solution": "<p>$$\\beginaligned & L=m u \\cos \\theta H \\\\ & =m u \\cos \\theta \\times \\fracu^2 \\sin ^2 \\theta2 g \\\\ & =\\fracm u^32 g \\times \\frac\\sqrt32 \\times\\left(\\frac12\\right)^2=\\frac\\sqrt3 m u^316 g \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -942,7 +522,7 @@
         "D": "Ring"
       },
       "answer": "B",
-      "solution": "$${1 \\over 2}I{\\omega ^2} = {1 \\over 2} \\times {1 \\over 2}m{v^2}$$<br><br>$$I = {1 \\over 2}m{R^2}$$<br><br>Body is solid cylinder",
+      "solution": "$$1 \\over 2I\\omega ^2 = 1 \\over 2 \\times 1 \\over 2mv^2$$<br><br>$$I = 1 \\over 2mR^2$$<br><br>Body is solid cylinder",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -957,7 +537,7 @@
         "D": "The cylinder has the greatest and the sphere has the least velocity of the centre of mass at the bottom of the inclined plane."
       },
       "answer": "C",
-      "solution": "$${{{K_T}} \\over {{K_R}}} = {{M{R^2}} \\over {{I_{CM}}}}$$<br><br>I<sub>CM</sub> is maximum for ring.<br><br>$$\\Rightarrow$$ v is least for ring.",
+      "solution": "$$K_T \\over K_R = MR^2 \\over I_CM$$<br><br>I<sub>CM</sub> is maximum for ring.<br><br>$$\\Rightarrow$$ v is least for ring.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -966,58 +546,58 @@
     {
       "question": "<p>One end of a massless spring of spring constant k and natural length l<sub>0</sub> is fixed while the other end is connected to a small object of mass m lying on a frictionless table. The spring remains horizontal on the table. If the object is made to rotate at an angular velocity $$\\omega$$ about an axis passing through fixed end, then the elongation of the spring will be :</p>",
       "options": {
-        "A": "$${{k - m{\\omega ^2}{l_0}} \\over {m{\\omega ^2}}}$$",
-        "B": "$${{m{\\omega ^2}{l_0}} \\over {k + m{\\omega ^2}}}$$",
-        "C": "$${{m{\\omega ^2}{l_0}} \\over {k - m{\\omega ^2}}}$$",
-        "D": "$${{k + m{\\omega ^2}{l_0}} \\over {m{\\omega ^2}}}$$"
+        "A": "$$k - m\\omega ^2l_0 \\over m\\omega ^2$$",
+        "B": "$$m\\omega ^2l_0 \\over k + m\\omega ^2$$",
+        "C": "$$m\\omega ^2l_0 \\over k - m\\omega ^2$$",
+        "D": "$$k + m\\omega ^2l_0 \\over m\\omega ^2$$"
       },
       "answer": "C",
-      "solution": "<p>$$m{\\omega ^2}({l_0} + x) = kx$$</p>\n<p>$$ \\Rightarrow m{\\omega ^2}{l_0} = (k - m{\\omega ^2}) \\times x$$</p>\n<p>$$ \\Rightarrow x = {{m{\\omega ^2}{l_0}} \\over {(k - m{\\omega ^2})}}$$</p>",
+      "solution": "<p>$$m\\omega ^2(l_0 + x) = kx$$</p> <p>$$ \\Rightarrow m\\omega ^2l_0 = (k - m\\omega ^2) \\times x$$</p> <p>$$ \\Rightarrow x = m\\omega ^2l_0 \\over (k - m\\omega ^2)$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "The moment of inertia of a uniform cylinder of length $$l$$ and radius R about its perpendicular bisector is $$I$$.\nWhat is the ratio $${l \\over R}$$ such that the moment of inertia is minimum?",
+      "question": "The moment of inertia of a uniform cylinder of length $$l$$ and radius R about its perpendicular bisector is $$I$$. What is the ratio $$l \\over R$$ such that the moment of inertia is minimum?",
       "options": {
-        "A": "$${3 \\over {\\sqrt 2 }}$$ ",
-        "B": "$$\\sqrt {{3 \\over 2}} $$ ",
-        "C": "$${{\\sqrt 3 } \\over 2}$$",
+        "A": "$$3 \\over \\sqrt 2 $$",
+        "B": "$$\\sqrt 3 \\over 2 $$",
+        "C": "$$\\sqrt 3 \\over 2$$",
         "D": "1"
       },
       "answer": "B",
-      "solution": "The volume of the cylinder V = $$\\pi {R^2}l$$\n<br><br>$$\\therefore$$ $${R^2} = {V \\over {\\pi l}}$$\n<br><br>We know, moment of inertia of a uniform cylinder of length $$l$$\n and radius R about its perpendicular bisector is,\n<br><br>$$I = {{M{l^2}} \\over {12}} + {{M{R^2}} \\over 4}$$\n<br><br>[ Putting $${R^2} = {V \\over {\\pi l}}$$ in this equation]\n<br><br>$$ \\Rightarrow $$ $$I = {{M{l^2}} \\over {12}} + {{MV} \\over {4\\pi l}}$$\n<br><br>Here $$I$$ is a function of $$l$$ as M and V are constant.\n<br><br>$$I$$ will be maximum or minimum when $${{{dI} \\over {dl}}}$$ = 0.\n<br><br>$$ \\Rightarrow {{Ml} \\over 6} - {{MV} \\over {4\\pi {l^2}}} = 0$$\n<br><br>$$ \\Rightarrow {{Ml} \\over 6} = {{MV} \\over {4\\pi {l^2}}}$$\n<br><br>$$ \\Rightarrow {l \\over 6} = {{\\pi {R^2}l} \\over {4\\pi {l^2}}}$$  [ as $${V = \\pi {R^2}l}$$ ]\n<br><br>$$ \\Rightarrow {{{R^2}} \\over {{l^2}}} = {4 \\over 6}$$\n<br><br>$$ \\Rightarrow {l \\over R} = \\sqrt {{3 \\over 2}} $$",
+      "solution": "The volume of the cylinder V = $$\\pi R^2l$$ <br><br>$$\\therefore$$ $$R^2 = V \\over \\pi l$$ <br><br>We know, moment of inertia of a uniform cylinder of length $$l$$ and radius R about its perpendicular bisector is, <br><br>$$I = Ml^2 \\over 12 + MR^2 \\over 4$$ <br><br>[ Putting $$R^2 = V \\over \\pi l$$ in this equation] <br><br>$$ \\Rightarrow $$ $$I = Ml^2 \\over 12 + MV \\over 4\\pi l$$ <br><br>Here $$I$$ is a function of $$l$$ as M and V are constant. <br><br>$$I$$ will be maximum or minimum when $$dI \\over dl$$ = 0. <br><br>$$ \\Rightarrow Ml \\over 6 - MV \\over 4\\pi l^2 = 0$$ <br><br>$$ \\Rightarrow Ml \\over 6 = MV \\over 4\\pi l^2$$ <br><br>$$ \\Rightarrow l \\over 6 = \\pi R^2l \\over 4\\pi l^2$$ [ as $$V = \\pi R^2l$$ ] <br><br>$$ \\Rightarrow R^2 \\over l^2 = 4 \\over 6$$ <br><br>$$ \\Rightarrow l \\over R = \\sqrt 3 \\over 2 $$",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A thin disc of mass M and radius R has mass\nper unit area $$\\sigma $$(r) = kr<sup>2</sup> where r is the distance\nfrom its centre. Its moment of inertia about an\naxis going through its centre of mass and\nperpendicular to its plane is :",
+      "question": "A thin disc of mass M and radius R has mass per unit area $$\\sigma $$(r) = kr<sup>2</sup> where r is the distance from its centre. Its moment of inertia about an axis going through its centre of mass and perpendicular to its plane is :",
       "options": {
-        "A": "$${{M{R^2}} \\over 3}$$",
-        "B": "$${{M{R^2}} \\over 6}$$",
-        "C": "$${{2M{R^2}} \\over 3}$$",
-        "D": "$${{M{R^2}} \\over 2}$$"
+        "A": "$$MR^2 \\over 3$$",
+        "B": "$$MR^2 \\over 6$$",
+        "C": "$$2MR^2 \\over 3$$",
+        "D": "$$MR^2 \\over 2$$"
       },
       "answer": "C",
-      "solution": "$${I_{Disc}} = \\int\\limits_0^R {\\left( {dm} \\right)} {r^2} \\Rightarrow {I_{Disc}} = \\int\\limits_0^R {\\left( {\\sigma 2\\pi rdr} \\right)} {r^2}$$<br><br>\n$${I_{Disc}} = \\int\\limits_0^R {\\left( {k{r^2}2\\pi rdr} \\right)} {r^2}$$&nbsp;&nbsp;&nbsp; Mass of Disc<br><br>\n$${I_{Disc}} = 2\\pi k\\int\\limits_0^R {{r^2}dr} \\,\\,\\,\\,M = \\int\\limits_0^R {2\\pi rdr\\,k{r^2}} $$<br><br>\n\n$${I_{Disc}} = 2\\pi k\\left( {{{{r^6}} \\over 6}} \\right)_0^R\\,\\,\\,\\,M = 2\\pi k\\int\\limits_0^R {{r^3}dr} $$<br><br>\n$${I_{Disc}} = 2\\pi k{{{R^6}} \\over 6} \\,\\,\\,\\,M = 2\\pi k\\left. {{{{r^4}} \\over 4}} \\right|_0^R$$<br><br>\n$${I_{Disc}} = {{\\pi k{R^6}} \\over 3} = \\left( {{{\\pi k{R^4}} \\over 2}} \\right){{{R^2}2} \\over 3}\\,\\,\\,M = 2\\pi k\\left. {{{{r^4}} \\over 4}} \\right|_0^R$$<br><br>\n$${I_{Disc}} = {{M2{R^2}} \\over 3};{I_{Disc}} = {2 \\over 3}M{R^2}$$",
+      "solution": "$$I_Disc = \\int\\limits_0^R \\left( dm \\right) r^2 \\Rightarrow I_Disc = \\int\\limits_0^R \\left( \\sigma 2\\pi rdr \\right) r^2$$<br><br> $$I_Disc = \\int\\limits_0^R \\left( kr^22\\pi rdr \\right) r^2$$ Mass of Disc<br><br> $$I_Disc = 2\\pi k\\int\\limits_0^R r^2dr \\,\\,\\,\\,M = \\int\\limits_0^R 2\\pi rdr\\,kr^2 $$<br><br> $$I_Disc = 2\\pi k\\left( r^6 \\over 6 \\right)_0^R\\,\\,\\,\\,M = 2\\pi k\\int\\limits_0^R r^3dr $$<br><br> $$I_Disc = 2\\pi kR^6 \\over 6 \\,\\,\\,\\,M = 2\\pi k\\left. r^4 \\over 4 \\right|_0^R$$<br><br> $$I_Disc = \\pi kR^6 \\over 3 = \\left( \\pi kR^4 \\over 2 \\right)R^22 \\over 3\\,\\,\\,M = 2\\pi k\\left. r^4 \\over 4 \\right|_0^R$$<br><br> $$I_Disc = M2R^2 \\over 3;I_Disc = 2 \\over 3MR^2$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "A thin circular plate of mass M and radius R\nhas its density varying as $$\\rho $$(r) = $$\\rho $$<sub>0</sub>r with $$\\rho $$<sub>0</sub> as\nconstant and r is the distance from its centre.\nThe moment of Inertia of the circular plate about\nan axis perpendicular to the plate and passing\nthrough its edge is I = aMR<sup>2</sup>. The value of the\ncoefficient a is :",
+      "question": "A thin circular plate of mass M and radius R has its density varying as $$\\rho $$(r) = $$\\rho $$<sub>0</sub>r with $$\\rho $$<sub>0</sub> as constant and r is the distance from its centre. The moment of Inertia of the circular plate about an axis perpendicular to the plate and passing through its edge is I = aMR<sup>2</sup>. The value of the coefficient a is :",
       "options": {
-        "A": "$${1 \\over 2}$$",
-        "B": "$${3 \\over 2}$$",
-        "C": "$${8 \\over 5}$$",
-        "D": "$${3 \\over 5}$$"
+        "A": "$$1 \\over 2$$",
+        "B": "$$3 \\over 2$$",
+        "C": "$$8 \\over 5$$",
+        "D": "$$3 \\over 5$$"
       },
       "answer": "C",
-      "solution": "$$M = \\int\\limits_0^R {{\\rho _0}r \\times 2\\pi rdr = {{2\\pi {\\rho _0}{R^3}} \\over 3}} $$<br><br>\n$${I_C} = \\int\\limits_0^R {{\\rho _0}r \\times 2\\pi rdr \\times {r^2} = {{2\\pi {\\rho _0}{R^5}} \\over 3}} $$<br><br>\n$$ \\therefore $$ $$I = {I_C} + M{R^2} = 2\\pi {\\rho _0}{R^5}\\left( {{1 \\over 3} + {1 \\over 5}} \\right)$$<br><br>\n$$ \\Rightarrow $$$${{16\\pi {\\rho _0}{R^5}} \\over {15}} = {8 \\over 5}\\left[ {{2 \\over 3}\\pi {\\rho _0}{R^3}} \\right]{R^2} = {8 \\over 5}M{R^2}$$",
+      "solution": "$$M = \\int\\limits_0^R \\rho _0r \\times 2\\pi rdr = 2\\pi \\rho _0R^3 \\over 3 $$<br><br> $$I_C = \\int\\limits_0^R \\rho _0r \\times 2\\pi rdr \\times r^2 = 2\\pi \\rho _0R^5 \\over 3 $$<br><br> $$ \\therefore $$ $$I = I_C + MR^2 = 2\\pi \\rho _0R^5\\left( 1 \\over 3 + 1 \\over 5 \\right)$$<br><br> $$ \\Rightarrow $$$$16\\pi \\rho _0R^5 \\over 15 = 8 \\over 5\\left[ 2 \\over 3\\pi \\rho _0R^3 \\right]R^2 = 8 \\over 5MR^2$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1032,29 +612,29 @@
         "D": "18 cm"
       },
       "answer": "A",
-      "solution": "Consider an element of radius x and thickness dx\n<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266244/exam_images/za03hwqutc2rzcpd2itu.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Rotational Motion Question 153 English Explanation\">\n<br><br>Mass of element, dm = $$\\sigma 2\\pi x\\left( {dx} \\right)$$\n<br><br>Here, $$\\sigma $$ = mass per unit area = $${m \\over {\\pi \\left( {{R^2} - {r^2}} \\right)}}$$\n<br><br>Moment of inertia of element, dI = (dm)x<sup>2</sup>\n<br><br>$$ \\Rightarrow $$ I = $$\\sigma 2\\pi \\int\\limits_r^R {{x^3}dx} $$\n<br><br>= $$\\sigma 2\\pi \\left( {{{{R^4} - {r^4}} \\over 4}} \\right)$$\n<br><br>= $${m \\over {\\pi \\left( {{R^2} - {r^2}} \\right)}}{\\pi  \\over 2}\\left( {{R^4} - {r^4}} \\right)$$\n<br><br>= $${m \\over 2}\\left( {{R^2} + {r^2}} \\right)$$ .....(i)\n<br><br>Moment of inertia of thin cylinder of same mass,\n<br><br>I = m$$r_0^2$$  ......(ii)\n<br><br>$$ \\Rightarrow $$ m$$r_0^2$$ = $${m \\over 2}\\left( {{R^2} + {r^2}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $$r_0^2$$ = 250\n<br><br>$$ \\Rightarrow $$ r<sub>0</sub> $$ \\simeq $$ 16 cm",
+      "solution": "Consider an element of radius x and thickness dx <img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266244/exam_images/za03hwqutc2rzcpd2itu.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 12th January Morning Slot Physics - Rotational Motion Question 153 English Explanation\"> <br><br>Mass of element, dm = $$\\sigma 2\\pi x\\left( dx \\right)$$ <br><br>Here, $$\\sigma $$ = mass per unit area = $$m \\over \\pi \\left( R^2 - r^2 \\right)$$ <br><br>Moment of inertia of element, dI = (dm)x<sup>2</sup> <br><br>$$ \\Rightarrow $$ I = $$\\sigma 2\\pi \\int\\limits_r^R x^3dx $$ <br><br>= $$\\sigma 2\\pi \\left( R^4 - r^4 \\over 4 \\right)$$ <br><br>= $$m \\over \\pi \\left( R^2 - r^2 \\right)\\pi \\over 2\\left( R^4 - r^4 \\right)$$ <br><br>= $$m \\over 2\\left( R^2 + r^2 \\right)$$ .....(i) <br><br>Moment of inertia of thin cylinder of same mass, <br><br>I = m$$r_0^2$$ ......(ii) <br><br>$$ \\Rightarrow $$ m$$r_0^2$$ = $$m \\over 2\\left( R^2 + r^2 \\right)$$ <br><br>$$ \\Rightarrow $$ $$r_0^2$$ = 250 <br><br>$$ \\Rightarrow $$ r<sub>0</sub> $$ \\simeq $$ 16 cm",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "The linear mass density of a thin rod AB of length L varies from A to B as\n<br/>$$\\lambda \\left( x \\right) = {\\lambda _0}\\left( {1 + {x \\over L}} \\right)$$,  where\nx is the distance from A. If M is the mass of the rod then its moment of inertia about an axis passing\nthrough A and perpendicular to the rod is :",
+      "question": "The linear mass density of a thin rod AB of length L varies from A to B as <br/>$$\\lambda \\left( x \\right) = \\lambda _0\\left( 1 + x \\over L \\right)$$, where x is the distance from A. If M is the mass of the rod then its moment of inertia about an axis passing through A and perpendicular to the rod is :",
       "options": {
-        "A": "$${2 \\over 5}M{L^2}$$",
-        "B": "$${5 \\over {12}}M{L^2}$$",
-        "C": "$${7 \\over {18}}M{L^2}$$",
-        "D": "$${3 \\over 7}M{L^2}$$"
+        "A": "$$2 \\over 5ML^2$$",
+        "B": "$$5 \\over 12ML^2$$",
+        "C": "$$7 \\over 18ML^2$$",
+        "D": "$$3 \\over 7ML^2$$"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266741/exam_images/obgkte28otijc0dlh9qi.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Physics - Rotational Motion Question 105 English Explanation\">\n<br><br>dm = $$\\lambda $$dx\n<br><br>= $${\\lambda _0}\\left( {1 + {x \\over L}} \\right)$$dx\n<br><br>Integrating both side, we get\n<br><br>$$\\int\\limits_0^M {dm}  = \\int\\limits_0^L {{\\lambda _0}\\left( {1 + {x \\over L}} \\right)} dx$$\n<br><br>$$ \\Rightarrow $$ M = $${\\lambda _0}L + {{{\\lambda _0}{L^2}} \\over {2L}}$$ = $${{3{\\lambda _0}L} \\over 2}$$\n<br><br>$$ \\Rightarrow $$ $${\\lambda _0} = {{2M} \\over {3L}}$$ .....(1)\n<br><br>Moment of inertia of small part dx is\n<br><br>dI = dmx<sup>2</sup>\n<br><br>Integrating both side, we get\n<br><br>$$\\int\\limits_0^I {dI}  = \\int\\limits_0^L {dm{x^2}} $$\n<br><br>$$ \\Rightarrow $$ I = $$\\int\\limits_0^L {{\\lambda _0}\\left( {1 + {x \\over L}} \\right)} dx\\,{x^2}$$\n<br><br>= $${\\lambda _0}\\int\\limits_0^L {\\left( {{x^2} + {{{x^3}} \\over L}} \\right)} dx$$\n<br><br>= $${\\lambda _0}\\left[ {{{{L^3}} \\over 3} + {{{L^3}} \\over 4}} \\right]$$\n<br><br>= $${{7{L^3}{\\lambda _0}} \\over {12}}$$\n<br><br>Here by putting the value of $$\\lambda $$<sub>0</sub> form (1)\n<br><br>I = $${{7{L^3}} \\over {12}}\\left( {{{2M} \\over {3L}}} \\right)$$ = $${7 \\over {18}}M{L^2}$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266741/exam_images/obgkte28otijc0dlh9qi.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Evening Slot Physics - Rotational Motion Question 105 English Explanation\"> <br><br>dm = $$\\lambda $$dx <br><br>= $$\\lambda _0\\left( 1 + x \\over L \\right)$$dx <br><br>Integrating both side, we get <br><br>$$\\int\\limits_0^M dm = \\int\\limits_0^L \\lambda _0\\left( 1 + x \\over L \\right) dx$$ <br><br>$$ \\Rightarrow $$ M = $$\\lambda _0L + \\lambda _0L^2 \\over 2L$$ = $$3\\lambda _0L \\over 2$$ <br><br>$$ \\Rightarrow $$ $$\\lambda _0 = 2M \\over 3L$$ .....(1) <br><br>Moment of inertia of small part dx is <br><br>dI = dmx<sup>2</sup> <br><br>Integrating both side, we get <br><br>$$\\int\\limits_0^I dI = \\int\\limits_0^L dmx^2 $$ <br><br>$$ \\Rightarrow $$ I = $$\\int\\limits_0^L \\lambda _0\\left( 1 + x \\over L \\right) dx\\,x^2$$ <br><br>= $$\\lambda _0\\int\\limits_0^L \\left( x^2 + x^3 \\over L \\right) dx$$ <br><br>= $$\\lambda _0\\left[ L^3 \\over 3 + L^3 \\over 4 \\right]$$ <br><br>= $$7L^3\\lambda _0 \\over 12$$ <br><br>Here by putting the value of $$\\lambda $$<sub>0</sub> form (1) <br><br>I = $$7L^3 \\over 12\\left( 2M \\over 3L \\right)$$ = $$7 \\over 18ML^2$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Consider two uniform discs of the same thickness and different radii R<sub>1</sub>\n = R and<br/> R<sub>2</sub>\n = $$\\alpha $$R made of\nthe same material. If the ratio of their moments of inertia I<sub>1</sub>\n and I<sub>2</sub>\n, respectively, about their axes\nis I<sub>1</sub>\n : I<sub>2</sub>\n = 1 : 16 then the value of $$\\alpha $$ is :",
+      "question": "Consider two uniform discs of the same thickness and different radii R<sub>1</sub> = R and<br/> R<sub>2</sub> = $$\\alpha $$R made of the same material. If the ratio of their moments of inertia I<sub>1</sub> and I<sub>2</sub> , respectively, about their axes is I<sub>1</sub> : I<sub>2</sub> = 1 : 16 then the value of $$\\alpha $$ is :",
       "options": {
         "A": "$$\\sqrt 2 $$",
         "B": "2",
@@ -1062,52 +642,52 @@
         "D": "4"
       },
       "answer": "B",
-      "solution": "Moment of inertia of disc, $$I = {{M{R^2}} \\over 2} = {{\\left[ {p\\left( {\\pi {R^2}} \\right)t} \\right]{R^2}} \\over 2}$$<br><br>$$I = K{R^4}$$<br><br>$${{{I_1}} \\over {{I_2}}} = {\\left( {{{{R_1}} \\over {{R_2}}}} \\right)^4}$$<br><br>$${1 \\over {16}} = {\\left( {{R \\over {\\alpha R}}} \\right)^4} \\Rightarrow \\alpha  = {\\left( {16} \\right)^{{1 \\over 4}}} = 2$$",
+      "solution": "Moment of inertia of disc, $$I = MR^2 \\over 2 = \\left[ p\\left( \\pi R^2 \\right)t \\right]R^2 \\over 2$$<br><br>$$I = KR^4$$<br><br>$$I_1 \\over I_2 = \\left( R_1 \\over R_2 \\right)^4$$<br><br>$$1 \\over 16 = \\left( R \\over \\alpha R \\right)^4 \\Rightarrow \\alpha = \\left( 16 \\right)^1 \\over 4 = 2$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Moment of inertia of a cylinder of mass M,\nlength L and radius R about an axis passing\nthrough its centre and perpendicular to the\naxis of the cylinder is<br/> I = $$M\\left( {{{{R^2}} \\over 4} + {{{L^2}} \\over {12}}} \\right)$$. If such a\ncylinder is to be made for a given mass of a\nmaterial, the ratio $${L \\over R}$$ for it to have minimum\npossible I is",
+      "question": "Moment of inertia of a cylinder of mass M, length L and radius R about an axis passing through its centre and perpendicular to the axis of the cylinder is<br/> I = $$M\\left( R^2 \\over 4 + L^2 \\over 12 \\right)$$. If such a cylinder is to be made for a given mass of a material, the ratio $$L \\over R$$ for it to have minimum possible I is",
       "options": {
-        "A": "$${3 \\over 2}$$",
-        "B": "$$\\sqrt {{3 \\over 2}} $$",
-        "C": "$$\\sqrt {{2 \\over 3}} $$",
-        "D": "$${{2 \\over 3}}$$"
+        "A": "$$3 \\over 2$$",
+        "B": "$$\\sqrt 3 \\over 2 $$",
+        "C": "$$\\sqrt 2 \\over 3 $$",
+        "D": "$$2 \\over 3$$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264751/exam_images/j8fmsexgmmbxo4uhbaf9.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Physics - Rotational Motion Question 119 English Explanation\">\n<br><br>Given I = $$M\\left( {{{{R^2}} \\over 4} + {{{L^2}} \\over {12}}} \\right)$$\n<br><br>M = $$\\rho $$.V = $$\\rho $$$$\\pi $$R<sup>2</sup>L\n<br><br>$$ \\Rightarrow $$ R<sup>2</sup> = $${M \\over {\\rho \\pi L}}$$\n<br><br>$$ \\therefore $$ I = $$M\\left( {{M \\over {4\\rho \\pi L}} + {{{L^2}} \\over {12}}} \\right)$$\n<br><br>$$ \\Rightarrow $$ $${{dI} \\over {dL}}$$ = $$M\\left( {{M \\over {4\\rho \\pi }}\\left( { - {1 \\over {{L^2}}}} \\right) - {{2L} \\over {12}}} \\right)$$\n<br><br>For minimum I, $${{dI} \\over {dL}} = 0$$\n<br><br>$$ \\therefore $$ $$M\\left( {{M \\over {4\\rho \\pi }}\\left( { - {1 \\over {{L^2}}}} \\right) - {{2L} \\over {12}}} \\right)$$ = 0\n<br><br>$$ \\Rightarrow $$ $${{{M^2}} \\over {4\\rho \\pi {L^2}}} = {{2LM} \\over {12}}$$\n<br><br>$$ \\Rightarrow $$ $${M \\over {4\\rho \\pi {L^2}}} = {L \\over 6}$$\n<br><br>$$ \\Rightarrow $$ $${{\\rho \\pi {R^2}L} \\over {4\\rho \\pi {L^2}}} = {L \\over 6}$$\n<br><br>$$ \\Rightarrow $$ $${{{R^2}} \\over {{L^2}}} = {2 \\over 3}$$\n<br><br>$$ \\Rightarrow $$ $${R \\over L} = \\sqrt {{2 \\over 3}} $$\n<br><br>$$ \\Rightarrow $$ $${L \\over R} = \\sqrt {{3 \\over 2}} $$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264751/exam_images/j8fmsexgmmbxo4uhbaf9.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 3rd September Morning Slot Physics - Rotational Motion Question 119 English Explanation\"> <br><br>Given I = $$M\\left( R^2 \\over 4 + L^2 \\over 12 \\right)$$ <br><br>M = $$\\rho $$.V = $$\\rho $$$$\\pi $$R<sup>2</sup>L <br><br>$$ \\Rightarrow $$ R<sup>2</sup> = $$M \\over \\rho \\pi L$$ <br><br>$$ \\therefore $$ I = $$M\\left( M \\over 4\\rho \\pi L + L^2 \\over 12 \\right)$$ <br><br>$$ \\Rightarrow $$ $$dI \\over dL$$ = $$M\\left( M \\over 4\\rho \\pi \\left( - 1 \\over L^2 \\right) - 2L \\over 12 \\right)$$ <br><br>For minimum I, $$dI \\over dL = 0$$ <br><br>$$ \\therefore $$ $$M\\left( M \\over 4\\rho \\pi \\left( - 1 \\over L^2 \\right) - 2L \\over 12 \\right)$$ = 0 <br><br>$$ \\Rightarrow $$ $$M^2 \\over 4\\rho \\pi L^2 = 2LM \\over 12$$ <br><br>$$ \\Rightarrow $$ $$M \\over 4\\rho \\pi L^2 = L \\over 6$$ <br><br>$$ \\Rightarrow $$ $$\\rho \\pi R^2L \\over 4\\rho \\pi L^2 = L \\over 6$$ <br><br>$$ \\Rightarrow $$ $$R^2 \\over L^2 = 2 \\over 3$$ <br><br>$$ \\Rightarrow $$ $$R \\over L = \\sqrt 2 \\over 3 $$ <br><br>$$ \\Rightarrow $$ $$L \\over R = \\sqrt 3 \\over 2 $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "The radius of gyration of a uniform rod of length $$l$$, about an axis passing through a\npoint $${l \\over 4}$$ away from the centre of the rod,\nand perpendicular to it, is :",
+      "question": "The radius of gyration of a uniform rod of length $$l$$, about an axis passing through a point $$l \\over 4$$ away from the centre of the rod, and perpendicular to it, is :",
       "options": {
-        "A": "$${1 \\over 8}l$$",
-        "B": "$${1 \\over 4}l$$",
-        "C": "$$\\sqrt {{7 \\over {48}}} l$$",
-        "D": "$$\\sqrt {{3 \\over 8}} l$$"
+        "A": "$$1 \\over 8l$$",
+        "B": "$$1 \\over 4l$$",
+        "C": "$$\\sqrt 7 \\over 48 l$$",
+        "D": "$$\\sqrt 3 \\over 8 l$$"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264632/exam_images/du89ilosutgelad9wfu6.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 7th January Morning Slot Physics - Rotational Motion Question 132 English Explanation\">\n<br><br>I = $${{M{l^2}} \\over {12}} + M{\\left( {{l \\over 4}} \\right)^2}$$\n<br><br>$$ \\Rightarrow $$ I = $${{7M{l^2}} \\over {48}}$$\n<br><br>$$ \\Rightarrow $$ MK<sup>2</sup> = $${{7M{l^2}} \\over {48}}$$\n<br><br>$$ \\Rightarrow $$ K = $$\\sqrt {{7 \\over {48}}} l$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264632/exam_images/du89ilosutgelad9wfu6.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 7th January Morning Slot Physics - Rotational Motion Question 132 English Explanation\"> <br><br>I = $$Ml^2 \\over 12 + M\\left( l \\over 4 \\right)^2$$ <br><br>$$ \\Rightarrow $$ I = $$7Ml^2 \\over 48$$ <br><br>$$ \\Rightarrow $$ MK<sup>2</sup> = $$7Ml^2 \\over 48$$ <br><br>$$ \\Rightarrow $$ K = $$\\sqrt 7 \\over 48 l$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Mass per unit area of a circular disc of radius $$a$$ depends on the distance r from its centre as $$\\sigma \\left( r \\right)$$ = A + Br\n. The moment of inertia of the disc about the axis, perpendicular to the plane and\nassing through its centre is:",
+      "question": "Mass per unit area of a circular disc of radius $$a$$ depends on the distance r from its centre as $$\\sigma \\left( r \\right)$$ = A + Br . The moment of inertia of the disc about the axis, perpendicular to the plane and assing through its centre is:",
       "options": {
-        "A": "$$2\\pi {a^4}\\left( {{A \\over 4} + {{aB} \\over 5}} \\right)$$",
-        "B": "$$\\pi {a^4}\\left( {{A \\over 4} + {{aB} \\over 5}} \\right)$$",
-        "C": "$$2\\pi {a^4}\\left( {{{aA} \\over 4} + {B \\over 5}} \\right)$$",
-        "D": "$$2\\pi {a^4}\\left( {{A \\over 4} + {B \\over 5}} \\right)$$"
+        "A": "$$2\\pi a^4\\left( A \\over 4 + aB \\over 5 \\right)$$",
+        "B": "$$\\pi a^4\\left( A \\over 4 + aB \\over 5 \\right)$$",
+        "C": "$$2\\pi a^4\\left( aA \\over 4 + B \\over 5 \\right)$$",
+        "D": "$$2\\pi a^4\\left( A \\over 4 + B \\over 5 \\right)$$"
       },
       "answer": "A",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264879/exam_images/szal3sqxcs1kkhxpytk7.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 7th January Evening Slot Physics - Rotational Motion Question 130 English Explanation\">\n<br><br>dI = dm(r<sup>2</sup>)\n<br><br>and dm = $$\\sigma $$2$$\\pi $$rdr\n<br><br>$$ \\therefore $$ dI = $$\\sigma $$2$$\\pi $$rdr(r<sup>2</sup>) = $$\\sigma $$2$$\\pi $$r<sup>3</sup>dr\n<br><br>Given $$\\sigma \\left( r \\right)$$ = A + Br\n<br><br>$$ \\therefore $$ dI = 2$$\\pi $$(A + Br)r<sup>3</sup>dr\n<br><br>$$\\int {dI = \\int\\limits_0^a {2\\pi {r^3}\\left( {A + Br} \\right)dr} } $$\n<br><br>$$ \\Rightarrow $$ I = $$2\\pi \\left[ {{{A{r^4}} \\over 4} + {{B{r^5}} \\over 5}} \\right]$$\n<br><br>= $$2\\pi {a^4}\\left( {{A \\over 4} + {{aB} \\over 5}} \\right)$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264879/exam_images/szal3sqxcs1kkhxpytk7.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 7th January Evening Slot Physics - Rotational Motion Question 130 English Explanation\"> <br><br>dI = dm(r<sup>2</sup>) <br><br>and dm = $$\\sigma $$2$$\\pi $$rdr <br><br>$$ \\therefore $$ dI = $$\\sigma $$2$$\\pi $$rdr(r<sup>2</sup>) = $$\\sigma $$2$$\\pi $$r<sup>3</sup>dr <br><br>Given $$\\sigma \\left( r \\right)$$ = A + Br <br><br>$$ \\therefore $$ dI = 2$$\\pi $$(A + Br)r<sup>3</sup>dr <br><br>$$\\int dI = \\int\\limits_0^a 2\\pi r^3\\left( A + Br \\right)dr $$ <br><br>$$ \\Rightarrow $$ I = $$2\\pi \\left[ Ar^4 \\over 4 + Br^5 \\over 5 \\right]$$ <br><br>= $$2\\pi a^4\\left( A \\over 4 + aB \\over 5 \\right)$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1116,13 +696,13 @@
     {
       "question": "Moment of inertia (M. I.) of four bodies, having same mass and radius, are reported as; <br/><br/>I<sub>1</sub> = M.I. of thin circular ring about its diameter,<br/><br/>I<sub>2</sub> = M.I. of circular disc about an axis perpendicular to disc and going through the centre,<br/><br/>I<sub>3</sub> = M.I. of solid cylinder about its axis and<br/><br/>I<sub>4</sub> = M.I. of solid sphere about its diameter.<br/><br/>Then :",
       "options": {
-        "A": "I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> &gt; I<sub>4</sub>",
-        "B": "I<sub>1</sub> + I<sub>3</sub> &lt; I<sub>2</sub> + I<sub>4</sub>",
-        "C": "I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> &lt; I<sub>4</sub>",
-        "D": "I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub> + $${5 \\over 2}$$ I<sub>4</sub>"
+        "A": "I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> > I<sub>4</sub>",
+        "B": "I<sub>1</sub> + I<sub>3</sub> < I<sub>2</sub> + I<sub>4</sub>",
+        "C": "I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> < I<sub>4</sub>",
+        "D": "I<sub>1</sub> + I<sub>2</sub> = I<sub>3</sub> + $$5 \\over 2$$ I<sub>4</sub>"
       },
       "answer": "A",
-      "solution": "Let M and R be the mass and radius of four bodies. Then, as per\nquestion, their moment of inertia are\n<br/><br/>I<sub>1</sub> = $${{M{R^2}} \\over 2}$$,\n<br/><br/>I<sub>2</sub> = $${{M{R^2}} \\over 2}$$,\n<br/><br/>I<sub>3</sub> = $${{M{R^2}} \\over 2}$$,\n<br/><br/>I<sub>4</sub> = $${2 \\over 5}M{R^2}$$\n<br/><br/>$$ \\therefore $$ I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> &gt; I<sub>4</sub>",
+      "solution": "Let M and R be the mass and radius of four bodies. Then, as per question, their moment of inertia are <br/><br/>I<sub>1</sub> = $$MR^2 \\over 2$$, <br/><br/>I<sub>2</sub> = $$MR^2 \\over 2$$, <br/><br/>I<sub>3</sub> = $$MR^2 \\over 2$$, <br/><br/>I<sub>4</sub> = $$2 \\over 5MR^2$$ <br/><br/>$$ \\therefore $$ I<sub>1</sub> = I<sub>2</sub> = I<sub>3</sub> > I<sub>4</sub>",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1131,13 +711,13 @@
     {
       "question": "Consider a uniform wire of mass M and length L. It is bent into a semicircle. Its moment of inertia about a line perpendicular to the plane of the wire passing through the center is :",
       "options": {
-        "A": "$${1 \\over 4}{{M{L^2}} \\over {{\\pi ^2}}}$$",
-        "B": "$${1 \\over 2}{{M{L^2}} \\over {{\\pi ^2}}}$$",
-        "C": "$${2 \\over 5}{{M{L^2}} \\over {{\\pi ^2}}}$$",
-        "D": "$${{M{L^2}} \\over {{\\pi ^2}}}$$"
+        "A": "$$1 \\over 4ML^2 \\over \\pi ^2$$",
+        "B": "$$1 \\over 2ML^2 \\over \\pi ^2$$",
+        "C": "$$2 \\over 5ML^2 \\over \\pi ^2$$",
+        "D": "$$ML^2 \\over \\pi ^2$$"
       },
       "answer": "D",
-      "solution": "<picture><source media=\"(max-width: 1577px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264308/exam_images/pqxjbrdq84tqsbtksawk.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267293/exam_images/uweciyztvzukvpi1emuf.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266050/exam_images/rljp2t1hfkghfq6xy3g7.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264456/exam_images/q5y50xiuwqqaky48djpn.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263494/exam_images/rpfvew6e7k9q3hd7bgwv.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265473/exam_images/maxftz1nt7hagiz2cfsn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267594/exam_images/xbcgjbglkwhbtjz9cmbh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Rotational Motion Question 88 English Explanation\"></picture> <br><br>$$ \\therefore $$ From figure,<br><br>L = $$\\pi$$R<br><br>$$ \\Rightarrow $$ R = $${L \\over \\pi }$$<br><br>Moment of inertia about center O,<br><br>I = MR<sup>2</sup> = M$${\\left( {{L \\over \\pi }} \\right)^2}$$ = $${{{M{L^2}} \\over {{\\pi ^2}}}}$$",
+      "solution": "<picture><source media=\"(max-width: 1577px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264308/exam_images/pqxjbrdq84tqsbtksawk.webp\"><source media=\"(max-width: 320px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267293/exam_images/uweciyztvzukvpi1emuf.webp\"><source media=\"(max-width: 500px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266050/exam_images/rljp2t1hfkghfq6xy3g7.webp\"><source media=\"(max-width: 680px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264456/exam_images/q5y50xiuwqqaky48djpn.webp\"><source media=\"(max-width: 860px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263494/exam_images/rpfvew6e7k9q3hd7bgwv.webp\"><source media=\"(max-width: 1040px)\" srcset=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265473/exam_images/maxftz1nt7hagiz2cfsn.webp\"><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734267594/exam_images/xbcgjbglkwhbtjz9cmbh.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Evening Shift Physics - Rotational Motion Question 88 English Explanation\"></picture> <br><br>$$ \\therefore $$ From figure,<br><br>L = $$\\pi$$R<br><br>$$ \\Rightarrow $$ R = $$L \\over \\pi $$<br><br>Moment of inertia about center O,<br><br>I = MR<sup>2</sup> = M$$\\left( L \\over \\pi \\right)^2$$ = $$ML^2 \\over \\pi ^2$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1152,14 +732,14 @@
         "D": "Both A and R are correct and R is the correct explanation of A."
       },
       "answer": "B",
-      "solution": "I<sub>z</sub> = I<sub>x</sub> + I<sub>y</sub> (using perpendicular axis theorem) &amp; I = mk<sup>2</sup> (K : radius of gyration)<br><br>so, mK<sub>z</sub><sup>2</sup> = mK<sub>x</sub><sup>2</sup> + mK<sub>y</sub><sup>2</sup><br><br>K<sub>z</sub><sup>2</sup> = K<sub>x</sub><sup>2</sup> + K<sub>y</sub><sup>2</sup><br><br>so radius of gyration about axes x, y &amp; z won't be same hence assertion A is not correct reason R is correct statement (property of a rigid body)",
+      "solution": "I<sub>z</sub> = I<sub>x</sub> + I<sub>y</sub> (using perpendicular axis theorem) & I = mk<sup>2</sup> (K : radius of gyration)<br><br>so, mK<sub>z</sub><sup>2</sup> = mK<sub>x</sub><sup>2</sup> + mK<sub>y</sub><sup>2</sup><br><br>K<sub>z</sub><sup>2</sup> = K<sub>x</sub><sup>2</sup> + K<sub>y</sub><sup>2</sup><br><br>so radius of gyration about axes x, y & z won't be same hence assertion A is not correct reason R is correct statement (property of a rigid body)",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<table class=\"tg\">\n<thead>\n<tr>\n<th class=\"tg-amwm\">List-I</th>\n<th class=\"tg-amwm\">List-II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td class=\"tg-0lax\">(a) MI of the rod (length L, Mass M, about an axis $$ \\bot $$ to the rod passing through the midpoint)</td>\n<td class=\"tg-0lax\">(i) $$8M{L^2}/3$$</td>\n</tr>\n<tr>\n<td class=\"tg-0lax\">(b) MI of the rod (length L, Mass 2M, about an axis $$ \\bot $$ to the rod passing through one of its end)</td>\n<td class=\"tg-0lax\">(ii) $$M{L^2}/3$$</td>\n</tr>\n<tr>\n<td class=\"tg-0lax\">(c) MI of the rod (length 2L, Mass M, about an axis $$ \\bot $$ to the rod passing through its midpoint)</td>\n<td class=\"tg-0lax\">(iii) $$M{L^2}/12$$</td>\n</tr>\n<tr>\n<td class=\"tg-0lax\">(d) MI of the rod (Length 2L, Mass 2M, about an axis $$ \\bot $$ to the rod passing through one of its end)</td>\n<td class=\"tg-0lax\">(iv) $$2M{L^2}/3$$</td>\n</tr>\n</tbody>\n</table><br/><br/>Choose the correct answer from the options given below:",
+      "question": "<table class=\"tg\"> <thead> <tr> <th class=\"tg-amwm\">List-I</th> <th class=\"tg-amwm\">List-II</th> </tr> </thead> <tbody> <tr> <td class=\"tg-0lax\">(a) MI of the rod (length L, Mass M, about an axis $$ \\bot $$ to the rod passing through the midpoint)</td> <td class=\"tg-0lax\">(i) $$8ML^2/3$$</td> </tr> <tr> <td class=\"tg-0lax\">(b) MI of the rod (length L, Mass 2M, about an axis $$ \\bot $$ to the rod passing through one of its end)</td> <td class=\"tg-0lax\">(ii) $$ML^2/3$$</td> </tr> <tr> <td class=\"tg-0lax\">(c) MI of the rod (length 2L, Mass M, about an axis $$ \\bot $$ to the rod passing through its midpoint)</td> <td class=\"tg-0lax\">(iii) $$ML^2/12$$</td> </tr> <tr> <td class=\"tg-0lax\">(d) MI of the rod (Length 2L, Mass 2M, about an axis $$ \\bot $$ to the rod passing through one of its end)</td> <td class=\"tg-0lax\">(iv) $$2ML^2/3$$</td> </tr> </tbody> </table><br/><br/>Choose the correct answer from the options given below:",
       "options": {
         "A": "(a)-(ii), (b)-(iii), (c)-(i), (d)-(iv)",
         "B": "(a)-(ii), (b)-(i), (c)-(iii), (d)-(iv)",
@@ -1176,65 +756,65 @@
     {
       "question": "Moment of inertia of a square plate of side l about the axis passing through one of the corner and perpendicular to the plane of square plate is given by :",
       "options": {
-        "A": "$${{M{l^2}} \\over 6}$$",
-        "B": "$${M{l^2}}$$",
-        "C": "$${{M{l^2}} \\over {12}}$$",
-        "D": "$${2 \\over 3}M{l^2}$$"
+        "A": "$$Ml^2 \\over 6$$",
+        "B": "$$Ml^2$$",
+        "C": "$$Ml^2 \\over 12$$",
+        "D": "$$2 \\over 3Ml^2$$"
       },
       "answer": "D",
-      "solution": "According to perpendicular Axis theorem.<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266871/exam_images/f28emgcmgnceaprxbrmt.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Morning Shift Physics - Rotational Motion Question 73 English Explanation\"><br>I<sub>x</sub> + I<sub>y</sub> = I<sub>z</sub><br><br>I<sub>z</sub> $$\\Rightarrow$$ $${{m{l^2}} \\over 3} + {{m{l^2}} \\over 3}$$<br><br>$$ = {{2m{l^2}} \\over 3}$$",
+      "solution": "According to perpendicular Axis theorem.<br><br><img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734266871/exam_images/f28emgcmgnceaprxbrmt.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 27th August Morning Shift Physics - Rotational Motion Question 73 English Explanation\"><br>I<sub>x</sub> + I<sub>y</sub> = I<sub>z</sub><br><br>I<sub>z</sub> $$\\Rightarrow$$ $$ml^2 \\over 3 + ml^2 \\over 3$$<br><br>$$ = 2ml^2 \\over 3$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<p>A heavy iron bar of weight $$12 \\mathrm{~kg}$$ is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle $$60^{\\circ}$$ with the horizontal, the weight experienced by the man is :</p>",
+      "question": "<p>A heavy iron bar of weight $$12 ~kg$$ is having its one end on the ground and the other on the shoulder of a man. The rod makes an angle $$60^\\circ$$ with the horizontal, the weight experienced by the man is :</p>",
       "options": {
-        "A": "$$3 \\mathrm{~kg}$$\n",
-        "B": "$$6 \\mathrm{~kg}$$\n",
-        "C": "$$6 \\sqrt{3} \\mathrm{~kg}$$\n",
-        "D": "$$12 \\mathrm{~kg}$$"
+        "A": "$$3 ~kg$$",
+        "B": "$$6 ~kg$$",
+        "C": "$$6 \\sqrt3 ~kg$$",
+        "D": "$$12 ~kg$$"
       },
       "answer": "B",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lu533t2l/40d6f847-fc62-4927-98e2-437a284c3fa2/2bd802c0-e9a0-11ee-b9cd-e33b518f616d/file-6y3zli1lu533t2m.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y3zli1lu533t2l/40d6f847-fc62-4927-98e2-437a284c3fa2/2bd802c0-e9a0-11ee-b9cd-e33b518f616d/file-6y3zli1lu533t2m.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Evening Shift Physics - Rotational Motion Question 17 English Explanation\"></p>\n<p>To determine the weight experienced by the man, we need to analyze the forces and torques acting on the iron bar. Here's a step-by-step solution:</p>\n<p><strong>Given:</strong></p>\n\n<p></p><p>Weight of the iron bar $ W = mg = 12 \\, \\text{kg} \\times g $</p><p></p>\n<p></p><p>The bar is uniform and makes an angle $ \\theta = 60^\\circ $ with the horizontal</p><p></p>\n<p></p><p>One end of the bar is on the ground (point A), and the other is on the man's shoulder (point B)</p><p></p>\n<p></p><p>The bar is in static equilibrium</p><p></p>\n\n<p><strong>Assumptions:</strong></p>\n\n<p></p><p>The bar is uniform, so its center of gravity is at its midpoint</p><p></p>\n<p></p><p>The ground provides both normal and frictional forces as needed</p><p></p>\n<p></p><p>The forces at points A and B can have both horizontal and vertical components</p><p></p>\n\n<p><strong>Step 1: Analyze the Forces</strong></p>\n<p>There are three forces acting on the bar:</p>\n\n<p></p><p><strong>Weight ($ W $)</strong> acting downward at the center of gravity (midpoint of the bar)</p><p></p>\n<p></p><p><strong>Force at the ground ($ F_A $)</strong> at point A, with components $ F_{Ax} $ and $ F_{Ay} $</p><p></p>\n<p></p><p><strong>Force from the man ($ F_B $)</strong> at point B, with components $ F_{Bx} $ and $ F_{By} $</p><p></p>\n\n<p><strong>Step 2: Set Up Equilibrium Equations</strong></p>\n<p>For the bar to be in static equilibrium:</p>\n\n<p></p><p><strong>Sum of vertical forces is zero:</strong></p>\n<p>$   F_{Ay} + F_{By} - W = 0 \\quad (1)   $</p><p></p>\n\n<p></p><p><strong>Sum of horizontal forces is zero:</strong></p>\n<p>$   F_{Ax} + F_{Bx} = 0 \\quad (2)   $</p><p></p>\n<p></p><p><strong>Sum of torques about point A is zero:</strong></p><p></p>\n<p></p><p>Torque due to $ F_{By} $:</p>\n<p>$     \\tau_B = F_{By} \\times (L \\cos \\theta)     $</p><p></p>\n<p></p><p>Torque due to $ W $:</p>\n<p>$     \\tau_W = W \\times \\left(\\frac{L}{2} \\cos \\theta\\right)     $</p><p></p>\n<p></p><p>Setting torques equal:</p>\n<p>$     F_{By} \\times L \\cos \\theta = W \\times \\left(\\frac{L}{2} \\cos \\theta\\right)     $</p><p></p>\n\n<p><strong>Step 3: Solve for $ F_{By} $</strong></p>\n<p>Simplify the torque equation:</p>\n<p>$ F_{By} \\times L \\cos \\theta = \\frac{W L \\cos \\theta}{2} $</p>\n<p>$ F_{By} = \\frac{W}{2} $</p>\n<p><strong>Step 4: Calculate the Weight Experienced by the Man</strong></p>\n<p>Since $ F_{By} = \\frac{W}{2} $, the vertical force the man supports is half the weight of the bar:</p>\n<p>$ F_{By} = \\frac{12 \\, \\text{kg} \\times g}{2} = 6 \\, \\text{kg} \\times g $</p>\n<p><strong>Answer:</strong></p>\n<p><strong>Option B:</strong> $6 \\, \\text{kg}$</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lu533t2l/40d6f847-fc62-4927-98e2-437a284c3fa2/2bd802c0-e9a0-11ee-b9cd-e33b518f616d/file-6y3zli1lu533t2m.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y3zli1lu533t2l/40d6f847-fc62-4927-98e2-437a284c3fa2/2bd802c0-e9a0-11ee-b9cd-e33b518f616d/file-6y3zli1lu533t2m.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 27th January Evening Shift Physics - Rotational Motion Question 17 English Explanation\"></p> <p>To determine the weight experienced by the man, we need to analyze the forces and torques acting on the iron bar. Here's a step-by-step solution:</p> <p><strong>Given:</strong></p> <p></p><p>Weight of the iron bar $ W = mg = 12 \\, \\textkg \\times g $</p><p></p> <p></p><p>The bar is uniform and makes an angle $ \\theta = 60^\\circ $ with the horizontal</p><p></p> <p></p><p>One end of the bar is on the ground (point A), and the other is on the man's shoulder (point B)</p><p></p> <p></p><p>The bar is in static equilibrium</p><p></p> <p><strong>Assumptions:</strong></p> <p></p><p>The bar is uniform, so its center of gravity is at its midpoint</p><p></p> <p></p><p>The ground provides both normal and frictional forces as needed</p><p></p> <p></p><p>The forces at points A and B can have both horizontal and vertical components</p><p></p> <p><strong>Step 1: Analyze the Forces</strong></p> <p>There are three forces acting on the bar:</p> <p></p><p><strong>Weight ($ W $)</strong> acting downward at the center of gravity (midpoint of the bar)</p><p></p> <p></p><p><strong>Force at the ground ($ F_A $)</strong> at point A, with components $ F_Ax $ and $ F_Ay $</p><p></p> <p></p><p><strong>Force from the man ($ F_B $)</strong> at point B, with components $ F_Bx $ and $ F_By $</p><p></p> <p><strong>Step 2: Set Up Equilibrium Equations</strong></p> <p>For the bar to be in static equilibrium:</p> <p></p><p><strong>Sum of vertical forces is zero:</strong></p> <p>$ F_Ay + F_By - W = 0 \\quad (1) $</p><p></p> <p></p><p><strong>Sum of horizontal forces is zero:</strong></p> <p>$ F_Ax + F_Bx = 0 \\quad (2) $</p><p></p> <p></p><p><strong>Sum of torques about point A is zero:</strong></p><p></p> <p></p><p>Torque due to $ F_By $:</p> <p>$ \\tau_B = F_By \\times (L \\cos \\theta) $</p><p></p> <p></p><p>Torque due to $ W $:</p> <p>$ \\tau_W = W \\times \\left(\\fracL2 \\cos \\theta\\right) $</p><p></p> <p></p><p>Setting torques equal:</p> <p>$ F_By \\times L \\cos \\theta = W \\times \\left(\\fracL2 \\cos \\theta\\right) $</p><p></p> <p><strong>Step 3: Solve for $ F_By $</strong></p> <p>Simplify the torque equation:</p> <p>$ F_By \\times L \\cos \\theta = \\fracW L \\cos \\theta2 $</p> <p>$ F_By = \\fracW2 $</p> <p><strong>Step 4: Calculate the Weight Experienced by the Man</strong></p> <p>Since $ F_By = \\fracW2 $, the vertical force the man supports is half the weight of the bar:</p> <p>$ F_By = \\frac12 \\, \\textkg \\times g2 = 6 \\, \\textkg \\times g $</p> <p><strong>Answer:</strong></p> <p><strong>Option B:</strong> $6 \\, \\textkg$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "<p>Given below are two statements :</p>\n<p>Statement (I) : Planck's constant and angular momentum have same dimensions.</p>\n<p>Statement (II) : Linear momentum and moment of force have same dimensions.</p>\n<p>In the light of the above statements, choose the correct answer from the options given below :</p>",
+      "question": "<p>Given below are two statements :</p> <p>Statement (I) : Planck's constant and angular momentum have same dimensions.</p> <p>Statement (II) : Linear momentum and moment of force have same dimensions.</p> <p>In the light of the above statements, choose the correct answer from the options given below :</p>",
       "options": {
-        "A": "Statement I is true but Statement II is false\n",
-        "B": "Both Statement I and Statement II are false\n",
-        "C": "Both Statement I and Statement II are true\n",
+        "A": "Statement I is true but Statement II is false",
+        "B": "Both Statement I and Statement II are false",
+        "C": "Both Statement I and Statement II are true",
         "D": "Statement I is false but Statement II is true"
       },
       "answer": "A",
-      "solution": "<p>$$\\begin{aligned}\n& {[\\mathrm{h}]=\\mathrm{ML}^2 \\mathrm{~T}^{-1}} \\\\\n& {[\\mathrm{~L}]=\\mathrm{ML}^2 \\mathrm{~T}^{-1}} \\\\\n& {[\\mathrm{P}]=\\mathrm{MLT}^{-1}} \\\\\n& {[\\tau]=\\mathrm{ML}^2 \\mathrm{~T}^{-2}}\n\\end{aligned}$$</p>\n<p>(Here $$\\mathrm{h}$$ is Planck's constant, $$\\mathrm{L}$$ is angular momentum, $$\\mathrm{P}$$ is linear momentum and $$\\tau$$ is moment of force)</p>",
+      "solution": "<p>$$\\beginaligned & [h]=ML^2 ~T^-1 \\\\ & [~L]=ML^2 ~T^-1 \\\\ & [P]=MLT^-1 \\\\ & [\\tau]=ML^2 ~T^-2 \\endaligned$$</p> <p>(Here $$h$$ is Planck's constant, $$L$$ is angular momentum, $$P$$ is linear momentum and $$\\tau$$ is moment of force)</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "In a screw gauge, $$5$$ complete rotations of the screw cause it to move a linear distance of $$0.25$$ $$cm.$$ There are $$100$$ circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of $$4$$ main scale divisions and $$30$$ circular scale divisions. Assuming negligible zero error, the thickness of the wire is :  ",
+      "question": "In a screw gauge, $$5$$ complete rotations of the screw cause it to move a linear distance of $$0.25$$ $$cm.$$ There are $$100$$ circular scale divisions. The thickness of a wire measured by this screw gauge gives a reading of $$4$$ main scale divisions and $$30$$ circular scale divisions. Assuming negligible zero error, the thickness of the wire is :",
       "options": {
-        "A": "$$0.4300$$ $$cm$$ ",
-        "B": "$$0.2150$$ $$cm$$ ",
-        "C": "$$0.3150$$ $$cm$$ ",
+        "A": "$$0.4300$$ $$cm$$",
+        "B": "$$0.2150$$ $$cm$$",
+        "C": "$$0.3150$$ $$cm$$",
         "D": "$$0.0430$$ $$cm$$"
       },
       "answer": "B",
-      "solution": "5 complete rotations = 0.25 cms\n<br><br>So, 1 complete rotation of screw = 0.05 cm \n<br><br>$$\\therefore\\,\\,\\,\\,$$  1 main scale division = 0.05 cm\n<br><br>1 circular scale = $${{0.05} \\over {100}}$$ = 5 $$ \\times $$ 10<sup>$$-$$4</sup> cm\n<br><br>Thickness of a wire\n<br><br>= 4 main scale and 30 circular scale divisions \n<br><br>= 4 $$ \\times $$ 0.05 + 30 $$ \\times $$ 5 $$ \\times $$ 10 <sup>$$-$$4</sup>\n<br><br>= 0.2150 cm.",
+      "solution": "5 complete rotations = 0.25 cms <br><br>So, 1 complete rotation of screw = 0.05 cm <br><br>$$\\therefore\\,\\,\\,\\,$$ 1 main scale division = 0.05 cm <br><br>1 circular scale = $$0.05 \\over 100$$ = 5 $$ \\times $$ 10<sup>$$-$$4</sup> cm <br><br>Thickness of a wire <br><br>= 4 main scale and 30 circular scale divisions <br><br>= 4 $$ \\times $$ 0.05 + 30 $$ \\times $$ 5 $$ \\times $$ 10 <sup>$$-$$4</sup> <br><br>= 0.2150 cm.",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "If the screw on a screw-gauge is given six\nrotations, it moves by 3 mm on the main scale.\nIf there are 50 divisions on the circular scale\nthe least count of the screw gauge is :",
+      "question": "If the screw on a screw-gauge is given six rotations, it moves by 3 mm on the main scale. If there are 50 divisions on the circular scale the least count of the screw gauge is :",
       "options": {
         "A": "0.001 mm",
         "B": "0.01 cm",
@@ -1242,14 +822,14 @@
         "D": "0.001 cm"
       },
       "answer": "D",
-      "solution": "Pitch = $${3 \\over 6}$$ mm = 0.5 mm\n<br><br>Least count = $${{0.5} \\over {50}}$$ mm \n<br><br>= $${1 \\over {100}}$$ = 0.01 mm = 0.001 cm",
+      "solution": "Pitch = $$3 \\over 6$$ mm = 0.5 mm <br><br>Least count = $$0.5 \\over 50$$ mm <br><br>= $$1 \\over 100$$ = 0.01 mm = 0.001 cm",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "System of Particles and Rotational Motion"
     },
     {
-      "question": "Assertion A : If in five complete rotations of the circular scale, the distance travelled on main scale of the screw gauge is 5 mm and there are 50 total divisions on circular scale, then least count is 0.001 cm.<br/><br/>Reason R :<br/><br/>Least Count = $${{Pitch} \\over {Total\\,divisions\\,on\\,circular\\,scale}}$$<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
+      "question": "Assertion A : If in five complete rotations of the circular scale, the distance travelled on main scale of the screw gauge is 5 mm and there are 50 total divisions on circular scale, then least count is 0.001 cm.<br/><br/>Reason R :<br/><br/>Least Count = $$Pitch \\over Total\\,divisions\\,on\\,circular\\,scale$$<br/><br/>In the light of the above statements, choose the most appropriate answer from the options given below :",
       "options": {
         "A": "A is not correct but R is correct.",
         "B": "Both A and R are correct and R is the correct explanation of A.",
@@ -1257,7 +837,7 @@
         "D": "Both A and R are correct and R is NOT the correct explanation of A."
       },
       "answer": "A",
-      "solution": "Least Count = $${{Pitch} \\over {Total\\,divisions\\,on\\,circular\\,scale}}$$<br><br>In 5 revolution, distance travel, 5 mm<br><br>In 1 revolution, it will travel 1 mm.<br><br>So least count = $${1 \\over {50}}$$ = 0.02",
+      "solution": "Least Count = $$Pitch \\over Total\\,divisions\\,on\\,circular\\,scale$$<br><br>In 5 revolution, distance travel, 5 mm<br><br>In 1 revolution, it will travel 1 mm.<br><br>So least count = $$1 \\over 50$$ = 0.02",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1272,7 +852,7 @@
         "D": "5.20 mm"
       },
       "answer": "C",
-      "solution": "Least count (L. C.) = $${{0.5} \\over {50}}$$<br><br>True reading = $$5 + {{0.5} \\over {50}} \\times 20 - {{0.5} \\over {50}} \\times 5$$<br><br>$$ = 5 + {{0.5} \\over {50}}(15) = 5.15$$ mm",
+      "solution": "Least count (L. C.) = $$0.5 \\over 50$$<br><br>True reading = $$5 + 0.5 \\over 50 \\times 20 - 0.5 \\over 50 \\times 5$$<br><br>$$ = 5 + 0.5 \\over 50(15) = 5.15$$ mm",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",

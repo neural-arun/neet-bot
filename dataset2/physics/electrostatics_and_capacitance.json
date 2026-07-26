@@ -1,18 +1,18 @@
 {
   "subject": "Physics",
   "chapter": "Electrostatics and Capacitance",
-  "total_questions": 81,
+  "total_questions": 62,
   "questions": [
     {
       "question": "A point charge +10 mC is a distance 5 cm directly above the centre of a square of side 10 cm, as shown in Fig. What is the magnitude of the electric flux through the square?",
       "options": {
         "A": "A",
-        "B": "1 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C",
-        "C": "2 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C",
-        "D": "9 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C"
+        "B": "1 \u00d7 $10^5$N $m^2$/C",
+        "C": "2 \u00d7 $10^5$N $m^2$/C",
+        "D": "9 \u00d7 $10^5$N $m^2$/C"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (D) 2.2 \u00d7 N ${{m}^{2}}$/C\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (D) 2.2 \u00d7 N $m^2$/C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -27,7 +27,7 @@
         "D": "8 \u00d7 10 - 13"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCharge on drop = 16 \u00d7 10 - 19 C Mass of the drop = 0.0016 g = 16 \u00d7 10 - 4 g = 16 \u00d7 10 - 7 kg g = 9.8 m s - 2 In balance position, m g = q E Where, E is electric field strength. E = m g q = 16 \u00d7 10 - 7 \u00d7 9.8 16 \u00d7 10 - 19 = 9 .8 \u00d7 10 13 N C - 1 .\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Charge on drop = 16 \u00d7 10 - 19 C Mass of the drop = 0.0016 g = 16 \u00d7 10 - 4 g = 16 \u00d7 10 - 7 kg g = 9.8 m s - 2 In balance position, m g = q E Where, E is electric field strength. E = m g q = 16 \u00d7 10 - 7 \u00d7 9.8 16 \u00d7 10 - 19 = 9 .8 \u00d7 10 13 N C - 1 . **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -42,22 +42,7 @@
         "D": "8 kC D"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) 34.8 kC\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Coulomb's law; Force between multiple charges; Superposition principle' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT AND DEFINITION\n\n### **Coulomb's Law**\nCoulomb's law describes the electrostatic force between two point charges. \n\n**Statement:** *The magnitude of the electrostatic force between two point charges is directly proportional to the product of the charges and inversely proportional to the square of the distance between them.*\n\n**Mathematical Form:**\n$$F = k \\frac{|q_1 q_2|}{r^2}$$\n\nWhere:\n- **F** = Force between charges (in Newtons)\n- **q\u2081, q\u2082** = Charges (in Coulombs)\n- **r** = Distance between charges (in meters)\n- **k** = Coulomb's constant = 9 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2\n  - Alternative: k = 1/(4\u03c0\u03b5\u2080)\n  - \u03b5\u2080 = 8.854 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/(N\u00b7m\u00b2) [permittivity of free space]\n\n---\n\n### **Vector Form of Coulomb's Law**\nFor precise NEET problems, use the vector form:\n\n$$\\vec{F}_{12} = k\\frac{q_1 q_2}{r^2}\\hat{r}$$\n\nWhere **r\u0302** is the unit vector from charge q\u2081 to q\u2082\n\n**Important points:**\n- If q\u2081 and q\u2082 have the **same sign** \u2192 Force is **repulsive** (positive)\n- If q\u2081 and q\u2082 have **opposite signs** \u2192 Force is **attractive** (negative)\n\n---\n\n## 2. KEY FORMULAS AND IMPORTANT FACTS\n\n| Concept | Formula | Use Case |\n|---------|---------|----------|\n| **Coulomb's Law (Magnitude)** | F = k\\|q\u2081q\u2082\\|/r\u00b2 | Basic two-charge problems |\n| **Vector Form** | **F** = k(q\u2081q\u2082/r\u00b2)**r\u0302** | Finding direction and magnitude |\n| **Superposition** | **F_net** = **F\u2081** + **F\u2082** + **F\u2083**... | Multiple charge problems |\n| **Force Constant** | k = 9\u00d710\u2079 N\u00b7m\u00b2/C\u00b2 | All calculations |\n| **In Medium** | F = k\\|q\u2081q\u2082\\|/(\u03b5\u1d63r\u00b2) | With dielectric constant \u03b5\u1d63 |\n\n### **Critical Facts for NEET:**\n\n1. **Nature of force:** Electrostatic force is a **conservative force**\n2. **Range:** Infinite range (doesn't decrease with time)\n3. **Proportionality:** F \u221d q\u2081q\u2082 (linear in each charge)\n4. **Inverse square law:** F \u221d 1/r\u00b2\n5. **Comparison with gravity:** Electrostatic force >> Gravitational force for elementary particles\n6. **Linear medium:** Force reduces by factor of \u03b5\u1d63 (relative permittivity)\n\n---\n\n## 3. SUPERPOSITION PRINCIPLE\n\n### **Definition:**\n*The net electrostatic force on a charge due to multiple other charges is the vector sum of forces exerted by each charge individually.*\n\n$$\\vec{F}_{net} = \\vec{F}_{12} + \\vec{F}_{13} + \\vec{F}_{14} + ...$$\n\n**Why it works:** Electrostatic forces are independent of other charges present.\n\n### **Step-by-Step Approach for Multiple Charges:**\n\n**Step 1:** Identify all charges and their positions\n**Step 2:** Calculate force magnitude between each pair using Coulomb's law\n**Step 3:** Determine force direction (repulsive/attractive based on sign)\n**Step 4:** Resolve forces into components (F\u2093 and F\u1d67)\n**Step 5:** Add components algebraically\n**Step 6:** Find resultant using **F_net = \u221a(F\u2093\u00b2 + F\u1d67\u00b2)**\n\n---\n\n## 4. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Two Charges Only**\n- Calculate force between them\n- Usually straightforward application of F = kq\u2081q\u2082/r\u00b2\n\n### **Pattern 2: Collinear Arrangement**\n*Three charges on a straight line \u2192 Find net force on one charge*\n- Forces are along the same line\n- Use sign convention: rightward = +, leftward = \u2212\n- Example: +Q at origin, +Q at distance d, find force on middle charge\n\n### **Pattern 3: Triangular/Equilateral Configuration**\n*Three charges at vertices of triangle \u2192 Find net force on one*\n- Requires vector addition\n- Often symmetric (equilateral triangle)\n- Involves 60\u00b0 angles and trigonometry\n\n### **Pattern 4: Equilibrium Problems**\n*Find charge magnitude/position where net force = 0*\n- Set F_net = 0\n- Solve for unknown q or r\n\n### **Pattern 5: Force vs. Distance Graph**\n- Recognize inverse square relationship\n- F \u221d 1/r\u00b2 graph is hyperbolic\n\n---\n\n## 5. MEMORY TIP AND ANALOGY\n\n### **Memory Tricks:**\n\n**\"KISS\" Method for Coulomb's Law:**\n- **K** = 9\u00d710\u2079 (constant)\n- **I** = product of charges (q\u2081q\u2082)\n- **S** = Straight distance squared (r\u00b2)\n- **S** = Simple division\n\nFormula: **F = K \u00d7 I / S**\n\n### **Analogy:**\nThink of electrostatic force like **gravitational force**, but:\n- \u2713 Can be **repulsive** (gravity always attractive)\n- \u2713 **Much stronger** (9\u00d710\u2074 times stronger for electrons)\n- \u2713 Depends on **charge** instead of **mass**\n\n---\n\n## 6. EXAMPLE PROBLEM WITH DETAILED SOLUTION\n\n### **Problem (NEET-Style):**\n\nThree charges are arranged as follows:\n- **Charge q\u2081 = +2 \u03bcC** at origin (0, 0)\n- **Charge q\u2082 = +4 \u03bcC** at (3m, 0)\n- **Charge q\u2083 = -3 \u03bcC** at (3m, 4m)\n\nFind the net electrostatic force on **q\u2083**.\n\n---\n\n### **Solution:**\n\n**Step 1: Identify distances**\n- Distance between q\u2081 and q\u2083: \n  $$r_{13} = \\sqrt{(3-0)^2 + (4-0)^2} = \\sqrt{9+16} = 5 \\text{ m}$$\n\n- Distance between q\u2082 and q\u2083:\n  $$r_{23} = \\sqrt{(3-3)^2 + (4-0)^2} = 4 \\text{ m}$$\n\n**Step 2: Calculate force magnitude from q\u2081 on q\u2083**\n\n$$F_{13} = k\\frac{|q_1 q_3|}{r_{13}^2} = 9\u00d710^9 \u00d7 \\frac{2\u00d710^{-6} \u00d7 3\u00d710^{-6}}{5^2}$$\n\n$$F_{13} = 9\u00d710^9 \u00d7 \\frac{6\u00d710^{-12}}{25} = \\frac{54\u00d710^{-3}}{25} = 2.16 \u00d7 10^{-3} \\text{ N}$$\n\nSince q\u2081 is **positive** and q\u2083 is **negative** \u2192 **Attractive force** (toward q\u2081)\n\n**Step 3: Calculate force magnitude from q\u2082 on q\u2083**\n\n$$F_{23} = k\\frac{|q_2 q_3|}{r_{23}^2} = 9\u00d710^9 \u00d7 \\frac{4\u00d710^{-6} \u00d7 3\u00d710^{-6}}{4^2}$$\n\n$$F_{23} = 9\u00d710^9 \u00d7 \\frac{12\u00d710^{-12}}{16} = \\frac{108\u00d710^{-3}}{16} = 6.75 \u00d7 10^{-3} \\text{ N}$$\n\nSince q\u2082 is **positive** and q\u2083 is **negative** \u2192 **Attractive force** (toward q\u2082, i.e., vertically downward)\n\n**Step 4: Resolve F\u2081\u2083 into components**\n\nThe line from q\u2083(3,4) to q\u2081(0,0) has:\n- Horizontal component: -3 m (leftward)\n- Vertical component: -4 m (downward)\n- Unit vector: (-3/5, -4/5)\n\n$$F_{13x} = 2.16\u00d710^{-3} \u00d7 (-3/5) = -1.296 \u00d7 10^{-3} \\text{ N}$$\n$$F_{13y} = 2.16\u00d710^{-3} \u00d7 (-4/5) = -1.728 \u00d7 10^{-3} \\text{ N}$$\n\n**Step 5: F\u2082\u2083 components**\n\nF\u2082\u2083 acts vertically downward (from q\u2083 toward q\u2082):\n$$F_{23x} = 0$$\n$$F_{23y} = -6.75 \u00d7 10^{-3} \\text{ N}$$\n\n**Step 6: Find net force**\n\n$$F_{net,x} = -1.296 \u00d7 10^{-3} \\text{ N}$$\n$$F_{net,y} = -1.728 \u00d7 10^{-3} - 6.75 \u00d7 10^{-3} = -8.478 \u00d7 10^{-3} \\text{ N}$$",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) 34.8 kC **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -72,37 +57,7 @@
         "D": "2 N"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) -0.2 N\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "What is the magnitude of the equal number of positive and negative charges in a paisa coin made up of only Al, given that it is electrically neutral and contains equal amounts of positive and negative charges?",
-      "options": {
-        "A": "A",
-        "B": "2 kC B",
-        "C": "5 kC C",
-        "D": "8 kC D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) 34.8 kC\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Electric dipole; Dipole moment; Electric field due to an electric dipole' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is an Electric Dipole?\n\nAn **electric dipole** is a system of two equal and opposite charges (+q and -q) separated by a small distance 'd'.\n\n**Real-life examples:**\n- Water molecule (H\u2082O) - partially positive H and negative O\n- HCl molecule\n- Atoms in external electric field\n\n### What is Dipole Moment (p)?\n\n**Definition:** Dipole moment is a vector quantity that measures the strength and direction of an electric dipole.\n\n**Mathematical Definition:**\n$$\\vec{p} = q \\times \\vec{d}$$\n\nWhere:\n- **q** = magnitude of charge (in Coulombs)\n- **d** = separation distance between charges (in meters)\n- Direction: From negative charge (-q) to positive charge (+q)\n\n**Units:** Coulomb-meter (C\u00b7m) or Debye (D) in practice\n- 1 Debye = 3.34 \u00d7 10\u207b\u00b3\u2070 C\u00b7m\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### Electric Field Due to Dipole\n\n#### **At Axial Point (On the dipole axis)**\n\nFor a point at distance 'r' from center of dipole (r >> d):\n\n$$E_{axial} = \\frac{1}{4\\pi\\epsilon_0} \\cdot \\frac{2p}{r^3}$$\n\n**Direction:** Along the dipole axis (away from negative charge)\n\n#### **At Equatorial Point (Perpendicular bisector)**\n\nFor a point at distance 'r' from center of dipole (r >> d):\n\n$$E_{equatorial} = \\frac{1}{4\\pi\\epsilon_0} \\cdot \\frac{p}{r^3}$$\n\n**Direction:** Opposite to dipole moment (toward negative charge)\n\n#### **General Formula (Any Point)**\n\nFor a point making angle \u03b8 with dipole axis:\n\n$$E = \\frac{1}{4\\pi\\epsilon_0} \\cdot \\frac{p}{r^3}\\sqrt{3\\cos^2\\theta + 1}$$\n\n### Important Relationships\n\n| Parameter | Axial | Equatorial |\n|-----------|-------|-----------|\n| E-field | 2p/(4\u03c0\u03b5\u2080r\u00b3) | p/(4\u03c0\u03b5\u2080r\u00b3) |\n| E-ratio | 2:1 | - |\n| Direction | Along axis | Opposite to p |\n\n### Electric Potential Due to Dipole\n\n$$V = \\frac{1}{4\\pi\\epsilon_0} \\cdot \\frac{p\\cos\\theta}{r^2}$$\n\nWhere \u03b8 is angle between position vector and dipole moment.\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Dipole Moment Calculation**\n*\"A dipole consists of charges \u00b12 \u03bcC separated by 2 cm. Find dipole moment.\"*\n\n**Approach:** Direct use of p = q \u00d7 d\n\n### **Pattern 2: Electric Field Comparison**\n*\"Compare E-field at axial vs equatorial point at same distance.\"*\n\n**Key:** E(axial) : E(equatorial) = 2 : 1\n\n### **Pattern 3: Field at Specific Angle**\n*\"Find E-field at 60\u00b0 to dipole axis at distance r.\"*\n\n**Approach:** Use general formula with \u03b8 = 60\u00b0\n\n### **Pattern 4: Potential Difference**\n*\"Find potential at two points; calculate work done on test charge.\"*\n\n**Approach:** W = q(V\u2081 - V\u2082)\n\n### **Pattern 5: Dipole in External Field**\n*\"Find torque/energy of dipole in external field.\"*\n\n**Formulas:**\n- Torque: **\u03c4 = p \u00d7 E** or **\u03c4 = pE sin\u03b8**\n- Potential Energy: **U = -p\u00b7E** or **U = -pE cos\u03b8**\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **The \"Bar Magnet\" Analogy**\n- Just as magnetic dipole has N and S poles\n- Electric dipole has +q and -q charges\n- Both produce fields that fall as 1/r\u00b3 (for dipole) - much faster than point charge (1/r\u00b2)\n\n### **Quick Recall Device: \"AE = 2EE\"**\n- **A**xial **E**-field = **2** \u00d7 **E**quatorial **E**-field (at same distance)\n\n### **Direction Memory**\n- **Dipole moment:** Points from (-) to (+) [like arrow from South to North in magnet]\n- **E-field on axis:** Away from (-q) side, toward (+q) side (same as p)\n- **E-field on equator:** Opposite direction to p (toward negative charge)\n\n### **Why E \u221d 1/r\u00b3 for Dipole?**\n- Two opposite charges nearly cancel \u2717\u2717\n- Net field arises from their separation\n- This causes much faster fall-off than single charge (1/r\u00b2)\n\n---\n\n## 5. SOLVED EXAMPLE PROBLEM\n\n### **Problem:**\nAn electric dipole with dipole moment **p = 1.5 \u00d7 10\u207b\u2079 C\u00b7m** is placed in a uniform electric field **E = 5 \u00d7 10\u2074 N/C**. \n\n**(a)** Find the maximum torque experienced by the dipole.\n**(b)** Find the potential energy when dipole makes 60\u00b0 angle with field.\n**(c)** Find the work done to rotate dipole from 0\u00b0 to 90\u00b0.\n\n### **Solution:**\n\n**Part (a): Maximum Torque**\n\nTorque: \u03c4 = pE sin\u03b8\n\nMaximum torque occurs when sin\u03b8 = 1 (\u03b8 = 90\u00b0)\n\n$$\\tau_{max} = pE = 1.5 \\times 10^{-9} \\times 5 \\times 10^4$$\n\n$$\\tau_{max} = 7.5 \\times 10^{-5} \\text{ N\u00b7m}$$\n\n\u2713 **Answer: 7.5 \u00d7 10\u207b\u2075 N\u00b7m**\n\n---\n\n**Part (b): Potential Energy at 60\u00b0**\n\nPotential Energy: U = -pE cos\u03b8\n\n$$U = -1.5 \\times 10^{-9} \\times 5 \\times 10^4 \\times \\cos(60\u00b0)$$\n\n$$U = -1.5 \\times 10^{-9} \\times 5 \\times 10^4 \\times 0.5$$\n\n$$U = -3.75 \\times 10^{-5} \\text{ J}$$\n\n\u2713 **Answer: -3.75 \u00d7 10\u207b\u2075 J** (negative = favorable orientation)\n\n---\n\n**Part (c): Work Done to Rotate from 0\u00b0 to 90\u00b0**\n\nUsing work-energy theorem for conservative force:\n\n$$W = \\Delta U = U_f - U_i$$\n\nAt \u03b8 = 0\u00b0: $U_i = -pE \\cos(0\u00b0) = -pE$\n\nAt \u03b8 = 90\u00b0: $U_f = -pE \\cos(90\u00b0) = 0$\n\n$$W = 0 - (-pE) = pE$$\n\n$$W = 1.5 \\times 10^{-9} \\times 5 \\times 10^4$$\n\n$$W = 7.5 \\times 10^{-5} \\text{ J}$$\n\n\u2713 **Answer: 7.5 \u00d7 10\u207b\u2075 J** (positive = work done against the field)\n\n---\n\n## CRITICAL INSIGHTS FOR NEET\n\n| Concept | Key Point |\n|---------|-----------|\n| **Dipole \u2260 Dipole Moment** | Dipole is the system; dipole moment is its property |\n| **Field fall-off** | 1/r\u00b3 for dipole (NOT 1/r\u00b2) - crucial for calculations |\n| **Axial vs Equatorial** | Always remember 2:1 ratio |\n| **Sign Convention** | Negative potential energy = stable orientation |\n| **Critical angle** | At 54.7\u00b0, E-field is minimum (for any configuration) |\n\n---\n\n## PRACTICE PROBLEMS TO TRY\n\n1. A dipole of moment 2 \u00d7 10\u207b\u2078 C\u00b7m is placed at 30 cm from a point charge of 5 \u00d7 10\u207b\u2078 C. Find the force on dipole. *(Hint: Dipole experiences force in non-uniform field)*\n\n2. Two identical dipoles have their dipole moments at 30\u00b0 to each other. Compare their interaction energies.\n\n3. Water molecule has dipole moment 1.85 D. Express in SI units and find field at 1 \u00c5 distance on axis.\n\n---\n\n**This topic typically contributes 2-3 marks in NEET. Master the formulas and direction conventions for guaranteed marks!** \u2713",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (C) -0.2 N **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -117,22 +72,22 @@
         "D": "56"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPotentials, V P = 600 V V Q = 0 V Conserving mechanical energy, K P + U P = K Q + U Q 1 2 m v P 2 + q v R = 1 2 m v Q 2 + q v Q 1 2 m v P 2 - v Q 2 = q V Q - V P 1 2 1 0 - 3 v P 2 - 0.2 2 = 1 0 - 8 0 - 600 v P 2 - 0.04 = - 12 \u00d7 1 0 - 3 v P 2 = 0.04 - 0.012 v P = 0.028 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Potentials, V P = 600 V V Q = 0 V Conserving mechanical energy, K P + U P = K Q + U Q 1 2 m v P 2 + q v R = 1 2 m v Q 2 + q v Q 1 2 m v P 2 - v Q 2 = q V Q - V P 1 2 1 0 - 3 v P 2 - 0.2 2 = 1 0 - 8 0 - 600 v P 2 - 0.04 = - 12 \u00d7 1 0 - 3 v P 2 = 0.04 - 0.012 v P = 0.028 m s - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "The electric field components in Fig. are Ex = a${{x}^{1/2}}$ , Ey = Ez = 0, in which a = 800 N/C ${{m}^{1/2}}$. Calculate the charge within the cube. Assume that a = 0.1 m.",
+      "question": "The electric field components in Fig. are Ex = a$x^1/2$ , Ey = Ez = 0, in which a = 800 N/C $m^1/2$. Calculate the charge within the cube. Assume that a = 0.1 m.",
       "options": {
         "A": "A",
-        "B": "27 \u00d7 ${{10}^{-12}}$C",
-        "C": "27 \u00d7 ${{10}^{-11}}$C",
-        "D": "27 \u00d7 ${{10}^{-10}}$C"
+        "B": "27 \u00d7 $10^-12$C",
+        "C": "27 \u00d7 $10^-11$C",
+        "D": "27 \u00d7 $10^-10$C"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 9.27 \u00d7 ${{10}^{-12}}$C\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 9.27 \u00d7 $10^-12$C **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -147,7 +102,7 @@
         "D": "3 \u00d7 10 - 9 J / k g D -"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nAs we know, gravitational potential V = - G M R Gravitational potential at mid point, = - G \u00d7 10 1 - G \u00d7 100 1 = - 110 G = - 110 \u00d7 6.67 \u00d7 10 - 11 J k g - 1 = - 7.3 \u00d7 10 - 9 J   kg \u2212 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** As we know, gravitational potential V = - G M R Gravitational potential at mid point, = - G \u00d7 10 1 - G \u00d7 100 1 = - 110 G = - 110 \u00d7 6.67 \u00d7 10 - 11 J k g - 1 = - 7.3 \u00d7 10 - 9 J kg \u2212 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -162,22 +117,7 @@
         "D": "176 \u00c2 m m"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nTime to cross 0.10   m , t = 0.10 4 \u00d7 10 7 s Distance deviated in this time due to electric field = 1 2 ( e E m ) .   t 2 = 1 2 \u00d7 1.6 \u00d7 10 \u2212 19 \u00d7 3200 9.1 \u00d7 10 \u2212 31 \u00d7 ( 0.1 4 \u00d7 10 7 ) 2 m = 01.76   mm\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Potential energy' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "The student wants a comprehensive explanation of Potential Energy from Class 11, Chapter 6 (Work, Energy and Power) for NEET preparation. Let me cover this thoroughly with all the requested sections.\n\nLet me organize this properly:\n\n1. Core concept and definition - gravitational PE, elastic PE, definition in terms of work done\n2. Key formulas - mgh, \u00bdkx\u00b2, relationship with conservative forces\n3. Common NEET question patterns\n4. Memory tips/analogies\n5. Example problem\n\nLet me think through all the important aspects:\n\n**Potential Energy:**\n- Energy stored in a body by virtue of its position or configuration\n- It's associated with conservative forces\n- Work done by conservative force = -\u0394PE\n- F = -dU/dx (relationship between force and PE)\n\n**Types:**\n1. Gravitational PE: U = mgh\n2. Elastic PE: U = \u00bdkx\u00b2\n\n**Important concepts:**\n- Reference point (where PE = 0)\n- Conservation of mechanical energy\n- Work-energy theorem\n- PE can be negative (when object is below reference)\n\n**NEET patterns:**\n- Direct calculation of PE\n- Conservation of energy problems\n- Spring-mass problems\n- F = -dU/dx type problems\n- Combined KE + PE = constant problems\n\nLet me write a comprehensive, student-friendly response.\n</thinking>\n\n# \u26a1 Potential Energy \u2014 Class 11, Chapter 6\n## Work, Energy and Power | NEET Master Notes\n\n---\n\n## 1. \ud83c\udfaf CORE CONCEPT & DEFINITION\n\n> **Potential Energy (PE)** is the energy stored in a body by virtue of its **position** or **configuration**.\n\nIt is the \"hidden\" or \"stored\" energy that has the **potential to do work** when released.\n\n### \ud83d\udd11 The Golden Rule:\n$$\\boxed{W_{conservative} = -\\Delta U = -(U_f - U_i)}$$\n\n> Work done by a **conservative force** equals the **negative change** in potential energy.\n\n### Why only Conservative Forces?\n| Property | Conservative Force | Non-Conservative Force |\n|---|---|---|\n| Work depends on | Path only (start & end) | Entire path taken |\n| Examples | Gravity, Spring force | Friction, Air drag |\n| PE defined? | \u2705 YES | \u274c NO |\n\n---\n\n## 2. \ud83d\udcd0 KEY FORMULAS\n\n### \ud83d\udfe2 A) Gravitational Potential Energy\n$$\\boxed{U = mgh}$$\n\n| Symbol | Meaning |\n|---|---|\n| m | Mass of object (kg) |\n| g | Acceleration due to gravity (10 m/s\u00b2) |\n| h | Height above reference point (m) |\n\n> \u26a0\ufe0f **Reference Point is ARBITRARY** \u2014 Usually, ground level is taken as U = 0, but you can choose any reference. Only **change in PE** matters physically!\n\n**Sign Convention:**\n- Object **above** reference \u2192 U = **+mgh** (positive)\n- Object **below** reference \u2192 U = **\u2212mgh** (negative)\n\n---\n\n### \ud83d\udfe0 B) Elastic Potential Energy (Spring)\n$$\\boxed{U = \\frac{1}{2}kx^2}$$\n\n| Symbol | Meaning |\n|---|---|\n| k | Spring constant (N/m) \u2014 stiffness |\n| x | Compression or extension (m) |\n\n> \ud83d\udd14 **Always positive!** Whether spring is compressed OR stretched, PE = \u00bdkx\u00b2 (x\u00b2 is always +ve)\n\n---\n\n### \ud83d\udd35 C) Force-PE Relationship (Very Important for NEET!)\n$$\\boxed{F = -\\frac{dU}{dx}}$$\n\n- Negative gradient of PE gives the force\n- This is used in graph-based NEET questions\n\n---\n\n### \ud83d\udfe3 D) Conservation of Mechanical Energy\n$$\\boxed{KE_i + PE_i = KE_f + PE_f}$$\n$$\\frac{1}{2}mv_i^2 + mgh_i = \\frac{1}{2}mv_f^2 + mgh_f$$\n\n> Valid only when **no friction / non-conservative forces** act.\n\n---\n\n## 3. \ud83d\udccb COMMON NEET QUESTION PATTERNS\n\n### Pattern 1\ufe0f\u20e3 \u2014 Direct Calculation\n*\"A body of 2 kg is lifted to a height of 5 m. Find the PE gained.\"*\n\u2192 Simple plug in: U = mgh\n\n---\n\n### Pattern 2\ufe0f\u20e3 \u2014 Conservation of Energy\n*\"A ball is dropped from height h. Find velocity just before hitting ground.\"*\n\u2192 mgh = \u00bdmv\u00b2 \u2192 v = \u221a(2gh)\n\n---\n\n### Pattern 3\ufe0f\u20e3 \u2014 Spring Problems\n*\"A spring of k = 1000 N/m is compressed by 0.1 m. Find PE stored.\"*\n\u2192 U = \u00bdkx\u00b2 = \u00bd \u00d7 1000 \u00d7 0.01 = **5 J**\n\n---\n\n### Pattern 4\ufe0f\u20e3 \u2014 Graph Based (F vs x or U vs x)\n*\"From the given U-x graph, find the force at x = 2m\"*\n\u2192 Use F = \u2212dU/dx = \u2212(slope of U-x graph)\n\n---\n\n### Pattern 5\ufe0f\u20e3 \u2014 Escape Velocity / Orbital PE (Advanced)\n$$U_{gravitational} = -\\frac{GMm}{r}$$\n(Negative because gravity is attractive; reference at infinity)\n\n---\n\n### Pattern 6\ufe0f\u20e3 \u2014 Work Done Against Gravity\n*\"What work is done in slowly lifting a 5 kg block by 3 m?\"*\n\u2192 W = \u0394PE = mgh = 5 \u00d7 10 \u00d7 3 = **150 J**\n\n---\n\n## 4. \ud83e\udde0 MEMORY TIPS & ANALOGIES\n\n### \ud83c\udfd4\ufe0f Analogy 1 \u2014 The Mountain Climber\n> Think of PE like **money in a bank**. When you climb a mountain (work is done ON you by external agent), you **deposit energy** into your PE account. When you come down, you **withdraw** it as kinetic energy.\n\n---\n\n### \ud83c\udf00 Analogy 2 \u2014 The Spring\n> A compressed spring is like a **coiled snake** \ud83d\udc0d \u2014 it stores energy while being compressed and releases it explosively when free.\n\n---\n\n### \ud83d\udcdd Memory Formula Card:\n```\nG-PE = mgh    \u2192 Position (height)\nE-PE = \u00bdkx\u00b2  \u2192 Configuration (spring)\nF = -dU/dx   \u2192 Force from PE graph\n\u0394KE + \u0394PE = 0 \u2192 Conservation (no friction)\n```\n\n---\n\n### \u270b Quick Trick for Spring Problems:\n> **\"Half k x-squared\"** \u2014 Say it out loud: \"Half Kay Ex Squared\" = \u00bdkx\u00b2\n\n---\n\n## 5. \ud83d\udca1 EXAMPLE PROBLEM (NEET-style)\n\n### Question:\n> A block of mass **2 kg** is released from rest at the top of a smooth inclined plane of height **5 m**. Find:\n> **(a)** PE at the top\n> **(b)** KE at the bottom\n> **(c)** Speed at the bottom\n> *(Take g = 10 m/s\u00b2)*\n\n---\n\n### \u2705 Solution:\n\n**Given:**\n- m = 2 kg, h = 5 m, g = 10 m/s\u00b2\n- Surface is smooth (no friction) \u2192 Mechanical energy conserved\n- Released from rest \u2192 v_initial = 0\n\n---\n\n**Step 1: PE at the top**\n$$U_{top} = mgh = 2 \\times 10 \\times 5 = \\mathbf{100 \\text{ J}}$$\n\n---\n\n**Step 2: KE at the top**\n$$KE_{top} = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 2 \\times 0^2 = \\mathbf{0 \\text{ J}}$$\n\n---\n\n**Step 3: Apply Conservation of Energy**\n$$KE_{top} + PE_{top} = KE_{bottom} + PE_{bottom}$$\n$$0 + 100 = KE_{bottom} + 0$$\n$$\\boxed{KE_{bottom} = 100 \\text{ J}}$$\n\n> (At bottom, h = 0, so PE = 0)\n\n---\n\n**Step 4: Find speed at bottom**\n$$KE = \\frac{1}{2}mv^2$$\n$$100 = \\frac{1}{2} \\times 2 \\times v^2$$\n$$v^2 = 100$$\n$$\\boxed{v = 10 \\text{ m/s}}$$\n\n---\n\n**\ud83c\udfaf Key Insight:** Notice the answer is **independent of the angle** of the incline! Only height matters \u2014 this is the beauty of energy methods.\n\n---\n\n## \ud83d\udccc QUICK REVISION BOX\n\n```\n\u250c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2510\n\u2502           POTENTIAL ENERGY \u2014 AT A GLANCE         \u2502\n\u251c\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2524\n\u2502 \u2022 Stored energy due to position/configuration   \u2502\n\u2502 \u2022 Only for CONSERVATIVE forces                  \u2502\n\u2502 \u2022 Gravitational: U = mgh                        \u2502\n\u2502 \u2022 Elastic: U = \u00bdkx\u00b2                             \u2502\n\u2502 \u2022 Force: F = -dU/dx                             \u2502\n\u2502 \u2022 Conservation: KE\u2081 + PE\u2081 = KE\u2082 + PE\u2082          \u2502\n\u2502 \u2022 Reference point is arbitrary                  \u2502\n\u2502 \u2022 Elastic PE is ALWAYS positive                 \u2502\n\u2502 \u2022 Gravitational PE can be negative              \u2502\n\u2514\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2518\n```\n\n---\n\n> \ud83d\udcac **Pro NEET Tip:** In **~3-4 questions** per NEET exam involve energy conservation with potential energy. Master the concept of choosing the right reference point and you'll never go wrong! \ud83c\udfaf",
+      "solution": "**Correct Answer: (A)** **Explanation:** Time to cross 0.10 m , t = 0.10 4 \u00d7 10 7 s Distance deviated in this time due to electric field = 1 2 ( e E m ) . t 2 = 1 2 \u00d7 1.6 \u00d7 10 \u2212 19 \u00d7 3200 9.1 \u00d7 10 \u2212 31 \u00d7 ( 0.1 4 \u00d7 10 7 ) 2 m = 01.76 mm **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -192,52 +132,7 @@
         "D": "16 meters"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 0.12 meters\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Electric field due to a system of charges' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. Core Concept and Definition\n\n### What is Electric Field Due to a System of Charges?\n\nWhen multiple charges are present, each charge creates its own electric field in space. The **net electric field at any point** is the **vector sum** of electric fields created by all individual charges.\n\nThis principle is called the **Superposition Principle**.\n\n**Mathematical Statement:**\n$$\\vec{E}_{net} = \\vec{E}_1 + \\vec{E}_2 + \\vec{E}_3 + ... + \\vec{E}_n$$\n\n### Why is this Important?\n- Real-world scenarios have multiple charges\n- You need to find the resultant field to determine force on a test charge\n- Many practical applications (capacitors, conductors) involve charge systems\n\n---\n\n## 2. Key Formulas and Important Facts\n\n### **Formula for Electric Field (Recall from Single Charge)**\n$$\\vec{E} = \\frac{kQ}{r^2}\\hat{r}$$\n\nWhere:\n- k = 9 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2\n- Q = source charge\n- r = distance from charge\n- $\\hat{r}$ = unit vector in direction away from charge\n\n### **For System of Charges:**\n$$\\vec{E}_{net} = \\sum_{i=1}^{n} \\frac{kQ_i}{r_i^2}\\hat{r}_i$$\n\n### **Important Facts to Remember:**\n\n| Concept | Key Point |\n|---------|-----------|\n| **Vector Addition** | Fields add as vectors (not scalars) - must consider direction |\n| **Superposition** | Presence of one charge doesn't affect field of another |\n| **Sign Matters** | Positive charges: field points away; Negative charges: field points toward |\n| **Symmetry** | Use symmetry to cancel components and simplify calculations |\n\n---\n\n## 3. Common NEET Question Patterns\n\n### **Pattern 1: Two Point Charges**\n*Find net field at a point on the line joining them or at perpendicular bisector*\n\n### **Pattern 2: Symmetrical Configurations**\n- Equilateral triangle with three charges\n- Square with charges at corners\n- Ring of charges\n\n### **Pattern 3: Dipole System**\n- Two equal and opposite charges\n- Finding field along axial and equatorial lines\n\n### **Pattern 4: Continuous Charge Distribution**\n- Linear charge density (line charge)\n- Surface charge density (sheet, ring)\n\n### **Pattern 5: Field at Special Points**\n- Center of ring\n- On axis of ring/disk\n- Due to charged sphere\n\n---\n\n## 4. Memory Tips and Analogies\n\n### \ud83c\udfaf **Memory Tip: \"SAND Method\"**\n\n**S** - **Symmetry** \u2192 Look for identical charges that cancel components\n**A** - **Align** \u2192 Draw a diagram and align your coordinate axes\n**N** - **Notation** \u2192 Be clear about unit vectors and directions\n**D** - **Decompose** \u2192 Break fields into x, y, z components\n\n### \ud83d\udca1 **Analogy**\nThink of multiple charges like **multiple light sources in a room**:\n- Each light creates its own brightness (field)\n- The total brightness at any point is the sum of individual brightnesses\n- If lights are opposite (positive vs negative charges), they can cancel out\n\n### \u26a1 **Direction Rule (Critical!)**\n- Positive charge \u2192 field arrows **point AWAY**\n- Negative charge \u2192 field arrows **point TOWARD**\n\n---\n\n## 5. Example Problem with Complete Solution\n\n### **Problem:**\nTwo point charges +2 \u00b5C and -2 \u00b5C are separated by 20 cm. Find the electric field at a point P located at the midpoint between them.\n\n**Diagram:**\n```\n    +2\u00b5C \u2190---10cm---\u2022 P ---10cm\u2192 -2\u00b5C\n                      |\n                    E_net = ?\n```\n\n---\n\n### **Solution (Step-by-Step):**\n\n**Step 1: Identify the charges and distances**\n- Q\u2081 = +2 \u00b5C = 2 \u00d7 10\u207b\u2076 C\n- Q\u2082 = -2 \u00b5C = -2 \u00d7 10\u207b\u2076 C\n- r\u2081 = r\u2082 = 10 cm = 0.1 m\n- k = 9 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2\n\n**Step 2: Find field due to each charge**\n\nField due to Q\u2081 (+2 \u00b5C):\n$$E_1 = \\frac{kQ_1}{r_1^2} = \\frac{9 \\times 10^9 \\times 2 \\times 10^{-6}}{(0.1)^2}$$\n\n$$E_1 = \\frac{18 \\times 10^3}{0.01} = 1.8 \\times 10^6 \\text{ N/C}$$\n\n**Direction:** Away from +2 \u00b5C \u2192 Points to the **RIGHT**\n\nField due to Q\u2082 (-2 \u00b5C):\n$$E_2 = \\frac{kQ_2}{r_2^2} = \\frac{9 \\times 10^9 \\times 2 \\times 10^{-6}}{(0.1)^2}$$\n\n$$E_2 = 1.8 \\times 10^6 \\text{ N/C}$$\n\n**Direction:** Toward -2 \u00b5C (from left) \u2192 Also points to the **RIGHT**\n\n**Step 3: Add fields vectorially**\n\nSince both fields point in the same direction:\n$$E_{net} = E_1 + E_2 = 1.8 \\times 10^6 + 1.8 \\times 10^6$$\n\n$$\\boxed{E_{net} = 3.6 \\times 10^6 \\text{ N/C (toward the negative charge)}}$$\n\n**Why same direction?** \n- The positive charge pushes field to the right\n- The negative charge pulls field to the right\n- This is an **electric dipole** configuration!\n\n---\n\n## Quick Revision Checklist for NEET\n\n\u2705 Understand superposition principle thoroughly  \n\u2705 Practice vector addition of field components  \n\u2705 Recognize symmetric configurations and exploit them  \n\u2705 Know dipole field concepts (axial and equatorial lines)  \n\u2705 Be comfortable with continuous charge distributions  \n\u2705 Always draw field direction vectors correctly  \n\u2705 Remember sign conventions for charges  \n\u2705 Practice 15-20 problems before exam  \n\n---\n\n## Final Tips for NEET Exam\n\n1. **Always draw diagrams** - visualization saves time and errors\n2. **Use symmetry** - 70% of system problems have symmetric configurations that simplify calculations\n3. **Check dimensions** - E should always be in N/C\n4. **Verify direction** - This is where most students lose marks\n5. **Practice mixed problems** - involving both magnitude and direction calculations\n\nWould you like me to solve additional problems or clarify any concept? \ud83c\udfaf",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Energy in SHM \\u2014 kinetic and potential energy' from Physics (Class 11, Chapter 14: Oscillations) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is Energy in SHM?\n\nIn Simple Harmonic Motion, a particle oscillates between two extreme positions. During this motion, **energy continuously transforms between kinetic energy (KE) and potential energy (PE)**, but the **total mechanical energy remains constant** (in ideal, frictionless systems).\n\n### Key Understanding:\n- **At Mean Position (x = 0):** All KE, PE = 0\n- **At Extreme Positions (x = \u00b1A):** All PE, KE = 0\n- **At Intermediate Positions:** Both KE and PE exist\n- **Total Energy E = KE + PE = constant**\n\n---\n\n## 2. KEY FORMULAS & DERIVATIONS\n\n### For a particle executing SHM: y = A sin(\u03c9t + \u03c6)\n\n#### **Displacement:**\n$$y = A\\sin(\\omega t + \\phi)$$\n\n#### **Velocity:**\n$$v = \\frac{dy}{dt} = A\\omega\\cos(\\omega t + \\phi)$$\n\n#### **Kinetic Energy:**\n$$KE = \\frac{1}{2}mv^2 = \\frac{1}{2}m\\omega^2 A^2\\cos^2(\\omega t + \\phi)$$\n\n**Alternative form (in terms of displacement):**\n$$KE = \\frac{1}{2}m\\omega^2(A^2 - y^2)$$\n\n$$\\boxed{KE = \\frac{1}{2}k(A^2 - y^2)}$$ \nwhere k = m\u03c9\u00b2\n\n#### **Potential Energy:**\n\nFor a spring-mass system or restoring force F = -ky:\n\n$$PE = \\frac{1}{2}ky^2 = \\frac{1}{2}m\\omega^2 y^2$$\n\n$$PE = \\frac{1}{2}m\\omega^2 A^2\\sin^2(\\omega t + \\phi)$$\n\n#### **Total Energy:**\n$$E_{total} = KE + PE$$\n\n$$E_{total} = \\frac{1}{2}m\\omega^2 A^2\\cos^2(\\omega t + \\phi) + \\frac{1}{2}m\\omega^2 A^2\\sin^2(\\omega t + \\phi)$$\n\n$$\\boxed{E_{total} = \\frac{1}{2}m\\omega^2 A^2 = \\frac{1}{2}kA^2}$$\n\nThis is **independent of time** \u2014 Energy is conserved!\n\n### Quick Reference Table:\n\n| Position | KE | PE | E(total) |\n|----------|----|----|----------|\n| Mean (x=0) | MAX = \u00bdm\u03c9\u00b2A\u00b2 | 0 | \u00bdm\u03c9\u00b2A\u00b2 |\n| Extreme (x=\u00b1A) | 0 | MAX = \u00bdkA\u00b2 | \u00bdkA\u00b2 |\n| General (x) | \u00bdm\u03c9\u00b2(A\u00b2-x\u00b2) | \u00bdm\u03c9\u00b2x\u00b2 | \u00bdm\u03c9\u00b2A\u00b2 |\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Type 1: Finding KE/PE at a specific displacement**\n*\"A particle executes SHM with amplitude 5 cm. Find KE when x = 3 cm.\"*\n- Use: KE = \u00bdm\u03c9\u00b2(A\u00b2 - x\u00b2)\n\n### **Type 2: Comparing energies at different positions**\n*\"At what displacement is KE = PE?\"*\n- Set: \u00bdm\u03c9\u00b2(A\u00b2 - x\u00b2) = \u00bdm\u03c9\u00b2x\u00b2\n- Solution: x = A/\u221a2\n\n### **Type 3: Time-based energy questions**\n*\"A particle starts from extreme position. Find KE after time t.\"*\n- Use: KE = \u00bdm\u03c9\u00b2A\u00b2 sin\u00b2(\u03c9t)\n\n### **Type 4: Energy graphs**\n*\"Draw KE vs displacement graph for SHM\"*\n- Parabolic curve, maximum at center, zero at extremes\n\n### **Type 5: Total energy and amplitude relationship**\n*\"If amplitude doubles, how does total energy change?\"*\n- E \u221d A\u00b2, so E becomes 4 times\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **The Seesaw Analogy** \ud83c\udfaa\nImagine KE and PE as two children on a seesaw:\n- When one goes UP (increases), the other goes DOWN (decreases)\n- Their **combined weight (total energy) never changes**\n- At the center: one child is highest, other is lowest\n- At the ends: the high child comes down, low child goes up\n\n### **Energy Spring Visualization:**\n```\nEXTREME POSITION:        MEAN POSITION:\n      \u2193                         \u2193\n    [\u25cf\u25cf\u25cf] (compressed)        [\u25cf] (relaxed)\n    \n    KE = 0                  KE = MAX\n    PE = MAX                PE = 0\n```\n\n### **Quick Recall Formula:**\n- **\"Omega-squared-A-squared\" \u2192 E = \u00bdm\u03c9\u00b2A\u00b2**\n- Amplitude = Energy (proportional to A\u00b2)\n\n---\n\n## 5. SOLVED EXAMPLE\n\n### **NEET-Style Problem:**\n\nA particle of mass **2 kg** executes SHM with amplitude **A = 10 cm = 0.1 m** and angular frequency **\u03c9 = 5 rad/s**.\n\n**(a) Find total energy of the system**\n\n**(b) Find KE and PE when displacement is 6 cm**\n\n**(c) At what displacement is KE = 3 \u00d7 PE?**\n\n---\n\n### **SOLUTION:**\n\n#### **(a) Total Energy:**\n\n$$E_{total} = \\frac{1}{2}m\\omega^2 A^2$$\n\n$$E_{total} = \\frac{1}{2} \\times 2 \\times (5)^2 \\times (0.1)^2$$\n\n$$E_{total} = 1 \\times 25 \\times 0.01 = 0.25 \\text{ J}$$\n\n\u2713 **Answer: E = 0.25 J**\n\n---\n\n#### **(b) KE and PE at y = 6 cm = 0.06 m:**\n\n**Kinetic Energy:**\n$$KE = \\frac{1}{2}m\\omega^2(A^2 - y^2)$$\n\n$$KE = \\frac{1}{2} \\times 2 \\times 25 \\times [(0.1)^2 - (0.06)^2]$$\n\n$$KE = 25 \\times [0.01 - 0.0036]$$\n\n$$KE = 25 \\times 0.0064 = 0.16 \\text{ J}$$\n\n**Potential Energy:**\n$$PE = E_{total} - KE = 0.25 - 0.16 = 0.09 \\text{ J}$$\n\nOr directly:\n$$PE = \\frac{1}{2}m\\omega^2 y^2 = 1 \\times 25 \\times 0.0036 = 0.09 \\text{ J}$$\n\n\u2713 **Answer: KE = 0.16 J, PE = 0.09 J**\n\n**Verification:** KE + PE = 0.16 + 0.09 = 0.25 J \u2713\n\n---\n\n#### **(c) Find x when KE = 3 \u00d7 PE:**\n\nWe know:\n- KE + PE = E = 0.25 J\n- KE = 3 \u00d7 PE\n\nFrom these two equations:\n$$3PE + PE = 0.25$$\n$$4PE = 0.25$$\n$$PE = 0.0625 \\text{ J}$$\n\nNow using $PE = \\frac{1}{2}m\\omega^2 y^2$:\n\n$$0.0625 = \\frac{1}{2} \\times 2 \\times 25 \\times y^2$$\n\n$$0.0625 = 25 y^2$$\n\n$$y^2 = 0.0025$$\n\n$$y = 0.05 \\text{ m} = 5 \\text{ cm}$$\n\n\u2713 **Answer: Displacement = 5 cm**\n\n---\n\n## QUICK SUMMARY FOR REVISION\n\n| Concept | Formula | Key Point |\n|---------|---------|-----------|\n| **Total Energy** | E = \u00bdm\u03c9\u00b2A\u00b2 | Constant, depends on A\u00b2 |\n| **KE at displacement x** | KE = \u00bdm\u03c9\u00b2(A\u00b2 - x\u00b2) | Maximum at mean position |\n| **PE at displacement x** | PE = \u00bdm\u03c9\u00b2x\u00b2 | Maximum at extreme position |\n| **Energy Exchange** | KE + PE = constant | Conservation of energy |\n| **At x = A/\u221a2** | KE = PE | Both equal to E/2 |\n\n---\n\n## FINAL TIPS FOR NEET\n\n\u2705 **Always remember:** Total energy is **constant** and depends on **amplitude squared**  \n\u2705 **Most common mistake:** Forgetting that PE = \u00bdkx\u00b2 where k = m\u03c9\u00b2  \n\u2705 **Quick check:** At x = 0, KE should be maximum (= Total E)  \n\u2705 **Time-saving trick:** Use E = KE + PE rather than deriving from scratch  \n\nWould you like me to provide additional practice problems or clarify any specific concept?",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Gauss's law; Applications of Gauss's law:' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is Gauss's Law?\n\n**Gauss's Law** relates the electric field passing through a closed surface to the charge enclosed within that surface.\n\n**Definition:** *The total electric flux through any closed surface is proportional to the net charge enclosed within that surface.*\n\n### Understanding Flux First:\n- **Electric Flux (\u03a6)** = measure of electric field lines passing through a surface\n- \u03a6 = **E\u00b7A = EA cos \u03b8**\n  - E = electric field strength\n  - A = area of surface\n  - \u03b8 = angle between E and normal to surface\n  - **Flux is maximum when \u03b8 = 0\u00b0 (field perpendicular to surface)**\n\n---\n\n## 2. KEY FORMULA & FACTS\n\n### Gauss's Law (Mathematical Form):\n\n$$\\boxed{\\oint \\vec{E} \\cdot d\\vec{A} = \\frac{Q_{enclosed}}{\\varepsilon_0}}$$\n\nWhere:\n- **\u222e E\u00b7dA** = total electric flux through closed surface (Gaussian surface)\n- **Q_enclosed** = net charge inside the closed surface\n- **\u03b5\u2080** = permittivity of free space = 8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/N\u00b7m\u00b2\n- **1/(4\u03c0\u03b5\u2080)** = 9 \u00d7 10\u2079 N\u00b7m\u00b2/C\u00b2\n\n### Important Facts:\n\n| Fact | Explanation |\n|------|-------------|\n| **Closed surface needed** | Gauss's law applies ONLY to closed surfaces (Gaussian surfaces) |\n| **External charges don't matter** | Only charge INSIDE the surface contributes to flux |\n| **Symmetry is KEY** | The law is most useful for spherical, cylindrical, or planar symmetry |\n| **Field doesn't need to be uniform** | But Gaussian surface should align with symmetry |\n| **Vector nature** | Flux from field lines leaving surface = positive; entering = negative |\n\n---\n\n## 3. APPLICATIONS OF GAUSS'S LAW (WITH DERIVATIONS)\n\n### **Application 1: Electric Field Due to Uniformly Charged Sphere**\n\n**Case A: At distance r > R (outside sphere)**\n\nChoose Gaussian surface = sphere of radius r\n\n$$\\oint \\vec{E} \\cdot d\\vec{A} = \\frac{Q_{total}}{\\varepsilon_0}$$\n\nBy symmetry, E is constant and perpendicular to surface:\n\n$$E(4\\pi r^2) = \\frac{Q}{\\varepsilon_0}$$\n\n$$\\boxed{E = \\frac{Q}{4\\pi\\varepsilon_0 r^2} = \\frac{kQ}{r^2}}$$\n\n**Result:** Outside, sphere acts like point charge at center!\n\n**Case B: At distance r < R (inside uniformly charged sphere)**\n\n$$Q_{enclosed} = \\rho \\times \\frac{4}{3}\\pi r^3$$\n\nwhere \u03c1 = charge density = $\\frac{Q}{\\frac{4}{3}\\pi R^3}$\n\n$$E(4\\pi r^2) = \\frac{\\rho \\times \\frac{4}{3}\\pi r^3}{\\varepsilon_0}$$\n\n$$\\boxed{E = \\frac{\\rho r}{3\\varepsilon_0} = \\frac{Qr}{4\\pi\\varepsilon_0 R^3}}$$\n\n**Result:** Inside, field is directly proportional to r!\n\n---\n\n### **Application 2: Electric Field Due to Infinite Line Charge**\n\nLinear charge density = \u03bb\n\nChoose Gaussian surface = cylindrical surface of radius r and length l\n\nOnly curved surface contributes (end caps perpendicular to E):\n\n$$E(2\\pi r l) = \\frac{\\lambda l}{\\varepsilon_0}$$\n\n$$\\boxed{E = \\frac{\\lambda}{2\\pi\\varepsilon_0 r} = \\frac{2k\\lambda}{r}}$$\n\n**Key Point:** Field depends on 1/r (not 1/r\u00b2)\n\n---\n\n### **Application 3: Electric Field Due to Infinite Plane Sheet**\n\nSurface charge density = \u03c3\n\nChoose Gaussian surface = cylindrical pillbox across the sheet\n\nOnly two flat faces contribute:\n\n$$E(2A) = \\frac{\\sigma A}{\\varepsilon_0}$$\n\n$$\\boxed{E = \\frac{\\sigma}{2\\varepsilon_0}}$$\n\n**Key Point:** Field is INDEPENDENT of distance! (only between infinite planes)\n\n---\n\n### **Application 4: Conductor in Electrostatic Equilibrium**\n\n**Facts:**\n1. **E = 0 inside conductor** (always!)\n2. **Charge resides only on surface**\n3. **E just outside surface = \u03c3/\u03b5\u2080** (perpendicular to surface)\n\n**Why?** Using Gauss's law on a surface inside conductor:\n- If E \u2260 0, charges would move \u2192 contradiction\n- Apply Gauss's law with tiny pillbox at surface\n- This gives E_outside - E_inside = \u03c3/\u03b5\u2080\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### \ud83e\udde0 **Memory Tip 1: \"Flux = Flow\"**\nThink of electric field lines as water flow. Flux = how much water passes through your net. Gauss's law says: *\"Water flowing out depends only on water sources (charges) INSIDE the net.\"*\n\n### \ud83e\udde0 **Memory Tip 2: The \"Three Symmetries\"**\n\n| Symmetry | Gaussian Surface | E \u221d |\n|----------|------------------|-----|\n| **Spherical** | Sphere | 1/r\u00b2 |\n| **Cylindrical** | Cylinder | 1/r |\n| **Planar** | Pillbox | constant |\n\n### \ud83e\udde0 **Memory Tip 3: \"CHOOSE, APPLY, SOLVE\"**\n1. **CHOOSE** the right Gaussian surface (use symmetry!)\n2. **APPLY** Gauss's law: \u222e E\u00b7dA = Q/\u03b5\u2080\n3. **SOLVE** algebraically (E comes out of integral)\n\n---\n\n## 5. COMPLETE NEET EXAMPLE PROBLEM\n\n### **Question:**\nA uniformly charged hollow sphere has radius R and total charge Q. Find the electric field at:\n(a) r = 0 (at center)\n(b) r = R/2 (inside, hollow region)\n(c) r = 2R (outside)\n\n### **Solution:**\n\n**(a) At center (r = 0):**\n\nSince the sphere is **hollow**, there's **NO charge inside any Gaussian surface drawn at r = 0**.\n\nUsing Gauss's law:\n$$\\oint \\vec{E} \\cdot d\\vec{A} = \\frac{Q_{enclosed}}{\\varepsilon_0} = \\frac{0}{\\varepsilon_0} = 0$$\n\n$$\\boxed{E = 0 \\text{ at center}}$$\n\n---\n\n**(b) At r = R/2 (hollow region inside):**\n\nDraw Gaussian surface (sphere) of radius R/2. It's inside the hollow region with **NO charge enclosed**.\n\n$$Q_{enclosed} = 0$$\n\n$$E(4\\pi r^2) = \\frac{0}{\\varepsilon_0}$$\n\n$$\\boxed{E = 0 \\text{ everywhere inside hollow region}}$$\n\n**Key Concept:** *In a hollow conductor (or shell), E = 0 everywhere inside!*\n\n---\n\n**(c) At r = 2R (outside):**\n\nDraw Gaussian surface of radius 2R. All charge Q is enclosed.\n\n$$E(4\\pi (2R)^2) = \\frac{Q}{\\varepsilon_0}$$\n\n$$E \\times 16\\pi R^2 = \\frac{Q}{\\varepsilon_0}$$\n\n$$\\boxed{E = \\frac{Q}{16\\pi\\varepsilon_0 R^2} = \\frac{kQ}{4R^2}}$$\n\n---\n\n## COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1:** \"Find field at distance r from infinite line charge\"\n- Use cylindrical symmetry \u2192 E = \u03bb/(2\u03c0\u03b5\u2080r)\n\n### **Pattern 2:** \"Two concentric charged spheres \u2013 find field in different regions\"\n- Apply Gauss's law separately for each region\n- Identify which charges are enclosed\n\n### **Pattern 3:** \"Conductor with cavity containing charge\"\n- Inside conductor: E = 0\n- In cavity: use Gauss's law (cavity charge only)\n- Outside: total charge matters\n\n### **Pattern 4:** \"Find charge on conductor surface\"\n- Use E just outside = \u03c3/\u03b5\u2080\n- Relate to total enclosed charge\n\n### **Pattern 5:** \"Parallel plates with opposite charges\"\n- Between plates: E = \u03c3/\u03b5\u2080 (field adds)\n- Outside plates: E = 0 (fields cancel)\n\n---\n\n## QUICK REVISION CHECKLIST \u2713\n\n- [ ] Gauss's law relates **flux** and **enclosed charge**\n- [ ] Direction matters: use **dot product** (E\u00b7dA)\n- [ ] Choose Gaussian surface using **symmetry**\n- [ ] Works for any closed surface (choose wisely!)\n- [ ] **Three key applications:** sphere, line, plane\n- [ ] **Inside conductor:** E = 0 always\n- [ ] **Field outside conductor surface:** E = \u03c3/\u03b5\u2080\n\n---\n\n**Final Thought:** Gauss's Law is physics's way of saying: *\"Nature doesn't care about the path; only about what's inside matters.\"* Master the symmetry approach, and you'll solve 90% of electrostatics NEET questions! \ud83c\udfaf",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (A) 0.12 meters **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -252,74 +147,14 @@
         "D": "2 \u00d7 10 7 N C - 1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nApproaximate charge on the element opposite to the gap is \u0394 q = Q 2 \u03c0 r 0.002 \u03c0 = 1 2 \u03c0 0.5 \u00d7 2 \u03c0 1000 = 2 \u00d7 10 - 3 C E = 9 \u00d7 10 9 \u00d7 2 \u00d7 10 - 3 0.5 2 = 7.2 \u00d7 10 7 N C - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Approaximate charge on the element opposite to the gap is \u0394 q = Q 2 \u03c0 r 0.002 \u03c0 = 1 2 \u03c0 0.5 \u00d7 2 \u03c0 1000 = 2 \u00d7 10 - 3 C E = 9 \u00d7 10 9 \u00d7 2 \u00d7 10 - 3 0.5 2 = 7.2 \u00d7 10 7 N C - 1 **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "Two bodies of masses 10 k g and 100 k g are separated by a distance of 2 m . The gravitational potential at the mid-point of the line joining the two bodies is:",
-      "options": {
-        "A": "A -",
-        "B": "3 \u00d7 10 - 7 J / k g B -",
-        "C": "3 \u00d7 10 - 8 J / k g C -",
-        "D": "3 \u00d7 10 - 9 J / k g D -"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nAs we know, gravitational potential V = - G M R Gravitational potential at mid point, = - G \u00d7 10 1 - G \u00d7 100 1 = - 110 G = - 110 \u00d7 6.67 \u00d7 10 - 11 J k g - 1 = - 7.3 \u00d7 10 - 9 J   kg \u2212 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "The electric field components in Fig. are Ex = a${{x}^{1/2}}$ , Ey = Ez = 0, in which a = 800 N/C ${{m}^{1/2}}$. Calculate the charge within the cube. Assume that a = 0.1 m.",
-      "options": {
-        "A": "A",
-        "B": "27 \u00d7 ${{10}^{-12}}$C",
-        "C": "27 \u00d7 ${{10}^{-11}}$C",
-        "D": "27 \u00d7 ${{10}^{-10}}$C"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 9.27 \u00d7 ${{10}^{-12}}$C\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "A point charge +10 mC is a distance 5 cm directly above the centre of a square of side 10 cm, as shown in Fig. What is the magnitude of the electric flux through the square?",
-      "options": {
-        "A": "A",
-        "B": "1 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C",
-        "C": "2 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C",
-        "D": "9 \u00d7 ${{10}^{5}}$N ${{m}^{2}}$/C"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (D) 2.2 \u00d7 N ${{m}^{2}}$/C\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "What is the distance between two small spheres, one with a charge of 0.4 mC and the other with a charge of \u20130.8 mC in air, if the electrostatic force between them is 0.2 N?",
-      "options": {
-        "A": "A",
-        "B": "12 meters",
-        "C": "14 meters",
-        "D": "16 meters"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (A) 0.12 meters\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "What is the net charge on the conducting sphere with a radius of 10 cm, when the electric field 20 cm from the center of the sphere is 1.5 \u00d7 ${{10}^{3}}$ N/C and points radially inward?",
+      "question": "What is the net charge on the conducting sphere with a radius of 10 cm, when the electric field 20 cm from the center of the sphere is 1.5 \u00d7 $10^3$ N/C and points radially inward?",
       "options": {
         "A": "A",
         "B": "67 nC B \u2013",
@@ -327,127 +162,7 @@
         "D": "67 nC D \u2013"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) \u20136.67 nC\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Electric field; Electric field due to a point charge; Electric field lines' from Physics (Class 12, Chapter 1: Electric Charges and Fields) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is an Electric Field?\n\n**Definition:** An electric field is a region of space around a charged object where another charged particle experiences a force.\n\n**Why do we need it?**\n- Charges don't touch each other directly\n- They exert forces across empty space\n- Electric field is the medium through which this force is transmitted\n\n### Mathematical Definition:\n\n**Electric Field (E) = Force per unit positive charge**\n\n$$\\vec{E} = \\frac{\\vec{F}}{q}$$\n\nWhere:\n- **E** = Electric field intensity (N/C or V/m)\n- **F** = Force experienced by test charge\n- **q** = Test charge (always positive)\n\n**Key Point:** Electric field is independent of the test charge. It depends ONLY on the source charge.\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### Electric Field Due to Point Charge:\n\n$$E = \\frac{kQ}{r^2} = \\frac{Q}{4\\pi\\epsilon_0 r^2}$$\n\nWhere:\n- **Q** = Source charge\n- **r** = Distance from charge\n- **k** = 9 \u00d7 10\u2079 N\u22c5m\u00b2/C\u00b2 (Coulomb's constant)\n- **\u03b5\u2080** = 8.85 \u00d7 10\u207b\u00b9\u00b2 C\u00b2/(N\u22c5m\u00b2)\n\n**Direction:**\n- **Positive charge:** Field points AWAY (radially outward)\n- **Negative charge:** Field points TOWARD (radially inward)\n\n### Important Facts to Remember:\n\n| Fact | Explanation |\n|------|-------------|\n| **SI Unit** | N/C or V/m (equivalent) |\n| **Nature** | Vector quantity (has direction) |\n| **Dimension** | [MLT\u207b\u00b3I\u207b\u00b9] |\n| **Superposition** | Total field = vector sum of fields from all charges |\n| **Inverse square law** | E \u221d 1/r\u00b2 |\n\n---\n\n## 3. ELECTRIC FIELD LINES\n\n### Definition:\nElectric field lines are imaginary curves drawn such that tangent at any point gives the direction of electric field at that point.\n\n### Properties of Electric Field Lines:\n\n| Property | Explanation |\n|----------|-------------|\n| **Direction** | Start from +ve charge, end at -ve charge |\n| **Density** | Higher density = stronger field |\n| **Never cross** | Each point has unique field direction |\n| **Perpendicular** | Always perpendicular to conductor surface |\n| **Continuous** | Never discontinuous (except at charge) |\n| **Number proportional** | More lines \u221d Larger charge |\n\n### Visual Examples:\n\n```\nPositive Charge (Point outward):\n      \u2197 \u2191 \u2196\n    \u2197       \u2196\n  \u2192    +Q    \u2190\n    \u2198       \u2199\n      \u2198 \u2193 \u2199\n\nNegative Charge (Point inward):\n      \u2196 \u2191 \u2197\n    \u2196       \u2197\n  \u2190    -Q    \u2192\n    \u2199       \u2196\n      \u2199 \u2193 \u2196\n\nOpposite Charges (Dipole):\n    \u2197 \u2191 \u2196\u2190\u2192\n  \u2197   +   -   \u2196\n  \u2192  \u2199 \u2191 \u2198  \u2190\n  \u2192  \u2191   \u2193  \u2190\n  \u2198   \u2193 \u2191 \u2199  \u2196\n    \u2198 \u2193 \u2199\u2192\u2190\n```\n\n---\n\n## 4. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Field at a Point Due to Multiple Charges\n\"Two charges +q and -q are placed 2 cm apart. Find field at midpoint.\"\n- **Solution Strategy:** Find fields separately, add vectorially\n\n### Pattern 2: Field Line Properties\n\"Which statement about field lines is wrong?\"\n- **Common trap:** Field lines can cross (FALSE - they never cross)\n\n### Pattern 3: Comparing Fields\n\"A point lies on perpendicular bisector of two equal charges. Compare field.\"\n- **Strategy:** Use vector addition, components cancel\n\n### Pattern 4: Field Direction\n\"Where should a charge be placed so net field is zero?\"\n- **Answer:** On the line joining charges, outside them (for opposite charges), or inside (for same charges)\n\n### Pattern 5: Numerical Calculation\n\"Find field at distance r from charge Q in terms of given quantities\"\n- **Direct formula application with substitution**\n\n---\n\n## 5. MEMORY TIPS & ANALOGIES\n\n### Analogy 1: Gravitational Field Comparison\n```\nGravitational Field \u2192 Electric Field\ng = F/m            \u2192 E = F/q\nAlways attractive   \u2192 Can be attractive or repulsive\nWeaker (\u221e)          \u2192 Stronger (1/r\u00b2)\nOnly 1 type mass    \u2192 Two types of charge\n```\n\n### Memory Tip: \"DONE\"\n- **D** = Direction (away from +, toward -)\n- **O** = Only depends on source charge\n- **N** = No crossing of field lines\n- **E** = Electric field = Force/Charge\n\n### Tip for Direction:\n**Positive charge \u2192 Field OUTWARD**\n**Negative charge \u2192 Field INWARD**\n\nThink: \"Positive charges PUSH (away), Negative charges PULL (toward)\"\n\n---\n\n## 6. WORKED EXAMPLE PROBLEM\n\n### Problem:\nTwo point charges **+2 \u03bcC** and **+4 \u03bcC** are separated by **20 cm**. Find the electric field at a point P located **12 cm** from the first charge and **16 cm** from the second charge on a line perpendicular to the line joining the charges.\n\n**Solution:**\n\n**Given:**\n- Q\u2081 = +2 \u03bcC = 2 \u00d7 10\u207b\u2076 C\n- Q\u2082 = +4 \u03bcC = 4 \u00d7 10\u207b\u2076 C\n- r\u2081 = 12 cm = 0.12 m\n- r\u2082 = 16 cm = 0.16 m\n- k = 9 \u00d7 10\u2079 N\u22c5m\u00b2/C\u00b2\n\n**Step 1: Find magnitude of E\u2081 (field due to Q\u2081)**\n\n$$E_1 = \\frac{kQ_1}{r_1^2} = \\frac{9 \\times 10^9 \\times 2 \\times 10^{-6}}{(0.12)^2}$$\n\n$$E_1 = \\frac{18 \\times 10^3}{0.0144} = 1.25 \\times 10^6 \\text{ N/C}$$\n\n**Step 2: Find magnitude of E\u2082 (field due to Q\u2082)**\n\n$$E_2 = \\frac{kQ_2}{r_2^2} = \\frac{9 \\times 10^9 \\times 4 \\times 10^{-6}}{(0.16)^2}$$\n\n$$E_2 = \\frac{36 \\times 10^3}{0.0256} = 1.41 \\times 10^6 \\text{ N/C}$$\n\n**Step 3: Determine Direction**\nBoth charges are positive, so:\n- E\u2081 points AWAY from Q\u2081\n- E\u2082 points AWAY from Q\u2082\n\n(Specific geometry needed for vector addition - let's assume they make angles)\n\n**Step 4: Vector Addition**\nUsing geometry of the situation and finding angle between E\u2081 and E\u2082:\n\nAssuming from the distances given, we can verify it forms a right triangle (3-4-5):\n- 12 cm : 16 cm : 20 cm = 3:4:5 \u2713\n\nThe angle between E\u2081 and E\u2082 can be found, and resultant:\n\n$$E_{net} = \\sqrt{E_1^2 + E_2^2 + 2E_1E_2\\cos\\theta}$$\n\nFor perpendicular configuration at P, if E\u2081 \u22a5 E\u2082:\n\n$$E_{net} = \\sqrt{(1.25)^2 + (1.41)^2} \\times 10^6$$\n\n$$E_{net} = \\sqrt{1.5625 + 1.9881} \\times 10^6 = \\sqrt{3.5506} \\times 10^6$$\n\n$$\\boxed{E_{net} \\approx 1.88 \\times 10^6 \\text{ N/C}}$$\n\n**Direction:** At angle tan\u207b\u00b9(E\u2082/E\u2081) from E\u2081 direction\n\n---\n\n## 7. QUICK REVISION CHECKLIST\n\n- [ ] Can you define electric field independently?\n- [ ] Do you know why E = F/q (not F/Q)?\n- [ ] Can you draw field lines for +Q, -Q, and dipole?\n- [ ] Do you remember field never crosses itself?\n- [ ] Can you apply superposition principle?\n- [ ] Do you know field direction from field line orientation?\n- [ ] Can you solve vector addition of fields?\n\n---\n\n## 8. COMMON MISTAKES TO AVOID\n\n\u274c **Mistake 1:** Using test charge magnitude in field calculation\n\u2705 **Correct:** E depends on SOURCE charge, not test charge\n\n\u274c **Mistake 2:** Field lines crossing\n\u2705 **Correct:** Field lines NEVER cross (unique direction at each point)\n\n\u274c **Mistake 3:** Forgetting vector nature\n\u2705 **Correct:** Always add fields vectorially, not algebraically\n\n\u274c **Mistake 4:** Not considering perpendicular distance\n\u2705 **Correct:** Use actual distance, consider geometry\n\n---\n\nThis topic is found",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "An electron entering field normally with a velocity 4 \u00c3\u0097 10 7 m s - 1 travels a distance of 0.10 m in an electric field of intensity 3200 V m - 1 . What is the deviation from its path?",
-      "options": {
-        "A": "A",
-        "B": "76 m m B",
-        "C": "6 \u00c2 m m C 176 m m",
-        "D": "176 \u00c2 m m"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nTime to cross 0.10   m , t = 0.10 4 \u00d7 10 7 s Distance deviated in this time due to electric field = 1 2 ( e E m ) .   t 2 = 1 2 \u00d7 1.6 \u00d7 10 \u2212 19 \u00d7 3200 9.1 \u00d7 10 \u2212 31 \u00d7 ( 0.1 4 \u00d7 10 7 ) 2 m = 01.76   mm\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "A ring of charge with radius 0.5 m has 0.002 \u03c0 m gap. If the ring carries a charge of +1 C, the electric field at the centre is",
-      "options": {
-        "A": "A",
-        "B": "5 \u00d7 10 7 N C - 1",
-        "C": "2 \u00d7 10 7 N C - 1",
-        "D": "2 \u00d7 10 7 N C - 1"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nApproaximate charge on the element opposite to the gap is \u0394 q = Q 2 \u03c0 r 0.002 \u03c0 = 1 2 \u03c0 0.5 \u00d7 2 \u03c0 1000 = 2 \u00d7 10 - 3 C E = 9 \u00d7 10 9 \u00d7 2 \u00d7 10 - 3 0.5 2 = 7.2 \u00d7 10 7 N C - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Explain 'Potential energy of a spring' from Physics (Class 11, Chapter 6: Work, Energy and Power) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "The student wants a detailed explanation of \"Potential Energy of a Spring\" from Class 11 Physics, Chapter 6 (Work, Energy and Power) for NEET preparation. Let me cover this comprehensively.\n\nKey points to cover:\n1. Hooke's Law - restoring force in spring\n2. Elastic Potential Energy stored in spring\n3. Derivation of PE = (1/2)kx\u00b2\n4. Spring-mass system and energy conservation\n5. NEET question patterns\n6. Memory tips and example problems\n\nLet me structure this well for a NEET student.\n</thinking>\n\n# \u2699\ufe0f Potential Energy of a Spring \u2014 Complete NEET Notes\n\n---\n\n## 1. \ud83e\udde0 Core Concept & Definition\n\nA spring stores energy when it is either **compressed or stretched** from its natural (equilibrium) length. This stored energy is called **Elastic Potential Energy**.\n\n### \ud83d\udd11 The Foundation: Hooke's Law\n\nWhen a spring is deformed by displacement **x** from its natural length, it exerts a **restoring force** that tries to bring it back:\n\n$$\\boxed{F_{restoring} = -kx}$$\n\n| Symbol | Meaning |\n|--------|---------|\n| k | Spring constant (stiffness), unit: N/m |\n| x | Displacement from equilibrium |\n| \u2212 sign | Force opposes displacement (always towards equilibrium) |\n\n> **Higher k \u2192 Stiffer spring \u2192 Harder to compress/stretch**\n\n### \ud83d\udccc How Energy Gets Stored?\n\nTo stretch/compress a spring by x, **you do work against the restoring force**. This work done IS the potential energy stored.\n\nSince force is not constant (it varies as F = kx), we use **integration** (or area under F-x graph):\n\n$$W = \\int_0^x kx \\, dx = \\frac{1}{2}kx^2$$\n\n$$\\boxed{U = \\frac{1}{2}kx^2}$$\n\n---\n\n## 2. \ud83d\udcd0 Key Formulas & Important Facts\n\n### \ud83d\udd39 Formula Set:\n\n| Quantity | Formula |\n|----------|---------|\n| Restoring Force | F = \u2212kx |\n| Elastic PE | U = \u00bdkx\u00b2 |\n| Work done by spring | W_spring = \u2212\u0394U = \u2212(\u00bdkx\u00b2_f \u2212 \u00bdkx\u00b2_i) |\n| Max PE (at max displacement A) | U_max = \u00bdkA\u00b2 |\n| Max KE (at equilibrium, x=0) | KE_max = \u00bdkA\u00b2 |\n\n### \ud83d\udd39 Critical Facts for NEET:\n\n\u2705 **U is always positive** \u2014 whether spring is compressed OR stretched (because of x\u00b2)\n\n\u2705 **At natural length (x = 0):** PE = 0, KE = maximum\n\n\u2705 **At maximum displacement (x = \u00b1A):** PE = maximum, KE = 0\n\n\u2705 **Total Mechanical Energy is CONSERVED:**\n$$E_{total} = \\frac{1}{2}mv^2 + \\frac{1}{2}kx^2 = \\text{constant} = \\frac{1}{2}kA^2$$\n\n\u2705 **The F-x graph is a straight line** \u2192 Area under graph (triangle) = \u00bd \u00d7 x \u00d7 kx = \u00bdkx\u00b2 \u2713\n\n\u2705 **Spring constant for series/parallel combinations:**\n- Series: $\\frac{1}{k_{eff}} = \\frac{1}{k_1} + \\frac{1}{k_2}$\n- Parallel: $k_{eff} = k_1 + k_2$\n\n---\n\n## 3. \ud83c\udfaf Common NEET Question Patterns\n\n### Pattern 1: Direct PE Calculation\n*\"A spring of spring constant 500 N/m is compressed by 10 cm. Find the PE stored.\"*\n\u2192 Directly apply U = \u00bdkx\u00b2\n\n### Pattern 2: Energy Conservation in Spring-Mass System\n*\"A block attached to spring is released from x = A. Find velocity at x = A/2.\"*\n\u2192 Use: \u00bdkA\u00b2 = \u00bdmv\u00b2 + \u00bdk(A/2)\u00b2\n\n### Pattern 3: Ratio of KE to PE at a given position\n*\"At x = A/2, find KE:PE\"*\n\u2192 PE = \u00bdk(A/2)\u00b2 = kA\u00b2/8\n\u2192 KE = \u00bdkA\u00b2 \u2212 kA\u00b2/8 = 3kA\u00b2/8\n\u2192 **KE:PE = 3:1** \u2b50 (Very frequently asked!)\n\n### Pattern 4: Spring Cut into Pieces\n*\"A spring of constant k is cut into n equal parts. What is the spring constant of each part?\"*\n\u2192 Each piece: **k' = nk** (shorter spring = stiffer spring)\n\n### Pattern 5: Two Springs Connected\n\u2192 Use series/parallel combination formulas\n\n### Pattern 6: Work Done by Spring\n*\"Find work done by spring when block moves from x\u2081 to x\u2082\"*\n\u2192 W = \u00bdkx\u2081\u00b2 \u2212 \u00bdkx\u2082\u00b2 (decrease in PE)\n\n---\n\n## 4. \ud83d\udca1 Memory Tip & Analogy\n\n### \ud83e\uddf2 Analogy \u2014 \"The Angry Rubber Band\"\nThink of a spring like a rubber band:\n- The more you stretch it \u2192 the **angrier** it gets (more restoring force)\n- The more you stretch it \u2192 the **more energy** it stores\n- Let it go \u2192 all stored energy converts to **kinetic energy**\n\n### \ud83e\udde0 Memory Formula Trick:\n$$U = \\frac{1}{2}kx^2 \\quad \\leftrightarrow \\quad KE = \\frac{1}{2}mv^2$$\n\n**Both have the \"\u00bd \u00d7 something \u00d7 square\" structure!**\n- Mass (m) \u2192 corresponds to \u2192 Spring constant (k)\n- Velocity (v) \u2192 corresponds to \u2192 Displacement (x)\n\n### \u26a1 Key Ratio to Remember:\n| Position | PE | KE |\n|----------|----|----|\n| x = 0 | 0 | Max (= \u00bdkA\u00b2) |\n| x = A/2 | \u00bc of max | \u00be of max |\n| x = A/\u221a2 | Half of max | Half of max |\n| x = A | Max (= \u00bdkA\u00b2) | 0 |\n\n---\n\n## 5. \ud83d\udcdd Example Problem (NEET-Style)\n\n### \u2753 Problem:\nA block of mass **2 kg** is attached to a spring of spring constant **200 N/m**. The block is pulled to a displacement of **10 cm** from equilibrium and released from rest. Find:\n(a) Total mechanical energy of the system\n(b) Velocity of the block when x = 5 cm\n(c) The ratio KE:PE at x = 5 cm\n\n---\n\n### \u2705 Solution:\n\n**Given:**\n- m = 2 kg, k = 200 N/m\n- Amplitude A = 10 cm = 0.1 m\n\n---\n\n**Part (a): Total Mechanical Energy**\n\nAt x = A, KE = 0, so all energy is PE:\n\n$$E = \\frac{1}{2}kA^2 = \\frac{1}{2} \\times 200 \\times (0.1)^2$$\n\n$$\\boxed{E = 1 \\text{ J}}$$\n\n---\n\n**Part (b): Velocity at x = 5 cm = 0.05 m**\n\nUsing Energy Conservation:\n$$\\frac{1}{2}mv^2 + \\frac{1}{2}kx^2 = \\frac{1}{2}kA^2$$\n\n$$\\frac{1}{2}(2)v^2 = 1 - \\frac{1}{2}(200)(0.05)^2$$\n\n$$v^2 = 1 - \\frac{1}{2}(200)(0.0025) = 1 - 0.25 = 0.75$$\n\n$$\\boxed{v = \\sqrt{0.75} \\approx 0.866 \\text{ m/s}}$$\n\n---\n\n**Part (c): Ratio KE : PE at x = 0.05 m**\n\n$$PE = \\frac{1}{2}kx^2 = \\frac{1}{2}(200)(0.05)^2 = 0.25 \\text{ J}$$\n\n$$KE = E - PE = 1 - 0.25 = 0.75 \\text{ J}$$\n\n$$\\boxed{KE : PE = 0.75 : 0.25 = 3 : 1}$$\n\n> \ud83c\udfaf **Notice:** x = A/2 always gives KE:PE = 3:1 \u2014 memorize this!\n\n---\n\n## \ud83d\ude80 Quick Revision Snapshot\n\n```\nSpring Potential Energy \u2014 NEET Essentials\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n\u2726 Restoring Force: F = -kx\n\u2726 Elastic PE: U = \u00bdkx\u00b2  \n\u2726 Total Energy: E = \u00bdkA\u00b2\n\u2726 At x=0: KE max, PE = 0\n\u2726 At x=A: PE max, KE = 0\n\u2726 At x=A/2: KE:PE = 3:1 \u2b50\n\u2726 At x=A/\u221a2: KE = PE\n\u2726 Spring cut in n parts: k' = nk\n\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\u2501\n```\n\nMaster these patterns and you'll confidently solve **any spring PE question** in NEET! \ud83d\udcaa",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "Question: \"What is the force on the second sphere due to the first when a small sphere of charge 0.4 mC exerts an electrostatic force of 0.2 N on another small sphere of charge \u20130.8 mC in air?\"",
-      "options": {
-        "A": "A",
-        "B": "1 N B -",
-        "C": "1 N C -",
-        "D": "2 N"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (C) -0.2 N\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "What is the net charge on the conducting sphere with a radius of 10 cm, when the electric field 20 cm from the center of the sphere is 1.5 \u00d7 ${{10}^{3}}$ N/C and points radially inward?",
-      "options": {
-        "A": "A",
-        "B": "67 nC B \u2013",
-        "C": "67 nC C \u2013",
-        "D": "67 nC D \u2013"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCorrect Option is : (B) \u20136.67 nC\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "The electric field strength in N C - 1 that is required to just prevent a water drop carrying a charge 16 \u00d7 10 - 19 C from falling under gravity is ( g = 9.8 m s - 2 , the mass of water drop = 0.0016 g )",
-      "options": {
-        "A": "A",
-        "B": "8 \u00d7 10 - 16",
-        "C": "8 \u00d7 10 16",
-        "D": "8 \u00d7 10 - 13"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nCharge on drop = 16 \u00d7 10 - 19 C Mass of the drop = 0.0016 g = 16 \u00d7 10 - 4 g = 16 \u00d7 10 - 7 kg g = 9.8 m s - 2 In balance position, m g = q E Where, E is electric field strength. E = m g q = 16 \u00d7 10 - 7 \u00d7 9.8 16 \u00d7 10 - 19 = 9 .8 \u00d7 10 13 N C - 1 .\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Physics",
-      "chapter": "Electrostatics and Capacitance"
-    },
-    {
-      "question": "A body of mass 1 g and carrying a charge 1 0 - 8 C passes from two points P and Q . P and Q are at electric potentials 600 V and 0 V respectively. The velocity of the body at Q is 20 c m s - 1 . Its velocity in m s - 1 at P is",
-      "options": {
-        "A": "A",
-        "B": "028",
-        "C": "056",
-        "D": "56"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nPotentials, V P = 600 V V Q = 0 V Conserving mechanical energy, K P + U P = K Q + U Q 1 2 m v P 2 + q v R = 1 2 m v Q 2 + q v Q 1 2 m v P 2 - v Q 2 = q V Q - V P 1 2 1 0 - 3 v P 2 - 0.2 2 = 1 0 - 8 0 - 600 v P 2 - 0.04 = - 12 \u00d7 1 0 - 3 v P 2 = 0.04 - 0.012 v P = 0.028 m s - 1\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Correct Option is : (B) \u20136.67 nC **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Physics",
@@ -462,7 +177,7 @@
         "D": "11 $$\\times$$ 10<sup>$$-$$2</sup> V/m"
       },
       "answer": "A",
-      "solution": "Given, current, I = 5A<br/><br/>Area of cross-section of wire, A = 0.04 m<sup>2</sup><br/><br/>We know that, $$J = {I \\over A}$$<br/><br/>$$ \\Rightarrow I = JA$$<br/><br/>or $$I = J\\,.\\,A$$ or $$I = JA\\cos \\theta $$<br/><br/>where, J = current density.<br/><br/>$$ \\Rightarrow 5 = J\\left( {{4 \\over {100}}} \\right) \\times \\cos (60^\\circ )$$ [$$\\because$$ Given, $$\\theta$$ = 60$$^\\circ$$]<br/><br/>$$J = 500 \\times {1 \\over 2}$$ [$$\\because$$ cos60$$^\\circ$$ = $${1 \\over 2}$$]<br/><br/>$$\\Rightarrow$$ J = 250 Am<sup>$$-$$2</sup><br/><br/>The relation between electric field, current density and resistivity can be given as,<br/><br/>E = $$\\rho$$ . J<br/><br/>= 44 $$\\times$$ 10<sup>$$-$$8</sup> $$\\times$$ 250 [$$\\because$$ Resistivity, $$\\rho$$ = 44 $$\\times$$ 10<sup>$$-$$8</sup> $$\\Omega$$-m]<br/><br/>= 11 $$\\times$$ 10<sup>$$-$$5</sup> V/m",
+      "solution": "Given, current, I = 5A<br/><br/>Area of cross-section of wire, A = 0.04 m<sup>2</sup><br/><br/>We know that, $$J = I \\over A$$<br/><br/>$$ \\Rightarrow I = JA$$<br/><br/>or $$I = J\\,.\\,A$$ or $$I = JA\\cos \\theta $$<br/><br/>where, J = current density.<br/><br/>$$ \\Rightarrow 5 = J\\left( 4 \\over 100 \\right) \\times \\cos (60^\\circ )$$ [$$\\because$$ Given, $$\\theta$$ = 60$$^\\circ$$]<br/><br/>$$J = 500 \\times 1 \\over 2$$ [$$\\because$$ cos60$$^\\circ$$ = $$1 \\over 2$$]<br/><br/>$$\\Rightarrow$$ J = 250 Am<sup>$$-$$2</sup><br/><br/>The relation between electric field, current density and resistivity can be given as,<br/><br/>E = $$\\rho$$ . J<br/><br/>= 44 $$\\times$$ 10<sup>$$-$$8</sup> $$\\times$$ 250 [$$\\because$$ Resistivity, $$\\rho$$ = 44 $$\\times$$ 10<sup>$$-$$8</sup> $$\\Omega$$-m]<br/><br/>= 11 $$\\times$$ 10<sup>$$-$$5</sup> V/m",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -471,58 +186,58 @@
     {
       "question": "A conducting wire of length 'l', area of cross-section A and electric resistivity $$\\rho$$ is connected between the terminals of a battery. A potential difference V is developed between its ends, causing an electric current.<br/><br/>If the length of the wire of the same material is doubled and the area of cross-section is halved, the resultant current would be :",
       "options": {
-        "A": "$$4{{VA} \\over {\\rho l}}$$",
-        "B": "$${3 \\over 4}{{VA} \\over {\\rho l}}$$",
-        "C": "$${1 \\over 4}{{VA} \\over {\\rho l}}$$",
-        "D": "$${1 \\over 4}{{\\rho l} \\over {VA}}$$"
+        "A": "$$4VA \\over \\rho l$$",
+        "B": "$$3 \\over 4VA \\over \\rho l$$",
+        "C": "$$1 \\over 4VA \\over \\rho l$$",
+        "D": "$$1 \\over 4\\rho l \\over VA$$"
       },
       "answer": "C",
-      "solution": "We know that<br><br>$$R = \\rho {l \\over A}$$<br><br>Now, new length : $$l' = 2l$$<br><br>new area of cross section : $$A' = A/2$$<br><br>$$ \\therefore $$ New resistance : $$R' = \\rho .{{2l} \\over {A/2}}$$<br><br>$$ \\Rightarrow R' = 4{{\\rho l} \\over A}$$<br><br>$$ \\Rightarrow R' = 4R$$<br><br>$$ \\therefore $$ Resultant current : $$I = {V \\over {4R}}$$<br><br>$$ \\Rightarrow $$ $$I = {1 \\over 4}{{VA} \\over {\\rho l}}$$",
+      "solution": "We know that<br><br>$$R = \\rho l \\over A$$<br><br>Now, new length : $$l' = 2l$$<br><br>new area of cross section : $$A' = A/2$$<br><br>$$ \\therefore $$ New resistance : $$R' = \\rho .2l \\over A/2$$<br><br>$$ \\Rightarrow R' = 4\\rho l \\over A$$<br><br>$$ \\Rightarrow R' = 4R$$<br><br>$$ \\therefore $$ Resultant current : $$I = V \\over 4R$$<br><br>$$ \\Rightarrow $$ $$I = 1 \\over 4VA \\over \\rho l$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electron (mass m) with initial velocity $$\\overrightarrow v  = {v_0}\\widehat i + {v_0}\\widehat j$$ is in an electric field $$\\overrightarrow E  =  - {E_0}\\widehat k$$. If $$\\lambda _0$$ is initial de-Broglie wavelength of electron,\nits de-Broglie wave length at time t is given\nby :",
+      "question": "An electron (mass m) with initial velocity $$\\overrightarrow v = v_0\\widehat i + v_0\\widehat j$$ is in an electric field $$\\overrightarrow E = - E_0\\widehat k$$. If $$\\lambda _0$$ is initial de-Broglie wavelength of electron, its de-Broglie wave length at time t is given by :",
       "options": {
-        "A": "$${{{\\lambda _0} } \\over {\\sqrt {1 + {{{e^2}{E^2}{t^2}} \\over {{m^2}v_0^2}}} }}$$",
-        "B": "$${{{\\lambda _0}\\sqrt 2 } \\over {\\sqrt {1 + {{{e^2}{E^2}{t^2}} \\over {{m^2}v_0^2}}} }}$$",
-        "C": "$${{{\\lambda _0} } \\over {\\sqrt {1 + {{{e^2}{E^2}{t^2}} \\over {2{m^2}v_0^2}}} }}$$",
-        "D": "$${{{\\lambda _0}} \\over {\\sqrt {2 + {{{e^2}{E^2}{t^2}} \\over {{m^2}v_0^2}}} }}$$"
+        "A": "$$\\lambda _0 \\over \\sqrt 1 + e^2E^2t^2 \\over m^2v_0^2 $$",
+        "B": "$$\\lambda _0\\sqrt 2 \\over \\sqrt 1 + e^2E^2t^2 \\over m^2v_0^2 $$",
+        "C": "$$\\lambda _0 \\over \\sqrt 1 + e^2E^2t^2 \\over 2m^2v_0^2 $$",
+        "D": "$$\\lambda _0 \\over \\sqrt 2 + e^2E^2t^2 \\over m^2v_0^2 $$"
       },
       "answer": "C",
-      "solution": "$$\\overrightarrow v  = {v_0}\\widehat i + {v_0}\\widehat j$$\n<br><br>$$\\lambda $$<sub>0</sub> = $${h \\over {m\\sqrt 2 {v_0}}}$$ ....(1)\n<br><br>$$\\overrightarrow E  =  - {E_0}\\widehat k$$\n<br><br>$$\\overrightarrow F  = q\\overrightarrow E $$ = (-e)($$- {E_0}\\widehat k$$) = $$e{E_0}\\widehat k$$\n<br><br>$$ \\therefore $$ $$\\overrightarrow a  = {{\\overrightarrow F } \\over m}$$ = $${{e{E_0}\\widehat k} \\over m}$$\n<br><br>Velocity at time t, \n<br><br>$$\\overrightarrow {{v_f}} $$ = $${v_0}\\widehat i + {v_0}\\widehat j$$ + $${{e{E_0}} \\over m}t\\widehat k$$\n<br><br> $$\\left| {\\overrightarrow {{v_f}} } \\right|$$ = $$\\sqrt {v_0^2 + v_0^2 + {{\\left( {{{e{E_0}t} \\over m}} \\right)}^2}} $$\n<br><br>= $$\\sqrt {2v_0^2 + {{{e^2}E_0^2} \\over {{m^2}}}{t^2}} $$\n<br><br>$$ \\therefore $$ Wavelength at time t\n<br><br>$$\\lambda $$ = $${h \\over {m{v_f}}}$$ = $${h \\over {m\\sqrt {2v_0^2 + {{{e^2}E_0^2} \\over {{m^2}}}{t^2}} }}$$\n<br><br>= $${h \\over {\\sqrt 2 m{v_0}\\sqrt {1 + {{{e^2}E_0^2} \\over {2{m^2}v_0^2}}{t^2}} }}$$\n<br><br>= $${{{\\lambda _0}} \\over {\\sqrt {1 + {{{e^2}E_0^2} \\over {2{m^2}v_0^2}}{t^2}} }}$$",
+      "solution": "$$\\overrightarrow v = v_0\\widehat i + v_0\\widehat j$$ <br><br>$$\\lambda $$<sub>0</sub> = $$h \\over m\\sqrt 2 v_0$$ ....(1) <br><br>$$\\overrightarrow E = - E_0\\widehat k$$ <br><br>$$\\overrightarrow F = q\\overrightarrow E $$ = (-e)($$- E_0\\widehat k$$) = $$eE_0\\widehat k$$ <br><br>$$ \\therefore $$ $$\\overrightarrow a = \\overrightarrow F \\over m$$ = $$eE_0\\widehat k \\over m$$ <br><br>Velocity at time t, <br><br>$$\\overrightarrow v_f $$ = $$v_0\\widehat i + v_0\\widehat j$$ + $$eE_0 \\over mt\\widehat k$$ <br><br> $$\\left| \\overrightarrow v_f \\right|$$ = $$\\sqrt v_0^2 + v_0^2 + \\left( eE_0t \\over m \\right)^2 $$ <br><br>= $$\\sqrt 2v_0^2 + e^2E_0^2 \\over m^2t^2 $$ <br><br>$$ \\therefore $$ Wavelength at time t <br><br>$$\\lambda $$ = $$h \\over mv_f$$ = $$h \\over m\\sqrt 2v_0^2 + e^2E_0^2 \\over m^2t^2 $$ <br><br>= $$h \\over \\sqrt 2 mv_0\\sqrt 1 + e^2E_0^2 \\over 2m^2v_0^2t^2 $$ <br><br>= $$\\lambda _0 \\over \\sqrt 1 + e^2E_0^2 \\over 2m^2v_0^2t^2 $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>Which of the following statement is not true about stopping potential $$(\\mathrm{V}_0)$$ ?</p>",
+      "question": "<p>Which of the following statement is not true about stopping potential $$(V_0)$$ ?</p>",
       "options": {
-        "A": "It depends upon frequency of the incident light.\n",
-        "B": "It is $$1 / \\mathrm{e}$$ times the maximum kinetic energy of electrons emitted.\n",
-        "C": "It increases with increase in intensity of the incident light.\n",
+        "A": "It depends upon frequency of the incident light.",
+        "B": "It is $$1 / e$$ times the maximum kinetic energy of electrons emitted.",
+        "C": "It increases with increase in intensity of the incident light.",
         "D": "It depends on the nature of emitter material."
       },
       "answer": "C",
-      "solution": "<p>Stopping potential is independent of intensity of \nlight. It depends on frequency of light.</p>",
+      "solution": "<p>Stopping potential is independent of intensity of light. It depends on frequency of light.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electromagnetic wave is represented by the electric field $$\\overrightarrow E  = {E_0}\\widehat n\\sin \\left[ {\\omega t + \\left( {6y - 8z} \\right)} \\right]$$\n. Taking unit\nvectors in x, y and z directions to be $$\\widehat i,\\widehat j,\\widehat k$$\n, the direction of propagation $$\\widehat s$$, is :",
+      "question": "An electromagnetic wave is represented by the electric field $$\\overrightarrow E = E_0\\widehat n\\sin \\left[ \\omega t + \\left( 6y - 8z \\right) \\right]$$ . Taking unit vectors in x, y and z directions to be $$\\widehat i,\\widehat j,\\widehat k$$ , the direction of propagation $$\\widehat s$$, is :",
       "options": {
-        "A": "$$\\widehat s = {{3\\widehat i - 4\\widehat j} \\over 5}$$",
-        "B": "$$\\widehat s = {{ - 4\\widehat k + 3\\widehat j} \\over 5}$$",
-        "C": "$$\\widehat s = \\left( {{{ - 3\\widehat j + 4\\widehat k} \\over 5}} \\right)$$",
-        "D": "$$\\widehat s = {{4\\widehat j - 3\\widehat k} \\over 5}$$"
+        "A": "$$\\widehat s = 3\\widehat i - 4\\widehat j \\over 5$$",
+        "B": "$$\\widehat s = - 4\\widehat k + 3\\widehat j \\over 5$$",
+        "C": "$$\\widehat s = \\left( - 3\\widehat j + 4\\widehat k \\over 5 \\right)$$",
+        "D": "$$\\widehat s = 4\\widehat j - 3\\widehat k \\over 5$$"
       },
       "answer": "C",
-      "solution": "$$\\overrightarrow E  = {E_0}\\widehat n\\sin \\left( {\\omega t + \\left( {6y - 8z} \\right)} \\right)$$<br><br>\n$$ = {E_0}\\widehat n\\sin \\left( {\\omega t + \\overrightarrow k .\\overrightarrow r } \\right)$$<br><br>\nwhere $$\\overrightarrow r  = x\\widehat i + y\\widehat j + z\\widehat k$$ and $$\\overrightarrow k .\\overrightarrow r  = 6y - 8z$$<br><br>\n$$ \\Rightarrow \\overrightarrow k  = 6\\widehat j - 8\\widehat k$$ <br><br>\ndirection of propagation<br><br> $$\\widehat s =  - \\widehat k = \\left( {{{ - 3\\widehat j + 4\\widehat k} \\over 5}} \\right)$$",
+      "solution": "$$\\overrightarrow E = E_0\\widehat n\\sin \\left( \\omega t + \\left( 6y - 8z \\right) \\right)$$<br><br> $$ = E_0\\widehat n\\sin \\left( \\omega t + \\overrightarrow k .\\overrightarrow r \\right)$$<br><br> where $$\\overrightarrow r = x\\widehat i + y\\widehat j + z\\widehat k$$ and $$\\overrightarrow k .\\overrightarrow r = 6y - 8z$$<br><br> $$ \\Rightarrow \\overrightarrow k = 6\\widehat j - 8\\widehat k$$ <br><br> direction of propagation<br><br> $$\\widehat s = - \\widehat k = \\left( - 3\\widehat j + 4\\widehat k \\over 5 \\right)$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -533,18 +248,18 @@
       "options": {
         "A": "9",
         "B": "2",
-        "C": "$${1 \\over 3}$$",
+        "C": "$$1 \\over 3$$",
         "D": "3"
       },
       "answer": "A",
-      "solution": "Given, electric field,<br/><br/>E = 20 cos(2 $$\\times$$ 10<sup>10</sup>t $$-$$ 200 x) V/m<br/><br/>Comparing with the standard equation,<br/><br/>E = E<sub>0</sub> cos($$\\omega$$t $$-$$ kx) V/m, we get<br/><br/>Wave constant, k = 200<br/><br/>Angular frequency, $$\\omega$$ = 2 $$\\times$$ 10<sup>10</sup> rad/s<br/><br/>Speed of the wave, $$v = {\\omega  \\over k} = {{2 \\times {{10}^{10}}} \\over {200}} = {10^8}$$ m/s<br/><br/>Refractive index, $$\\mu  = {c \\over v} = {{3 \\times {{10}^8}} \\over {{{10}^8}}} = 3$$<br/><br/>As we know the relation between the refractive index and dielectric constant,<br/><br/>$$\\mu  = \\sqrt {{\\varepsilon _r}{\\mu _r}} $$<br/><br/>Substituting the value in the above equations, we get<br/><br/>$$3 = \\sqrt {{\\varepsilon _r}(1)} $$<br/><br/>$${\\varepsilon _r} = 9$$<br/><br/>Thus, the dielectric constant of the medium is 9.",
+      "solution": "Given, electric field,<br/><br/>E = 20 cos(2 $$\\times$$ 10<sup>10</sup>t $$-$$ 200 x) V/m<br/><br/>Comparing with the standard equation,<br/><br/>E = E<sub>0</sub> cos($$\\omega$$t $$-$$ kx) V/m, we get<br/><br/>Wave constant, k = 200<br/><br/>Angular frequency, $$\\omega$$ = 2 $$\\times$$ 10<sup>10</sup> rad/s<br/><br/>Speed of the wave, $$v = \\omega \\over k = 2 \\times 10^10 \\over 200 = 10^8$$ m/s<br/><br/>Refractive index, $$\\mu = c \\over v = 3 \\times 10^8 \\over 10^8 = 3$$<br/><br/>As we know the relation between the refractive index and dielectric constant,<br/><br/>$$\\mu = \\sqrt \\varepsilon _r\\mu _r $$<br/><br/>Substituting the value in the above equations, we get<br/><br/>$$3 = \\sqrt \\varepsilon _r(1) $$<br/><br/>$$\\varepsilon _r = 9$$<br/><br/>Thus, the dielectric constant of the medium is 9.",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>A beam of light travelling along $$X$$-axis is described by the electric field $$E_{y}=900 \\sin \\omega(\\mathrm{t}-x / c)$$. The ratio of electric force to magnetic force on a charge $$\\mathrm{q}$$ moving along $$Y$$-axis with a speed of $$3 \\times 10^{7} \\mathrm{~ms}^{-1}$$ will be :</p>\n<p>(Given speed of light $$=3 \\times 10^{8} \\mathrm{~ms}^{-1}$$)</p>",
+      "question": "<p>A beam of light travelling along $$X$$-axis is described by the electric field $$E_y=900 \\sin \\omega(t-x / c)$$. The ratio of electric force to magnetic force on a charge $$q$$ moving along $$Y$$-axis with a speed of $$3 \\times 10^7 ~ms^-1$$ will be :</p> <p>(Given speed of light $$=3 \\times 10^8 ~ms^-1$$)</p>",
       "options": {
         "A": "1 : 1",
         "B": "1 : 10",
@@ -552,52 +267,52 @@
         "D": "1 : 2"
       },
       "answer": "C",
-      "solution": "<p>Ratio $$ = {{|q\\overrightarrow E |} \\over {|q\\overrightarrow v  \\times \\overrightarrow B |}}$$</p>\n<p>$$ = {E \\over {vB}} = {{{v_{wave}}} \\over v}$$</p>\n<p>$$\\Rightarrow$$ Ratio $$ = {{3 \\times {{10}^8}} \\over {3 \\times {{10}^7}}} = 10$$</p>",
+      "solution": "<p>Ratio $$ = |q\\overrightarrow E | \\over |q\\overrightarrow v \\times \\overrightarrow B |$$</p> <p>$$ = E \\over vB = v_wave \\over v$$</p> <p>$$\\Rightarrow$$ Ratio $$ = 3 \\times 10^8 \\over 3 \\times 10^7 = 10$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A point source of $100 \\mathrm{~W}$ emits light with $5 \\%$ efficiency. At a distance of $5 \\mathrm{~m}$ from the source, the intensity produced by the electric field component is:",
+      "question": "A point source of $100 ~W$ emits light with $5 \\%$ efficiency. At a distance of $5 ~m$ from the source, the intensity produced by the electric field component is:",
       "options": {
-        "A": "$\\frac{1}{40 \\pi} \\frac{W}{m^2}$",
-        "B": "$\\frac{1}{10 \\pi} \\frac{W}{m^2}$",
-        "C": "$\\frac{1}{20 \\pi} \\frac{W}{m^2}$",
-        "D": "$\\frac{1}{2 \\pi} \\frac{W}{m^2}$"
+        "A": "$\\frac140 \\pi \\fracWm^2$",
+        "B": "$\\frac110 \\pi \\fracWm^2$",
+        "C": "$\\frac120 \\pi \\fracWm^2$",
+        "D": "$\\frac12 \\pi \\fracWm^2$"
       },
       "answer": "A",
-      "solution": "<p>A point source of $100 \\mathrm{~W}$ emits light with $5 \\%$ efficiency. At a distance of $5 \\mathrm{~m}$ from the source, the intensity produced by the electric field component is evaluated as follows:</p>\n\n<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1leoi23xo/0eb20d87-a1d6-4001-9b1f-f87c1a57bca1/13d4dac0-b78a-11ed-8877-d5d81ac5ff88/file-1leoi23xp.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1leoi23xo/0eb20d87-a1d6-4001-9b1f-f87c1a57bca1/13d4dac0-b78a-11ed-8877-d5d81ac5ff88/file-1leoi23xp.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 30th January Evening Shift Physics - Electromagnetic Waves Question 33 English Explanation\"></p>\n\n<p>The intensity at a distance of $5$ meters can be calculated as:</p>\n\n<p>Intensity at 5 m $$= \\frac{5}{4\\pi \\times 5^2}\\left(\\frac{W}{m^2}\\right)$$</p>\n\n<p>$$= \\frac{1}{20\\pi}\\left(\\frac{W}{m^2}\\right)$$</p>\n\n<p>Since the intensity due to the electric field component is half of the total intensity:</p>\n\n<p>Intensity due to electric field $$= \\frac{1}{40\\pi}\\left(\\frac{W}{m^2}\\right)$$</p>\n\n<p>Thus, we arrive at our result:</p>\n\n<p>$$= \\frac{1}{40\\pi}\\left(\\frac{W}{m^2}\\right)$$</p>",
+      "solution": "<p>A point source of $100 ~W$ emits light with $5 \\%$ efficiency. At a distance of $5 ~m$ from the source, the intensity produced by the electric field component is evaluated as follows:</p> <p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1leoi23xo/0eb20d87-a1d6-4001-9b1f-f87c1a57bca1/13d4dac0-b78a-11ed-8877-d5d81ac5ff88/file-1leoi23xp.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1leoi23xo/0eb20d87-a1d6-4001-9b1f-f87c1a57bca1/13d4dac0-b78a-11ed-8877-d5d81ac5ff88/file-1leoi23xp.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 30th January Evening Shift Physics - Electromagnetic Waves Question 33 English Explanation\"></p> <p>The intensity at a distance of $5$ meters can be calculated as:</p> <p>Intensity at 5 m $$= \\frac54\\pi \\times 5^2\\left(\\fracWm^2\\right)$$</p> <p>$$= \\frac120\\pi\\left(\\fracWm^2\\right)$$</p> <p>Since the intensity due to the electric field component is half of the total intensity:</p> <p>Intensity due to electric field $$= \\frac140\\pi\\left(\\fracWm^2\\right)$$</p> <p>Thus, we arrive at our result:</p> <p>$$= \\frac140\\pi\\left(\\fracWm^2\\right)$$</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "Two identical conducting spheres A and B,  carry equal charge. They are separated by a distance much larger than their diameters,  and the force between theis F.  A third identical conducting sphere, C,  is uncharged. Sphere C is first touhed to A, then to B, and then removed. As a result, the force between A and B would be equal to : ",
+      "question": "Two identical conducting spheres A and B, carry equal charge. They are separated by a distance much larger than their diameters, and the force between theis F. A third identical conducting sphere, C, is uncharged. Sphere C is first touhed to A, then to B, and then removed. As a result, the force between A and B would be equal to :",
       "options": {
-        "A": "F ",
-        "B": "$${{3F} \\over 4}$$",
-        "C": "$${{3F} \\over 8}$$",
-        "D": "$${{F} \\over 2}$$"
+        "A": "F",
+        "B": "$$3F \\over 4$$",
+        "C": "$$3F \\over 8$$",
+        "D": "$$F \\over 2$$"
       },
       "answer": "C",
-      "solution": "Let, change of A and B = q\n<br><br>$$\\therefore\\,\\,\\,$$ Force between them, F = $${{k \\times q \\times q} \\over {{r^2}}} = {{k{q^2}} \\over {{r^2}}}$$\n<br><br>When C touched with A then charge of A. Will fl;ow to C and divide into half parts. \n<br><br>$$\\therefore\\,\\,\\,$$ charge of A and C ,\n<br><br>q<sub>A</sub> = q<sub>B</sub> = $${q \\over 2}$$\n<br><br>Then C touched with B, then charge on B, \n<br><br>q<sub>B</sub> = $${{{q \\over 2} + q} \\over 2} = {{3q} \\over 4}$$\n<br><br>$$\\therefore\\,\\,\\,$$ Force between A and B, \n<br><br>F' = $${{k \\times {q \\over 2} \\times {{3q} \\over 4}} \\over {{r^2}}}$$\n<br><br>= $${{k \\times 3{q^2}} \\over {8{r^2}}}$$\n<br><br>= $${3 \\over 8} \\times {{k{q^2}} \\over {{r^2}}}$$\n<br><br>= $${3 \\over 8}\\,F$$",
+      "solution": "Let, change of A and B = q <br><br>$$\\therefore\\,\\,\\,$$ Force between them, F = $$k \\times q \\times q \\over r^2 = kq^2 \\over r^2$$ <br><br>When C touched with A then charge of A. Will fl;ow to C and divide into half parts. <br><br>$$\\therefore\\,\\,\\,$$ charge of A and C , <br><br>q<sub>A</sub> = q<sub>B</sub> = $$q \\over 2$$ <br><br>Then C touched with B, then charge on B, <br><br>q<sub>B</sub> = $$q \\over 2 + q \\over 2 = 3q \\over 4$$ <br><br>$$\\therefore\\,\\,\\,$$ Force between A and B, <br><br>F' = $$k \\times q \\over 2 \\times 3q \\over 4 \\over r^2$$ <br><br>= $$k \\times 3q^2 \\over 8r^2$$ <br><br>= $$3 \\over 8 \\times kq^2 \\over r^2$$ <br><br>= $$3 \\over 8\\,F$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "Charge is distributed within a sphere of radius R with a volume charge density $$\\rho \\left( r \\right) = {A \\over {{r^2}}}{e^{ - {{2r} \\over s}}},$$ where A and a are constants. If Q is the total charge of this charge distribution, the radius R is : ",
+      "question": "Charge is distributed within a sphere of radius R with a volume charge density $$\\rho \\left( r \\right) = A \\over r^2e^ - 2r \\over s,$$ where A and a are constants. If Q is the total charge of this charge distribution, the radius R is :",
       "options": {
-        "A": "a log $$\\left( {1 - {Q \\over {2\\pi aA}}} \\right)$$",
-        "B": "$${a \\over 2}$$ log $$\\left( {{1 \\over {1 - {Q \\over {2\\pi aA}}}}} \\right)$$",
-        "C": "a log $$\\left( {{1 \\over {1 - {Q \\over {2\\pi aA}}}}} \\right)$$",
-        "D": "$${a \\over 2}$$ log $$\\left( {1 - {Q \\over {2\\pi aA}}} \\right)$$"
+        "A": "a log $$\\left( 1 - Q \\over 2\\pi aA \\right)$$",
+        "B": "$$a \\over 2$$ log $$\\left( 1 \\over 1 - Q \\over 2\\pi aA \\right)$$",
+        "C": "a log $$\\left( 1 \\over 1 - Q \\over 2\\pi aA \\right)$$",
+        "D": "$$a \\over 2$$ log $$\\left( 1 - Q \\over 2\\pi aA \\right)$$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265571/exam_images/j7witirl6mpdk1vjuhz7.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Electrostatics Question 167 English Explanation\">\n<br><br>Volume of this spherical layer,\n<br><br>dv = (4$$\\pi $$r<sup>2</sup>)dr\n<br><br>charge present in this layer, \n<br><br>dq = $$\\rho $$ (4$$\\pi $$r<sup>2</sup> dr)\n<br><br>=  $${A \\over {{r^2}}}{e^{ - {{2r} \\over a}}}\\,\\,\\left( {4\\pi {r^2}dr} \\right)$$\n<br><br>= $$A\\,{e^{ - {{2r} \\over a}}}\\left( {4\\pi dr} \\right)$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;Total charge in the sphere,\n<br><br>Q= $$\\int\\limits_0^R {4\\pi A{e^{ - {{2r} \\over a}}}} \\,dr$$\n<br><br>= 4$$\\pi $$A$$\\int\\limits_0^R {{e^{ - {{2r} \\over a}}}} \\,dr$$\n<br><br>= 4$$\\pi $$A$$\\left[ {{{{e^{ - {{2r} \\over a}}}} \\over { - {2 \\over a}}}} \\right]_0^R$$\n<br><br>= 4$$\\pi $$A $$\\left( { - {a \\over 2}} \\right)\\left( {{e^{ - {{2R} \\over a}}} - 1} \\right)$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;Q = 2$$\\pi $$aA $$\\left( {1 - {e^{ - {{2R} \\over a}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${1 - {e^{ - {{2R} \\over a}}}}$$ = $${Q \\over {2\\pi aA}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${{e^{ - {{2R} \\over a}}}}$$ = 1 $$-$$ $${Q \\over {2\\pi aA}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${e^{{{2R} \\over a}}}$$ = $${1 \\over {1 - {Q \\over {2\\pi aA}}}}$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;$${{2R} \\over a} = \\log \\left( {{1 \\over {1 - {Q \\over {2\\pi aA}}}}} \\right)$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;R = $${a \\over 2}$$ log $$\\left( {{1 \\over {1 - {Q \\over {2\\pi aA}}}}} \\right)$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265571/exam_images/j7witirl6mpdk1vjuhz7.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Evening Slot Physics - Electrostatics Question 167 English Explanation\"> <br><br>Volume of this spherical layer, <br><br>dv = (4$$\\pi $$r<sup>2</sup>)dr <br><br>charge present in this layer, <br><br>dq = $$\\rho $$ (4$$\\pi $$r<sup>2</sup> dr) <br><br>= $$A \\over r^2e^ - 2r \\over a\\,\\,\\left( 4\\pi r^2dr \\right)$$ <br><br>= $$A\\,e^ - 2r \\over a\\left( 4\\pi dr \\right)$$ <br><br>$$ \\therefore $$ Total charge in the sphere, <br><br>Q= $$\\int\\limits_0^R 4\\pi Ae^ - 2r \\over a \\,dr$$ <br><br>= 4$$\\pi $$A$$\\int\\limits_0^R e^ - 2r \\over a \\,dr$$ <br><br>= 4$$\\pi $$A$$\\left[ e^ - 2r \\over a \\over - 2 \\over a \\right]_0^R$$ <br><br>= 4$$\\pi $$A $$\\left( - a \\over 2 \\right)\\left( e^ - 2R \\over a - 1 \\right)$$ <br><br>$$ \\therefore $$ Q = 2$$\\pi $$aA $$\\left( 1 - e^ - 2R \\over a \\right)$$ <br><br>$$ \\Rightarrow $$ $$1 - e^ - 2R \\over a$$ = $$Q \\over 2\\pi aA$$ <br><br>$$ \\Rightarrow $$ $$e^ - 2R \\over a$$ = 1 $$-$$ $$Q \\over 2\\pi aA$$ <br><br>$$ \\Rightarrow $$ $$e^2R \\over a$$ = $$1 \\over 1 - Q \\over 2\\pi aA$$ <br><br>$$ \\Rightarrow $$ $$2R \\over a = \\log \\left( 1 \\over 1 - Q \\over 2\\pi aA \\right)$$ <br><br>$$ \\Rightarrow $$ R = $$a \\over 2$$ log $$\\left( 1 \\over 1 - Q \\over 2\\pi aA \\right)$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -606,28 +321,28 @@
     {
       "question": "<p>A long cylindrical volume contains a uniformly distributed charge of density $$\\rho$$. The radius of cylindrical volume is R. A charge particle (q) revolves around the cylinder in a circular path. The kinetic energy of the particle is :</p>",
       "options": {
-        "A": "$${{\\rho q{R^2}} \\over {4{\\varepsilon _0}}}$$",
-        "B": "$${{\\rho q{R^2}} \\over {2{\\varepsilon _0}}}$$",
-        "C": "$${{q\\rho } \\over {4{\\varepsilon _0}{R^2}}}$$",
-        "D": "$${{4{\\varepsilon _0}{R^2}} \\over {q\\rho }}$$"
+        "A": "$$\\rho qR^2 \\over 4\\varepsilon _0$$",
+        "B": "$$\\rho qR^2 \\over 2\\varepsilon _0$$",
+        "C": "$$q\\rho \\over 4\\varepsilon _0R^2$$",
+        "D": "$$4\\varepsilon _0R^2 \\over q\\rho $$"
       },
       "answer": "A",
-      "solution": "<p>$${{m{v^2}} \\over r} = {{2k\\rho  \\times \\pi {R^2}q} \\over r}$$</p>\n<p>$$ \\Rightarrow {1 \\over 2}m{v^2} = {{\\rho {R^2}q} \\over {4{\\varepsilon _0}}}$$</p>",
+      "solution": "<p>$$mv^2 \\over r = 2k\\rho \\times \\pi R^2q \\over r$$</p> <p>$$ \\Rightarrow 1 \\over 2mv^2 = \\rho R^2q \\over 4\\varepsilon _0$$</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>A charge of $$4 \\,\\mu \\mathrm{C}$$ is to be divided into two. The distance between the two divided charges is constant. The magnitude of the divided charges so that the force between them is maximum, will be :</p>",
+      "question": "<p>A charge of $$4 \\,\\mu C$$ is to be divided into two. The distance between the two divided charges is constant. The magnitude of the divided charges so that the force between them is maximum, will be :</p>",
       "options": {
-        "A": "$$1 \\,\\mu \\mathrm{C}$$ and $$3 \\,\\mu\\mathrm{C}$$",
-        "B": "$$2 \\,\\mu \\mathrm{C}$$ and $$2\\, \\mu \\mathrm{C}$$",
-        "C": "0 and $$4\\, \\mu\\, \\mathrm{C}$$",
-        "D": "$$1.5 \\,\\mu \\mathrm{C}$$ and $$2.5\\, \\mu \\mathrm{C}$$"
+        "A": "$$1 \\,\\mu C$$ and $$3 \\,\\muC$$",
+        "B": "$$2 \\,\\mu C$$ and $$2\\, \\mu C$$",
+        "C": "0 and $$4\\, \\mu\\, C$$",
+        "D": "$$1.5 \\,\\mu C$$ and $$2.5\\, \\mu C$$"
       },
       "answer": "B",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6yvpl4z/f567a908-d37f-4672-8f56-4c0e1c02e1d8/92df5930-1edd-11ed-8851-99197a0d39b5/file-1l6yvpl50.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6yvpl4z/f567a908-d37f-4672-8f56-4c0e1c02e1d8/92df5930-1edd-11ed-8851-99197a0d39b5/file-1l6yvpl50.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Evening Shift Physics - Electrostatics Question 73 English Explanation\"></p>\n<p>so $$F = {{kq(4 - q) \\times {{10}^{ - 12}}} \\over {{r^2}}}$$</p>\n<p>so F<sub>max</sub> will be at q = 2 $$\\mu$$C</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1l6yvpl4z/f567a908-d37f-4672-8f56-4c0e1c02e1d8/92df5930-1edd-11ed-8851-99197a0d39b5/file-1l6yvpl50.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1l6yvpl4z/f567a908-d37f-4672-8f56-4c0e1c02e1d8/92df5930-1edd-11ed-8851-99197a0d39b5/file-1l6yvpl50.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2022 (Online) 27th July Evening Shift Physics - Electrostatics Question 73 English Explanation\"></p> <p>so $$F = kq(4 - q) \\times 10^ - 12 \\over r^2$$</p> <p>so F<sub>max</sub> will be at q = 2 $$\\mu$$C</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
@@ -642,7 +357,7 @@
         "D": "10<sup>36</sup>"
       },
       "answer": "B",
-      "solution": "<p>To find the ratio of the Coulombic force to the gravitational force between an electron and a proton in a hydrogen-like system, we use the formulae for both forces and then divide them.</p>\n\n<p>The Coulombic (electrostatic) force, $F_C$, between two charges is given by Coulomb's law:</p>\n\n<p>$F_C = k \\frac{|q_1 q_2|}{r^2}$</p>\n\n<p>where $k$ is Coulomb's constant ($8.987 \\times 10^9 \\, \\text{Nm}^2\\text{C}^{-2}$), $q_1$ and $q_2$ are the magnitudes of the charges, and $r$ is the distance between the charges. For a proton and an electron, $q_1 = q_2 = e$, where $e$ is the elementary charge ($1.602 \\times 10^{-19} \\, \\text{C}$).</p>\n\n<p>The gravitational force, $F_G$, between two masses is given by Newton's law of universal gravitation:</p>\n\n<p>$F_G = G \\frac{m_1 m_2}{r^2}$</p>\n\n<p>where $G$ is the gravitational constant ($6.674 \\times 10^{-11} \\, \\text{Nm}^2\\text{kg}^{-2}$), and $m_1$ and $m_2$ are the masses of the two objects. For a proton and an electron, $m_p \\approx 1.673 \\times 10^{-27} \\, \\text{kg}$ and $m_e \\approx 9.109 \\times 10^{-31} \\, \\text{kg}$, respectively.</p>\n\n<p>The ratio of the Coulombic to the gravitational force is therefore:</p>\n\n<p>$\\frac{F_C}{F_G} = \\frac{k \\frac{|e^2|}{r^2}}{G \\frac{m_p m_e}{r^2}} = \\frac{k e^2}{G m_p m_e}$</p>\n\n<p>Plugging in the values:</p>\n\n<p>$\\frac{F_C}{F_G} = \\frac{(8.987 \\times 10^9) (1.602 \\times 10^{-19})^2}{(6.674 \\times 10^{-11}) (1.673 \\times 10^{-27}) (9.109 \\times 10^{-31})}$</p>\n\n<p>$\\frac{F_C}{F_G} = \\frac{(8.987 \\times 10^9) \\times (2.568 \\times 10^{-38})}{(6.674 \\times 10^{-11}) \\times (1.523 \\times 10^{-57})}$</p>\n\n<p>$\\frac{F_C}{F_G} \\approx 2.3 \\times 10^{39}$</p>\n\n<p>Therefore, the ratio of the Coulombic force to the gravitational force between an electron and a proton in a hydrogen-like system is on the order of $10^{39}$, making Option B the correct answer.</p>",
+      "solution": "<p>To find the ratio of the Coulombic force to the gravitational force between an electron and a proton in a hydrogen-like system, we use the formulae for both forces and then divide them.</p> <p>The Coulombic (electrostatic) force, $F_C$, between two charges is given by Coulomb's law:</p> <p>$F_C = k \\frac|q_1 q_2|r^2$</p> <p>where $k$ is Coulomb's constant ($8.987 \\times 10^9 \\, \\textNm^2\\textC^-2$), $q_1$ and $q_2$ are the magnitudes of the charges, and $r$ is the distance between the charges. For a proton and an electron, $q_1 = q_2 = e$, where $e$ is the elementary charge ($1.602 \\times 10^-19 \\, \\textC$).</p> <p>The gravitational force, $F_G$, between two masses is given by Newton's law of universal gravitation:</p> <p>$F_G = G \\fracm_1 m_2r^2$</p> <p>where $G$ is the gravitational constant ($6.674 \\times 10^-11 \\, \\textNm^2\\textkg^-2$), and $m_1$ and $m_2$ are the masses of the two objects. For a proton and an electron, $m_p \\approx 1.673 \\times 10^-27 \\, \\textkg$ and $m_e \\approx 9.109 \\times 10^-31 \\, \\textkg$, respectively.</p> <p>The ratio of the Coulombic to the gravitational force is therefore:</p> <p>$\\fracF_CF_G = \\frack \\frac|e^2|r^2G \\fracm_p m_er^2 = \\frack e^2G m_p m_e$</p> <p>Plugging in the values:</p> <p>$\\fracF_CF_G = \\frac(8.987 \\times 10^9) (1.602 \\times 10^-19)^2(6.674 \\times 10^-11) (1.673 \\times 10^-27) (9.109 \\times 10^-31)$</p> <p>$\\fracF_CF_G = \\frac(8.987 \\times 10^9) \\times (2.568 \\times 10^-38)(6.674 \\times 10^-11) \\times (1.523 \\times 10^-57)$</p> <p>$\\fracF_CF_G \\approx 2.3 \\times 10^39$</p> <p>Therefore, the ratio of the Coulombic force to the gravitational force between an electron and a proton in a hydrogen-like system is on the order of $10^39$, making Option B the correct answer.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -651,20 +366,20 @@
     {
       "question": "<p>The vehicles carrying inflammable fluids usually have metallic chains touching the ground:</p>",
       "options": {
-        "A": "To protect tyres from catching dirt from ground\n",
-        "B": "It is a custom\n",
-        "C": "To alert other vehicles\n",
+        "A": "To protect tyres from catching dirt from ground",
+        "B": "It is a custom",
+        "C": "To alert other vehicles",
         "D": "To conduct excess charge due to air friction to ground and prevent sparking"
       },
       "answer": "D",
-      "solution": "<p>The correct option is <strong>Option D: To conduct excess charge due to air friction to ground and prevent sparking</strong>.</p>\n\n<p>This method is grounded in the principles of physics, particularly relating to static electricity and grounding. As vehicles move through the air, especially at high speeds, friction between the air and the vehicle can lead to the accumulation of static electricity on the vehicle. This is a common phenomenon and is more pronounced in dry conditions where humidity is low, as moisture in the air can help dissipate static charge more effectively.</p>\n\n<p>In the case of vehicles carrying inflammable fluids, the presence of static electricity poses a significant risk. This is because a static discharge (or sparking) in the presence of flammable vapors can ignite those vapors, leading to potentially catastrophic fires or explosions. The metallic chains that touch the ground serve a crucial safety function by providing a path for the static electrical charge to safely dissipate into the earth, a process known as grounding. The earth acts as a vast reservoir that can absorb large amounts of electrical charge. By grounding the vehicle in this way, the risk of static discharge into the surrounding atmosphere is significantly reduced, enhancing safety by preventing ignition of inflammable materials.</p>\n\n<p>The effectiveness of this safety measure hinges on the electrical conductivity of the chain and its contact with the ground. The chain must be made of a material with good electrical conductivity (such as metal) and maintain adequate contact with the ground to ensure that the static charge can be continuously dissipated. This safety precaution is a practical application of electrostatic principles, showcasing how understanding and harnessing the laws of physics can provide effective solutions to real-world problems.</p>",
+      "solution": "<p>The correct option is <strong>Option D: To conduct excess charge due to air friction to ground and prevent sparking</strong>.</p> <p>This method is grounded in the principles of physics, particularly relating to static electricity and grounding. As vehicles move through the air, especially at high speeds, friction between the air and the vehicle can lead to the accumulation of static electricity on the vehicle. This is a common phenomenon and is more pronounced in dry conditions where humidity is low, as moisture in the air can help dissipate static charge more effectively.</p> <p>In the case of vehicles carrying inflammable fluids, the presence of static electricity poses a significant risk. This is because a static discharge (or sparking) in the presence of flammable vapors can ignite those vapors, leading to potentially catastrophic fires or explosions. The metallic chains that touch the ground serve a crucial safety function by providing a path for the static electrical charge to safely dissipate into the earth, a process known as grounding. The earth acts as a vast reservoir that can absorb large amounts of electrical charge. By grounding the vehicle in this way, the risk of static discharge into the surrounding atmosphere is significantly reduced, enhancing safety by preventing ignition of inflammable materials.</p> <p>The effectiveness of this safety measure hinges on the electrical conductivity of the chain and its contact with the ground. The chain must be made of a material with good electrical conductivity (such as metal) and maintain adequate contact with the ground to ensure that the static charge can be continuously dissipated. This safety precaution is a practical application of electrostatic principles, showcasing how understanding and harnessing the laws of physics can provide effective solutions to real-world problems.</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electric dipole has a fixed dipole moment $$\\overrightarrow p $$, which makes angle $$\\theta$$ with respect to x-axis. When\nsubjected to an electric field  $$\\mathop {{E_1}}\\limits^ \\to   = E\\widehat i$$ , it experiences a torque $$\\overrightarrow {{T_1}}  = \\tau \\widehat k$$ . When subjected to another electric\nfield $$\\mathop {{E_2}}\\limits^ \\to   = \\sqrt 3 {E_1}\\widehat j$$  it experiences a torque $$\\mathop {{T_2}}\\limits^ \\to   = \\mathop { - {T_1}}\\limits^ \\to  $$ . The angle $$\\theta$$ is: ",
+      "question": "An electric dipole has a fixed dipole moment $$\\overrightarrow p $$, which makes angle $$\\theta$$ with respect to x-axis. When subjected to an electric field $$\\mathop E_1\\limits^ \\to = E\\widehat i$$ , it experiences a torque $$\\overrightarrow T_1 = \\tau \\widehat k$$ . When subjected to another electric field $$\\mathop E_2\\limits^ \\to = \\sqrt 3 E_1\\widehat j$$ it experiences a torque $$\\mathop T_2\\limits^ \\to = \\mathop - T_1\\limits^ \\to $$ . The angle $$\\theta$$ is:",
       "options": {
         "A": "90<sup>o</sup>",
         "B": "45<sup>o</sup>",
@@ -672,52 +387,52 @@
         "D": "60<sup>o</sup>"
       },
       "answer": "D",
-      "solution": "<br><br>Torque experienced by the dipole in an\nelectric field, \n<br><br>$$T $$ = pE sin$$\\theta $$ \n<br><br>$$\\overrightarrow T   = \\overrightarrow p  \\times \\overrightarrow E $$\n<br><br>$$\\overrightarrow p  = p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$\n<br><br>$$\\mathop {{E_1}}\\limits^ \\to   = E\\widehat i$$\n<br><br>$$\\overrightarrow {{T _1}}  = \\overrightarrow P  \\times {\\overrightarrow E _1}$$\n<br><br>= ($$p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$) $$ \\times $$ $$E\\left( {\\widehat i} \\right)$$\n<br><br>= pE sin$$\\theta $$$$\\left( { - \\widehat k} \\right)$$\n<br><br>$$\\mathop {{E_2}}\\limits^ \\to   = \\sqrt 3 {E_1}\\widehat j$$\n<br><br>$$\\overrightarrow {{T _2}}  = $$($$p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$) $$ \\times $$ $$\\sqrt 3 {E_1}\\widehat j$$\n<br><br>= $$\\sqrt 3 pE\\cos \\theta \\left( {\\widehat k} \\right)$$\n<br><br>Now given, $$\\overrightarrow {{T _2}}$$ = $$-\\overrightarrow {{T _1}}$$\n<br><br>$$ \\Rightarrow $$ $$\\sqrt 3 pE\\cos \\theta \\left( {\\widehat k} \\right)$$ = -pE sin$$\\theta $$$$\\left( { - \\widehat k} \\right)$$\n<br><br>$$ \\Rightarrow $$ $$\\tan \\theta  = \\sqrt 3 $$\n<br><br>$$ \\Rightarrow $$ $$\\theta $$ = 60<sup>o</sup>",
+      "solution": "<br><br>Torque experienced by the dipole in an electric field, <br><br>$$T $$ = pE sin$$\\theta $$ <br><br>$$\\overrightarrow T = \\overrightarrow p \\times \\overrightarrow E $$ <br><br>$$\\overrightarrow p = p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$ <br><br>$$\\mathop E_1\\limits^ \\to = E\\widehat i$$ <br><br>$$\\overrightarrow T _1 = \\overrightarrow P \\times \\overrightarrow E _1$$ <br><br>= ($$p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$) $$ \\times $$ $$E\\left( \\widehat i \\right)$$ <br><br>= pE sin$$\\theta $$$$\\left( - \\widehat k \\right)$$ <br><br>$$\\mathop E_2\\limits^ \\to = \\sqrt 3 E_1\\widehat j$$ <br><br>$$\\overrightarrow T _2 = $$($$p\\cos \\theta \\widehat i + p\\sin \\theta \\widehat j$$) $$ \\times $$ $$\\sqrt 3 E_1\\widehat j$$ <br><br>= $$\\sqrt 3 pE\\cos \\theta \\left( \\widehat k \\right)$$ <br><br>Now given, $$\\overrightarrow T _2$$ = $$-\\overrightarrow T _1$$ <br><br>$$ \\Rightarrow $$ $$\\sqrt 3 pE\\cos \\theta \\left( \\widehat k \\right)$$ = -pE sin$$\\theta $$$$\\left( - \\widehat k \\right)$$ <br><br>$$ \\Rightarrow $$ $$\\tan \\theta = \\sqrt 3 $$ <br><br>$$ \\Rightarrow $$ $$\\theta $$ = 60<sup>o</sup>",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electric field of 1000 V/m is applied to an electric dipole at angle of 45<sup>o</sup>. The value of electric dipole moment is 10<sup>\\u201329</sup> C.m. What is the potential energy of the electric dipole? ",
+      "question": "An electric field of 1000 V/m is applied to an electric dipole at angle of 45<sup>o</sup>. The value of electric dipole moment is 10<sup>\\\u201329</sup> C.m. What is the potential energy of the electric dipole?",
       "options": {
-        "A": "- 7 $$ \\times $$ 10<sup>\\u201327</sup> J",
-        "B": "$$-$$ 9 $$ \\times $$ 10<sup>\\u201320</sup> J",
-        "C": "$$-$$ 10 $$ \\times $$ 10<sup>\\u201329</sup> J",
-        "D": "$$-$$ 20 $$ \\times $$ 10<sup>\\u201318</sup> J"
+        "A": "- 7 $$ \\times $$ 10<sup>\\\u201327</sup> J",
+        "B": "$$-$$ 9 $$ \\times $$ 10<sup>\\\u201320</sup> J",
+        "C": "$$-$$ 10 $$ \\times $$ 10<sup>\\\u201329</sup> J",
+        "D": "$$-$$ 20 $$ \\times $$ 10<sup>\\\u201318</sup> J"
       },
       "answer": "A",
-      "solution": "U = $$-$$ $$\\overrightarrow P .\\overrightarrow E $$\n<br><br>= $$-$$ PE cos $$\\theta $$\n<br><br>= $$-$$ (10<sup>$$-$$29</sup>) (10<sup>3</sup>) cos 45<sup>o</sup>\n<br><br>= $$-$$ 0.707 $$ \\times $$ 10<sup>$$-$$26</sup> J\n<br><br>= $$-$$ 7 $$ \\times $$ 10<sup>$$-$$27</sup> J.",
+      "solution": "U = $$-$$ $$\\overrightarrow P .\\overrightarrow E $$ <br><br>= $$-$$ PE cos $$\\theta $$ <br><br>= $$-$$ (10<sup>$$-$$29</sup>) (10<sup>3</sup>) cos 45<sup>o</sup> <br><br>= $$-$$ 0.707 $$ \\times $$ 10<sup>$$-$$26</sup> J <br><br>= $$-$$ 7 $$ \\times $$ 10<sup>$$-$$27</sup> J.",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A point dipole $$\\overrightarrow p  =  - {p_0}\\widehat x$$\nis kept at the origin. The potential and electric field due to this dipole on the\ny-axis at a distance d are, respectively: (Take V= 0 at infinity)",
+      "question": "A point dipole $$\\overrightarrow p = - p_0\\widehat x$$ is kept at the origin. The potential and electric field due to this dipole on the y-axis at a distance d are, respectively: (Take V= 0 at infinity)",
       "options": {
-        "A": "$${{\\left| {\\overrightarrow p } \\right|} \\over {4\\pi { \\in _0}{d^2}}},{{ - \\overrightarrow p } \\over {4\\pi { \\in _0}{d^3}}}$$",
-        "B": "$$0,{{\\overrightarrow p } \\over {4\\pi { \\in _0}{d^3}}}$$",
-        "C": "$${{\\left| {\\overrightarrow p } \\right|} \\over {4\\pi { \\in _0}{d^2}}},{{\\overrightarrow p } \\over {4\\pi { \\in _0}{d^3}}}$$",
-        "D": "$$0,{{ - \\overrightarrow p } \\over {4\\pi { \\in _0}{d^3}}}$$"
+        "A": "$$\\left| \\overrightarrow p \\right| \\over 4\\pi \\in _0d^2, - \\overrightarrow p \\over 4\\pi \\in _0d^3$$",
+        "B": "$$0,\\overrightarrow p \\over 4\\pi \\in _0d^3$$",
+        "C": "$$\\left| \\overrightarrow p \\right| \\over 4\\pi \\in _0d^2,\\overrightarrow p \\over 4\\pi \\in _0d^3$$",
+        "D": "$$0, - \\overrightarrow p \\over 4\\pi \\in _0d^3$$"
       },
       "answer": "D",
-      "solution": "V = 0<br><br>\n$$E =  - {{K\\overrightarrow P } \\over {{r^3}}}$$<br><br>\n$$ =  - {{\\overrightarrow p } \\over {4\\pi {\\varepsilon _0}{d^3}}}$$",
+      "solution": "V = 0<br><br> $$E = - K\\overrightarrow P \\over r^3$$<br><br> $$ = - \\overrightarrow p \\over 4\\pi \\varepsilon _0d^3$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electric dipole of moment\n<br/>$$\\overrightarrow p  = \\left( { - \\widehat i - 3\\widehat j + 2\\widehat k} \\right) \\times {10^{ - 29}} $$ C.m is <br/>at the origin\n(0, 0, 0). The electric field due to this dipole at\n<br/>$$\\overrightarrow r  =  + \\widehat i + 3\\widehat j + 5\\widehat k$$ (note that $$\\overrightarrow r .\\overrightarrow p  = 0$$ ) is parallel to :",
+      "question": "An electric dipole of moment <br/>$$\\overrightarrow p = \\left( - \\widehat i - 3\\widehat j + 2\\widehat k \\right) \\times 10^ - 29 $$ C.m is <br/>at the origin (0, 0, 0). The electric field due to this dipole at <br/>$$\\overrightarrow r = + \\widehat i + 3\\widehat j + 5\\widehat k$$ (note that $$\\overrightarrow r .\\overrightarrow p = 0$$ ) is parallel to :",
       "options": {
-        "A": "$$\\left( { + \\widehat i + 3\\widehat j - 2\\widehat k} \\right)$$",
-        "B": "$$\\left( { + \\widehat i - 3\\widehat j - 2\\widehat k} \\right)$$",
-        "C": "$$\\left( { - \\widehat i + 3\\widehat j - 2\\widehat k} \\right)$$",
-        "D": "$$\\left( { - \\widehat i - 3\\widehat j + 2\\widehat k} \\right)$$"
+        "A": "$$\\left( + \\widehat i + 3\\widehat j - 2\\widehat k \\right)$$",
+        "B": "$$\\left( + \\widehat i - 3\\widehat j - 2\\widehat k \\right)$$",
+        "C": "$$\\left( - \\widehat i + 3\\widehat j - 2\\widehat k \\right)$$",
+        "D": "$$\\left( - \\widehat i - 3\\widehat j + 2\\widehat k \\right)$$"
       },
       "answer": "A",
-      "solution": "Since $$\\overrightarrow r $$\nand $$\\overrightarrow p $$\nare perpendicular to each other\ntherefore point lies on the equitorial plane.\nTherefore electric field at the point will be\nantiparallel to the dipole moment.\n<br><br>$$ \\therefore $$ $$\\overrightarrow E || - \\overrightarrow p $$\n<br><br>$$ \\Rightarrow $$ $$\\overrightarrow E ||\\left( {\\widehat i + 3\\widehat j - 2\\widehat k} \\right)$$",
+      "solution": "Since $$\\overrightarrow r $$ and $$\\overrightarrow p $$ are perpendicular to each other therefore point lies on the equitorial plane. Therefore electric field at the point will be antiparallel to the dipole moment. <br><br>$$ \\therefore $$ $$\\overrightarrow E || - \\overrightarrow p $$ <br><br>$$ \\Rightarrow $$ $$\\overrightarrow E ||\\left( \\widehat i + 3\\widehat j - 2\\widehat k \\right)$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -726,88 +441,88 @@
     {
       "question": "<p>The electrostatic potential due to an electric dipole at a distance '$$r$$' varies as :</p>",
       "options": {
-        "A": "$$\\frac{1}{r^3}$$\n",
-        "B": "$$\\frac{1}{\\mathrm{r}}$$\n",
-        "C": "$$\\frac{1}{r^2}$$",
+        "A": "$$\\frac1r^3$$",
+        "B": "$$\\frac1r$$",
+        "C": "$$\\frac1r^2$$",
         "D": "r"
       },
       "answer": "C",
-      "solution": "<p>$$V=\\frac{k P \\cos \\theta}{r^2}$$</p>\n<p>& can also checked dimensionally</p>",
+      "solution": "<p>$$V=\\frack P \\cos \\thetar^2$$</p> <p>& can also checked dimensionally</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A body of mass $$M$$ and charge $$q$$ is connected to spring of spring constant $$k.$$  It is oscillating along $$x$$-direction about its equilibrium position, taken to be at $$x=0,$$ with an amplitude $$A$$. An electric field $$E$$ is applied along the $$x$$-direction. Which of the following statements is <b>correct</b> ?",
+      "question": "A body of mass $$M$$ and charge $$q$$ is connected to spring of spring constant $$k.$$ It is oscillating along $$x$$-direction about its equilibrium position, taken to be at $$x=0,$$ with an amplitude $$A$$. An electric field $$E$$ is applied along the $$x$$-direction. Which of the following statements is <b>correct</b> ?",
       "options": {
-        "A": "The new equilibrium position is at a distance $${{qE} \\over {2k}}$$ from $$x=0.$$",
-        "B": "The total energy of the system is $${1 \\over 2}m{\\omega ^2}{A^2} + {1 \\over 2}{{{q^2}{E^2}} \\over k}.$$",
-        "C": "The total energy of the system is $${1 \\over 2}m{\\omega ^2}{A^2} - {1 \\over 2}{{{q^2}{E^2}} \\over k}.$$",
-        "D": "The new equilibrium position is at a distance $${{2qE} \\over k}$$ from $$x=0.$$"
+        "A": "The new equilibrium position is at a distance $$qE \\over 2k$$ from $$x=0.$$",
+        "B": "The total energy of the system is $$1 \\over 2m\\omega ^2A^2 + 1 \\over 2q^2E^2 \\over k.$$",
+        "C": "The total energy of the system is $$1 \\over 2m\\omega ^2A^2 - 1 \\over 2q^2E^2 \\over k.$$",
+        "D": "The new equilibrium position is at a distance $$2qE \\over k$$ from $$x=0.$$"
       },
       "answer": "B",
-      "solution": "On the body of charge q a electric fied  E is applied,  because of this equilibrium position of body will shift to a point where resulttant force is zero. \n<br><br>$$\\therefore\\,\\,\\,\\,$$  kx<sub>eq</sub> = qE\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$  x<sub>eq</sub> = $${{qE} \\over K}$$\n<br><br>$$\\therefore\\,\\,\\,\\,$$ Total energy of the system\n<br><br>= $${1 \\over 2}m{\\omega ^2}{A^2} + {1 \\over 2}K\\,x_{eq}^2$$\n<br><br>= $${1 \\over 2}$$ m$${\\omega ^2}$$A<sup>2</sup> + $${1 \\over 2}.{{{q^2}{E^2}} \\over K}$$",
+      "solution": "On the body of charge q a electric fied E is applied, because of this equilibrium position of body will shift to a point where resulttant force is zero. <br><br>$$\\therefore\\,\\,\\,\\,$$ kx<sub>eq</sub> = qE <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ x<sub>eq</sub> = $$qE \\over K$$ <br><br>$$\\therefore\\,\\,\\,\\,$$ Total energy of the system <br><br>= $$1 \\over 2m\\omega ^2A^2 + 1 \\over 2K\\,x_eq^2$$ <br><br>= $$1 \\over 2$$ m$$\\omega ^2$$A<sup>2</sup> + $$1 \\over 2.q^2E^2 \\over K$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A solid ball of radius R has a charge density  $$\\rho $$ \n<br/>given by $$\\rho $$ = $$\\rho $$<sub>o</sub> (1 $$-$$ $${\\raise0.5ex\\hbox{$\\scriptstyle r$}\n\\kern-0.1em/\\kern-0.15em\n\\lower0.25ex\\hbox{$\\scriptstyle R$}}$$) for 0 $$ \\le $$ r $$ \\le $$ R. The electric field outside the ball is :",
+      "question": "A solid ball of radius R has a charge density $$\\rho $$ <br/>given by $$\\rho $$ = $$\\rho $$<sub>o</sub> (1 $$-$$ $$\\raise0.5ex\\hbox$\\scriptstyle r$ \\kern-0.1em/\\kern-0.15em \\lower0.25ex\\hbox$\\scriptstyle R$$$) for 0 $$ \\le $$ r $$ \\le $$ R. The electric field outside the ball is :",
       "options": {
-        "A": "$${{{\\rho _o}{R^3}} \\over {{ \\in _o}{r^2}}}$$",
-        "B": "$${{{\\rho _o}{R^3}} \\over {12{ \\in _o}{r^2}}}$$",
-        "C": "$${{4{\\rho _o}{R^3}} \\over {3{ \\in _o}{r^2}}}$$ ",
-        "D": "$${{3{\\rho _o}{R^3}} \\over {4{ \\in _o}{r^2}}}$$ "
+        "A": "$$\\rho _oR^3 \\over \\in _or^2$$",
+        "B": "$$\\rho _oR^3 \\over 12 \\in _or^2$$",
+        "C": "$$4\\rho _oR^3 \\over 3 \\in _or^2$$",
+        "D": "$$3\\rho _oR^3 \\over 4 \\in _or^2$$"
       },
       "answer": "B",
-      "solution": "Electric field outside the ball is given by\n<br><br>E = $${1 \\over {4\\pi {\\varepsilon _0}}}{q \\over {{r^2}}}$$ .............(i)\n<br><br>Now, dq = $$\\rho $$dV = $$\\rho $$(4$$\\pi $$r<sup>2</sup>)dr\n<br><br>$$ \\therefore $$ q = $$\\int {dq = \\int\\limits_0^R {{\\rho _0}\\left( {1 - {r \\over R}} \\right)\\left( {4\\pi {r^2}} \\right)dr} } $$\n<br><br>= $${\\left( {4\\pi {\\rho _0}} \\right)\\left[ {{{{r^3}} \\over 3} - {1 \\over R} \\times {{{r^4}} \\over 4}} \\right]_0^R}$$\n<br><br>= $${\\left( {4\\pi {\\rho _0}} \\right)\\left( {{{{R^3}} \\over 3} - {{{R^3}} \\over 4}} \\right)}$$\n<br><br>$$ \\Rightarrow $$ q = $${\\left( {4\\pi {\\rho _0}} \\right)\\left( {{{{R^3}} \\over {12}}} \\right)}$$  ......(ii)\n<br><br>From eqns. (i) and (ii), E = $${{{\\rho _o}{R^3}} \\over {12{ \\in _o}{r^2}}}$$",
+      "solution": "Electric field outside the ball is given by <br><br>E = $$1 \\over 4\\pi \\varepsilon _0q \\over r^2$$ .............(i) <br><br>Now, dq = $$\\rho $$dV = $$\\rho $$(4$$\\pi $$r<sup>2</sup>)dr <br><br>$$ \\therefore $$ q = $$\\int dq = \\int\\limits_0^R \\rho _0\\left( 1 - r \\over R \\right)\\left( 4\\pi r^2 \\right)dr $$ <br><br>= $$\\left( 4\\pi \\rho _0 \\right)\\left[ r^3 \\over 3 - 1 \\over R \\times r^4 \\over 4 \\right]_0^R$$ <br><br>= $$\\left( 4\\pi \\rho _0 \\right)\\left( R^3 \\over 3 - R^3 \\over 4 \\right)$$ <br><br>$$ \\Rightarrow $$ q = $$\\left( 4\\pi \\rho _0 \\right)\\left( R^3 \\over 12 \\right)$$ ......(ii) <br><br>From eqns. (i) and (ii), E = $$\\rho _oR^3 \\over 12 \\in _or^2$$",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "For a uniformly charged ring of radius R, the electric field on its axis has the largest magnitude  at a distance h from its center. Then value of h is : ",
+      "question": "For a uniformly charged ring of radius R, the electric field on its axis has the largest magnitude at a distance h from its center. Then value of h is :",
       "options": {
-        "A": "$${R \\over {\\sqrt 5 }}$$",
-        "B": "$${R \\over {\\sqrt 2 }}$$",
+        "A": "$$R \\over \\sqrt 5 $$",
+        "B": "$$R \\over \\sqrt 2 $$",
         "C": "R",
         "D": "R$$\\sqrt 2 $$"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263523/exam_images/imqgnxixrtktf3zmqwry.webp\" style=\"max-width: 100%;  height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Morning Slot Physics - Electrostatics Question 169 English Explanation\"><br><br>\nElectric field on the axis of the ring, \n<br><br>$$E = {{KQh} \\over {{{\\left( {{R^2} + {h^2}} \\right)}^{{3 \\over 2}}}}}$$\n<br><br>For maximum electric field, \n<br><br>$${{dE} \\over {dh}} = 0$$\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$$h = {R \\over {\\sqrt 2 }}$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734263523/exam_images/imqgnxixrtktf3zmqwry.webp\" style=\"max-width: 100%; height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 9th January Morning Slot Physics - Electrostatics Question 169 English Explanation\"><br><br> Electric field on the axis of the ring, <br><br>$$E = KQh \\over \\left( R^2 + h^2 \\right)^3 \\over 2$$ <br><br>For maximum electric field, <br><br>$$dE \\over dh = 0$$ <br><br>$$ \\Rightarrow $$ $$h = R \\over \\sqrt 2 $$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "The bob of a simple pendulum has mass 2g and\na charge of 5.0 \\u03bcC. It is at rest in a uniform\nhorizontal electric field of intensity 2000 V/m.\nAt equilibrium, the angle that the pendulum\nmakes with the vertical is : (take g = 10 m/s<sup>2</sup>)",
+      "question": "The bob of a simple pendulum has mass 2g and a charge of 5.0 \\u03bcC. It is at rest in a uniform horizontal electric field of intensity 2000 V/m. At equilibrium, the angle that the pendulum makes with the vertical is : (take g = 10 m/s<sup>2</sup>)",
       "options": {
-        "A": "tan<sup>\\u20131</sup>(5.0)",
-        "B": "tan<sup>\\u20131</sup>(2.0)",
-        "C": "tan<sup>\\u20131</sup>(0.5)",
-        "D": "tan<sup>\\u20131</sup>(0.2)"
+        "A": "tan<sup>\\\u20131</sup>(5.0)",
+        "B": "tan<sup>\\\u20131</sup>(2.0)",
+        "C": "tan<sup>\\\u20131</sup>(0.5)",
+        "D": "tan<sup>\\\u20131</sup>(0.2)"
       },
       "answer": "C",
-      "solution": "Tcos$$\\theta $$ = mg<br><br>\nTsin$$\\theta $$ = qE<br><br>\ntan$$\\theta $$ = $${{qE} \\over {mg}}$$<br><br>\ntan$$\\theta $$ = $${{5 \\times {{10}^{ - 16}} \\times 2000} \\over {2 \\times {{10}^{ - 3}} \\times 10}} = {1 \\over 2}$$<br><br>\n$$ \\Rightarrow $$ $${\\tan ^{ - 1}}\\left( {{1 \\over 2}} \\right) = {\\tan ^{ - 1}}\\left( {0.5} \\right)$$",
+      "solution": "Tcos$$\\theta $$ = mg<br><br> Tsin$$\\theta $$ = qE<br><br> tan$$\\theta $$ = $$qE \\over mg$$<br><br> tan$$\\theta $$ = $$5 \\times 10^ - 16 \\times 2000 \\over 2 \\times 10^ - 3 \\times 10 = 1 \\over 2$$<br><br> $$ \\Rightarrow $$ $$\\tan ^ - 1\\left( 1 \\over 2 \\right) = \\tan ^ - 1\\left( 0.5 \\right)$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A particle of charge q and mass m is subjected to an electric field<br/> E = E<sub>0</sub>\n (1 \\u2013 $$a$$x<sup>2</sup>) in the x-direction,\nwhere $$a$$ and E<sub>0</sub>\n are constants. Initially the particle was at rest at x = 0. Other than the initial\nposition the kinetic energy of the particle becomes zero when the distance of the particle from the\norigin is :",
+      "question": "A particle of charge q and mass m is subjected to an electric field<br/> E = E<sub>0</sub> (1 \\\u2013 $$a$$x<sup>2</sup>) in the x-direction, where $$a$$ and E<sub>0</sub> are constants. Initially the particle was at rest at x = 0. Other than the initial position the kinetic energy of the particle becomes zero when the distance of the particle from the origin is :",
       "options": {
         "A": "$$a$$",
-        "B": "$$\\sqrt {{2 \\over a}} $$",
-        "C": "$$\\sqrt {{3 \\over a}} $$",
-        "D": "$$\\sqrt {{1 \\over a}} $$"
+        "B": "$$\\sqrt 2 \\over a $$",
+        "C": "$$\\sqrt 3 \\over a $$",
+        "D": "$$\\sqrt 1 \\over a $$"
       },
       "answer": "C",
-      "solution": "$$W = \\Delta KE$$\n<br><br>As inital and final kinetic energy both are zero so $$\\Delta KE$$ = 0\n<br><br>$$ \\therefore $$ W = 0\n<br><br>$$ \\Rightarrow $$ $$\\int\\limits_0^x {Fdx}  = 0$$<br><br>$$ \\Rightarrow $$ $$q\\int\\limits_0^x {{E_0}\\left( {1 - a{x^2}} \\right)dx}  = 0$$<br><br>$$ \\Rightarrow $$ $$q{E_0}\\left[ {\\int\\limits_0^x {dx - a} \\int\\limits_0^x {{x^2}dx} } \\right] = 0$$<br><br>$$ \\Rightarrow $$$$q{E_0}\\left[ {x - {{a{x^3}} \\over 3}} \\right] = 0$$<br><br>$$ \\Rightarrow $$ $$x\\left( {1 - {{a{x^2}} \\over 3}} \\right) = 0$$<br><br>$$ \\Rightarrow $$ $$x = 0,$$ $${1 - {{a{x^2}} \\over 3}}$$ = 0<br><br>$$ \\Rightarrow $$ $${{{a{x^2}} \\over 3}}$$ = 1<br><br>$$ \\Rightarrow $$ $${x = \\sqrt {{3 \\over a}} }$$",
+      "solution": "$$W = \\Delta KE$$ <br><br>As inital and final kinetic energy both are zero so $$\\Delta KE$$ = 0 <br><br>$$ \\therefore $$ W = 0 <br><br>$$ \\Rightarrow $$ $$\\int\\limits_0^x Fdx = 0$$<br><br>$$ \\Rightarrow $$ $$q\\int\\limits_0^x E_0\\left( 1 - ax^2 \\right)dx = 0$$<br><br>$$ \\Rightarrow $$ $$qE_0\\left[ \\int\\limits_0^x dx - a \\int\\limits_0^x x^2dx \\right] = 0$$<br><br>$$ \\Rightarrow $$$$qE_0\\left[ x - ax^3 \\over 3 \\right] = 0$$<br><br>$$ \\Rightarrow $$ $$x\\left( 1 - ax^2 \\over 3 \\right) = 0$$<br><br>$$ \\Rightarrow $$ $$x = 0,$$ $$1 - ax^2 \\over 3$$ = 0<br><br>$$ \\Rightarrow $$ $$ax^2 \\over 3$$ = 1<br><br>$$ \\Rightarrow $$ $$x = \\sqrt 3 \\over a $$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -822,7 +537,7 @@
         "D": "1.73 $$\\times$$ 10<sup>12</sup>"
       },
       "answer": "B",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265676/exam_images/z50dgjy3i2h18x8nrf7x.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Morning Shift Physics - Electrostatics Question 111 English Explanation\">\n<br>F<sub>e</sub> = qE = (ne)E<br><br>F<sub>e</sub> = mg<br><br>(ne)E = mg<br><br>$$n = {{mg} \\over {eE}} = {{\\rho {4 \\over 3}\\pi {R^3} \\times g} \\over {eE}}$$<br><br>$$n = {{3000 \\times {4 \\over 3} \\times 3.14 \\times 8 \\times {{10}^{ - 9}} \\times 9.8} \\over {1.6 \\times {{10}^{ - 19}} \\times 3.55 \\times {{10}^5}}}$$<br><br>$$n = {{984704 \\times {{10}^5}} \\over {5.68}} = 1.73 \\times {10^{10}}$$<br><br>$$n = 1.73 \\times {10^{10}}$$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734265676/exam_images/z50dgjy3i2h18x8nrf7x.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2021 (Online) 18th March Morning Shift Physics - Electrostatics Question 111 English Explanation\"> <br>F<sub>e</sub> = qE = (ne)E<br><br>F<sub>e</sub> = mg<br><br>(ne)E = mg<br><br>$$n = mg \\over eE = \\rho 4 \\over 3\\pi R^3 \\times g \\over eE$$<br><br>$$n = 3000 \\times 4 \\over 3 \\times 3.14 \\times 8 \\times 10^ - 9 \\times 9.8 \\over 1.6 \\times 10^ - 19 \\times 3.55 \\times 10^5$$<br><br>$$n = 984704 \\times 10^5 \\over 5.68 = 1.73 \\times 10^10$$<br><br>$$n = 1.73 \\times 10^10$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -837,14 +552,14 @@
         "D": "0.5 m"
       },
       "answer": "D",
-      "solution": "<p>$${v^2} - {u^2} = 2as$$</p>\n<p>$$ \\Rightarrow {0^2} - {200^2} = 2\\left( {{{ - qE} \\over m}} \\right)(S)$$</p>\n<p>$$ \\Rightarrow  - {200^2} = 2\\left[ {{{ - 40 \\times {{10}^{ - 6}} \\times {{10}^5}} \\over {100 \\times {{10}^{ - 6}}}}} \\right][S]$$</p>\n<p>$$ \\Rightarrow S = {4 \\over {2 \\times 4}}$$ m = 0.5 m</p>",
+      "solution": "<p>$$v^2 - u^2 = 2as$$</p> <p>$$ \\Rightarrow 0^2 - 200^2 = 2\\left( - qE \\over m \\right)(S)$$</p> <p>$$ \\Rightarrow - 200^2 = 2\\left[ - 40 \\times 10^ - 6 \\times 10^5 \\over 100 \\times 10^ - 6 \\right][S]$$</p> <p>$$ \\Rightarrow S = 4 \\over 2 \\times 4$$ m = 0.5 m</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>A vertical electric field of magnitude 4.9 $$\\times$$ 10<sup>5</sup> N/C just prevents a water droplet of a mass 0.1 g from falling. The value of charge on the droplet will be :</p>\n<p>(Given : g = 9.8 m/s<sup>2</sup>)</p>",
+      "question": "<p>A vertical electric field of magnitude 4.9 $$\\times$$ 10<sup>5</sup> N/C just prevents a water droplet of a mass 0.1 g from falling. The value of charge on the droplet will be :</p> <p>(Given : g = 9.8 m/s<sup>2</sup>)</p>",
       "options": {
         "A": "1.6 $$\\times$$ 10<sup>$$-$$9</sup> C",
         "B": "2.0 $$\\times$$ 10<sup>$$-$$9</sup> C",
@@ -852,14 +567,14 @@
         "D": "0.5 $$\\times$$ 10<sup>$$-$$9</sup> C"
       },
       "answer": "B",
-      "solution": "<p>Since the droplet is at rest</p>\n<p>$$\\Rightarrow$$ Net force = 0</p>\n<p>$$\\Rightarrow$$ mg = qE</p>\n<p>$$\\Rightarrow$$ $$q = {{mg} \\over E}$$ = 2 $$\\times$$ 10<sup>$$-$$9</sup> C</p>",
+      "solution": "<p>Since the droplet is at rest</p> <p>$$\\Rightarrow$$ Net force = 0</p> <p>$$\\Rightarrow$$ mg = qE</p> <p>$$\\Rightarrow$$ $$q = mg \\over E$$ = 2 $$\\times$$ 10<sup>$$-$$9</sup> C</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>A point charge $$2\\times10^{-2}~\\mathrm{C}$$ is moved from P to S in a uniform electric field of $$30~\\mathrm{NC^{-1}}$$ directed along positive x-axis. If coordinates of P and S are (1, 2, 0) m and (0, 0, 0) m respectively, the work done by electric field will be</p>",
+      "question": "<p>A point charge $$2\\times10^-2~C$$ is moved from P to S in a uniform electric field of $$30~NC^-1$$ directed along positive x-axis. If coordinates of P and S are (1, 2, 0) m and (0, 0, 0) m respectively, the work done by electric field will be</p>",
       "options": {
         "A": "600 mJ",
         "B": "$$-1200$$ mJ",
@@ -867,7 +582,7 @@
         "D": "$$-600$$ mJ"
       },
       "answer": "D",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1let3h9fn/25ba725f-606b-445d-8cf6-b491ca398815/fb86c530-ba10-11ed-bf62-29125e0e0d77/file-1let3h9fo.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1let3h9fn/25ba725f-606b-445d-8cf6-b491ca398815/fb86c530-ba10-11ed-bf62-29125e0e0d77/file-1let3h9fo.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Physics - Electrostatics Question 57 English Explanation\"></p>\n<p>$$w = \\int {F\\,.\\,ds} $$</p>\n<p>$$\\overrightarrow F  = q\\overrightarrow E  = 2 \\times {10^{ - 2}} \\times 30\\widehat i = 0.6N\\widehat i$$</p>\n<p>$$w = \\overrightarrow F .\\overrightarrow d  = (0.6\\widehat i)\\,.\\,( - \\widehat i, - 2\\widehat j)$$</p>\n<p>$$ =  - 0.6$$ J</p>\n<p>$$ =  - 600$$ mJ</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/1let3h9fn/25ba725f-606b-445d-8cf6-b491ca398815/fb86c530-ba10-11ed-bf62-29125e0e0d77/file-1let3h9fo.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/1let3h9fn/25ba725f-606b-445d-8cf6-b491ca398815/fb86c530-ba10-11ed-bf62-29125e0e0d77/file-1let3h9fo.png\" loading=\"lazy\" style=\"max-width: 100%; height: auto; display: block; margin: 0px auto; max-height: 40vh;\" alt=\"JEE Main 2023 (Online) 29th January Evening Shift Physics - Electrostatics Question 57 English Explanation\"></p> <p>$$w = \\int F\\,.\\,ds $$</p> <p>$$\\overrightarrow F = q\\overrightarrow E = 2 \\times 10^ - 2 \\times 30\\widehat i = 0.6N\\widehat i$$</p> <p>$$w = \\overrightarrow F .\\overrightarrow d = (0.6\\widehat i)\\,.\\,( - \\widehat i, - 2\\widehat j)$$</p> <p>$$ = - 0.6$$ J</p> <p>$$ = - 600$$ mJ</p>",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -876,13 +591,13 @@
     {
       "question": "The electric field due to a short electric dipole at a large distance $(r)$ from center of dipole on the equatorial plane varies with distance as :",
       "options": {
-        "A": "$\\frac{1}{r^{2}}$",
-        "B": "$\\frac{1}{r}$",
+        "A": "$\\frac1r^2$",
+        "B": "$\\frac1r$",
         "C": "$r$",
-        "D": "$\\frac{1}{r^{3}}$"
+        "D": "$\\frac1r^3$"
       },
       "answer": "D",
-      "solution": "At a large distance $r$ from the center of a short electric dipole, the electric field on the equatorial plane can be approximated as:\n<br/><br/>\n$$\nE = \\frac{1}{4\\pi\\epsilon_0}\\frac{2p}{r^3}\n$$\n<br/><br/>\nwhere $p$ is the dipole moment of the electric dipole, and $\\epsilon_0$ is the permittivity of free space.\n<br/><br/>\nThis formula is derived using the concept of electric dipole moment, which is defined as:\n<br/><br/>\n$$\n\\vec{p} = q\\vec{d}\n$$\n<br/><br/>\nwhere $q$ is the magnitude of the electric charge, and $\\vec{d}$ is the separation vector between the positive and negative charges of the dipole. The electric field at a point on the equatorial plane of the dipole is due to the electric field of the positive and negative charges at that point. <br/><br/>Since the charges are equal in magnitude and opposite in sign, their electric fields at a point on the equatorial plane cancel out along the axis of the dipole, leaving only the component perpendicular to the axis. <br/><br/>This perpendicular component of the electric field is proportional to the dipole moment $p$ and inversely proportional to the cube of the distance $r$ from the center of the dipole.\n<br/><br/>\nTherefore, the electric field due to a short electric dipole at a large distance $r$ from the center of the dipole on the equatorial plane varies with distance as:\n<br/><br/>\n$$\n\\boxed{E \\propto \\frac{1}{r^3}}\n$$\n<br/><br/>\nwhere the proportionality constant is $\\frac{1}{4\\pi\\epsilon_0}$.",
+      "solution": "At a large distance $r$ from the center of a short electric dipole, the electric field on the equatorial plane can be approximated as: <br/><br/> $$ E = \\frac14\\pi\\epsilon_0\\frac2pr^3 $$ <br/><br/> where $p$ is the dipole moment of the electric dipole, and $\\epsilon_0$ is the permittivity of free space. <br/><br/> This formula is derived using the concept of electric dipole moment, which is defined as: <br/><br/> $$ \\vecp = q\\vecd $$ <br/><br/> where $q$ is the magnitude of the electric charge, and $\\vecd$ is the separation vector between the positive and negative charges of the dipole. The electric field at a point on the equatorial plane of the dipole is due to the electric field of the positive and negative charges at that point. <br/><br/>Since the charges are equal in magnitude and opposite in sign, their electric fields at a point on the equatorial plane cancel out along the axis of the dipole, leaving only the component perpendicular to the axis. <br/><br/>This perpendicular component of the electric field is proportional to the dipole moment $p$ and inversely proportional to the cube of the distance $r$ from the center of the dipole. <br/><br/> Therefore, the electric field due to a short electric dipole at a large distance $r$ from the center of the dipole on the equatorial plane varies with distance as: <br/><br/> $$ \\boxedE \\propto \\frac1r^3 $$ <br/><br/> where the proportionality constant is $\\frac14\\pi\\epsilon_0$.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -906,13 +621,13 @@
     {
       "question": "<p>Two charges $$q$$ and $$3 q$$ are separated by a distance '$$r$$' in air. At a distance $$x$$ from charge $$q$$, the resultant electric field is zero. The value of $$x$$ is :</p>",
       "options": {
-        "A": "$$\\frac{r}{3(1+\\sqrt{3})}$$\n",
-        "B": "$$\\frac{(1+\\sqrt{3})}{r}$$\n",
-        "C": "$$\\frac{r}{(1+\\sqrt{3})}$$\n",
-        "D": "$$r(1+\\sqrt{3})$$"
+        "A": "$$\\fracr3(1+\\sqrt3)$$",
+        "B": "$$\\frac(1+\\sqrt3)r$$",
+        "C": "$$\\fracr(1+\\sqrt3)$$",
+        "D": "$$r(1+\\sqrt3)$$"
       },
       "answer": "C",
-      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsluewb7/95253c3b-95ab-4fdb-8ed5-a7454583f0ab/125df630-cb3f-11ee-ad47-a16d1086e690/file-6y3zli1lsluewb8.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y3zli1lsluewb7/95253c3b-95ab-4fdb-8ed5-a7454583f0ab/125df630-cb3f-11ee-ad47-a16d1086e690/file-6y3zli1lsluewb8.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 31st January Morning Shift Physics - Electrostatics Question 22 English Explanation\"></p>\n<p>$$\\begin{aligned}\n&amp; \\left(\\vec{E}_{\\text {net }}\\right)_P=0 \\\\\n&amp; \\frac{\\mathrm{kq}}{\\mathrm{x}^2}=\\frac{\\mathrm{k} \\cdot 3 \\mathrm{q}}{(\\mathrm{r}-\\mathrm{x})^2} \\\\\n&amp; (\\mathrm{r}-\\mathrm{x})^2=3 \\mathrm{x}^2 \\\\\n&amp; \\mathrm{r}-\\mathrm{x}=\\sqrt{3} \\mathrm{x} \\\\\n&amp; \\mathrm{x}=\\frac{\\mathrm{r}}{\\sqrt{3}+1}\n\\end{aligned}$$</p>",
+      "solution": "<p><img src=\"https://app-content.cdn.examgoal.net/fly/@width/image/6y3zli1lsluewb7/95253c3b-95ab-4fdb-8ed5-a7454583f0ab/125df630-cb3f-11ee-ad47-a16d1086e690/file-6y3zli1lsluewb8.png?format=png\" data-orsrc=\"https://app-content.cdn.examgoal.net/image/6y3zli1lsluewb7/95253c3b-95ab-4fdb-8ed5-a7454583f0ab/125df630-cb3f-11ee-ad47-a16d1086e690/file-6y3zli1lsluewb8.png\" loading=\"lazy\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;max-height: 40vh;vertical-align: baseline\" alt=\"JEE Main 2024 (Online) 31st January Morning Shift Physics - Electrostatics Question 22 English Explanation\"></p> <p>$$\\beginaligned & \\left(\\vecE_\\text net \\right)_P=0 \\\\ & \\frackqx^2=\\frack \\cdot 3 q(r-x)^2 \\\\ & (r-x)^2=3 x^2 \\\\ & r-x=\\sqrt3 x \\\\ & x=\\fracr\\sqrt3+1 \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
@@ -921,43 +636,43 @@
     {
       "question": "<p>Two charges of $$5 Q$$ and $$-2 Q$$ are situated at the points $$(3 a, 0)$$ and $$(-5 a, 0)$$ respectively. The electric flux through a sphere of radius '$$4 a$$' having center at origin is :</p>",
       "options": {
-        "A": "$$\\frac{2 Q}{\\varepsilon_0}$$\n",
-        "B": "$$\\frac{7 Q}{\\varepsilon_0}$$\n",
-        "C": "$$\\frac{3 Q}{\\varepsilon_0}$$\n",
-        "D": "$$\\frac{5 Q}{\\varepsilon_0}$$"
+        "A": "$$\\frac2 Q\\varepsilon_0$$",
+        "B": "$$\\frac7 Q\\varepsilon_0$$",
+        "C": "$$\\frac3 Q\\varepsilon_0$$",
+        "D": "$$\\frac5 Q\\varepsilon_0$$"
       },
       "answer": "D",
-      "solution": "<p>The electric flux through any closed surface is given by Gauss's law, which can be stated as:</p>\n\n$$ \\Phi = \\frac{Q_{\\text{enc}}}{\\varepsilon_0} $$\n\n<p>where:</p>\n\n<ul>\n    <li>$$\\Phi$$ = electric flux</li>\n    <li>$$Q_{\\text{enc}}$$ = total charge enclosed by the surface</li>\n    <li>$$\\varepsilon_0$$ = permittivity of free space (electric constant)</li>\n</ul>\n\n<p>In this scenario, we have a sphere of radius $$4a$$ with its center at the origin and two charges, $$5Q$$ at point (3a, 0) and $$-2Q$$ at point (-5a, 0). Since the sphere's radius is $$4a$$, the charge $$5Q$$, which is located at (3a, 0), lies inside the sphere, whereas the charge $$-2Q$$, located at (-5a, 0), lies outside the sphere. Gauss's law only considers charges that are enclosed within the surface.</p>\n\n<p>Thus, the charge $$-2Q$$ has no impact on the electric flux through the sphere because it is not enclosed by the sphere. Only the charge $$5Q$$ contributes to the electric flux inside the sphere.</p>\n\n<p>The electric flux through the sphere is therefore given simply by the enclosed charge:</p>\n\n$$ \\Phi = \\frac{5Q}{\\varepsilon_0} $$",
+      "solution": "<p>The electric flux through any closed surface is given by Gauss's law, which can be stated as:</p> $$ \\Phi = \\fracQ_\\textenc\\varepsilon_0 $$ <p>where:</p> <ul> <li>$$\\Phi$$ = electric flux</li> <li>$$Q_\\textenc$$ = total charge enclosed by the surface</li> <li>$$\\varepsilon_0$$ = permittivity of free space (electric constant)</li> </ul> <p>In this scenario, we have a sphere of radius $$4a$$ with its center at the origin and two charges, $$5Q$$ at point (3a, 0) and $$-2Q$$ at point (-5a, 0). Since the sphere's radius is $$4a$$, the charge $$5Q$$, which is located at (3a, 0), lies inside the sphere, whereas the charge $$-2Q$$, located at (-5a, 0), lies outside the sphere. Gauss's law only considers charges that are enclosed within the surface.</p> <p>Thus, the charge $$-2Q$$ has no impact on the electric flux through the sphere because it is not enclosed by the sphere. Only the charge $$5Q$$ contributes to the electric flux inside the sphere.</p> <p>The electric flux through the sphere is therefore given simply by the enclosed charge:</p> $$ \\Phi = \\frac5Q\\varepsilon_0 $$",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>A particle of charge '$$-q$$' and mass '$$m$$' moves in a circle of radius '$$r$$' around an infinitely long line charge of linear charge density '$$+\\lambda$$'. Then time period will be given as :</p>\n<p>(Consider $$k$$ as Coulomb's constant)</p>",
+      "question": "<p>A particle of charge '$$-q$$' and mass '$$m$$' moves in a circle of radius '$$r$$' around an infinitely long line charge of linear charge density '$$+\\lambda$$'. Then time period will be given as :</p> <p>(Consider $$k$$ as Coulomb's constant)</p>",
       "options": {
-        "A": "$$T^2=\\frac{4 \\pi^2 m}{2 k \\lambda q} r^3$$\n",
-        "B": "$$T=\\frac{1}{2 \\pi r} \\sqrt{\\frac{m}{2 k \\lambda q}}$$\n",
-        "C": "$$T=\\frac{1}{2 \\pi} \\sqrt{\\frac{2 k \\lambda q}{m}}$$",
-        "D": "$$T=2 \\pi r \\sqrt{\\frac{m}{2 k \\lambda q}}$$"
+        "A": "$$T^2=\\frac4 \\pi^2 m2 k \\lambda q r^3$$",
+        "B": "$$T=\\frac12 \\pi r \\sqrt\\fracm2 k \\lambda q$$",
+        "C": "$$T=\\frac12 \\pi \\sqrt\\frac2 k \\lambda qm$$",
+        "D": "$$T=2 \\pi r \\sqrt\\fracm2 k \\lambda q$$"
       },
       "answer": "D",
-      "solution": "<p>$$\\begin{aligned}\n& \\frac{2 \\mathrm{k} \\lambda \\mathrm{q}}{\\mathrm{r}}=\\mathrm{m} \\omega^2 \\mathrm{r} \\\\\n& \\omega^2=\\frac{2 \\mathrm{k} \\lambda \\mathrm{q}}{\\mathrm{mr}^2} \\\\\n& \\left(\\frac{2 \\pi}{\\mathrm{T}}\\right)^2=\\frac{2 \\mathrm{k} \\lambda \\mathrm{q}}{\\mathrm{mr}^2} \\\\\n& \\mathrm{~T}=2 \\pi \\mathrm{r} \\sqrt{\\frac{\\mathrm{m}}{2 \\mathrm{k} \\lambda \\mathrm{q}}}\n\\end{aligned}$$</p>",
+      "solution": "<p>$$\\beginaligned & \\frac2 k \\lambda qr=m \\omega^2 r \\\\ & \\omega^2=\\frac2 k \\lambda qmr^2 \\\\ & \\left(\\frac2 \\piT\\right)^2=\\frac2 k \\lambda qmr^2 \\\\ & ~T=2 \\pi r \\sqrt\\fracm2 k \\lambda q \\endaligned$$</p>",
       "exam": "JEE Main 2024",
       "year": 2024,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "The potential (in volts) of a charge distribution is given by.\n<br/><br/>V(z) = 30 $$-$$ 5x<sup>2</sup> for $$\\left| z \\right|$$ $$ \\le $$ 1 m.\n<br/>V(z) = 35 $$-$$ 10 $$\\left| z \\right|$$ for $$\\left| z \\right|$$ $$ \\ge $$1 m.\n<br/><br/>V(z)  does not depend on x and y. If this potential is generated by a constant charge per unit volume $${\\rho _0}$$ (in units of $${\\varepsilon _0}$$) which is spread over a certain region, then choose the correct statement.",
+      "question": "The potential (in volts) of a charge distribution is given by. <br/><br/>V(z) = 30 $$-$$ 5x<sup>2</sup> for $$\\left| z \\right|$$ $$ \\le $$ 1 m. <br/>V(z) = 35 $$-$$ 10 $$\\left| z \\right|$$ for $$\\left| z \\right|$$ $$ \\ge $$1 m. <br/><br/>V(z) does not depend on x and y. If this potential is generated by a constant charge per unit volume $$\\rho _0$$ (in units of $$\\varepsilon _0$$) which is spread over a certain region, then choose the correct statement.",
       "options": {
-        "A": "$${\\rho _0}$$ = 10 $${\\varepsilon _0}$$ for $$\\left| z \\right|$$ $$ \\le $$ 1 m  and $${\\rho _0} = 0$$ elsewhere",
-        "B": "$${\\rho _0}$$ = 20 $${\\varepsilon _0}$$ in the entire region",
-        "C": "$${\\rho _0}$$ = 40 $${\\varepsilon _0}$$ in the entire region",
-        "D": "$${\\rho _0}$$ = 20 $${\\varepsilon _0}$$ for $$\\left| z \\right|$$ $$ \\le $$ 1 m  and $${\\rho _0} = 0$$ elsewhere"
+        "A": "$$\\rho _0$$ = 10 $$\\varepsilon _0$$ for $$\\left| z \\right|$$ $$ \\le $$ 1 m and $$\\rho _0 = 0$$ elsewhere",
+        "B": "$$\\rho _0$$ = 20 $$\\varepsilon _0$$ in the entire region",
+        "C": "$$\\rho _0$$ = 40 $$\\varepsilon _0$$ in the entire region",
+        "D": "$$\\rho _0$$ = 20 $$\\varepsilon _0$$ for $$\\left| z \\right|$$ $$ \\le $$ 1 m and $$\\rho _0 = 0$$ elsewhere"
       },
       "answer": "A",
-      "solution": "We know, \n<br><br>E(z) = $$-$$ $${{dv} \\over {dz}}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;E(z) = $$-$$ 10 z for $$\\left| z \\right| \\le 1$$ m\n<br><br>and E(z) = 10 for $$\\left| z \\right| \\ge 1$$ m\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;The source is an infinity large non conducting  thick of thickness z = 2 m.\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;E = $${\\sigma  \\over {2{\\varepsilon _0}}}$$ = $${{\\rho \\left( 2 \\right)} \\over {2{\\varepsilon _0}}}$$ = $${\\rho  \\over {{\\varepsilon _0}}}$$\n<br><br>$$ \\therefore $$&nbsp;&nbsp;&nbsp;$${\\rho  \\over {{\\varepsilon _0}}}$$ = 10 \n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;&nbsp;$$\\rho $$ = $${10\\,{\\varepsilon _0}}$$",
+      "solution": "We know, <br><br>E(z) = $$-$$ $$dv \\over dz$$ <br><br>$$ \\therefore $$ E(z) = $$-$$ 10 z for $$\\left| z \\right| \\le 1$$ m <br><br>and E(z) = 10 for $$\\left| z \\right| \\ge 1$$ m <br><br>$$ \\therefore $$ The source is an infinity large non conducting thick of thickness z = 2 m. <br><br>$$ \\therefore $$ E = $$\\sigma \\over 2\\varepsilon _0$$ = $$\\rho \\left( 2 \\right) \\over 2\\varepsilon _0$$ = $$\\rho \\over \\varepsilon _0$$ <br><br>$$ \\therefore $$ $$\\rho \\over \\varepsilon _0$$ = 10 <br><br>$$ \\Rightarrow $$ $$\\rho $$ = $$10\\,\\varepsilon _0$$",
       "exam": "JEE Main 2016",
       "year": 2016,
       "subject": "Physics",
@@ -972,22 +687,22 @@
         "D": "589.6 V"
       },
       "answer": "C",
-      "solution": "Potential gradient, \n<br><br>$$\\Delta $$V = E. d\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 589.8 $$-$$ 589.0 = (E d)<sub>max</sub>\n<br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ (E d)<sub>max</sub> = 0.8\n<br><br>$$\\therefore\\,\\,\\,$$ $$\\Delta $$V = E d cos$$\\theta $$\n<br><br>= 0.8 $$ \\times $$ cos60<sup>o</sup>\n<br><br>= 0.4\n<br><br>$$\\therefore\\,\\,\\,$$ Maximum potential on the sphere = 589.4 V",
+      "solution": "Potential gradient, <br><br>$$\\Delta $$V = E. d <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ 589.8 $$-$$ 589.0 = (E d)<sub>max</sub> <br><br>$$ \\Rightarrow $$$$\\,\\,\\,$$ (E d)<sub>max</sub> = 0.8 <br><br>$$\\therefore\\,\\,\\,$$ $$\\Delta $$V = E d cos$$\\theta $$ <br><br>= 0.8 $$ \\times $$ cos60<sup>o</sup> <br><br>= 0.4 <br><br>$$\\therefore\\,\\,\\,$$ Maximum potential on the sphere = 589.4 V",
       "exam": "JEE Main 2017",
       "year": 2017,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "The electric field in a region is given by\n$$\\mathop E\\limits^ \\to   = \\left( {Ax + B} \\right)\\mathop i\\limits^ \\wedge  $$\n, where E is in NC<sup>\\u20131</sup> and x is in\nmetres. The values of constants are\nA = 20 SI unit and B = 10 SI unit. If the potential\nat x = 1 is V<sub>1</sub> and that at x = \\u20135 is V<sub>2</sub>, then\nV<sub>1</sub> \\u2013 V<sub>2</sub> is :-",
+      "question": "The electric field in a region is given by $$\\mathop E\\limits^ \\to = \\left( Ax + B \\right)\\mathop i\\limits^ \\wedge $$ , where E is in NC<sup>\\\u20131</sup> and x is in metres. The values of constants are A = 20 SI unit and B = 10 SI unit. If the potential at x = 1 is V<sub>1</sub> and that at x = \\\u20135 is V<sub>2</sub>, then V<sub>1</sub> \\\u2013 V<sub>2</sub> is :-",
       "options": {
-        "A": "\\u2013520 V",
+        "A": "\\\u2013520 V",
         "B": "180 V",
-        "C": "\\u201348 V",
+        "C": "\\\u201348 V",
         "D": "320 V"
       },
       "answer": "B",
-      "solution": "$$\\overrightarrow E  = (20x + 10)\\widehat i$$<br><br>\n$${V_1} - {V_2} =  - \\int\\limits_{ - 5}^1 {\\left( {20x + 10} \\right)dx} $$<br><br>\n$${V_1} - {V_2} =  - \\left( {10{x^2} + 10x} \\right)_{ - 5}^1$$<br><br>\n$${V_1} - {V_2} = 10\\left( {25 - 5 - 1 - 1} \\right)$$<br><br>\n$${V_1} - {V_2} = 180\\,V$$",
+      "solution": "$$\\overrightarrow E = (20x + 10)\\widehat i$$<br><br> $$V_1 - V_2 = - \\int\\limits_ - 5^1 \\left( 20x + 10 \\right)dx $$<br><br> $$V_1 - V_2 = - \\left( 10x^2 + 10x \\right)_ - 5^1$$<br><br> $$V_1 - V_2 = 10\\left( 25 - 5 - 1 - 1 \\right)$$<br><br> $$V_1 - V_2 = 180\\,V$$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
@@ -1002,22 +717,22 @@
         "D": "Both the net potential and the net field can be zero at a point."
       },
       "answer": "A",
-      "solution": "$V=\\frac{\\sum K Q_{i}}{r_{i}}$\n\n<br/><br/>Here, $Q_{i}$ and $r_{i}$ are positive.\n\n<br/><br/>$\\therefore V > 0$\n<br/><br/>The correct statement is:\n\n<br/><br/>(A) Net potential of the system cannot be zero at a point but net electric field can be zero at that point.\n\n<br/><br/><b>Explanation:</b>\n<br/><br/>In a group of positive charges, the net potential at a point is the sum of the potentials due to each individual charge. The potential due to a point charge is given by the Coulomb's law, which is non-zero except at the location of the charge itself. Therefore, the net potential due to a group of positive charges can never be zero at a point.\n\n<br/><br/>On the other hand, the net electric field at a point is the vector sum of the electric fields due to each individual charge. If the charges are arranged in such a way that their electric fields cancel out at a particular point, then the net electric field at that point can be zero, even though the charges are present. This can happen, for example, in a symmetrical arrangement of charges.\n\n<br/><br/>So, statement (A) is the correct statement.",
+      "solution": "$V=\\frac\\sum K Q_ir_i$ <br/><br/>Here, $Q_i$ and $r_i$ are positive. <br/><br/>$\\therefore V > 0$ <br/><br/>The correct statement is: <br/><br/>(A) Net potential of the system cannot be zero at a point but net electric field can be zero at that point. <br/><br/><b>Explanation:</b> <br/><br/>In a group of positive charges, the net potential at a point is the sum of the potentials due to each individual charge. The potential due to a point charge is given by the Coulomb's law, which is non-zero except at the location of the charge itself. Therefore, the net potential due to a group of positive charges can never be zero at a point. <br/><br/>On the other hand, the net electric field at a point is the vector sum of the electric fields due to each individual charge. If the charges are arranged in such a way that their electric fields cancel out at a particular point, then the net electric field at that point can be zero, even though the charges are present. This can happen, for example, in a symmetrical arrangement of charges. <br/><br/>So, statement (A) is the correct statement.",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "On the x-axis and at a distance x from the origin, the gravitational field due a mass distribution is\ngiven by $${{Ax} \\over {{{\\left( {{x^2} + {a^2}} \\right)}^{3/2}}}}$$ in the x-direction. The magnitude of gravitational potential on the x-axis at a\ndistance x, taking its value to be zero at infinity, is:",
+      "question": "On the x-axis and at a distance x from the origin, the gravitational field due a mass distribution is given by $$Ax \\over \\left( x^2 + a^2 \\right)^3/2$$ in the x-direction. The magnitude of gravitational potential on the x-axis at a distance x, taking its value to be zero at infinity, is:",
       "options": {
-        "A": "$${A{{\\left( {{x^2} + {a^2}} \\right)}^{3/2}}}$$",
-        "B": "$${A{{\\left( {{x^2} + {a^2}} \\right)}^{1/2}}}$$",
-        "C": "$${A \\over {{{\\left( {{x^2} + {a^2}} \\right)}^{1/2}}}}$$",
-        "D": "$${A \\over {{{\\left( {{x^2} + {a^2}} \\right)}^{3/2}}}}$$"
+        "A": "$$A\\left( x^2 + a^2 \\right)^3/2$$",
+        "B": "$$A\\left( x^2 + a^2 \\right)^1/2$$",
+        "C": "$$A \\over \\left( x^2 + a^2 \\right)^1/2$$",
+        "D": "$$A \\over \\left( x^2 + a^2 \\right)^3/2$$"
       },
       "answer": "C",
-      "solution": "Given $${E_x} = {{Ax} \\over {{{({x^2} + {a^2})}^{3/2}}}}$$<br><br>$$ \\therefore $$ $${{ - dV} \\over {dx}} = {{Ax} \\over {{{({x^2} + {a^2})}^{3/2}}}}$$<br><br>$$ \\Rightarrow $$ $$\\int\\limits_0^V {dV}  =  - \\int\\limits_\\infty ^x {{{Ax} \\over {{{({x^2} + {a^2})}^{3/2}}}}dx} $$<br><br>$$ \\Rightarrow $$ $$V = {A \\over {{{({x^2} + {a^2})}^{1/2}}}}$$",
+      "solution": "Given $$E_x = Ax \\over (x^2 + a^2)^3/2$$<br><br>$$ \\therefore $$ $$ - dV \\over dx = Ax \\over (x^2 + a^2)^3/2$$<br><br>$$ \\Rightarrow $$ $$\\int\\limits_0^V dV = - \\int\\limits_\\infty ^x Ax \\over (x^2 + a^2)^3/2dx $$<br><br>$$ \\Rightarrow $$ $$V = A \\over (x^2 + a^2)^1/2$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
@@ -1039,7 +754,7 @@
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>Water falls from a 40 m high dam at the rate of 9 $$\\times$$ 10<sup>4</sup> kg per hour. Fifty percentage of gravitational potential energy can be converted into electrical energy. Using this hydroelectric energy number of 100 W lamps, that can be lit, is :</p>\n<p>(Take g = 10 ms<sup>$$-$$2</sup>)</p>",
+      "question": "<p>Water falls from a 40 m high dam at the rate of 9 $$\\times$$ 10<sup>4</sup> kg per hour. Fifty percentage of gravitational potential energy can be converted into electrical energy. Using this hydroelectric energy number of 100 W lamps, that can be lit, is :</p> <p>(Take g = 10 ms<sup>$$-$$2</sup>)</p>",
       "options": {
         "A": "25",
         "B": "50",
@@ -1047,59 +762,59 @@
         "D": "18"
       },
       "answer": "B",
-      "solution": "<p>Total gravitational PE of water per second $$ = {{mgh} \\over T}$$</p>\n<p>$$ = {{9 \\times {{10}^4} \\times 10 \\times 40} \\over {3600}} = {10^4}$$ J/sec</p>\n<p>50% of this energy can be converted into electrical energy so total electrical energy $$ = {{{{10}^4}} \\over 2} = 5000$$ W</p>\n<p>So total bulbs lit can be $$ = {{5000\\,W} \\over {100\\,W}} = 50$$ bulbs</p>",
+      "solution": "<p>Total gravitational PE of water per second $$ = mgh \\over T$$</p> <p>$$ = 9 \\times 10^4 \\times 10 \\times 40 \\over 3600 = 10^4$$ J/sec</p> <p>50% of this energy can be converted into electrical energy so total electrical energy $$ = 10^4 \\over 2 = 5000$$ W</p> <p>So total bulbs lit can be $$ = 5000\\,W \\over 100\\,W = 50$$ bulbs</p>",
       "exam": "JEE Main 2022",
       "year": 2022,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electron is moving along +x direction with a velocity of 6 $$ \\times $$ 10<sup>6</sup>\n ms<sup>\\u20131</sup>. It enters a region of uniform\nelectric field of 300 V/cm pointing along +y direction. The magnitude and direction of the magnetic\nfield set up in this region such that the electron keeps moving along the x direction will be :",
+      "question": "An electron is moving along +x direction with a velocity of 6 $$ \\times $$ 10<sup>6</sup> ms<sup>\\\u20131</sup>. It enters a region of uniform electric field of 300 V/cm pointing along +y direction. The magnitude and direction of the magnetic field set up in this region such that the electron keeps moving along the x direction will be :",
       "options": {
-        "A": "3 $$ \\times $$ 10<sup>\\u20134</sup> T, along \\u2013z direction ",
-        "B": "5 $$ \\times $$ 10<sup>\\u20133</sup> T, along \\u2013z direction ",
-        "C": "5 $$ \\times $$ 10<sup>\\u20133</sup> T, along +z direction ",
-        "D": "3 $$ \\times $$ 10<sup>\\u20134</sup> T, along +z direction "
+        "A": "3 $$ \\times $$ 10<sup>\\\u20134</sup> T, along \\\u2013z direction",
+        "B": "5 $$ \\times $$ 10<sup>\\\u20133</sup> T, along \\\u2013z direction",
+        "C": "5 $$ \\times $$ 10<sup>\\\u20133</sup> T, along +z direction",
+        "D": "3 $$ \\times $$ 10<sup>\\\u20134</sup> T, along +z direction"
       },
       "answer": "C",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264328/exam_images/dk2z5fyc6rr4leahspjo.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Magnetic Effect of Current Question 115 English Explanation\">\n<br><br>$$\\overrightarrow B $$ must be in +z axis.\n<br><br>$$\\overrightarrow V  = 6 \\times {10^6}\\widehat i$$\n<br><br>$$\\overrightarrow E  = 300\\widehat j$$ V/cm = 3 $$ \\times $$ 10<sup>4</sup> $$\\widehat j$$ V/m\n<br><br>$$\\overrightarrow F $$ = $$q\\overrightarrow E  + q\\overrightarrow V  \\times \\overrightarrow B $$\n<br><br>$$ \\therefore $$ $$q\\overrightarrow E  + q\\overrightarrow V  \\times \\overrightarrow B $$ = 0\n<br><br>$$ \\Rightarrow $$qE = qVB\n<br><br>$$ \\Rightarrow $$ B = $${E \\over V}$$ = $${{3 \\times {{10}^4}} \\over {6 \\times {{10}^6}}}$$ = 5 $$ \\times $$ 10<sup>\\u20133</sup> T",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264328/exam_images/dk2z5fyc6rr4leahspjo.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2020 (Online) 6th September Morning Slot Physics - Magnetic Effect of Current Question 115 English Explanation\"> <br><br>$$\\overrightarrow B $$ must be in +z axis. <br><br>$$\\overrightarrow V = 6 \\times 10^6\\widehat i$$ <br><br>$$\\overrightarrow E = 300\\widehat j$$ V/cm = 3 $$ \\times $$ 10<sup>4</sup> $$\\widehat j$$ V/m <br><br>$$\\overrightarrow F $$ = $$q\\overrightarrow E + q\\overrightarrow V \\times \\overrightarrow B $$ <br><br>$$ \\therefore $$ $$q\\overrightarrow E + q\\overrightarrow V \\times \\overrightarrow B $$ = 0 <br><br>$$ \\Rightarrow $$qE = qVB <br><br>$$ \\Rightarrow $$ B = $$E \\over V$$ = $$3 \\times 10^4 \\over 6 \\times 10^6$$ = 5 $$ \\times $$ 10<sup>\\\u20133</sup> T",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An electric dipole is formed by two equal and\nopposite charges q with separation d. The\ncharges have same mass m. It is kept in a\nuniform electric field E. If it is slightly rotated\nfrom its equilibrium orientation, then its angular\nfrequency $$\\omega$$ is :-",
+      "question": "An electric dipole is formed by two equal and opposite charges q with separation d. The charges have same mass m. It is kept in a uniform electric field E. If it is slightly rotated from its equilibrium orientation, then its angular frequency $$\\omega$$ is :-",
       "options": {
-        "A": "$$\\sqrt {{{qE} \\over {md}}} $$",
-        "B": "$$\\sqrt {{{qE} \\over {2md}}} $$",
-        "C": "$$\\sqrt {{{qE} \\over {-2md}}} $$",
-        "D": "$$\\sqrt {{{2qE} \\over {md}}} $$"
+        "A": "$$\\sqrt qE \\over md $$",
+        "B": "$$\\sqrt qE \\over 2md $$",
+        "C": "$$\\sqrt qE \\over -2md $$",
+        "D": "$$\\sqrt 2qE \\over md $$"
       },
       "answer": "D",
-      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264234/exam_images/mzthxauvtivy9bmccmsf.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Physics - Rotational Motion Question 148 English Explanation\">\nMoment of inertia<br>\n$$(I) = m{\\left( {{d \\over 2}} \\right)^2} \\times 2 = {{m{d^2}} \\over 2}$$<br><br>\nNow by $$\\tau  = l\\alpha $$<br><br>\n$$(qE)(d\\,\\sin \\theta ) = {{m{d^2}} \\over 2}.\\alpha $$<br><br>\n$$\\alpha  = \\left( {{{2qE} \\over {md}}} \\right)\\sin \\theta $$ for small $$\\theta $$<br><br>\n$$ \\Rightarrow \\alpha  = \\left( {{{2qE} \\over {md}}} \\right)\\theta $$<br><br>\n$$ \\Rightarrow $$ Angular frequency $$\\omega  = \\sqrt {{{2qE} \\over {md}}} $$",
+      "solution": "<img src=\"https://res.cloudinary.com/dckxllbjy/image/upload/v1734264234/exam_images/mzthxauvtivy9bmccmsf.webp\" style=\"max-width: 100%;height: auto;display: block;margin: 0 auto;\" loading=\"lazy\" alt=\"JEE Main 2019 (Online) 8th April Evening Slot Physics - Rotational Motion Question 148 English Explanation\"> Moment of inertia<br> $$(I) = m\\left( d \\over 2 \\right)^2 \\times 2 = md^2 \\over 2$$<br><br> Now by $$\\tau = l\\alpha $$<br><br> $$(qE)(d\\,\\sin \\theta ) = md^2 \\over 2.\\alpha $$<br><br> $$\\alpha = \\left( 2qE \\over md \\right)\\sin \\theta $$ for small $$\\theta $$<br><br> $$ \\Rightarrow \\alpha = \\left( 2qE \\over md \\right)\\theta $$<br><br> $$ \\Rightarrow $$ Angular frequency $$\\omega = \\sqrt 2qE \\over md $$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "A particle is executing simple harmonic motion (SHM) of amplitude A, along the x-axis, about x = 0. When its potential Energy (PE) equals kinetic energy (KE), the position of the particle will be : ",
+      "question": "A particle is executing simple harmonic motion (SHM) of amplitude A, along the x-axis, about x = 0. When its potential Energy (PE) equals kinetic energy (KE), the position of the particle will be :",
       "options": {
-        "A": "$${A \\over 2}$$",
-        "B": "$${A \\over {2\\sqrt 2 }}$$",
-        "C": "$${A \\over {\\sqrt 2 }}$$",
+        "A": "$$A \\over 2$$",
+        "B": "$$A \\over 2\\sqrt 2 $$",
+        "C": "$$A \\over \\sqrt 2 $$",
         "D": "A"
       },
       "answer": "C",
-      "solution": "Total energy of particle = $${1 \\over 2}k{A^2}$$\n<br><br>Potential energy (v) = $${1 \\over 2}$$ kx<sup>2</sup>\n<br><br>Kinetic energy (K) = $${1 \\over 2}$$ kA<sup>2</sup> $$-$$ $${1 \\over 2}$$kx<sup>2</sup>\n<br><br>According to the question, \n<br><br>Potential energy = Kinetic energy\n<br><br>$$ \\therefore $$&nbsp;&nbsp;$${1 \\over 2}$$kx<sup>2</sup> = $${1 \\over 2}$$kA<sup>2</sup> $$-$$ $${1 \\over 2}$$ kx<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;kx<sup>2</sup> = $${1 \\over 2}$$ kA<sup>2</sup>\n<br><br>$$ \\Rightarrow $$&nbsp;&nbsp;x = $$ \\pm $$ $${A \\over {\\sqrt 2 }}$$",
+      "solution": "Total energy of particle = $$1 \\over 2kA^2$$ <br><br>Potential energy (v) = $$1 \\over 2$$ kx<sup>2</sup> <br><br>Kinetic energy (K) = $$1 \\over 2$$ kA<sup>2</sup> $$-$$ $$1 \\over 2$$kx<sup>2</sup> <br><br>According to the question, <br><br>Potential energy = Kinetic energy <br><br>$$ \\therefore $$ $$1 \\over 2$$kx<sup>2</sup> = $$1 \\over 2$$kA<sup>2</sup> $$-$$ $$1 \\over 2$$ kx<sup>2</sup> <br><br>$$ \\Rightarrow $$ kx<sup>2</sup> = $$1 \\over 2$$ kA<sup>2</sup> <br><br>$$ \\Rightarrow $$ x = $$ \\pm $$ $$A \\over \\sqrt 2 $$",
       "exam": "JEE Main 2019",
       "year": 2019,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An object of mass 0.5 kg is executing simple harmonic motion. It amplitude is 5 cm and time period (T) is 0.2 s. What will be the potential energy of the object at an instant $$t = {T \\over 4}s$$ starting from mean position. Assume that the initial phase of the oscillation is zero.",
+      "question": "An object of mass 0.5 kg is executing simple harmonic motion. It amplitude is 5 cm and time period (T) is 0.2 s. What will be the potential energy of the object at an instant $$t = T \\over 4s$$ starting from mean position. Assume that the initial phase of the oscillation is zero.",
       "options": {
         "A": "0.62 J",
         "B": "6.2 $$\\times$$ 10<sup>$$-$$3</sup> J",
@@ -1107,7 +822,7 @@
         "D": "6.2 $$\\times$$ 10<sup>3</sup> J"
       },
       "answer": "A",
-      "solution": "$$T = 2\\pi \\sqrt {{m \\over k}} $$<br><br>$$0.2 = 2\\pi \\sqrt {{{0.5} \\over k}} $$<br><br>k = 50$$\\pi$$<sup>2</sup><br><br>$$ \\approx $$ 500<br><br>x = A sin ($$\\omega$$t + $$\\phi$$)<br><br>= 5 cm sin $$\\left( {{{\\omega T} \\over 4} + 0} \\right)$$<br><br>= 5 cm sin $$\\left( {{\\pi  \\over 2}} \\right)$$<br><br>= 5 cm<br><br>$$PE = {1 \\over 2}k{x^2}$$<br><br>$$ = {1 \\over 2}(500){\\left( {{5 \\over {100}}} \\right)^2}$$<br><br>= 0.6255",
+      "solution": "$$T = 2\\pi \\sqrt m \\over k $$<br><br>$$0.2 = 2\\pi \\sqrt 0.5 \\over k $$<br><br>k = 50$$\\pi$$<sup>2</sup><br><br>$$ \\approx $$ 500<br><br>x = A sin ($$\\omega$$t + $$\\phi$$)<br><br>= 5 cm sin $$\\left( \\omega T \\over 4 + 0 \\right)$$<br><br>= 5 cm sin $$\\left( \\pi \\over 2 \\right)$$<br><br>= 5 cm<br><br>$$PE = 1 \\over 2kx^2$$<br><br>$$ = 1 \\over 2(500)\\left( 5 \\over 100 \\right)^2$$<br><br>= 0.6255",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1122,14 +837,14 @@
         "D": "only (2)"
       },
       "answer": "A",
-      "solution": "In S.H.M. total mechanical energy remains constant and also <k.e.> = <p.e.> = $${{1 \\over 4}}$$KA<sup>2</sup> (for 1 time period)</p.e.></k.e.>",
+      "solution": "In S.H.M. total mechanical energy remains constant and also <k.e.> = <p.e.> = $$1 \\over 4$$KA<sup>2</sup> (for 1 time period)</p.e.></k.e.>",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "<p>The maximum potential energy of a block executing simple harmonic motion is $$25 \\mathrm{~J}$$. A is amplitude of oscillation. At $$\\mathrm{A / 2}$$, the kinetic energy of the block is</p>",
+      "question": "<p>The maximum potential energy of a block executing simple harmonic motion is $$25 ~J$$. A is amplitude of oscillation. At $$A / 2$$, the kinetic energy of the block is</p>",
       "options": {
         "A": "9.75 J",
         "B": "37.5 J",
@@ -1137,7 +852,7 @@
         "D": "12.5 J"
       },
       "answer": "C",
-      "solution": "$\\mathrm{U}_{\\max }=\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\mathrm{~A}^{2}=25 \\mathrm{~J}$\n\n<br/><br/>$\\mathrm{KE}$ at $\\frac{\\mathrm{A}}{2}=\\frac{1}{2} m v_{1}^{2}=\\frac{1}{2} m \\omega^{2}\\left(A^{2}-\\frac{A^{2}}{4}\\right)$\n\n<br/><br/>$=\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\frac{3 \\mathrm{~A}^{2}}{4}=\\frac{3}{4}\\left(\\frac{1}{2} \\mathrm{~m} \\omega^{2} \\mathrm{~A}^{2}\\right)$\n\n<br/><br/>$\\mathrm{KE}=\\frac{3}{4} \\times 25=18.75 \\mathrm{~J}$",
+      "solution": "$U_\\max =\\frac12 ~m \\omega^2 ~A^2=25 ~J$ <br/><br/>$KE$ at $\\fracA2=\\frac12 m v_1^2=\\frac12 m \\omega^2\\left(A^2-\\fracA^24\\right)$ <br/><br/>$=\\frac12 ~m \\omega^2 \\frac3 ~A^24=\\frac34\\left(\\frac12 ~m \\omega^2 ~A^2\\right)$ <br/><br/>$KE=\\frac34 \\times 25=18.75 ~J$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
@@ -1146,35 +861,35 @@
     {
       "question": "<p>A particle executes SHM of amplitude A. The distance from the mean position when its's kinetic energy becomes equal to its potential energy is :</p>",
       "options": {
-        "A": "$$\\frac{1}{\\sqrt{2}} A$$",
-        "B": "$$\\frac{1}{2} A$$",
-        "C": "$$2 \\mathrm{~A}$$",
-        "D": "$$\\sqrt{2 A}$$"
+        "A": "$$\\frac1\\sqrt2 A$$",
+        "B": "$$\\frac12 A$$",
+        "C": "$$2 ~A$$",
+        "D": "$$\\sqrt2 A$$"
       },
       "answer": "A",
-      "solution": "The total energy of a particle executing simple harmonic motion (SHM) is given by:\n<br/><br/>\n$$E = \\frac{1}{2}m\\omega^2A^2$$\n<br/><br/>\nwhere $$m$$ is the mass of the particle, $$\\omega$$ is the angular frequency of the SHM, and $$A$$ is the amplitude of the motion.\n<br/><br/>\nAt any point during SHM, the kinetic energy of the particle is given by:\n<br/><br/>\n$$K = \\frac{1}{2}m\\omega^2(x^2 + A^2\\cos^2\\omega t)$$\n<br/><br/>\nwhere $$x$$ is the displacement of the particle from the mean position.\n<br/><br/>\nThe potential energy of the particle at the same point is given by:\n<br/><br/>\n$$U = \\frac{1}{2}m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$\n<br/><br/>\nWhen the kinetic energy becomes equal to the potential energy, we have:\n<br/><br/>\n$$K = U$$\n<br/><br/>\n$$\\frac{1}{2}m\\omega^2(x^2 + A^2\\cos^2\\omega t) = \\frac{1}{2}m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$\n<br/><br/>\nSimplifying this equation, we get:\n<br/><br/>\n$$x^2 = \\frac{1}{2}A^2$$\n<br/><br/>\n$$x = \\pm\\frac{1}{\\sqrt{2}}A$$\n<br/><br/>\nTherefore, the distance from the mean position when the kinetic energy becomes equal to the potential energy is $$\\boxed{\\frac{1}{\\sqrt{2}}A}$$",
+      "solution": "The total energy of a particle executing simple harmonic motion (SHM) is given by: <br/><br/> $$E = \\frac12m\\omega^2A^2$$ <br/><br/> where $$m$$ is the mass of the particle, $$\\omega$$ is the angular frequency of the SHM, and $$A$$ is the amplitude of the motion. <br/><br/> At any point during SHM, the kinetic energy of the particle is given by: <br/><br/> $$K = \\frac12m\\omega^2(x^2 + A^2\\cos^2\\omega t)$$ <br/><br/> where $$x$$ is the displacement of the particle from the mean position. <br/><br/> The potential energy of the particle at the same point is given by: <br/><br/> $$U = \\frac12m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$ <br/><br/> When the kinetic energy becomes equal to the potential energy, we have: <br/><br/> $$K = U$$ <br/><br/> $$\\frac12m\\omega^2(x^2 + A^2\\cos^2\\omega t) = \\frac12m\\omega^2(x^2 + A^2\\sin^2\\omega t)$$ <br/><br/> Simplifying this equation, we get: <br/><br/> $$x^2 = \\frac12A^2$$ <br/><br/> $$x = \\pm\\frac1\\sqrt2A$$ <br/><br/> Therefore, the distance from the mean position when the kinetic energy becomes equal to the potential energy is $$\\boxed\\frac1\\sqrt2A$$",
       "exam": "JEE Main 2023",
       "year": 2023,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "An oscillator of mass M is at rest in its equilibrium position in a potential \n<br/>V = $${1 \\over 2}$$ k(x $$-$$ X)<sup>2</sup>.  A particle of mass m comes from right with speed u and collides completely inelastically with M and sticks to it.  This process repeats every time the oscillator crosses its equilibrium position. The amplitude of oscillations after 13 collisions is : (M = 10, m = 5,  u = 1,  k = 1)",
+      "question": "An oscillator of mass M is at rest in its equilibrium position in a potential <br/>V = $$1 \\over 2$$ k(x $$-$$ X)<sup>2</sup>. A particle of mass m comes from right with speed u and collides completely inelastically with M and sticks to it. This process repeats every time the oscillator crosses its equilibrium position. The amplitude of oscillations after 13 collisions is : (M = 10, m = 5, u = 1, k = 1)",
       "options": {
-        "A": "$${1 \\over {\\sqrt 3 }}$$",
-        "B": "$${1 \\over 2}$$",
-        "C": "$${2 \\over 3}$$",
-        "D": "$${3 \\over {\\sqrt 5 }}$$"
+        "A": "$$1 \\over \\sqrt 3 $$",
+        "B": "$$1 \\over 2$$",
+        "C": "$$2 \\over 3$$",
+        "D": "$$3 \\over \\sqrt 5 $$"
       },
       "answer": "A",
-      "solution": "<p>Potential of the given oscillator is</p>\n<p>$$V = {1 \\over 2}k{(x - k)^2}$$</p>\n<p>Given: M = 10; m = 5, u = 1; k = 1</p>\n<p>Initial momentum of the particle of mass m</p>\n<p>= mu = m $$\\times$$ 5 = 5m</p>\n<p>Momentum of (oscillator + particle) after collision = (M + m)</p>\n<p>Velocity of oscillator after collision = v</p>\n<p>So, momentum of system = (M + m)v</p>\n<p>From conservation of linear momentum, we have</p>\n<p>(M + m) = mu = 5 $$\\times$$ 1 = 5</p>\n<p>For second collision, oscillator and particle have momentum in opposite direction.</p>\n<p>Net or total momentum is zero.</p>\n<p>Likewise after 4<sup>th</sup>, 6<sup>th</sup>, 8<sup>th</sup>, 10<sup>th</sup>, 12<sup>th</sup> collision the momentum is zero. After 12<sup>th</sup> collision, Mass of oscillator and 12 particles will be (10 + 12 $$\\times$$ 5) = 70</p>\n<p>Now, from conservation of linear momentum, for 13<sup>th</sup> collision, we have</p>\n<p>$$70 \\times 0 + 5 \\times 1 = (70 + 5)v' \\Rightarrow v' = {5 \\over {75}} \\Rightarrow {1 \\over {15}}$$</p>\n<p>Total mass after 13<sup>th</sup> collision = (10 + 13 $$\\times$$ 5) = 75</p>\n<p>Kinetic energy of system $$ = {1 \\over 2}mv{'^2}$$</p>\n<p>$$ \\Rightarrow KE = {1 \\over 2} \\times 75 \\times {1 \\over {15}} \\times {1 \\over {15}}$$</p>\n<p>$$ \\Rightarrow {1 \\over 2}k{A^2} = {1 \\over 2} \\times {{75} \\over {225}} = {1 \\over 6}$$</p>\n<p>$$ \\Rightarrow {1 \\over 2} \\times 1 \\times {A^2} = {1 \\over 6} \\Rightarrow {A^2} = {1 \\over 3}$$</p>\n<p>$$ \\Rightarrow A = {1 \\over {\\sqrt 3 }}$$</p>",
+      "solution": "<p>Potential of the given oscillator is</p> <p>$$V = 1 \\over 2k(x - k)^2$$</p> <p>Given: M = 10; m = 5, u = 1; k = 1</p> <p>Initial momentum of the particle of mass m</p> <p>= mu = m $$\\times$$ 5 = 5m</p> <p>Momentum of (oscillator + particle) after collision = (M + m)</p> <p>Velocity of oscillator after collision = v</p> <p>So, momentum of system = (M + m)v</p> <p>From conservation of linear momentum, we have</p> <p>(M + m) = mu = 5 $$\\times$$ 1 = 5</p> <p>For second collision, oscillator and particle have momentum in opposite direction.</p> <p>Net or total momentum is zero.</p> <p>Likewise after 4<sup>th</sup>, 6<sup>th</sup>, 8<sup>th</sup>, 10<sup>th</sup>, 12<sup>th</sup> collision the momentum is zero. After 12<sup>th</sup> collision, Mass of oscillator and 12 particles will be (10 + 12 $$\\times$$ 5) = 70</p> <p>Now, from conservation of linear momentum, for 13<sup>th</sup> collision, we have</p> <p>$$70 \\times 0 + 5 \\times 1 = (70 + 5)v' \\Rightarrow v' = 5 \\over 75 \\Rightarrow 1 \\over 15$$</p> <p>Total mass after 13<sup>th</sup> collision = (10 + 13 $$\\times$$ 5) = 75</p> <p>Kinetic energy of system $$ = 1 \\over 2mv'^2$$</p> <p>$$ \\Rightarrow KE = 1 \\over 2 \\times 75 \\times 1 \\over 15 \\times 1 \\over 15$$</p> <p>$$ \\Rightarrow 1 \\over 2kA^2 = 1 \\over 2 \\times 75 \\over 225 = 1 \\over 6$$</p> <p>$$ \\Rightarrow 1 \\over 2 \\times 1 \\times A^2 = 1 \\over 6 \\Rightarrow A^2 = 1 \\over 3$$</p> <p>$$ \\Rightarrow A = 1 \\over \\sqrt 3 $$</p>",
       "exam": "JEE Main 2018",
       "year": 2018,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "Match List - I with List - II :<br/><br/><table>\n<thead>\n<tr>\n<th></th>\n<th>List I</th>\n<th></th>\n<th>List II</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>(a)</td>\n<td>h (Planck's constant)</td>\n<td>(i)</td>\n<td>$$[ML{T^{ - 1}}]$$</td>\n</tr>\n<tr>\n<td>(b)</td>\n<td>E (kinetic energy)</td>\n<td>(ii)</td>\n<td>$$[M{L^2}{T^{ - 1}}]$$</td>\n</tr>\n<tr>\n<td>(c)</td>\n<td>V (electric potential)</td>\n<td>(iii)</td>\n<td>$$[M{L^2}{T^{ - 2}}]$$</td>\n</tr>\n<tr>\n<td>(d)</td>\n<td>P (linear momentum)</td>\n<td>(iv)</td>\n<td>$$[M{L^2}{I^{ - 1}}{T^{ - 3}}]$$</td>\n</tr>\n</tbody>\n</table><br/><br/>Choose the correct answer from the options given below :",
+      "question": "Match List - I with List - II :<br/><br/><table> <thead> <tr> <th></th> <th>List I</th> <th></th> <th>List II</th> </tr> </thead> <tbody> <tr> <td>(a)</td> <td>h (Planck's constant)</td> <td>(i)</td> <td>$$[MLT^ - 1]$$</td> </tr> <tr> <td>(b)</td> <td>E (kinetic energy)</td> <td>(ii)</td> <td>$$[ML^2T^ - 1]$$</td> </tr> <tr> <td>(c)</td> <td>V (electric potential)</td> <td>(iii)</td> <td>$$[ML^2T^ - 2]$$</td> </tr> <tr> <td>(d)</td> <td>P (linear momentum)</td> <td>(iv)</td> <td>$$[ML^2I^ - 1T^ - 3]$$</td> </tr> </tbody> </table><br/><br/>Choose the correct answer from the options given below :",
       "options": {
         "A": "(a) $$ \\to $$ (ii), (b) $$ \\to $$ (iii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (i)",
         "B": "(a) $$ \\to $$ (i), (b) $$ \\to $$ (ii), (c) $$ \\to $$ (iv), (d) $$ \\to $$ (iii)",
@@ -1182,7 +897,7 @@
         "D": "(a) $$ \\to $$ (iii), (b) $$ \\to $$ (iv), (c) $$ \\to $$ (ii), (d) $$ \\to $$ (i)"
       },
       "answer": "A",
-      "solution": "Kinetic Energy,<br><br>$${1 \\over 2}m{v^2} = [M{L^2}{T^{ - 2}}]$$<br><br>Momentum,<br><br>$$mv = [ML{T^{ - 1}}]$$<br><br>Plank constant :<br><br>$$E = h\\gamma $$<br><br>$$ \\Rightarrow M{L^2}{T^{ - 2}} = h \\times {1 \\over T}$$<br><br>$$ \\Rightarrow h = [M{L^2}{T^{ - 1}}]$$<br><br>Also, $$E = qV$$<br><br>$$ \\Rightarrow V = {{[M{L^2}{T^{ - 2}}]} \\over {[C]}} = [M{L^2}{T^{ - 2}}{C^{ - 1}}]$$",
+      "solution": "Kinetic Energy,<br><br>$$1 \\over 2mv^2 = [ML^2T^ - 2]$$<br><br>Momentum,<br><br>$$mv = [MLT^ - 1]$$<br><br>Plank constant :<br><br>$$E = h\\gamma $$<br><br>$$ \\Rightarrow ML^2T^ - 2 = h \\times 1 \\over T$$<br><br>$$ \\Rightarrow h = [ML^2T^ - 1]$$<br><br>Also, $$E = qV$$<br><br>$$ \\Rightarrow V = [ML^2T^ - 2] \\over [C] = [ML^2T^ - 2C^ - 1]$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
@@ -1197,22 +912,22 @@
         "D": "newton"
       },
       "answer": "A",
-      "solution": "Unit of $${E \\over H}$$ is $${{volt/metre} \\over {Ampere/metre}} = {{volt} \\over {Ampere}} = ohm$$",
+      "solution": "Unit of $$E \\over H$$ is $$volt/metre \\over Ampere/metre = volt \\over Ampere = ohm$$",
       "exam": "JEE Main 2021",
       "year": 2021,
       "subject": "Physics",
       "chapter": "Electrostatics and Capacitance"
     },
     {
-      "question": "If the potential energy between two molecules is given by\n<br/>U = $$ - {A \\over {{r^6}}} + {B \\over {{r^{12}}}}$$,\n<br/>then at equilibrium,\nseparation between molecules, and the potential energy are :",
+      "question": "If the potential energy between two molecules is given by <br/>U = $$ - A \\over r^6 + B \\over r^12$$, <br/>then at equilibrium, separation between molecules, and the potential energy are :",
       "options": {
-        "A": "$${\\left( {{{2B} \\over A}} \\right)^{1/6}}$$, $$ - {{{A^2}} \\over {4B}}$$",
-        "B": "$${\\left( {{{2B} \\over A}} \\right)^{1/6}}, - {{{A^2}} \\over {2B}}$$",
-        "C": "$${\\left( {{B \\over A}} \\right)^{1/6}},0$$",
-        "D": "$${\\left( {{B \\over {2A}}} \\right)^{1/6}}, - {{{A^2}} \\over {2B}}$$"
+        "A": "$$\\left( 2B \\over A \\right)^1/6$$, $$ - A^2 \\over 4B$$",
+        "B": "$$\\left( 2B \\over A \\right)^1/6, - A^2 \\over 2B$$",
+        "C": "$$\\left( B \\over A \\right)^1/6,0$$",
+        "D": "$$\\left( B \\over 2A \\right)^1/6, - A^2 \\over 2B$$"
       },
       "answer": "A",
-      "solution": "U = $$ - {A \\over {{r^6}}} + {B \\over {{r^{12}}}}$$\n<br><br>F = - $${{dU} \\over {dr}}$$\n<br><br>= \\u2013 (A(\\u20136r<sup>\\u20137</sup>\n)) + B(\\u201312r<sup>\\u201313</sup>)\n<br><br>for equilibrium, F = 0\n<br><br>$$ \\therefore $$ 0 = $${{6A} \\over {{r^7}}} - {{12B} \\over {{r^{13}}}}$$\n<br><br>$$ \\Rightarrow $$ $${{6A} \\over {12B}} = {1 \\over {{r^6}}}$$\n<br><br>$$ \\Rightarrow $$ r = $${\\left( {{{2B} \\over A}} \\right)^{{1 \\over 6}}}$$\n<br><br>$$ \\therefore $$ U = $$ - {A \\over {{{2B} \\over A}}} + {B \\over {{{\\left( {{{2B} \\over A}} \\right)}^2}}}$$\n<br><br>= $$ - {{{A^2}} \\over {2B}} + {{{A^2}} \\over {4B}}$$\n<br><br>= $$ - {{{A^2}} \\over {4B}}$$",
+      "solution": "U = $$ - A \\over r^6 + B \\over r^12$$ <br><br>F = - $$dU \\over dr$$ <br><br>= \\\u2013 (A(\\\u20136r<sup>\\\u20137</sup> )) + B(\\\u201312r<sup>\\\u201313</sup>) <br><br>for equilibrium, F = 0 <br><br>$$ \\therefore $$ 0 = $$6A \\over r^7 - 12B \\over r^13$$ <br><br>$$ \\Rightarrow $$ $$6A \\over 12B = 1 \\over r^6$$ <br><br>$$ \\Rightarrow $$ r = $$\\left( 2B \\over A \\right)^1 \\over 6$$ <br><br>$$ \\therefore $$ U = $$ - A \\over 2B \\over A + B \\over \\left( 2B \\over A \\right)^2$$ <br><br>= $$ - A^2 \\over 2B + A^2 \\over 4B$$ <br><br>= $$ - A^2 \\over 4B$$",
       "exam": "JEE Main 2020",
       "year": 2020,
       "subject": "Physics",

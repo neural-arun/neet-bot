@@ -1,40 +1,10 @@
 {
   "subject": "Biology",
   "chapter": "Principles of Inheritance and Variation",
-  "total_questions": 82,
+  "total_questions": 56,
   "questions": [
     {
-      "question": "Explain 'Inheritance of Two Genes (Dihybrid cross; Law of Independent Assortment)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# Inheritance of Two Genes (Dihybrid Cross & Law of Independent Assortment)\n\n---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is a Dihybrid Cross?\nA cross between two parents differing in **two pairs of contrasting traits** controlled by genes at **different loci (locations)** on chromosomes.\n\n### Law of Independent Assortment (Mendel's Second Law)\n**Definition:** Alleles of different genes assort independently into gametes during meiosis, provided the genes are located on different (or far apart on the same) chromosomes.\n\n**Simple Statement:** One pair of alleles doesn't influence the distribution of another pair during gamete formation.\n\n### Why It Matters in NEET:\n- Explains how traits segregate independently\n- Predicts phenotypic ratios in crosses\n- Forms the basis of modern genetics problems\n\n---\n\n## 2. KEY FORMULAS & FACTS\n\n### A. Monohybrid Cross (Quick Review)\n```\nP: AA (Tall) \u00d7 aa (Short)\nF\u2081: All Aa (Tall)\nF\u2081 \u00d7 F\u2081: Aa \u00d7 Aa\nF\u2082: 1 AA : 2 Aa : 1 aa (Genotypic)\n    3 Tall : 1 Short (Phenotypic)\n```\n\n### B. **Dihybrid Cross - The 9:3:3:1 Ratio**\n\n**P:** AABB (Tall, Green) \u00d7 aabb (Short, Yellow)\n\n**F\u2081:** AaBb (All tall, green)\n\n**F\u2082 (F\u2081 \u00d7 F\u2081 = AaBb \u00d7 AaBb):**\n\n| Phenotype | Ratio | Proportion |\n|-----------|-------|------------|\n| A_B_ (Dominant, Dominant) | 9 | 9/16 |\n| A_bb (Dominant, Recessive) | 3 | 3/16 |\n| aaB_ (Recessive, Dominant) | 3 | 3/16 |\n| aabb (Recessive, Recessive) | 1 | 1/16 |\n\n**Phenotypic Ratio = 9:3:3:1**\n\n### C. Why This Ratio Occurs?\n\nFor **each trait independently:**\n- Aa \u00d7 Aa gives 3:1 (Dominant:Recessive)\n- Bb \u00d7 Bb gives 3:1 (Dominant:Recessive)\n\n**Combined:** (3:1) \u00d7 (3:1) = **9:3:3:1**\n\n```\n        B_      bb\nA_    9(A_B_)  3(A_bb)\naa    3(aaB_)  1(aabb)\n```\n\n### D. Number of Gametes & Genotypes\n\n| Cross | Gamete Types | F\u2082 Genotypes | F\u2082 Phenotypes |\n|-------|--------------|-------------|---------------|\n| Monohybrid (Aa \u00d7 Aa) | 2 | 3 | 2 |\n| Dihybrid (AaBb \u00d7 AaBb) | 4 | 9 | 4 |\n| Trihybrid (AaBbCc \u00d7 AaBbCc) | 8 | 27 | 8 |\n\n**Formula:** For n genes: \n- Gamete types = 2\u207f\n- F\u2082 Genotypes = 3\u207f\n- F\u2082 Phenotypes = 2\u207f\n\n### E. Test Cross Results\n\n**TestCross = F\u2081 \u00d7 Homozygous Recessive**\n\nAaBb \u00d7 aabb \u2192 **1:1:1:1 ratio** (1 AaBb : 1 Aabb : 1 aaBb : 1 aabb)\n\nThis 1:1:1:1 proves independent assortment!\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Predicting Phenotypic/Genotypic Ratios**\n*\"A dihybrid cross gives F\u2082 with ratio... Calculate percentage of individuals with both dominant traits\"*\n- **Answer Strategy:** Use 9:3:3:1 ratio\n- 9/16 = 56.25% with both dominant traits\n\n### **Pattern 2: Test Cross Problems**\n*\"An F\u2081 individual (AaBb) crossed with aabb gives offspring. How many phenotypic classes?\"*\n- **Answer:** 4 classes (1:1:1:1)\n\n### **Pattern 3: Identification of Parental Combination**\n*\"In pea plants, round-yellow seeds appear in 9/16 of F\u2082. What were the parental genotypes?\"*\n- **Answer:** AABB \u00d7 aabb (where A = round, B = yellow)\n\n### **Pattern 4: Calculating Specific Phenotype Probability**\n*\"If AaBb \u00d7 AaBb, what's the probability of aaBB?\"*\n- Probability of aa = 1/4; BB = 1/4\n- Answer = 1/4 \u00d7 1/4 = **1/16**\n\n### **Pattern 5: Linkage vs. Independent Assortment**\n*\"A testcross gives 9:1:1:9 instead of 1:1:1:1. This indicates...\"*\n- **Answer:** Genes are **linked** (not independently assorting)\n\n---\n\n## 4. MEMORY TIP & ANALOGY\n\n### **The \"Coin Flip\" Analogy** \ud83e\ude99\ud83e\ude99\n\nImagine flipping **two coins simultaneously:**\n\n- Coin 1 (Trait A): \n  - Heads = Dominant (3/4)\n  - Tails = Recessive (1/4)\n\n- Coin 2 (Trait B):\n  - Heads = Dominant (3/4)\n  - Tails = Recessive (1/4)\n\n**Results:**\n- Both heads (A_B_) = 3/4 \u00d7 3/4 = **9/16** \u2713\n- Heads + Tails (A_bb) = 3/4 \u00d7 1/4 = **3/16** \u2713\n- Tails + Heads (aaB_) = 1/4 \u00d7 3/4 = **3/16** \u2713\n- Both tails (aabb) = 1/4 \u00d7 1/4 = **1/16** \u2713\n\n**Why independent?** One coin's flip doesn't influence the other!\n\n### **Quick Memorization:**\n- **9:3:3:1** = *\"9-3-3-1 is the dihybrid queen\"*\n- **Remember:** The \"9\" always gets both dominant traits\n\n---\n\n## 5. WORKED EXAMPLE (NEET-Level)\n\n### **Problem:**\nIn pea plants, tall (A) is dominant over short (a), and green pods (B) are dominant over yellow pods (b).\n\nA dihybrid plant (AaBb) is crossed with a homozygous recessive plant (aabb).\n\n**Questions:**\n1. How many phenotypic classes will be produced?\n2. What proportion will be tall with yellow pods?\n3. What are the chances of getting all homozygous recessive offspring?\n\n---\n\n### **Solution:**\n\n#### **Step 1: Identify the Cross**\nAaBb (F\u2081) \u00d7 aabb (Homozygous recessive/Test cross)\n\n#### **Step 2: Determine Gamete Types**\n\n**AaBb produces 4 types of gametes:**\n- AB (1/4)\n- Ab (1/4)\n- aB (1/4)\n- ab (1/4)\n\n**aabb produces only 1 type:**\n- ab (100%)\n\n#### **Step 3: Create Punnett Square (4\u00d71)**\n\n| | ab (100%) |\n|---|---|\n| **AB (25%)** | AaBb |\n| **Ab (25%)** | Aabb |\n| **aB (25%)** | aaBb |\n| **ab (25%)** | aabb |\n\n#### **Question 1: Number of Phenotypic Classes?**\n\n**Answer: 4 classes**\n\n```\nAaBb  \u2192 Tall, Green (1/4 or 25%)\nAabb  \u2192 Tall, Yellow (1/4 or 25%)\naaBb  \u2192 Short, Green (1/4 or 25%)\naabb  \u2192 Short, Yellow (1/4 or 25%)\n```\n\nRatio = **1:1:1:1** \u2713\n\n#### **Question 2: Proportion of Tall with Yellow Pods?**\n\nPhenotype needed = A_bb\n\nFrom cross: **Aabb**\n\n**Proportion = 1/4 or 25%** \u2713\n\n#### **Question 3: Chances of All Homozygous Recessive (aabb)?**\n\nGenotype needed = aabb\n\nFrom cross: **aabb** appears only **1/4 times**\n\n**Probability = 1/4 or 25%** \u2713\n\n---\n\n## SUMMARY TABLE FOR QUICK REVISION\n\n| Aspect | Details |\n|--------|---------|\n| **Number of genes** | 2 |\n| **Parental cross** | AABB \u00d7 aabb |\n| **F\u2081 genotype** | AaBb |\n| **F\u2081 phenotype** | All dominant |\n| **F\u2082 ratio (phenotypic)** | 9:3:3:1 |\n| **F\u2082 ratio (genotypic)** | 1:2:1:2:4:2:1:2:1 |\n| **Test cross ratio** | 1:1:1:1 |\n| **Key law** | Law of Independent Assortment |\n| **Condition** | Genes on different chromosomes |\n\n---\n\n## WHY THIS CONCEPT IS IMPORTANT FOR",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Pedigree Analysis' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n**Pedigree Analysis** is a method of studying the pattern of inheritance of a particular trait through several generations of a family using a family tree (pedigree chart).\n\n### What It Shows:\n- How traits pass from parents to offspring\n- Inheritance pattern of genetic disorders\n- Identification of dominant/recessive traits\n- Detection of X-linked traits\n- Carrier identification\n\n### Visual Representation Symbols:\n\n| Symbol | Meaning |\n|--------|---------|\n| \u2b55 | Normal female |\n| \u2b55 (filled) | Affected female |\n| \u2b55 (half-filled) | Carrier female |\n| \u2b1c | Normal male |\n| \u2b1c (filled) | Affected male |\n| \u2b1c (half-filled) | Carrier male |\n| \u2014 | Marriage/Mating |\n| \\| | Offspring line |\n| Roman numerals | Generations (I, II, III...) |\n| Arabic numerals | Individual numbers in generation |\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **Determining Inheritance Pattern from Pedigree:**\n\n#### **Autosomal Dominant Traits:**\n- \u2713 Affects both males and females equally\n- \u2713 Appears in every generation (no skipping)\n- \u2713 Affected individual has at least one affected parent\n- \u2713 Affected heterozygous \u00d7 Normal = 50% affected offspring\n- \u2713 Can appear in horizontal pattern (siblings)\n\n#### **Autosomal Recessive Traits:**\n- \u2713 Affects both males and females equally\n- \u2713 Often skips generations\n- \u2713 Appears in offspring of two carrier parents (25% chance)\n- \u2713 Consanguineous marriages increase frequency\n- \u2713 Two affected parents \u2192 all children affected\n\n#### **X-linked Recessive Traits:**\n- \u2713 Affects mostly males (more frequent in males)\n- \u2713 Affected males born to carrier mother\n- \u2713 Affected female = affected father + carrier mother\n- \u2713 Never passes from father to son (sons get Y from father)\n- \u2713 Shows diagonal pattern (uncle-nephew transmission)\n- \u2713 Affected male (XaY) \u00d7 Normal female (XX) \u2192 All daughters are carriers (XaX)\n\n#### **X-linked Dominant Traits:**\n- \u2713 Affects more females than males\n- \u2713 No male-to-male transmission\n- \u2713 Affected male passes trait to ALL daughters (100%)\n- \u2713 Affected male passes normal allele to ALL sons\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Type 1: Identifying Inheritance Pattern**\n*\"Given a pedigree, identify whether the trait is autosomal dominant/recessive or X-linked\"*\n\n### **Type 2: Probability Calculation**\n*\"What is the probability of an affected child when...\"*\n\n### **Type 3: Genotype Determination**\n*\"Write genotypes of individuals in the pedigree\"*\n\n### **Type 4: Carrier Detection**\n*\"Who among the normal individuals are carriers?\"*\n\n### **Type 5: Risk Assessment**\n*\"If a couple plans to have children, what's the chance of affected offspring?\"*\n\n### **Type 6: Multiple Disorders**\n*\"Determine inheritance of two traits shown together\"*\n\n---\n\n## 4. MEMORY TIP / ANALOGY\n\n### **\"The SKIP-SKIP-AFFECTED Rule\"**\n\n- **SKIP** generations? \u2192 **Likely Recessive**\n- **No SKIP** (appears every generation)? \u2192 **Likely Dominant**\n- **Only males affected**? \u2192 **X-linked Recessive**\n- **Skip in father-to-son line**? \u2192 **X-linked**\n\n### **Visual Memory Aid:**\n\n```\nAUTOSOMAL DOMINANT:\nEvery generation affected\n\u2b1c(affected) \u2014 \u2b55(affected)\n        \u2193\n     \u2b1c(affected)\n\nAUTOSOMAL RECESSIVE (Carriers show):\n\u2b55(carrier) \u2014 \u2b1c(carrier)\n        \u2193\n     \u2b1c(affected) \u2190 Hidden in generation!\n\nX-LINKED RECESSIVE:\n\u2b55(carrier) \u2014 \u2b1c(normal)\n        \u2193\n     \u2b1c(affected) \u2190 Only son affected!\n```\n\n---\n\n## 5. EXAMPLE PROBLEM WITH COMPLETE SOLUTION\n\n### **NEET-Style Problem:**\n\n**A pedigree chart shows a trait with the following observations:**\n- Generation I: Normal male married to a normal female\n- Generation II: A normal son and an affected son\n- Generation III: All children of the normal son are unaffected, but children of the affected son are all affected daughters and normal sons\n\n**Questions:**\n1. What is the mode of inheritance?\n2. Write genotypes of individuals in Generation II\n3. What is the probability of an affected child if the normal son marries a normal woman?\n\n---\n\n### **STEP-BY-STEP SOLUTION:**\n\n#### **Step 1: Analyze Key Observations**\n\n| Observation | What it tells us |\n|---|---|\n| Only sons in Gen II are affected | Likely X-linked |\n| Affected son's daughters are affected (Gen III) | Confirms X-linked |\n| Affected son's sons are normal | Proves X-linked (son gets Y from father) |\n| Normal son doesn't transmit to children | Rules out X-linked dominant |\n\n**\u2713 Conclusion: X-linked RECESSIVE trait**\n\n---\n\n#### **Step 2: Determine Genotypes**\n\nLet's use: **XA = normal allele, Xa = disease allele**\n\n| Individual | Genotype | Reasoning |\n|---|---|---|\n| **Gen I Father** | XAY | Normal, but must carry Xa to pass to Gen II |\n| **Gen I Mother** | XAXa | Normal carrier (must be to have affected son) |\n| **Gen II Normal son** | XAY | Received XA from mother |\n| **Gen II Affected son** | XaY | Received Xa from mother, Y from father |\n| **Gen III: Affected son's daughter** | XAXa or XaXa | Gets Xa from father (must), may get XA or Xa from mother |\n\n**Wait! Correction needed:**\n\nLooking more carefully - if affected son (XaY) has affected daughters, mother must be:\n- If daughter is XaXa (homozygous affected) \u2192 mother is XaXa or XaX_\n- The problem states his daughters are affected\n\n**Revised Genotypes:**\n\n| Individual | Genotype |\n|---|---|\n| Gen I Father | XAY |\n| Gen I Mother | **XaXa** (not just carrier!) |\n| Gen II Normal son | XAY |\n| Gen II Affected son | XaY |\n\n*(Actually, mother showing normal phenotype with XaXa means trait shows in homozygous females only - reconsider if autosomal!)*\n\n**Let me reconsider:** Given \"normal mother with affected son\" \u2192 must be carrier\n\n**FINAL ANSWER:**\n\n| Individual | Genotype |\n|---|---|\n| Gen I Father | XAY |\n| Gen I Mother | XAXa |\n| Gen II Normal son | XAY |\n| Gen II Affected son | XaY |\n\n---\n\n#### **Step 3: Answer the Probability Question**\n\n**If the normal son (XAY) marries a normal woman:**\n\nWe need to know if the woman is:\n- **Homozygous normal (XAXA)**: 100% normal children\n- **Carrier (XAXa)**: 50% affected sons, 50% normal daughters, 50% normal sons, 50% carrier daughters\n\n**Most likely scenario (in population):** Normal woman is XAXA\n\n**Answer:** XAY \u00d7 XAXA\n- All sons: XAY (normal)\n- All daughters: XAXA (normal)\n- **Probability of affected child = 0%**\n\n---\n\n## 6. QUICK DIAGNOSTIC FLOWCHART\n\n```\nDOES THE TRAIT APPEAR IN EVERY GENERATION?\n\n         \u2199                    \u2198\n        YES                   NO\n        \u2193                     \u2193\n   LIKELY DOMINANT      LIKELY RECESSIVE\n        \u2193                     \u2193\n   [Check male-to-     [Check pattern in\n    son transmission]   males vs females]\n        \u2193\n    FATHER \u2192 SON?\n    \u2199        \u2198\n   YES       NO\n    \u2193         \u2193\n AUTO.DOMINANT  X-LINKED\n                DOMINANT\n```\n\n---\n\n## 7. COMMON MISTAKES STUDENTS MAKE\n\n\u274c **Mistake 1:** Not reading pedigree symbols correctly (filled vs. half-filled)\n\n\u274c **Mistake 2:** Assuming every normal individual has genotype matching their phenotype\n\n\u274c **Mistake 3:** Forgetting that affected females in X-linked recessive are rare (XaXa)\n\n\u274c **Mistake 4:** Assuming affected father passes X-linked trait to sons (he doesn't!)\n\n\u274c **Mistake 5:** Not considering consanguinity (cousin marriage) which increases autosomal recessive expression\n\n---\n\n## 8. IMPORTANT DISORDERS FOR NEET (Examples)\n\n| Disorder | Type | Pattern |\n|---|---|---|\n| Huntington's disease | Autosomal Dominant | Every generation |\n| Cystic fibrosis | Autosomal Recessive | Skips generation |\n| Hemophilia A & B | X-linked Recessive | Males affected |\n| Red-green color blindness | X-linked Recessive | Males > Females |\n| Fragile X syndrome | X-linked | Males severely affected |\n| Duchenne muscular dystrophy | X-linked Recessive | Males affected |\n\n---\n\n## FINAL CHECKLIST FOR PEDIGREE PROBLEMS\n\n\u2705",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2017 | Biology]\n\nDown's syndrome is caused by trisomy of chromosome number:",
+      "question": "[NEET 2017 | Biology] Down's syndrome is caused by trisomy of chromosome number:",
       "options": {
         "A": "13",
         "B": "18",
@@ -42,14 +12,14 @@
         "D": "23"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) 21**\n\n## Down's Syndrome - Trisomy 21\n\n**Down's syndrome is caused by the presence of an extra copy of chromosome 21**, resulting in a total of 47 chromosomes instead of the normal 46 (2n = 47 instead of 2n = 46).\n\n---\n\n## Step-by-Step Understanding:\n\n### Normal Chromosome Pattern:\n- Humans have 23 pairs of chromosomes (46 total)\n- Chromosome 21 normally appears as a pair (two copies)\n\n### In Down's Syndrome:\n- Instead of 2 copies of chromosome 21, there are **3 copies**\n- Hence the term **\"Trisomy 21\"**\n- Total chromosomes = 47\n\n---\n\n## Clinical Features of Down's Syndrome:\n- **Facial features**: Slanted eyes, flat face, protruding tongue\n- **Intellectual disability**: Variable degree of mental retardation\n- **Heart defects**: Common cardiac abnormalities\n- **Low muscle tone**: Hypotonia\n- **Short stature**\n\n---\n\n## Why Other Options Are Wrong:\n\n| Chromosome | Condition | Trisomy Name |\n|-----------|-----------|------------|\n| 13 | Patau's syndrome | Trisomy 13 |\n| 18 | Edwards' syndrome | Trisomy 18 |\n| 21 | **Down's syndrome** | **Trisomy 21** \\u2713 |\n| 23 (X/Y) | Turner's/Klinefelter's syndrome | Sex chromosome abnormality |\n\n---\n\n## Key Fact to Remember:\n**\"Down's syndrome = Trisomy 21\"** \\u2014 This is one of the most frequently asked questions in NEET. Always associate chromosome 21 with Down's syndrome.",
+      "solution": "# Answer: **(C) 21** ## Down's Syndrome - Trisomy 21 **Down's syndrome is caused by the presence of an extra copy of chromosome 21**, resulting in a total of 47 chromosomes instead of the normal 46 (2n = 47 instead of 2n = 46). --- ## Step-by-Step Understanding: ### Normal Chromosome Pattern: - Humans have 23 pairs of chromosomes (46 total) - Chromosome 21 normally appears as a pair (two copies) ### In Down's Syndrome: - Instead of 2 copies of chromosome 21, there are **3 copies** - Hence the term **\"Trisomy 21\"** - Total chromosomes = 47 --- ## Clinical Features of Down's Syndrome: - **Facial features**: Slanted eyes, flat face, protruding tongue - **Intellectual disability**: Variable degree of mental retardation - **Heart defects**: Common cardiac abnormalities - **Low muscle tone**: Hypotonia - **Short stature** --- ## Why Other Options Are Wrong: | Chromosome | Condition | Trisomy Name | |-----------|-----------|------------| | 13 | Patau's syndrome | Trisomy 13 | | 18 | Edwards' syndrome | Trisomy 18 | | 21 | **Down's syndrome** | **Trisomy 21** \\u2713 | | 23 (X/Y) | Turner's/Klinefelter's syndrome | Sex chromosome abnormality | --- ## Key Fact to Remember: **\"Down's syndrome = Trisomy 21\"** \\\u2014 This is one of the most frequently asked questions in NEET. Always associate chromosome 21 with Down's syndrome.",
       "exam": "NEET 2017",
       "year": 2017,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
     {
-      "question": "[NEET 2021 | Biology]\n\nIn a monohybrid cross between two heterozygotes (Aa \u00d7 Aa), the phenotypic ratio is:",
+      "question": "[NEET 2021 | Biology] In a monohybrid cross between two heterozygotes (Aa \u00d7 Aa), the phenotypic ratio is:",
       "options": {
         "A": "1:2:1",
         "B": "3:1",
@@ -57,24 +27,9 @@
         "D": "9:3:3:1"
       },
       "answer": "A",
-      "solution": "# Answer: **(B) 3:1**\n\n## Step-by-Step Reasoning:\n\n**Setting up the cross:**\n- Parent 1: Aa (heterozygous)\n- Parent 2: Aa (heterozygous)\n\n**Punnett Square:**\n\n|   | A  | a  |\n|---|----|----|\n| **A** | AA | Aa |\n| **a** | Aa | aa |\n\n**Offspring genotypes:**\n- 1 AA : 2 Aa : 1 aa (genotypic ratio = 1:2:1)\n\n**Phenotypic classification:**\n- **AA** \u2192 Dominant phenotype \u2713\n- **Aa** \u2192 Dominant phenotype \u2713 (heterozygotes show dominant trait)\n- **aa** \u2192 Recessive phenotype \u2717\n\n**Phenotypic ratio = 3:1**\n- 3 individuals with dominant phenotype\n- 1 individual with recessive phenotype\n\n## Key Concept:\n\nThis **3:1 ratio** is Mendel's classic monohybrid cross result. The dominant allele masks the recessive allele in heterozygotes, so both AA and Aa individuals appear identical phenotypically.\n\n## Why Other Options Are Wrong:\n\n- **(A) 1:2:1** \u2192 This is the **genotypic ratio**, not phenotypic\n- **(C) 1:1** \u2192 This occurs in a **testcross** (Aa \u00d7 aa), not heterozygote \u00d7 heterozygote\n- **(D) 9:3:3:1** \u2192 This is a **dihybrid cross** ratio (two traits)\n\n**Remember:** In monohybrid crosses between heterozygotes, you'll always get a **3:1 phenotypic ratio**! \ud83d\udcca",
+      "solution": "# Answer: **(B) 3:1** ## Step-by-Step Reasoning: **Setting up the cross:** - Parent 1: Aa (heterozygous) - Parent 2: Aa (heterozygous) **Punnett Square:** | | A | a | |---|----|----| | **A** | AA | Aa | | **a** | Aa | aa | **Offspring genotypes:** - 1 AA : 2 Aa : 1 aa (genotypic ratio = 1:2:1) **Phenotypic classification:** - **AA** \u2192 Dominant phenotype \u2713 - **Aa** \u2192 Dominant phenotype \u2713 (heterozygotes show dominant trait) - **aa** \u2192 Recessive phenotype \u2717 **Phenotypic ratio = 3:1** - 3 individuals with dominant phenotype - 1 individual with recessive phenotype ## Key Concept: This **3:1 ratio** is Mendel's classic monohybrid cross result. The dominant allele masks the recessive allele in heterozygotes, so both AA and Aa individuals appear identical phenotypically. ## Why Other Options Are Wrong: - **(A) 1:2:1** \u2192 This is the **genotypic ratio**, not phenotypic - **(C) 1:1** \u2192 This occurs in a **testcross** (Aa \u00d7 aa), not heterozygote \u00d7 heterozygote - **(D) 9:3:3:1** \u2192 This is a **dihybrid cross** ratio (two traits) **Remember:** In monohybrid crosses between heterozygotes, you'll always get a **3:1 phenotypic ratio**! \ud83d\udcca",
       "exam": "NEET 2021",
       "year": 2021,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Deviations from Mendelism (Incomplete dominance, Co-dominance, Multiple alleles, Pleiotropy, Polygenic inheritance)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPTS & DEFINITIONS\n\n### A. **Incomplete Dominance**\n\n**Definition:** Neither allele is completely dominant. Both alleles express themselves partially, producing an **intermediate phenotype** different from both parents.\n\n**Key Features:**\n- Heterozygote shows a **blend/intermediate** phenotype\n- Monohybrid cross F\u2081 \u00d7 F\u2081 gives **1:2:1 ratio** (not 3:1)\n- Three distinct phenotypes visible in F\u2082\n\n**Genotype-Phenotype Relationship:**\n- AA = Phenotype 1\n- Aa = Phenotype 2 (intermediate/new)\n- aa = Phenotype 3\n\n**Classic Example:** *Mirabilis jalapa* (Four O'clock flower)\n- Red (RR) \u00d7 White (WW) \u2192 Pink (RW) [F\u2081]\n- Pink \u00d7 Pink \u2192 **Red : Pink : White = 1:2:1** [F\u2082]\n\n---\n\n### B. **Co-dominance**\n\n**Definition:** Both alleles are equally **dominant** and express themselves **completely and independently** in the heterozygote. Both phenotypes appear together (not blended).\n\n**Key Features:**\n- Heterozygote shows **BOTH** parental phenotypes simultaneously\n- F\u2082 ratio is **1:2:1** (phenotypically and genotypically same)\n- No intermediate phenotype\n\n**Genotype-Phenotype Relationship:**\n- AA = Phenotype A only\n- AB = Phenotype A + B (both visible together)\n- BB = Phenotype B only\n\n**Classic Example:** Human ABO Blood Groups\n- I^A I^A = Blood Group A\n- I^A I^B = Blood Group AB (both A and B antigens present)\n- I^B I^B = Blood Group B\n\n| Genotype | Phenotype |\n|----------|-----------|\n| I^A I^A | A |\n| I^A I^B | **AB** |\n| I^B I^B | B |\n| I^i^A | A |\n| I^i^B | B |\n| ii | O |\n\n---\n\n### C. **Multiple Alleles**\n\n**Definition:** A gene has **more than 2 allelic forms** in a population (though an individual has only 2 alleles, one on each homologous chromosome).\n\n**Key Features:**\n- Population has \u22653 alleles; Individual has \u22642\n- Can show dominance hierarchies\n- Creates many phenotypic combinations\n- Increases genetic variation\n\n**Common Hierarchy:** A > B > a > b (dominant to recessive)\n\n**Examples:**\n1. **ABO Blood Groups** (3 alleles: I^A, I^B, i)\n2. **Coat color in rabbits** (4 alleles: C > c^ch > c^h > c)\n3. **Eye color in *Drosophila*** (multiple alleles of white gene)\n\n---\n\n### D. **Pleiotropy**\n\n**Definition:** A **single gene** controls/influences **multiple, seemingly unrelated traits** (one gene \u2192 multiple phenotypes).\n\n**Key Features:**\n- One gene produces multiple effects\n- Effects can be on different tissues/organs\n- Often seen in metabolic disorders\n- Can make selective breeding difficult\n\n**Molecular Basis:** One gene codes for a protein used in multiple biochemical pathways\n\n**Examples:**\n1. **Phenylketonuria (PKU)** - Single gene defect\n   - Lacks enzyme for phenylalanine metabolism\n   - Causes: Intellectual disability, light skin, musty odor, seizures\n\n2. **Sickle Cell Anemia** - Single gene (\u03b2-globin)\n   - Produces sickle hemoglobin\n   - Causes: Abnormal RBC shape, hemolysis, pain, organ damage\n\n3. **Cystic Fibrosis**\n   - CFTR gene mutation\n   - Affects: Lungs, pancreas, sweat glands, GI tract\n\n---\n\n### E. **Polygenic Inheritance (Quantitative/Multifactorial)**\n\n**Definition:** A trait controlled by **multiple genes** (polygenes), each contributing small additive effects. Often influenced by environment.\n\n**Key Features:**\n- Many genes control one trait\n- Additive gene action (each allele adds small effect)\n- Creates **continuous variation** (bell curve distribution)\n- F\u2082 ratio: Complex, not simple Mendelian\n- Environmental factors also play role\n\n**Number of Phenotypes in F\u2082:**\n- If 'n' genes involved: **2n + 1** phenotypic classes\n- Example: 2 genes \u2192 5 phenotypic classes\n- Example: 3 genes \u2192 7 phenotypic classes\n\n**Distribution:** Normal/Bell curve distribution\n\n**Examples:**\n1. **Human height** (20+ genes + environment)\n2. **Skin color** (3-6 genes + sunlight)\n3. **Intelligence** (multiple genes + environment)\n4. **Grain color in wheat** (*Triticum*)\n5. **Kernel color in maize**\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n| Deviation | F\u2081 Phenotype | F\u2082 Ratio | F\u2082 Phenotypes | Genotypes Same as Phenotypes? |\n|-----------|-------------|---------|---------------|------|\n| **Incomplete Dominance** | Intermediate | 1:2:1 | 3 | YES |\n| **Co-dominance** | Both phenotypes | 1:2:1 | 3 | YES |\n| **Multiple Alleles** | Depends on dominance | Varies | Varies | NO (if hierarchy exists) |\n| **Pleiotropy** | Multiple traits from 1 gene | - | Linked traits | - |\n| **Polygenic** | Continuous variation | Complex | Many (bell curve) | NO |\n\n**Formula for Polygenic Inheritance:**\n```\nFrequency of individuals with n dominant alleles follows binomial expansion:\n(1/2 + 1/2)^2n where n = number of genes\n```\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identify the Type of Inheritance**\n*\"In a cross, heterozygote shows phenotype different from both parents. This is:\"*\n- Answer: **Incomplete Dominance**\n\n### **Pattern 2: Blood Group Genetics**\n*\"A woman with blood group AB marries a man with blood group O. What are possible blood groups of children?\"*\n- Analysis needed: Co-dominance + Multiple alleles\n\n### **Pattern 3: Ratio Interpretation**\n*\"A cross gives F\u2082 ratio 1:2:1 for both phenotypes and genotypes. This indicates:\"*\n- Answer: **Incomplete Dominance OR Co-dominance**\n\n### **Pattern 4: Pleiotropy Recognition**\n*\"A single mutation causes multiple unrelated symptoms. This is:\"*\n- Answer: **Pleiotropy**\n\n### **Pattern 5: Polygenic Inheritance**\n*\"A trait shows continuous variation with bell curve distribution. Number of genes involved if F\u2082 shows 5 phenotypic classes:\"*\n- Calculation: 2n + 1 = 5 \u2192 n = 2 genes\n\n### **Pattern 6: Predict Offspring Phenotypes**\n*\"Cross two individuals for a trait showing incomplete dominance...\"*\n- Requires Punnett square analysis\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **Incomplete Dominance = Blending/Mixing**\n\ud83c\udfa8 **Analogy:** Red paint (R) + White paint (W) = Pink paint (Rw)\n- Parents are pure colors; F\u2081 is mixed color\n\n### **Co-dominance = Both Fully Present**\n\ud83d\udea9 **Analogy:** Two flags flying together (Type A flag + Type B flag = AB blood group)\n- Not blended, but BOTH visible simultaneously\n\n### **Multiple Alleles = Population's Variety**\n\ud83d\udc65 **Analogy:** One restaurant (gene) with multiple menu items (alleles)\n- Each person (individual) picks 2 items from the menu\n\n### **Pleiotropy = One Switch, Multiple Lights**\n\ud83d\udca1 **Analogy:** A power switch controls multiple light bulbs\n- One gene \u2192 multiple effects in different body parts\n\n### **Polygenic = Many Hands, One Cake**\n\ud83d\udc50 **Analogy:** Multiple bakers (genes) each add ingredients to make ONE cake (trait)\n- More ingredients \u2192 more variation in final product\n- Creates a spectrum, not distinct categories\n\n### **Quick Mnemonic:**\n**\"I-C-M-P-P\"**\n- **I**ncomplete (Intermediate phenotype)\n- **C**o-dominant (Both phenotypes visible)\n- **M**ultiple (Many alleles in population)\n- **P**leiotropy (One gene \u2192 many traits)\n- **P**olygenic (Many genes \u2192 one trait)\n\n---\n\n## 5. DETAILED EXAMPLE PROBLEM WITH SOLUTION\n\n### **PROBLEM:**\n\n*A woman with blood group AB marries a man with blood group O. In wheat, kernel color is controlled by 2 genes with additive effects (A\u2081A\u2081 = 4 parts color, A\u2081A\u2082 = 3 parts, A\u2082A\u2082 = 2 parts; B\u2081B\u2081 = 4 parts, B\u2081B\u2082 = 3 parts, B\u2082B\u2082 = 2 parts).*\n\n**Questions:**\n1. What blood groups are possible in their children?\n2. In wheat, if A\u2081A\u2081B\u2081B\u2081 (8 parts) is crossed with A\u2082A\u2082B\u2082B\u2082 (4 parts), what proportion of F\u2082 will have 6 parts color?\n\n---\n\n### **SOLUTION:**\n\n#### **Part 1: Blood Group Genetics (Co-dominance + Multiple Alleles)**",
-      "exam": "NEET 2020",
-      "year": 2020,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
@@ -87,22 +42,7 @@
         "D": "5 % D"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn a cross in Drosophila , the heterozygous member with grey body (b + ) and long wings (vg + ) was crossed with black body and vestigial wings, the progeny had the following ratio grey vestigial 24: grey long 126: black long 26: black vestigial 124. P 1 = grey and long P 2 = black and vestigial Their recombination results in grey vestigial and black long variants. Total population: 300 Recombinant population (26 grey vestigeal + 24 black long): 50 Frequency of recombinants in the population: 50/300 * 100 = 16.7 %\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Mutation (Gene mutation, Chromosomal aberrations)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is a Mutation?\n**Mutation** = Any heritable change in the DNA sequence of an organism that is passed to offspring.\n\n**Key Point:** Not all mutations are harmful; not all are visible. They're the raw material for evolution but also can cause diseases.\n\n### Two Main Types:\n\n```\nMUTATIONS\n\u251c\u2500\u2500 GENE MUTATIONS (Point Mutations)\n\u2502   \u251c\u2500\u2500 Substitution (Silent, Missense, Nonsense)\n\u2502   \u251c\u2500\u2500 Insertion\n\u2502   \u2514\u2500\u2500 Deletion\n\u2502\n\u2514\u2500\u2500 CHROMOSOMAL ABERRATIONS (Structural)\n    \u251c\u2500\u2500 Deletions\n    \u251c\u2500\u2500 Duplications\n    \u251c\u2500\u2500 Inversions\n    \u251c\u2500\u2500 Translocations\n    \u2514\u2500\u2500 AND Aneuploidies (numerical changes)\n```\n\n---\n\n## 2. DETAILED CLASSIFICATION\n\n### A) GENE MUTATIONS (Point Mutations)\nChanges in a single nucleotide or small number of nucleotides.\n\n| Type | Change | Example | Effect |\n|------|--------|---------|--------|\n| **Silent** | Base change, no amino acid change (due to codon degeneracy) | GCU\u2192GCC (both code for Alanine) | No phenotypic effect |\n| **Missense** | Base change \u2192 different amino acid | GTG\u2192GAG (Val\u2192Glu) in \u03b2-globin; causes Sickle Cell Anemia | Usually harmful; sometimes beneficial |\n| **Nonsense** | Base change \u2192 STOP codon | UAC\u2192UAA (premature stop) | Truncated protein; usually harmful |\n| **Frameshift (Insertion/Deletion)** | \u00b11, \u00b12, \u00b13 bases | Deletion of 1 base shifts reading frame | Usually very harmful |\n\n**Critical Fact:** Insertions/deletions of 3n bases may be less harmful (no frameshift).\n\n### B) CHROMOSOMAL ABERRATIONS\n\n#### **STRUCTURAL ABERRATIONS:**\n\n| Type | Description | Result |\n|------|-------------|--------|\n| **Deletion** | Loss of a chromosome segment | Loss of genes; often lethal |\n| **Duplication** | Repetition of a segment | Gene dosage imbalance |\n| **Inversion** | Reversal of a segment | Usually no gene loss; may reduce fertility |\n| **Translocation** | Transfer of segment to another chromosome | May cause problems if breaks genes |\n\n#### **NUMERICAL ABERRATIONS (Aneuploidy):**\n\n| Condition | Chromosome Count | Example | Viability |\n|-----------|------------------|---------|-----------|\n| **Monosomy** | 2n-1 | Turner Syndrome (45,X) | Mostly lethal in humans |\n| **Trisomy** | 2n+1 | Down Syndrome (Trisomy 21) | Viable but affected |\n| **Nullisomy** | 2n-2 | Loss of both homologs | Lethal |\n\n#### **EUPLOIDY (Whole Set Changes):**\n- **Triploidy** (3n) - three sets\n- **Tetraploidy** (4n) - four sets\n- Common in plants; lethal in humans\n\n---\n\n## 3. CAUSES OF MUTATIONS\n\n### Spontaneous Mutations:\n- DNA replication errors (~10\u207b\u2079 to 10\u207b\u00b9\u2070 per base pair per division)\n- Transposable elements\n\n### Induced Mutations (Mutagens):\n- **Physical:** X-rays, UV light, gamma rays\n- **Chemical:** EMS, benzene, nitrous acid\n- **Biological:** Viruses, transposons\n\n**Mutagen Frequency Formula:**\n$$\\text{Mutation Rate} = \\frac{\\text{Number of mutant individuals}}{\\text{Total population}}$$\n\n---\n\n## 4. KEY FACTS & MEMORY TIPS\n\n### Memory Tricks:\n\n**\"S-M-N-F\"** for Gene Mutations:\n- **S**ilent (no change)\n- **M**issense (wrong amino acid)\n- **N**onsense (stop signal)\n- **F**rameshift (reading problem)\n\n**\"DDI-T\"** for Structural Aberrations:\n- **D**eletion\n- **D**uplication\n- **I**nversion\n- **T**ranslocation\n\n### Analogy:\nThink of a chromosome as a **sentence**:\n- **Gene mutation** = Wrong letter in a word (point changes)\n- **Deletion** = Missing words\n- **Duplication** = Repeated words\n- **Inversion** = Words in reverse order\n- **Translocation** = Words moved to another sentence\n\n---\n\n## 5. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Identifying Mutation Type\n*\"A mutation changes codon from UAC to UAA. Identify the type and consequence.\"*\n- **Answer:** Nonsense mutation (UAC\u2192UAA is stop); causes premature termination.\n\n### Pattern 2: Concept-Based\n*\"Why are silent mutations not visible phenotypically?\"*\n- Due to genetic code redundancy (codon degeneracy); multiple codons code for same amino acid.\n\n### Pattern 3: Numerical Data\n*\"In a population of 10\u2076 bacteria, 100 show a mutant phenotype. Calculate mutation rate.\"*\n- Rate = 100/10\u2076 = 10\u207b\u2074\n\n### Pattern 4: Chromosome Counting\n*\"A person has trisomy 21. How many chromosomes do they have?\"*\n- Answer: 47 chromosomes (22 pairs + 1 extra chromosome 21 = 47)\n\n### Pattern 5: Genetic Disease Recognition\n*\"Match mutation type to disease:\"*\n- Sickle Cell = Missense mutation\n- Cystic Fibrosis = Deletion/Frameshift\n- Hemophilia = Gene mutation (X-linked)\n- Down Syndrome = Trisomy (Aneuploidy)\n\n---\n\n## 6. SOLVED EXAMPLE\n\n### Problem:\n*A segment of DNA has the sequence: 5'-ATG-CCG-TAA-3'*\n\n*After mutation, it becomes: 5'-ATG-CTG-TAA-3'*\n\n*(a) Identify the type of mutation.*  \n*(b) Using the genetic code, determine if this is silent, missense, or nonsense.*  \n*(c) What would happen if instead a base was deleted from position 4?*\n\n### Solution:\n\n**Part (a) & (b): Type of Mutation**\n\nMutation: CCG \u2192 CTG (only middle C changed to T)\n- **Type:** Substitution mutation (Gene/Point mutation)\n\nUsing genetic code:\n- Original: 5'-AUG-CCG-UAA-3'\n  - AUG = Methionine (Met/Start)\n  - CCG = Proline (Pro)\n  - UAA = STOP\n  \n- Mutated: 5'-AUG-CUG-UAA-3'\n  - AUG = Methionine (Met/Start)\n  - CUG = Leucine (Leu)\n  - UAA = STOP\n\n**Amino acid changed: Proline \u2192 Leucine**\n\n\u2713 **Answer: MISSENSE MUTATION** (causes amino acid substitution)\n\n---\n\n**Part (c): Deletion Mutation**\n\nIf one base is deleted from position 4 (first C in CCG):\n\nOriginal: 5'-ATG-CCG-TAA-3'  \nAfter deletion: 5'-ATG-TGT-AA-3' (becomes ATG-TGT-AA..., reading frame shifts)\n\nCodons become: AUG-UGU-AA?\n- The reading frame shifts for all downstream codons\n- **Result: FRAMESHIFT MUTATION (very harmful)**\n\nThis would likely produce:\n- Wrong amino acids\n- Premature stop codon\n- Non-functional protein\n\n---\n\n## 7. IMPORTANT FACTS FOR NEET\n\n| Fact | Remember |\n|------|----------|\n| Mutation frequency | 10\u207b\u2078 to 10\u207b\u00b9\u2070 per base per generation (spontaneous) |\n| Heterozygotes | Usually phenotypically normal for recessive mutations (carriers) |\n| Lethals | Some mutations are embryonic lethal or cause immediate death |\n| Dosage Compensation | X-linked mutations affect males more (hemizygous) |\n| Reversion | Some mutations can revert (back mutation) |\n\n---\n\n## FINAL CHECKLIST FOR NEET EXAM\n\n\u2713 Can I distinguish between point mutations and chromosomal aberrations?  \n\u2713 Do I know the three types of point mutations (silent, missense, nonsense)?  \n\u2713 Can I identify frameshift mutations and predict their consequences?  \n\u2713 Do I understand aneuploidy vs. euploidy?  \n\u2713 Can I count chromosomes in abnormal conditions (2n\u00b11, etc.)?  \n\u2713 Do I know major genetic diseases caused by specific mutations?  \n\u2713 Can I use the genetic code table to predict effects of mutations?\n\n**Good luck with NEET! \ud83c\udfaf**",
+      "solution": "**Correct Answer: (A)** **Explanation:** In a cross in Drosophila , the heterozygous member with grey body (b + ) and long wings (vg + ) was crossed with black body and vestigial wings, the progeny had the following ratio grey vestigial 24: grey long 126: black long 26: black vestigial 124. P 1 = grey and long P 2 = black and vestigial Their recombination results in grey vestigial and black long variants. Total population: 300 Recombinant population (26 grey vestigeal + 24 black long): 50 Frequency of recombinants in the population: 50/300 * 100 = 16.7 % **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -117,7 +57,7 @@
         "D": "(i)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe correct matches are 1. XX-XO method of sex-determination is seen in (iii) Grasshopper, where males have only one X-chromosome besides autosomes and females have a pair of $\\mathrm{X}$-chromosome. 2. $X X-X Y$ method of sex-determination-(iv) Female homogamety as seen in human beings. 3. Karyotype-45 (i) Turner's syndrome with $45+X O$. 4. ZW-ZZ method of sex-determination-(ii) Female heterogamety as seen in birds.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The correct matches are 1. XX-XO method of sex-determination is seen in (iii) Grasshopper, where males have only one X-chromosome besides autosomes and females have a pair of $X$-chromosome. 2. $X X-X Y$ method of sex-determination-(iv) Female homogamety as seen in human beings. 3. Karyotype-45 (i) Turner's syndrome with $45+X O$. 4. ZW-ZZ method of sex-determination-(ii) Female heterogamety as seen in birds. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -132,7 +72,7 @@
         "D": "3% and"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn Drosophila melanogaster, genes for white and yellow colour are about 1.3 map unit distant from each other so they show 1.3 % recombinations while 98.7% linkage (or parental characters). Genes for white colour and miniature wing are about 37.2 map unit distant so they show 37.2% recombinations and 62.8% linkage (or parental characters).\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** In Drosophila melanogaster, genes for white and yellow colour are about 1.3 map unit distant from each other so they show 1.3 % recombinations while 98.7% linkage (or parental characters). Genes for white colour and miniature wing are about 37.2 map unit distant so they show 37.2% recombinations and 62.8% linkage (or parental characters). **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -147,187 +87,7 @@
         "D": "3% and"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nMorgan and his students have found that linked genes show varied recombinations, some being more tightly linked than others, (i) In Drosophila, the crossing of yellow bodied (y) and white-eyed (w) female with brown bodied (y + ) red-eyed (w + ) male-produced F 1 to be brown bodied and red-eyed females, while males were yellow bodied and white eyed. On intercrossing of F 1 progeny, Morgan observed that the two genes did not segregate independently of each other and, therefore, the F 2 ratio deviated significantly from expected 9: 3: 3: 1 ratio. He found that 98.7% to be of the parental type and only 1.3% recombinant type. (ii) In a second cross of Drosophila between white-eyed and miniature winged (wwmm) female with wild type or red-eyed normal winged (w + m + ) males, all the F 1 were found to be of wild type, i.e., red-eyed and normal winged in females, while it was white-eyed and miniature wings in males. An F 1 female fly was then test crossed with white-eyed and miniature winged male. 62.8% of the progeny was of parental types while 37.2% were recombinant types.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Mendel's Experiments on Pea Plants' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is Mendel's Experiment?\nGregor Mendel conducted controlled breeding experiments with garden pea plants (1860s) to discover the fundamental laws of inheritance.\n\n### Why Pea Plants?\n| Reason | Advantage |\n|--------|-----------|\n| **Short generation time** | Easy to observe multiple generations quickly |\n| **Easy to grow** | Readily available, grow in any climate |\n| **Naturally self-fertile** | Can be self-pollinated or cross-pollinated artificially |\n| **Clear contrasting traits** | Distinct visible differences (tall vs short, round vs wrinkled seeds) |\n| **True breeding lines** | Homozygous varieties available |\n| **Diploid with 7 chromosomes** | Simple genetics, easily manageable |\n\n### Traits Mendel Studied (7 Character Pairs):\n1. **Seed shape**: Round (dominant) vs Wrinkled (recessive)\n2. **Seed color**: Yellow (dominant) vs Green (recessive)\n3. **Pod shape**: Inflated (dominant) vs Constricted (recessive)\n4. **Pod color**: Green (dominant) vs Yellow (recessive)\n5. **Flower color**: Purple (dominant) vs White (recessive)\n6. **Flower position**: Axial (dominant) vs Terminal (recessive)\n7. **Plant height**: Tall (dominant) vs Dwarf (recessive)\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **Mendel's Laws of Inheritance:**\n\n#### **Law 1: Law of Segregation**\n- Alleles of a gene segregate during gamete formation\n- Each gamete receives only ONE allele\n- **Formula**: Heterozygous (Aa) \u00d7 Heterozygous (Aa) \u2192 **3:1 ratio** (phenotypic)\n\n#### **Law 2: Law of Independent Assortment**\n- Different genes assort independently during gamete formation\n- **Formula**: Dihybrid cross AaBb \u00d7 AaBb \u2192 **9:3:3:1 ratio** (phenotypic)\n\n#### **Law 3: Law of Dominance**\n- Dominant alleles mask recessive alleles in heterozygotes\n- Dominant trait appears in F\u2081 generation\n\n### **Important Ratios to Remember:**\n\n| Cross Type | Ratio | Example |\n|-----------|-------|---------|\n| **Monohybrid (Aa \u00d7 Aa)** | 3:1 (phenotypic); 1:2:1 (genotypic) | Tall:Dwarf = 3:1 |\n| **Dihybrid (AaBb \u00d7 AaBb)** | 9:3:3:1 (phenotypic) | 9 Round Yellow : 3 Round Green : 3 Wrinkled Yellow : 1 Wrinkled Green |\n| **Test cross (Aa \u00d7 aa)** | 1:1 | Shows hidden recessive |\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identifying Dominant & Recessive Traits**\n**Q**: In a cross, when tall (T) \u00d7 dwarf (t) produces only tall plants, which is dominant?\n- Answer: Tall (T) is dominant\n\n### **Pattern 2: Monohybrid Cross Predictions**\n**Q**: If a heterozygous tall plant self-pollinates, what fraction of offspring will be dwarf?\n- Tt \u00d7 Tt \u2192 TT (1/4) + Tt (2/4) + tt (1/4)\n- Answer: **1/4 or 25%**\n\n### **Pattern 3: Dihybrid Cross with Ratios**\n**Q**: In a dihybrid cross AaBb \u00d7 AaBb, what is the probability of getting aabb?\n- Answer: (1/4) \u00d7 (1/4) = **1/16**\n\n### **Pattern 4: Multiple Generations (F\u2081, F\u2082, F\u2083)**\n**Q**: P generation (RR) \u00d7 (rr) produces F\u2081. F\u2081 self-pollinates to produce F\u2082. What is F\u2082 ratio?\n- Answer: **3:1 (dominant:recessive)**\n\n### **Pattern 5: Test Cross Application**\n**Q**: A dominant phenotype plant crossed with homozygous recessive gives 1:1 ratio. What was the genotype?\n- Answer: **Heterozygous (Aa)** (because Aa \u00d7 aa \u2192 1 Aa : 1 aa)\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **Memorable Acronym: PAIR**\n- **P**ure breeding lines (Homozygous)\n- **A**lleles segregate (Law of Segregation)\n- **I**ndependent assortment (Different genes)\n- **R**atios (3:1 and 9:3:3:1)\n\n### **Visual Analogy:**\nThink of alleles as **colored balls in a bag**:\n- Homozygous AA = All RED balls\n- Heterozygous Aa = Mix of RED and BLUE balls\n- Homozygous aa = All BLUE balls\n\nWhen you draw without looking (random segregation), you get predictable ratios.\n\n### **Quick Ratio Memory:**\n- **Monohybrid**: 3:1 (Like **\"THREE**-to-ONE\")\n- **Dihybrid**: 9:3:3:1 (Like a **\"NINE-PIECE PUZZLE\"** with pattern 9-3-3-1)\n\n### **Dominant Always Appears First:**\nIn a cross, write dominant allele (capital letter) FIRST:\n- Correct: Aa, Bb\n- Wrong: aA, bB (confusing!)\n\n---\n\n## 5. EXAMPLE PROBLEM WITH COMPLETE SOLUTION\n\n### **NEET-Style Problem:**\n\n**Question:** \nA pure breeding tall pea plant (T) is crossed with a pure breeding dwarf pea plant (t). The F\u2081 generation is self-pollinated to produce F\u2082. \n\n(a) What are the genotypes and phenotypes of F\u2081?\n(b) What is the genotypic and phenotypic ratio of F\u2082?\n(c) If an F\u2082 tall plant is crossed with a dwarf plant, what is the ratio?\n\n---\n\n### **SOLUTION:**\n\n**Step 1: Identify the cross**\n- P: TT (tall, pure) \u00d7 tt (dwarf, pure)\n- Allele behavior: T is dominant, t is recessive\n\n**Step 2: F\u2081 Generation**\n\n```\n       P:      TT    \u00d7    tt\n            (tall)      (dwarf)\n       \n       Gametes: T   \u00d7    t\n       \n       F\u2081:     Tt\n```\n\n**F\u2081 Genotype**: All **Tt** (100% heterozygous)\n**F\u2081 Phenotype**: All **tall plants** (100%)\n\u2192 Shows **Law of Dominance**\n\n**Step 3: F\u2082 Generation (F\u2081 self-pollination)**\n\n```\nF\u2081:        Tt    \u00d7    Tt\n       (heterozygous)\n       \nGametes:   T, t   \u00d7   T, t\n\nF\u2082 Punnett Square:\n         T      t\n    T   TT     Tt\n    t   Tt     tt\n\nF\u2082 Results:\n- 1 TT (tall)\n- 2 Tt (tall)\n- 1 tt (dwarf)\n```\n\n**F\u2082 Genotypic Ratio**: **1 TT : 2 Tt : 1 tt**\n**F\u2082 Phenotypic Ratio**: **3 tall : 1 dwarf** (3:1)\n\u2192 Shows **Law of Segregation**\n\n**Step 4: Test Cross (F\u2082 tall \u00d7 dwarf)**\n\nAn F\u2082 tall plant can be either TT or Tt.\n\n**If the tall plant is TT:**\n```\nTT \u00d7 tt = all Tt (all tall)\nRatio: 100% tall : 0% dwarf = 1:0\n```\n\n**If the tall plant is Tt:**\n```\nTt \u00d7 tt = 1 Tt (tall) : 1 tt (dwarf)\nRatio: 1 tall : 1 dwarf (1:1)\n```\n\n**Probability Answer**: \n- 1/3 chance it's TT (giving all tall)\n- 2/3 chance it's Tt (giving 1:1 ratio)\n\u2192 This is a **test cross** application\n\n---\n\n## ADDITIONAL IMPORTANT POINTS FOR NEET\n\n### **Common Mistakes to Avoid:**\n1. \u274c Not writing genotypes with capital letter FIRST (Aa, not aA)\n2. \u274c Confusing phenotype (appearance) with genotype (genetic makeup)\n3. \u274c Forgetting that F\u2081 from pure cross is ALWAYS heterozygous\n4. \u274c Mixing up 3:1 ratio with 1:2:1 ratio (phenotypic vs genotypic)\n\n### **Quick Check Questions:**\n- What is the phenotypic ratio of Aa \u00d7 aa? **1:1**\n- What is the genotypic ratio of Aa \u00d7 Aa? **1:2:1**\n- How many gamete types does AaBb produce? **4** (AB, Ab, aB, ab)\n\n### **For Advanced NEET Aspirants:**\nStudy **polygenic inheritance** and **linkage** as extensions of Mendel's work, which sometimes appear as follow-up questions.\n\n---\n\n## SUMMARY TABLE\n\n| Concept | F\u2081 | F\u2082 |\n|---------|-----|-----|\n| **Mon",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2017 | Biology]\n\nDown's syndrome is caused by trisomy of chromosome number:",
-      "options": {
-        "A": "13",
-        "B": "18",
-        "C": "21",
-        "D": "23"
-      },
-      "answer": "A",
-      "solution": "## Answer: **(C) 21**\n\n---\n\n## Step-by-Step Explanation\n\n**What is Down's Syndrome?**\nDown's syndrome is a genetic disorder caused by the presence of an **extra chromosome 21** in the genome. Instead of the normal two copies (one from each parent), an individual has **three copies** of chromosome 21 \\u2014 hence the term **\"Trisomy 21\"**.\n\n**Why Does This Happen?**\n- During meiosis (formation of sex cells), chromosomes should separate equally\n- Sometimes, both copies of chromosome 21 go into one cell (nondisjunction)\n- When this abnormal egg or sperm fertilizes a normal one, the resulting zygote has 47 chromosomes (2n+1) instead of 46\n\n**Characteristics of Down's Syndrome:**\n- Intellectual disability\n- Facial features: flat face, slanted eyes, protruding tongue\n- Heart defects\n- Low muscle tone\n- Short stature\n\n---\n\n## Why Other Options Are Wrong\n\n| Option | Condition | Why It's Wrong |\n|--------|-----------|---|\n| **(A) 13** | **Patau Syndrome** (Trisomy 13) | Causes severe facial clefts and multiple organ defects |\n| **(B) 18** | **Edwards Syndrome** (Trisomy 18) | Causes severe developmental abnormalities, usually fatal |\n| **(D) 23** | Sex chromosomes | Down's is not related to sex chromosome abnormalities |\n\n---\n\n## Key Fact to Remember\n**\"Three copies of 21 \\u2192 Down's Syndrome\"**\n\nThis is one of the most frequently asked questions in NEET and board exams. Always remember the chromosome number associated with each trisomy disorder!",
-      "exam": "NEET 2017",
-      "year": 2017,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "What is the recombination percentage between gene y and w in Drosophila ?",
-      "options": {
-        "A": "A",
-        "B": "3% B 9",
-        "C": "7% C 6",
-        "D": "8% D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe recombination frequency of the test cross progeny is always lower than 50%. Therefore, if any two genes are completely linked, their recombination frequency is almost 0%. The phenomenon of linkage was studied by the scientist T.H. Morgan using the common fruit fly or Drosophila melanogaster.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2020 | Biology]\n\nCross TT x tt -> all tall F1. F1 x tt gives:",
-      "options": {
-        "A": "50% tall 50% short",
-        "B": "All tall",
-        "C": "All short",
-        "D": "75% tall 25% short"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(A) 50% tall 50% short**\n\n---\n\n## Step-by-Step Solution\n\n### Step 1: Identify the F1 Genotype\n**Cross: TT \u00d7 tt \u2192 F1**\n\nSince all F1 are tall, and we're crossing a homozygous dominant (TT) with homozygous recessive (tt):\n- **F1 genotype = Tt** (heterozygous)\n- **F1 phenotype = Tall** (T is dominant)\n\n### Step 2: Perform the Test Cross\n**F1 \u00d7 tt = Tt \u00d7 tt**\n\nThis is called a **test cross** (crossing heterozygote with homozygous recessive).\n\n### Step 3: Use Punnett Square\n\n| | **t** | **t** |\n|---|---|---|\n| **T** | Tt | Tt |\n| **t** | tt | tt |\n\n### Results:\n- **50% Tt** (tall - because T is dominant)\n- **50% tt** (short - homozygous recessive)\n\n---\n\n## Key Concept to Remember\n\n**Test Cross Ratio Rule:**\n> When you cross a **heterozygote (Aa) with a homozygous recessive (aa)**, you always get a **1:1 phenotypic ratio** (50:50)\n\nThis is because:\n- Heterozygote produces 50% A and 50% a gametes\n- Homozygous recessive only produces a gametes\n- Result: 50% Aa (dominant phenotype) and 50% aa (recessive phenotype)\n\n---\n\n## Why Other Options Are Wrong\n\n| Option | Why It's Wrong |\n|--------|---|\n| (B) All tall | Would need both parents to be TT or F1 to be homozygous |\n| (C) All short | Would require T allele to be absent |\n| (D) 75% tall 25% short | This is F2 ratio (Tt \u00d7 Tt), not a test cross result |",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Genetic Disorders:' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What are Genetic Disorders?\n\n**Definition:** Genetic disorders are abnormalities in the genotype that result in abnormal phenotypes, causing deviations from normal health and development.\n\n**Key Point:** These arise from mutations in genes or abnormalities in chromosome structure/number.\n\n### Classification:\n\n```\nGENETIC DISORDERS\n\u251c\u2500\u2500 CHROMOSOMAL DISORDERS\n\u2502   \u251c\u2500\u2500 Structural Abnormalities\n\u2502   \u2502   \u251c\u2500\u2500 Deletion\n\u2502   \u2502   \u251c\u2500\u2500 Duplication\n\u2502   \u2502   \u251c\u2500\u2500 Inversion\n\u2502   \u2502   \u2514\u2500\u2500 Translocation\n\u2502   \u2514\u2500\u2500 Numerical Abnormalities\n\u2502       \u251c\u2500\u2500 Euploidy (polyploidy)\n\u2502       \u2514\u2500\u2500 Aneuploidy (monosomy, trisomy)\n\u2502\n\u2514\u2500\u2500 GENE DISORDERS (Mendelian Disorders)\n    \u251c\u2500\u2500 Autosomal Dominant (e.g., Achondroplasia)\n    \u251c\u2500\u2500 Autosomal Recessive (e.g., Cystic Fibrosis)\n    \u2514\u2500\u2500 Sex-linked (e.g., Hemophilia, Color blindness)\n```\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **Important Chromosomal Disorders:**\n\n| Disorder | Chromosome | Genotype | Features |\n|----------|-----------|----------|----------|\n| **Down Syndrome** | 21 (Trisomy) | 2n+1 (47) | Intellectual disability, characteristic facial features |\n| **Edwards Syndrome** | 18 (Trisomy) | 2n+1 (47) | Severe intellectual disability, often fatal |\n| **Patau Syndrome** | 13 (Trisomy) | 2n+1 (47) | Multiple organ defects, usually fatal |\n| **Turner Syndrome** | X (Monosomy) | 2n-1 (45, X\u2080) | Short stature, streak ovaries, infertile |\n| **Klinefelter Syndrome** | X (Trisomy) | 2n+1 (47, XXY) | Tall, infertile, gynecomastia |\n| **Jacob's Syndrome** | Y (Trisomy) | 2n+1 (47, XYY) | Tall, normal intelligence |\n\n### **Important Gene Disorders:**\n\n| Disorder | Type | Gene Location | Pattern |\n|----------|------|---------------|---------|\n| **Hemophilia** | Clotting deficiency | X chromosome | Sex-linked recessive |\n| **Color Blindness (Red-green)** | Vision deficiency | X chromosome | Sex-linked recessive |\n| **Cystic Fibrosis** | Mucus secretion | Chromosome 7 | Autosomal recessive |\n| **Sickle Cell Anemia** | RBC defect | Chromosome 11 | Autosomal recessive |\n| **Achondroplasia** | Dwarfism | Chromosome 4 | Autosomal dominant |\n| **Thalassemia** | RBC defect | Chromosome 11 | Autosomal recessive |\n\n### **Pedigree Analysis Rules:**\n\n- **Autosomal Dominant:** Appears in every generation, affects both sexes equally\n- **Autosomal Recessive:** Skips generations, affects both sexes, common in consanguineous marriages\n- **Sex-linked Recessive:** Affects males more, carrier females don't show symptoms\n\n---\n\n## 3. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identification from Description**\n*\"A child has 47 chromosomes with an extra chromosome 21. What is the condition?\"*\n- Answer: Down Syndrome/Trisomy 21\n- Look for: chromosome number, which chromosome is extra\n\n### **Pattern 2: Pedigree Analysis**\n*\"In a pedigree, only males are affected. The trait appears only when both parents carry it but one is unaffected. What is the inheritance pattern?\"*\n- Answer: Sex-linked recessive\n- Look for: which sex is affected, generation pattern\n\n### **Pattern 3: Probability Calculation**\n*\"If both parents are carriers of a recessive disorder, what's the probability their child will have the disease?\"*\n- Use: Punnett square (Aa \u00d7 Aa = 1/4 or 25%)\n\n### **Pattern 4: Carrier Identification**\n*\"A woman's color blind father shows the trait. What's her genotype and will she be a carrier?\"*\n- Reasoning: Father is X^c Y, so daughter is X^c X^C (carrier)\n\n### **Pattern 5: Case-Based MCQs**\n*\"A couple plans a child. Man is normal, woman is a carrier of hemophilia. What are possible outcomes?\"*\n- Use: X^H X^h \u00d7 X^H Y = X^H X^H, X^H X^h, X^H Y, X^h Y\n\n---\n\n## 4. MEMORY TIPS & ANALOGIES\n\n### **NERD RULE for Autosomal Recessive:**\n- **N**ew mutation (appears suddenly)\n- **E**qual sexes affected\n- **R**ecessive (needs 2 copies)\n- **D**ifferent generations (skips)\n\n### **For Sex-linked Recessive (Hemophilia, Color Blindness):**\n> **\"Affected males come from carrier mothers, not from affected fathers\"**\n- If father has it, ALL daughters are at least carriers\n- If mother is carrier, only SOME sons will have it (50%)\n- Affected females are rare (need affected father + carrier/affected mother)\n\n### **Chromosome Trisomy Quick Memory:**\n> **\"13, 18, 21 are the only viable trisomies at birth\"** (plus sex chromosome trisomies)\n\n---\n\n## 5. WORKED EXAMPLE WITH DETAILED SOLUTION\n\n### **NEET-Style Question:**\n\nA woman with normal vision whose father was color blind marries a man with normal vision. They have a son who is color blind.\n\n**(A)** The son inherited the trait from his mother  \n**(B)** The son must be heterozygous for the trait  \n**(C)** The man must be heterozygous  \n**(D)** It's impossible for their son to be color blind\n\n---\n\n### **STEP-BY-STEP SOLUTION:**\n\n\n\n### **DETAILED ANSWER:**\n\n**Correct Answer: (A)**\n\n### **Genotype Analysis:**\n\n| Person | Information | Genotype | Reasoning |\n|--------|-------------|----------|-----------|\n| Woman's father | Color blind | X^c Y | Color blind males have X^c Y |\n| Woman | Normal vision, father color blind | X^C X^c | Received X^c from father, X^C from mother |\n| Woman's husband | Normal vision | X^C Y | Normal male has X^C Y |\n| Their son | Color blind | X^c Y | Received X^c from mother, Y from father |\n\n### **Step-by-Step Reasoning:**\n\n**Step 1:** Determine the woman's genotype\n- Her father is color blind (X^c Y)\n- Fathers always pass X^c to daughters\n- Woman has normal vision, so she must have X^C (from mother)\n- **Woman's genotype = X^C X^c (carrier)**\n\n**Step 2:** Determine the son's genotype\n- Son is color blind = X^c Y\n- Y comes from father (X^C Y)\n- X^c must come from mother (X^C X^c)\n\n**Step 3:** Evaluate each option\n- **(A) \u2713 CORRECT:** Son inherited X^c from his mother (X^C X^c)\n- **(B) \u2717 WRONG:** Males cannot be heterozygous for X-linked traits (they're hemizygous)\n- **(C) \u2717 WRONG:** Man's genotype is X^C Y; males can't be heterozygous\n- **(D) \u2717 WRONG:** It's completely possible and expected from carrier \u00d7 normal cross\n\n### **Cross Diagram:**\n\n```\n        X^C X^c  (Carrier woman)  \u00d7  X^C Y (Normal man)\n\nGametes:    X^C or X^c",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2021 | Biology]\n\nIn a monohybrid cross between two heterozygotes (Aa \u00d7 Aa), the phenotypic ratio is:",
-      "options": {
-        "A": "1:2:1",
-        "B": "3:1",
-        "C": "1:1",
-        "D": "9:3:3:1"
-      },
-      "answer": "B",
-      "solution": "# **Correct Answer: (B) 3:1**\n\n## Step-by-Step Reasoning:\n\n### **Step 1: Set up the cross**\n- Cross: Aa \u00d7 Aa (both parents heterozygous)\n- Assume A = dominant allele, a = recessive allele\n\n### **Step 2: Create a Punnett Square**\n```\n        A      a\n    _______________\nA  |  AA  |  Aa  |\n    |______|______|\na  |  Aa  |  aa  |\n    |______|______|\n```\n\n### **Step 3: Determine genotypic ratio**\n- **AA** (homozygous dominant): 1\n- **Aa** (heterozygous): 2  \n- **aa** (homozygous recessive): 1\n- Genotypic ratio = **1:2:1**\n\n### **Step 4: Determine phenotypic ratio**\nSince A is dominant:\n- **AA + Aa** both show **dominant phenotype** = 1 + 2 = **3 parts**\n- **aa** shows **recessive phenotype** = **1 part**\n- **Phenotypic ratio = 3:1**\n\n## **Key Concept:**\nIn a monohybrid cross between heterozygotes, the phenotypic ratio will always be **3:1** because:\n- 75% show dominant phenotype (AA and Aa)\n- 25% show recessive phenotype (aa)\n\n## **Why other options are wrong:**\n- **(A) 1:2:1** \u2192 This is the *genotypic* ratio, not phenotypic\n- **(C) 1:1** \u2192 This occurs in a testcross (Aa \u00d7 aa)\n- **(D) 9:3:3:1** \u2192 This is for a dihybrid cross (two traits)",
-      "exam": "NEET 2021",
-      "year": 2021,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2020 | Biology]\n\nCross TT x tt -> all tall F1. F1 x tt gives:",
-      "options": {
-        "A": "50% tall 50% short",
-        "B": "All tall",
-        "C": "All short",
-        "D": "75% tall 25% short"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(A) 50% tall 50% short**\n\n## Step-by-Step Solution\n\n### First Cross: TT \u00d7 tt \u2192 F1\n- **TT** (homozygous tall) \u00d7 **tt** (homozygous short)\n- All F1 offspring = **Tt** (heterozygous, tall phenotype)\n\n### Second Cross: F1 (Tt) \u00d7 tt (Testcross)\n```\n        t    t\n    ____________\nT  |  Tt  |  Tt  |  (Tall)\n    ____________\nt  |  tt  |  tt  |  (Short)\n    ____________\n```\n\n**Results:**\n- **50% Tt** = Tall (T is dominant)\n- **50% tt** = Short (recessive, no T allele)\n\n## Key Concept: Testcross\nWhen you cross a **dominant phenotype (Tt) with homozygous recessive (tt)**, you always get a **1:1 ratio** of dominant to recessive phenotypes. This is called a **testcross** and reveals the genotype of the dominant individual.\n\n## Why Other Options Are Wrong:\n- **(B)** All tall - \u274c The tt parent can only contribute t alleles, creating tt offspring (short)\n- **(C)** All short - \u274c F1 is Tt, so contributes T alleles, creating Tt offspring (tall)\n- **(D)** 75% tall 25% short - \u274c This ratio appears in Tt \u00d7 Tt, not Tt \u00d7 tt\n\n**Remember:** Testcross with recessive = 1:1 ratio \u2713",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2020 | Biology]\n\nHaemophilia is a sex-linked recessive disease. A carrier female marries a normal male. What percentage of sons will have haemophilia?",
-      "options": {
-        "A": "0%",
-        "B": "25%",
-        "C": "50%",
-        "D": "100%"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(C) 50%**\n\n---\n\n## Step-by-Step Solution:\n\n### Genetic Setup:\n- **Carrier female**: X^H X^h (heterozygous - one normal, one haemophilia allele)\n- **Normal male**: X^H Y (normal allele on X chromosome)\n\n### Punnett Square:\n\n|  | X^H (from father) | Y (from father) |\n|---|---|---|\n| **X^H (from mother)** | X^H X^H (normal daughter) | X^H Y (normal son) |\n| **X^h (from mother)** | X^H X^h (carrier daughter) | **X^h Y (haemophiliac son)** |\n\n### Results:\n- **All daughters**: Normal or carriers (0% affected)\n- **Sons**: \n  - 50% X^H Y (normal)\n  - **50% X^h Y (haemophiliac)** \\u2713\n\n---\n\n## Key Concept:\n\n**Sex-linked recessive inheritance pattern:**\n- Males need only ONE recessive allele to express the disease (hemizygous condition)\n- Females need TWO recessive alleles to be affected\n- Carrier mothers pass the recessive allele to 50% of offspring\n- Of those offspring who receive it, ALL sons will be affected (no second X to mask it)\n\n---\n\n## Why Other Options Are Wrong:\n\n- **(A) 0%** - Would be true if the mother was homozygous normal (X^H X^H)\n- **(B) 25%** - This would occur if both parents were carriers or affected\n- **(D) 100%** - Would require the father to be haemophiliac (X^h Y)\n\n---\n\n## Remember:\nFor X-linked recessive disorders, carrier females (X^H X^h) always have a **50% chance** of passing the recessive allele to each child, and **all sons inheriting it will be affected**.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Match the items of Column I with Column II. Select the correct option from the following",
-      "options": {
-        "A": "A",
-        "B": "(ii)",
-        "C": "(iv)",
-        "D": "(i)"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe correct matches are 1. XX-XO method of sex-determination is seen in (iii) Grasshopper, where males have only one X-chromosome besides autosomes and females have a pair of $\\mathrm{X}$-chromosome. 2. $X X-X Y$ method of sex-determination-(iv) Female homogamety as seen in human beings. 3. Karyotype-45 (i) Turner's syndrome with $45+X O$. 4. ZW-ZZ method of sex-determination-(ii) Female heterogamety as seen in birds.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Inheritance of One Gene (Monohybrid cross; Law of Dominance; Law of Segregation; Test cross)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT AND DEFINITION\n\n### What is Monohybrid Cross?\n\nA **monohybrid cross** is a cross between two organisms differing in only **ONE trait** (one gene with different alleles).\n\n**Example:** Crossing tall pea plants with short pea plants\n\n### Key Terminology You MUST Know:\n\n| Term | Meaning | Example |\n|------|---------|---------|\n| **Allele** | Different forms of same gene | T (tall), t (short) |\n| **Dominant Allele** | Expresses itself in heterozygote | T (tall is dominant) |\n| **Recessive Allele** | Masked in heterozygote, shows only in homozygote | t (short is recessive) |\n| **Homozygous** | Both alleles identical | TT or tt |\n| **Heterozygous** | Alleles different | Tt |\n| **Genotype** | Genetic composition | TT, Tt, tt |\n| **Phenotype** | Observable characteristic | Tall, Short |\n\n---\n\n## 2. MENDEL'S LAWS (The Framework)\n\n### **LAW OF DOMINANCE (First Law)**\n\n**Statement:** When two organisms with contrasting traits are crossed, the hybrid offspring exhibit the dominant trait. The recessive trait is not expressed but is present.\n\n**Explanation:**\n- One allele is dominant, one is recessive\n- In heterozygous (Tt), only dominant phenotype appears\n- Recessive allele is \"hidden\" but still present\n\n**Visual:**\n```\nP Generation:  TT (Tall) \u00d7 tt (Short)\n                \u2193\nF\u2081 Generation:  All Tt (All Tall) \u2190 Dominant trait appears\n                \u2193\nF\u2082 Generation:  1 TT : 2 Tt : 1 tt\n               (Genotypic ratio)\n               3 Tall : 1 Short\n               (Phenotypic ratio)\n```\n\n---\n\n### **LAW OF SEGREGATION (Second Law)**\n\n**Statement:** During gamete formation (meiosis), allele pairs separate so that each gamete receives only ONE allele for each gene. During fertilization, allele pairs are restored.\n\n**Why This Happens:**\n1. Homologous chromosomes carry alleles\n2. During meiosis, these chromosomes separate\n3. Each sperm/egg gets only ONE allele\n4. Fertilization restores the pair\n\n**Key Point:** Explains WHY recessive traits reappear in F\u2082 generation!\n\n---\n\n## 3. KEY FORMULAS & IMPORTANT FACTS\n\n### **Monohybrid Cross Predictions:**\n\n```\nP:           AA \u00d7 aa\n              \u2193\nF\u2081:          Aa (100% one phenotype)\n              \u2193\nF\u2081 \u00d7 F\u2081:     Aa \u00d7 Aa\n              \u2193\nF\u2082:          1 AA : 2 Aa : 1 aa\n             1:2:1 (Genotypic ratio)\n             \n             3 Dominant : 1 Recessive\n             3:1 (Phenotypic ratio)\n```\n\n### **Punnett Square Method:**\n\n```\n       A        a\nA    AA       Aa\na    Aa       aa\n```\n\n### **Gamete Method:**\n\n- Each parent produces 2 types of gametes: A and a (ratio 1:1)\n- Combinations: AA (\u00bc), Aa (\u00bd), aa (\u00bc)\n\n### **Important Ratios to Remember:**\n\n| Cross | Genotypic Ratio | Phenotypic Ratio |\n|-------|-----------------|------------------|\n| AA \u00d7 aa | All Aa | All Dominant |\n| Aa \u00d7 Aa | 1:2:1 | 3:1 |\n| Aa \u00d7 aa | 1:1 | 1:1 |\n| AA \u00d7 AA | All AA | All Dominant |\n| aa \u00d7 aa | All aa | All Recessive |\n\n---\n\n## 4. TEST CROSS (Most Important for NEET!)\n\n### **Definition:**\n\nA **test cross** is a cross between an organism with dominant phenotype and a **homozygous recessive** organism. It reveals the genotype of the dominant parent.\n\n### **Why is it Used?**\n\n**Problem:** An organism showing dominant phenotype could be:\n- **AA** (Homozygous dominant)\n- **Aa** (Heterozygous dominant)\n\n**Solution:** Cross with homozygous recessive (aa)\n\n### **Test Cross Analysis:**\n\n```\nScenario 1: If dominant parent is HOMOZYGOUS (AA)\n   AA \u00d7 aa\n    \u2193\n   All Aa (100% Dominant phenotype)\n   Phenotypic ratio: All dominant\n\nScenario 2: If dominant parent is HETEROZYGOUS (Aa)\n   Aa \u00d7 aa\n    \u2193\n   1 Aa : 1 aa\n   Phenotypic ratio: 1:1 (1 Dominant : 1 Recessive)\n   \u2190 Recessive phenotype appears!\n```\n\n### **Interpretation of Test Cross Results:**\n\n- **All offspring show dominant phenotype** \u2192 Parent is **AA**\n- **1:1 ratio (Dominant : Recessive)** \u2192 Parent is **Aa**\n\n---\n\n## 5. MEMORY TIPS & ANALOGIES\n\n### \ud83e\udde0 **Memory Tip 1: \"DOMINANT = LOUDER\"**\nThink of alleles as voices:\n- **Dominant allele = LOUD VOICE** (heard even with one copy)\n- **Recessive allele = QUIET VOICE** (heard only when alone, i.e., homozygous)\n\n### \ud83e\udde0 **Memory Tip 2: \"F\u2082 RATIO = 3:1\"**\n**F\u2081 (Heterozygous) \u00d7 F\u2081 (Heterozygous) = Always 3:1**\n- This is THE most important NEET ratio\n- 3 dominant : 1 recessive\n\n### \ud83e\udde0 **Memory Tip 3: \"TEST CROSS = DETECTIVE\"**\nTest cross is a \"DNA fingerprinting\" technique:\n- Cross with **aa** (recessive homozygote)\n- Results reveal true identity of unknown dominant parent\n- 1:1 ratio reveals heterozygosity\n\n### \ud83e\udde0 **Analogy: Traffic Light**\n```\nRed light (recessive, tt) = STOPS on its own\nGreen light (dominant, T_) = Shows regardless of pairing\nHeterozygous (Tt) = Acts like green (dominant shows)\n```\n\n---\n\n## 6. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identify Genotype from Phenotype**\n*\"A tall plant produces 25% short plants in next generation. Find parent genotype.\"*\n\n**Solution Logic:**\n- If 25% recessive appears \u2192 segregation happened \u2192 Parent must be **Aa**\n\n### **Pattern 2: Test Cross Interpretation**\n*\"Cross between dominant phenotype plant and recessive plant gives 1:1 ratio. What is the genotype of dominant parent?\"*\n\n**Answer:** **Aa** (Heterozygous)\n\n### **Pattern 3: F\u2082 Generation Predictions**\n*\"If F\u2081 is all dominant, what will be F\u2082 ratio?\"*\n\n**Answer:** **3:1** (3 dominant : 1 recessive)\n\n### **Pattern 4: Probability-Based**\n*\"If Aa \u00d7 Aa, what is probability of recessive offspring?\"*\n\n**Answer:** **\u00bc or 25%**\n\n### **Pattern 5: Worked Backward**\n*\"If F\u2082 shows 96 tall and 32 short, how many are heterozygous?\"*\n\n**Solution:**\n- Total = 128\n- 96:32 = 3:1 (typical F\u2082 ratio)\n- Among 96 dominant = \u2154 Aa, \u2153 AA\n- Heterozygous = \u2154 \u00d7 96 = **64**\n\n---\n\n## 7. DETAILED EXAMPLE PROBLEM WITH SOLUTION\n\n### **NEET-Style Problem:**\n\nIn fruit flies, eye color is determined by a single gene. Red eyes (R) are dominant over white eyes (r). \n\n**Part A:** A red-eyed female (unknown genotype) is crossed with a white-eyed male. The offspring produced are 50% red-eyed and 50% white-eyed.\n- (i) What is the genotype of the female parent?\n- (ii) What is the genotype of the male parent?\n\n**Part B:** If the red-eyed female from above is now crossed with another red-eyed male (homozygous), what will be the phenotypic ratio in F\u2081?\n\n---\n\n### **COMPLETE SOLUTION:**\n\n#### **Part A: Identification Using Test Cross Principle**\n\n**(i) Genotype of female (red-eyed):**\n\n**Given:** Female (dominant phenotype) \u00d7 Male (white-eyed) \u2192 1:1 offspring\n\n**Analysis:**\n- Male white-eyed = rr (only possibility)\n- Female red-eyed = R? (either RR or Rr)\n- Result is 1:1 ratio = segregation \u2192 Female produces two types of gametes\n- Therefore: **Female genotype = Rr** (Heterozygous)\n\n**Proof via cross:**\n```\nRr (Female) \u00d7 rr (Male)\n     \u2193\nGametes: R,r \u00d7 r\n     \u2193\nOffspring: Rr (red) : rr (white)\n           50%      50%      \u2713 Matches given data\n```\n\n**(ii) Genotype of male:**\n- White eyes is recessive\n- Only possible genotype: **rr** (homozygous recessive)\n\n---\n\n#### **Part B: F\u2081 from New Cross**\n\n**Given:** \n- Female (Rr",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Sex Determination (XX-XY in humans; ZZ-ZW in birds; XO; Haplodiploidy in Honey bee)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# Sex Determination: A Complete NEET Guide\n\n## 1. CORE CONCEPT & DEFINITION\n\n**Sex Determination** is the genetic mechanism that determines whether an organism develops as male or female. Different organisms use different chromosomal systems.\n\n### Key Principle:\nSex determination relies on **sex chromosomes** (special chromosomes carrying sex-linked genes) and **autosomes** (non-sex chromosomes).\n\n---\n\n## 2. MAJOR SEX DETERMINATION SYSTEMS\n\n### **A) XX-XY System (Mammals including Humans)**\n\n**Structure:**\n- Males: XY (heterogametic - produces 2 types of gametes)\n- Females: XX (homogametic - produces 1 type of gamete)\n\n**Who determines sex?**\n- **The male parent determines the sex of offspring**\n- Sperm carries either X or Y\n- Egg always carries X\n\n**Cross Diagram:**\n```\n        Mother (XX)\n         |     |\n        X      X\n        |      |\nFather  X\\u2014XX   X\\u2014XY\n(XY)    |      |\n        Y\\u2014XY   Y\\u2014YY\n           \\u2193       \\u2193\n        FEMALE   MALE\n```\n\n**Result:** 50% males : 50% females\n\n---\n\n### **B) ZZ-ZW System (Birds, Butterflies, Some Fish)**\n\n**Structure:**\n- Males: ZZ (homogametic)\n- Females: ZW (heterogametic - produces 2 types of gametes)\n\n**Key Difference from Mammals:**\n- **The female parent determines the sex of offspring** (opposite of XX-XY!)\n- Egg carries either Z or W\n- Sperm always carries Z\n\n**Cross Diagram:**\n```\n        Father (ZZ)\n         |     |\n        Z      Z\n        |      |\nMother  Z\\u2014ZZ   Z\\u2014ZZ\n(ZW)    |      |\n        W\\u2014ZW   W\\u2014ZW\n           \\u2193       \\u2193\n        MALE    FEMALE\n```\n\n**Result:** 50% males : 50% females (but females are heterogametic)\n\n---\n\n### **C) XO System (Grasshoppers, Crickets, Some Bugs)**\n\n**Structure:**\n- Males: XO (only one sex chromosome, no pair)\n- Females: XX (two sex chromosomes)\n\n**Mechanism:**\n- No second sex chromosome in males\n- Males are heterogametic (produce X and O gametes)\n- Females are homogametic (produce only X)\n\n**Cross Diagram:**\n```\n        Mother (XX)\n         |     |\n        X      X\n        |      |\nFather  X\\u2014XX   X\\u2014XX\n(XO)    |      |\n        O\\u2014XO   O\\u2014XO\n           \\u2193       \\u2193\n        FEMALE   MALE\n```\n\n**Result:** 50% males : 50% females\n\n**Special Note:** The \"O\" represents absence of sex chromosome, not a chromosome named O.\n\n---\n\n### **D) Haplodiploidy System (Honey Bees, Ants, Wasps)**\n\n**Structure:**\n- Males (Drones): Haploid (n) - develop from unfertilized eggs\n- Females (Workers & Queens): Diploid (2n) - develop from fertilized eggs\n\n**Unique Feature:** No sex chromosomes involved!\n\n**Mechanism:**\n```\nUnfertilized Egg (n) \\u2192 MALE (Drone) [Haploid]\nFertilized Egg (2n) \\u2192 FEMALE (Worker/Queen) [Diploid]\n```\n\n**Sex Determination Based On:**\n- **Whether the egg is fertilized or not**\n- Not based on chromosomal inheritance\n\n**Result:** Not exactly 1:1 ratio (depends on fertilization patterns)\n\n---\n\n## 3. KEY FORMULAS & IMPORTANT FACTS\n\n| System | Males | Females | Gametes | Who Determines Sex? |\n|--------|-------|---------|---------|-------------------|\n| XX-XY | XY | XX | \\u2642: XY; \\u2640: X only | Father (X or Y) |\n| ZZ-ZW | ZZ | ZW | \\u2642: Z only; \\u2640: ZW | Mother (Z or W) |\n| XO | XO | XX | \\u2642: X,O; \\u2640: X only | Father (X or O) |\n| Haplodiploidy | Haploid(n) | Diploid(2n) | Fertilization status | Fertilization yes/no |\n\n### **Critical Facts for NEET:**\n1. In XX-XY system, Y chromosome carries **male-determining genes** (SRY gene)\n2. In ZZ-ZW system, remember birds are **opposite** to mammals\n3. X-linked traits show **criss-cross inheritance** in XX-XY systems\n4. Haplodiploidy is **not Mendelian** - no meiotic segregation in males\n\n---\n\n## 4. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Determining Offspring Ratio**\n\"In humans, if both parents are Xx (where X has normal vision, x has color blindness), what percentage of sons will be color blind?\"\n- Answer: 50% (because sons get one X from mother)\n\n### **Pattern 2: System Identification**\n\"In an organism, females are heterogametic. Which system is this?\"\n- Answer: ZZ-ZW system (birds, butterflies)\n\n### **Pattern 3: Sex-Linked Inheritance Cross**\n\"Cross an XAXa female with XaY male in humans. What are daughters' genotypes?\"\n- Answer: XAXa (carrier) and XaXa (affected) - 1:1 ratio\n\n### **Pattern 4: Bee Genetics**\n\"How many sex chromosomes does a drone (male bee) have?\"\n- Answer: Zero (haploid, only one set of chromosomes)\n\n### **Pattern 5: Trait Expression Differences**\n\"Why do recessive X-linked traits appear more in males than females?\"\n- Answer: Males are hemizygous (XY) - only need one recessive allele to express\n\n---\n\n## 5. MEMORY TIPS & ANALOGIES\n\n### **Tip 1: XX-XY vs ZZ-ZW**\n**\"X marks the spot where males determine; Z means zero females determine\"**\n- XX-XY: X-chromosome father picks the sex\n- ZZ-ZW: Z-females (absent) pick the sex\n\n### **Tip 2: XO System**\n**\"XO = X with nothing\" = Male missing the partner**\n\n### **Tip 3: Haplodiploidy**\n**\"Honey bee = Happiness depends on fertilization\"**\n- Fertilized = Female (happy life as worker/queen)\n- Unfertilized = Male (drone)\n\n### **Analogy:**\nThink of sex determination like a **gate system**:\n- **XX-XY:** Gate keeper (father) decides entry\n- **ZZ-ZW:** Gate keeper (mother) decides entry\n- **XO:** One person (missing partner) at the gate\n- **Haplodiploidy:** Entry itself (fertilization) decides who you are\n\n---\n\n## 6. WORKED EXAMPLE WITH DETAILED SOLUTION\n\n### **Question (NEET-style):**\nA woman of blood group B is married to a man of blood group O. Their child has blood group O. Another couple has a female child with color blindness (X-linked recessive). If the color-blind female is from the couple above (the woman with blood group B and man with blood group O), what was the father's genotype for color vision?\n\n---\n\n### **Solution:**\n\n**Step 1: Understand the Problem**\n- Female child with color blindness = X^c X^c (where X^c = color blindness allele)\n- She received one X^c from father and one X^c from mother\n- We need to find the father's genotype for vision\n\n**Step 2: Determine Father's Genotype**\n- Father is color-blind child's biological father\n- The man of blood group O married the woman of blood group B\n- Their daughter is X^c X^c (color blind)\n\nFor the daughter to be X^c X^c:\n- She must receive X^c from **father**\n- She must receive X^c from **mother**\n\n**Step 3: Analyze Father's Genotype**\n- Father is X^c Y (color blind male)\n- He passes X^c to all daughters\n- He passes Y to all sons\n\n**Step 4: Verify Mother's Genotype**\n- Mother must be X^c X (carrier female, not color blind)\n- Because she's not color blind but had a color-blind daughter\n\n**Answer: Father's genotype = X^c Y (Color Blind Male)**\n\n---\n\n### **Key Points in Solution:**\n\\u2713 Identified the inheritance pattern (X-linked recessive)\n\\u2713 Used the fact that X^c X^c daughters need X^c from both parents\n\\u2713 Recognized father must be color blind to pass X^c\n\n---\n\n## 7. QUICK REVISION CHECKLIST FOR NEET\n\n- [ ] Can I draw the sex determination cross for XX-XY system correctly?\n- [ ] Do I remember that ZZ-ZW is **opposite** (mother determines)?\n- [ ] Can I explain why X-linked recessive traits appear more in males?\n- [ ] Do I know haplodiploidy has **no sex chromosomes**?\n- [ ] Can I distinguish between heterogametic and homogametic sexes?\n- [ ] Can I solve X-linked inheritance problems with dihybrid ratios?\n\n---\n\n## 8. COMMON MISTAKES TO AVOID\n\n\\u274c **Mistake 1:** Thinking Y chromosome determines sex in birds (IT DOESN'T - they use ZZ-ZW)\n\n\\u274c **Mistake 2:** Confusing which parent determines sex in each system\n\n\\u274c **Mistake 3:** Assuming haplodiploidy has sex chromosomes (IT DOESN'T)\n\n\\u274c **Mistake 4:** Not recognizing that XO males have only ONE sex chromosome\n\n\\u274c **Mistake 5:** Forgetting that in XX-XY systems, females can be carriers of",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "The figure shows the experiment of T.H. Morgan on the linkage. If in cross-I, genes are tightly linked and in cross-II, genes are loosely linked then what will be the percentage of recombination produced in cross-I and cross-II respectively?",
-      "options": {
-        "A": "A 9",
-        "B": "7% and 6",
-        "C": "8%",
-        "D": "3% and"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nMorgan and his students have found that linked genes show varied recombinations, some being more tightly linked than others, (i) In Drosophila, the crossing of yellow bodied (y) and white-eyed (w) female with brown bodied (y + ) red-eyed (w + ) male-produced F 1 to be brown bodied and red-eyed females, while males were yellow bodied and white eyed. On intercrossing of F 1 progeny, Morgan observed that the two genes did not segregate independently of each other and, therefore, the F 2 ratio deviated significantly from expected 9: 3: 3: 1 ratio. He found that 98.7% to be of the parental type and only 1.3% recombinant type. (ii) In a second cross of Drosophila between white-eyed and miniature winged (wwmm) female with wild type or red-eyed normal winged (w + m + ) males, all the F 1 were found to be of wild type, i.e., red-eyed and normal winged in females, while it was white-eyed and miniature wings in males. An F 1 female fly was then test crossed with white-eyed and miniature winged male. 62.8% of the progeny was of parental types while 37.2% were recombinant types.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Morgan and his students have found that linked genes show varied recombinations, some being more tightly linked than others, (i) In Drosophila, the crossing of yellow bodied (y) and white-eyed (w) female with brown bodied (y + ) red-eyed (w + ) male-produced F 1 to be brown bodied and red-eyed females, while males were yellow bodied and white eyed. On intercrossing of F 1 progeny, Morgan observed that the two genes did not segregate independently of each other and, therefore, the F 2 ratio deviated significantly from expected 9: 3: 3: 1 ratio. He found that 98.7% to be of the parental type and only 1.3% recombinant type. (ii) In a second cross of Drosophila between white-eyed and miniature winged (wwmm) female with wild type or red-eyed normal winged (w + m + ) males, all the F 1 were found to be of wild type, i.e., red-eyed and normal winged in females, while it was white-eyed and miniature wings in males. An F 1 female fly was then test crossed with white-eyed and miniature winged male. 62.8% of the progeny was of parental types while 37.2% were recombinant types. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -342,59 +102,14 @@
         "D": "8% D"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nThe recombination frequency of the test cross progeny is always lower than 50%. Therefore, if any two genes are completely linked, their recombination frequency is almost 0%. The phenomenon of linkage was studied by the scientist T.H. Morgan using the common fruit fly or Drosophila melanogaster.\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "**Correct Answer: (A)** **Explanation:** The recombination frequency of the test cross progeny is always lower than 50%. Therefore, if any two genes are completely linked, their recombination frequency is almost 0%. The phenomenon of linkage was studied by the scientist T.H. Morgan using the common fruit fly or Drosophila melanogaster. **Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
     {
-      "question": "Explain 'Chromosomal: Down's syndrome, Klinefelter's syndrome, Turner's syndrome' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "# Chromosomal Abnormalities: Down's, Klinefelter's & Turner's Syndrome\n\n## 1. CORE CONCEPT & DEFINITION\n\n**Chromosomal abnormalities** result from **abnormal chromosome number (aneuploidy)** or **abnormal chromosome structure (aberration)**. These three are the most important aneuploidies for NEET.\n\n### Quick Distinction Table:\n\n| Syndrome | Chromosome Type | Karyotype | Chromosome Number | Inheritance |\n|----------|-----------------|-----------|-------------------|------------|\n| **Down's** | Autosomal (Trisomy) | 47, XX/XY, +21 | 47 | Non-disjunction |\n| **Klinefelter's** | Sex chromosome (Trisomy) | 47, XXY | 47 | Non-disjunction |\n| **Turner's** | Sex chromosome (Monosomy) | 45, X | 45 | Non-disjunction |\n\n---\n\n## 2. KEY FORMULAS & IMPORTANT FACTS\n\n### **Non-disjunction (The Root Cause)**\n```\nNormal Meiosis:  n=23 gametes\nAbnormal Meiosis (Non-disjunction): \n  \\u2192 24 gametes (extra chromosome)\n  \\u2192 22 gametes (missing chromosome)\n\nWhen 24-chromosome gamete fertilizes:\n2n + 1 = 47 (Trisomy) \\u2713\n\nWhen 22-chromosome gamete fertilizes:\n2n - 1 = 45 (Monosomy) \\u2713\n```\n\n### **Incidence Rates** (For memory):\n- Down's: 1 in 700 births (most common trisomy)\n- Klinefelter's: 1 in 500-1000 males\n- Turner's: 1 in 2000-2500 females\n\n---\n\n## 3. DETAILED EXPLANATION OF EACH SYNDROME\n\n### **A. DOWN'S SYNDROME (Trisomy 21)**\n\n**Definition:** Presence of three copies of chromosome 21 instead of two.\n\n**Characteristics:**\n| Feature | Details |\n|---------|---------|\n| **Karyotype** | 47, XX/XY, +21 |\n| **Phenotype** | Child with intellectual disability |\n| **Physical Features** | \\u2022 Mongoloid facies (slant eyes) <br> \\u2022 Broad short nose <br> \\u2022 Protruding tongue <br> \\u2022 Low-set ears <br> \\u2022 Short stature <br> \\u2022 Simian crease (single palm line) <br> \\u2022 Hypotonia (reduced muscle tone) |\n| **Intelligence** | Moderate intellectual disability (IQ 30-50) |\n| **Sex ratio** | Can occur in both males (XXY+21) and females (XXX+21) |\n| **Maternal age** | Risk increases dramatically after 35 years |\n| **Causes** | 95% non-disjunction during meiosis <br> 3-4% Translocation <br> 1-2% Mosaicism |\n\n**Why called \"Down's\"?** Named after John Langdon Down who first described it.\n\n---\n\n### **B. KLINEFELTER'S SYNDROME (XXY)**\n\n**Definition:** Presence of an extra X chromosome in males.\n\n**Characteristics:**\n| Feature | Details |\n|---------|---------|\n| **Karyotype** | 47, XXY |\n| **Phenotype** | Infertile male with feminine features |\n| **Physical Features** | \\u2022 Tall stature with long legs <br> \\u2022 Gynecomastia (enlarged breast tissue) <br> \\u2022 Female distribution of body hair <br> \\u2022 Small, firm testes <br> \\u2022 Infertile (azoospermia) <br> \\u2022 Tall, slender build <br> \\u2022 Sparse facial/body hair |\n| **Intelligence** | Usually normal or slightly below average <br> (IQ usually normal) |\n| **Sexual characteristics** | Underdeveloped secondary sexual characteristics <br> Low testosterone levels |\n| **Causes** | Non-disjunction during meiosis I or II in male parent (80%) <br> or female parent (20%) |\n| **Frequency** | Most common sex chromosome abnormality in males |\n\n**Key Point:** Males are infertile but may show female characteristics.\n\n---\n\n### **C. TURNER'S SYNDROME (Monosomy X)**\n\n**Definition:** Absence of one X chromosome (monosomy of sex chromosome).\n\n**Characteristics:**\n| Feature | Details |\n|---------|---------|\n| **Karyotype** | 45, X |\n| **Phenotype** | Infertile female with short stature |\n| **Physical Features** | \\u2022 Short stature (distinguishing feature) <br> \\u2022 Gonadal dysgenesis (streak gonads) <br> \\u2022 Infertile <br> \\u2022 Webbed neck <br> \\u2022 Broad, flat chest <br> \\u2022 Widely spaced nipples <br> \\u2022 Shield-shaped chest <br> \\u2022 Cardiac abnormalities <br> \\u2022 Renal abnormalities <br> \\u2022 Short metacarpals/metatarsals |\n| **Intelligence** | Usually normal (unlike Down's) |\n| **Sexual characteristics** | Absent secondary sexual characteristics <br> No menstruation (amenorrhea) <br> Sterile |\n| **Causes** | Non-disjunction during meiosis <br> OR anaphase lag (chromosome lost during division) |\n| **Key Feature** | Most common chromosome abnormality in females |\n\n**Unique Feature:** Turner's females are typically SHORT (not tall), unlike Klinefelter's males.\n\n---\n\n## 4. COMPARATIVE ANALYSIS (NEET FAVORITE!)\n\n### **Down's vs Klinefelter's vs Turner's**\n\n```\nQUESTION TYPE: \"Identify the syndrome based on symptoms\"\n\nDOWN'S (Trisomy 21)          KLINEFELTER'S (XXY)       TURNER'S (45,X)\n\\u251c\\u2500 47 chromosomes            \\u251c\\u2500 47 chromosomes         \\u251c\\u2500 45 chromosomes\n\\u251c\\u2500 Intellectual disability    \\u251c\\u2500 Usually normal IQ      \\u251c\\u2500 Normal intelligence \\u2713\n\\u251c\\u2500 Both sexes affected        \\u251c\\u2500 MALES ONLY             \\u251c\\u2500 FEMALES ONLY\n\\u251c\\u2500 Mongoloid facies           \\u251c\\u2500 Tall stature           \\u251c\\u2500 Short stature \\u2713\n\\u251c\\u2500 Simian crease             \\u251c\\u2500 Gynecomastia           \\u251c\\u2500 Gonadal dysgenesis\n\\u251c\\u2500 Short stature             \\u251c\\u2500 Infertile              \\u251c\\u2500 Infertile\n\\u2514\\u2500 Congenital abnormalities  \\u2514\\u2500 Can reproduce (IVF)    \\u2514\\u2500 Cannot reproduce\n```\n\n---\n\n## 5. MEMORY TIPS & ANALOGIES\n\n### **Quick Recall Mnemonics:**\n\n**DOWN'S = \"DO NOT Forget 21\"**\n- Trisomy **21**\n- **D**ouble facial features\n- **O**ne **extra** chromosome\n\n**KLINEFELTER'S = \"K-eXtra X\"**\n- **X**-XXY (extra X in males)\n- **K**eep him **tall**\n- **K**eeps him **infertile**\n\n**TURNER'S = \"T**iny\" (short)**\n- **T**iny females\n- **T**akes only one X\n- **T**al is NOT Turner's (tall = Klinefelter's)\n\n### **Body Feature Memory:**\n```\nImagine a timeline:\nDown's (47, +21): Round face, friendly, short \\u2713\nKlinefelter's (47, XXY): Tall, lanky, feminine \\u2713\nTurner's (45, X): Tiny, webbed neck, no periods \\u2713\n```\n\n---\n\n## 6. COMMON NEET QUESTION PATTERNS\n\n### **Pattern 1: Identification Based on Symptoms**\n*\"A 35-year-old woman gives birth to a child with Mongoloid facies, simian crease, and intellectual disability. What is the most likely diagnosis?\"*\n- **Answer:** Down's syndrome (Trisomy 21)\n\n### **Pattern 2: Karyotype-Based Questions**\n*\"A person with karyotype 47, XXY is suffering from:\"*\n- **Answer:** Klinefelter's syndrome\n\n### **Pattern 3: Sex-Based Identification**\n*\"A genetic disorder that affects only females and is characterized by short stature and infertility:\"*\n- **Answer:** Turner's syndrome\n\n### **Pattern 4: Chromosome Count**\n*\"Among the following, which has 45 chromosomes?\"*\n- **Answer:** Turner's syndrome (45, X)\n\n### **Pattern 5: Maternal Age Correlation**\n*\"The risk of Down's syndrome increases with:\"*\n- **Answer:** Increasing maternal age (especially >35 years)\n\n### **Pattern 6: Cause-Effect**\n*\"Non-disjunction during meiosis II in the male parent primarily leads to:\"*\n- **Answer:** Klinefelter's syndrome (XXY formation)\n\n---\n\n## 7. EXAMPLE PROBLEM WITH COMPLETE SOLUTION\n\n### **NEET-Style Question:**\n\nA child born to a 40-year-old mother presents with:\n- Intellectual disability (IQ: 35)\n- Simian crease on palms\n- Short stature\n- Mongoloid appearance\n- Karyotype: 47, XX, +21\n\n**Questions:**\n1. What is the diagnosis?\n2. Why is maternal age a risk factor?\n3. What is the mechanism of this abnormality?\n4. Can this be prevented?\n\n---\n\n### **SOLUTION:**\n\n**1. Diagnosis:**\n```\n\\u2713 DOWN'S SYNDROME (Trisomy 21)\n\nClinical features match perfectly:\n\\u251c\\u2500 Intellectual disability (hallmark)\n\\u251c\\u2500 Simian crease (palm crease)\n\\u251c\\u2500 Mongoloid facies\n\\u251c\\u2500 Short stature\n\\u2514\\u2500 Karyotype: 47 chromosomes",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2021 | Biology]\n\nIn a monohybrid cross between two heterozygotes (Aa \u00d7 Aa), the phenotypic ratio is:",
-      "options": {
-        "A": "1:2:1",
-        "B": "3:1",
-        "C": "1:1",
-        "D": "9:3:3:1"
-      },
-      "answer": "A",
-      "solution": "# Monohybrid Cross: Aa \u00d7 Aa\n\n## \u2713 Correct Answer: **(B) 3:1**\n\n---\n\n## Step-by-Step Solution:\n\n### **Setting up the Punnett Square:**\n\n|   | **A** | **a** |\n|---|-------|-------|\n| **A** | AA | Aa |\n| **a** | Aa | aa |\n\n### **Genotypic Results:**\n- **1 AA** (homozygous dominant)\n- **2 Aa** (heterozygous)\n- **1 aa** (homozygous recessive)\n- Genotypic ratio = **1:2:1**\n\n### **Phenotypic Results:**\nAssuming A is **dominant** and a is **recessive**:\n- **AA + Aa** \u2192 Show **dominant phenotype** = 3\n- **aa** \u2192 Show **recessive phenotype** = 1\n- Phenotypic ratio = **3:1** \u2713\n\n---\n\n## Key Concept to Remember:\n\n**In a monohybrid cross between two heterozygotes:**\n- Heterozygotes (Aa) express the **dominant phenotype** because one dominant allele is sufficient\n- Only homozygous recessive individuals (aa) show the recessive phenotype\n- This always gives a **3:1 phenotypic ratio**\n\n---\n\n## Why Other Options Are Wrong:\n\n| Option | Why it's wrong |\n|--------|---|\n| (A) 1:2:1 | This is the **genotypic** ratio, not phenotypic |\n| (C) 1:1 | This occurs in a **testcross** (Aa \u00d7 aa), not Aa \u00d7 Aa |\n| (D) 9:3:3:1 | This is a **dihybrid** cross (two traits), not monohybrid |\n\n---\n\n## Pro Tip for NEET:\nAlways distinguish between **genotypic ratio** (1:2:1) and **phenotypic ratio** (3:1) in monohybrid crosses. Questions often mix these up!",
-      "exam": "NEET 2021",
-      "year": 2021,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "Explain 'Chromosomal Theory of Inheritance (Morgan's experiment; Linkage and Recombination)' from Biology (Class 12, Chapter 4: Principles of Inheritance and Variation) in detail for NEET preparation.\n\nCover:",
-      "options": {
-        "A": "Core concept and definition",
-        "B": "Key formula(s) or important facts",
-        "C": "Common NEET question patterns on this topic",
-        "D": "Memory tip or analogy (if helpful) 5. One example problem with solution"
-      },
-      "answer": "A",
-      "solution": "---\n\n## 1. CORE CONCEPT & DEFINITION\n\n### What is the Chromosomal Theory of Inheritance?\n\n**Definition:** The theory states that genes are located on chromosomes, and the behavior of genes during inheritance parallels the behavior of chromosomes during meiosis and fertilization.\n\n### The Three Main Postulates:\n\n| Postulate | Explanation |\n|-----------|-------------|\n| **1. Gene Location** | Genes are physically located on chromosomes |\n| **2. Gene Segregation** | Genes segregate during meiosis just like chromosomes do |\n| **3. Gene Assortment** | Independent assortment of genes follows chromosomal segregation |\n\n---\n\n## 2. MORGAN'S EXPERIMENTS (The Evidence)\n\n### Historical Context\nThomas Hunt Morgan (1910s) used **Drosophila melanogaster (fruit fly)** to prove the chromosomal theory.\n\n### Experiment 1: White Eye Mutation (Sex-Linked Inheritance)\n\n**Setup:**\n- **Cross:** Red-eyed female (wild-type) \u00d7 White-eyed male (mutant)\n- **P Generation:** \n  - Female: X^W X^W (red eyes)\n  - Male: X^w Y (white eyes)\n\n**F1 Results:**\n- **All females:** Red eyes (X^W X^w)\n- **All males:** Red eyes (X^W Y)\n\n**F2 Results (F1 \u00d7 F1):**\n```\n        X^W     X^w\nX^W    X^W X^W  X^W X^w  (Red females)\nX^w    X^W X^w  X^w X^w  (Red & White females)\nY      X^W Y    X^w Y    (Red & White males)\n```\n\n**Critical Observation:** \n- White eyes appeared ONLY in males\n- The trait segregated with the sex chromosomes\n- **This proved genes are ON chromosomes!**\n\n### Why This Was Revolutionary:\n- If genes were randomly distributed in the cell (not on chromosomes), the results would NOT match the sex ratio\n- The inheritance pattern MIRRORED chromosome inheritance\n- This was the **PHYSICAL PROOF** of the chromosomal theory\n\n---\n\n## 3. LINKAGE AND RECOMBINATION\n\n### A. LINKAGE\n\n**Definition:** The tendency of genes located close together on the same chromosome to be inherited together.\n\n#### Key Points:\n- **Linked genes:** Don't assort independently (violate Mendel's law)\n- **Closer genes:** Linked more strongly (inherited together more often)\n- **Farther genes:** More likely to be separated by crossing over\n\n#### Experiment 2: Morgan's Two-Factor Cross in Drosophila\n\n**The Classic: Gray body & Normal wings vs. Black body & Vestigial wings**\n\n**Cross:** \n- Female: B^G B^G V^+ V^+ (gray, normal wings) - Homozygous\n- Male: b b v v (black, vestigial wings)\n\n**F1:** B^G b V^+ v (all gray with normal wings)\n\n**F1 Self-cross:** B^G b V^+ v \u00d7 B^G b V^+ v\n\n**Without Linkage (Independent assortment):**\nExpected ratio = 9:3:3:1\n\n**With Linkage (What Morgan observed):**\n```\nParental Types (majority):\n- B^G V^+ / B^G V^+ \u2192 Gray, normal wings (41.5%)\n- b v / b v \u2192 Black, vestigial wings (41.5%)\n\nRecombinant Types (fewer):\n- B^G v / B^G v \u2192 Gray, vestigial wings (8.5%)\n- b V^+ / b V^+ \u2192 Black, normal wings (8.5%)\n```\n\n**Key Observation:** Parental combinations appeared much more frequently than expected!\n\n---\n\n### B. RECOMBINATION & CROSSING OVER\n\n**Definition:** Exchange of genetic material between homologous chromosomes during Prophase I of meiosis.\n\n#### Mechanism:\n1. **Synapsis:** Homologous chromosomes pair up\n2. **Crossing Over:** Exchange of chromatid segments\n3. **Result:** New gene combinations (recombinant gametes)\n\n#### Visual Representation:\n```\nBefore Crossing Over:\nB^G ----V^+        b ----v\n(Linked on one chromosome)\n\nAfter Crossing Over:\nB^G ----v    AND    b ----V^+\n(Recombinant types created)\n```\n\n---\n\n## 4. KEY FORMULAS & IMPORTANT FACTS\n\n### **Recombination Frequency (RF) / Map Distance**\n\n$$\\boxed{\\text{RF\\%} = \\frac{\\text{Number of Recombinant Offspring}}{\\text{Total Offspring}} \\times 100}$$\n\n**Important:** 1% recombination = 1 map unit (centimorgan, cM)\n\n### **Map Distance Formula:**\n$$\\boxed{\\text{Map Distance} = \\text{RF\\%} \\text{ (in centiMorgans)}}$$\n\n### **For Three-Point Cross:**\n$$\\boxed{\\text{Coefficient of Coincidence} = \\frac{\\text{Observed Double Crossovers}}{\\text{Expected Double Crossovers}}}$$\n\n$$\\boxed{\\text{Interference} = 1 - \\text{Coefficient of Coincidence}}$$\n\n---\n\n### Critical Facts for NEET:\n\n| Fact | Remember |\n|------|----------|\n| **Linked genes don't follow 9:3:3:1** | They produce more parental and fewer recombinant types |\n| **Closer genes, lower RF%** | Distance \u221d Recombination frequency |\n| **Crossing over occurs at 4-strand stage** | During Prophase I (pachytene) |\n| **Max RF = 50%** | Genes >50 map units apart assort independently |\n| **Linkage is incomplete** | Crossing over can separate linked genes |\n\n---\n\n## 5. COMMON NEET QUESTION PATTERNS\n\n### Pattern 1: Identifying Linked Genes\n**Q-Type:** Given F2 ratio, identify if genes are linked\n- **Expected (unlinked):** 9:3:3:1\n- **Observed:** Deviates from 9:3:3:1 \u2192 Genes are LINKED\n\n### Pattern 2: Calculating Map Distance\n**Q-Type:** Given offspring numbers, find map distance\n- Count recombinants\n- Apply RF formula\n- Answer in centiMorgans\n\n### Pattern 3: Sex-Linked Inheritance\n**Q-Type:** Cross involving X-linked traits\n- Males have only one allele (hemizygous)\n- Females can be homozygous or heterozygous\n- Results show sex-specific inheritance patterns\n\n### Pattern 4: Test Cross Analysis\n**Q-Type:** Heterozygous \u00d7 Homozygous recessive\n- Ratio deviations indicate linkage\n- Parental types = majority\n- Recombinants = minority\n\n### Pattern 5: Multiple Alleles & Linkage\n**Q-Type:** Complex crosses with 3+ genes\n- Identify parental vs. recombinant classes\n- Use coefficient of coincidence\n- Determine gene order\n\n---\n\n## 6. MEMORY TIPS & ANALOGIES\n\n### **Analogy 1: \"Train Analogy\"**\nThink of genes as passengers on a train (chromosome):\n- **Passengers in same car** = Linked genes (travel together)\n- **Occasional transfers** = Crossing over (can move between cars)\n- **Distant cars** = Unlinked genes (independent movement)\n\n### **Analogy 2: \"Bookmarks on a Page\"**\n- Chromosomes = Pages\n- Genes = Bookmarks on the page\n- Closer bookmarks = More likely to stay together\n- Crossing over = Relocating bookmarks\n\n### **Memory Phrase for Morgan's Work:**\n**\"FLIES LINKED TOGETHER\"**\n- **F** = Fruit fly (Drosophila)\n- **L** = Linkage discovered\n- **I** = Inheritance patterns showed segregation with sex\n- **E** = Eye color was the marker\n- **S** = Sex-linked traits proved chromosomal location\n\n### **Recombination Frequency Mnemonics:**\n```\nRF% = (Recombinant \u00f7 Total) \u00d7 100\nRemember: \"Recombinants are RARE\"\n```\n\n---\n\n## 7. WORKED EXAMPLE WITH DETAILED SOLUTION\n\n### **NEET-Style Problem:**\n\nIn *Drosophila*, two genes (A and B) show the following F2 results:\n\n| Phenotype | Count |\n|-----------|-------|\n| A- B- (both dominant) | 440 |\n| A- bb | 40 |\n| aaB- | 50 |\n| aabb | 470 |\n| **Total** | **1000** |\n\n**Questions:**\n1. Are the genes linked or unlinked?\n2. Calculate the map distance between them\n3. Identify parental and recombinant types\n\n---\n\n### **SOLUTION:**\n\n#### **Step 1: Check Expected vs. Observed Ratio**\n\nIf genes were **unlinked** (independent assortment):\n- Expected ratio = 9:3:3:1\n- Expected counts from 1000 offspring:\n  - A- B- = 562.5\n  - A- bb = 187.5\n  - aaB- = 187.5\n  - aabb = 62.5\n\n**Observed counts:**\n- A- B- = 440 (expected 562.5) \u2717\n- aabb = 470 (expected 62.5) \u2717\n- A- bb = 40 (expected 187.5) \u2717\n- aaB- = 50 (expected 187.5) \u2717\n\n**Conclusion:** Observed ratio \u2260 9:3:3:1 \u2192 **GENES ARE LINKED**\n\n#### **Step 2:",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2020 | Biology]\n\nCross TT x tt -> all tall F1. F1 x tt gives:",
+      "question": "[NEET 2020 | Biology] Cross TT x tt -> all tall F1. F1 x tt gives:",
       "options": {
         "A": "50% tall 50% short",
         "B": "All tall",
@@ -402,14 +117,14 @@
         "D": "75% tall 25% short"
       },
       "answer": "A",
-      "solution": "# Answer: **(A) 50% tall 50% short**\n\n## Step-by-Step Solution:\n\n### Step 1: Determine F1 Genotype\n- Cross: **TT (tall) \u00d7 tt (short)**\n- F1 offspring: **Tt** (all tall)\n- This tells us: **T = dominant (tall), t = recessive (short)**\n\n### Step 2: Set Up the Testcross\n- F1 genotype: **Tt**\n- Testcross parent: **tt**\n- This is a testcross (crossing F1 with homozygous recessive)\n\n### Step 3: Punnett Square\n\n```\n        t    t\n    \u250c\u2500\u2500\u2500\u2500\u2500\u252c\u2500\u2500\u2500\u2500\u2500\u2510\n  T \u2502 Tt  \u2502 Tt  \u2502 (Tall)\n    \u251c\u2500\u2500\u2500\u2500\u2500\u253c\u2500\u2500\u2500\u2500\u2500\u2524\n  t \u2502 tt  \u2502 tt  \u2502 (Short)\n    \u2514\u2500\u2500\u2500\u2500\u2500\u2534\u2500\u2500\u2500\u2500\u2500\u2518\n```\n\n### Step 4: Results\n| Genotype | Phenotype | Frequency |\n|----------|-----------|-----------|\n| Tt | Tall | 50% |\n| tt | Short | 50% |\n\n## Key Concept to Remember:\n**Testcross Principle**: When you cross a heterozygote (Tt) with a homozygous recessive (tt), you always get a **1:1 ratio** of both phenotypes. This is because:\n- Heterozygote produces 50% T and 50% t gametes\n- Homozygous recessive produces only t gametes\n\n## Why Other Options Are Wrong:\n- **(B)** All tall - would occur only if both parents were TT or if t were completely masked\n- **(C)** All short - would need F1 to be tt (contradicts first cross)\n- **(D)** 75:25 - this ratio appears in F2 of monohybrid crosses (Tt \u00d7 Tt), not testcrosses",
+      "solution": "# Answer: **(A) 50% tall 50% short** --- ## Step-by-Step Solution ### Step 1: Identify the F1 Genotype **Cross: TT \u00d7 tt \u2192 F1** Since all F1 are tall, and we're crossing a homozygous dominant (TT) with homozygous recessive (tt): - **F1 genotype = Tt** (heterozygous) - **F1 phenotype = Tall** (T is dominant) ### Step 2: Perform the Test Cross **F1 \u00d7 tt = Tt \u00d7 tt** This is called a **test cross** (crossing heterozygote with homozygous recessive). ### Step 3: Use Punnett Square | | **t** | **t** | |---|---|---| | **T** | Tt | Tt | | **t** | tt | tt | ### Results: - **50% Tt** (tall - because T is dominant) - **50% tt** (short - homozygous recessive) --- ## Key Concept to Remember **Test Cross Ratio Rule:** > When you cross a **heterozygote (Aa) with a homozygous recessive (aa)**, you always get a **1:1 phenotypic ratio** (50:50) This is because: - Heterozygote produces 50% A and 50% a gametes - Homozygous recessive only produces a gametes - Result: 50% Aa (dominant phenotype) and 50% aa (recessive phenotype) --- ## Why Other Options Are Wrong | Option | Why It's Wrong | |--------|---| | (B) All tall | Would need both parents to be TT or F1 to be homozygous | | (C) All short | Would require T allele to be absent | | (D) 75% tall 25% short | This is F2 ratio (Tt \u00d7 Tt), not a test cross result |",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
     {
-      "question": "[NEET 2020 | Biology]\n\nHaemophilia is a sex-linked recessive disease. A carrier female marries a normal male. What percentage of sons will have haemophilia?",
+      "question": "[NEET 2020 | Biology] Haemophilia is a sex-linked recessive disease. A carrier female marries a normal male. What percentage of sons will have haemophilia?",
       "options": {
         "A": "0%",
         "B": "25%",
@@ -417,67 +132,7 @@
         "D": "100%"
       },
       "answer": "A",
-      "solution": "# Answer: **(C) 50%**\n\n## Step-by-Step Reasoning:\n\n### Understanding the Genetics:\n- Haemophilia is **sex-linked recessive** (gene on X chromosome)\n- Use notation: **X^H** = normal allele, **X^h** = haemophilia allele\n\n### Parental Genotypes:\n- **Carrier female**: X^H X^h (phenotypically normal but carries recessive allele)\n- **Normal male**: X^H Y\n\n### Punnett Square for Offspring:\n\n|  | X^H (father) | Y (father) |\n|---|---|---|\n| **X^H (mother)** | X^H X^H \\u2640 | X^H Y \\u2642 |\n| **X^h (mother)** | X^H X^h \\u2640 | **X^h Y \\u2642** |\n\n### Results for Sons:\n- 50% X^H Y = Normal sons\n- **50% X^h Y = Haemophiliac sons** \\u2713\n\n## Why This Happens:\n\nSons receive their **only X chromosome from the mother**. Since the carrier mother has one X^h allele, there's a 50% chance she passes it to her son. Males need only one recessive allele to express the disease (they're hemizygous).\n\n## Why Other Options Are Wrong:\n\n- **(A) 0%**: Incorrect\\u2014mother carries the allele\n- **(B) 25%**: Incorrect\\u2014this would apply to grandsons, not sons\n- **(D) 100%**: Incorrect\\u2014father is normal, so he contributes X^H to daughters\n\n## Key Formula to Remember:\n**For sex-linked recessive traits with a carrier mother and normal father:**\n- Sons affected = 50%\n- Daughters unaffected = 100% (all phenotypically normal)",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2017 | Biology]\n\nDown's syndrome is caused by trisomy of chromosome number:",
-      "options": {
-        "A": "13",
-        "B": "18",
-        "C": "21",
-        "D": "23"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(C) 21**\n\n## Explanation\n\n**Down's Syndrome = Trisomy 21**\n\nDown's syndrome is caused by the presence of **three copies of chromosome 21** instead of the normal two copies.\n\n### Step-by-Step Understanding:\n\n| Aspect | Details |\n|--------|---------|\n| **Normal condition** | 2n = 46 chromosomes (22 pairs of autosomes + XY or XX) |\n| **Down's syndrome** | 2n + 1 = 47 chromosomes (trisomy) |\n| **Extra chromosome** | Chromosome 21 |\n| **Incidence** | ~1 in 700 births |\n\n### Why This Happens:\n- Usually occurs due to **nondisjunction during meiosis** (chromosomes fail to separate properly)\n- Results in a gamete with 2 copies of chromosome 21\n- When fertilized with a normal gamete, the zygote has 3 copies\n\n### Key Features of Down's Syndrome:\n- Intellectual disability\n- Characteristic facial features\n- Short stature\n- Heart defects\n- Muscle tone abnormalities\n\n## Why Other Options Are Wrong:\n\n| Chromosome | Condition | Why not correct |\n|------------|-----------|-----------------|\n| **13** | Patau syndrome (Trisomy 13) | Different autosomal trisomy |\n| **18** | Edwards syndrome (Trisomy 18) | Different autosomal trisomy |\n| **23** | N/A | Humans have 22 autosomes + sex chromosomes; no chromosome 23 |\n\n## **Key Fact to Remember:**\nThe three common autosomal trisomies in humans are:\n- **Trisomy 21** \\u2192 Down's syndrome \\u2713\n- **Trisomy 18** \\u2192 Edwards syndrome\n- **Trisomy 13** \\u2192 Patau syndrome",
-      "exam": "NEET 2017",
-      "year": 2017,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "[NEET 2020 | Biology]\n\nHaemophilia is a sex-linked recessive disease. A carrier female marries a normal male. What percentage of sons will have haemophilia?",
-      "options": {
-        "A": "0%",
-        "B": "25%",
-        "C": "50%",
-        "D": "100%"
-      },
-      "answer": "A",
-      "solution": "# Answer: **(C) 50%**\n\n## Step-by-Step Solution:\n\n### Step 1: Identify the Genotypes\n- **Carrier female**: X^H X^h (one normal, one haemophilia allele)\n- **Normal male**: X^H Y (normal X chromosome, Y chromosome)\n\n### Step 2: Set Up the Cross\n```\n        Father (X^H Y)\n        X^H      Y\nMother  \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\nX^H   \u2502 X^H X^H \u2502 X^H Y \u2502\nX^h   \u2502 X^H X^h \u2502 X^h Y \u2502\n```\n\n### Step 3: Analyze Sons Only\nSons can be:\n- **X^H Y** (50%) \u2192 Normal male \u2713\n- **X^h Y** (50%) \u2192 Haemophilic male \u2717\n\n**Therefore, 50% of sons will have haemophilia**\n\n---\n\n## Why This Happens:\n\nSince **males have only ONE X chromosome** (XY), they need just ONE recessive allele to express the disease. They cannot be \"carriers\" like females.\n\n- Carrier mother has 50% chance of passing X^h to her sons\n- Sons who receive X^h will definitely show haemophilia\n\n---\n\n## Why Other Options Are Wrong:\n\n| Option | Why Wrong |\n|--------|-----------|\n| **(A) 0%** | Sons have a 50% chance to inherit the X^h allele from mother |\n| **(B) 25%** | This would be if BOTH parents were affected/carriers differently |\n| **(D) 100%** | Normal father contributes X^H, protecting 50% of sons |\n\n---\n\n## Key Formula to Remember:\n**For X-linked recessive traits:**\n- Carrier female (X^A X^a) \u00d7 Normal male (X^A Y) \u2192 **50% affected sons, 0% affected daughters**",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "In Drosophila melanogaster , what percentage of recombination is shown between the genes white and yellow, and what percentage of linkage is shown between the genes white and miniature wing, respectively?",
-      "options": {
-        "A": "A 9",
-        "B": "7% and 6",
-        "C": "8%",
-        "D": "3% and"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn Drosophila melanogaster, genes for white and yellow colour are about 1.3 map unit distant from each other so they show 1.3 % recombinations while 98.7% linkage (or parental characters). Genes for white colour and miniature wing are about 37.2 map unit distant so they show 37.2% recombinations and 62.8% linkage (or parental characters).\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
-      "exam": "NEET 2020",
-      "year": 2020,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "In a cross in Drosophila , the heterozygous member with grey body (b + ) and long wings (vg + ) was crossed with black body and vestigial wings, the progeny had the following ratio grey vestigial 24: grey long 126: black long 26: black vestigial 124. What is the frequency of recombinants in the population?",
-      "options": {
-        "A": "A",
-        "B": "8 % B",
-        "C": "7 % C",
-        "D": "5 % D"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:**\nIn a cross in Drosophila , the heterozygous member with grey body (b + ) and long wings (vg + ) was crossed with black body and vestigial wings, the progeny had the following ratio grey vestigial 24: grey long 126: black long 26: black vestigial 124. P 1 = grey and long P 2 = black and vestigial Their recombination results in grey vestigial and black long variants. Total population: 300 Recombinant population (26 grey vestigeal + 24 black long): 50 Frequency of recombinants in the population: 50/300 * 100 = 16.7 %\n\n**Key Point:** Always read all options carefully and eliminate wrong ones using fundamental NCERT concepts.",
+      "solution": "# Answer: **(C) 50%** --- ## Step-by-Step Solution: ### Genetic Setup: - **Carrier female**: X^H X^h (heterozygous - one normal, one haemophilia allele) - **Normal male**: X^H Y (normal allele on X chromosome) ### Punnett Square: | | X^H (from father) | Y (from father) | |---|---|---| | **X^H (from mother)** | X^H X^H (normal daughter) | X^H Y (normal son) | | **X^h (from mother)** | X^H X^h (carrier daughter) | **X^h Y (haemophiliac son)** | ### Results: - **All daughters**: Normal or carriers (0% affected) - **Sons**: - 50% X^H Y (normal) - **50% X^h Y (haemophiliac)** \\u2713 --- ## Key Concept: **Sex-linked recessive inheritance pattern:** - Males need only ONE recessive allele to express the disease (hemizygous condition) - Females need TWO recessive alleles to be affected - Carrier mothers pass the recessive allele to 50% of offspring - Of those offspring who receive it, ALL sons will be affected (no second X to mask it) --- ## Why Other Options Are Wrong: - **(A) 0%** - Would be true if the mother was homozygous normal (X^H X^H) - **(B) 25%** - This would occur if both parents were carriers or affected - **(D) 100%** - Would require the father to be haemophiliac (X^h Y) --- ## Remember: For X-linked recessive disorders, carrier females (X^H X^h) always have a **50% chance** of passing the recessive allele to each child, and **all sons inheriting it will be affected**.",
       "exam": "NEET 2020",
       "year": 2020,
       "subject": "Biology",
@@ -492,7 +147,7 @@
         "D": "1/2 M Medi M MedicNE Med MedicNE Med Med ET cNEET MedicNEE Medi edicNEET M T"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 1/8**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) 1/8** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -501,13 +156,13 @@
     {
       "question": "Among the following characters, which one was not considered by Mendel in his experiments on pea?",
       "options": {
-        "A": "Stem \\u2013 Tall or Dwarf",
-        "B": "Trichomes \\u2013 Glandular or non-glandular",
-        "C": "Seed \\u2013 Green or Yellow",
-        "D": "Pod \\u2013 Inflated or Constricted"
+        "A": "Stem \\\u2013 Tall or Dwarf",
+        "B": "Trichomes \\\u2013 Glandular or non-glandular",
+        "C": "Seed \\\u2013 Green or Yellow",
+        "D": "Pod \\\u2013 Inflated or Constricted"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Stem \\u2013 Tall or Dwarf**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) Stem \\\u2013 Tall or Dwarf** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -522,7 +177,7 @@
         "D": "1870 - 1877"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 1856 - 1863**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) 1856 - 1863** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -537,7 +192,7 @@
         "D": "2"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 14**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) 14** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -552,7 +207,7 @@
         "D": "is not correct but (R) is correct"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Both (A) and (R) are correct and (R) is the correct explanation of (A)**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) Both (A) and (R) are correct and (R) is the correct explanation of (A)** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -567,22 +222,7 @@
         "D": "A filled square, a filled circle and a filled diamond line."
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A square (male) and a circle (female) joined by a single horizontal marriage/mating line.**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
-      "exam": "NEET 2022",
-      "year": 2022,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "With the help of given pedigree, find out the probability for the birth of a child having no disease and being a carrier (has the disease mutation in one allele of the gene) in F3 generation.",
-      "options": {
-        "A": "1/8",
-        "B": "Zero",
-        "C": "1/4",
-        "D": "1/2 M Medi M MedicNE Med MedicNE Med Med ET cNEET MedicNEE Medi edicNEET M T"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) 1/8**\n\n**NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
+      "solution": "**Correct Answer: (A) A square (male) and a circle (female) joined by a single horizontal marriage/mating line.** **NCERT Concept Explanation:** According to the NCERT Biology curriculum for *Principles of Inheritance and Variation*, option (A) correctly satisfies the given biological statement.",
       "exam": "NEET 2022",
       "year": 2022,
       "subject": "Biology",
@@ -597,14 +237,14 @@
         "D": "1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 0**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) 0** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
     {
-      "question": "1 In a testcross involving F1 dihybrid flies, more parental \\u2013 type offspring were produced than the recombinant \\u2013 type offspring. This indicates:",
+      "question": "1 In a testcross involving F1 dihybrid flies, more parental \\\u2013 type offspring were produced than the recombinant \\\u2013 type offspring. This indicates:",
       "options": {
         "A": "The two genes are located on two different chromosomes",
         "B": "Chromosomes failed to separate during meiosis",
@@ -612,22 +252,7 @@
         "D": "Both of the characters are controlled by more than one gene"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) The two genes are located on two different chromosomes**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "2",
-      "options": {
-        "A": "One that is able to breed on its own",
-        "B": "Produced due to cross-pollination among unrelated plants",
-        "C": "Near homozygous and produces offspring of its own kind",
-        "D": "Always homozygous recessive in its genetic constitution"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) One that is able to breed on its own**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) The two genes are located on two different chromosomes** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -642,7 +267,7 @@
         "D": "Crossing-over"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Inversion**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Inversion** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -652,19 +277,19 @@
       "question": "1 Which of the following most appropriately describes hemophilia?",
       "options": {
         "A": "Recessive gene disorder",
-        "B": "X \\u2013 linked recessive gene disorder",
+        "B": "X \\\u2013 linked recessive gene disorder",
         "C": "Chromosomal disorder",
-        "D": "Dominant gene disorder Two ways to go deeper on this chapter Choose your next step \\U0001f4d6 Explore PYQ-Marked NCERT See these in NCERT \\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u2192 \\u26a1 PYQ Test Generator Generate a timed test from these PYQs \\u2014 +4/\\u22121 marking, countdown timer. Free in the app. Generate \\u2192"
+        "D": "Dominant gene disorder Two ways to go deeper on this chapter Choose your next step \\U0001f4d6 Explore PYQ-Marked NCERT See these in NCERT \\\u2014 the exact lines NEET turns into questions. Read a chapter free. Read \\u2192 \\u26a1 PYQ Test Generator Generate a timed test from these PYQs \\\u2014 +4/\\u22121 marking, countdown timer. Free in the app. Generate \\u2192"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Recessive gene disorder**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Recessive gene disorder** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
       "chapter": "Principles of Inheritance and Variation"
     },
     {
-      "question": "1 Match the following: Column \\u2013 I (a) Dominance (b) Codominance (c) Pleiotropy (d) Polygenic inheritance Column \\u2013 II (i) Many genes govern a single character (ii) In a heterozygous organism only one allele expresses itself (iii) In a heterozygous organism both alleles express themselves fully (iv)",
+      "question": "1 Match the following: Column \\\u2013 I (a) Dominance (b) Codominance (c) Pleiotropy (d) Polygenic inheritance Column \\\u2013 II (i) Many genes govern a single character (ii) In a heterozygous organism only one allele expresses itself (iii) In a heterozygous organism both alleles express themselves fully (iv)",
       "options": {
         "A": "(a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)",
         "B": "(a)-(ii), (b)-(iii), (c)-(iv), (d)-(i)",
@@ -672,22 +297,7 @@
         "D": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
-      "exam": "NEET / Popular Exam Question",
-      "year": 2023,
-      "subject": "Biology",
-      "chapter": "Principles of Inheritance and Variation"
-    },
-    {
-      "question": "1",
-      "options": {
-        "A": "1 : 2 : 1 :: Tall homozygous : Tall heterozygous : Dwarf",
-        "B": "1 : 2 : 1 :: Tall heterozygous : Tall homozygous : Dwarf",
-        "C": "3 : 1 :: Tall : Dwarf",
-        "D": "3 : 1 :: Dwarf : Tall"
-      },
-      "answer": "A",
-      "solution": "**Correct Answer: (A) 1 : 2 : 1 :: Tall homozygous : Tall heterozygous : Dwarf**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) (a)-(ii), (b)-(i), (c)-(iv), (d)-(iii)** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -696,13 +306,13 @@
     {
       "question": "following characters, which one was not considered by Mendel in his experiments on pea?",
       "options": {
-        "A": "Stem \\u2013 Tall or Dwarf",
-        "B": "Trichomes \\u2013 Glandular or non-glandular",
-        "C": "Seed \\u2013 Green or Yellow",
-        "D": "Pod \\u2013 Inflated or Constricted"
+        "A": "Stem \\\u2013 Tall or Dwarf",
+        "B": "Trichomes \\\u2013 Glandular or non-glandular",
+        "C": "Seed \\\u2013 Green or Yellow",
+        "D": "Pod \\\u2013 Inflated or Constricted"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Stem \\u2013 Tall or Dwarf**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Stem \\\u2013 Tall or Dwarf** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -717,7 +327,7 @@
         "D": "333"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 1**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) 1** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -732,7 +342,7 @@
         "D": "1870 - 1877"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 1856 - 1863**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) 1856 - 1863** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -747,7 +357,7 @@
         "D": "Phenylketonuria - Autosomal dominant trait"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Sickle cell anaemia - Autosomal recessive trait, chromosome-11**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Sickle cell anaemia - Autosomal recessive trait, chromosome-11** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -762,7 +372,7 @@
         "D": "Both sons and daughters"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Only grandchildren**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Only grandchildren** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -777,7 +387,7 @@
         "D": "T.H. Morgan : Linkage"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) XO type sex determination : Grasshopper**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) XO type sex determination : Grasshopper** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -792,7 +402,7 @@
         "D": "Wenn diagram"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Pie diagram**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Pie diagram** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -807,7 +417,7 @@
         "D": "Sutton Boveri"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) T.H. Morgan**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) T.H. Morgan** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -822,7 +432,7 @@
         "D": "Punch square"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Punnett square**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Punnett square** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -837,7 +447,7 @@
         "D": "Down's syndrome"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Turner's syndrome**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Turner's syndrome** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -852,7 +462,7 @@
         "D": "a-iv, b-ii, c-i, d-iii"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) a-ii, b-iv, c-i, d-iii**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) a-ii, b-iv, c-i, d-iii** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -867,7 +477,7 @@
         "D": "2"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 14**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) 14** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -882,7 +492,7 @@
         "D": "Sutton"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Boveri**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Boveri** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -897,7 +507,7 @@
         "D": "100%"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) 25%**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) 25%** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -912,7 +522,7 @@
         "D": "Thalassemia"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Sickle cell anaemia**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Sickle cell anaemia** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -927,7 +537,7 @@
         "D": "is not correct but (R) is correct"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Both (A) and (R) are correct and (R) is the correct explanation of (A)**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Both (A) and (R) are correct and (R) is the correct explanation of (A)** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -942,7 +552,7 @@
         "D": "more than two genes affecting a single character."
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) presence of several alleles of a single gene controlling a single crossover.**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) presence of several alleles of a single gene controlling a single crossover.** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -957,7 +567,7 @@
         "D": "Sickle cell anaemia"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Haemophilia**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Haemophilia** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -972,7 +582,7 @@
         "D": "A filled square, a filled circle and a filled diamond (affected individuals/unknown sex symbols) on a sibship line."
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A square (male) and a circle (female) joined by a single horizontal marriage/mating line.**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A square (male) and a circle (female) joined by a single horizontal marriage/mating line.** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -987,7 +597,7 @@
         "D": "(A)-(II), (B)-(IV), (C)-(III), (D)-(I)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) (A)-(II), (B)-(III), (C)-(IV), (D)-(I)** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1002,7 +612,7 @@
         "D": "Henking"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Thomas Hunt Morgan**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Thomas Hunt Morgan** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1017,7 +627,7 @@
         "D": "Thalassemia"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Down's syndrome**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Down's syndrome** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1028,11 +638,11 @@
       "options": {
         "A": "A and",
         "B": "C and",
-        "D": "A and E only",
-        "C": "B and E only"
+        "C": "B and E only",
+        "D": "A and E only"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A and**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A and** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1047,7 +657,7 @@
         "D": "BB"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) bb**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) bb** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1062,7 +672,7 @@
         "D": "A-I, B-II, C-III, D-IV"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A-II, B-III, C-IV, D-I**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A-II, B-III, C-IV, D-I** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1077,7 +687,7 @@
         "D": "A-I, B-II, C-III, D-IV"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A-II, B-I, C-III, D-IV**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A-II, B-I, C-III, D-IV** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1092,7 +702,7 @@
         "D": "Phenotypic ratio - 3 : 1"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Phenotypic ratio - 9 : 3 : 3 : 1**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Phenotypic ratio - 9 : 3 : 3 : 1** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1107,7 +717,7 @@
         "D": "Non-mendelian inheritance pattern"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Autosomal dominant pattern**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Autosomal dominant pattern** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1122,7 +732,7 @@
         "D": "D. Statement I is incorrect but Statement II is correct"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) A. Both Statement I and Statement II are correct**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) A. Both Statement I and Statement II are correct** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1137,7 +747,7 @@
         "D": "Haemophilia"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) Thalassemia**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) Thalassemia** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1152,7 +762,7 @@
         "D": "CAG"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A) GUG**\n\n**Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
+      "solution": "**Correct Answer: (A) GUG** **Explanation:** Based on NCERT Biology principles for *Principles of Inheritance and Variation*, option (A) is the accurate scientific choice.",
       "exam": "NEET / Popular Exam Question",
       "year": 2023,
       "subject": "Biology",
@@ -1167,7 +777,7 @@
         "D": "Both of the characters are controlled by more than one gene"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Option (A) is the correct answer based on NCERT Biology.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
       "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
@@ -1182,7 +792,7 @@
         "D": "(i), (ii) and (iii) are correct MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Option (A) is the correct answer based on NCERT Biology.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
       "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
@@ -1197,7 +807,7 @@
         "D": "(a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Option (A) is the correct answer based on NCERT Biology.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
       "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
@@ -1212,7 +822,7 @@
         "D": "A-I, B-II, C-III, D-IV MedicNEE Medi M MedicN MedicNEE Medic T M cNEET"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Option (A) is the correct answer based on NCERT Biology.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
       "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
@@ -1227,7 +837,7 @@
         "D": "In the normal gene $U$ is replaced by $A$. Choose the correct answer from the options given below:"
       },
       "answer": "A",
-      "solution": "**Correct Answer: (A)**\n\n**Explanation:** Option (A) is the correct answer based on NCERT Biology.",
+      "solution": "**Correct Answer: (A)** **Explanation:** Option (A) is the correct answer based on NCERT Biology.",
       "exam": "NEET High-Yield PYQ",
       "year": 2023,
       "subject": "Biology",
